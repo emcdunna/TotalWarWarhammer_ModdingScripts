@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_message_event_text>
+<root>
+<edit_uuid>fc528011-7549-4043-bb90-91986da92e14</edit_uuid>
+<field>
+<field_uuid>{71ffb120-ea8e-47d6-9bf7-d03da1b8947b}</field_uuid>
+<primary_key>1</primary_key>
+<name>key</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>50</max_length>
+</field>
+<field>
+<field_uuid>{2de3c148-5a29-4d8c-8223-f3283464707f}</field_uuid>
+<primary_key>0</primary_key>
+<name>text</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>536870910</max_length>
+</field>
+</root>

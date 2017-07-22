@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_stat_modifiers.xsd" export_time="Tue Mar 1 15:28:16 2016" revision="18" export_branch="T:/Graham.Mills_v_webteam_win10/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>ba389c32-68aa-49bb-bb4d-ddaf551d94a0</edit_uuid>
+<unit_stat_modifiers record_uuid="{939b6041-0e37-4a15-aee9-3ecd2f85efcf}" record_key="mod_armour">
+<how>add</how>
+<key>mod_armour</key>
+<stat>stat_armour</stat>
+</unit_stat_modifiers>
+<unit_stat_modifiers record_uuid="{77c605d6-ffe0-4086-9c07-b61062b559a1}" record_key="mod_charge_bonus">
+<how>add</how>
+<key>mod_charge_bonus</key>
+<stat>stat_charge_bonus</stat>
+</unit_stat_modifiers>
+<unit_stat_modifiers record_uuid="{27a1d8f0-6811-4e85-a715-e621c27ad8e8}" record_timestamp="1359558295470" record_key="mod_entity_acceleration">
+<how>mult</how>
+<key>mod_entity_acceleration</key>
+<stat>scalar_entity_acceleration_modifier</stat>
+</unit_stat_modifiers>
+<unit_stat_modifiers record_uuid="{9d39f99f-e234-4bbb-a3b5-136412da3196}" record_timestamp="1415785500960" record_key="mod_melee_attack">
+<how>add</how>
+<key>mod_melee_attack</key>
+<stat>stat_melee_attack</stat>
+</unit_stat_modifiers>
+<unit_stat_modifiers record_uuid="{7feaad7c-3a99-4ec6-8f7c-7b97ce9ddce1}" record_timestamp="1436366783994" record_key="mod_speed_scalar">
+<how>mult</how>
+<key>mod_speed_scalar</key>
+<stat>scalar_speed</stat>
+</unit_stat_modifiers>
+</dataroot>

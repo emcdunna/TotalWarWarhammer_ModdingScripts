@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ancillary_triggers.xsd" export_time="Thu Feb 9 11:18:09 2017" revision="96" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>ae970fad-ac88-4e6a-bae3-6072dd8b2144</edit_uuid>
+<ancillary_triggers record_uuid="{5aa31cdd-7406-4423-9ef6-7f73641085b0}" record_timestamp="1486639073385" record_key="wh_dlc03_trig_character_lost_battle_has_bst_warhounds">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and not context:character():won_battle() and (char_army_has_unit(context:character(), &quot;wh_dlc03_bst_inf_chaos_warhounds_1&quot;) or char_army_has_unit(context:character(), &quot;wh_dlc03_bst_inf_chaos_warhounds_0&quot;))</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_dlc03_trig_character_lost_battle_has_bst_warhounds</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{140ce79d-ecd1-48df-99ef-fb5bc0bd8b21}" record_timestamp="1486639078320" record_key="wh_dlc03_trig_character_rank_up_can_recruit_bst_spawn">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_can_recruit_unit(context:character(), &quot;wh_dlc03_bst_mon_chaos_spawn_0&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_dlc03_trig_character_rank_up_can_recruit_bst_spawn</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{0a06cab3-f71c-4142-bf12-39cfb44560d7}" record_timestamp="1486639085364" record_key="wh_dlc03_trig_character_razed_settlement_not_doe">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():faction():culture() == &quot;wh_dlc03_bst_beastmen&quot; and not context:character():has_ancillary(&quot;wh_dlc03_anc_follower_beastmen_doe&quot;)</conditions>
+<event>CharacterRazedSettlement</event>
+<trigger>wh_dlc03_trig_character_razed_settlement_not_doe</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{1cfd0f71-bfd4-4d79-b31e-62bc2b7732fb}" record_timestamp="1486639085465" record_key="wh_dlc03_trig_character_razed_settlement_not_ungor_whelp">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():battles_won() &gt; 5 and not context:character():faction():ancillary_exists(&quot;wh_dlc03_anc_follower_beastmen_ungor_whelp&quot;)</conditions>
+<event>CharacterRazedSettlement</event>
+<trigger>wh_dlc03_trig_character_razed_settlement_not_ungor_whelp</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{d51eaa83-f332-4feb-a13b-e56d5d269204}" record_timestamp="1486639086112" record_key="wh_dlc03_trig_hero_won_battle_against_men">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():won_battle() and (not context:character():model():pending_battle():defender():won_battle() and (context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_emp_empire&quot; or context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) or (not context:character():model():pending_battle():attacker():won_battle() and (context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_emp_empire&quot; or context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_brt_bretonnia&quot;))</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_dlc03_trig_hero_won_battle_against_men</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{ce20fcc2-d06c-46ef-87b4-bc57a9a6f210}" record_timestamp="1486639078393" record_key="wh_main_character_rank_up_untainted_region">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and context:character():region():majority_religion() == &quot;wh_main_religion_untainted&quot;</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_character_rank_up_untainted_region</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{02cef9f8-9b4c-476d-8fea-178c461be223}" record_timestamp="1486639086396" record_key="wh_main_trig_award_magic_item">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():won_battle() and char_is_general_with_army(context:character()) and not context:has_stolen_ancillary() and attempt_to_award_random_magical_item(context)</conditions>
+<event>TriggerPostBattleAncillaries</event>
+<trigger>wh_main_trig_award_magic_item</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{51ab8e1b-3d70-44f1-8014-c0e9e76c3228}" record_timestamp="1486639072534" record_key="wh_main_trig_character_assassinated_character">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:mission_result_success() or context:mission_result_critial_success() and not context:ability() == &quot;assist_army&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_character_assassinated_character</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{7214e7b4-1b20-49ff-8ac2-8bb47f1bde6d}" record_timestamp="1486639072496" record_key="wh_main_trig_character_assassinated_character_failure">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:mission_result_failure() and not context:ability() == &quot;assist_army&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_character_assassinated_character_failure</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{d378e69a-a4db-45f1-a6b9-3c09d444dfd7}" record_timestamp="1486639072457" record_key="wh_main_trig_character_assassinated_character_human_even">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():model():turn_number() % 2 == 0 and context:character():faction():is_human() and context:mission_result_success() or context:mission_result_critial_success() and not context:ability() == &quot;assist_army&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_character_assassinated_character_human_even</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{9b332199-d4d6-4647-a1ed-7d478706aabf}" record_timestamp="1486639072574" record_key="wh_main_trig_character_assassinated_character_human_odd">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and not (context:character():model():turn_number() % 2 == 0) and context:character():faction():is_human() and context:mission_result_success() or context:mission_result_critial_success() and not context:ability() == &quot;assist_army&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_character_assassinated_character_human_odd</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{6eb4867d-b52f-4222-a89b-42f2681eab9c}" record_timestamp="1486639072624" record_key="wh_main_trig_character_completed_battle_has_grn_trolls">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_army_has_unit(context:character(), &quot;wh_main_grn_mon_trolls&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_character_completed_battle_has_grn_trolls</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{60d444e7-73da-43f1-acb8-bcde0237822b}" record_timestamp="1486639073433" record_key="wh_main_trig_character_hindered_settlement">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:mission_result_success()</conditions>
+<event>CharacterGarrisonTargetAction</event>
+<trigger>wh_main_trig_character_hindered_settlement</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{f11136e7-343e-44e6-9a76-c1c2f07a9313}" record_timestamp="1486639085818" record_key="wh_main_trig_character_idle_in_estalia">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and context:character():faction():culture() == &quot;wh_main_emp_empire&quot; and context:character():action_points_remaining_percent() &gt; 75 and (context:character():region():name() == &quot;wh_main_estalia_bilbali&quot; or context:character():region():name() == &quot;wh_main_estalia_magritta&quot; or context:character():region():name() == &quot;wh_main_estalia_tobaro&quot;) and not context:character():has_ancillary(&quot;wh_main_anc_follower_empire_estalian_diestro&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>wh_main_trig_character_idle_in_estalia</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{b86946f0-59f4-47d9-ad16-6f27570eddb1}" record_timestamp="1486639085918" record_key="wh_main_trig_character_idle_in_the_moot">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and context:character():action_points_remaining_percent() &gt; 75 and context:character():region():name() == &quot;wh_main_stirland_the_moot&quot; and not context:character():has_ancillary(&quot;wh_main_anc_follower_halfling_fieldwarden&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>wh_main_trig_character_idle_in_the_moot</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{f719067c-966f-4e8d-9536-691148ced7c7}" record_timestamp="1486639073488" record_key="wh_main_trig_character_looted_settlement">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;))</conditions>
+<event>CharacterLootedSettlement</event>
+<trigger>wh_main_trig_character_looted_settlement</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{443538c1-beb9-41a2-a51c-eb7774fafbb0}" record_timestamp="1486639073633" record_key="wh_main_trig_character_looted_settlement_belonging_to_emp">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:garrison_residence():faction():culture() == &quot;wh_main_emp_empire&quot;</conditions>
+<event>CharacterLootedSettlement</event>
+<trigger>wh_main_trig_character_looted_settlement_belonging_to_emp</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{77dd50ad-84fb-49f0-bfce-bdcd57b61c90}" record_timestamp="1486639073681" record_key="wh_main_trig_character_looted_settlement_belonging_to_vmp">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:garrison_residence():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;</conditions>
+<event>CharacterLootedSettlement</event>
+<trigger>wh_main_trig_character_looted_settlement_belonging_to_vmp</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{0cf6dee6-df17-4f7a-84a7-ee692bd1746c}" record_timestamp="1486639073586" record_key="wh_main_trig_character_looted_settlement_large_army">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_is_general_with_army(context:character()) and context:character():military_force():unit_list():num_items() &gt; 10</conditions>
+<event>CharacterLootedSettlement</event>
+<trigger>wh_main_trig_character_looted_settlement_large_army</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{041280dd-a443-4f22-ad24-aac91e504211}" record_timestamp="1486639073531" record_key="wh_main_trig_character_looted_settlement_small_army">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_is_general_with_army(context:character()) and context:character():military_force():unit_list():num_items() &lt; 10</conditions>
+<event>CharacterLootedSettlement</event>
+<trigger>wh_main_trig_character_looted_settlement_small_army</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{d7e7545c-ec1e-4eec-aacb-d9011a3c6f91}" record_timestamp="1486639073335" record_key="wh_main_trig_character_lost_battle">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and not context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_character_lost_battle</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{9a5a4b40-2351-4c8b-9ac0-7afe77944d3c}" record_timestamp="1486639073231" record_key="wh_main_trig_character_participated_in_ambush_battle">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:pending_battle():ambush_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_character_participated_in_ambush_battle</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{14788c4b-10fb-4d26-80e2-a2c2c16f58ae}" record_timestamp="1486639073742" record_key="wh_main_trig_character_post_battle_slaughter">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_is_general_with_army(context:character())</conditions>
+<event>CharacterPostBattleSlaughter</event>
+<trigger>wh_main_trig_character_post_battle_slaughter</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{186b0055-5b20-419a-8a8a-40679b7652cd}" record_timestamp="1486639078475" record_key="wh_main_trig_character_rank_up_at_sea">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_on_sea(context:character())</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_at_sea</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{5ceffb31-53d5-449e-a280-a89a86be8216}" record_timestamp="1486639078551" record_key="wh_main_trig_character_rank_up_can_recruit_dwf_cannon">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_can_recruit_unit(context:character(), &quot;wh_main_dwf_art_cannon&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_can_recruit_dwf_cannon</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{e72a9253-b306-4485-8a4f-f0a2d5e2a745}" record_timestamp="1486639078625" record_key="wh_main_trig_character_rank_up_can_recruit_runesmith">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and context:character():region():can_recruit_agent_at_settlement(&quot;runesmith&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_can_recruit_runesmith</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{8f8287b6-ee5d-425e-94fd-09b263a68bdd}" record_timestamp="1486639078700" record_key="wh_main_trig_character_rank_up_can_recruit_spy">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and context:character():region():can_recruit_agent_at_settlement(&quot;spy&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_can_recruit_spy</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{9662ba23-aa44-4e92-a958-298ddf9fbfdf}" record_timestamp="1486639078787" record_key="wh_main_trig_character_rank_up_dwarf_beer">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():faction():trade_resource_exists(&quot;res_rom_glass&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_dwarf_beer</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{752c13d7-f859-4a4f-be22-b90ec698aa3d}" record_timestamp="1486639078872" record_key="wh_main_trig_character_rank_up_goblin_shaman">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():character_subtype(&quot;grn_goblin_great_shaman&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_goblin_shaman</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{6a89114a-c49b-4659-a8a9-5ba3f1120606}" record_timestamp="1486639078948" record_key="wh_main_trig_character_rank_up_goblin_shaman_idle_won_battles">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():character_subtype(&quot;grn_goblin_great_shaman&quot;) and context:character():turns_in_own_regions() &gt; 3 and context:character():battles_won() &gt; 2</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_goblin_shaman_idle_won_battles</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{a538f1bd-6e8b-465a-921d-3292bb7def54}" record_timestamp="1486639073792" record_key="wh_main_trig_character_rank_up_has_chs_warhounds">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_army_has_unit(context:character(), &quot;wh_main_chs_mon_chaos_warhounds_0&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_has_chs_warhounds</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{36a5bffd-1f1b-4408-be27-aaa0e732400d}" record_timestamp="1486639079020" record_key="wh_main_trig_character_rank_up_has_dwf_slayers">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_army_has_unit(context:character(), &quot;wh_main_dwf_inf_slayers&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_has_dwf_slayers</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{742ad40e-8ad5-420e-9e1f-fc9dcc8ec91e}" record_timestamp="1486639079099" record_key="wh_main_trig_character_rank_up_has_grn_night_goblins">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_army_has_unit(context:character(), &quot;wh_main_grn_inf_night_goblins&quot;) or char_army_has_unit(context:character(), &quot;wh_main_grn_inf_night_goblin_archers&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_has_grn_night_goblins</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{d6cfd373-329e-4f6e-976d-1fe077abbb1c}" record_timestamp="1486639079176" record_key="wh_main_trig_character_rank_up_has_grn_savage_orcs">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_army_has_unit(context:character(), &quot;wh_main_grn_inf_savage_orcs&quot;) or char_army_has_unit(context:character(), &quot;wh_main_grn_inf_savage_orc_arrer_boyz&quot;) or char_army_has_unit(context:character(), &quot;wh_main_grn_cav_savage_orc_boar_boyz&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_has_grn_savage_orcs</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{e1bc16c1-2cce-444b-bc43-9a454d8c385f}" record_timestamp="1486639079270" record_key="wh_main_trig_character_rank_up_has_tech_spider_worship">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_has_tech(context:character(), &quot;tech_grn_main_4_1&quot;) and context:character():battles_fought() &gt; 3</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_has_tech_spider_worship</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{e2dff7eb-24aa-4514-9829-12216f1279db}" record_timestamp="1486639079349" record_key="wh_main_trig_character_rank_up_has_tech_unholy_communion">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_has_tech(context:character(), &quot;tech_chs_main_3&quot;) and context:character():battles_fought() &gt; 3</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_has_tech_unholy_communion</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{56c5fd11-5413-4c53-ac45-40ccb51afcde}" record_timestamp="1486639079437" record_key="wh_main_trig_character_rank_up_has_tech_valayas_protection">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_has_tech(context:character(), &quot;tech_dwf_civ_6_4&quot;) and context:character():battles_fought() &gt; 3</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_has_tech_valayas_protection</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{73849ec0-ed1e-4a4b-b18c-660c1ec63525}" record_timestamp="1486639079515" record_key="wh_main_trig_character_rank_up_high">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():rank() &gt; 21</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_high</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{7d304e8f-5bfc-450b-8465-ee7366f7909e}" record_timestamp="1486639079600" record_key="wh_main_trig_character_rank_up_high_trade">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():faction():trade_value_percent() &gt; 40 and context:character():model():turn_number() &gt; 5 and context:character():model():turn_number() % 5 == 0</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_high_trade</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{c67d47d7-6cf1-4201-8fae-0a94064f5ddd}" record_timestamp="1486639079677" record_key="wh_main_trig_character_rank_up_high_trade_can_equip_smuggler">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():faction():trade_value_percent() &gt; 40 and context:character():model():turn_number() &gt; 5 and context:character():model():turn_number() % 5 == 0 and context:character():can_equip_ancillary(&quot;wh_main_anc_follower_all_men_smuggler&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_high_trade_can_equip_smuggler</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{e809c664-4d34-4769-8d45-b54fe8c89471}" record_timestamp="1486639079763" record_key="wh_main_trig_character_rank_up_idle_won_battles">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():turns_in_own_regions() &gt; 3 and context:character():battles_won() &gt; 2</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_idle_won_battles</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{2a22b034-0969-4964-9312-cf050809873e}" record_timestamp="1486639079857" record_key="wh_main_trig_character_rank_up_in_enemy_territory">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():turns_in_enemy_regions() &gt; 3</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_in_enemy_territory</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{71e80339-7739-419e-bb99-9e9a092ca847}" record_timestamp="1486639079949" record_key="wh_main_trig_character_rank_up_in_kislev">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and (context:character():region():name() == &quot;wh_main_troll_country_zoishenk&quot; or context:character():region():name() == &quot;wh_main_troll_country_erengrad&quot; or context:character():region():name() == &quot;wh_main_northern_oblast_fort_straghov&quot; or context:character():region():name() == &quot;wh_main_northern_oblast_fort_ostrosk&quot; or context:character():region():name() == &quot;wh_main_eastern_oblast_praag&quot; or context:character():region():name() == &quot;wh_main_eastern_oblast_volksgrad&quot; or context:character():region():name() == &quot;wh_main_southern_oblast_zavastra&quot; or context:character():region():name() == &quot;wh_main_southern_oblast_kislev&quot; or context:character():region():name() == &quot;wh_main_southern_oblast_fort_jakova&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_in_kislev</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{c23896fa-6f9e-4da2-b93b-02caa74bed9f}" record_timestamp="1486639080040" record_key="wh_main_trig_character_rank_up_in_marienburg">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and context:character():region():name() == &quot;wh_main_the_wasteland_marienburg&quot;</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_in_marienburg</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{6e5c1a5c-c5d5-434d-aa63-bc02ffdfa168}" record_timestamp="1486639080124" record_key="wh_main_trig_character_rank_up_in_marienburg_5_mul">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and context:character():region():name() == &quot;wh_main_the_wasteland_marienburg&quot; and context:character():model():turn_number() % 5 == 0</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_in_marienburg_5_mul</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{4ca8c116-cefc-41ba-be02-e422869db66e}" record_timestamp="1486639080203" record_key="wh_main_trig_character_rank_up_in_vampire_count_territory">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and context:character():region():owning_faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_in_vampire_count_territory</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{aa369c5b-4bb4-414e-bfa3-d8b4cee6229c}" record_timestamp="1486639080284" record_key="wh_main_trig_character_rank_up_low">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():rank() &lt; 11</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_low</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{16447e90-9224-455d-a33c-960561bb44da}" record_timestamp="1486639080364" record_key="wh_main_trig_character_rank_up_low_public_order">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and context:character():turns_in_own_regions() &gt;= 1 and context:character():region():public_order() &lt; -20</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_low_public_order</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{6b862de1-a654-4a3e-9917-47a55efb59ed}" record_timestamp="1486639080444" record_key="wh_main_trig_character_rank_up_marble">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():faction():trade_resource_exists(&quot;res_rom_marble&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_marble</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{b4d22872-4765-4aa9-854c-b829f49eee82}" record_timestamp="1486639080525" record_key="wh_main_trig_character_rank_up_medium">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():rank() &gt; 11 and context:character():rank() &lt; 21</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_medium</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{4837390f-9e01-42b0-bddb-7113174f9f29}" record_timestamp="1486639080621" record_key="wh_main_trig_character_rank_up_medium_low_public_order">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and context:character():turns_in_own_regions() &gt; 1 and context:character():region():public_order() &lt; -25 and context:character():rank() &gt; 11 and context:character():rank() &lt; 21</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_medium_low_public_order</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{caeb6f5b-60be-4649-9886-f8e66247babf}" record_timestamp="1486639084017" record_key="wh_main_trig_character_rank_up_night_goblin_shaman">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():character_subtype(&quot;grn_night_goblin_shaman&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_night_goblin_shaman</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{3e011e48-5d1c-4a14-9895-a7a96ba19df1}" record_timestamp="1486639084108" record_key="wh_main_trig_character_rank_up_not_researching">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():faction():research_queue_idle()</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_not_researching</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{18fcbbca-86c8-4367-a69e-e06f47b87d15}" record_timestamp="1486639084209" record_key="wh_main_trig_character_rank_up_raiding">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_military_force() and (context:character():military_force():active_stance() == &quot;MILITARY_FORCE_ACTIVE_STANCE_TYPE_SET_CAMP_RAIDING&quot; or context:character():military_force():active_stance() == &quot;MILITARY_FORCE_ACTIVE_STANCE_TYPE_LAND_RAID&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_raiding</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{f987a0a5-8f5c-4f3f-b2de-325b9841a4d6}" record_timestamp="1486639084327" record_key="wh_main_trig_character_rank_up_region_has_dwf_gems">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and (context:character():region():building_exists(&quot;wh_main_dwf_resource_gems_1&quot;) or context:character():region():building_exists(&quot;wh_main_dwf_resource_gems_2&quot;) or context:character():region():building_exists(&quot;wh_main_dwf_resource_gems_3&quot;) or context:character():region():building_exists(&quot;wh_main_dwf_resource_gems_4&quot;))</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_region_has_dwf_gems</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{18d01a92-d0bf-4233-aaf2-78a73371a0f1}" record_timestamp="1486639084413" record_key="wh_main_trig_character_rank_up_region_has_dwf_gold">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and (context:character():region():building_exists(&quot;wh_main_dwf_resource_gold_1&quot;) or context:character():region():building_exists(&quot;wh_main_dwf_resource_gold_2&quot;) or context:character():region():building_exists(&quot;wh_main_dwf_resource_gold_3&quot;) or context:character():region():building_exists(&quot;wh_main_dwf_resource_gold_4&quot;))</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_region_has_dwf_gold</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{6bf83f2d-9d35-4d1e-b00d-c3956e7eac0f}" record_timestamp="1486639084506" record_key="wh_main_trig_character_rank_up_region_has_dwf_iron">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and (context:character():region():building_exists(&quot;wh_main_dwf_resource_iron_1&quot;) or context:character():region():building_exists(&quot;wh_main_dwf_resource_iron_2&quot;) or context:character():region():building_exists(&quot;wh_main_dwf_resource_iron_3&quot;) or context:character():region():building_exists(&quot;wh_main_dwf_resource_iron_4&quot;))</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_region_has_dwf_iron</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{ee8e8750-b6e5-4698-9d55-6af68775eb54}" record_timestamp="1486639084592" record_key="wh_main_trig_character_rank_up_region_has_timber">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and (context:character():region():building_exists(&quot;wh_main_emp_resource_timber_1&quot;) or context:character():region():building_exists(&quot;wh_main_emp_resource_timber_2&quot;) or context:character():region():building_exists(&quot;wh_main_emp_resource_timber_3&quot;))</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_region_has_timber</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{ddb70c10-1784-425c-b9af-e6a3f32f94b1}" record_timestamp="1486639084680" record_key="wh_main_trig_character_rank_up_region_high_corruption">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and context:character():region():religion_proportion(&quot;wh_main_religion_untainted&quot;) &lt; 0.7</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_region_high_corruption</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{5df85629-42f3-460e-a075-4673994ddcee}" record_timestamp="1486639084779" record_key="wh_main_trig_character_rank_up_runesmith_alone">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():character_subtype(&quot;dwf_runesmith&quot;) and not context:character():is_embedded_in_military_force()</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_runesmith_alone</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{11b7cde4-c12a-474c-b7a1-a5ddd82a1989}" record_timestamp="1486639084881" record_key="wh_main_trig_character_rank_up_started_war">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():faction():started_war_this_turn() and context:character():offensive_battles_won() &gt; 3</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_started_war</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{f47318fe-7c54-4c81-9016-5d185c5b4cad}" record_timestamp="1486639084975" record_key="wh_main_trig_character_rank_up_tunnelling">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_military_force() and context:character():military_force():active_stance() == &quot;MILITARY_FORCE_ACTIVE_STANCE_TYPE_TUNNELING&quot;</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_tunnelling</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{626ee0b1-5349-418b-bcc1-2ad53b2b9aaa}" record_timestamp="1486639085081" record_key="wh_main_trig_character_rank_up_with_mercs">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_military_force() and context:character():military_force():contains_mercenaries()</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_with_mercs</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{e2c2c993-46c1-44dc-b2fd-ce97540555e3}" record_timestamp="1486639085175" record_key="wh_main_trig_character_rank_up_wizard_alone">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():character_type(&quot;wizard&quot;) and not context:character():is_embedded_in_military_force()</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_wizard_alone</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{7516cf87-4adc-4cb0-b868-44ebfefb210c}" record_timestamp="1486639085276" record_key="wh_main_trig_character_rank_up_won_offensive_battles">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():offensive_battles_won() &gt; 5</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_won_offensive_battles</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{6e778d24-2dac-4d3f-8611-b3a6e36ec41b}" record_timestamp="1486639085558" record_key="wh_main_trig_character_sacked_settlement">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;))</conditions>
+<event>CharacterSackedSettlement</event>
+<trigger>wh_main_trig_character_sacked_settlement</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{67b9226d-67fa-468e-8f69-9561f456fea8}" record_timestamp="1486639085643" record_key="wh_main_trig_character_sacked_settlement_losing_money">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():faction():losing_money()</conditions>
+<event>CharacterSackedSettlement</event>
+<trigger>wh_main_trig_character_sacked_settlement_losing_money</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{8dfe68d6-dfd5-4dad-9d99-ebe10533ad04}" record_timestamp="1486639085729" record_key="wh_main_trig_character_sacked_settlement_started_war">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():faction():started_war_this_turn()</conditions>
+<event>CharacterSackedSettlement</event>
+<trigger>wh_main_trig_character_sacked_settlement_started_war</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{94c8f070-e63a-4d2f-8823-22e177192ae6}" record_timestamp="1486639086020" record_key="wh_main_trig_character_turn_end_poo">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():has_region() and has_poo(context:character():region())</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>wh_main_trig_character_turn_end_poo</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{f47789ca-445d-4135-a121-8bbb0284f63b}" record_timestamp="1486639072863" record_key="wh_main_trig_character_won_battle">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_character_won_battle</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{6d9b5ce3-1b0b-4f92-8bbe-08c34e13b844}" record_timestamp="1486639073065" record_key="wh_main_trig_character_won_battle_5_mul">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():won_battle() and context:character():model():turn_number() % 5 == 0</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_character_won_battle_5_mul</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{6012bba3-3d2e-4b6e-aa85-085d5142dae3}" record_timestamp="1486639072916" record_key="wh_main_trig_character_won_battle_against_trolls">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():won_battle() and battle_featured_unit(context:pending_battle(), &quot;wh_main_grn_mon_trolls&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_character_won_battle_against_trolls</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{9330a684-19af-47c0-a4f0-cb328ab4eefb}" record_timestamp="1486639072962" record_key="wh_main_trig_character_won_battle_losing_money">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():won_battle() and context:character():faction():losing_money()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_character_won_battle_losing_money</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{809b3e46-923c-4f05-ac46-cbfe0bee3f17}" record_timestamp="1486639073176" record_key="wh_main_trig_character_won_battle_no_messenger">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():won_battle() and not context:character():has_ancillary(&quot;wh_main_anc_follower_empire_messenger&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_character_won_battle_no_messenger</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{7227859e-7552-453f-b2ec-05e23d897160}" record_timestamp="1486639073010" record_key="wh_main_trig_character_won_battle_poor">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():won_battle() and context:character():faction():treasury() &lt; 3000</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_character_won_battle_poor</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{46742d33-c9bc-48fe-bde8-997a521d7ea8}" record_timestamp="1486639073116" record_key="wh_main_trig_character_won_siege_battle">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():won_battle() and context:pending_battle():seige_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_character_won_siege_battle</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{02f24a6b-6ac7-42c0-ae6a-ac3374edbe1c}" record_timestamp="1486639072761" record_key="wh_main_trig_general_lost_battle_against_greenskins">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_is_general(context:character()) and not context:character():won_battle() and (context:pending_battle():attacker() == context:character() and context:pending_battle():defender():faction():culture() == &quot;wh_main_grn_greenskins&quot;) or (context:pending_battle():defender() == context:character() and context:pending_battle():attacker():faction():culture() == &quot;wh_main_grn_greenskins&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_against_greenskins</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{82746753-61e3-4ee2-af4f-b3db2ef595ae}" record_timestamp="1486639072807" record_key="wh_main_trig_general_lost_battle_against_vampire_counts">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_is_general(context:character()) and not context:character():won_battle() and (context:pending_battle():attacker() == context:character() and context:pending_battle():defender():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;) or (context:pending_battle():defender() == context:character() and context:pending_battle():attacker():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_against_vampire_counts</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{44392f32-26ea-42a4-a42d-e0d00343a800}" record_timestamp="1486639072717" record_key="wh_main_trig_general_won_battle_against_men">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and char_is_general(context:character()) and context:character():won_battle() and (context:pending_battle():attacker() == context:character() and (context:pending_battle():defender():faction():culture() == &quot;wh_main_emp_empire&quot; or context:pending_battle():defender():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) or (context:pending_battle():defender() == context:character() and (context:pending_battle():attacker():faction():culture() == &quot;wh_main_emp_empire&quot; or context:pending_battle():attacker():faction():culture() == &quot;wh_main_brt_bretonnia&quot;))</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_against_men</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{9f59e9a7-7104-46ed-82b5-b8c8b06b486d}" record_timestamp="1486639073279" record_key="wh_main_trig_general_won_battle_against_men_not_militiaman">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and not context:character():has_ancillary(&quot;wh_main_anc_follower_all_men_militiaman&quot;) and char_is_general(context:character()) and context:character():won_battle() and (context:pending_battle():attacker() == context:character() and (context:pending_battle():defender():faction():culture() == &quot;wh_main_emp_empire&quot; or context:pending_battle():defender():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) or (context:pending_battle():defender() == context:character() and (context:pending_battle():attacker():faction():culture() == &quot;wh_main_emp_empire&quot; or context:pending_battle():attacker():faction():culture() == &quot;wh_main_brt_bretonnia&quot;))</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_against_men_not_militiaman</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{4814b4be-c25a-45a1-95e4-fa4b311479ae}" record_timestamp="1486639086211" record_key="wh_main_trig_hero_won_battle_losing_money">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():won_battle() and context:character():faction():losing_money()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_won_battle_losing_money</trigger>
+</ancillary_triggers>
+<ancillary_triggers record_uuid="{ef52791f-ee83-4f06-ab45-e38de1146109}" record_timestamp="1486639086298" record_key="wh_main_trig_hero_won_battle_wizard">
+<conditions>(not context:character():character_subtype(&quot;dlc07_brt_green_knight&quot;)) and context:character():won_battle() and context:character():character_type(&quot;wizard&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_won_battle_wizard</trigger>
+</ancillary_triggers>
+</dataroot>

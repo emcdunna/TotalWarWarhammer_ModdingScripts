@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_composite_scenes.xsd" export_time="Tue Jan 31 17:07:59 2017" revision="22" export_branch="E:/TW/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>786eae49-6e05-4e19-8128-99036689903c</edit_uuid>
+<campaign_composite_scenes record_uuid="{8a15bd7f-3a21-4e7d-944c-181b9a2efeff}" record_timestamp="1450108450634" record_key="battle_marker_vampire_recruitement">
+<filename>composite_scene\campaign_raise_dead_battle_marker.csc</filename>
+<id>battle_marker_vampire_recruitement</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{be9f89da-f1c8-488c-a119-d04f54196931}" record_timestamp="1457350564087" record_key="beastman_tunnel_stance">
+<filename>RigidModels\campaign\composite_scene\bst_tunnel_stance.csc</filename>
+<id>beastman_tunnel_stance</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{7eec1a83-67c1-4f83-bfa7-c7d3cf6fd7fd}" record_timestamp="1468500739587" record_key="beastmen_minicampaign_intro_01">
+<filename>script\campaign\wh_dlc03_beastmen\factions\wh_dlc03_bst_mini_khazrak_herd\cscs\beastmen_army_1.csc</filename>
+<id>beastmen_minicampaign_intro_01</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{f9e080a7-f89f-4f93-97ec-050445e10687}" record_timestamp="1468500739588" record_key="beastmen_minicampaign_intro_02">
+<filename>script\campaign\wh_dlc03_beastmen\factions\wh_dlc03_bst_mini_khazrak_herd\cscs\boris_todbringer.csc</filename>
+<id>beastmen_minicampaign_intro_02</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{f7841b42-e4ad-4688-a36f-068eb93ed0f0}" record_timestamp="1447673736098" record_key="bretonnia_camp">
+<filename>RigidModels\campaign\composite_scene\encampment\bretonnia_encampment.csc</filename>
+<id>bretonnia_camp</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{90de3824-48f6-422f-980c-3c0e69277315}" record_timestamp="1448885677097" record_key="campaign_region_transform_evil">
+<filename>composite_scene/campaign_region_transform_evil.csc</filename>
+<id>campaign_region_transform_evil</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{fa11d5a9-f777-4337-90fd-6f44d49331f0}" record_timestamp="1448885677061" record_key="campaign_region_transform_good">
+<filename>composite_scene/campaign_region_transform_good.csc</filename>
+<id>campaign_region_transform_good</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{daa8682b-3696-45a1-87b6-8efa8bdd41c7}" record_timestamp="1448885677083" record_key="campaign_region_transform_vampire">
+<filename>composite_scene/campaign_region_transform_vampire.csc</filename>
+<id>campaign_region_transform_vampire</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{3ac51b3d-d136-4b60-ae5b-6b100e8eecf1}" record_timestamp="1447687188463" record_key="dwarf_camp">
+<filename>RigidModels\campaign\composite_scene\encampment\dwarf_encampment.csc</filename>
+<id>dwarf_camp</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{b0ba72ff-512f-426a-8631-de5e09d7a8bb}" record_timestamp="1447435810602" record_key="empire_camp">
+<filename>RigidModels\campaign\composite_scene\encampment\emipre_encampment.csc</filename>
+<id>empire_camp</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{a7c551e2-40be-4947-a135-8fb0f0185f1a}" record_timestamp="1485882479144" record_key="green_knight_spawn">
+<filename>composite_scene\campaign_green_knight.csc</filename>
+<id>green_knight_spawn</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{3a26a11e-3ecf-41ca-a7c1-a3c35afd68c0}" record_timestamp="1444138288353" record_key="grn_encampment">
+<filename>RigidModels\campaign\composite_scene\encampment\greenskins_raiding_camp.csc</filename>
+<id>grn_encampment</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{7801909c-ab14-4713-b32b-dcd209f5a7d6}" record_timestamp="1448897167735" record_key="lord_channelling">
+<filename>composite_scene\campaign_lord_channeling.csc</filename>
+<id>lord_channelling</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{f7b36844-2fa6-4f20-a147-e7458c85f9f5}" record_timestamp="1447688920631" record_key="norsca_encampment">
+<filename>RigidModels\campaign\composite_scene\encampment\norsca_encampment.csc</filename>
+<id>norsca_encampment</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{88d37729-7723-43a8-98c0-019094f63dd1}" record_timestamp="1447435810590" record_key="raiding_stance">
+<filename>RigidModels\campaign\composite_scene\raiding_stance.csc</filename>
+<id>raiding_stance</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{a68e3eb6-a583-4d54-9b85-43b98c2aefcd}" record_timestamp="1447687188448" record_key="raze_settlement">
+<filename>composite_scene\campaign_raze_settlement.csc</filename>
+<id>raze_settlement</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{4604a5ad-c359-423f-922d-68c6f1bf8700}" record_timestamp="1444058079079" record_key="tunnel_stance">
+<filename>RigidModels\campaign\composite_scene\tunnel_stance.csc</filename>
+<id>tunnel_stance</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{343e2814-c8ac-4475-8e8f-6dcbc28c0727}" record_timestamp="1471865774553" record_key="wh_dlc05_wef_encampment">
+<filename>RigidModels\campaign\composite_scene\encampment\woodelf_encampment.csc</filename>
+<id>wh_dlc05_wef_encampment</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{76b14aaa-0cad-4575-aae3-e5673839193b}" record_timestamp="1477041627186" record_key="wh_dlc05_wef_tunnel_stance">
+<filename>RigidModels\campaign\composite_scene\wef_tunnel_stance.csc</filename>
+<id>wh_dlc05_wef_tunnel_stance</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{c1e5a363-8241-4cc9-bdf4-8e31c6eabb66}" record_timestamp="1444923651223" record_key="winds_of_magic">
+<filename>composite_scene\winds_of_magic.csc</filename>
+<id>winds_of_magic</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{bf1aa7a8-4962-44c6-9c6f-d40cf0369115}" record_timestamp="1445532216232" record_key="winds_of_magic_3">
+<filename>composite_scene\winds_of_magic_strength3.csc</filename>
+<id>winds_of_magic_3</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{8361d7f4-3cde-40d7-bb8a-540a0e4bcca5}" record_timestamp="1445532216232" record_key="winds_of_magic_4">
+<filename>composite_scene\winds_of_magic_strength4.csc</filename>
+<id>winds_of_magic_4</id>
+</campaign_composite_scenes>
+<campaign_composite_scenes record_uuid="{cf582ea6-b9d4-4476-b67c-8403f244c42c}" record_timestamp="1445532216232" record_key="winds_of_magic_5">
+<filename>composite_scene\winds_of_magic_strength5.csc</filename>
+<id>winds_of_magic_5</id>
+</campaign_composite_scenes>
+</dataroot>

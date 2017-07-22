@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personalities_technology_research_policy_strategic_context_junctions.xsd" export_time="Fri Jan 22 10:42:03 2016" revision="2" export_branch="T:/warhammer/src" export_user="bob">
+<edit_uuid>610896ca-f2c8-47d6-b554-1a476da24f75</edit_uuid>
+<cai_personalities_technology_research_policy_strategic_context_junctions record_uuid="{6eb8ff75-a20f-43d6-a525-959e384eedfb}" record_timestamp="1453287631669" record_key="default">
+<faction_status_key></faction_status_key>
+<key>default</key>
+<strategic_context_key></strategic_context_key>
+<technology_research_policy_key>research_default</technology_research_policy_key>
+</cai_personalities_technology_research_policy_strategic_context_junctions>
+<cai_personalities_technology_research_policy_strategic_context_junctions record_uuid="{b5908bf2-cdfc-430f-bc87-047f030dcce2}" record_timestamp="1453287631670" record_key="defaultcai_strategic_context_type_last_standcai_faction_status_standard_horde">
+<faction_status_key>cai_faction_status_standard_horde</faction_status_key>
+<key>default</key>
+<strategic_context_key>cai_strategic_context_type_last_stand</strategic_context_key>
+<technology_research_policy_key>research_high_manager</technology_research_policy_key>
+</cai_personalities_technology_research_policy_strategic_context_junctions>
+<cai_personalities_technology_research_policy_strategic_context_junctions record_uuid="{81ee58ba-5367-491d-98ef-8cbdce685dd0}" record_timestamp="1453287632096" record_key="defaultcai_strategic_context_type_peace">
+<faction_status_key></faction_status_key>
+<key>default</key>
+<strategic_context_key>cai_strategic_context_type_peace</strategic_context_key>
+<technology_research_policy_key>research_default</technology_research_policy_key>
+</cai_personalities_technology_research_policy_strategic_context_junctions>
+<cai_personalities_technology_research_policy_strategic_context_junctions record_uuid="{cbf7a153-d36e-4880-85f5-ae2c233a2f71}" record_timestamp="1453287632096" record_key="defaultcai_strategic_context_type_peacecai_faction_status_hordeable_regioned">
+<faction_status_key>cai_faction_status_hordeable_regioned</faction_status_key>
+<key>default</key>
+<strategic_context_key>cai_strategic_context_type_peace</strategic_context_key>
+<technology_research_policy_key>research_default</technology_research_policy_key>
+</cai_personalities_technology_research_policy_strategic_context_junctions>
+<cai_personalities_technology_research_policy_strategic_context_junctions record_uuid="{486638e9-7d58-4455-b210-2a3909efe2a1}" record_timestamp="1453287631669" record_key="defaultcai_strategic_context_type_tensioncai_faction_status_hordeable_regioned">
+<faction_status_key>cai_faction_status_hordeable_regioned</faction_status_key>
+<key>default</key>
+<strategic_context_key>cai_strategic_context_type_tension</strategic_context_key>
+<technology_research_policy_key>research_high_manager</technology_research_policy_key>
+</cai_personalities_technology_research_policy_strategic_context_junctions>
+<cai_personalities_technology_research_policy_strategic_context_junctions record_uuid="{2f8087cc-be54-456c-a110-ed4d6becf364}" record_timestamp="1453287632098" record_key="defaultcai_strategic_context_type_total_war">
+<faction_status_key></faction_status_key>
+<key>default</key>
+<strategic_context_key>cai_strategic_context_type_total_war</strategic_context_key>
+<technology_research_policy_key>research_default</technology_research_policy_key>
+</cai_personalities_technology_research_policy_strategic_context_junctions>
+<cai_personalities_technology_research_policy_strategic_context_junctions record_uuid="{bdd0b29e-e17b-4e4d-9b0b-628ea9d1737f}" record_timestamp="1453287632097" record_key="defaultcai_strategic_context_type_war">
+<faction_status_key></faction_status_key>
+<key>default</key>
+<strategic_context_key>cai_strategic_context_type_war</strategic_context_key>
+<technology_research_policy_key>research_default</technology_research_policy_key>
+</cai_personalities_technology_research_policy_strategic_context_junctions>
+<cai_personalities_technology_research_policy_strategic_context_junctions record_uuid="{6f514736-6226-4f2b-8847-9ec74493d776}" record_timestamp="1453459319839" record_key="high_manager">
+<faction_status_key></faction_status_key>
+<key>high_manager</key>
+<strategic_context_key></strategic_context_key>
+<technology_research_policy_key>research_high_manager</technology_research_policy_key>
+</cai_personalities_technology_research_policy_strategic_context_junctions>
+<cai_personalities_technology_research_policy_strategic_context_junctions record_uuid="{d781ece7-df06-43d8-8904-dcefa82e7973}" record_timestamp="1453459319887" record_key="high_managercai_strategic_context_type_warcai_faction_status_hordeable_regioned">
+<faction_status_key>cai_faction_status_hordeable_regioned</faction_status_key>
+<key>high_manager</key>
+<strategic_context_key>cai_strategic_context_type_war</strategic_context_key>
+<technology_research_policy_key>research_war</technology_research_policy_key>
+</cai_personalities_technology_research_policy_strategic_context_junctions>
+</dataroot>

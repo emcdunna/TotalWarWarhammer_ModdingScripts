@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_autoresolver_battle_situations.xsd" export_time="Mon Aug 24 09:57:51 2015" revision="9" export_branch="C:/fetch_c/warhammer/binaries" export_user="bob">
+<edit_uuid>818dd3d2-da91-4ad6-96cd-129e696cea29</edit_uuid>
+<campaign_autoresolver_battle_situations record_uuid="{7b6d37a0-1abf-4bbf-b3b6-61595b3b02fc}" record_timestamp="1374752122377" record_key="ambush_generic">
+<battle_type>land_ambush</battle_type>
+<id>ambush_generic</id>
+<is_encampment_battle></is_encampment_battle>
+<night_battle></night_battle>
+<stance></stance>
+</campaign_autoresolver_battle_situations>
+<campaign_autoresolver_battle_situations record_uuid="{f1636aa7-76ce-4d9b-8005-1ee2715298f9}" record_timestamp="1375809460660" record_key="bridge_generic">
+<battle_type>land_bridge</battle_type>
+<id>bridge_generic</id>
+<is_encampment_battle></is_encampment_battle>
+<night_battle></night_battle>
+<stance></stance>
+</campaign_autoresolver_battle_situations>
+<campaign_autoresolver_battle_situations record_uuid="{5f888268-d1fa-4f83-a32d-70161fa546dc}" record_timestamp="1431702820888" record_key="fortify_battle">
+<battle_type></battle_type>
+<id>fortify_battle</id>
+<is_encampment_battle>true</is_encampment_battle>
+<night_battle></night_battle>
+<stance></stance>
+</campaign_autoresolver_battle_situations>
+<campaign_autoresolver_battle_situations record_uuid="{28dad229-68c8-4631-86eb-6aa63d352b71}" record_timestamp="1375809463026" record_key="generic_battle">
+<battle_type></battle_type>
+<id>generic_battle</id>
+<is_encampment_battle></is_encampment_battle>
+<night_battle></night_battle>
+<stance></stance>
+</campaign_autoresolver_battle_situations>
+<campaign_autoresolver_battle_situations record_uuid="{d7db5bbb-e6e2-4c77-83b3-01027bd5cad9}" record_timestamp="1375809460584" record_key="minor_settlement_generic_land">
+<battle_type>settlement_unfortified</battle_type>
+<id>minor_settlement_generic_land</id>
+<is_encampment_battle></is_encampment_battle>
+<night_battle></night_battle>
+<stance></stance>
+</campaign_autoresolver_battle_situations>
+<campaign_autoresolver_battle_situations record_uuid="{f585adf9-3628-4806-b7ce-0396208db8fa}" record_timestamp="1375809460487" record_key="minor_settlement_generic_naval">
+<battle_type>unfortified_port</battle_type>
+<id>minor_settlement_generic_naval</id>
+<is_encampment_battle></is_encampment_battle>
+<night_battle></night_battle>
+<stance></stance>
+</campaign_autoresolver_battle_situations>
+<campaign_autoresolver_battle_situations record_uuid="{934d52d3-1bf4-4850-80c2-3ecedc95a83e}" record_timestamp="1375809460275" record_key="settlement_generic_land">
+<battle_type>settlement_standard</battle_type>
+<id>settlement_generic_land</id>
+<is_encampment_battle></is_encampment_battle>
+<night_battle></night_battle>
+<stance></stance>
+</campaign_autoresolver_battle_situations>
+<campaign_autoresolver_battle_situations record_uuid="{f18c871b-1887-485e-8ff4-6658e7ca6071}" record_timestamp="1375809460789" record_key="settlement_generic_naval">
+<battle_type>port_assault</battle_type>
+<id>settlement_generic_naval</id>
+<is_encampment_battle></is_encampment_battle>
+<night_battle></night_battle>
+<stance></stance>
+</campaign_autoresolver_battle_situations>
+</dataroot>

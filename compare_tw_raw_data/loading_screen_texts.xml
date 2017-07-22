@@ -1,0 +1,1939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="loading_screen_texts.xsd" export_time="Wed Jun 15 17:40:22 2016" revision="24" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>ef711ac9-22f9-4e62-be26-f03d51216466</edit_uuid>
+<loading_screen_texts record_uuid="{72c75179-7949-46e5-adf9-19c1c42eee45}" record_timestamp="1452094495280" record_key="hp_battle_description_advanced_controls">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_advanced_controls</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9ca3ca71-a354-407a-9f38-0ba3e58c19ad}" record_timestamp="1452094495280" record_key="hp_battle_description_advisor">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_advisor</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{1a664348-9e5f-4a0e-a9a2-16929e104179}" record_timestamp="1452094495280" record_key="hp_battle_description_armies">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_armies</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e45e2796-aebd-460a-8470-34fe3d65fbbd}" record_timestamp="1452094495280" record_key="hp_battle_description_artillery">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_artillery</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b1142da2-17a0-4876-baba-9b35892fd3ae}" record_timestamp="1452094495280" record_key="hp_battle_description_battle_game">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_battle_game</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{1e62d455-7b95-45ae-834f-7be3b7c5a811}" record_timestamp="1452094495280" record_key="hp_battle_description_battle_interface">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_battle_interface</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{4d9ee196-6798-4454-9cc7-b8222cf23af0}" record_timestamp="1452094495280" record_key="hp_battle_description_battlefield">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_battlefield</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{7df37d26-3781-4d4e-957b-5491cc106352}" record_timestamp="1452094495280" record_key="hp_battle_description_camera_controls">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_camera_controls</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6c96f781-97bb-481d-be43-6b7fe47f887e}" record_timestamp="1452094495281" record_key="hp_battle_description_capture_points">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_capture_points</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{c8fa3491-2799-410d-9c25-ebfbaed213a1}" record_timestamp="1452094495280" record_key="hp_battle_description_deployment">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_deployment</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a9f79137-9bb4-419e-bccd-8ce5739c00eb}" record_timestamp="1452094495280" record_key="hp_battle_description_fire_at_will">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_fire_at_will</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{4d21ee75-6fb3-4394-9d04-5b65c42e42ab}" record_timestamp="1452094495281" record_key="hp_battle_description_flanking">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_flanking</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{5b29499d-d57f-4ffa-a50f-534ca3c5cd5d}" record_timestamp="1452094495281" record_key="hp_battle_description_flying_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_flying_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{8629f27c-28c4-421b-9cd2-c73778c0048a}" record_timestamp="1454083345295" record_key="hp_battle_description_formations">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_formations</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e3e5b1bd-e18d-4ab0-a251-5595c0f71cbd}" record_timestamp="1452094495281" record_key="hp_battle_description_fortifications">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_fortifications</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b6e4772e-1d3c-4e81-8936-43a329386fa5}" record_timestamp="1452094495282" record_key="hp_battle_description_game_guide">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_game_guide</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{cdb80a61-18f8-4ec0-87c9-e29794969380}" record_timestamp="1452094495281" record_key="hp_battle_description_grouping">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_grouping</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{46e2f61a-7ab1-4ae6-8030-4e14c5aeaaa7}" record_timestamp="1452094495281" record_key="hp_battle_description_infantry">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_infantry</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e8fc453a-2204-40b8-86bc-79c0b0063031}" record_timestamp="1454083343829" record_key="hp_battle_description_leadership">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_leadership</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{3a3b56a9-9ba8-423b-96be-a3fee88b8fec}" record_timestamp="1452094495278" record_key="hp_battle_description_missile_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_missile_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{31a51daf-6065-4f74-babe-c5d299ca536f}" record_timestamp="1452094495278" record_key="hp_battle_description_monsters">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_monsters</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{cf70769c-0d60-4d1f-88af-f9b661ba63af}" record_timestamp="1452094495282" record_key="hp_battle_description_mounted_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_mounted_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{3902b781-c39b-4a17-a5a9-c0e200ff49cd}" record_timestamp="1452094495281" record_key="hp_battle_description_rallying">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_rallying</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{14c09f45-db31-4ab6-bcfe-f33daf138580}" record_timestamp="1452094495281" record_key="hp_battle_description_reinforcements">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_reinforcements</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{5ede4c49-ecfa-4dd5-a43a-07751ea5ba78}" record_timestamp="1452094495281" record_key="hp_battle_description_siege_battles">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_siege_battles</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{58ce90a5-f3ba-48a2-b431-42d34517d83b}" record_timestamp="1452094495278" record_key="hp_battle_description_siege_weapons">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_siege_weapons</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{c8942adb-3d86-47b1-b9b1-b39374366b4c}" record_timestamp="1452094495278" record_key="hp_battle_description_skirmishing">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_skirmishing</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{25180092-7a28-4128-97e6-f84fde783c8c}" record_timestamp="1452094495278" record_key="hp_battle_description_tactical_map">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_tactical_map</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{77709f43-04ba-4c24-95c2-443bc27a28d0}" record_timestamp="1452094495282" record_key="hp_battle_description_terrain">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_terrain</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{88b599c0-1852-4aa8-95e8-a532f8cdc0bb}" record_timestamp="1452094495279" record_key="hp_battle_description_the_general">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_the_general</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{2582d669-429d-44ab-97ea-f8301423adb1}" record_timestamp="1452094495279" record_key="hp_battle_description_unit_abilities">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_unit_abilities</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{eef4135d-7826-4433-8989-74ac0dfe9b3a}" record_timestamp="1452094495279" record_key="hp_battle_description_unit_cards">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_unit_cards</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{8ea4fe48-17b7-45c6-a080-bd81ba016c7c}" record_timestamp="1452094495279" record_key="hp_battle_description_unit_details_panel">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_unit_details_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{52da117b-7b4b-446c-b89e-3ab6ac7a1a54}" record_timestamp="1452094495279" record_key="hp_battle_description_unit_movement">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_unit_movement</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f29f2f36-c80a-486f-8eee-848346532ace}" record_timestamp="1452094495279" record_key="hp_battle_description_unit_selection">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_unit_selection</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{d5799875-e2ab-4123-8e78-b164153fbefc}" record_timestamp="1452094495279" record_key="hp_battle_description_unit_types">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_unit_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f6005b0d-2e3f-4712-b96e-5e389e5f5494}" record_timestamp="1452094495279" record_key="hp_battle_description_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{1d1b233d-ed15-400c-8b3e-0d21acc37e3c}" record_timestamp="1452094495280" record_key="hp_battle_description_victory_points">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_victory_points</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{53b2e5c7-d9c8-4c08-a5f5-901b208d607a}" record_timestamp="1455737240377" record_key="hp_battle_description_vigour">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_vigour</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{07023826-cd1d-4bc0-a5eb-a970fcfc1c65}" record_timestamp="1452094495279" record_key="hp_battle_description_visibility">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_visibility</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e76987fd-3c46-46a4-81ed-3d59e059f406}" record_timestamp="1452094495279" record_key="hp_battle_description_weapon_types">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_weapon_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{14d68c4c-290f-4c55-a9dd-94a53d957549}" record_timestamp="1452094495280" record_key="hp_battle_description_winds_of_magic">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_winds_of_magic</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{c092af53-fd49-4e5a-a6af-fe04da6c9cdf}" record_timestamp="1454349269756" record_key="hp_battle_description_wizards">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_description_wizards</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{5dc94dd0-329c-417c-97c4-b7bab284ac15}" record_timestamp="1454968867530" record_key="hp_battle_point_1_advisor">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_advisor</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{55c1baf2-db72-4189-b034-29c0aa46779b}" record_timestamp="1454968867181" record_key="hp_battle_point_1_artillery">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_artillery</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f756bda1-be22-4b59-bc4f-8c2a15df59c5}" record_timestamp="1454968867258" record_key="hp_battle_point_1_battle_game">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_battle_game</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{67dd3fbd-95d8-4bb6-93fe-053e63972348}" record_timestamp="1454968867357" record_key="hp_battle_point_1_battle_interface">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_battle_interface</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{13f26087-abc8-486f-bf27-ac2126d4fa3e}" record_timestamp="1454968867451" record_key="hp_battle_point_1_flanking">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_flanking</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{d8ed5d9a-1457-4ec3-90e2-8569255e7c20}" record_timestamp="1454968866850" record_key="hp_battle_point_1_flying_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_flying_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{76226da6-7368-41a8-bb64-6f4fdcfbc0ab}" record_timestamp="1454968866928" record_key="hp_battle_point_1_formations">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_formations</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{785371e9-f2f5-4c7f-bc09-d2520c16da20}" record_timestamp="1454968867010" record_key="hp_battle_point_1_grouping">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_grouping</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a34b1005-0233-4ac1-8578-66c5ab926922}" record_timestamp="1454968867102" record_key="hp_battle_point_1_infantry">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_infantry</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6d4e04f9-8160-4a09-8907-77f486235102}" record_timestamp="1454968866529" record_key="hp_battle_point_1_missile_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_missile_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{1d47bacf-8541-405c-b562-0c4227e802bd}" record_timestamp="1454968866607" record_key="hp_battle_point_1_monsters">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_monsters</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{15b18a9f-3cc5-4302-b27b-62022b06fa25}" record_timestamp="1454968866685" record_key="hp_battle_point_1_mounted_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_mounted_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{86bf1f1c-96a7-4851-8eb9-391309da37e0}" record_timestamp="1454968866763" record_key="hp_battle_point_1_rallying">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_rallying</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{be047228-f382-4c9a-bdcd-07245de824cc}" record_timestamp="1454968866212" record_key="hp_battle_point_1_siege_battles">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_siege_battles</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6f03d894-9979-4ea0-928a-0e45ca40cf1f}" record_timestamp="1454968866292" record_key="hp_battle_point_1_skirmishing">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_skirmishing</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{5e568d62-4718-43f0-bdc3-a67298fff3c5}" record_timestamp="1454968866369" record_key="hp_battle_point_1_tactical_map">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_tactical_map</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{626b3c86-c0b8-4244-b728-0a413b89fa97}" record_timestamp="1454968866452" record_key="hp_battle_point_1_terrain">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_terrain</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{d3affc42-3bc6-4523-acf1-7cb061c64109}" record_timestamp="1454968865877" record_key="hp_battle_point_1_the_general">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_the_general</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{cc99cae8-c99c-4495-b50a-7881791e0d4a}" record_timestamp="1454968865961" record_key="hp_battle_point_1_unit_cards">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_unit_cards</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{1e18b339-27e0-41f8-90d5-caa688a59cc9}" record_timestamp="1454968866043" record_key="hp_battle_point_1_unit_movement">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_unit_movement</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{01ef7c4e-055b-4801-ae95-72b722b1210a}" record_timestamp="1454968866126" record_key="hp_battle_point_1_unit_selection">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_unit_selection</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9e90f634-453a-4341-a583-eabd92c20468}" record_timestamp="1454968865552" record_key="hp_battle_point_1_unit_types">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_unit_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f7f17531-dc22-4ed8-a509-5eaf3dd61626}" record_timestamp="1454968865632" record_key="hp_battle_point_1_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{bdd7bdb0-a838-491d-8071-fc8bac9ae874}" record_timestamp="1454968865713" record_key="hp_battle_point_1_visibility">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_visibility</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6402b65c-f40d-470e-b557-11d142528501}" record_timestamp="1454968865792" record_key="hp_battle_point_1_weapon_types">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_weapon_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{27c27949-af7e-4e7c-a651-c814be66c2da}" record_timestamp="1454968865221" record_key="hp_battle_point_1_winds_of_magic">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_winds_of_magic</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{22233b64-f793-4c3f-95f2-5a92d2d10e9d}" record_timestamp="1454968865308" record_key="hp_battle_point_1_wizards">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_1_wizards</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{654adf03-7a6c-4135-9772-ff81c5254ad6}" record_timestamp="1454968865388" record_key="hp_battle_point_2_advanced_controls">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_advanced_controls</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{c43cd304-4a40-45b1-90dc-85b00170864d}" record_timestamp="1454968865466" record_key="hp_battle_point_2_advisor">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_advisor</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{796c8a68-6bcc-4874-8427-44f651245ea5}" record_timestamp="1454968864906" record_key="hp_battle_point_2_armies">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_armies</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ead05b94-2398-43d1-8baa-9595dd38d7e3}" record_timestamp="1454968864984" record_key="hp_battle_point_2_battle_interface">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_battle_interface</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{202158ba-fe62-48e9-8db7-3b27ce9533a7}" record_timestamp="1454968865060" record_key="hp_battle_point_2_camera_controls">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_camera_controls</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{d113ad83-a55d-4bdd-83f0-ba16ad73231e}" record_timestamp="1454968864574" record_key="hp_battle_point_2_fire_at_will">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_fire_at_will</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a107c0cd-a274-4b8a-956b-a41185e9bb1b}" record_timestamp="1454968864652" record_key="hp_battle_point_2_flying_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_flying_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{aa5939c8-3ca7-4d2d-8705-a175d121cf1c}" record_timestamp="1454968864733" record_key="hp_battle_point_2_fortifications">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_fortifications</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{3de78170-ac77-4ec0-b89c-77a692d08170}" record_timestamp="1454968864820" record_key="hp_battle_point_2_game_guide">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_game_guide</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{3cd73bf9-53fe-41ee-ab17-dda3632e1f34}" record_timestamp="1454968864251" record_key="hp_battle_point_2_grouping">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_grouping</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f507ff77-1eff-473f-9fcd-5d29023f16b8}" record_timestamp="1454968864335" record_key="hp_battle_point_2_infantry">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_infantry</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ad7ebdf3-f849-4c14-b7c5-1e90fe88487a}" record_timestamp="1454968864411" record_key="hp_battle_point_2_leadership">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_leadership</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{7a155e0e-7a59-4529-9e99-775cb6a6c403}" record_timestamp="1454968864495" record_key="hp_battle_point_2_missile_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_missile_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{86dcb460-aa3e-4e48-b3f9-c5da2ef21529}" record_timestamp="1454968863919" record_key="hp_battle_point_2_monsters">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_monsters</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{73a75477-bc33-4c22-8525-830f2c78169d}" record_timestamp="1454968864005" record_key="hp_battle_point_2_mounted_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_mounted_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{fc8aa4c1-3fa2-4555-a454-7b5f042231a3}" record_timestamp="1454968864084" record_key="hp_battle_point_2_rallying">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_rallying</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{8275d883-8baf-41b7-beca-7825b2a55337}" record_timestamp="1454968864168" record_key="hp_battle_point_2_siege_battles">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_siege_battles</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{dfe41fa7-3211-4f5a-a986-0f72147c10b8}" record_timestamp="1454968873893" record_key="hp_battle_point_2_siege_weapons">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_siege_weapons</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6cfa3b3a-7a8f-485c-ae9e-215025a5a1dc}" record_timestamp="1454968873978" record_key="hp_battle_point_2_skirmishing">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_skirmishing</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{55beb0ae-5936-4ed3-856a-68f58a579b7f}" record_timestamp="1454968874065" record_key="hp_battle_point_2_tactical_map">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_tactical_map</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b601fef8-efb0-42f7-a6bb-18c13093c719}" record_timestamp="1454968874143" record_key="hp_battle_point_2_terrain">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_terrain</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{5ef19451-58e8-4e1c-a6f8-ffd7bfe428ff}" record_timestamp="1454968873562" record_key="hp_battle_point_2_the_general">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_the_general</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{63c4d097-063e-4163-97c2-ddb2b9002168}" record_timestamp="1454968873638" record_key="hp_battle_point_2_unit_abilities">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_unit_abilities</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{37376d0d-7818-4c5b-ba9f-d839845afa90}" record_timestamp="1454968873722" record_key="hp_battle_point_2_unit_cards">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_unit_cards</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{110cd80a-6756-45ee-8ef3-728237a820f9}" record_timestamp="1454968873804" record_key="hp_battle_point_2_unit_movement">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_unit_movement</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{8e41e1dd-464f-437e-9c2a-16e0065b32f7}" record_timestamp="1454968873197" record_key="hp_battle_point_2_unit_selection">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_unit_selection</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{bf531663-37df-49ea-a87f-09f1aa36050f}" record_timestamp="1454968873315" record_key="hp_battle_point_2_unit_types">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_unit_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e9684669-7f3d-4eb7-a7c0-f407f0f1a547}" record_timestamp="1455737240432" record_key="hp_battle_point_2_vigour">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_vigour</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{911912f7-a14f-4f91-9265-7b5a4f3c65cf}" record_timestamp="1454968873397" record_key="hp_battle_point_2_visibility">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_visibility</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{04357d82-95d5-46a3-a546-2f6f4be308f1}" record_timestamp="1454968873471" record_key="hp_battle_point_2_weapon_types">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_weapon_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f5fc31ec-1f92-428a-ab1f-7668985d419b}" record_timestamp="1454968872834" record_key="hp_battle_point_2_wizards">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_2_wizards</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6f7f8cd6-1446-4820-8d37-40ca79146066}" record_timestamp="1454968872912" record_key="hp_battle_point_3_advanced_controls">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_advanced_controls</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{58edc309-77c1-46ac-b333-3faee1be235c}" record_timestamp="1454968873009" record_key="hp_battle_point_3_advisor">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_advisor</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{aec994b6-e25e-407d-92af-5895b4a33e18}" record_timestamp="1454968873120" record_key="hp_battle_point_3_artillery">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_artillery</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{c739c9b3-f14e-4e1b-9fe3-6e20af93f87c}" record_timestamp="1454968872448" record_key="hp_battle_point_3_battle_game">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_battle_game</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{727d58a7-2ff3-48cf-a32d-48f3b82fa72f}" record_timestamp="1454968872544" record_key="hp_battle_point_3_battle_interface">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_battle_interface</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6ae37586-a66f-4341-a10e-47ac231cca58}" record_timestamp="1454968872627" record_key="hp_battle_point_3_camera_controls">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_camera_controls</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{35d5ca78-b027-4228-9507-651fbbb2f18b}" record_timestamp="1454968872735" record_key="hp_battle_point_3_deployment">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_deployment</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{608239e5-d07b-4803-b417-e323eaa06bc4}" record_timestamp="1454968872149" record_key="hp_battle_point_3_flying_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_flying_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{701a316a-9bb4-4a9e-9d3e-a0726abd46a7}" record_timestamp="1454968872270" record_key="hp_battle_point_3_fortifications">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_fortifications</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{696bb18e-ac65-4736-b6ef-730457957ede}" record_timestamp="1454968872365" record_key="hp_battle_point_3_grouping">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_grouping</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{3e3c0b72-ed2d-4e75-9b54-4bf1a8f313d0}" record_timestamp="1454968871649" record_key="hp_battle_point_3_infantry">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_infantry</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{989c044e-eb5c-435b-971f-4efd7076235d}" record_timestamp="1454968871764" record_key="hp_battle_point_3_leadership">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_leadership</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{7596c02e-feb1-4c4f-bddf-262e234b47f6}" record_timestamp="1454968871854" record_key="hp_battle_point_3_missile_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_missile_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{dbd2be98-b173-41f7-89fc-3c37471a83a7}" record_timestamp="1454968871959" record_key="hp_battle_point_3_mounted_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_mounted_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{4b919ab5-cbd3-476b-8d95-9063cf1278b2}" record_timestamp="1454968871254" record_key="hp_battle_point_3_rallying">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_rallying</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e91156a5-b800-4c3c-86aa-6eba485ce412}" record_timestamp="1454968871372" record_key="hp_battle_point_3_siege_battles">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_siege_battles</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{54555f1a-a825-41ed-9eca-3047c0900dd2}" record_timestamp="1454968871459" record_key="hp_battle_point_3_siege_weapons">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_siege_weapons</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b23e81d0-928d-4664-b391-b20767284700}" record_timestamp="1454968871561" record_key="hp_battle_point_3_tactical_map">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_tactical_map</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e23edc31-dfcb-4516-9bc6-d5c91819b93c}" record_timestamp="1454968870882" record_key="hp_battle_point_3_terrain">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_terrain</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b7be1e6c-3971-4fdb-9400-d8612b2340fd}" record_timestamp="1454968870955" record_key="hp_battle_point_3_the_general">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_the_general</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{bbb07a3a-e1cf-4650-9199-fff8a0baa039}" record_timestamp="1454968871059" record_key="hp_battle_point_3_unit_cards">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_unit_cards</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{44f8d08c-2073-4c70-b1c0-c691d9e7f2a6}" record_timestamp="1454968871159" record_key="hp_battle_point_3_unit_movement">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_unit_movement</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ff302ea8-0116-4a0e-9ac9-85b2ea9314c3}" record_timestamp="1454968870495" record_key="hp_battle_point_3_unit_selection">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_unit_selection</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{096e2d18-e83d-435f-bd52-698da137262a}" record_timestamp="1454968870593" record_key="hp_battle_point_3_unit_types">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_unit_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{64bbdf76-e259-4d69-ba3b-4303141b6a05}" record_timestamp="1454968870678" record_key="hp_battle_point_3_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{c475a0a8-7dbe-4fdb-919b-36ff2b0a9cd3}" record_timestamp="1455737240470" record_key="hp_battle_point_3_vigour">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_vigour</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{871f7e2e-47a2-4ccb-bd3d-218526757ee5}" record_timestamp="1454968870770" record_key="hp_battle_point_3_visibility">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_visibility</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{88fb8928-6ac7-479d-a951-db911a76a4b9}" record_timestamp="1454968870050" record_key="hp_battle_point_3_weapon_types">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_weapon_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{5681cb84-a897-41f6-aaba-d6d679166305}" record_timestamp="1454968870156" record_key="hp_battle_point_3_winds_of_magic">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_winds_of_magic</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{c655126a-cc91-4deb-aaf3-7c62f1d1d164}" record_timestamp="1454968870271" record_key="hp_battle_point_3_wizards">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_3_wizards</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{4ef97c92-d16f-483d-8c4b-e791a423d6ec}" record_timestamp="1454968870371" record_key="hp_battle_point_4_advanced_controls">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_advanced_controls</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6fb8e122-5250-4f49-9c58-7b11bdfe893a}" record_timestamp="1454968869683" record_key="hp_battle_point_4_armies">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_armies</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{071ac2d3-3b9c-4cc0-90fe-df4d8e097c70}" record_timestamp="1454968869768" record_key="hp_battle_point_4_battle_game">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_battle_game</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{3b8525ed-482f-42ad-b508-2b12ef2f0e4c}" record_timestamp="1454968869852" record_key="hp_battle_point_4_battle_interface">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_battle_interface</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{24a14956-c616-4ba7-98a0-60c3094f131b}" record_timestamp="1454968869962" record_key="hp_battle_point_4_camera_controls">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_camera_controls</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{fe45378a-14b0-4f7f-8ee6-7fb8ad5ce194}" record_timestamp="1454968869312" record_key="hp_battle_point_4_deployment">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_deployment</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{5784f081-ed04-4d63-ab24-ced09a6c1449}" record_timestamp="1454968869394" record_key="hp_battle_point_4_flying_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_flying_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{aaf8b06f-8312-47ec-a101-5bb596c3c0fe}" record_timestamp="1454968869504" record_key="hp_battle_point_4_fortifications">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_fortifications</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{60abc41a-aabd-48f4-bb24-20c552c05b12}" record_timestamp="1454968869605" record_key="hp_battle_point_4_infantry">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_infantry</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{7e888651-12c4-453b-afa4-b0f053371ff7}" record_timestamp="1454968868975" record_key="hp_battle_point_4_leadership">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_leadership</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{31c64310-d192-421e-9b3e-6397f8489517}" record_timestamp="1454968869066" record_key="hp_battle_point_4_missile_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_missile_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9f0917c3-948f-4211-8181-0d5ea44941fc}" record_timestamp="1454968869145" record_key="hp_battle_point_4_mounted_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_mounted_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b17ff4f3-e4f4-40dd-9daf-1af30cf080ea}" record_timestamp="1454968869220" record_key="hp_battle_point_4_siege_battles">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_siege_battles</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ab09ff8f-e6cd-47cb-b9d2-4ed9f9a8c4cb}" record_timestamp="1454968868568" record_key="hp_battle_point_4_siege_weapons">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_siege_weapons</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{fa0ac8c6-f917-4c9f-9692-46286b2ee80e}" record_timestamp="1454968874226" record_key="hp_battle_point_4_terrain">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_terrain</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{03711223-c35f-4311-936c-a59eb3bfc49b}" record_timestamp="1454968868674" record_key="hp_battle_point_4_unit_movement">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_unit_movement</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a9aa6034-70a9-441c-a58b-ce165e023f94}" record_timestamp="1454968868779" record_key="hp_battle_point_4_unit_selection">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_unit_selection</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9b86a4a7-ff0e-40f1-a727-763b9fb79986}" record_timestamp="1454968868866" record_key="hp_battle_point_4_unit_types">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_unit_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{49ebfe01-5b54-4026-9eaf-e1a944599846}" record_timestamp="1454968868198" record_key="hp_battle_point_4_visibility">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_4_visibility</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{beb97111-091c-42ca-828d-a762e32446c4}" record_timestamp="1454968868277" record_key="hp_battle_point_5_armies">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_5_armies</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e94ff5e0-fcb8-4755-849c-dd30df1177c9}" record_timestamp="1454968868373" record_key="hp_battle_point_5_battle_game">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_5_battle_game</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{3143d93c-3619-4496-a4d2-274d64e741f8}" record_timestamp="1454968868486" record_key="hp_battle_point_5_battle_interface">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_5_battle_interface</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{66b84eeb-8f61-4fd9-9699-1f7d3811cff3}" record_timestamp="1454968867872" record_key="hp_battle_point_5_camera_controls">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_5_camera_controls</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9e33a100-ba35-4dae-8e10-8c41632ee30c}" record_timestamp="1454968867943" record_key="hp_battle_point_5_fortifications">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_5_fortifications</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{3714b724-e984-4d62-9183-d78630f477e1}" record_timestamp="1454968868027" record_key="hp_battle_point_5_infantry">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_5_infantry</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{d7ae1414-e7a1-461e-a50c-5af6cbcbe920}" record_timestamp="1454968868108" record_key="hp_battle_point_5_leadership">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_5_leadership</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{5d2ce872-2201-4590-b2b3-ee482123a315}" record_timestamp="1454968867614" record_key="hp_battle_point_5_missile_units">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_5_missile_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{253ce69d-4dd0-4886-bc4a-4c2065c87508}" record_timestamp="1454968867708" record_key="hp_battle_point_5_siege_battles">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_5_siege_battles</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{47fe8a24-abf9-4b7f-8e2e-86dc1dc78ecd}" record_timestamp="1454968867791" record_key="hp_battle_point_5_siege_weapons">
+<is_battle_only>1</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_battle_point_5_siege_weapons</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{edef9f6d-87c8-48a0-b1ca-8560ac3c0e73}" record_timestamp="1452094495276" record_key="hp_campaign_description_advisor">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_advisor</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{cf95b41d-43c4-4fee-9ba4-a01ffb55c92b}" record_timestamp="1452094495276" record_key="hp_campaign_description_alliances">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_alliances</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ff6c2815-a0ba-491c-ba00-6d0fba80a581}" record_timestamp="1452094495276" record_key="hp_campaign_description_ambushes">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_ambushes</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{53deb5ed-d37f-4e3e-9448-fd522097b09e}" record_timestamp="1452094495276" record_key="hp_campaign_description_armies">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_armies</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{559b325f-af7a-459e-b741-a662dbc50459}" record_timestamp="1452094495276" record_key="hp_campaign_description_armies_at_sea">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_armies_at_sea</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{77044c8d-8022-46da-a2d1-9fb86f3573f4}" record_timestamp="1452094495276" record_key="hp_campaign_description_army_movement">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_army_movement</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{5748630a-562f-4b71-accc-4d1e11d367bf}" record_timestamp="1452094495276" record_key="hp_campaign_description_army_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_army_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e538caeb-5581-499f-b8b6-ed22522e8bb0}" record_timestamp="1452094495276" record_key="hp_campaign_description_attrition">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_attrition</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{c3640873-8c59-41d8-aa11-954c6592dad6}" record_timestamp="1452094495276" record_key="hp_campaign_description_autoresolving">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_autoresolving</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{0ba04003-4b29-469b-92fd-f91bdba782c8}" record_timestamp="1452094495276" record_key="hp_campaign_description_bankruptcy">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_bankruptcy</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{34c842ff-08f5-40bf-a9ef-824e7c51a071}" record_timestamp="1452094495276" record_key="hp_campaign_description_banners_and_marks">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_banners_and_marks</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{4038c094-036f-4e3a-a852-530826aa364a}" record_timestamp="1452094495276" record_key="hp_campaign_description_battles">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_battles</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a62c3d16-7b50-425b-87e1-095565b3a068}" record_timestamp="1465982900298" record_key="hp_campaign_description_beast_paths">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_beast_paths</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9c58a167-1676-4388-bc62-6112eec02201}" record_timestamp="1465982900298" record_key="hp_campaign_description_beastmen">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_beastmen</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f267e738-9821-458d-9340-546c3db92eaa}" record_timestamp="1465982900298" record_key="hp_campaign_description_bestial_rage">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_bestial_rage</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{07a3248a-75b0-4d05-9b00-f91f981acba3}" record_timestamp="1465982900298" record_key="hp_campaign_description_brayherds">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_brayherds</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6057793e-bd7e-411f-94da-20d66d3c0dcf}" record_timestamp="1453753336210" record_key="hp_campaign_description_building_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_building_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{791cb155-035a-4d38-b256-511a6b983d2c}" record_timestamp="1452094495276" record_key="hp_campaign_description_building_slots">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_building_slots</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ea968372-42dd-4042-a7bc-51a40219ec98}" record_timestamp="1452094495276" record_key="hp_campaign_description_building_types">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_building_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{c5cd01bd-df14-4f3a-ab76-2c12d3ea13df}" record_timestamp="1452094495276" record_key="hp_campaign_description_buildings">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_buildings</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{da522ef2-2a1b-4115-9c6d-96ccc46df2e0}" record_timestamp="1452094495276" record_key="hp_campaign_description_campaign_controls">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_campaign_controls</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{78d63d24-39c0-4a1a-a943-d3cf98ea726a}" record_timestamp="1452094495276" record_key="hp_campaign_description_campaign_game">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_campaign_game</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{d40dd3c4-ba70-47d9-89ae-3f2c9b10c7fc}" record_timestamp="1452094495276" record_key="hp_campaign_description_campaign_map">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_campaign_map</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{af60e1d8-c322-4f14-8f3c-c5f83de996c0}" record_timestamp="1452094495276" record_key="hp_campaign_description_chaos">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_chaos</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ea1490d7-cd87-43ba-8d25-130faef0daff}" record_timestamp="1452094495276" record_key="hp_campaign_description_character_details">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_character_details</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{deeab874-904e-4a61-8ff6-e47eb8b2fee6}" record_timestamp="1452094495276" record_key="hp_campaign_description_character_details_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_character_details_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{72756be6-62a0-40d0-a0db-8ff6f9d5f68a}" record_timestamp="1452094495276" record_key="hp_campaign_description_character_info_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_character_info_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{885b66f8-b6a2-4940-bd25-ffffca76831f}" record_timestamp="1452094495276" record_key="hp_campaign_description_character_skills">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_character_skills</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{8b6f641a-b656-402a-8cd7-e7879e05bbbb}" record_timestamp="1452094495276" record_key="hp_campaign_description_characters">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_characters</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{75ea2953-cf7b-4503-993b-366b516dc7af}" record_timestamp="1452094495276" record_key="hp_campaign_description_commandments">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_commandments</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{13818695-21d1-41f6-ad76-886aca29e975}" record_timestamp="1453753336172" record_key="hp_campaign_description_confederation">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_confederation</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f5b88954-a323-4f1a-b965-66f6087772ef}" record_timestamp="1452094495276" record_key="hp_campaign_description_corruption">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_corruption</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a4d7ac55-787f-438e-9cfd-31b6e084f5a3}" record_timestamp="1452094495276" record_key="hp_campaign_description_diplomacy">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_diplomacy</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{96130dbf-06b4-4a49-ac53-7f145b3a5ba6}" record_timestamp="1452094495276" record_key="hp_campaign_description_diplomacy_screen">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_diplomacy_screen</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{4824433d-fff3-4608-979e-9b219562c644}" record_timestamp="1452094495276" record_key="hp_campaign_description_drop_down_lists">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_drop_down_lists</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{66fc225e-1e8c-447d-ab64-f185812db077}" record_timestamp="1452094495276" record_key="hp_campaign_description_dwarfs">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_dwarfs</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{d8c64ec4-b3f0-493d-8b60-676b578d64e9}" record_timestamp="1452094495276" record_key="hp_campaign_description_empire">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_empire</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{fd8d0a83-c75b-4ded-8495-238acef6a30f}" record_timestamp="1452094495276" record_key="hp_campaign_description_faction_interfaces">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_faction_interfaces</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{2c9dacef-f871-46ea-b35b-d4f7aee27a86}" record_timestamp="1452094495276" record_key="hp_campaign_description_faction_management">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_faction_management</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{8411e963-6c73-4625-a459-b20d57496268}" record_timestamp="1454968849588" record_key="hp_campaign_description_faction_summary_screen">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_faction_summary_screen</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9d84b659-63ae-4087-b7f3-23f5f4ca7940}" record_timestamp="1452094495276" record_key="hp_campaign_description_factions">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_factions</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{c36f5e5a-b287-48ed-89cd-4ec862c763f9}" record_timestamp="1452094495276" record_key="hp_campaign_description_fightiness">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_fightiness</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{05eb72cd-e37a-4ca7-94a8-1ed56d7de3b7}" record_timestamp="1452094495276" record_key="hp_campaign_description_fog_of_war">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_fog_of_war</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{c39d3c75-369b-4601-b8d5-54ba841b7259}" record_timestamp="1452094495277" record_key="hp_campaign_description_fortifications">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_fortifications</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b191c24a-181a-4c41-8025-c6f30c5eab32}" record_timestamp="1452094495277" record_key="hp_campaign_description_game_guide">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_game_guide</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ddf7c27e-a9a3-44f1-91f8-919c0814bd34}" record_timestamp="1452094495277" record_key="hp_campaign_description_garrison_armies">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_garrison_armies</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f964dfed-3138-44a8-90d2-228cf1b55179}" record_timestamp="1452094495277" record_key="hp_campaign_description_greenskins">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_greenskins</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b7c65e1d-8957-45f0-85f6-0d7bb4ec34d2}" record_timestamp="1465982900244" record_key="hp_campaign_description_growth">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_growth</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{03bacfd0-41fd-4326-bfe7-acca32f04e01}" record_timestamp="1452094495277" record_key="hp_campaign_description_grudges">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_grudges</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{8882b094-fc56-49bd-b0df-8e05a4387e45}" record_timestamp="1452094495277" record_key="hp_campaign_description_hero_actions">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_hero_actions</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6c1904bd-6a16-499a-b551-5f35b965f2ed}" record_timestamp="1452094495277" record_key="hp_campaign_description_heroes">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_heroes</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{276e2d96-23d9-4adb-ac81-ae6991f0cffc}" record_timestamp="1465982900293" record_key="hp_campaign_description_horde_growth">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_horde_growth</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{0042e333-2a82-4613-aa63-4262f3c1dd94}" record_timestamp="1452094495277" record_key="hp_campaign_description_hordes">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_hordes</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ace977f0-48bd-4cc7-9e08-a8225c2b32c6}" record_timestamp="1452094495277" record_key="hp_campaign_description_income">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_income</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{0524050a-9f15-48e8-977d-96cbadcdb90f}" record_timestamp="1452094495277" record_key="hp_campaign_description_lords">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_lords</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{00cfaddf-6219-4a54-a180-dfb3df5637f7}" record_timestamp="1452094495277" record_key="hp_campaign_description_missions">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_missions</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{44abeee0-8c03-46c7-b40a-d2277d2628c4}" record_timestamp="1452094495277" record_key="hp_campaign_description_money">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_money</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{3b4952e3-9f79-46ff-b365-8ab8947ae2e8}" record_timestamp="1452094495277" record_key="hp_campaign_description_non_aggression_pacts">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_non_aggression_pacts</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{d30989c5-421e-486b-b16d-9c6a13ce05a5}" record_timestamp="1453753336212" record_key="hp_campaign_description_objectives_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_objectives_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f3169e4c-d38c-4391-a734-6392fc9f3bb8}" record_timestamp="1453327402050" record_key="hp_campaign_description_offices">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_offices</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{cba1567a-15b5-4fff-9a4b-27226bab5f57}" record_timestamp="1452094495277" record_key="hp_campaign_description_ports">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_ports</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b6d2c87b-4aeb-444a-ade1-caac9c2ebdfc}" record_timestamp="1452094495277" record_key="hp_campaign_description_post_battle_options">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_post_battle_options</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b0f5df08-e3af-4039-9d1f-4ddcfeb2798c}" record_timestamp="1452094495277" record_key="hp_campaign_description_post_battle_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_post_battle_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{19ca7be3-aa76-473d-9506-debd3296a450}" record_timestamp="1452094495277" record_key="hp_campaign_description_pre_battle_options">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_pre_battle_options</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a8c93c30-09b7-44c5-9c11-6a6dc64193b5}" record_timestamp="1452094495277" record_key="hp_campaign_description_pre_battle_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_pre_battle_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{64a2a1c6-946c-457c-9f8f-e021d76cd5de}" record_timestamp="1452094495277" record_key="hp_campaign_description_province_info_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_province_info_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6e1a2d9b-3e38-4b60-8b83-002696812d32}" record_timestamp="1452094495277" record_key="hp_campaign_description_province_management">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_province_management</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{83d3ef24-7aa0-45de-83f6-019ad27e3d08}" record_timestamp="1452094495277" record_key="hp_campaign_description_province_overview_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_province_overview_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{0ac8df24-7008-48c4-84fb-e52a78ac1793}" record_timestamp="1452094495277" record_key="hp_campaign_description_provinces">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_provinces</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9d99d8d7-cd90-45e1-a550-3edac6183866}" record_timestamp="1452094495277" record_key="hp_campaign_description_public_order">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_public_order</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{2b7e596d-90a9-4065-918d-35ba2efb923f}" record_timestamp="1454513065575" record_key="hp_campaign_description_quests">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_quests</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{066101fa-7f82-4540-a2d3-bc6d25b62ea0}" record_timestamp="1452094495277" record_key="hp_campaign_description_races">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_races</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9a610eaa-d300-464c-bed4-6de9b72254b3}" record_timestamp="1452094495277" record_key="hp_campaign_description_raiding">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_raiding</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{4205d65e-a5e3-4c47-82bd-e1c24b32d8c0}" record_timestamp="1452094495277" record_key="hp_campaign_description_raising_dead">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_raising_dead</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{29c5a49f-4a6b-46d1-a657-30891f015321}" record_timestamp="1452094495277" record_key="hp_campaign_description_raising_forces">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_raising_forces</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{26111912-3e2b-4888-9bc6-57664a4ac185}" record_timestamp="1456165331923" record_key="hp_campaign_description_razing">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>0</is_campaign_only>
+<text_lookup>hp_campaign_description_razing</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f1e101dc-0834-47e2-a8ad-095d786edf97}" record_timestamp="1452094495277" record_key="hp_campaign_description_recruit_hero_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_recruit_hero_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a8c3f397-0115-468f-b9d2-6c1dab253e32}" record_timestamp="1452094495277" record_key="hp_campaign_description_reinforcements">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_reinforcements</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e25ea605-cd7b-4bba-a10d-6947c0d9948d}" record_timestamp="1452094495277" record_key="hp_campaign_description_resources">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_resources</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b91e5362-fbdf-484e-b5f1-4da9c4c7a0a7}" record_timestamp="1452094495277" record_key="hp_campaign_description_revolts">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_revolts</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6de588be-d3d8-4b36-b522-bcbdf71f0d8a}" record_timestamp="1452094495277" record_key="hp_campaign_description_saving_and_loading">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_saving_and_loading</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{354218e8-479f-4e3d-9373-9add884f5380}" record_timestamp="1452094495277" record_key="hp_campaign_description_sea">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_sea</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{286ea7e9-d71c-4e21-9e35-148b34b354ba}" record_timestamp="1454513065642" record_key="hp_campaign_description_settlement_types">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_settlement_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{7efee9ec-f11b-416f-a2ab-d3515ee1deac}" record_timestamp="1452094495277" record_key="hp_campaign_description_settlements">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_settlements</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f5b78b8d-3bd9-41c1-9b39-4b822e569ab2}" record_timestamp="1452094495277" record_key="hp_campaign_description_siege_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_siege_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{1d888b90-1136-4c32-b68e-9386fd8b1cab}" record_timestamp="1452094495277" record_key="hp_campaign_description_siege_warfare">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_siege_warfare</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{2777434b-1701-46c1-8542-933dc81475d5}" record_timestamp="1452094495277" record_key="hp_campaign_description_siege_weapons">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_siege_weapons</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e0ea9326-370f-477c-9e57-7636ebb89b41}" record_timestamp="1452094495277" record_key="hp_campaign_description_stances">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_stances</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{dc6c70f9-910a-4c9f-bb7c-4eb1edce60fb}" record_timestamp="1452094495277" record_key="hp_campaign_description_strategic_map">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_strategic_map</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{0f25d80b-3201-43a1-b564-a105f1c26388}" record_timestamp="1452094495277" record_key="hp_campaign_description_tax">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_tax</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ac7c5988-aa07-4b72-9d86-738214b1c29f}" record_timestamp="1452094495277" record_key="hp_campaign_description_technology">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_technology</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{3d8a4605-99fb-48e5-af22-399602123998}" record_timestamp="1452094495277" record_key="hp_campaign_description_technology_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_technology_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{1680e9f9-ae9c-49fc-bf7e-35710a4b139b}" record_timestamp="1452094495277" record_key="hp_campaign_description_terrain_types">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_terrain_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{4d4ff3bf-d283-49d6-866d-ab1043b5f5f6}" record_timestamp="1452094495277" record_key="hp_campaign_description_trade">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_trade</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a9dc1101-9ab1-4d30-a8c0-954f2478386d}" record_timestamp="1452094495277" record_key="hp_campaign_description_treasury_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_treasury_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{2ef3c080-699c-4fc0-86d7-4b7cf9d75269}" record_timestamp="1452094495277" record_key="hp_campaign_description_turns">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_turns</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{d7840dca-20b4-4473-a4a5-29cce4dcada3}" record_timestamp="1452094495277" record_key="hp_campaign_description_underway">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_underway</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e05530dd-20d8-4e16-b44f-72dace99c3b3}" record_timestamp="1452094495277" record_key="hp_campaign_description_unit_cards">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_unit_cards</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b7606c3f-ac54-4209-8dca-830f0c25df69}" record_timestamp="1452094495277" record_key="hp_campaign_description_unit_exchange">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_unit_exchange</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{d2e0e5df-bbd4-446e-849e-2151210288c4}" record_timestamp="1452094495277" record_key="hp_campaign_description_unit_experience">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_unit_experience</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b4bc7edf-dd86-4072-bea4-bb909114e2f0}" record_timestamp="1452094495277" record_key="hp_campaign_description_unit_info_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_unit_info_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{408ce331-61e2-4851-8bd1-4ce557441f72}" record_timestamp="1452094495277" record_key="hp_campaign_description_unit_merging_and_disbanding">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_unit_merging_and_disbanding</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a16495c3-c983-4299-b4a7-00e9f3d7e958}" record_timestamp="1452094495277" record_key="hp_campaign_description_unit_recruitment">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_unit_recruitment</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6a2e3764-4071-4827-9e94-e9db2eddb19c}" record_timestamp="1452094495277" record_key="hp_campaign_description_unit_recruitment_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_unit_recruitment_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{bdd596b7-6969-409d-b553-23a5c9dc237b}" record_timestamp="1452094495277" record_key="hp_campaign_description_unit_types">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_unit_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{2592c552-0186-452f-953c-36ce7e10fd7e}" record_timestamp="1452094495277" record_key="hp_campaign_description_units">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{0dfce80e-adf6-453d-9fc4-fb547767324a}" record_timestamp="1452094495278" record_key="hp_campaign_description_vampires">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_vampires</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{bc458b14-60fa-45e7-ba60-41d02fee8b38}" record_timestamp="1453753336211" record_key="hp_campaign_description_vassalage">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_vassalage</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ba194a3d-e208-49dc-b6db-5169a3ad565c}" record_timestamp="1452094495278" record_key="hp_campaign_description_victory_conditions">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_victory_conditions</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{3012bcb0-b211-411e-801e-cb005fa274e2}" record_timestamp="1452094495278" record_key="hp_campaign_description_waaagh">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_waaagh</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9f0d8df4-5a7d-45a9-8ddd-262199ac9f10}" record_timestamp="1452094495278" record_key="hp_campaign_description_war">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_war</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f0c7cc33-4f11-4f7a-b2e8-b5d9375a9047}" record_timestamp="1466008822056" record_key="hp_campaign_description_warriors_of_chaos">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_warriors_of_chaos</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e220f3cb-9b86-4805-b82f-ea855faf6c9a}" record_timestamp="1452094495278" record_key="hp_campaign_description_winds_of_magic">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_winds_of_magic</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{83661aca-d2f4-4f05-a38d-5c224803ec0f}" record_timestamp="1452094495278" record_key="hp_campaign_description_zones_of_control">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_description_zones_of_control</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{78f35d82-0ec9-442d-b352-70cffd277bec}" record_timestamp="1454968893630" record_key="hp_campaign_point_1_advisor">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_advisor</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{c0931351-e0da-4a41-9b96-427c0bd36d00}" record_timestamp="1454968893702" record_key="hp_campaign_point_1_alliances">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_alliances</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6fb3698c-2303-4cea-aafe-fc7ae1adc220}" record_timestamp="1454968893785" record_key="hp_campaign_point_1_ambushes">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_ambushes</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{64a5a64f-a659-485a-a02e-935b1f42e852}" record_timestamp="1454968893862" record_key="hp_campaign_point_1_armies_at_sea">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_armies_at_sea</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{2eb5fcfb-c4e8-4f66-ab56-6e5ef1da7fea}" record_timestamp="1454968893317" record_key="hp_campaign_point_1_army_movement">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_army_movement</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{3c68c20b-ba91-48b6-9c62-c0b2e4a8da6d}" record_timestamp="1454968893399" record_key="hp_campaign_point_1_army_panel">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_army_panel</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{c45846b3-11b4-407c-b942-1a2ce00c5d8b}" record_timestamp="1454968893475" record_key="hp_campaign_point_1_attrition">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_attrition</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{dd93ebd1-d641-4c5a-a8b2-84a8bb02432d}" record_timestamp="1454968893550" record_key="hp_campaign_point_1_autoresolving">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_autoresolving</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b244ebac-124d-45c7-bc98-9123e772b8be}" record_timestamp="1454968892981" record_key="hp_campaign_point_1_battles">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_battles</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{91c0047f-1f67-4999-b31f-0cb53d860277}" record_timestamp="1465982900299" record_key="hp_campaign_point_1_beast_paths">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_beast_paths</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{cfb4acad-72fb-411c-9e7a-420a3f32c382}" record_timestamp="1465982900298" record_key="hp_campaign_point_1_beastmen">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_beastmen</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{032da98a-42f6-4fcc-a5de-8dbeff71fce6}" record_timestamp="1454968893061" record_key="hp_campaign_point_1_building_slots">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_building_slots</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{dad2b468-f4d1-4642-a4a2-c6230e227647}" record_timestamp="1454968893137" record_key="hp_campaign_point_1_buildings">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_buildings</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9a7db0c0-292f-473d-81de-56d91fad92e7}" record_timestamp="1454968893224" record_key="hp_campaign_point_1_campaign_map">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_campaign_map</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{8e7cfaa7-aedb-409c-bf2d-221379f934bc}" record_timestamp="1454968892691" record_key="hp_campaign_point_1_chaos">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_chaos</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{d49978ec-e2b5-4017-90c9-1fbb46ed3813}" record_timestamp="1454968892767" record_key="hp_campaign_point_1_character_details">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_character_details</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{05223a3e-adc4-4ee6-8e12-8be70a6e0010}" record_timestamp="1454968892841" record_key="hp_campaign_point_1_character_skills">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_character_skills</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{083d4d68-5b10-419d-ac78-54731e199177}" record_timestamp="1454968892910" record_key="hp_campaign_point_1_commandments">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_commandments</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6e26d9a9-be9a-4478-a659-2f4f1af1aac5}" record_timestamp="1454968892456" record_key="hp_campaign_point_1_corruption">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_corruption</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{0224bffc-2a1b-4ea9-9d98-d3e045e8f1a7}" record_timestamp="1454968892531" record_key="hp_campaign_point_1_diplomacy">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_diplomacy</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b5a8bc73-0067-43e8-87ba-4fadc5403a6f}" record_timestamp="1454968892603" record_key="hp_campaign_point_1_dwarfs">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_dwarfs</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f8c24e49-b20f-4b48-9f7d-50db88cb06b2}" record_timestamp="1454968892064" record_key="hp_campaign_point_1_faction_management">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_faction_management</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{7e63bea7-ba5f-47b8-b070-09e770ac7bf6}" record_timestamp="1454968892143" record_key="hp_campaign_point_1_fightiness">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_fightiness</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9ac0c27c-7d37-4bae-a71a-bc863dbde5f6}" record_timestamp="1454968892225" record_key="hp_campaign_point_1_fog_of_war">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_fog_of_war</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ca973b14-228d-4e51-87bb-5cd03c32bd85}" record_timestamp="1454968892312" record_key="hp_campaign_point_1_fortifications">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_fortifications</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{45eba271-8f4f-4058-8bb0-8f013a273054}" record_timestamp="1454968891757" record_key="hp_campaign_point_1_greenskins">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_greenskins</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{11a17abb-9b60-449b-8637-3417ffb1652e}" record_timestamp="1465982900244" record_key="hp_campaign_point_1_growth">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_growth</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{aae05a46-2913-4164-8027-b89813fd91f6}" record_timestamp="1454968891913" record_key="hp_campaign_point_1_grudges">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_grudges</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{58536988-0f1f-4074-b29b-95f2ecebcaa7}" record_timestamp="1454968891451" record_key="hp_campaign_point_1_heroes">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_heroes</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{63af6f8a-ec31-4b9f-af03-a2b4a1fc2a56}" record_timestamp="1454968891527" record_key="hp_campaign_point_1_lords">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_lords</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6bc1b355-db30-40af-b075-3419414243b1}" record_timestamp="1454968891599" record_key="hp_campaign_point_1_money">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_money</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{259e2ef4-ba32-44c0-b3f4-a69e89385422}" record_timestamp="1454968891678" record_key="hp_campaign_point_1_ports">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_ports</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e853949f-a5a6-40d5-95e6-4a2d10088eb0}" record_timestamp="1454968891136" record_key="hp_campaign_point_1_province_management">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_province_management</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6bdbc6db-c61b-40ea-8b9a-b32b30c587f3}" record_timestamp="1454968891213" record_key="hp_campaign_point_1_public_order">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_public_order</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ae6ae134-e0c8-4216-9e77-ffe4b518720e}" record_timestamp="1454968891299" record_key="hp_campaign_point_1_quests">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_quests</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{abffd71c-8c98-4993-a5c5-4fe4ac86ec13}" record_timestamp="1454968891380" record_key="hp_campaign_point_1_races">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_races</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{de808026-f262-44c8-96b6-a54ebe34087d}" record_timestamp="1454968890836" record_key="hp_campaign_point_1_raiding">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_raiding</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{2b6ca95f-d3b7-45ca-9501-634718a5b239}" record_timestamp="1454968890914" record_key="hp_campaign_point_1_reinforcements">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_reinforcements</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{85255cf0-b11a-4659-af78-fcf3137c7b3d}" record_timestamp="1454968890984" record_key="hp_campaign_point_1_revolts">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_revolts</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b4d89aaa-90a3-41a9-8169-bcdf5a2e87f8}" record_timestamp="1454968891059" record_key="hp_campaign_point_1_saving_and_loading">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_saving_and_loading</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{1b75c1c3-0b19-4643-848b-037bfc4fa4d4}" record_timestamp="1454968890531" record_key="hp_campaign_point_1_settlement_types">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_settlement_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ca5023a8-a180-475c-b6a6-532932e4221f}" record_timestamp="1454968890609" record_key="hp_campaign_point_1_siege_warfare">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_siege_warfare</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{845429ab-a992-46a7-a444-8b82be4d9142}" record_timestamp="1454968890691" record_key="hp_campaign_point_1_stances">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_stances</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f4b17ad0-d3b3-4ab2-ab11-5b5ce2049048}" record_timestamp="1454968890768" record_key="hp_campaign_point_1_strategic_map">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_strategic_map</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{5d181620-a291-4956-90fc-5f3ee15fbd47}" record_timestamp="1454968890220" record_key="hp_campaign_point_1_tax">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_tax</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{8118aeb4-e8ab-4207-83c0-f8347b189939}" record_timestamp="1454968890311" record_key="hp_campaign_point_1_terrain_types">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_terrain_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{025b0d55-7f48-453b-a911-01efb4a959eb}" record_timestamp="1454968890388" record_key="hp_campaign_point_1_trade">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_trade</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{0048aec8-92bf-4dbd-afa4-b5e3de679826}" record_timestamp="1454968890460" record_key="hp_campaign_point_1_underway">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_underway</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{22e0d42f-3be8-4291-9574-31244cabd4e9}" record_timestamp="1454968889915" record_key="hp_campaign_point_1_unit_experience">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_unit_experience</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{25aeccb8-dbe5-440c-b474-8e27ddb044c6}" record_timestamp="1454968889994" record_key="hp_campaign_point_1_unit_merging_and_disbanding">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_unit_merging_and_disbanding</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{1e28e590-3146-41ca-8332-bfb5c3c1d819}" record_timestamp="1454968890070" record_key="hp_campaign_point_1_unit_recruitment">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_unit_recruitment</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{67f0c066-224f-4428-83a0-65596c37a1b6}" record_timestamp="1454968890146" record_key="hp_campaign_point_1_units">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_units</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{db4ad396-c1aa-4bf2-9346-6bd36b5e621b}" record_timestamp="1454968889589" record_key="hp_campaign_point_1_vampires">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_vampires</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{bdeef336-e688-48aa-97a5-d8d569d69a73}" record_timestamp="1466008822057" record_key="hp_campaign_point_1_warriors_of_chaos">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_warriors_of_chaos</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{7da91c09-020d-48a4-8f1b-e4638f050db1}" record_timestamp="1454968889683" record_key="hp_campaign_point_1_winds_of_magic">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_winds_of_magic</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{1db5aab4-ddd7-4723-a036-3ba11dd5f246}" record_timestamp="1454968889761" record_key="hp_campaign_point_1_zones_of_control">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_1_zones_of_control</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f91e5cae-b5d7-4ef3-9599-fd3ed8ce50fd}" record_timestamp="1454968889839" record_key="hp_campaign_point_2_advisor">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_advisor</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ec565491-8184-4cdb-8226-9cf604603c8f}" record_timestamp="1454968897038" record_key="hp_campaign_point_2_alliances">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_alliances</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6857701c-43b2-4881-ab8d-70abf2bb8863}" record_timestamp="1454968889366" record_key="hp_campaign_point_2_ambushes">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_ambushes</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{48d1136f-5bd7-4ba9-95f9-49863ce3e580}" record_timestamp="1454968889439" record_key="hp_campaign_point_2_armies_at_sea">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_armies_at_sea</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{0688c025-f175-432c-a5b4-316c72f3306f}" record_timestamp="1454968889512" record_key="hp_campaign_point_2_army_movement">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_army_movement</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a86190bd-ac0d-4c97-966f-1083d9719b73}" record_timestamp="1454968896735" record_key="hp_campaign_point_2_bankruptcy">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_bankruptcy</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f9fa7c76-2726-4ff8-a3e4-848432df99ef}" record_timestamp="1454968896815" record_key="hp_campaign_point_2_banners_and_marks">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_banners_and_marks</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{595e0033-2fd8-431b-a959-b22788322599}" record_timestamp="1465982900298" record_key="hp_campaign_point_2_beastmen">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_beastmen</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{4593e90d-d460-425a-9c5f-70a51cc8bff8}" record_timestamp="1465982900299" record_key="hp_campaign_point_2_bestial_rage">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_bestial_rage</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a0216b5b-1535-4640-b12c-8dccdb320395}" record_timestamp="1454968896892" record_key="hp_campaign_point_2_building_slots">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_building_slots</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9f6969b6-e59c-4acc-9fbf-9d0b757b2376}" record_timestamp="1454968896969" record_key="hp_campaign_point_2_building_types">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_building_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{cb571e9a-ae7f-4b06-a373-4c327a767a22}" record_timestamp="1454968896402" record_key="hp_campaign_point_2_buildings">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_buildings</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{af8071a7-b0cb-42be-9334-36027d9efc52}" record_timestamp="1454968896480" record_key="hp_campaign_point_2_campaign_game">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_campaign_game</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a9537caf-8c1a-4794-b789-eaa7b50aee07}" record_timestamp="1454968896565" record_key="hp_campaign_point_2_campaign_map">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_campaign_map</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{1b3d14b2-2277-4ce3-865b-9a2712c96e3f}" record_timestamp="1454968896650" record_key="hp_campaign_point_2_chaos">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_chaos</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{137c53af-2c4d-4ca5-aeba-6e0242950a6b}" record_timestamp="1454968896082" record_key="hp_campaign_point_2_character_details">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_character_details</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{52b54043-bc08-45e2-8df1-60d57ea0a605}" record_timestamp="1454968896162" record_key="hp_campaign_point_2_characters">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_characters</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9fa97978-fbda-4b9f-9cc6-0412c6f4846a}" record_timestamp="1454968896235" record_key="hp_campaign_point_2_confederation">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_confederation</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9560d138-baea-41b6-885d-69d49322eb24}" record_timestamp="1454968896319" record_key="hp_campaign_point_2_faction_interfaces">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_faction_interfaces</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b9ae87e3-6a38-4f58-a527-fe11b7ac065a}" record_timestamp="1454968895756" record_key="hp_campaign_point_2_faction_management">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_faction_management</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{bb8bc612-b067-49d6-8408-ccf8052a713a}" record_timestamp="1454968895841" record_key="hp_campaign_point_2_fightiness">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_fightiness</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{6c824e65-6428-4438-bac4-31fdadfbcd92}" record_timestamp="1454968895912" record_key="hp_campaign_point_2_fog_of_war">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_fog_of_war</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{97e61a5e-4e19-4654-8976-441e9c2ca5e4}" record_timestamp="1454968895997" record_key="hp_campaign_point_2_game_guide">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_game_guide</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{5d30b8c7-0f5c-48c9-bea5-43dd4a510ecc}" record_timestamp="1454968895449" record_key="hp_campaign_point_2_garrison_armies">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_garrison_armies</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{7a4ed6dc-3f0f-4abf-846d-f9c123d39821}" record_timestamp="1454968895520" record_key="hp_campaign_point_2_greenskins">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_greenskins</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{dde0b683-41c9-4a29-9e4b-38302eb3fda7}" record_timestamp="1454968895605" record_key="hp_campaign_point_2_grudges">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_grudges</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{d65da422-0e39-4b2a-883c-96232ae47ae2}" record_timestamp="1454968895682" record_key="hp_campaign_point_2_hero_actions">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_hero_actions</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{14627af1-3d19-4984-b089-7d0e37f67b6e}" record_timestamp="1454968895138" record_key="hp_campaign_point_2_heroes">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_heroes</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ba142192-15a1-43ec-9e86-eca63164fe9e}" record_timestamp="1454968895210" record_key="hp_campaign_point_2_hordes">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_hordes</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{95bb47f9-e681-4413-bed9-91bea4aec9a9}" record_timestamp="1454968895295" record_key="hp_campaign_point_2_money">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_money</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9712728e-6eb3-406f-bb38-da0c749f4878}" record_timestamp="1454968895377" record_key="hp_campaign_point_2_non_aggression_pacts">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_non_aggression_pacts</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{b78c8f24-f1d1-42ab-a3cb-748485bc9a92}" record_timestamp="1454968894831" record_key="hp_campaign_point_2_provinces">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_provinces</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a947b173-ee16-4b6e-9ad2-95772fb2e7b9}" record_timestamp="1454968894904" record_key="hp_campaign_point_2_raiding">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_raiding</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{5f1942cf-3d81-42ee-9662-61db1fe99b32}" record_timestamp="1454968894978" record_key="hp_campaign_point_2_saving_and_loading">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_saving_and_loading</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a9829da4-c0bb-4cd8-8017-c3067e4038dd}" record_timestamp="1454968895056" record_key="hp_campaign_point_2_sea">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_sea</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a1b0eb6f-07c7-48b8-adc1-db366b687a6a}" record_timestamp="1454968894508" record_key="hp_campaign_point_2_settlement_types">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_settlement_types</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{bb4949ed-1c71-4fcf-a047-d24f55ce87dc}" record_timestamp="1454968894590" record_key="hp_campaign_point_2_siege_warfare">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_siege_warfare</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{0f1fcf8d-9076-4869-accd-c551d3bc5311}" record_timestamp="1454968894663" record_key="hp_campaign_point_2_tax">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_tax</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{d4d3f53c-a94a-4ccf-8207-ab8bbfc750d8}" record_timestamp="1454968894741" record_key="hp_campaign_point_2_technology">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_technology</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ce028864-52d0-4d94-9086-19087ed362c0}" record_timestamp="1454968894189" record_key="hp_campaign_point_2_trade">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_trade</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{4907aec4-6dd2-4bda-9b3d-aba522f46cee}" record_timestamp="1454968894281" record_key="hp_campaign_point_2_unit_cards">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_unit_cards</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{7e8c0a3a-14a3-4a54-9f01-5bcc97a84ae4}" record_timestamp="1454968894354" record_key="hp_campaign_point_2_unit_experience">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_unit_experience</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{ebac3af1-b681-47f4-a1e3-9017c200822a}" record_timestamp="1454968894425" record_key="hp_campaign_point_2_vampires">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_vampires</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{a346e4ad-0a4d-474d-902c-9be5ae54f59e}" record_timestamp="1454968893944" record_key="hp_campaign_point_2_war">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_war</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{08d82b0f-0bae-4a38-b117-fa43c5c9ee14}" record_timestamp="1466008822055" record_key="hp_campaign_point_2_warriors_of_chaos">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_warriors_of_chaos</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{5d067d7e-f84b-4ab6-a88a-85950950bf70}" record_timestamp="1454968894028" record_key="hp_campaign_point_2_winds_of_magic">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_winds_of_magic</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{19fea694-bffb-415b-ad84-b19fae356f14}" record_timestamp="1454968894105" record_key="hp_campaign_point_2_zones_of_control">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_2_zones_of_control</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e4e09194-56d3-4519-94c9-d3240d285ae0}" record_timestamp="1465982900298" record_key="hp_campaign_point_3_beastmen">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_3_beastmen</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{3790a120-07c7-462f-bef1-ff907cfafbba}" record_timestamp="1465982900293" record_key="hp_campaign_point_3_growth">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_3_growth</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{e585956c-8779-45d1-9db2-39808a10a6c0}" record_timestamp="1465982900294" record_key="hp_campaign_point_3_horde_growth">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_3_horde_growth</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{449a8027-704e-4fd6-9430-f1a7183da419}" record_timestamp="1466008822056" record_key="hp_campaign_point_3_warriors_of_chaos">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_3_warriors_of_chaos</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{f2549e55-5711-4ca5-bb99-5d4a0c9f8ee3}" record_timestamp="1465982900300" record_key="hp_campaign_point_4_beast_paths">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_4_beast_paths</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{cdd6faaf-ae2e-454f-aa3d-3babe4ceb88d}" record_timestamp="1465982900299" record_key="hp_campaign_point_4_beastmen">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_4_beastmen</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{9fba1d6e-83fd-4a15-bd6e-67d13ee6b0be}" record_timestamp="1465982900299" record_key="hp_campaign_point_4_underway">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_4_underway</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{0651e0ca-fab6-4e0b-9d56-cd3588870d8c}" record_timestamp="1466008822058" record_key="hp_campaign_point_4_warriors_of_chaos">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_4_warriors_of_chaos</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{8707b971-fb87-421f-9de6-348f9c44c6a8}" record_timestamp="1465982900299" record_key="hp_campaign_point_5_beastmen">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_5_beastmen</text_lookup>
+</loading_screen_texts>
+<loading_screen_texts record_uuid="{4f76dad5-1910-4200-8bcb-162ffab6964c}" record_timestamp="1465982900244" record_key="hp_campaign_point_5_growth">
+<is_battle_only>0</is_battle_only>
+<is_campaign_only>1</is_campaign_only>
+<text_lookup>hp_campaign_point_5_growth</text_lookup>
+</loading_screen_texts>
+</dataroot>

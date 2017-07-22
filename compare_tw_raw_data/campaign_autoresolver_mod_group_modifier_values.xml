@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_autoresolver_mod_group_modifier_values.xsd" export_time="Wed Nov 16 19:18:36 2016" revision="17" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>4d5fb43a-86a5-4220-830b-c11a6536d42a</edit_uuid>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{bef74010-b163-40fe-a26c-c3d30c5da058}" record_timestamp="1432112523151" record_key="180">
+<group_id>wh_general_lvl_kps_multiplier_bonus</group_id>
+<id>180</id>
+<modification_id>melee_kps_multi_all_classes</modification_id>
+<value>0.02</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{e5646ccd-87b2-4c38-a0ac-56c2def9d951}" record_timestamp="1432112523168" record_key="187">
+<group_id>wh_general_lvl_kps_multiplier_bonus</group_id>
+<id>187</id>
+<modification_id>missile_kps_multi_all_classes</modification_id>
+<value>0.02</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{61ac6838-1a53-4e12-99b5-100863664662}" record_timestamp="1432112523115" record_key="191">
+<group_id>wh_moderate_kps_multiplier_bonus</group_id>
+<id>191</id>
+<modification_id>melee_kps_multi_all_classes</modification_id>
+<value>0.075</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{c6c6460c-ed8d-47a9-aaad-a3c0ad32b681}" record_timestamp="1432112523133" record_key="199">
+<group_id>wh_moderate_kps_multiplier_bonus</group_id>
+<id>199</id>
+<modification_id>missile_kps_multi_all_classes</modification_id>
+<value>0.075</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{b4a809b4-b3ec-4009-b4da-5debde18826f}" record_timestamp="1432112523080" record_key="209">
+<group_id>wh_no_retreat</group_id>
+<id>209</id>
+<modification_id>retreat_all_classes</modification_id>
+<value>-1</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{a05d890b-bd22-484c-b642-7817338f8896}" record_timestamp="1479323916016" record_key="214">
+<group_id>wh_siege_eq_additive_bonus</group_id>
+<id>214</id>
+<modification_id>melee_kps_additive_all_classes</modification_id>
+<value>0.001</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{8a236596-fa9c-4344-83b8-3d554658291c}" record_timestamp="1479323916077" record_key="223">
+<group_id>wh_siege_eq_multiplier_bonus</group_id>
+<id>223</id>
+<modification_id>melee_kps_multi_all_classes</modification_id>
+<value>0.1</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{ba85cd5d-a89f-4e82-b19c-eb32beb5062b}" record_timestamp="1432112523062" record_key="228">
+<group_id>wh_strong_kps_multiplier_bonus</group_id>
+<id>228</id>
+<modification_id>melee_kps_multi_all_classes</modification_id>
+<value>0.15</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{ea9e8103-9559-48f7-8e29-a2589b720a5e}" record_timestamp="1432112523029" record_key="230">
+<group_id>wh_strong_kps_multiplier_bonus</group_id>
+<id>230</id>
+<modification_id>missile_kps_multi_all_classes</modification_id>
+<value>0.15</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{f60e06e5-69f3-4d7c-8ba7-08d4a730c99b}" record_timestamp="1434550109959" record_key="236">
+<group_id>wh_spell_small_kps_multiplier_bonus</group_id>
+<id>236</id>
+<modification_id>melee_kps_multi_all_classes</modification_id>
+<value>0.04</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{0e5efe7c-970a-4923-b2bf-3711e6430a7f}" record_timestamp="1434550109942" record_key="241">
+<group_id>wh_spell_small_kps_multiplier_bonus</group_id>
+<id>241</id>
+<modification_id>missile_kps_multi_all_classes</modification_id>
+<value>0.04</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{8e2c60df-354c-4755-a8fe-c8ac9cae3239}" record_timestamp="1434550109951" record_key="247">
+<group_id>wh_spell_moderate_kps_multiplier_bonus</group_id>
+<id>247</id>
+<modification_id>melee_kps_multi_all_classes</modification_id>
+<value>0.09</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{b9b408df-d8b0-4c33-b666-08d8ae06b2ff}" record_timestamp="1434550109921" record_key="251">
+<group_id>wh_spell_moderate_kps_multiplier_bonus</group_id>
+<id>251</id>
+<modification_id>missile_kps_multi_all_classes</modification_id>
+<value>0.09</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{d1f9d5e9-8678-4826-8094-7f7b83a3e79d}" record_timestamp="1434550109934" record_key="258">
+<group_id>wh_spell_strong_kps_multiplier_bonus</group_id>
+<id>258</id>
+<modification_id>melee_kps_multi_all_classes</modification_id>
+<value>0.17</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{b5f84e9e-0231-40db-809f-8533c895750e}" record_timestamp="1434550109868" record_key="264">
+<group_id>wh_spell_strong_kps_multiplier_bonus</group_id>
+<id>264</id>
+<modification_id>missile_kps_multi_all_classes</modification_id>
+<value>0.17</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{ed36db02-61cc-4299-85a0-ee1987815b33}" record_timestamp="1434550109906" record_key="273">
+<group_id>wh_spell_small_kps_multiplier_penalty</group_id>
+<id>273</id>
+<modification_id>melee_kps_multi_all_classes</modification_id>
+<value>-0.04</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{6369dfd3-794e-4ab2-adae-c0a0767db8ac}" record_timestamp="1434550109993" record_key="281">
+<group_id>wh_spell_small_kps_multiplier_penalty</group_id>
+<id>281</id>
+<modification_id>missile_kps_multi_all_classes</modification_id>
+<value>-0.04</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{73b59f4a-674e-415b-81ae-399271439a03}" record_timestamp="1434550109888" record_key="285">
+<group_id>wh_spell_moderate_kps_multiplier_penalty</group_id>
+<id>285</id>
+<modification_id>melee_kps_multi_all_classes</modification_id>
+<value>-0.08</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{5055b254-d0fa-4978-ba47-28458ef13198}" record_timestamp="1434550109976" record_key="294">
+<group_id>wh_spell_moderate_kps_multiplier_penalty</group_id>
+<id>294</id>
+<modification_id>missile_kps_multi_all_classes</modification_id>
+<value>-0.08</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{cd3a441c-5aee-4e8d-bb42-f965d25694e6}" record_timestamp="1434550109984" record_key="303">
+<group_id>wh_spell_strong_kps_multiplier_penalty</group_id>
+<id>303</id>
+<modification_id>melee_kps_multi_all_classes</modification_id>
+<value>-0.17</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{c31ec5ab-1291-406c-8493-db00ca91184d}" record_timestamp="1434550109967" record_key="306">
+<group_id>wh_spell_strong_kps_multiplier_penalty</group_id>
+<id>306</id>
+<modification_id>missile_kps_multi_all_classes</modification_id>
+<value>-0.17</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{32063fe7-efbf-4cfd-8516-8c0a36082f58}" record_timestamp="1461152306543" record_key="310">
+<group_id>wh_global_ranged_kps_penalty</group_id>
+<id>310</id>
+<modification_id>cav_mis_missile_kps_multi</modification_id>
+<value>0</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{bd28a29a-4c0d-4e7d-baf1-a308554750cd}" record_timestamp="1461152306542" record_key="315">
+<group_id>wh_global_ranged_kps_penalty</group_id>
+<id>315</id>
+<modification_id>inf_mis_missile_kps_multi</modification_id>
+<value>0</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{68455aef-825e-4816-88ce-66fd846040aa}" record_timestamp="1479320658089" record_key="321">
+<group_id>wh_settlement_human_v_ai_penalty</group_id>
+<id>321</id>
+<modification_id>melee_kps_multi_all_classes</modification_id>
+<value>-0.15</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{68befc72-f7c3-4fb1-8e07-f77e1c70e48e}" record_timestamp="1479320658089" record_key="329">
+<group_id>wh_settlement_human_v_ai_penalty</group_id>
+<id>329</id>
+<modification_id>missile_kps_multi_all_classes</modification_id>
+<value>-0.15</value>
+</campaign_autoresolver_mod_group_modifier_values>
+<campaign_autoresolver_mod_group_modifier_values record_uuid="{1250ff2d-2c5d-4f41-bda1-e491b72d1c0c}" record_timestamp="1479323916013" record_key="337">
+<group_id>wh_siege_eq_multiplier_ai_v_human_bonus</group_id>
+<id>337</id>
+<modification_id>melee_kps_multi_all_classes</modification_id>
+<value>0.1</value>
+</campaign_autoresolver_mod_group_modifier_values>
+</dataroot>

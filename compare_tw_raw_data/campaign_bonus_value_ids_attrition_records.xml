@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_attrition_records.xsd" export_time="Mon Aug 24 09:57:51 2015" revision="6" export_branch="C:/fetch_c/warhammer/binaries" export_user="bob">
+<edit_uuid>cf2684de-8bf8-4cc9-8c94-a4c6146437e0</edit_uuid>
+<campaign_bonus_value_ids_attrition_records record_uuid="{e1eff680-a747-42ad-98e7-ea9bd6a94446}" record_timestamp="1431528859269" record_key="active">
+<key>active</key>
+<notes>Is this attrition record active, used at region bonuses</notes>
+</campaign_bonus_value_ids_attrition_records>
+<campaign_bonus_value_ids_attrition_records record_uuid="{e9fcb542-407d-4382-ac6f-5185ca34aabd}" record_timestamp="1425551074947" record_key="damage_mod">
+<key>damage_mod</key>
+<notes>% mod of damage caused by attrition, used at force bonuses</notes>
+</campaign_bonus_value_ids_attrition_records>
+<campaign_bonus_value_ids_attrition_records record_uuid="{e1225d87-b8a9-4f6c-a4d1-8b580456ec98}" record_timestamp="1423673851797" record_key="immunity">
+<key>immunity</key>
+<notes>Immune to this attrition record, used at force bonuses</notes>
+</campaign_bonus_value_ids_attrition_records>
+</dataroot>

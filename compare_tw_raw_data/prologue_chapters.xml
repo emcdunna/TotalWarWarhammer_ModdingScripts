@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="prologue_chapters.xsd" export_time="Thu Feb 25 12:58:55 2016" revision="20" export_branch="T:/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>d6e1cd90-dee6-4952-ac14-541aaf8fb030</edit_uuid>
+<prologue_chapters record_uuid="{4b9420fc-a006-42b2-b874-6908aaca0760}" record_timestamp="1443091572732" record_key="1">
+<banner>UI/prologue/fe_banner_01.png</banner>
+<battle_key>wh_main_empire_intro</battle_key>
+<campaign_faction_key></campaign_faction_key>
+<campaign_key></campaign_key>
+<description state="IGNORED" last_approved_text="It is 316BC, and the fledgling Roman Republic is engaged in a long and deadly war against the Samnite peoples of the hills and mountains of central Italy. The campaigning season has just opened and in a bid to gain the initiative both consuls, Laenas and Rutilus, have marched out at the head of a combined army.\n\nNews has just reached Rome that this army has been defeated in the field.\n\nConsul Rutilus is reported captured by the Samnites, and the remnants of his consular army are now besieged at Capua. A call to arms has been sounded to any able-bodied men to assist Capua's plight.\nTribune Gaius Fulvius Silanus, commander of the grain store at Tarracina, prepares to mobilise his garrison troops in response." last_edit_user="bob">Test: Empire intro battle</description>
+<is_battle>1</is_battle>
+<number>1</number>
+<subtitle state="APPROVED" last_approved_text="Battle Tutorial" last_edit_user="bob">Battle Tutorial</subtitle>
+<title state="APPROVED" last_approved_text="Empire Intro Battle" last_edit_user="bob">Empire Intro Battle</title>
+</prologue_chapters>
+<prologue_chapters record_uuid="{fed68574-9d1c-49a0-8ec5-1ce1042b4ea9}" record_timestamp="1400228721265" record_key="2">
+<banner>UI/prologue/fe_banner_02.png</banner>
+<battle_key></battle_key>
+<campaign_faction_key></campaign_faction_key>
+<campaign_key>main_warhammer</campaign_key>
+<description state="IGNORED" last_approved_text="The actions of Silanus and the swift response of Rome's Lucanian allies have resulted in victory over the Samnites at Capua. The field was not won without cost, however. Consul Laenas is slain, Consul Rutilus is still missing, and the remainder of the Roman army has been decimated.\n\nWith fresh Samnite armies bearing down upon Rome and her allies, the Senate has tasked Silanus with the defence of the Campanian plain, which guards the approach to Rome itself. Should Silanus fail then Rome will be defenceless." last_edit_user="bob">Test: Empire campaign prelude</description>
+<is_battle>0</is_battle>
+<number>2</number>
+<subtitle state="APPROVED" last_approved_text="Campaign Tutorial" last_edit_user="bob">Campaign Tutorial</subtitle>
+<title state="APPROVED" last_approved_text="Empire Campaign" last_edit_user="bob">Empire Campaign</title>
+</prologue_chapters>
+</dataroot>

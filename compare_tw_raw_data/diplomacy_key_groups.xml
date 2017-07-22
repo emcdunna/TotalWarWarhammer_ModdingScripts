@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="diplomacy_key_groups.xsd" export_time="Tue Feb 9 14:01:45 2016" revision="4" export_branch="T:/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>705f67e1-80b8-465a-8be5-58336f9c547a</edit_uuid>
+<diplomacy_key_groups record_uuid="{13e2902c-ad71-4649-bd46-8c94abaab968}" record_timestamp="1441727541996" record_key="accept">
+<group_id>accept</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{4c9cabc2-8c6c-48a6-b229-6b0fe01b12f6}" record_timestamp="1441809997773" record_key="accept_state_gift">
+<group_id>accept_state_gift</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{54170b45-2bc7-4382-ba8b-5e84773e3e64}" record_timestamp="1441727541779" record_key="acknowledge_accept">
+<group_id>acknowledge_accept</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{e937b5dc-6cb4-47ab-bebe-0b396cc21700}" record_timestamp="1441809997776" record_key="acknowledge_cancel_treaty">
+<group_id>acknowledge_cancel_treaty</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{90477570-ca7b-40d9-8fa0-aeeac9ec32f9}" record_timestamp="1441727543296" record_key="acknowledge_reject">
+<group_id>acknowledge_reject</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{cbbc0876-d8ad-4294-a9a7-3ee33920b037}" record_timestamp="1441727545190" record_key="acknowledge_war">
+<group_id>acknowledge_war</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{067b1d01-b728-4701-b538-dba376918645}" record_timestamp="1441809997779" record_key="cancel_treaty">
+<group_id>cancel_treaty</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{336c5b2f-a0f0-444f-a2ce-bfab649bd583}" record_timestamp="1441727534707" record_key="demand_join_war">
+<group_id>demand_join_war</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{cd6fd3e1-32e5-410f-ab17-cb458174404d}" record_timestamp="1441809997781" record_key="demand_payment">
+<group_id>demand_payment</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{4195ed9f-9867-4fe7-aa08-461a29e75924}" record_timestamp="1441727536221" record_key="generic_offer_demand">
+<group_id>generic_offer_demand</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{23a30292-9e15-47a0-a8c9-bc87201c20ab}" record_timestamp="1441727538568" record_key="generic_reject">
+<group_id>generic_reject</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{6b81e912-0aec-4333-a0ac-25deec07ea16}" record_timestamp="1441809997786" record_key="offer_cooperation">
+<group_id>offer_cooperation</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{398e5bd5-ee59-4af3-8123-8ea060453be9}" record_timestamp="1441727537712" record_key="offer_demand_peace">
+<group_id>offer_demand_peace</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{011c9f39-3a9d-42dd-8662-176a25a9c2af}" record_timestamp="1441727538142" record_key="offer_join_war">
+<group_id>offer_join_war</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{f5ee8207-0709-44f4-bdd9-7e92ad200199}" record_timestamp="1441727537927" record_key="offer_marriage">
+<group_id>offer_marriage</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{fd2d8e9e-dc7f-494e-9f8b-02cc838897aa}" record_timestamp="1441809997789" record_key="offer_payment">
+<group_id>offer_payment</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{a251eb57-f870-4e70-afc4-b6885ce8d601}" record_timestamp="1441727540262" record_key="offer_regions">
+<group_id>offer_regions</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{502322f7-b273-4ec9-b21d-14bda52d5e5f}" record_timestamp="1441727539834" record_key="receive">
+<group_id>receive</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{37c658fd-08eb-41ab-b3a1-3d3d3fbcf079}" record_timestamp="1441727530326" record_key="reject_offer_demand_peace">
+<group_id>reject_offer_demand_peace</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{577f1f25-41f2-42ab-9b6b-530bc9253248}" record_timestamp="1441809997793" record_key="reject_subjugation">
+<group_id>reject_subjugation</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{29e3694d-ad79-4243-b73c-f432378a8c76}" record_timestamp="1441727533393" record_key="too_many_counters">
+<group_id>too_many_counters</group_id>
+</diplomacy_key_groups>
+<diplomacy_key_groups record_uuid="{3f3d3c5a-64ef-401b-b75b-96a29003d072}" record_timestamp="1441727533832" record_key="war">
+<group_id>war</group_id>
+</diplomacy_key_groups>
+</dataroot>

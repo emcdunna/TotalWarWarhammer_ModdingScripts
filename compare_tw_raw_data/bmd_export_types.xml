@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bmd_export_types.xsd" export_time="Fri Dec 16 14:28:24 2016" revision="15" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e3cdecb4-3e73-482a-bee8-9de2d90fb68b</edit_uuid>
+<bmd_export_types record_uuid="{5b0fbefd-5fdc-4a5d-8bf9-174e8462e15e}" record_timestamp="1462358736439" record_key="attacker_direction_east">
+<default>0</default>
+<description>attacker_direction_east</description>
+<group>attacker_direction</group>
+<name>attacker_direction_east</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{8b4a7189-bb0d-4083-858a-9a3fefcba6ca}" record_timestamp="1462358736440" record_key="attacker_direction_north">
+<default>0</default>
+<description>attacker_direction_north</description>
+<group>attacker_direction</group>
+<name>attacker_direction_north</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{ade58614-eef1-4a18-accf-a03f5e8ba6d3}" record_timestamp="1462358736438" record_key="attacker_direction_south">
+<default>0</default>
+<description>attacker_direction_south</description>
+<group>attacker_direction</group>
+<name>attacker_direction_south</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{9cc40b0e-cc01-4406-a0f6-9dd8e29c23dc}" record_timestamp="1462358736438" record_key="attacker_direction_west">
+<default>0</default>
+<description>attacker_direction_west</description>
+<group>attacker_direction</group>
+<name>attacker_direction_west</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{b78cef86-0464-49d4-8f2a-3b94989a6b9f}" record_timestamp="1481898500523" record_key="catchment_01">
+<default>0</default>
+<description>new catchment system zone 1</description>
+<group></group>
+<name>catchment_01</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{3f9b906f-e703-4a70-ac81-3286413f0c30}" record_timestamp="1481898500529" record_key="catchment_02">
+<default>0</default>
+<description>new catchment system zone 2</description>
+<group></group>
+<name>catchment_02</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{efce463d-ff7e-4e45-b0dc-9c7fd91facff}" record_timestamp="1481898500539" record_key="catchment_03">
+<default>0</default>
+<description>new catchment system zone 3</description>
+<group></group>
+<name>catchment_03</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{2ce026b6-ad48-49c2-9892-18659ba29788}" record_timestamp="1481898500542" record_key="catchment_04">
+<default>0</default>
+<description>new catchment system zone 4</description>
+<group></group>
+<name>catchment_04</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{74c2061e-fa7a-41bd-bf2b-c73a36c6f1fd}" record_timestamp="1481898500553" record_key="catchment_05">
+<default>0</default>
+<description>new catchment system zone 5</description>
+<group></group>
+<name>catchment_05</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{b21a0b6f-4347-46d9-884d-f483be7ee0a3}" record_timestamp="1481898500567" record_key="catchment_06">
+<default>0</default>
+<description>new catchment system zone 6</description>
+<group></group>
+<name>catchment_06</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{ee4749be-22b9-49f7-9940-e9d5223f2a70}" record_timestamp="1481898500570" record_key="catchment_07">
+<default>0</default>
+<description>new catchment system zone 7</description>
+<group></group>
+<name>catchment_07</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{4e52425e-39ec-4246-bfce-991c4a0367cc}" record_timestamp="1481898500573" record_key="catchment_08">
+<default>0</default>
+<description>new catchment system zone 8</description>
+<group></group>
+<name>catchment_08</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{29c549d5-6506-4bdb-bae3-1c28a26242a1}" record_timestamp="1481898500576" record_key="catchment_09">
+<default>0</default>
+<description>new catchment system zone 9</description>
+<group></group>
+<name>catchment_09</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{6e2b3243-c516-4b74-9bef-961547c25a03}" record_timestamp="1441634105015" record_key="quest_battle_1">
+<default>0</default>
+<description>quest_battle_1: Optional Layer for quest battles</description>
+<group>battle_scenario</group>
+<name>quest_battle_1</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{ef2f3fd2-1dad-42d2-858f-d3997e65366a}" record_timestamp="1441634105038" record_key="quest_battle_2">
+<default>0</default>
+<description>quest_battle_2: Optional Layer for quest battles</description>
+<group>battle_scenario</group>
+<name>quest_battle_2</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{ca009f0e-8137-4252-8ee5-5ec3ad2f4c85}" record_timestamp="1441634105060" record_key="quest_battle_3">
+<default>0</default>
+<description>quest_battle_3: Optional Layer for quest battles</description>
+<group>battle_scenario</group>
+<name>quest_battle_3</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{00228f96-fc6e-4163-b2a7-3e0e2c28a72a}" record_timestamp="1441634105083" record_key="quest_battle_default">
+<default>1</default>
+<description>quest_battle_default: Default Layer for quest battles</description>
+<group>battle_scenario</group>
+<name>quest_battle_default</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{1378cbac-ce82-4ec8-8af2-ca40dc3f9981}" record_timestamp="1453740453431" record_key="razed_settlement_generic">
+<default>0</default>
+<description>Razed Settlement Layers</description>
+<group>razed_settlements</group>
+<name>razed_settlement_generic</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{f2079f33-7010-492c-bd1a-3cd917c613ce}" record_timestamp="1441990382402" record_key="settlement_level_1">
+<default>0</default>
+<description>settlement_level_1</description>
+<group>settlement_levels</group>
+<name>settlement_level_1</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{87b1d834-ca2d-4f98-9cb5-f86a3bd392ff}" record_timestamp="1441990382372" record_key="settlement_level_2">
+<default>0</default>
+<description>settlement_level_2</description>
+<group>settlement_levels</group>
+<name>settlement_level_2</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{79cb21dc-e1f6-4dcc-bd5b-ce47d01b362c}" record_timestamp="1441990382362" record_key="settlement_level_3">
+<default>0</default>
+<description>settlement_level_3</description>
+<group>settlement_levels</group>
+<name>settlement_level_3</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{79d27c6b-35b5-4229-9b9f-51ab62280572}" record_timestamp="1441990382392" record_key="settlement_level_4">
+<default>0</default>
+<description>settlement_level_4</description>
+<group>settlement_levels</group>
+<name>settlement_level_4</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{8f7afba4-5bd1-4a55-b931-0467d6f052ae}" record_timestamp="1441990382382" record_key="settlement_level_default">
+<default>0</default>
+<description>settlement_level_default</description>
+<group>settlement_levels</group>
+<name>settlement_level_default</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{78dae25f-dc60-4d08-afa5-8b5c5564a22d}" record_timestamp="1441207137430" record_key="settlement_towers_default">
+<default>1</default>
+<description>settlement_towers_default</description>
+<group>settlement_towers</group>
+<name>settlement_towers_default</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{b614c520-40d9-437e-9a16-41966987f108}" record_timestamp="1441990350176" record_key="settlement_towers_level_1">
+<default>0</default>
+<description>settlement_towers_level_1</description>
+<group>settlement_towers</group>
+<name>settlement_towers_level_1</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{0fbe8c18-3d5d-49d6-95e7-7fb01f3d6754}" record_timestamp="1441207137422" record_key="settlement_towers_level_2">
+<default>0</default>
+<description>settlement_towers_level_2</description>
+<group>settlement_towers</group>
+<name>settlement_towers_level_2</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{c0292e9f-5948-4216-8c78-19a9b4818c1f}" record_timestamp="1441207137415" record_key="settlement_towers_level_3">
+<default>0</default>
+<description>settlement_towers_level_3</description>
+<group>settlement_towers</group>
+<name>settlement_towers_level_3</name>
+</bmd_export_types>
+<bmd_export_types record_uuid="{6bf2deec-687a-4702-8ec0-330a6f43c791}" record_timestamp="1447670123829" record_key="settlement_towers_prelude">
+<default>0</default>
+<description>settlement_towers_prelude</description>
+<group>settlement_towers</group>
+<name>settlement_towers_prelude</name>
+</bmd_export_types>
+</dataroot>

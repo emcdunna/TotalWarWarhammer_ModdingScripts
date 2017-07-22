@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdir_events_payloads.xsd" export_time="Thu Feb 9 11:41:29 2017" revision="87" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>0d54a508-49ea-4ec4-b6ee-b5524ff84465</edit_uuid>
+<cdir_events_payloads record_uuid="{8315efed-9959-477b-98b1-2d419aebddb8}" record_timestamp="1430844543314" record_key="ADD_ANCILLARY">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>ADD_ANCILLARY</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{c458f1c3-f5f7-4084-a56e-beb230c54a1e}" record_timestamp="1425551915822" record_key="ADOPTION">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>ADOPTION</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{57b1b6dd-2eb0-4c5d-8d6b-a4098692d8c1}" record_timestamp="1425551915822" record_key="ASSIGN_CHARACTER_POST">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>ASSIGN_CHARACTER_POST</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{868b2ff4-3704-49ac-80a0-0459dd26bd14}" record_timestamp="1425551916134" record_key="BECOME_RETAINER">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>BECOME_RETAINER</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{ab8fef0d-9398-43ed-9662-027e5b43b9c7}" record_timestamp="1430844543314" record_key="BUILDING_LEVEL_EVENT_RESTRICTION">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>BUILDING_LEVEL_EVENT_RESTRICTION</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{c4155e62-b04d-4b51-b8ce-a1b5d2b3eaba}" record_timestamp="1425551916134" record_key="BUILDING_LEVEL_RESTRICTION">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>BUILDING_LEVEL_RESTRICTION</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{90cf49e5-3aad-4463-8442-ec321317227f}" record_timestamp="1425551916134" record_key="CHANGE_AMBITION">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>CHANGE_AMBITION</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{a5534e55-0fe0-43a0-b977-67c39c5b36ca}" record_timestamp="1425551916134" record_key="CHANGE_GRAVITAS">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>CHANGE_GRAVITAS</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{80b16be7-7848-4cd0-ac44-21cd9957312a}" record_timestamp="1425551916134" record_key="CHANGE_POLITICAL_POWER">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>CHANGE_POLITICAL_POWER</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{1148363e-e93b-4525-abe0-925625820c5e}" record_timestamp="1443544697408" record_key="CHARACTER_EXPERIENCE">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>CHARACTER_EXPERIENCE</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{f2115629-0af7-4bea-b5da-6598f93cbfa2}" record_timestamp="1425551916134" record_key="CLAN_FAME">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>CLAN_FAME</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{a3632543-3e21-472f-b1aa-75bd6c50b651}" record_timestamp="1425551916134" record_key="DAMAGE_BUILDING">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>DAMAGE_BUILDING</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{aff39d40-292f-49ca-8b27-de2f6f08c156}" record_timestamp="1441727053917" record_key="DAMAGE_CHARACTER">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>DAMAGE_CHARACTER</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{39d01125-becf-4d45-b6a2-143045e54b6a}" record_timestamp="1425551916134" record_key="DEFECTION">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>DEFECTION</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{abaa7e2f-cf7d-48ec-8cd1-b372030ac0cc}" record_timestamp="1425551916134" record_key="DEMOLISH_BUILDING_CHAIN">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>DEMOLISH_BUILDING_CHAIN</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{7d46ab10-ece9-4172-83f2-e6bf2ccb01c7}" record_timestamp="1425551916134" record_key="DIPLOMATIC_STANDING">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>DIPLOMATIC_STANDING</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{879572c9-b59e-4db0-8735-01e1b0357f74}" record_timestamp="1425551916134" record_key="DIVORCE">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>DIVORCE</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{1ff1273b-42b0-4595-9dde-6991f95bd6ea}" record_timestamp="1425551916134" record_key="EMBEZZLE">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>EMBEZZLE</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{525d4ca4-50ef-47b2-aa8f-7fc21f2a24d2}" record_timestamp="1439478044423" record_key="FORM_CONFEDERATION">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>FORM_CONFEDERATION</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{454215b1-e054-41a1-b49b-ee426549d511}" record_timestamp="1430844543314" record_key="GIVE_DEVELOPMENT_POINT">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>GIVE_DEVELOPMENT_POINT</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{a79fb6ae-75e5-4956-948a-3a08f67ebffc}" record_timestamp="1430844543314" record_key="GIVE_REGION">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>GIVE_REGION</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{384b7a6e-9176-47db-a0d3-9dcb99c34e79}" record_timestamp="1425551916134" record_key="GIVE_TRAIT">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>GIVE_TRAIT</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{4b4b5690-3bc5-4b05-8ce4-6e158954f77c}" record_timestamp="1425551916134" record_key="HONOUR">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>HONOUR</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{ade4ce6d-7216-4223-ba00-2a68bc5a5518}" record_timestamp="1425551916134" record_key="KILL_CHARACTER">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>KILL_CHARACTER</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{e01d4c54-4528-4e01-a20c-af2b7163b2d5}" record_timestamp="1425551916134" record_key="LOYALTY">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>LOYALTY</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{3c1509ab-a786-4aaf-b606-297df5611133}" record_timestamp="1425551916134" record_key="MARRIAGE">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>MARRIAGE</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{abba69f6-2ff8-4325-af55-93ff33a04faf}" record_timestamp="1425551916134" record_key="MOVIE_EVENT">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>MOVIE_EVENT</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{ed83e3dc-935a-41f0-94c0-014519de03c6}" record_timestamp="1425551916134" record_key="REBELLION">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>REBELLION</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{d36cbd27-90fc-465c-b3a7-b636aad593ed}" record_timestamp="1430844543314" record_key="REMOVE_ANCILLARY">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>REMOVE_ANCILLARY</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{38b75505-7914-4fb6-adec-dcf76095deb1}" record_timestamp="1430844543314" record_key="REMOVE_TRAIT">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>REMOVE_TRAIT</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{84bf2450-c01a-41af-9030-d1fe9f981454}" record_timestamp="1425551916134" record_key="SPAWN_AGENT">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>SPAWN_AGENT</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{9c4efcb3-8730-4188-9147-f2f5e54d6ada}" record_timestamp="1430844543314" record_key="SPAWN_BRIDE">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>SPAWN_BRIDE</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{56e5bbb5-c814-41bd-af18-bc009899febd}" record_timestamp="1425551916134" record_key="SPAWN_UNIT">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>SPAWN_UNIT</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{afbc1e06-aafc-4da5-81f9-d73bbab0c50b}" record_timestamp="1425551916134" record_key="TARGET">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>TARGET</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{f34d597e-6dee-4153-9219-fd6fdae7aa8e}" record_timestamp="1425551916134" record_key="TEXT_DISPLAY">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>TEXT_DISPLAY</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{f8727f77-edaf-4110-91a3-e97e29f885cf}" record_timestamp="1425551916134" record_key="TOWN_WEALTH">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>TOWN_WEALTH</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{8147e763-3075-4c27-ac42-bdef31298514}" record_timestamp="1425551916134" record_key="TREASURY">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>TREASURY</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{271ae0b0-3c31-40b4-8535-9c4261bdcdcd}" record_timestamp="1430844543313" record_key="UNIT_EVENT_RESTRICTION">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>UNIT_EVENT_RESTRICTION</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{4ad398bd-2d02-40b7-886a-1ed520c9ef0a}" record_timestamp="1425551916134" record_key="UNLOCK_STATE_RELIGION_CHANGE">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>UNLOCK_STATE_RELIGION_CHANGE</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{3b300c97-d4c0-4387-8bbd-4604765c9d61}" record_timestamp="1425551916134" record_key="WOUND_CHARACTER">
+<effect_bundle_key></effect_bundle_key>
+<payload_key>WOUND_CHARACTER</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{928eac42-159a-4f3b-927c-34cf2f346654}" record_timestamp="1463569439357" record_key="wh_dlc02_payload_all_charge_carnage_dummy">
+<effect_bundle_key>wh_dlc02_payload_all_charge_carnage_dummy</effect_bundle_key>
+<payload_key>wh_dlc02_payload_all_charge_carnage_dummy</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{e674ef05-8ce8-4286-ac51-ea52b4948c14}" record_timestamp="1463569439357" record_key="wh_dlc02_payload_all_magic_carnage_dummy">
+<effect_bundle_key>wh_dlc02_payload_all_magic_carnage_dummy</effect_bundle_key>
+<payload_key>wh_dlc02_payload_all_magic_carnage_dummy</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{279648aa-1b0a-4294-b240-af528c5b2c97}" record_timestamp="1463569439356" record_key="wh_dlc02_payload_all_weapon_carnage_dummy">
+<effect_bundle_key>wh_dlc02_payload_all_weapon_carnage_dummy</effect_bundle_key>
+<payload_key>wh_dlc02_payload_all_weapon_carnage_dummy</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{c0fa35b6-b46c-4d95-932f-6e9951451ca4}" record_timestamp="1456420072702" record_key="wh_dlc03_payload_answering_the_brayherd">
+<effect_bundle_key>wh_dlc03_bundle_answering_the_brayherd</effect_bundle_key>
+<payload_key>wh_dlc03_payload_answering_the_brayherd</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{300f392e-bbd2-4b07-92d5-fe1a7e23de22}" record_timestamp="1456420071314" record_key="wh_dlc03_payload_assured_leadership">
+<effect_bundle_key>wh_dlc03_bundle_assured_leadership</effect_bundle_key>
+<payload_key>wh_dlc03_payload_assured_leadership</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{19a90333-def5-4ec4-8228-a95c5bb4ec0f}" record_timestamp="1456420071358" record_key="wh_dlc03_payload_beastlords_execution">
+<effect_bundle_key>wh_dlc03_bundle_beastlords_execution</effect_bundle_key>
+<payload_key>wh_dlc03_payload_beastlords_execution</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{328ef072-3769-4fe2-ad3f-6f1166c58e99}" record_timestamp="1456420068569" record_key="wh_dlc03_payload_blood_of_bretonnia">
+<effect_bundle_key>wh_dlc03_bundle_blood_of_bretonnia</effect_bundle_key>
+<payload_key>wh_dlc03_payload_blood_of_bretonnia</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{5570cdfe-1011-4f04-b4e4-d774801b5a84}" record_timestamp="1461057448680" record_key="wh_dlc03_payload_blood_of_carroburg">
+<effect_bundle_key>wh_dlc03_bundle_blood_of_carroburg</effect_bundle_key>
+<payload_key>wh_dlc03_payload_blood_of_carroburg</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{50c055f2-01ff-4086-85c0-46e53bf9c8db}" record_timestamp="1461060716370" record_key="wh_dlc03_payload_blood_of_cult_of_ulric">
+<effect_bundle_key>wh_dlc03_bundle_blood_of_cult_of_ulric</effect_bundle_key>
+<payload_key>wh_dlc03_payload_blood_of_cult_of_ulric</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{dbc18ea2-cac6-4b60-93c0-49ad92499012}" record_timestamp="1456420068532" record_key="wh_dlc03_payload_blood_of_empire">
+<effect_bundle_key>wh_dlc03_bundle_blood_of_empire</effect_bundle_key>
+<payload_key>wh_dlc03_payload_blood_of_empire</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{d1ad5611-c2f4-47c0-82b5-49e8c7871bdb}" record_timestamp="1458064563534" record_key="wh_dlc03_payload_blood_of_hochland">
+<effect_bundle_key>wh_dlc03_bundle_blood_of_hochland</effect_bundle_key>
+<payload_key>wh_dlc03_payload_blood_of_hochland</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{80f7a3f7-2d60-407f-b67a-3e147613d4b0}" record_timestamp="1466176901737" record_key="wh_dlc03_payload_blood_of_middenheim">
+<effect_bundle_key>wh_dlc03_bundle_blood_of_middenheim</effect_bundle_key>
+<payload_key>wh_dlc03_payload_blood_of_middenheim</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{513a198a-08fd-4b63-9a3d-aac9f155fa3b}" record_timestamp="1456420069602" record_key="wh_dlc03_payload_chaos_corruption">
+<effect_bundle_key>wh_dlc03_bundle_chaos_corruption</effect_bundle_key>
+<payload_key>wh_dlc03_payload_chaos_corruption</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{e4a8aac8-b600-4337-809d-e5872ee79129}" record_timestamp="1465577680870" record_key="wh_dlc03_payload_eat_the_eye">
+<effect_bundle_key>wh_dlc03_effect_eat_the_eye</effect_bundle_key>
+<payload_key>wh_dlc03_payload_eat_the_eye</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{1c483668-9bda-4475-9bbc-593f902859ff}" record_timestamp="1456420072248" record_key="wh_dlc03_payload_empire_lord_blood">
+<effect_bundle_key>wh_dlc03_bundle_empire_lord_blood</effect_bundle_key>
+<payload_key>wh_dlc03_payload_empire_lord_blood</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{a8eb3f6d-33e4-4ffa-a7e0-eb30e1676fa7}" record_timestamp="1457697355108" record_key="wh_dlc03_payload_event_a_ritual_challenge">
+<effect_bundle_key>wh_dlc03_payload_event_a_ritual_challenge</effect_bundle_key>
+<payload_key>wh_dlc03_payload_event_a_ritual_challenge</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{28241773-504b-49ee-8e4a-6e703e6ee3cc}" record_timestamp="1457697355109" record_key="wh_dlc03_payload_event_a_stone_of_the_past">
+<effect_bundle_key>wh_dlc03_payload_event_a_stone_of_the_past</effect_bundle_key>
+<payload_key>wh_dlc03_payload_event_a_stone_of_the_past</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b24aa76b-6b1e-4d85-b544-8588e6067d3b}" record_timestamp="1457697355111" record_key="wh_dlc03_payload_event_bloodgreed_beasts">
+<effect_bundle_key>wh_dlc03_payload_event_bloodgreed_beasts</effect_bundle_key>
+<payload_key>wh_dlc03_payload_event_bloodgreed_beasts</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b6153d9d-1549-4fef-9415-694178fbc2c7}" record_timestamp="1457697355145" record_key="wh_dlc03_payload_event_defilement_of_sigmar">
+<effect_bundle_key>wh_main_payload_morale_versus_empire</effect_bundle_key>
+<payload_key>wh_dlc03_payload_event_defilement_of_sigmar</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{0ef2c4d9-fe65-449f-9b32-6ccfbcba76d7}" record_timestamp="1457697355148" record_key="wh_dlc03_payload_event_favoured_by_khorne">
+<effect_bundle_key>wh_dlc03_payload_event_favoured_by_khorne</effect_bundle_key>
+<payload_key>wh_dlc03_payload_event_favoured_by_khorne</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{5bcd91b5-509d-43e5-a956-3894edd5eb17}" record_timestamp="1457697355153" record_key="wh_dlc03_payload_event_skulls_for_the_skull_throne">
+<effect_bundle_key>wh_dlc03_payload_event_skulls_for_the_skull_throne</effect_bundle_key>
+<payload_key>wh_dlc03_payload_event_skulls_for_the_skull_throne</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{ca9c96be-fe48-4512-af52-0face2af9ce5}" record_timestamp="1457697355143" record_key="wh_dlc03_payload_event_sober_for_once_bad">
+<effect_bundle_key>wh_dlc03_payload_event_sober_for_once_bad</effect_bundle_key>
+<payload_key>wh_dlc03_payload_event_sober_for_once_bad</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{549cefdf-e1f8-4e7a-bc81-563dcda05780}" record_timestamp="1457697355142" record_key="wh_dlc03_payload_event_sober_for_once_good">
+<effect_bundle_key>wh_dlc03_payload_event_sober_for_once_good</effect_bundle_key>
+<payload_key>wh_dlc03_payload_event_sober_for_once_good</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{d441ddb6-7d6c-4ff0-9598-5122a00d3709}" record_timestamp="1457697355153" record_key="wh_dlc03_payload_event_the_black_harvest">
+<effect_bundle_key>wh_dlc03_payload_event_the_black_harvest</effect_bundle_key>
+<payload_key>wh_dlc03_payload_event_the_black_harvest</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{c8c8c174-e58e-4ded-b30d-77b49f8da9d3}" record_timestamp="1457697355152" record_key="wh_dlc03_payload_event_the_harbinger">
+<effect_bundle_key>wh_dlc03_payload_event_the_harbinger</effect_bundle_key>
+<payload_key>wh_dlc03_payload_event_the_harbinger</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{57acfa3e-9ed6-4c51-9fe3-20b360c4322c}" record_timestamp="1457697355143" record_key="wh_dlc03_payload_event_tribal_celebration">
+<effect_bundle_key>wh_dlc03_payload_event_tribal_celebration</effect_bundle_key>
+<payload_key>wh_dlc03_payload_event_tribal_celebration</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{f50c6a3c-f9ef-4e5d-bb3e-ced5e1a0204e}" record_timestamp="1457697355135" record_key="wh_dlc03_payload_event_wandering_giants">
+<effect_bundle_key>wh_dlc03_payload_event_wandering_giants</effect_bundle_key>
+<payload_key>wh_dlc03_payload_event_wandering_giants</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{469124e9-0bb3-4460-a0c1-348b65108757}" record_timestamp="1456420069445" record_key="wh_dlc03_payload_gluttony">
+<effect_bundle_key>wh_dlc03_bundle_gluttony</effect_bundle_key>
+<payload_key>wh_dlc03_payload_gluttony</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{7521438c-4d46-4bb7-a2d3-ffe0e5e8220b}" record_timestamp="1465577683564" record_key="wh_dlc03_payload_hochland_war">
+<effect_bundle_key>wh_dlc03_effect_hochland_war</effect_bundle_key>
+<payload_key>wh_dlc03_payload_hochland_war</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{113edf74-ec3d-43a9-a3e4-d4554f8e124e}" record_timestamp="1456420069134" record_key="wh_dlc03_payload_jabberslythe_battle">
+<effect_bundle_key>wh_dlc03_bundle_jabberslythe_battle</effect_bundle_key>
+<payload_key>wh_dlc03_payload_jabberslythe_battle</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{d4f65195-8a15-41e6-8f08-73d869d1c752}" record_timestamp="1465577680924" record_key="wh_dlc03_payload_keep_the_eye">
+<effect_bundle_key>wh_dlc03_effect_keep_the_eye</effect_bundle_key>
+<payload_key>wh_dlc03_payload_keep_the_eye</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{c5dae6e0-784e-4b12-b1fa-e8546411bacd}" record_timestamp="1466593266216" record_key="wh_dlc03_payload_moon_event_full_moon">
+<effect_bundle_key>wh_dlc03_bundle_moon_event_full_moon_success</effect_bundle_key>
+<payload_key>wh_dlc03_payload_moon_event_full_moon</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{8647e541-aeef-4287-a84b-e66a7c2fd90b}" record_timestamp="1461688210143" record_key="wh_dlc03_payload_moon_event_full_moon_fail">
+<effect_bundle_key>wh_dlc03_bundle_moon_event_full_moon_fail</effect_bundle_key>
+<payload_key>wh_dlc03_payload_moon_event_full_moon_fail</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{317458e4-5fbc-4214-98bc-98d58be1dcb4}" record_timestamp="1461688210207" record_key="wh_dlc03_payload_moon_event_lunar_eclipse">
+<effect_bundle_key>wh_dlc03_bundle_moon_event_lunar_eclipse</effect_bundle_key>
+<payload_key>wh_dlc03_payload_moon_event_lunar_eclipse</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{6737f6ca-ab85-4002-944a-5d6cd3438efb}" record_timestamp="1461688210273" record_key="wh_dlc03_payload_moon_event_solar_eclipse">
+<effect_bundle_key>wh_dlc03_bundle_moon_event_solar_eclipse</effect_bundle_key>
+<payload_key>wh_dlc03_payload_moon_event_solar_eclipse</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{34343282-7041-4d96-9413-217e3be1c333}" record_timestamp="1469456391196" record_key="wh_dlc03_payload_prep_moon_bestial_rage_high">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_bestial_rage_high</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_high</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{70d23cf0-7b65-4d1d-ae8d-f8f8a07b5e41}" record_timestamp="1469456391197" record_key="wh_dlc03_payload_prep_moon_bestial_rage_low">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_bestial_rage_low</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_low</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{3373da46-fa33-4c89-88eb-cf59db20be2d}" record_timestamp="1469456391197" record_key="wh_dlc03_payload_prep_moon_bestial_rage_medium">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_bestial_rage_medium</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_medium</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{2ab80685-861d-4894-a593-bbf5e1f7c652}" record_timestamp="1469456391198" record_key="wh_dlc03_payload_prep_moon_growth_high">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_growth_high</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_growth_high</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b2b57869-1306-4d16-aa25-7200c2bfc884}" record_timestamp="1469456391198" record_key="wh_dlc03_payload_prep_moon_growth_low">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_growth_low</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_growth_low</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{e7da9318-f5d4-44c8-81ec-9bd5870486af}" record_timestamp="1469456391199" record_key="wh_dlc03_payload_prep_moon_growth_medium">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_growth_medium</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_growth_medium</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{2a2f47d4-0f10-41cf-84a3-8bf24469ea00}" record_timestamp="1469456391199" record_key="wh_dlc03_payload_prep_moon_movement_high">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_movement_high</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_movement_high</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{5a35ca0b-993c-4f35-b46f-f963c25a4e50}" record_timestamp="1469456391200" record_key="wh_dlc03_payload_prep_moon_movement_low">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_movement_low</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_movement_low</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{9f85cbda-3ff8-43ea-8a87-641817ecd0b7}" record_timestamp="1469456391201" record_key="wh_dlc03_payload_prep_moon_movement_medium">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_movement_medium</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_movement_medium</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{0bf6ebf9-0692-474e-9c21-da488248b39c}" record_timestamp="1469456391201" record_key="wh_dlc03_payload_prep_moon_recruit_cost_high">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_recruit_cost_high</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_high</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b606b329-a2ca-4535-8c48-0e1a7e805d7b}" record_timestamp="1469456391202" record_key="wh_dlc03_payload_prep_moon_recruit_cost_low">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_recruit_cost_low</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_low</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{7e4596b2-d583-48c2-8952-48c07eff1acd}" record_timestamp="1469456391202" record_key="wh_dlc03_payload_prep_moon_recruit_cost_medium">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_recruit_cost_medium</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_medium</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{9d9f4657-9971-47a4-8b74-5aff48afa5e3}" record_timestamp="1469456391203" record_key="wh_dlc03_payload_prep_moon_replenishment_high">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_replenishment_high</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{460e3c4b-d641-4d3d-814f-acc21efbc3f7}" record_timestamp="1469456391203" record_key="wh_dlc03_payload_prep_moon_replenishment_low">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_replenishment_low</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b9fd6baf-cf97-4d65-8fbc-dd9c29dfea8e}" record_timestamp="1469456391204" record_key="wh_dlc03_payload_prep_moon_replenishment_medium">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_replenishment_medium</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{dc245dbc-1598-4020-b61d-cec69d9dfe32}" record_timestamp="1469456392976" record_key="wh_dlc03_payload_prep_moon_unit_exp_high">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_unit_exp_high</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_high</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{1b7b3807-bc83-4f0e-9ab1-840a69f3c855}" record_timestamp="1469456392977" record_key="wh_dlc03_payload_prep_moon_unit_exp_low">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_unit_exp_low</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_low</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{4d80ef7a-623d-44d1-b1bf-1106bd67687a}" record_timestamp="1469456392978" record_key="wh_dlc03_payload_prep_moon_unit_exp_medium">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_unit_exp_medium</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_medium</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{1c6ac0f7-f2e4-46d8-b130-f09279310b97}" record_timestamp="1469456391205" record_key="wh_dlc03_payload_prep_moon_unit_stats_high">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_unit_stats_high</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_high</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{5a16f446-6aa4-4982-9416-9a4187cda56a}" record_timestamp="1469456391205" record_key="wh_dlc03_payload_prep_moon_unit_stats_low">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_unit_stats_low</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_low</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{a65096a2-2290-4434-a582-a04c16a500c3}" record_timestamp="1469456391206" record_key="wh_dlc03_payload_prep_moon_unit_stats_medium">
+<effect_bundle_key>wh_dlc03_bundle_prep_moon_unit_stats_medium</effect_bundle_key>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_medium</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{99893a6f-c4ae-4540-9db3-ae77bf1f3e95}" record_timestamp="1456420071271" record_key="wh_dlc03_payload_removed_horns">
+<effect_bundle_key>wh_dlc03_bundle_removed_horns</effect_bundle_key>
+<payload_key>wh_dlc03_payload_removed_horns</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{eb5af2a5-7fc3-46ad-8c0d-dc3f84df5fb9}" record_timestamp="1456420072657" record_key="wh_dlc03_payload_sacrificed_warriors">
+<effect_bundle_key>wh_dlc03_bundle_sacrificed_warriors</effect_bundle_key>
+<payload_key>wh_dlc03_payload_sacrificed_warriors</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b8d59c48-6b07-4066-8c0d-5ef336142e14}" record_timestamp="1456420070498" record_key="wh_dlc03_payload_shamans_magic">
+<effect_bundle_key>wh_dlc03_bundle_shamans_magic</effect_bundle_key>
+<payload_key>wh_dlc03_payload_shamans_magic</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{2dceec69-93d3-433c-8a2f-b089366238e5}" record_timestamp="1465577681677" record_key="wh_dlc03_payload_story_progress">
+<effect_bundle_key>wh_dlc03_effect_story_progress</effect_bundle_key>
+<payload_key>wh_dlc03_payload_story_progress</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{2290664a-2608-4c31-8611-8d699203d329}" record_timestamp="1481887362906" record_key="wh_dlc05_occupation_wood_elves_gain_amber_quests">
+<effect_bundle_key>wh_dlc05_wood_elves_gain_amber_quests_key_1</effect_bundle_key>
+<payload_key>wh_dlc05_occupation_wood_elves_gain_amber_quests</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{6ed7b197-7897-4d71-9a04-4da8e01dc72f}" record_timestamp="1479333287964" record_key="wh_dlc05_payload_event_asrai_asur_druchii">
+<effect_bundle_key>wh_dlc05_payload_event_asrai_asur_druchii</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_asrai_asur_druchii</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{3dbb9c60-d471-40bb-8866-a1c6b4818ff3}" record_timestamp="1479323896627" record_key="wh_dlc05_payload_event_bark_and_soul">
+<effect_bundle_key>wh_dlc05_payload_event_bark_and_soul</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_bark_and_soul</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{3950a705-ffc1-42e0-a9af-61f96e036d9d}" record_timestamp="1479333286283" record_key="wh_dlc05_payload_event_children_of_eternity_first">
+<effect_bundle_key>wh_dlc05_payload_event_children_of_eternity_first</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_children_of_eternity_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{e7cee585-974d-4b88-88d6-e935ce43b4b0}" record_timestamp="1479333286285" record_key="wh_dlc05_payload_event_children_of_eternity_second">
+<effect_bundle_key>wh_dlc05_payload_event_children_of_eternity_second</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_children_of_eternity_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{6fc3a75b-1464-4611-9e5c-b9835d6695eb}" record_timestamp="1479333426458" record_key="wh_dlc05_payload_event_festival_of_the_equinox_first">
+<effect_bundle_key>wh_dlc05_payload_event_festival_of_the_equinox_first</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_festival_of_the_equinox_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{6433f690-66dc-4076-a990-d95c2b54beb7}" record_timestamp="1479333426455" record_key="wh_dlc05_payload_event_festival_of_the_equinox_second">
+<effect_bundle_key>wh_dlc05_payload_event_festival_of_the_equinox_second</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_festival_of_the_equinox_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{ce1c79a1-0a1c-4f81-a954-80cfbd00e134}" record_timestamp="1479330215482" record_key="wh_dlc05_payload_event_heavens_or_the_underworld_first">
+<effect_bundle_key>wh_dlc05_payload_event_heavens_or_the_underworld_first</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_heavens_or_the_underworld_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{77caf644-1c06-4c73-9363-f9e2f993c62e}" record_timestamp="1479330215483" record_key="wh_dlc05_payload_event_heavens_or_the_underworld_second">
+<effect_bundle_key>wh_dlc05_payload_event_heavens_or_the_underworld_second</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_heavens_or_the_underworld_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{2c7dc05e-32fb-481d-bcba-7cf797bbc7b1}" record_timestamp="1479323896630" record_key="wh_dlc05_payload_event_knowledge_of_the_ancestors">
+<effect_bundle_key>wh_dlc05_payload_event_knowledge_of_the_ancestors</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_knowledge_of_the_ancestors</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{4baa07d6-ed8a-4982-926f-7e62d74e0b1d}" record_timestamp="1479323896631" record_key="wh_dlc05_payload_event_only_one">
+<effect_bundle_key>wh_dlc05_payload_event_only_one</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_only_one</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{de8a01d3-f6a9-454d-9b6d-7fa6a81fd30a}" record_timestamp="1479323896629" record_key="wh_dlc05_payload_event_the_dreamer_of_dreams">
+<effect_bundle_key>wh_dlc05_payload_event_the_dreamer_of_dreams</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_the_dreamer_of_dreams</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{57682dbe-4fed-4d0f-ac1d-215474709217}" record_timestamp="1479330215401" record_key="wh_dlc05_payload_event_the_fate_of_the_body_first">
+<effect_bundle_key>wh_dlc05_payload_event_the_fate_of_the_body_first</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_the_fate_of_the_body_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{858d84ee-8cfe-4a5f-9096-5e2ca62c22f7}" record_timestamp="1479330215402" record_key="wh_dlc05_payload_event_the_fate_of_the_body_second">
+<effect_bundle_key>wh_dlc05_payload_event_the_fate_of_the_body_second</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_the_fate_of_the_body_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{7f72b05f-575e-49e7-809f-2d32e4c1377b}" record_timestamp="1479323896625" record_key="wh_dlc05_payload_event_the_forge_of_starlight">
+<effect_bundle_key>wh_dlc05_payload_event_the_forge_of_starlight</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_the_forge_of_starlight</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{1fb31c70-32de-4ca5-8b8f-7fb42b4af7af}" record_timestamp="1479330214924" record_key="wh_dlc05_payload_event_the_great_stag_first">
+<effect_bundle_key>wh_dlc05_payload_event_the_great_stag_first</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_the_great_stag_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{ca75f862-ff9a-4339-a80b-773233489540}" record_timestamp="1479330215381" record_key="wh_dlc05_payload_event_the_great_stag_second">
+<effect_bundle_key>wh_dlc05_payload_event_the_great_stag_second</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_the_great_stag_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{59275aac-cb38-40ae-84df-4e58ead47b2f}" record_timestamp="1479333287921" record_key="wh_dlc05_payload_event_the_night_glens">
+<effect_bundle_key>wh_dlc05_payload_event_the_night_glens</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_the_night_glens</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{c5fbd56c-e641-402f-bb40-7108f0c50262}" record_timestamp="1479323896628" record_key="wh_dlc05_payload_event_the_season_of_beginnings">
+<effect_bundle_key>wh_dlc05_payload_event_the_season_of_beginnings</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_the_season_of_beginnings</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{f6190e51-2501-4762-bc51-0db21487d1c9}" record_timestamp="1479323896630" record_key="wh_dlc05_payload_event_the_turning_of_the_leaves">
+<effect_bundle_key>wh_dlc05_payload_event_the_turning_of_the_leaves</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_the_turning_of_the_leaves</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{0af0f22f-a03a-4b06-9835-e375a90fde74}" record_timestamp="1479323896626" record_key="wh_dlc05_payload_event_the_wild_heath">
+<effect_bundle_key>wh_dlc05_payload_event_the_wild_heath</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_the_wild_heath</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b895f7db-bf5e-4c20-9e2e-def2a5f70847}" record_timestamp="1479333287915" record_key="wh_dlc05_payload_event_vaults_of_winter_first">
+<effect_bundle_key>wh_dlc05_payload_event_vaults_of_winter_first</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_vaults_of_winter_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{bb1dd94a-edec-461f-9e30-9b21222b9646}" record_timestamp="1479333287916" record_key="wh_dlc05_payload_event_vaults_of_winter_second">
+<effect_bundle_key>wh_dlc05_payload_event_vaults_of_winter_second</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_vaults_of_winter_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{0a118941-8789-4e12-9d75-dbb322353137}" record_timestamp="1479323896626" record_key="wh_dlc05_payload_event_vengeance_of_the_asrai">
+<effect_bundle_key>wh_dlc05_payload_event_vengeance_of_the_asrai</effect_bundle_key>
+<payload_key>wh_dlc05_payload_event_vengeance_of_the_asrai</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b0d85736-5b61-4262-8713-77cc005b8efa}" record_timestamp="1479320692160" record_key="wh_dlc05_payload_improved_agent_wef_champion_branchwraith">
+<effect_bundle_key>wh_dlc05_payload_improved_agent_wef_champion_branchwraith</effect_bundle_key>
+<payload_key>wh_dlc05_payload_improved_agent_wef_champion_branchwraith</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{e7b455aa-3aae-4c15-834b-668890f64046}" record_timestamp="1479320692161" record_key="wh_dlc05_payload_improved_agent_wef_spy_waystalker">
+<effect_bundle_key>wh_dlc05_payload_improved_agent_wef_spy_waystalker</effect_bundle_key>
+<payload_key>wh_dlc05_payload_improved_agent_wef_spy_waystalker</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{87900d87-967f-4400-879e-5c8a6c645d2d}" record_timestamp="1479320692160" record_key="wh_dlc05_payload_improved_agent_wef_wizard_spellsinger">
+<effect_bundle_key>wh_dlc05_payload_improved_agent_wef_wizard_spellsinger</effect_bundle_key>
+<payload_key>wh_dlc05_payload_improved_agent_wef_wizard_spellsinger</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{317ef1d2-894e-4416-b2ce-9100e983142e}" record_timestamp="1481887366961" record_key="wh_dlc05_wood_elves_gain_amber_quests_key_1">
+<effect_bundle_key>wh_dlc05_wood_elves_gain_amber_quests_key_1</effect_bundle_key>
+<payload_key>wh_dlc05_wood_elves_gain_amber_quests_key_1</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{4a84e83d-4fa2-4795-9186-37bc1110d0c8}" record_timestamp="1481887366961" record_key="wh_dlc05_wood_elves_gain_amber_quests_key_10">
+<effect_bundle_key>wh_dlc05_wood_elves_gain_amber_quests_key_10</effect_bundle_key>
+<payload_key>wh_dlc05_wood_elves_gain_amber_quests_key_10</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{ec3b883b-cdbd-4fdb-909c-adb28292bd8e}" record_timestamp="1481887366965" record_key="wh_dlc05_wood_elves_gain_amber_quests_key_2">
+<effect_bundle_key>wh_dlc05_wood_elves_gain_amber_quests_key_2</effect_bundle_key>
+<payload_key>wh_dlc05_wood_elves_gain_amber_quests_key_2</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{bc829100-c729-44b6-92f5-343b8800cead}" record_timestamp="1481887366964" record_key="wh_dlc05_wood_elves_gain_amber_quests_key_3">
+<effect_bundle_key>wh_dlc05_wood_elves_gain_amber_quests_key_3</effect_bundle_key>
+<payload_key>wh_dlc05_wood_elves_gain_amber_quests_key_3</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{a733ab97-153c-4f8a-ba54-758f7fac8d99}" record_timestamp="1481887366960" record_key="wh_dlc05_wood_elves_gain_amber_quests_key_4">
+<effect_bundle_key>wh_dlc05_wood_elves_gain_amber_quests_key_4</effect_bundle_key>
+<payload_key>wh_dlc05_wood_elves_gain_amber_quests_key_4</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{d8110603-5f9c-46b0-83e3-e63b75ba9067}" record_timestamp="1481887366965" record_key="wh_dlc05_wood_elves_gain_amber_quests_key_5">
+<effect_bundle_key>wh_dlc05_wood_elves_gain_amber_quests_key_5</effect_bundle_key>
+<payload_key>wh_dlc05_wood_elves_gain_amber_quests_key_5</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{9b5c3500-3a67-44d1-aecb-379b8c54605e}" record_timestamp="1481887366962" record_key="wh_dlc05_wood_elves_gain_amber_quests_key_6">
+<effect_bundle_key>wh_dlc05_wood_elves_gain_amber_quests_key_6</effect_bundle_key>
+<payload_key>wh_dlc05_wood_elves_gain_amber_quests_key_6</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{416a2d12-bbc9-48d3-b437-9e2ed86c3aa8}" record_timestamp="1481887366962" record_key="wh_dlc05_wood_elves_gain_amber_quests_key_7">
+<effect_bundle_key>wh_dlc05_wood_elves_gain_amber_quests_key_7</effect_bundle_key>
+<payload_key>wh_dlc05_wood_elves_gain_amber_quests_key_7</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{07f6d08f-f6c1-43a9-b528-89fbd35558bc}" record_timestamp="1481887366964" record_key="wh_dlc05_wood_elves_gain_amber_quests_key_8">
+<effect_bundle_key>wh_dlc05_wood_elves_gain_amber_quests_key_8</effect_bundle_key>
+<payload_key>wh_dlc05_wood_elves_gain_amber_quests_key_8</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{be2b9f7c-e11f-452b-8584-8d0b5409838c}" record_timestamp="1481887366963" record_key="wh_dlc05_wood_elves_gain_amber_quests_key_9">
+<effect_bundle_key>wh_dlc05_wood_elves_gain_amber_quests_key_9</effect_bundle_key>
+<payload_key>wh_dlc05_wood_elves_gain_amber_quests_key_9</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{677bc640-12a1-4205-9d53-039eb0104eb8}" record_timestamp="1484129542010" record_key="wh_dlc07_payload_a_noble_feast_first">
+<effect_bundle_key>wh_dlc07_payload_a_noble_feast_first</effect_bundle_key>
+<payload_key>wh_dlc07_payload_a_noble_feast_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{91b65ac2-37c4-4132-9a78-81626915ab75}" record_timestamp="1484129541896" record_key="wh_dlc07_payload_a_noble_feast_second">
+<effect_bundle_key>wh_dlc07_payload_a_noble_feast_second</effect_bundle_key>
+<payload_key>wh_dlc07_payload_a_noble_feast_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{734709e7-4238-495d-b40e-0a0615cf848b}" record_timestamp="1484129529843" record_key="wh_dlc07_payload_dedicated_service_first">
+<effect_bundle_key>wh_dlc07_payload_dedicated_service_first</effect_bundle_key>
+<payload_key>wh_dlc07_payload_dedicated_service_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{a46452cd-713d-4fbb-979f-1fd554abdce8}" record_timestamp="1484129529963" record_key="wh_dlc07_payload_dedicated_service_second">
+<effect_bundle_key>wh_dlc07_payload_dedicated_service_second</effect_bundle_key>
+<payload_key>wh_dlc07_payload_dedicated_service_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{e10ba559-c98a-4a87-9a93-e797601aee21}" record_timestamp="1484557531403" record_key="wh_dlc07_payload_event_careless_hunting">
+<effect_bundle_key>wh_dlc07_payload_event_careless_hunting</effect_bundle_key>
+<payload_key>wh_dlc07_payload_event_careless_hunting</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{538ffa43-22c9-4989-8488-b265d6c08795}" record_timestamp="1484557531403" record_key="wh_dlc07_payload_event_containing_the_pox">
+<effect_bundle_key>wh_dlc07_payload_event_containing_the_pox</effect_bundle_key>
+<payload_key>wh_dlc07_payload_event_containing_the_pox</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{ca6a373b-489e-4ca6-83ce-a7189e744c15}" record_timestamp="1484557531403" record_key="wh_dlc07_payload_event_exquisite_goods">
+<effect_bundle_key>wh_dlc07_payload_event_exquisite_goods</effect_bundle_key>
+<payload_key>wh_dlc07_payload_event_exquisite_goods</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{84e3c8a7-7351-487d-86f4-cfa1f1f746aa}" record_timestamp="1484557531403" record_key="wh_dlc07_payload_event_filled_with_prayer">
+<effect_bundle_key>wh_dlc07_payload_event_filled_with_prayer</effect_bundle_key>
+<payload_key>wh_dlc07_payload_event_filled_with_prayer</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{df9b872a-d016-4914-a043-b0ba4c70a410}" record_timestamp="1484557531403" record_key="wh_dlc07_payload_event_influx_of_builders">
+<effect_bundle_key>wh_dlc07_payload_event_influx_of_builders</effect_bundle_key>
+<payload_key>wh_dlc07_payload_event_influx_of_builders</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{7b593a0e-0846-4459-b3c9-8c611ee480bc}" record_timestamp="1484557531404" record_key="wh_dlc07_payload_event_lavish_feast">
+<effect_bundle_key>wh_dlc07_payload_event_lavish_feast</effect_bundle_key>
+<payload_key>wh_dlc07_payload_event_lavish_feast</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{94f7d01b-22a1-4415-9b20-a75ad1d8acc9}" record_timestamp="1484557531404" record_key="wh_dlc07_payload_event_overconfidence">
+<effect_bundle_key>wh_dlc07_payload_event_overconfidence</effect_bundle_key>
+<payload_key>wh_dlc07_payload_event_overconfidence</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{9f812d18-19bb-41aa-a04e-841ccb820e99}" record_timestamp="1484557531404" record_key="wh_dlc07_payload_event_rowdy_peasants">
+<effect_bundle_key>wh_dlc07_payload_event_rowdy_peasants</effect_bundle_key>
+<payload_key>wh_dlc07_payload_event_rowdy_peasants</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{fddda4c2-379f-418c-a21f-d1d62a6e3953}" record_timestamp="1484557531403" record_key="wh_dlc07_payload_event_splendid_monasteries">
+<effect_bundle_key>wh_dlc07_payload_event_splendid_monasteries</effect_bundle_key>
+<payload_key>wh_dlc07_payload_event_splendid_monasteries</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{bf0e73bc-e3ea-408e-89e6-f2aa76b295ba}" record_timestamp="1484557531402" record_key="wh_dlc07_payload_event_unpeasant_business">
+<effect_bundle_key>wh_dlc07_payload_event_unpeasant_business</effect_bundle_key>
+<payload_key>wh_dlc07_payload_event_unpeasant_business</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{370be136-e220-4e00-a403-a936dec76b64}" record_timestamp="1484129542226" record_key="wh_dlc07_payload_food_hoarder_first">
+<effect_bundle_key>wh_dlc07_payload_food_hoarder_first</effect_bundle_key>
+<payload_key>wh_dlc07_payload_food_hoarder_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{3728dc04-c05e-456c-b70b-9ab11865900d}" record_timestamp="1484129542113" record_key="wh_dlc07_payload_food_hoarder_second">
+<effect_bundle_key>wh_dlc07_payload_food_hoarder_second</effect_bundle_key>
+<payload_key>wh_dlc07_payload_food_hoarder_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{01e93134-b6c1-4a75-b3fa-38ea4e34d6fd}" record_timestamp="1484129522597" record_key="wh_dlc07_payload_gifted_children_first">
+<effect_bundle_key>wh_dlc07_payload_gifted_children_first</effect_bundle_key>
+<payload_key>wh_dlc07_payload_gifted_children_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{107d6a51-995d-432e-83a8-4a6f4774000a}" record_timestamp="1484129522702" record_key="wh_dlc07_payload_gifted_children_second">
+<effect_bundle_key>wh_dlc07_payload_gifted_children_second</effect_bundle_key>
+<payload_key>wh_dlc07_payload_gifted_children_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{3c06363a-4401-4f28-8716-46de531c7458}" record_timestamp="1486031307334" record_key="wh_dlc07_payload_greenskins_incursions">
+<effect_bundle_key>wh_dlc07_greenskins_incursions</effect_bundle_key>
+<payload_key>wh_dlc07_payload_greenskins_incursions</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b905f0d2-ce8c-424c-bd0d-d734b126ce2a}" record_timestamp="1484129516509" record_key="wh_dlc07_payload_hidden_statue_first">
+<effect_bundle_key>wh_dlc07_payload_hidden_statue_first</effect_bundle_key>
+<payload_key>wh_dlc07_payload_hidden_statue_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{80d5880e-3d20-484f-bcdc-4042ed5925dc}" record_timestamp="1484129517070" record_key="wh_dlc07_payload_hidden_statue_second">
+<effect_bundle_key>wh_dlc07_payload_hidden_statue_second</effect_bundle_key>
+<payload_key>wh_dlc07_payload_hidden_statue_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{bb919b78-eddc-44bb-9ded-f93bb38aea2a}" record_timestamp="1484129542464" record_key="wh_dlc07_payload_hunting_grounds_first">
+<effect_bundle_key>wh_dlc07_payload_hunting_grounds_first</effect_bundle_key>
+<payload_key>wh_dlc07_payload_hunting_grounds_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{31528976-3de7-4f38-b883-11e9437c612e}" record_timestamp="1484129542345" record_key="wh_dlc07_payload_hunting_grounds_second">
+<effect_bundle_key>wh_dlc07_payload_hunting_grounds_second</effect_bundle_key>
+<payload_key>wh_dlc07_payload_hunting_grounds_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{c309058b-57a4-4657-ac40-cfdb90054587}" record_timestamp="1484129527285" record_key="wh_dlc07_payload_knowledge_from_the_lady_first">
+<effect_bundle_key>wh_dlc07_payload_knowledge_from_the_lady_first</effect_bundle_key>
+<payload_key>wh_dlc07_payload_knowledge_from_the_lady_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{21852b11-775b-423b-9d22-97e8c3a62271}" record_timestamp="1484129527401" record_key="wh_dlc07_payload_knowledge_from_the_lady_second">
+<effect_bundle_key>wh_dlc07_payload_knowledge_from_the_lady_second</effect_bundle_key>
+<payload_key>wh_dlc07_payload_knowledge_from_the_lady_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{6b4340a4-376c-4f5a-b31b-b470ab7b9786}" record_timestamp="1484129519231" record_key="wh_dlc07_payload_mockery_of_our_vows_first">
+<effect_bundle_key>wh_dlc07_payload_mockery_of_our_vows_first</effect_bundle_key>
+<payload_key>wh_dlc07_payload_mockery_of_our_vows_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{0e478e69-5d92-4891-b6ad-4401203c4f14}" record_timestamp="1484129519372" record_key="wh_dlc07_payload_mockery_of_our_vows_second">
+<effect_bundle_key>wh_dlc07_payload_mockery_of_our_vows_second</effect_bundle_key>
+<payload_key>wh_dlc07_payload_mockery_of_our_vows_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{7188bc92-00d6-4023-80fd-a7417078b7ae}" record_timestamp="1484129532758" record_key="wh_dlc07_payload_pimples_and_brown_spots_first">
+<effect_bundle_key>wh_dlc07_payload_pimples_and_brown_spots_first</effect_bundle_key>
+<payload_key>wh_dlc07_payload_pimples_and_brown_spots_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{7aafeec0-5773-407b-ba0d-a600c240b5d7}" record_timestamp="1484129532869" record_key="wh_dlc07_payload_pimples_and_brown_spots_second">
+<effect_bundle_key>wh_dlc07_payload_pimples_and_brown_spots_second</effect_bundle_key>
+<payload_key>wh_dlc07_payload_pimples_and_brown_spots_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{31163bff-f27b-4300-9b8b-5774fba392a4}" record_timestamp="1484129524748" record_key="wh_dlc07_payload_prosperous_harvest_first">
+<effect_bundle_key>wh_dlc07_payload_prosperous_harvest_first</effect_bundle_key>
+<payload_key>wh_dlc07_payload_prosperous_harvest_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{828b2501-073b-4c5d-a7a8-17f9c52b745b}" record_timestamp="1484129524851" record_key="wh_dlc07_payload_prosperous_harvest_second">
+<effect_bundle_key>wh_dlc07_payload_prosperous_harvest_second</effect_bundle_key>
+<payload_key>wh_dlc07_payload_prosperous_harvest_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{e79f369c-ca3f-4bb0-b627-048d8b300b4d}" record_timestamp="1486640488777" record_key="wh_dlc07_payload_qb_chivalry_loss">
+<effect_bundle_key>wh_dlc07_payload_qb_chivalry_loss</effect_bundle_key>
+<payload_key>wh_dlc07_payload_qb_chivalry_loss</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{f2383536-7c75-4fc5-911c-33068ca970ed}" record_timestamp="1486640488767" record_key="wh_dlc07_payload_qb_chivalry_reward">
+<effect_bundle_key>wh_dlc07_payload_qb_chivalry_reward</effect_bundle_key>
+<payload_key>wh_dlc07_payload_qb_chivalry_reward</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{04c81c7f-f20e-4cb2-9185-8c5b994bd51c}" record_timestamp="1484129544022" record_key="wh_dlc07_payload_the_price_of_chivalry_first">
+<effect_bundle_key>wh_dlc07_payload_the_price_of_chivalry_first</effect_bundle_key>
+<payload_key>wh_dlc07_payload_the_price_of_chivalry_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{da7f5c6f-babc-4d4f-ac22-a0d7165b58c3}" record_timestamp="1484129543906" record_key="wh_dlc07_payload_the_price_of_chivalry_second">
+<effect_bundle_key>wh_dlc07_payload_the_price_of_chivalry_second</effect_bundle_key>
+<payload_key>wh_dlc07_payload_the_price_of_chivalry_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{4b006937-66c9-45fa-9b93-67c085b76752}" record_timestamp="1484129535504" record_key="wh_dlc07_payload_whispers_of_witchcraft_first">
+<effect_bundle_key>wh_dlc07_payload_whispers_of_witchcraft_first</effect_bundle_key>
+<payload_key>wh_dlc07_payload_whispers_of_witchcraft_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{c54c1763-713e-447f-8028-428dd0b670f7}" record_timestamp="1484129535617" record_key="wh_dlc07_payload_whispers_of_witchcraft_second">
+<effect_bundle_key>wh_dlc07_payload_whispers_of_witchcraft_second</effect_bundle_key>
+<payload_key>wh_dlc07_payload_whispers_of_witchcraft_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{8bc018af-31f8-406f-a26f-8397706c42ea}" record_timestamp="1484045606487" record_key="wh_dlc07_qb_brt_fay_enchantress_chalice_of_potions_ritual">
+<effect_bundle_key>wh_dlc07_qb_brt_payload_bundle_chalice_of_potions</effect_bundle_key>
+<payload_key>wh_dlc07_qb_brt_fay_enchantress_chalice_of_potions_ritual</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{eed98ec1-2ff7-4875-9f3c-becad4387662}" record_timestamp="1483696475974" record_key="wh_dlc07_qb_brt_louen_sword_of_couronne_stage_0_payload">
+<effect_bundle_key>wh_dlc07_payload_sword_of_couronne_mist</effect_bundle_key>
+<payload_key>wh_dlc07_qb_brt_louen_sword_of_couronne_stage_0_payload</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{5ed68e9c-f3cb-4731-8e10-24b83273898e}" record_timestamp="1443544707739" record_key="wh_main_payload_call_to_arms_army">
+<effect_bundle_key>wh_main_payload_call_to_arms_army</effect_bundle_key>
+<payload_key>wh_main_payload_call_to_arms_army</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{ffccf2cd-9e53-4bbb-a557-e99cf7ab3b99}" record_timestamp="1445592041143" record_key="wh_main_payload_call_to_arms_army_horde">
+<effect_bundle_key>wh_main_payload_call_to_arms_army_horde</effect_bundle_key>
+<payload_key>wh_main_payload_call_to_arms_army_horde</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{1cfa3081-e397-47cc-93a4-48ca2ef06cab}" record_timestamp="1443544707607" record_key="wh_main_payload_call_to_arms_navy">
+<effect_bundle_key>wh_main_payload_call_to_arms_navy</effect_bundle_key>
+<payload_key>wh_main_payload_call_to_arms_navy</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{1a70c768-71aa-4e21-b4a3-4ac3884a9f30}" record_timestamp="1455622797621" record_key="wh_main_payload_chaos_corruption">
+<effect_bundle_key>wh_main_payload_chaos_corruption</effect_bundle_key>
+<payload_key>wh_main_payload_chaos_corruption</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{0a029d8f-fc8d-4b50-844e-4009d5a2f06d}" record_timestamp="1441884101413" record_key="wh_main_payload_disaster_blizzard_region">
+<effect_bundle_key>wh_main_payload_disaster_blizzard_region</effect_bundle_key>
+<payload_key>wh_main_payload_disaster_blizzard_region</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{62b33b80-88af-459b-9a48-94ba97068992}" record_timestamp="1441884095303" record_key="wh_main_payload_disaster_earthquake_region">
+<effect_bundle_key>wh_main_payload_disaster_earthquake_region</effect_bundle_key>
+<payload_key>wh_main_payload_disaster_earthquake_region</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{dd09fdbb-08b6-4d9c-bcf5-7336198830ab}" record_timestamp="1441884097268" record_key="wh_main_payload_disaster_eruption_region">
+<effect_bundle_key>wh_main_payload_disaster_eruption_region</effect_bundle_key>
+<payload_key>wh_main_payload_disaster_eruption_region</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{bfff007e-1a75-4328-9b8b-af601e2aa069}" record_timestamp="1441884096373" record_key="wh_main_payload_disaster_flood_region">
+<effect_bundle_key>wh_main_payload_disaster_flood_region</effect_bundle_key>
+<payload_key>wh_main_payload_disaster_flood_region</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{9231fc1c-4ba3-4429-9990-e473852728f6}" record_timestamp="1441892619297" record_key="wh_main_payload_disaster_storm_of_magic">
+<effect_bundle_key>wh_main_payload_disaster_storm_of_magic</effect_bundle_key>
+<payload_key>wh_main_payload_disaster_storm_of_magic</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{a9c2743f-0992-40ef-9d39-b1ee4b07889f}" record_timestamp="1455637533180" record_key="wh_main_payload_event_a_grudge_too_far">
+<effect_bundle_key>wh_main_payload_event_a_grudge_too_far</effect_bundle_key>
+<payload_key>wh_main_payload_event_a_grudge_too_far</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b0120568-dbf6-41ef-adc3-c61dc6a1df31}" record_timestamp="1455637533003" record_key="wh_main_payload_event_a_shameful_display_second">
+<effect_bundle_key>wh_main_payload_event_a_shameful_display_second</effect_bundle_key>
+<payload_key>wh_main_payload_event_a_shameful_display_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{71bc7609-2e35-45be-9e82-4568d9c35ac4}" record_timestamp="1455712093080" record_key="wh_main_payload_event_an_enemy_within_first">
+<effect_bundle_key>wh_main_payload_event_an_enemy_within_first</effect_bundle_key>
+<payload_key>wh_main_payload_event_an_enemy_within_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{365d520b-3a11-42fa-9eab-aa2ac1a2ee21}" record_timestamp="1455712093049" record_key="wh_main_payload_event_an_enemy_within_second">
+<effect_bundle_key>wh_main_payload_event_an_enemy_within_second</effect_bundle_key>
+<payload_key>wh_main_payload_event_an_enemy_within_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{9860df11-a26f-4dd3-97b6-cefe8245f870}" record_timestamp="1445948601713" record_key="wh_main_payload_event_arcane_fulcrum">
+<effect_bundle_key>wh_main_payload_event_arcane_fulcrum</effect_bundle_key>
+<payload_key>wh_main_payload_event_arcane_fulcrum</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{e2172643-f463-4028-9ee1-7c799200e1d1}" record_timestamp="1455637534305" record_key="wh_main_payload_event_besieged_khazid_first">
+<effect_bundle_key>wh_main_payload_event_besieged_khazid_first</effect_bundle_key>
+<payload_key>wh_main_payload_event_besieged_khazid_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{a1ee914a-d4ab-4a0f-9589-595f7cbfb509}" record_timestamp="1455637534337" record_key="wh_main_payload_event_besieged_khazid_second">
+<effect_bundle_key>wh_main_payload_event_besieged_khazid_second</effect_bundle_key>
+<payload_key>wh_main_payload_event_besieged_khazid_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{702f28fe-a166-4405-99fa-756f63c21811}" record_timestamp="1445848577817" record_key="wh_main_payload_event_blessings_of_the_maggoth_lords">
+<effect_bundle_key>wh_main_payload_event_blessings_of_the_maggoth_lords</effect_bundle_key>
+<payload_key>wh_main_payload_event_blessings_of_the_maggoth_lords</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{ad224ae6-ec6c-4539-a0a2-1112938054aa}" record_timestamp="1454338941728" record_key="wh_main_payload_event_blood_sacrifice">
+<effect_bundle_key>wh_main_payload_event_blood_sacrifice</effect_bundle_key>
+<payload_key>wh_main_payload_event_blood_sacrifice</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{76a4b465-6a11-4d4c-8ab2-da498d19f64f}" record_timestamp="1445848257475" record_key="wh_main_payload_event_boon_of_tzeentch">
+<effect_bundle_key>wh_main_payload_event_boon_of_tzeentch</effect_bundle_key>
+<payload_key>wh_main_payload_event_boon_of_tzeentch</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{84189f42-e8b7-4b51-a9bb-7fe48afd73a4}" record_timestamp="1441969568887" record_key="wh_main_payload_event_bray-herds">
+<effect_bundle_key>wh_main_payload_event_bray-herds</effect_bundle_key>
+<payload_key>wh_main_payload_event_bray-herds</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{a40eff78-d617-46aa-ae2d-86cd498c37db}" record_timestamp="1444139283122" record_key="wh_main_payload_event_bring_forth_the_dead">
+<effect_bundle_key>wh_main_payload_event_bring_forth_the_dead</effect_bundle_key>
+<payload_key>wh_main_payload_event_bring_forth_the_dead</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{93b3fbb2-98a4-49be-b3ab-f7513fad005a}" record_timestamp="1441969568893" record_key="wh_main_payload_event_burgomeisters_demands">
+<effect_bundle_key>wh_main_payload_event_burgomeisters_demands</effect_bundle_key>
+<payload_key>wh_main_payload_event_burgomeisters_demands</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{94589fc8-7824-422b-8e99-cfc1fd81493c}" record_timestamp="1445849378380" record_key="wh_main_payload_event_chaos_cult">
+<effect_bundle_key>wh_main_payload_event_chaos_cult</effect_bundle_key>
+<payload_key>wh_main_payload_event_chaos_cult</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{7a31de46-d5d3-4b93-8aae-6e72156bb4ec}" record_timestamp="1444902244295" record_key="wh_main_payload_event_chs_horde_growth">
+<effect_bundle_key>wh_main_payload_event_chs_horde_growth</effect_bundle_key>
+<payload_key>wh_main_payload_event_chs_horde_growth</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{28831d2f-c534-469e-bf87-8c3d54a00de5}" record_timestamp="1444139281612" record_key="wh_main_payload_event_curse_of_morr">
+<effect_bundle_key>wh_main_payload_event_curse_of_morr</effect_bundle_key>
+<payload_key>wh_main_payload_event_curse_of_morr</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{23022aed-4b19-4f88-b4d1-04d10b64956b}" record_timestamp="1442314370073" record_key="wh_main_payload_event_da_great_green_prophet">
+<effect_bundle_key>wh_main_payload_event_da_great_green_prophet</effect_bundle_key>
+<payload_key>wh_main_payload_event_da_great_green_prophet</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{70ab7118-b710-4698-bee0-77bef341159e}" record_timestamp="1442314369995" record_key="wh_main_payload_event_da_great_green_prophet_bad">
+<effect_bundle_key>wh_main_payload_event_da_great_green_prophet_bad</effect_bundle_key>
+<payload_key>wh_main_payload_event_da_great_green_prophet_bad</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{fa940c0d-c19e-49da-8663-20bb3dafce6e}" record_timestamp="1444139285262" record_key="wh_main_payload_event_dark_nexus">
+<effect_bundle_key>wh_main_payload_event_dark_nexus</effect_bundle_key>
+<payload_key>wh_main_payload_event_dark_nexus</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{806759ca-dfea-4ee9-943c-12a7c56eb57b}" record_timestamp="1444139284258" record_key="wh_main_payload_event_dire_wolf_packs">
+<effect_bundle_key>wh_main_payload_event_dire_wolf_packs</effect_bundle_key>
+<payload_key>wh_main_payload_event_dire_wolf_packs</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{65c85fb2-ecf2-46fe-8f66-ad0fc72043de}" record_timestamp="1445849934798" record_key="wh_main_payload_event_dragon_ogres_awake">
+<effect_bundle_key>wh_main_payload_event_dragon_ogres_awake</effect_bundle_key>
+<payload_key>wh_main_payload_event_dragon_ogres_awake</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{f9eb3327-2f05-4060-9909-3f7827064ed3}" record_timestamp="1441969568881" record_key="wh_main_payload_event_elector_count">
+<effect_bundle_key>wh_main_payload_event_elector_count</effect_bundle_key>
+<payload_key>wh_main_payload_event_elector_count</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{fb74ade1-b82a-41d0-9296-3bc7d789ce27}" record_timestamp="1455622798089" record_key="wh_main_payload_event_elector_greed">
+<effect_bundle_key>wh_main_payload_event_elector_greed</effect_bundle_key>
+<payload_key>wh_main_payload_event_elector_greed</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{90cc199e-8b37-4eee-bfce-6c2eb7ea8b34}" record_timestamp="1444902244294" record_key="wh_main_payload_event_eye_of_the_gods">
+<effect_bundle_key>wh_main_payload_event_eye_of_the_gods</effect_bundle_key>
+<payload_key>wh_main_payload_event_eye_of_the_gods</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{46c5ba29-9a9c-4389-821a-59ba52d3be1e}" record_timestamp="1444902244295" record_key="wh_main_payload_event_eye_of_the_gods_bad">
+<effect_bundle_key>wh_main_payload_event_eye_of_the_gods_bad</effect_bundle_key>
+<payload_key>wh_main_payload_event_eye_of_the_gods_bad</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b7930de4-2a97-4678-9cf7-e25aea413297}" record_timestamp="1455712091340" record_key="wh_main_payload_event_feasting_on_the_smallfolk_second">
+<effect_bundle_key>wh_main_payload_event_feasting_on_the_smallfolk_second</effect_bundle_key>
+<payload_key>wh_main_payload_event_feasting_on_the_smallfolk_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{fc150465-3163-4183-8f57-1c76bc3be089}" record_timestamp="1444139282362" record_key="wh_main_payload_event_fresh_corpses">
+<effect_bundle_key>wh_main_payload_event_fresh_corpses</effect_bundle_key>
+<payload_key>wh_main_payload_event_fresh_corpses</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{4353663d-bcba-46cb-9c27-e1cbfe7d696d}" record_timestamp="1441969568876" record_key="wh_main_payload_event_geheimnisnacht">
+<effect_bundle_key>wh_main_payload_event_geheimnisnacht</effect_bundle_key>
+<payload_key>wh_main_payload_event_geheimnisnacht</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{79e56a30-4656-4cb8-8ddd-d2867c294731}" record_timestamp="1455630113651" record_key="wh_main_payload_event_get_out_of_da_way_second">
+<effect_bundle_key>wh_main_payload_event_get_out_of_da_way_second</effect_bundle_key>
+<payload_key>wh_main_payload_event_get_out_of_da_way_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b6897052-bce0-4faa-a1a6-0035593faac3}" record_timestamp="1444139280437" record_key="wh_main_payload_event_ghoul_swarm">
+<effect_bundle_key>wh_main_payload_event_ghoul_swarm</effect_bundle_key>
+<payload_key>wh_main_payload_event_ghoul_swarm</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{e967b60e-aa7f-4fb3-b06d-371cd01bbc9b}" record_timestamp="1455630112263" record_key="wh_main_payload_event_gork">
+<effect_bundle_key>wh_main_payload_event_gork</effect_bundle_key>
+<payload_key>wh_main_payload_event_gork</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{472f9883-864a-4aa8-9fbc-dc5b3f987cb0}" record_timestamp="1444139284856" record_key="wh_main_payload_event_grave_rot">
+<effect_bundle_key>wh_main_payload_event_grave_rot</effect_bundle_key>
+<payload_key>wh_main_payload_event_grave_rot</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{5b74e804-40fb-45bf-aafc-9a5fe04966b2}" record_timestamp="1451997916821" record_key="wh_main_payload_event_grudge_settled">
+<effect_bundle_key>wh_main_payload_event_grudge_settled</effect_bundle_key>
+<payload_key>wh_main_payload_event_grudge_settled</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{27bb4bd3-140a-4922-909b-d910f9080d72}" record_timestamp="1444139281192" record_key="wh_main_payload_event_hexensnacht">
+<effect_bundle_key>wh_main_payload_event_hexensnacht</effect_bundle_key>
+<payload_key>wh_main_payload_event_hexensnacht</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{cfe655e6-ce10-4a5e-b50d-e2ab50991693}" record_timestamp="1444139281982" record_key="wh_main_payload_event_influence_of_nagash">
+<effect_bundle_key>wh_main_payload_event_influence_of_nagash</effect_bundle_key>
+<payload_key>wh_main_payload_event_influence_of_nagash</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{58bd6c88-af12-44a6-b054-32ff355d917c}" record_timestamp="1455712092133" record_key="wh_main_payload_event_legacy_of_nagash_first">
+<effect_bundle_key>wh_main_payload_event_legacy_of_nagash_first</effect_bundle_key>
+<payload_key>wh_main_payload_event_legacy_of_nagash_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{22508f12-ddd8-4ec5-990b-aadca1228bb9}" record_timestamp="1455712092102" record_key="wh_main_payload_event_legacy_of_nagash_second">
+<effect_bundle_key>wh_main_payload_event_legacy_of_nagash_second</effect_bundle_key>
+<payload_key>wh_main_payload_event_legacy_of_nagash_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{e8eb7582-5146-47f8-bb2c-eca663ef5e93}" record_timestamp="1442314335936" record_key="wh_main_payload_event_mad_cap_mushroom_shortage">
+<effect_bundle_key>wh_main_payload_event_mad_cap_mushroom_shortage</effect_bundle_key>
+<payload_key>wh_main_payload_event_mad_cap_mushroom_shortage</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{72963877-3986-4374-9cf4-32f17c47f8e5}" record_timestamp="1444139282772" record_key="wh_main_payload_event_meddling_of_wizards">
+<effect_bundle_key>wh_main_payload_event_meddling_of_wizards</effect_bundle_key>
+<payload_key>wh_main_payload_event_meddling_of_wizards</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{782ffe40-fa4f-4bc3-b940-0ebdf1f6a3d7}" record_timestamp="1455630112305" record_key="wh_main_payload_event_mork">
+<effect_bundle_key>wh_main_payload_event_mork</effect_bundle_key>
+<payload_key>wh_main_payload_event_mork</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{d8ec8a92-3529-49f7-bc0e-04269b3b45c4}" record_timestamp="1445848749151" record_key="wh_main_payload_event_pleasure_palace_of_slaanesh">
+<effect_bundle_key>wh_main_payload_event_pleasure_palace_of_slaanesh</effect_bundle_key>
+<payload_key>wh_main_payload_event_pleasure_palace_of_slaanesh</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{d14ab942-1f64-46b8-9498-dc628f0142ff}" record_timestamp="1442314376547" record_key="wh_main_payload_event_recruiting_shortage">
+<effect_bundle_key>wh_main_payload_event_recruiting_shortage</effect_bundle_key>
+<payload_key>wh_main_payload_event_recruiting_shortage</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{596f9024-ac1c-43bf-840e-3e9c7e6c143b}" record_timestamp="1442314376485" record_key="wh_main_payload_event_recruiting_surplus">
+<effect_bundle_key>wh_main_payload_event_recruiting_surplus</effect_bundle_key>
+<payload_key>wh_main_payload_event_recruiting_surplus</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{eedd76ce-1140-4272-8b42-b3cd4311360c}" record_timestamp="1441969568889" record_key="wh_main_payload_event_rogue_necromancer">
+<effect_bundle_key>wh_main_payload_event_rogue_necromancer</effect_bundle_key>
+<payload_key>wh_main_payload_event_rogue_necromancer</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{308b1e99-af47-48c3-8305-0005cbd883ff}" record_timestamp="1442491821070" record_key="wh_main_payload_event_seal_the_hold">
+<effect_bundle_key>wh_main_payload_event_seal_the_hold</effect_bundle_key>
+<payload_key>wh_main_payload_event_seal_the_hold</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{c2a05910-2447-45e6-997d-a567156e1474}" record_timestamp="1442491825959" record_key="wh_main_payload_event_sky_saboteur">
+<effect_bundle_key>wh_main_payload_event_sky_saboteur</effect_bundle_key>
+<payload_key>wh_main_payload_event_sky_saboteur</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{a979f24c-8d5e-49c1-9bca-99239d5ff7a7}" record_timestamp="1442491823540" record_key="wh_main_payload_event_slayer_pilgrimage">
+<effect_bundle_key>wh_main_payload_event_slayer_pilgrimage</effect_bundle_key>
+<payload_key>wh_main_payload_event_slayer_pilgrimage</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{d69e49db-e9a3-4562-ba5a-99165aa8dd8c}" record_timestamp="1442314371680" record_key="wh_main_payload_event_sneaky_gobbos">
+<effect_bundle_key>wh_main_payload_event_sneaky_gobbos</effect_bundle_key>
+<payload_key>wh_main_payload_event_sneaky_gobbos</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{f2626dee-39c2-480c-a706-d53397f1c9a8}" record_timestamp="1442314371321" record_key="wh_main_payload_event_spider_boom">
+<effect_bundle_key>wh_main_payload_event_spider_boom</effect_bundle_key>
+<payload_key>wh_main_payload_event_spider_boom</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{79e45c83-a2a4-4758-94f9-68560b6b46e5}" record_timestamp="1442314372788" record_key="wh_main_payload_event_squig_rampage">
+<effect_bundle_key>wh_main_payload_event_squig_rampage</effect_bundle_key>
+<payload_key>wh_main_payload_event_squig_rampage</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{5f2f8d61-5fb0-4610-a5db-8d6e0695ad9a}" record_timestamp="1444902244295" record_key="wh_main_payload_event_temple_of_skulls">
+<effect_bundle_key>wh_main_payload_event_temple_of_skulls</effect_bundle_key>
+<payload_key>wh_main_payload_event_temple_of_skulls</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{0195dbac-6d46-4a97-9949-362489a6a7e9}" record_timestamp="1455631233376" record_key="wh_main_payload_event_the_eye_closes_second">
+<effect_bundle_key>wh_main_payload_event_the_eye_closes_second</effect_bundle_key>
+<payload_key>wh_main_payload_event_the_eye_closes_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{f8676593-2e03-437a-a2dd-0beb0960c2c5}" record_timestamp="1455631233409" record_key="wh_main_payload_event_the_eye_opens_first">
+<effect_bundle_key>wh_main_payload_event_the_eye_opens_first</effect_bundle_key>
+<payload_key>wh_main_payload_event_the_eye_opens_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{a4dda4ad-2dda-47fc-ac04-9b3ed2c8f7e3}" record_timestamp="1455631233442" record_key="wh_main_payload_event_the_eye_opens_second">
+<effect_bundle_key>wh_main_payload_event_the_eye_opens_second</effect_bundle_key>
+<payload_key>wh_main_payload_event_the_eye_opens_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{4442cff3-ac91-43d3-8fba-9a7353292fa4}" record_timestamp="1455631233475" record_key="wh_main_payload_event_the_eye_opens_wider_first">
+<effect_bundle_key>wh_main_payload_event_the_eye_opens_wider_first</effect_bundle_key>
+<payload_key>wh_main_payload_event_the_eye_opens_wider_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{17988228-1403-456c-8a18-a716d4af0549}" record_timestamp="1455631233309" record_key="wh_main_payload_event_the_eye_opens_wider_second">
+<effect_bundle_key>wh_main_payload_event_the_eye_opens_wider_second</effect_bundle_key>
+<payload_key>wh_main_payload_event_the_eye_opens_wider_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{ac98b11f-2bcb-4ab3-8477-0c6da4695b29}" record_timestamp="1455704053272" record_key="wh_main_payload_event_the_glower_of_morrslieb">
+<effect_bundle_key>wh_main_payload_event_the_glower_of_morrslieb</effect_bundle_key>
+<payload_key>wh_main_payload_event_the_glower_of_morrslieb</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b9ef9bb5-4439-401d-bc1c-1facebeddd19}" record_timestamp="1455704056680" record_key="wh_main_payload_event_the_gods_are_angry_first">
+<effect_bundle_key>wh_main_payload_event_the_gods_are_angry_first</effect_bundle_key>
+<payload_key>wh_main_payload_event_the_gods_are_angry_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{a27347a6-eb2a-4b76-8899-c9c2f156f97e}" record_timestamp="1455704056713" record_key="wh_main_payload_event_the_gods_are_angry_second">
+<effect_bundle_key>wh_main_payload_event_the_gods_are_angry_second</effect_bundle_key>
+<payload_key>wh_main_payload_event_the_gods_are_angry_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{ae2b69a1-c4af-4b7d-9201-433b8097f8bb}" record_timestamp="1455712092645" record_key="wh_main_payload_event_the_prince_of_nothing_first">
+<effect_bundle_key>wh_main_payload_event_the_prince_of_nothing_first</effect_bundle_key>
+<payload_key>wh_main_payload_event_the_prince_of_nothing_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{3ede91ef-e1cd-441e-b0c1-13df4c5fbb6e}" record_timestamp="1442491827207" record_key="wh_main_payload_event_the_slayer_oath">
+<effect_bundle_key>wh_main_payload_event_the_slayer_oath</effect_bundle_key>
+<payload_key>wh_main_payload_event_the_slayer_oath</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{8a8ca9a5-2221-48e0-a734-d782b6d7d002}" record_timestamp="1444902244295" record_key="wh_main_payload_event_the_spawn_tide">
+<effect_bundle_key>wh_main_payload_event_the_spawn_tide</effect_bundle_key>
+<payload_key>wh_main_payload_event_the_spawn_tide</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{037b11e3-61a1-483e-a408-91feb9ac4a8f}" record_timestamp="1442314369481" record_key="wh_main_payload_event_troll_migration">
+<effect_bundle_key>wh_main_payload_event_troll_migration</effect_bundle_key>
+<payload_key>wh_main_payload_event_troll_migration</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{037cd5a9-c1ee-4872-b416-81586f1527d9}" record_timestamp="1441969568790" record_key="wh_main_payload_event_twin-tailed_comet_bad">
+<effect_bundle_key>wh_main_payload_event_twin-tailed_comet_bad</effect_bundle_key>
+<payload_key>wh_main_payload_event_twin-tailed_comet_bad</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{c0ef8d84-66a0-4f62-b1c6-3dd99b2f7de0}" record_timestamp="1441969568790" record_key="wh_main_payload_event_twin-tailed_comet_good">
+<effect_bundle_key>wh_main_payload_event_twin-tailed_comet_good</effect_bundle_key>
+<payload_key>wh_main_payload_event_twin-tailed_comet_good</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{8e8b25ee-3940-4809-b5bb-741608918a58}" record_timestamp="1441969568884" record_key="wh_main_payload_event_tzeentchian_cult">
+<effect_bundle_key>wh_main_payload_event_tzeentchian_cult</effect_bundle_key>
+<payload_key>wh_main_payload_event_tzeentchian_cult</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{8efba9d3-5739-4379-9ea1-c709d9ef6279}" record_timestamp="1442491824430" record_key="wh_main_payload_event_underway_upgraded">
+<effect_bundle_key>wh_main_payload_event_underway_upgraded</effect_bundle_key>
+<payload_key>wh_main_payload_event_underway_upgraded</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{7ff6d2c4-a2ce-43c7-b131-4a16221c5b26}" record_timestamp="1455630112648" record_key="wh_main_payload_event_wanderin_gits_first">
+<effect_bundle_key>wh_main_payload_event_wanderin_gits_first</effect_bundle_key>
+<payload_key>wh_main_payload_event_wanderin_gits_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{00956fe8-823c-4164-b0bb-2c463289e75a}" record_timestamp="1455637534105" record_key="wh_main_payload_event_what_would_grungni_do_first">
+<effect_bundle_key>wh_main_payload_event_what_would_grungni_do_first</effect_bundle_key>
+<payload_key>wh_main_payload_event_what_would_grungni_do_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{f7d4f026-b571-45ee-a5dd-4b5c3eb8f980}" record_timestamp="1455630114309" record_key="wh_main_payload_event_wheres_ma_teef_first">
+<effect_bundle_key>wh_main_payload_event_wheres_ma_teef_first</effect_bundle_key>
+<payload_key>wh_main_payload_event_wheres_ma_teef_first</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{53ee8649-2993-4c88-96f6-92042c46e23f}" record_timestamp="1455630114344" record_key="wh_main_payload_event_wheres_ma_teef_second">
+<effect_bundle_key>wh_main_payload_event_wheres_ma_teef_second</effect_bundle_key>
+<payload_key>wh_main_payload_event_wheres_ma_teef_second</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{aa240945-99ae-40db-885e-ce0a801c557c}" record_timestamp="1444139279407" record_key="wh_main_payload_event_witch_hunter_incursion">
+<effect_bundle_key>wh_main_payload_event_witch_hunter_incursion</effect_bundle_key>
+<payload_key>wh_main_payload_event_witch_hunter_incursion</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b6f56167-1918-476a-a229-b801ec1b4637}" record_timestamp="1441884103308" record_key="wh_main_payload_festag_faction">
+<effect_bundle_key>wh_main_payload_event_festag_faction</effect_bundle_key>
+<payload_key>wh_main_payload_festag_faction</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{c1a91877-8042-492d-bd5f-b397c80d4fe2}" record_timestamp="1441884102483" record_key="wh_main_payload_gdp_negative_region">
+<effect_bundle_key>wh_main_payload_gdp_negative_region</effect_bundle_key>
+<payload_key>wh_main_payload_gdp_negative_region</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{cf1fc70f-34de-4784-9e99-9378f624c47e}" record_timestamp="1441884102528" record_key="wh_main_payload_gdp_positive_region">
+<effect_bundle_key>wh_main_payload_gdp_positive_region</effect_bundle_key>
+<payload_key>wh_main_payload_gdp_positive_region</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{9d85a62a-bc5d-4f50-9ef0-6e5e335d07aa}" record_timestamp="1441884094278" record_key="wh_main_payload_growth_negative_province">
+<effect_bundle_key>wh_main_payload_growth_negative_province</effect_bundle_key>
+<payload_key>wh_main_payload_growth_negative_province</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{2effd27d-5d62-4950-9671-e2636ba6dd09}" record_timestamp="1441884099523" record_key="wh_main_payload_growth_positive_province">
+<effect_bundle_key>wh_main_payload_growth_positive_province</effect_bundle_key>
+<payload_key>wh_main_payload_growth_positive_province</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{d38896e3-ede4-40bd-9b13-4d82b302b96a}" record_timestamp="1443544708004" record_key="wh_main_payload_improved_agent_chs_champion_exalted_hero">
+<effect_bundle_key>wh_main_payload_improved_agent_chs_champion_exalted_hero</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_chs_champion_exalted_hero</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{32b1556a-90a8-4751-8ead-3a4179bc1809}" record_timestamp="1443544707872" record_key="wh_main_payload_improved_agent_chs_wizard_chaos_sorceror">
+<effect_bundle_key>wh_main_payload_improved_agent_chs_wizard_chaos_sorceror</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_chs_wizard_chaos_sorceror</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{2389819a-f475-4ca6-ae1a-f931b9042773}" record_timestamp="1443544708271" record_key="wh_main_payload_improved_agent_dwf_champion_thane">
+<effect_bundle_key>wh_main_payload_improved_agent_dwf_champion_thane</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_dwf_champion_thane</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{552af66e-c76a-4275-8259-fff0fa91290b}" record_timestamp="1443544708137" record_key="wh_main_payload_improved_agent_dwf_engineer">
+<effect_bundle_key>wh_main_payload_improved_agent_dwf_engineer</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_dwf_engineer</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{c01d55b7-037e-416e-b4ac-154f14cd7a1c}" record_timestamp="1443544708538" record_key="wh_main_payload_improved_agent_dwf_runesmith">
+<effect_bundle_key>wh_main_payload_improved_agent_dwf_runesmith</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_dwf_runesmith</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{700ff4cb-68ef-4a8b-ad5c-113cf7fe5462}" record_timestamp="1443544708405" record_key="wh_main_payload_improved_agent_emp_champion_captain">
+<effect_bundle_key>wh_main_payload_improved_agent_emp_champion_captain</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_emp_champion_captain</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{600e0034-f009-4f04-828a-e93b7e1fcb32}" record_timestamp="1443544710933" record_key="wh_main_payload_improved_agent_emp_dignitary_warrior_priest">
+<effect_bundle_key>wh_main_payload_improved_agent_emp_dignitary_warrior_priest</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_emp_dignitary_warrior_priest</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{66e7ea50-2feb-43d6-a625-d0bab95f449a}" record_timestamp="1443544710799" record_key="wh_main_payload_improved_agent_emp_spy_witch_hunter">
+<effect_bundle_key>wh_main_payload_improved_agent_emp_spy_witch_hunter</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_emp_spy_witch_hunter</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{f186f814-ca68-416b-a316-ef5d73baf457}" record_timestamp="1443544711202" record_key="wh_main_payload_improved_agent_emp_wizard">
+<effect_bundle_key>wh_main_payload_improved_agent_emp_wizard</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_emp_wizard</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{a4f53296-3ee7-4a07-8d6c-a788362f2fc6}" record_timestamp="1443544711067" record_key="wh_main_payload_improved_agent_grn_spy_goblin_boss">
+<effect_bundle_key>wh_main_payload_improved_agent_grn_spy_goblin_boss</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_grn_spy_goblin_boss</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{fb001046-6a62-4dec-85aa-dbb60c51d729}" record_timestamp="1443544707211" record_key="wh_main_payload_improved_agent_grn_wizard_shaman">
+<effect_bundle_key>wh_main_payload_improved_agent_grn_wizard_shaman</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_grn_wizard_shaman</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{bb01f53e-c7bd-49fc-a0dd-6366128c8343}" record_timestamp="1443544707080" record_key="wh_main_payload_improved_agent_vmp_champion_wight_king">
+<effect_bundle_key>wh_main_payload_improved_agent_vmp_champion_wight_king</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_vmp_champion_wight_king</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{5e1124b6-ed22-4500-8f94-dedd71fbf371}" record_timestamp="1443544707475" record_key="wh_main_payload_improved_agent_vmp_dignitary_vampire">
+<effect_bundle_key>wh_main_payload_improved_agent_vmp_dignitary_vampire</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_vmp_dignitary_vampire</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{1d35a08a-488e-4d2a-b8bc-d668db45e3ab}" record_timestamp="1443544707343" record_key="wh_main_payload_improved_agent_vmp_spy_banshee">
+<effect_bundle_key>wh_main_payload_improved_agent_vmp_spy_banshee</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_vmp_spy_banshee</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{afc7ca24-4fc2-48a2-b6f4-2793cc269c88}" record_timestamp="1443544709735" record_key="wh_main_payload_improved_agent_vmp_wizard_necromancer">
+<effect_bundle_key>wh_main_payload_improved_agent_vmp_wizard_necromancer</effect_bundle_key>
+<payload_key>wh_main_payload_improved_agent_vmp_wizard_necromancer</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{4fc87b76-c0e9-45dc-956e-583fb6733824}" record_timestamp="1455704055835" record_key="wh_main_payload_migration">
+<effect_bundle_key>wh_main_payload_migration</effect_bundle_key>
+<payload_key>wh_main_payload_migration</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{75c42c66-a20c-463b-9ade-84a10945b0cf}" record_timestamp="1443544709601" record_key="wh_main_payload_morale_all">
+<effect_bundle_key>wh_main_payload_morale_all</effect_bundle_key>
+<payload_key>wh_main_payload_morale_all</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{e0081602-4d30-40cb-b9b2-379a52609b9f}" record_timestamp="1443544710133" record_key="wh_main_payload_morale_army">
+<effect_bundle_key>wh_main_payload_morale_army</effect_bundle_key>
+<payload_key>wh_main_payload_morale_army</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{d248af21-b0ae-4746-ae1d-17b2b778ab79}" record_timestamp="1443544709868" record_key="wh_main_payload_morale_navy">
+<effect_bundle_key>wh_main_payload_morale_navy</effect_bundle_key>
+<payload_key>wh_main_payload_morale_navy</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{3b7fb061-ce40-4aa8-b199-2477806bbbc5}" record_timestamp="1443544710398" record_key="wh_main_payload_morale_versus_chaos">
+<effect_bundle_key>wh_main_payload_morale_versus_chaos</effect_bundle_key>
+<payload_key>wh_main_payload_morale_versus_chaos</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{b86e2bee-681e-4202-b51b-837ac938510b}" record_timestamp="1443544710265" record_key="wh_main_payload_morale_versus_dwarfs">
+<effect_bundle_key>wh_main_payload_morale_versus_dwarfs</effect_bundle_key>
+<payload_key>wh_main_payload_morale_versus_dwarfs</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{0bcbc89e-fa01-45f3-ac57-44ae2a58ffd6}" record_timestamp="1443544710665" record_key="wh_main_payload_morale_versus_empire">
+<effect_bundle_key>wh_main_payload_morale_versus_empire</effect_bundle_key>
+<payload_key>wh_main_payload_morale_versus_empire</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{98ec9f5c-978e-4ef3-a6a5-686e05e450a8}" record_timestamp="1444902244309" record_key="wh_main_payload_morale_versus_empire_negative">
+<effect_bundle_key>wh_main_payload_morale_versus_empire_negative</effect_bundle_key>
+<payload_key>wh_main_payload_morale_versus_empire_negative</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{f8cd71fc-69c8-4d7f-81b9-32a4118aaa4d}" record_timestamp="1443544710531" record_key="wh_main_payload_morale_versus_greenskins">
+<effect_bundle_key>wh_main_payload_morale_versus_greenskins</effect_bundle_key>
+<payload_key>wh_main_payload_morale_versus_greenskins</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{f038c32d-1b79-42ef-8345-f1e2b931c56e}" record_timestamp="1443544708804" record_key="wh_main_payload_morale_versus_vampires">
+<effect_bundle_key>wh_main_payload_morale_versus_vampires</effect_bundle_key>
+<payload_key>wh_main_payload_morale_versus_vampires</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{ce6a376f-d634-4f8b-9789-533688b466c0}" record_timestamp="1455622797677" record_key="wh_main_payload_movement_restriction">
+<effect_bundle_key>wh_main_payload_movement_restriction</effect_bundle_key>
+<payload_key>wh_main_payload_movement_restriction</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{951b8f8e-b365-48d8-95c4-e6ce81fbdcb2}" record_timestamp="1441884104268" record_key="wh_main_payload_piracy_faction">
+<effect_bundle_key>wh_main_payload_piracy_faction</effect_bundle_key>
+<payload_key>wh_main_payload_piracy_faction</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{467f10de-8716-442f-ae28-3dca87772aa9}" record_timestamp="1441884100188" record_key="wh_main_payload_public_order_negative_province">
+<effect_bundle_key>wh_main_payload_public_order_negative_province</effect_bundle_key>
+<payload_key>wh_main_payload_public_order_negative_province</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{d12e976a-f9f3-4fbb-a4bc-7811f7f16cd0}" record_timestamp="1441884098043" record_key="wh_main_payload_public_order_positive_province">
+<effect_bundle_key>wh_main_payload_public_order_positive_province</effect_bundle_key>
+<payload_key>wh_main_payload_public_order_positive_province</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{66366a1c-b36e-43b1-a1b8-941d434cb502}" record_timestamp="1455622797290" record_key="wh_main_payload_sacking_positive">
+<effect_bundle_key>wh_main_payload_sacking_positive</effect_bundle_key>
+<payload_key>wh_main_payload_sacking_positive</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{f13010df-e215-4fd7-94cd-7dd79a3a97db}" record_timestamp="1441884103838" record_key="wh_main_payload_setback_lost_force">
+<effect_bundle_key>wh_main_payload_setback_lost_force</effect_bundle_key>
+<payload_key>wh_main_payload_setback_lost_force</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{8880ae14-65d4-4dec-a085-d4c8b2115ef2}" record_timestamp="1455622797395" record_key="wh_main_payload_taxes">
+<effect_bundle_key>wh_main_payload_taxes</effect_bundle_key>
+<payload_key>wh_main_payload_taxes</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{dd16d4f2-c446-4f19-afb2-f1a0b54c2012}" record_timestamp="1443544708671" record_key="wh_main_payload_training_artillery">
+<effect_bundle_key>wh_main_payload_training_artillery</effect_bundle_key>
+<payload_key>wh_main_payload_training_artillery</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{d0e90c2a-6f93-46e1-8102-ee3fa33dc8f2}" record_timestamp="1443544709069" record_key="wh_main_payload_training_cavalry">
+<effect_bundle_key>wh_main_payload_training_cavalry</effect_bundle_key>
+<payload_key>wh_main_payload_training_cavalry</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{566c97a6-6e94-48d1-b20a-8e1bf067d52c}" record_timestamp="1443544708937" record_key="wh_main_payload_training_infantry_melee">
+<effect_bundle_key>wh_main_payload_training_infantry_melee</effect_bundle_key>
+<payload_key>wh_main_payload_training_infantry_melee</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{281eef4f-805a-4448-adb7-949360a0b3a5}" record_timestamp="1443544709335" record_key="wh_main_payload_training_infantry_ranged">
+<effect_bundle_key>wh_main_payload_training_infantry_ranged</effect_bundle_key>
+<payload_key>wh_main_payload_training_infantry_ranged</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{7d95d204-1029-45c9-85ee-947c707c73b8}" record_timestamp="1443544709203" record_key="wh_main_payload_training_war_beasts">
+<effect_bundle_key>wh_main_payload_training_war_beasts</effect_bundle_key>
+<payload_key>wh_main_payload_training_war_beasts</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{7f0d0c13-a8ae-4c99-a52b-0a5c9906839b}" record_timestamp="1443544709468" record_key="wh_main_payload_training_war_machines">
+<effect_bundle_key>wh_main_payload_training_war_machines</effect_bundle_key>
+<payload_key>wh_main_payload_training_war_machines</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{d6cb76a5-49ab-4a5c-895c-c435fa5fad4c}" record_timestamp="1455704054768" record_key="wh_main_payload_untainted">
+<effect_bundle_key>wh_main_payload_untainted</effect_bundle_key>
+<payload_key>wh_main_payload_untainted</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{122aab51-14d5-4ac9-84ac-3ebeca499875}" record_timestamp="1455704055107" record_key="wh_main_payload_vampiric_corruption">
+<effect_bundle_key>wh_main_payload_vampiric_corruption</effect_bundle_key>
+<payload_key>wh_main_payload_vampiric_corruption</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{9819812a-e110-4797-a3d4-c687fd7baff8}" record_timestamp="1474296121775" record_key="wh_pro01_payload_bugmens_treat">
+<effect_bundle_key>wh_pro01_payload_bugmens_treat</effect_bundle_key>
+<payload_key>wh_pro01_payload_bugmens_treat</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{39e613af-959f-4334-879c-787ca846d12d}" record_timestamp="1477035585017" record_key="wh_pro01_payload_god_choice_grimnir">
+<effect_bundle_key>wh_pro01_bundle_god_choice_grimnir</effect_bundle_key>
+<payload_key>wh_pro01_payload_god_choice_grimnir</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{1e13dcea-6b38-4187-8569-ec2b52d80571}" record_timestamp="1477035585016" record_key="wh_pro01_payload_god_choice_grungni">
+<effect_bundle_key>wh_pro01_bundle_god_choice_grungni</effect_bundle_key>
+<payload_key>wh_pro01_payload_god_choice_grungni</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{238aebf3-6c52-4164-8749-2abb33c34447}" record_timestamp="1477035585016" record_key="wh_pro01_payload_god_choice_valaya">
+<effect_bundle_key>wh_pro01_bundle_god_choice_valaya</effect_bundle_key>
+<payload_key>wh_pro01_payload_god_choice_valaya</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{e895effe-bea8-498c-b9fc-e2241764c11b}" record_timestamp="1477035585015" record_key="wh_pro01_payload_god_choice_white_dwarf">
+<effect_bundle_key>wh_pro01_bundle_god_choice_white_dwarf</effect_bundle_key>
+<payload_key>wh_pro01_payload_god_choice_white_dwarf</payload_key>
+</cdir_events_payloads>
+<cdir_events_payloads record_uuid="{35c16074-a196-4d2a-8a36-59c70f24c67a}" record_timestamp="1474299183368" record_key="wh_pro01_payload_refuse_bugmens_treat">
+<effect_bundle_key>wh_pro01_payload_refuse_bugmens_treat</effect_bundle_key>
+<payload_key>wh_pro01_payload_refuse_bugmens_treat</payload_key>
+</cdir_events_payloads>
+</dataroot>

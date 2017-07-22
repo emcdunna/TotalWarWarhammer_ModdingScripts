@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="abilities.xsd" export_time="Wed Apr 6 11:00:17 2016" revision="16" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>b9b66683-c87f-47a7-bb05-ac506df7239c</edit_uuid>
+<abilities record_uuid="{dcb0f17f-9a68-432c-b634-7d704e416a71}" record_timestamp="1425652755587" record_key="assist_army">
+<ability>assist_army</ability>
+<on_screen_description state="APPROVED" last_approved_text="Your hero will join the army in battle and enhance the force on the campaign map." last_edit_user="bob">Your hero will join the army in battle and enhance the force on the campaign map.</on_screen_description>
+<on_screen_name state="APPROVED" last_approved_text="Embed Hero" last_edit_user="bob">Embed Hero</on_screen_name>
+</abilities>
+<abilities record_uuid="{7901319b-de17-4918-bd7a-3424e95ac66e}" record_timestamp="1425652755587" record_key="assist_province">
+<ability>assist_province</ability>
+<on_screen_description state="APPROVED" last_approved_text="Your hero will use their skills to assist the workings of the local province." last_edit_user="bob">Your hero will use their skills to assist the workings of the local province.</on_screen_description>
+<on_screen_name state="APPROVED" last_approved_text="Deploy Hero" last_edit_user="bob">Deploy Hero</on_screen_name>
+</abilities>
+<abilities record_uuid="{8cb71ca4-5e52-48cc-bb72-1344376d8a05}" record_timestamp="1437578276642" record_key="command_force">
+<ability>command_force</ability>
+<on_screen_description state="IGNORED" last_approved_text="[PH]" last_edit_user="bob">a</on_screen_description>
+<on_screen_name state="IGNORED" last_approved_text="[PH]" last_edit_user="bob"> </on_screen_name>
+</abilities>
+<abilities record_uuid="{6063ac05-21eb-4059-b7ee-0878b3dd606c}" record_timestamp="1425653585324" record_key="hinder_agent">
+<ability>hinder_agent</ability>
+<on_screen_description state="APPROVED" last_approved_text="Your hero will convert the opposing hero to join your cause." last_edit_user="bob">Your hero will convert the opposing hero to join your cause.</on_screen_description>
+<on_screen_name state="APPROVED" last_approved_text="Manipulate Hero" last_edit_user="bob">Manipulate Hero</on_screen_name>
+</abilities>
+<abilities record_uuid="{ae3595a7-7576-481b-9715-4e7f9c5d284c}" record_timestamp="1425653173009" record_key="hinder_army">
+<ability>hinder_army</ability>
+<on_screen_description state="APPROVED" last_approved_text="Your hero will cause damage to the opposing army or hinder their effectiveness on the campaign map." last_edit_user="bob">Your hero will cause damage to the opposing army or hinder their effectiveness on the campaign map.</on_screen_description>
+<on_screen_name state="APPROVED" last_approved_text="Target Army" last_edit_user="bob">Target Army</on_screen_name>
+</abilities>
+<abilities record_uuid="{67b6c446-f5bc-4ecb-8ad1-2021cf15d559}" record_timestamp="1425653585448" record_key="hinder_character">
+<ability>hinder_character</ability>
+<on_screen_description state="APPROVED" last_approved_text="Your hero will assassinate the opposing character." last_edit_user="bob">Your hero will assassinate the opposing character.</on_screen_description>
+<on_screen_name state="APPROVED" last_approved_text="Assassinate" last_edit_user="bob">Assassinate</on_screen_name>
+</abilities>
+<abilities record_uuid="{5da6a0ec-2ef8-423a-b51e-047d694ea703}" record_timestamp="1425652755588" record_key="hinder_province">
+<ability>hinder_province</ability>
+<on_screen_description state="APPROVED" last_approved_text="Your hero will use their skills to diminish the workings of the opposing province." last_edit_user="bob">Your hero will use their skills to diminish the workings of the opposing province.</on_screen_description>
+<on_screen_name state="APPROVED" last_approved_text="Deploy Hero" last_edit_user="bob">Deploy Hero</on_screen_name>
+</abilities>
+<abilities record_uuid="{b104f84e-4194-478a-9a57-a5653cf079af}" record_timestamp="1425653173087" record_key="hinder_settlement">
+<ability>hinder_settlement</ability>
+<on_screen_description state="APPROVED" last_approved_text="Your hero will impede the opposing settlement's effectiveness." last_edit_user="bob">Your hero will impede the opposing settlement's effectiveness.</on_screen_description>
+<on_screen_name state="APPROVED" last_approved_text="Target Settlement" last_edit_user="bob">Target Settlement</on_screen_name>
+</abilities>
+<abilities record_uuid="{30cad921-eebf-49d6-86dc-9dd8940109c1}" record_timestamp="1424165356736" record_key="passive_ability">
+<ability>passive_ability</ability>
+<on_screen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </on_screen_description>
+<on_screen_name state="IGNORED" last_approved_text="[PH]" last_edit_user="bob"> </on_screen_name>
+</abilities>
+</dataroot>

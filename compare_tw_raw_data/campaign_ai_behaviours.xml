@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_ai_behaviours.xsd" export_time="Wed Nov 16 19:18:58 2016" revision="18" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>93b0533e-97fa-4ab9-af8e-baf3211bdcf7</edit_uuid>
+<campaign_ai_behaviours record_uuid="{806fdfcb-df46-4d4d-abe0-b4d5c9d4f382}" record_timestamp="1479323920187" record_key="CHARACTER_POST_ASSIGNMENT_BEHAVIOUR">
+<behaviour>CHARACTER_POST_ASSIGNMENT_BEHAVIOUR</behaviour>
+<description></description>
+</campaign_ai_behaviours>
+<campaign_ai_behaviours record_uuid="{b9ce3118-7754-4b76-8793-8e76b5411da5}" record_timestamp="1370421989422" record_key="CHARACTER_SKILL_MANAGEMENT">
+<behaviour>CHARACTER_SKILL_MANAGEMENT</behaviour>
+<description></description>
+</campaign_ai_behaviours>
+<campaign_ai_behaviours record_uuid="{93b1a3a1-446d-4fcc-93b5-f2f8c81f961a}" record_timestamp="1363702541215" record_key="CONSTRUCTION_SYSTEM_BEHAVIOUR">
+<behaviour>CONSTRUCTION_SYSTEM_BEHAVIOUR</behaviour>
+<description>Construction, repair and demolition of buildings</description>
+</campaign_ai_behaviours>
+<campaign_ai_behaviours record_uuid="{90cfe7a8-1b05-40c8-b469-776045f76e96}" record_key="DIPLOMACY_MANAGER">
+<behaviour>DIPLOMACY_MANAGER</behaviour>
+<description></description>
+</campaign_ai_behaviours>
+<campaign_ai_behaviours record_uuid="{12ec64a0-7ecb-4577-87ee-94ebd4afb41b}" record_timestamp="1370357222179" record_key="FORCE_LEGACY_SKILL_MANAGEMENT">
+<behaviour>FORCE_LEGACY_SKILL_MANAGEMENT</behaviour>
+<description></description>
+</campaign_ai_behaviours>
+<campaign_ai_behaviours record_uuid="{330e40ba-c6a8-440f-94ae-b141953bfbd5}" record_key="MINIMUM_SAVING">
+<behaviour>MINIMUM_SAVING</behaviour>
+<description></description>
+</campaign_ai_behaviours>
+<campaign_ai_behaviours record_uuid="{0f7c693f-deed-4e46-93c4-8a2c1ff07833}" record_timestamp="1370944537494" record_key="PROVINCE_INITIATIVE_MANAGEMENT">
+<behaviour>PROVINCE_INITIATIVE_MANAGEMENT</behaviour>
+<description></description>
+</campaign_ai_behaviours>
+<campaign_ai_behaviours record_uuid="{993a93b9-2299-4e58-9557-2a235ef0cd94}" record_timestamp="1445341531976" record_key="REASSIGN_GENERALS_BEHAVIOUR">
+<behaviour>REASSIGN_GENERALS_BEHAVIOUR</behaviour>
+<description></description>
+</campaign_ai_behaviours>
+<campaign_ai_behaviours record_uuid="{bab90b30-5419-42a9-a818-a24dc5d455b8}" record_timestamp="1421942520480" record_key="RELIGION_MANAGEMENT_BEHAVIOUR">
+<behaviour>RELIGION_MANAGEMENT_BEHAVIOUR</behaviour>
+<description></description>
+</campaign_ai_behaviours>
+<campaign_ai_behaviours record_uuid="{b5a6466f-dd46-4fec-a4b6-e486458d3ba7}" record_key="RESEARCH_TECHNOLOGY">
+<behaviour>RESEARCH_TECHNOLOGY</behaviour>
+<description></description>
+</campaign_ai_behaviours>
+<campaign_ai_behaviours record_uuid="{a434ae9f-c55e-421c-9059-e4a3b014aafc}" record_timestamp="1363702310966" record_key="TASK_MANAGEMENT_SYSTEM">
+<behaviour>TASK_MANAGEMENT_SYSTEM</behaviour>
+<description></description>
+</campaign_ai_behaviours>
+<campaign_ai_behaviours record_uuid="{ebc99376-bcfe-4c8e-ba12-825f54e13976}" record_key="TAXATION">
+<behaviour>TAXATION</behaviour>
+<description></description>
+</campaign_ai_behaviours>
+</dataroot>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_post_battle_captive_options.xsd" export_time="Thu Jan 12 15:22:21 2017" revision="36" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>32019fc2-8d76-4f12-9903-b4146191a54b</edit_uuid>
+<campaign_post_battle_captive_options record_uuid="{1064b1ba-094f-43af-98f8-38629b880b1c}" record_timestamp="1484234516916" record_key="enslavewh_captive_option_enslave_bretonnia">
+<campaign_group>wh_captive_option_enslave_bretonnia</campaign_group>
+<captive_option>enslave</captive_option>
+<description state="APPROVED" last_approved_text="These men are our kin. If they are willing to repent their actions we should offer them a place among our ranks." last_edit_user="bob">These men are our kin. If they are willing to repent their actions we should offer them a place among our ranks.</description>
+<effect_bundle></effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_enslave.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Offer Redemption" last_edit_user="bob">Offer Redemption</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{e7fddc65-d18f-4ac5-a941-a9cb9d0d7909}" record_timestamp="1445586204610" record_key="enslavewh_captive_option_enslave_chaos">
+<campaign_group>wh_captive_option_enslave_chaos</campaign_group>
+<captive_option>enslave</captive_option>
+<description state="APPROVED" last_approved_text="Enslave these fools - break them and consume their souls!" last_edit_user="bob">Enslave these fools - break them and consume their souls!</description>
+<effect_bundle></effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_enslave.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Enslave Captives" last_edit_user="bob">Enslave Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{f941b4f4-b0c8-47ea-8f3c-59be6c3528ac}" record_timestamp="1448980619449" record_key="enslavewh_captive_option_enslave_dwarfs">
+<campaign_group>wh_captive_option_enslave_dwarfs</campaign_group>
+<captive_option>enslave</captive_option>
+<description state="APPROVED" last_approved_text="Press these Dawi into binding oaths and bring them into your throng." last_edit_user="bob">Press these Dawi into binding oaths and bring them into your throng.</description>
+<effect_bundle></effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_enslave.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Take on Captives" last_edit_user="bob">Take on Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{2c5d0073-7209-4325-8303-f2aa50b2bafb}" record_timestamp="1455902842123" record_key="enslavewh_captive_option_enslave_greenskins">
+<campaign_group>wh_captive_option_enslave_greenskins</campaign_group>
+<captive_option>enslave</captive_option>
+<description state="APPROVED" last_approved_text="These scraggy gits look tasty - eat 'em up and replenish the boyz with full stomachs!" last_edit_user="bob">These scraggy gits look tasty - eat 'em up and replenish the boyz with full stomachs!</description>
+<effect_bundle></effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_grn_eat.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Eat Captives" last_edit_user="bob">Eat Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{47c3b2ea-bc2b-4a61-a2dd-0ccc58a4b75c}" record_timestamp="1448980619499" record_key="enslavewh_captive_option_enslave_humans">
+<campaign_group>wh_captive_option_enslave_humans</campaign_group>
+<captive_option>enslave</captive_option>
+<description state="APPROVED" last_approved_text="Force these troops to change allegiance and allow them to serve in your army." last_edit_user="bob">Force these troops to change allegiance and allow them to serve in your army.</description>
+<effect_bundle></effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_enslave.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Take on Captives" last_edit_user="bob">Take on Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{9c271ba5-1d37-4d08-9b00-7d5b8973d6fa}" record_timestamp="1448980619709" record_key="enslavewh_captive_option_enslave_vampire_counts">
+<campaign_group>wh_captive_option_enslave_vampire_counts</campaign_group>
+<captive_option>enslave</captive_option>
+<description state="APPROVED" last_approved_text="Dominate these enemy minions! Let your will subsume the lingering influence of any pitiful liche before and enshrine your majesty in its place." last_edit_user="bob">Dominate these enemy minions! Let your will subsume the lingering influence of any pitiful liche before and enshrine your majesty in its place.</description>
+<effect_bundle></effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_dominate.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Dominate Captives" last_edit_user="bob">Dominate Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{840c817d-cec1-4992-b2cc-032639420211}" record_timestamp="1468496797681" record_key="enslavewh_dlc03_captive_option_enslave_beastmen">
+<campaign_group>wh_dlc03_captive_option_enslave_beastmen</campaign_group>
+<captive_option>enslave</captive_option>
+<description state="APPROVED" last_approved_text="Dragged to sacrifice before the herdstone, captives are ripped apart and consumed by the ever-ravenous Beastmen." last_edit_user="bob">Dragged to sacrifice before the herdstone, captives are ripped apart and consumed by the ever-ravenous Beastmen.</description>
+<effect_bundle></effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_bst_devour.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Devour Captives" last_edit_user="bob">Devour Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{dfb6892d-f4f0-42ba-be11-3511faa5ad7c}" record_timestamp="1481888117507" record_key="enslavewh_dlc05_captive_option_enslave_wood_elves">
+<campaign_group>wh_dlc05_captive_option_enslave_wood_elves</campaign_group>
+<captive_option>enslave</captive_option>
+<description state="APPROVED" last_approved_text="Force these troops to change allegiance and allow them to serve in your army." last_edit_user="bob">Force these troops to change allegiance and allow them to serve in your army.</description>
+<effect_bundle></effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_dominate.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Take on Captives" last_edit_user="bob">Take on Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{a039e3e1-604e-4567-b7e2-6a7acf50bee2}" record_timestamp="1484234516916" record_key="killwh_captive_option_kill_bretonnia">
+<campaign_group>wh_captive_option_kill_bretonnia</campaign_group>
+<captive_option>kill</captive_option>
+<description state="APPROVED" last_approved_text="For standing against our righteous cause, these men must pay the ultimate price. Kill them all." last_edit_user="bob">For standing against our righteous cause, these men must pay the ultimate price. Kill them all.</description>
+<effect_bundle>wh_main_bundle_captives_kill_bretonnia</effect_bundle>
+<effect_bundle_turns>5</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_kill.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Execute Captives" last_edit_user="bob">Execute Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{0fe53f4b-cd88-4d7a-8fe9-1843a7aeb3c1}" record_timestamp="1455191671307" record_key="killwh_captive_option_kill_chaos">
+<campaign_group>wh_captive_option_kill_chaos</campaign_group>
+<captive_option>kill</captive_option>
+<description state="APPROVED" last_approved_text="Slaughter the captives in the name of the Chaos Gods!" last_edit_user="bob">Slaughter the captives in the name of the Chaos Gods!</description>
+<effect_bundle>wh_main_bundle_captives_kill_chaos</effect_bundle>
+<effect_bundle_turns>5</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_kill.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Kill Captives" last_edit_user="bob">Kill Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{06cb86ea-e489-43db-86d3-ad673849ab33}" record_timestamp="1455191671312" record_key="killwh_captive_option_kill_dwarfs">
+<campaign_group>wh_captive_option_kill_dwarfs</campaign_group>
+<captive_option>kill</captive_option>
+<description state="APPROVED" last_approved_text="Leave no grudge unavenged, kill all captives! The enemy and their allies will despise you for such a dishonourable action, but their foes will rejoice!" last_edit_user="bob">Leave no grudge unavenged, kill all captives! The enemy and their allies will despise you for such a dishonourable action, but their foes will rejoice!</description>
+<effect_bundle>wh_main_bundle_captives_kill_dwarfs</effect_bundle>
+<effect_bundle_turns>5</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_kill.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Execute Captives" last_edit_user="bob">Execute Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{55bd3a2f-74d0-48ca-817e-e071ff153e5f}" record_timestamp="1455191671318" record_key="killwh_captive_option_kill_greenskins">
+<campaign_group>wh_captive_option_kill_greenskins</campaign_group>
+<captive_option>kill</captive_option>
+<description state="APPROVED" last_approved_text="Kill 'em all! The enemy and their allies will really hate you for this, but da enemy’s enemy will appreciate it…" last_edit_user="bob">Kill 'em all! The enemy and their allies will really hate you for this, but da enemy’s enemy will appreciate it…</description>
+<effect_bundle>wh_main_bundle_captives_kill_greenskins</effect_bundle>
+<effect_bundle_turns>5</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_grn_slaughter.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Slaughter Captives" last_edit_user="bob">Slaughter Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{aaadc8d0-6d60-4baf-be44-2f2e78fa8b29}" record_timestamp="1455191671324" record_key="killwh_captive_option_kill_humans">
+<campaign_group>wh_captive_option_kill_humans</campaign_group>
+<captive_option>kill</captive_option>
+<description state="APPROVED" last_approved_text="Leave no captives alive. The foe and their allies will not look upon you kindly, but their enemies will respect your decision." last_edit_user="bob">Leave no captives alive. The foe and their allies will not look upon you kindly, but their enemies will respect your decision.</description>
+<effect_bundle>wh_main_bundle_captives_kill_humans</effect_bundle>
+<effect_bundle_turns>5</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_kill.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Execute Captives" last_edit_user="bob">Execute Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{c90ce909-e57c-446c-a31e-987bf8443ce0}" record_timestamp="1455191671330" record_key="killwh_captive_option_kill_vampire_counts">
+<campaign_group>wh_captive_option_kill_vampire_counts</campaign_group>
+<captive_option>kill</captive_option>
+<description state="APPROVED" last_approved_text="Feed them to the Dire Wolves, their corpses will no doubt come in handy later! The victims' empire and their allies will loathe you, but their enemies will like it." last_edit_user="bob">Feed them to the Dire Wolves, their corpses will no doubt come in handy later! The victims' empire and their allies will loathe you, but their enemies will like it.</description>
+<effect_bundle>wh_main_bundle_captives_kill_vampire_counts</effect_bundle>
+<effect_bundle_turns>5</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_kill.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Murder Captives" last_edit_user="bob">Murder Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{afcae8bf-74d9-48e1-9ce2-16d28d64aa85}" record_timestamp="1456845019474" record_key="killwh_dlc03_captive_option_kill_beastmen">
+<campaign_group>wh_dlc03_captive_option_kill_beastmen</campaign_group>
+<captive_option>kill</captive_option>
+<description state="APPROVED" last_approved_text="Slaughter the captives in the name of the Chaos Gods!" last_edit_user="bob">Slaughter the captives in the name of the Chaos Gods!</description>
+<effect_bundle>wh_main_bundle_captives_kill_chaos</effect_bundle>
+<effect_bundle_turns>5</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_kill.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Kill Captives" last_edit_user="bob">Kill Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{2adf727b-7c38-4cca-b9b8-53742b5ab13a}" record_timestamp="1481888053377" record_key="killwh_dlc05_captive_option_kill_wood_elves">
+<campaign_group>wh_dlc05_captive_option_kill_wood_elves</campaign_group>
+<captive_option>kill</captive_option>
+<description state="APPROVED" last_approved_text="Leave no captives alive. The foe and their allies will not look upon you kindly, but their enemies will respect your decision." last_edit_user="bob">Leave no captives alive. The foe and their allies will not look upon you kindly, but their enemies will respect your decision.</description>
+<effect_bundle>wh_dlc05_bundle_captives_kill_wood_elves</effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_kill.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Kill Captives" last_edit_user="bob">Kill Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{c80a5d12-f2ad-4c80-8d87-62e0bfe3f3da}" record_timestamp="1484234516916" record_key="releasewh_captive_option_release_bretonnia">
+<campaign_group>wh_captive_option_release_bretonnia</campaign_group>
+<captive_option>release</captive_option>
+<description state="APPROVED" last_approved_text="Although certainly not a chivalrous act, we can ransom these men back to their masters in return for some coin." last_edit_user="bob">Although certainly not a chivalrous act, we can ransom these men back to their masters in return for some coin.</description>
+<effect_bundle>wh_main_bundle_captives_release_bretonnia</effect_bundle>
+<effect_bundle_turns>0</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_ransom.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Ransom Captives" last_edit_user="bob">Ransom Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{a87c81a0-6686-4c9b-a259-ea5b5c33c0ee}" record_timestamp="1451998457314" record_key="releasewh_captive_option_release_chaos">
+<campaign_group>wh_captive_option_release_chaos</campaign_group>
+<captive_option>release</captive_option>
+<description state="APPROVED" last_approved_text="Offer these captives to the Chaos Gods in return for their favour." last_edit_user="bob">Offer these captives to the Chaos Gods in return for their favour.</description>
+<effect_bundle></effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_chs_ransom.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Sacrifice Captives" last_edit_user="bob">Sacrifice Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{2cc1ad73-49c3-43f1-bea2-e82be8379ba7}" record_timestamp="1448980619599" record_key="releasewh_captive_option_release_dwarfs">
+<campaign_group>wh_captive_option_release_dwarfs</campaign_group>
+<captive_option>release</captive_option>
+<description state="APPROVED" last_approved_text="A grudge has been settled, the honourable thing is to allow the captives to leave. Not that it matters, but the enemy will look upon us favourably." last_edit_user="bob">A grudge has been settled, the honourable thing is to allow the captives to leave. Not that it matters, but the enemy will look upon us favourably.</description>
+<effect_bundle>wh_main_bundle_captives_release_dwarfs</effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_release_captives.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Release Captives" last_edit_user="bob">Release Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{187bf0f8-fc4e-4909-a6e5-85ef0510111e}" record_timestamp="1445586204829" record_key="releasewh_captive_option_release_greenskins">
+<campaign_group>wh_captive_option_release_greenskins</campaign_group>
+<captive_option>release</captive_option>
+<description state="APPROVED" last_approved_text="Earn some extra loot by selling the captives off! The enemy will even thank ya for not eatin' 'em alive." last_edit_user="bob">Earn some extra loot by selling the captives off! The enemy will even thank ya for not eatin' 'em alive.</description>
+<effect_bundle></effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_ransom.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Ransom Captives" last_edit_user="bob">Ransom Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{c3316fc9-b3c5-4f6d-9cb2-04bb5927ff68}" record_timestamp="1448980619619" record_key="releasewh_captive_option_release_humans">
+<campaign_group>wh_captive_option_release_humans</campaign_group>
+<captive_option>release</captive_option>
+<description state="APPROVED" last_approved_text="Allow these warriors to return to their homelands, for a ransom. Despite dipping into their treasury, the enemy will appreciate such a deed." last_edit_user="bob">Allow these warriors to return to their homelands, for a ransom. Despite dipping into their treasury, the enemy will appreciate such a deed.</description>
+<effect_bundle>wh_main_bundle_captives_release_humans</effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_ransom.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Pardon Captives" last_edit_user="bob">Pardon Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{549f8f91-126d-4448-880c-390ba8f47bce}" record_timestamp="1448980619729" record_key="releasewh_captive_option_release_vampire_counts">
+<campaign_group>wh_captive_option_release_vampire_counts</campaign_group>
+<captive_option>release</captive_option>
+<description state="APPROVED" last_approved_text="Send the captives to their homes, unspoilt… for a price. The enemy will show gratitude, allowing you to further your machinations." last_edit_user="bob">Send the captives to their homes, unspoilt… for a price. The enemy will show gratitude, allowing you to further your machinations.</description>
+<effect_bundle>wh_main_bundle_captives_release_vampire_counts</effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_vmp_ransom.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Return Captives" last_edit_user="bob">Return Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{6e1aa297-9649-4511-abf8-5bd47fa87116}" record_timestamp="1468500668566" record_key="releasewh_dlc03_captive_option_release_beastmen">
+<campaign_group>wh_dlc03_captive_option_release_beastmen</campaign_group>
+<captive_option>release</captive_option>
+<description state="APPROVED" last_approved_text="Offer these captives to the Chaos Gods in return for their favour. Offering captives to the Chaos Gods ensures their favour, but your herd will be hungry and unhappy as a result." last_edit_user="bob">Offer these captives to the Chaos Gods in return for their favour. Offering captives to the Chaos Gods ensures their favour, but your herd will be hungry and unhappy as a result.</description>
+<effect_bundle></effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_chs_ransom.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Sacrifice Captives" last_edit_user="bob">Sacrifice Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+<campaign_post_battle_captive_options record_uuid="{15ea8df3-52ed-433d-a851-eab07dc4e2a2}" record_timestamp="1481038846410" record_key="releasewh_dlc05_captive_option_release_wood_elves">
+<campaign_group>wh_dlc05_captive_option_release_wood_elves</campaign_group>
+<captive_option>release</captive_option>
+<description state="APPROVED" last_approved_text="Allow these warriors to return to their homelands, for a ransom. Despite dipping into their treasury, the enemy will appreciate such a deed." last_edit_user="bob">Allow these warriors to return to their homelands, for a ransom. Despite dipping into their treasury, the enemy will appreciate such a deed.</description>
+<effect_bundle></effect_bundle>
+<effect_bundle_turns>1</effect_bundle_turns>
+<icon_path>UI/Campaign UI/captive_option_icons/icon_ransom.png</icon_path>
+<onscreen_name state="APPROVED" last_approved_text="Release Captives" last_edit_user="bob">Release Captives</onscreen_name>
+</campaign_post_battle_captive_options>
+</dataroot>

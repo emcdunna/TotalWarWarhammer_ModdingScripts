@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_construction_system_templates_junctions.xsd" export_time="Wed Sep 9 16:12:57 2015" revision="11" export_branch="E:/TW/warhammer/src" export_user="bob">
+<edit_uuid>3be500f7-f19d-41ec-a40a-06e0e4f6e7f5</edit_uuid>
+<cai_construction_system_templates_junctions record_uuid="{de31278d-2e8a-42c2-9159-8f0d966acbad}" record_timestamp="1431530391314" record_key="cai_construction_system_template_basic_balancedcai_military_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_military_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_basic_balanced</cai_construction_system_template>
+<value>50</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{34766ed2-1075-4070-88ca-8e023eaba3db}" record_timestamp="1431530391390" record_key="cai_construction_system_template_basic_balancedcai_support_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_support_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_basic_balanced</cai_construction_system_template>
+<value>50</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{3d97209f-e04a-4ccf-8ad3-1498793cc5a8}" record_timestamp="1431530391466" record_key="cai_construction_system_template_basic_economiccai_military_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_military_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_basic_economic</cai_construction_system_template>
+<value>25</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{2d56b259-9e70-47bf-af62-cdbeb384101c}" record_timestamp="1431530391542" record_key="cai_construction_system_template_basic_economiccai_support_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_support_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_basic_economic</cai_construction_system_template>
+<value>75</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{2892db06-030c-4a37-ad64-8c945897fcb5}" record_timestamp="1431530391619" record_key="cai_construction_system_template_basic_militarycai_military_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_military_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_basic_military</cai_construction_system_template>
+<value>75</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{057bdd50-b1f1-4f87-978c-162751807d1b}" record_timestamp="1431530391694" record_key="cai_construction_system_template_basic_militarycai_support_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_support_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_basic_military</cai_construction_system_template>
+<value>25</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{fa1b7a56-c665-4095-963e-cc4e9a3daa1f}" record_timestamp="1431530391849" record_key="cai_construction_system_template_economist_balancedcai_military_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_military_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_economist_balanced</cai_construction_system_template>
+<value>35</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{4ae634f5-97ca-4e84-8bb0-8ba5c4af78e4}" record_timestamp="1431530391771" record_key="cai_construction_system_template_economist_balancedcai_support_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_support_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_economist_balanced</cai_construction_system_template>
+<value>65</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{8db8867f-6d60-4b09-a2a5-efcf15bd1b33}" record_timestamp="1431530392832" record_key="cai_construction_system_template_economist_economiccai_military_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_military_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_economist_economic</cai_construction_system_template>
+<value>20</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{95245446-a1ee-4dcd-b53b-750e7e118614}" record_timestamp="1431530392908" record_key="cai_construction_system_template_economist_economiccai_support_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_support_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_economist_economic</cai_construction_system_template>
+<value>80</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{f3de0ea3-5cb7-468f-8e4c-f67c5fc4c53e}" record_timestamp="1431530392077" record_key="cai_construction_system_template_economist_militarycai_military_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_military_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_economist_military</cai_construction_system_template>
+<value>50</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{7a8e9787-cf0c-4ce9-af2a-8b690dcbb3f7}" record_timestamp="1431530392153" record_key="cai_construction_system_template_economist_militarycai_support_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_support_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_economist_military</cai_construction_system_template>
+<value>50</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{eb1da8a8-4707-45dc-b135-42fd9fd1a797}" record_timestamp="1431530392530" record_key="cai_construction_system_template_militaristic_balancedcai_military_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_military_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_militaristic_balanced</cai_construction_system_template>
+<value>65</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{482b37ab-5fbe-4f3a-a4c3-3840698828cf}" record_timestamp="1431530392606" record_key="cai_construction_system_template_militaristic_balancedcai_support_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_support_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_militaristic_balanced</cai_construction_system_template>
+<value>35</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{1a6f637b-7bc6-4eb5-bbd3-fd778ecee42b}" record_timestamp="1431530392682" record_key="cai_construction_system_template_militaristic_economiccai_military_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_military_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_militaristic_economic</cai_construction_system_template>
+<value>50</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{e3455232-c265-4fe3-a165-30f1178bb654}" record_timestamp="1431530392757" record_key="cai_construction_system_template_militaristic_economiccai_support_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_support_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_militaristic_economic</cai_construction_system_template>
+<value>50</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{93965002-ba32-49cf-baf0-c75a6bd2aa25}" record_timestamp="1431530392379" record_key="cai_construction_system_template_militaristic_militarycai_military_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_military_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_militaristic_military</cai_construction_system_template>
+<value>80</value>
+</cai_construction_system_templates_junctions>
+<cai_construction_system_templates_junctions record_uuid="{e978582e-a15d-4b2d-a930-8a23906c52ce}" record_timestamp="1431530392455" record_key="cai_construction_system_template_militaristic_militarycai_support_group">
+<cai_construction_system_category></cai_construction_system_category>
+<cai_construction_system_category_group>cai_support_group</cai_construction_system_category_group>
+<cai_construction_system_template>cai_construction_system_template_militaristic_military</cai_construction_system_template>
+<value>20</value>
+</cai_construction_system_templates_junctions>
+</dataroot>

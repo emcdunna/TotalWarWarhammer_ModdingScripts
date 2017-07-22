@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_ability_types.xsd" export_time="Thu Jan 26 15:01:06 2017" revision="26" export_branch="E:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>a13cfe8d-a2ca-4e90-a5a8-2385c0cd66e8</edit_uuid>
+<unit_ability_types record_uuid="{8901a7df-4c15-4067-aad2-ce71b6ad15ed}" record_timestamp="1457100358664" record_key="wh_type_area_of_augments">
+<icon_path>ui/battle ui/ability_icons/icon_spell_augment.png</icon_path>
+<key>wh_type_area_of_augments</key>
+<localised_description state="APPROVED" last_approved_text="Augments strengthen the caster’s friends and allies, enhancing their battlefield prowess." last_edit_user="bob">Augments strengthen the caster’s friends and allies, enhancing their battlefield prowess.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_augment.png]][[/img]]Augment (Area)" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_augment.png]][[/img]]Augment (Area)</onscreen_name>
+<show_cursor_trail>0</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{771b0438-c5ea-4f6e-b38e-cd88f2554da8}" record_timestamp="1457100358716" record_key="wh_type_area_of_direct_damage">
+<icon_path>ui/battle ui/ability_icons/icon_spell_direct_damage.png</icon_path>
+<key>wh_type_area_of_direct_damage</key>
+<localised_description state="APPROVED" last_approved_text="Direct Damage spells are deadly attacks that suck the life from the foe." last_edit_user="bob">Direct Damage spells are deadly attacks that suck the life from the foe.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_direct_damage.png]][[/img]]Direct Damage (Area)" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_direct_damage.png]][[/img]]Direct Damage (Area)</onscreen_name>
+<show_cursor_trail>0</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{595ec323-86e9-4ecd-99cb-ab7d0a4ba294}" record_timestamp="1457100358762" record_key="wh_type_area_of_hexes">
+<icon_path>ui/battle ui/ability_icons/icon_spell_hex.png</icon_path>
+<key>wh_type_area_of_hexes</key>
+<localised_description state="APPROVED" last_approved_text="Hexes weaken the enemy, making them easier to slay." last_edit_user="bob">Hexes weaken the enemy, making them easier to slay.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_hex.png]][[/img]]Hex (Area)" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_hex.png]][[/img]]Hex (Area)</onscreen_name>
+<show_cursor_trail>0</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{0aa78854-511a-43c4-8d7b-5becd81b33f5}" record_timestamp="1457100745395" record_key="wh_type_augment">
+<icon_path>ui/battle ui/ability_icons/icon_spell_augment.png</icon_path>
+<key>wh_type_augment</key>
+<localised_description state="APPROVED" last_approved_text="Augments strengthen the caster’s friends and allies, enhancing their battlefield prowess." last_edit_user="bob">Augments strengthen the caster’s friends and allies, enhancing their battlefield prowess.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_augment.png]][[/img]]Augment" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_augment.png]][[/img]]Augment</onscreen_name>
+<show_cursor_trail>1</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{fcaac354-4003-44bb-8c12-a0520dab40af}" record_timestamp="1457100358850" record_key="wh_type_augment_of_the_winds">
+<icon_path>ui/battle ui/ability_icons/icon_spell_augment.png</icon_path>
+<key>wh_type_augment_of_the_winds</key>
+<localised_description state="APPROVED" last_approved_text="Augments strengthen the caster’s friends and allies, enhancing their battlefield prowess." last_edit_user="bob">Augments strengthen the caster’s friends and allies, enhancing their battlefield prowess.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_augment.png]][[/img]]Augment of the Winds" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_augment.png]][[/img]]Augment of the Winds</onscreen_name>
+<show_cursor_trail>0</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{821c8eea-74cb-4a6e-b68f-06ab64812ed6}" record_timestamp="1457100358895" record_key="wh_type_bombardment">
+<icon_path>ui/battle ui/ability_icons/icon_spell_bombardment.png</icon_path>
+<key>wh_type_bombardment</key>
+<localised_description state="APPROVED" last_approved_text="A Bombardment rains down missiles from the sky directly above the target." last_edit_user="bob">A Bombardment rains down missiles from the sky directly above the target.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_bombardment.png]][[/img]]Bombardment" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_bombardment.png]][[/img]]Bombardment</onscreen_name>
+<show_cursor_trail>0</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{10b551d0-567d-4c6a-830c-646c16255735}" record_timestamp="1457100358942" record_key="wh_type_breath">
+<icon_path>ui/battle ui/ability_icons/icon_spell_breath.png</icon_path>
+<key>wh_type_breath</key>
+<localised_description state="APPROVED" last_approved_text="When directed at the enemy, Breath chokes them with noxious fumes or incinerates their flesh." last_edit_user="bob">When directed at the enemy, Breath chokes them with noxious fumes or incinerates their flesh.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_breath.png]][[/img]]Breath" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_breath.png]][[/img]]Breath</onscreen_name>
+<show_cursor_trail>0</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{e1491f49-85d3-4fb6-9cb4-98afd64c018d}" record_timestamp="1457100358993" record_key="wh_type_direct_damage">
+<icon_path>ui/battle ui/ability_icons/icon_spell_direct_damage.png</icon_path>
+<key>wh_type_direct_damage</key>
+<localised_description state="APPROVED" last_approved_text="Direct Damage spells are deadly attacks that devastate their targets." last_edit_user="bob">Direct Damage spells are deadly attacks that devastate their targets.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_direct_damage.png]][[/img]]Direct Damage" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_direct_damage.png]][[/img]]Direct Damage</onscreen_name>
+<show_cursor_trail>0</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{7c27e485-b948-4a6e-869a-c3117c492cd7}" record_timestamp="1462358729721" record_key="wh_type_explosion">
+<icon_path>ui/battle ui/ability_icons/icon_spell_explosion.png</icon_path>
+<key>wh_type_explosion</key>
+<localised_description state="APPROVED" last_approved_text="Explosions cause damage that radiates outwards from their source in all directions." last_edit_user="bob">Explosions cause damage that radiates outwards from their source in all directions.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_explosion.png]][[/img]]Explosion" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_explosion.png]][[/img]]Explosion</onscreen_name>
+<show_cursor_trail>0</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{7fda76be-172b-4815-a09a-5666fc465e3f}" record_timestamp="1470061853364" record_key="wh_type_formation">
+<icon_path>ui/battle ui/ability_icons/icon_formation.png</icon_path>
+<key>wh_type_formation</key>
+<localised_description state="APPROVED" last_approved_text="Unit formations focuses them on a singular goal." last_edit_user="bob">Unit formations focuses them on a singular goal.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_formation.png]][[/img]]Formation" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_formation.png]][[/img]]Formation</onscreen_name>
+<show_cursor_trail>0</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{3c58d9ff-495b-4fcf-b33c-7891127aa488}" record_timestamp="1457100359109" record_key="wh_type_hex">
+<icon_path>ui/battle ui/ability_icons/icon_spell_hex.png</icon_path>
+<key>wh_type_hex</key>
+<localised_description state="APPROVED" last_approved_text="Hexes weaken the enemy, making them easier to slay." last_edit_user="bob">Hexes weaken the enemy, making them easier to slay.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_hex.png]][[/img]]Hex" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_hex.png]][[/img]]Hex</onscreen_name>
+<show_cursor_trail>0</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{2ed400af-2633-4927-815d-6caa3c096a7a}" record_timestamp="1457100359167" record_key="wh_type_hex_of_the_winds">
+<icon_path>ui/battle ui/ability_icons/icon_spell_hex.png</icon_path>
+<key>wh_type_hex_of_the_winds</key>
+<localised_description state="APPROVED" last_approved_text="Hexes weaken the enemy, making them easier to slay." last_edit_user="bob">Hexes weaken the enemy, making them easier to slay.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_hex.png]][[/img]]Hex of the Winds" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_hex.png]][[/img]]Hex of the Winds</onscreen_name>
+<show_cursor_trail>0</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{f28fc9d4-4acb-4bf7-acb1-8ab9ffb1e307}" record_timestamp="1457100359224" record_key="wh_type_magic_missile">
+<icon_path>ui/battle ui/ability_icons/icon_spell_magic_missile.png</icon_path>
+<key>wh_type_magic_missile</key>
+<localised_description state="APPROVED" last_approved_text="Magic Missiles are sorcerous projectiles that spellcasters hurl directly at their foes." last_edit_user="bob">Magic Missiles are sorcerous projectiles that spellcasters hurl directly at their foes.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_magic_missile.png]][[/img]]Magic Missile" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_magic_missile.png]][[/img]]Magic Missile</onscreen_name>
+<show_cursor_trail>1</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{a64b743d-e6fb-4852-8fbd-c7d8bbf6cfc0}" record_timestamp="1457100359290" record_key="wh_type_magic_missiles">
+<icon_path>ui/battle ui/ability_icons/icon_spell_magic_missile.png</icon_path>
+<key>wh_type_magic_missiles</key>
+<localised_description state="APPROVED" last_approved_text="Magic Missiles are sorcerous projectiles that spellcasters hurl directly at their foes." last_edit_user="bob">Magic Missiles are sorcerous projectiles that spellcasters hurl directly at their foes.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_magic_missile.png]][[/img]]Magic Missiles" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_magic_missile.png]][[/img]]Magic Missiles</onscreen_name>
+<show_cursor_trail>1</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{4b39ae8b-ad06-4fbc-8d69-d6ad3021f60c}" record_timestamp="1457100359354" record_key="wh_type_vortex">
+<icon_path>ui/battle ui/ability_icons/icon_spell_vortex.png</icon_path>
+<key>wh_type_vortex</key>
+<localised_description state="APPROVED" last_approved_text="A roiling, deadly Vortex steadily damages foes and wrenches them from their ranks." last_edit_user="bob">A roiling, deadly Vortex steadily damages foes and wrenches them from their ranks.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_vortex.png]][[/img]]Vortex" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_vortex.png]][[/img]]Vortex</onscreen_name>
+<show_cursor_trail>0</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{6e49a542-9017-4e93-bbf0-0f7136b26ff9}" record_timestamp="1457100359405" record_key="wh_type_ward_save">
+<icon_path>ui/battle ui/ability_icons/icon_spell_ward_save.png</icon_path>
+<key>wh_type_ward_save</key>
+<localised_description state="APPROVED" last_approved_text="A type of arcane resilience, Ward Saves prevent certain types of damage from affecting their bearers." last_edit_user="bob">A type of arcane resilience, Ward Saves prevent certain types of damage from affecting their bearers.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_ward_save.png]][[/img]]Ward Save" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_ward_save.png]][[/img]]Ward Save</onscreen_name>
+<show_cursor_trail>0</show_cursor_trail>
+</unit_ability_types>
+<unit_ability_types record_uuid="{02b0b86e-ac54-4c1b-b8d8-a989c9f20bef}" record_timestamp="1459933411712" record_key="wh_type_wind">
+<icon_path>ui/battle ui/ability_icons/icon_spell_wind.png</icon_path>
+<key>wh_type_wind</key>
+<localised_description state="APPROVED" last_approved_text="An irresistable gust drives through all that lies in its path." last_edit_user="bob">An irresistable gust drives through all that lies in its path.</localised_description>
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/icon_spell_wind.png]][[/img]]Wind" last_edit_user="bob">[[img:ui/battle ui/ability_icons/icon_spell_wind.png]][[/img]]Wind</onscreen_name>
+<show_cursor_trail>0</show_cursor_trail>
+</unit_ability_types>
+</dataroot>

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personality_occupation_decision_priorities.xsd" export_time="Tue Dec 6 15:49:42 2016" revision="17" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>8d60e7d9-ea9c-41bc-8e55-4f3702341247</edit_uuid>
+<cai_personality_occupation_decision_priorities record_uuid="{e198205c-7ba6-4058-b808-f11113b20adf}" record_timestamp="1453745722789" record_key="default_earlyoccupation_decision_gift_to_another_factionfalse">
+<component_id>default_early</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>2000</last_stand_priority>
+<option>occupation_decision_gift_to_another_faction</option>
+<peace_priority>2000</peace_priority>
+<tension_priority>2000</tension_priority>
+<total_war_priority>2000</total_war_priority>
+<war_priority>2000</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{585deb97-1727-4af4-973b-f459bec89a16}" record_timestamp="1448364820466" record_key="default_earlyoccupation_decision_liberatefalse">
+<component_id>default_early</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>1</last_stand_priority>
+<option>occupation_decision_liberate</option>
+<peace_priority>1</peace_priority>
+<tension_priority>1</tension_priority>
+<total_war_priority>1</total_war_priority>
+<war_priority>1</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{643e1781-6ced-4867-8dc9-d0ec898770c1}" record_timestamp="1448364820492" record_key="default_earlyoccupation_decision_lootfalse">
+<component_id>default_early</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>0</last_stand_priority>
+<option>occupation_decision_loot</option>
+<peace_priority>0</peace_priority>
+<tension_priority>0</tension_priority>
+<total_war_priority>0</total_war_priority>
+<war_priority>0</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{3ca44ebb-6c6b-48a6-98f3-2e74dfe54700}" record_timestamp="1448364820414" record_key="default_earlyoccupation_decision_occupyfalse">
+<component_id>default_early</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>200</last_stand_priority>
+<option>occupation_decision_occupy</option>
+<peace_priority>200</peace_priority>
+<tension_priority>200</tension_priority>
+<total_war_priority>200</total_war_priority>
+<war_priority>200</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{1cd33040-736c-408f-9862-91e62a2caf06}" record_timestamp="1448364820439" record_key="default_earlyoccupation_decision_raze_without_occupyfalse">
+<component_id>default_early</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>1</last_stand_priority>
+<option>occupation_decision_raze_without_occupy</option>
+<peace_priority>1</peace_priority>
+<tension_priority>1</tension_priority>
+<total_war_priority>1</total_war_priority>
+<war_priority>1</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{69a8e0f1-8323-472a-a082-1444ce69dc21}" record_timestamp="1448364820363" record_key="default_earlyoccupation_decision_raze_without_occupytrue">
+<component_id>default_early</component_id>
+<if_cant_capture>1</if_cant_capture>
+<last_stand_priority>4</last_stand_priority>
+<option>occupation_decision_raze_without_occupy</option>
+<peace_priority>4</peace_priority>
+<tension_priority>4</tension_priority>
+<total_war_priority>4</total_war_priority>
+<war_priority>4</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{ac5523d9-a444-4fc6-8064-32d927a44a33}" record_timestamp="1448364820388" record_key="default_earlyoccupation_decision_sackfalse">
+<component_id>default_early</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>15</last_stand_priority>
+<option>occupation_decision_sack</option>
+<peace_priority>15</peace_priority>
+<tension_priority>15</tension_priority>
+<total_war_priority>15</total_war_priority>
+<war_priority>15</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{dc3b68a1-9677-4007-9941-a606d6ddab9b}" record_timestamp="1474306025247" record_key="default_earlyoccupation_decision_sacktrue">
+<component_id>default_early</component_id>
+<if_cant_capture>1</if_cant_capture>
+<last_stand_priority>15</last_stand_priority>
+<option>occupation_decision_sack</option>
+<peace_priority>15</peace_priority>
+<tension_priority>15</tension_priority>
+<total_war_priority>15</total_war_priority>
+<war_priority>15</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{bd61419c-ddc2-43d7-ad6c-372153c5302c}" record_timestamp="1448364820337" record_key="default_earlyoccupation_decision_vassalfalse">
+<component_id>default_early</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>1</last_stand_priority>
+<option>occupation_decision_vassal</option>
+<peace_priority>1</peace_priority>
+<tension_priority>1</tension_priority>
+<total_war_priority>1</total_war_priority>
+<war_priority>1</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{bee7ee40-8a8a-46d3-973a-0e5ffdb2e91c}" record_timestamp="1453745722743" record_key="defaultoccupation_decision_gift_to_another_factiontrue">
+<component_id>default</component_id>
+<if_cant_capture>1</if_cant_capture>
+<last_stand_priority>2000</last_stand_priority>
+<option>occupation_decision_gift_to_another_faction</option>
+<peace_priority>2000</peace_priority>
+<tension_priority>2000</tension_priority>
+<total_war_priority>2000</total_war_priority>
+<war_priority>2000</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{ea187b2e-c343-4406-b6af-41f197ccd706}" record_timestamp="1395074588733" record_key="defaultoccupation_decision_liberatefalse">
+<component_id>default</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>1</last_stand_priority>
+<option>occupation_decision_liberate</option>
+<peace_priority>1</peace_priority>
+<tension_priority>1</tension_priority>
+<total_war_priority>1</total_war_priority>
+<war_priority>1</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{2d6f60b8-d876-454d-b63c-44ce26c801aa}" record_timestamp="1395074588733" record_key="defaultoccupation_decision_lootfalse">
+<component_id>default</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>0</last_stand_priority>
+<option>occupation_decision_loot</option>
+<peace_priority>0</peace_priority>
+<tension_priority>0</tension_priority>
+<total_war_priority>0</total_war_priority>
+<war_priority>0</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{a40eb925-ccef-4ae7-96cf-954dc5e607ae}" record_timestamp="1445270464490" record_key="defaultoccupation_decision_occupyfalse">
+<component_id>default</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>200</last_stand_priority>
+<option>occupation_decision_occupy</option>
+<peace_priority>200</peace_priority>
+<tension_priority>200</tension_priority>
+<total_war_priority>200</total_war_priority>
+<war_priority>200</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{d0b1362a-c699-40df-bba7-e383e2724217}" record_timestamp="1440405172422" record_key="defaultoccupation_decision_raze_without_occupyfalse">
+<component_id>default</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>1</last_stand_priority>
+<option>occupation_decision_raze_without_occupy</option>
+<peace_priority>1</peace_priority>
+<tension_priority>1</tension_priority>
+<total_war_priority>1</total_war_priority>
+<war_priority>1</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{0bcea14e-b476-4f48-af2c-904f2044e183}" record_timestamp="1447336195270" record_key="defaultoccupation_decision_raze_without_occupytrue">
+<component_id>default</component_id>
+<if_cant_capture>1</if_cant_capture>
+<last_stand_priority>15</last_stand_priority>
+<option>occupation_decision_raze_without_occupy</option>
+<peace_priority>15</peace_priority>
+<tension_priority>15</tension_priority>
+<total_war_priority>15</total_war_priority>
+<war_priority>15</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{1958ec2e-dd28-4746-8949-1944da10dec1}" record_timestamp="1445270464619" record_key="defaultoccupation_decision_sackfalse">
+<component_id>default</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>15</last_stand_priority>
+<option>occupation_decision_sack</option>
+<peace_priority>15</peace_priority>
+<tension_priority>15</tension_priority>
+<total_war_priority>15</total_war_priority>
+<war_priority>15</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{de6fcdc1-160a-45eb-bbb0-bc6cb834c6a8}" record_timestamp="1474306025245" record_key="defaultoccupation_decision_sacktrue">
+<component_id>default</component_id>
+<if_cant_capture>1</if_cant_capture>
+<last_stand_priority>15</last_stand_priority>
+<option>occupation_decision_sack</option>
+<peace_priority>15</peace_priority>
+<tension_priority>15</tension_priority>
+<total_war_priority>15</total_war_priority>
+<war_priority>15</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{f36f6203-0265-425e-82f9-0827ee27d780}" record_timestamp="1395074588733" record_key="defaultoccupation_decision_vassalfalse">
+<component_id>default</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>1</last_stand_priority>
+<option>occupation_decision_vassal</option>
+<peace_priority>1</peace_priority>
+<tension_priority>1</tension_priority>
+<total_war_priority>1</total_war_priority>
+<war_priority>1</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{51305455-621f-462e-b642-378d1bc2dd21}" record_timestamp="1453745722844" record_key="destroyeroccupation_decision_gift_to_another_factionfalse">
+<component_id>destroyer</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>2000</last_stand_priority>
+<option>occupation_decision_gift_to_another_faction</option>
+<peace_priority>2000</peace_priority>
+<tension_priority>2000</tension_priority>
+<total_war_priority>2000</total_war_priority>
+<war_priority>2000</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{9f9411a5-c523-4af4-bd9b-be7503cc540a}" record_timestamp="1440087140617" record_key="destroyeroccupation_decision_liberatefalse">
+<component_id>destroyer</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>1</last_stand_priority>
+<option>occupation_decision_liberate</option>
+<peace_priority>1</peace_priority>
+<tension_priority>1</tension_priority>
+<total_war_priority>1</total_war_priority>
+<war_priority>1</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{a7c2f164-83cc-4bed-aff8-f9b06c9c6b0c}" record_timestamp="1440087140626" record_key="destroyeroccupation_decision_lootfalse">
+<component_id>destroyer</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>0</last_stand_priority>
+<option>occupation_decision_loot</option>
+<peace_priority>0</peace_priority>
+<tension_priority>0</tension_priority>
+<total_war_priority>0</total_war_priority>
+<war_priority>0</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{75cd9c3e-e32a-4b3b-a80d-dc67c36cfec6}" record_timestamp="1440087140635" record_key="destroyeroccupation_decision_occupyfalse">
+<component_id>destroyer</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>20</last_stand_priority>
+<option>occupation_decision_occupy</option>
+<peace_priority>20</peace_priority>
+<tension_priority>20</tension_priority>
+<total_war_priority>20</total_war_priority>
+<war_priority>20</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{51620add-0973-4893-b7bb-6f1075a27556}" record_timestamp="1440405172425" record_key="destroyeroccupation_decision_raze_without_occupyfalse">
+<component_id>destroyer</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>4</last_stand_priority>
+<option>occupation_decision_raze_without_occupy</option>
+<peace_priority>4</peace_priority>
+<tension_priority>4</tension_priority>
+<total_war_priority>4</total_war_priority>
+<war_priority>4</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{bd84cdda-0856-4002-81a2-f3030e3898d1}" record_timestamp="1447336195203" record_key="destroyeroccupation_decision_raze_without_occupytrue">
+<component_id>destroyer</component_id>
+<if_cant_capture>1</if_cant_capture>
+<last_stand_priority>70</last_stand_priority>
+<option>occupation_decision_raze_without_occupy</option>
+<peace_priority>70</peace_priority>
+<tension_priority>70</tension_priority>
+<total_war_priority>70</total_war_priority>
+<war_priority>70</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{391d3730-452f-4cdd-8dcd-15ae0677cff6}" record_timestamp="1440087140655" record_key="destroyeroccupation_decision_sackfalse">
+<component_id>destroyer</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>4</last_stand_priority>
+<option>occupation_decision_sack</option>
+<peace_priority>4</peace_priority>
+<tension_priority>4</tension_priority>
+<total_war_priority>4</total_war_priority>
+<war_priority>4</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{867aefef-794c-4ab5-86df-2f243d9c5e28}" record_timestamp="1474306025240" record_key="destroyeroccupation_decision_sacktrue">
+<component_id>destroyer</component_id>
+<if_cant_capture>1</if_cant_capture>
+<last_stand_priority>4</last_stand_priority>
+<option>occupation_decision_sack</option>
+<peace_priority>4</peace_priority>
+<tension_priority>4</tension_priority>
+<total_war_priority>4</total_war_priority>
+<war_priority>4</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{8b83d2bf-7e65-4c26-9f61-fe7efd24b245}" record_timestamp="1440087140665" record_key="destroyeroccupation_decision_vassalfalse">
+<component_id>destroyer</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>1</last_stand_priority>
+<option>occupation_decision_vassal</option>
+<peace_priority>1</peace_priority>
+<tension_priority>1</tension_priority>
+<total_war_priority>1</total_war_priority>
+<war_priority>1</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{322cb4f9-a79a-4d00-8c9e-271f2cee5f44}" record_timestamp="1481039381242" record_key="dlc05_wood_elvesoccupation_decision_liberatefalse">
+<component_id>dlc05_wood_elves</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>1</last_stand_priority>
+<option>occupation_decision_liberate</option>
+<peace_priority>1</peace_priority>
+<tension_priority>1</tension_priority>
+<total_war_priority>1</total_war_priority>
+<war_priority>1</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{7f057b22-14bf-4039-8b90-33b0dd7aa20c}" record_timestamp="1481039381242" record_key="dlc05_wood_elvesoccupation_decision_lootfalse">
+<component_id>dlc05_wood_elves</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>0</last_stand_priority>
+<option>occupation_decision_loot</option>
+<peace_priority>0</peace_priority>
+<tension_priority>0</tension_priority>
+<total_war_priority>0</total_war_priority>
+<war_priority>0</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{67b55e5b-6c41-435c-bc36-1eadf46961c5}" record_timestamp="1481039381243" record_key="dlc05_wood_elvesoccupation_decision_occupyfalse">
+<component_id>dlc05_wood_elves</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>200</last_stand_priority>
+<option>occupation_decision_occupy</option>
+<peace_priority>200</peace_priority>
+<tension_priority>200</tension_priority>
+<total_war_priority>200</total_war_priority>
+<war_priority>200</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{6c38e4fa-dfbe-4266-895c-a104147ac56a}" record_timestamp="1481039381238" record_key="dlc05_wood_elvesoccupation_decision_raze_without_occupyfalse">
+<component_id>dlc05_wood_elves</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>50</last_stand_priority>
+<option>occupation_decision_raze_without_occupy</option>
+<peace_priority>50</peace_priority>
+<tension_priority>50</tension_priority>
+<total_war_priority>50</total_war_priority>
+<war_priority>50</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{cebdf05a-9326-4aff-aff9-df39ca107ef1}" record_timestamp="1481039381239" record_key="dlc05_wood_elvesoccupation_decision_raze_without_occupytrue">
+<component_id>dlc05_wood_elves</component_id>
+<if_cant_capture>1</if_cant_capture>
+<last_stand_priority>50</last_stand_priority>
+<option>occupation_decision_raze_without_occupy</option>
+<peace_priority>50</peace_priority>
+<tension_priority>50</tension_priority>
+<total_war_priority>50</total_war_priority>
+<war_priority>50</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{ad928ac4-377f-4a86-8b26-1b9107c3bd5e}" record_timestamp="1481039381240" record_key="dlc05_wood_elvesoccupation_decision_sackfalse">
+<component_id>dlc05_wood_elves</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>15</last_stand_priority>
+<option>occupation_decision_sack</option>
+<peace_priority>15</peace_priority>
+<tension_priority>15</tension_priority>
+<total_war_priority>15</total_war_priority>
+<war_priority>15</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{ac2343a8-9a32-41fd-baae-c9ee6c439702}" record_timestamp="1481039381241" record_key="dlc05_wood_elvesoccupation_decision_sacktrue">
+<component_id>dlc05_wood_elves</component_id>
+<if_cant_capture>1</if_cant_capture>
+<last_stand_priority>15</last_stand_priority>
+<option>occupation_decision_sack</option>
+<peace_priority>15</peace_priority>
+<tension_priority>15</tension_priority>
+<total_war_priority>15</total_war_priority>
+<war_priority>15</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{72dab6fc-4283-434a-8e85-f10ed51c5ec4}" record_timestamp="1481039381238" record_key="dlc05_wood_elvesoccupation_decision_vassalfalse">
+<component_id>dlc05_wood_elves</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>1</last_stand_priority>
+<option>occupation_decision_vassal</option>
+<peace_priority>1</peace_priority>
+<tension_priority>1</tension_priority>
+<total_war_priority>1</total_war_priority>
+<war_priority>1</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{448ff85a-1159-42b9-9991-29b586383331}" record_timestamp="1453745722903" record_key="norazeoccupation_decision_gift_to_another_factionfalse">
+<component_id>noraze</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>2000</last_stand_priority>
+<option>occupation_decision_gift_to_another_faction</option>
+<peace_priority>2000</peace_priority>
+<tension_priority>2000</tension_priority>
+<total_war_priority>2000</total_war_priority>
+<war_priority>2000</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{9cf55cdc-3a19-4ff9-8904-48da7b842014}" record_timestamp="1448379814094" record_key="norazeoccupation_decision_liberatefalse">
+<component_id>noraze</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>1</last_stand_priority>
+<option>occupation_decision_liberate</option>
+<peace_priority>1</peace_priority>
+<tension_priority>1</tension_priority>
+<total_war_priority>1</total_war_priority>
+<war_priority>1</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{6c1afbfe-accc-4c77-a11d-27af85f3f693}" record_timestamp="1448379814176" record_key="norazeoccupation_decision_lootfalse">
+<component_id>noraze</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>0</last_stand_priority>
+<option>occupation_decision_loot</option>
+<peace_priority>0</peace_priority>
+<tension_priority>0</tension_priority>
+<total_war_priority>0</total_war_priority>
+<war_priority>0</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{9a88bd6f-9a62-4651-82a4-c07a40b1028f}" record_timestamp="1448379814135" record_key="norazeoccupation_decision_occupyfalse">
+<component_id>noraze</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>300</last_stand_priority>
+<option>occupation_decision_occupy</option>
+<peace_priority>300</peace_priority>
+<tension_priority>300</tension_priority>
+<total_war_priority>300</total_war_priority>
+<war_priority>300</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{eb94d4c0-8475-4fe5-93b2-678151a01ddd}" record_timestamp="1448379814259" record_key="norazeoccupation_decision_raze_without_occupyfalse">
+<component_id>noraze</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>1</last_stand_priority>
+<option>occupation_decision_raze_without_occupy</option>
+<peace_priority>1</peace_priority>
+<tension_priority>1</tension_priority>
+<total_war_priority>1</total_war_priority>
+<war_priority>1</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{0dad1790-7732-4d07-9501-cb155026e790}" record_timestamp="1448379814301" record_key="norazeoccupation_decision_raze_without_occupytrue">
+<component_id>noraze</component_id>
+<if_cant_capture>1</if_cant_capture>
+<last_stand_priority>1</last_stand_priority>
+<option>occupation_decision_raze_without_occupy</option>
+<peace_priority>1</peace_priority>
+<tension_priority>1</tension_priority>
+<total_war_priority>1</total_war_priority>
+<war_priority>1</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{abe4645f-a971-4b00-869d-10f1f07d370e}" record_timestamp="1448379814218" record_key="norazeoccupation_decision_sackfalse">
+<component_id>noraze</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>50</last_stand_priority>
+<option>occupation_decision_sack</option>
+<peace_priority>50</peace_priority>
+<tension_priority>50</tension_priority>
+<total_war_priority>50</total_war_priority>
+<war_priority>50</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{9935b53b-7ac8-4467-a2d4-b052e0cfa2d4}" record_timestamp="1474306025242" record_key="norazeoccupation_decision_sacktrue">
+<component_id>noraze</component_id>
+<if_cant_capture>1</if_cant_capture>
+<last_stand_priority>50</last_stand_priority>
+<option>occupation_decision_sack</option>
+<peace_priority>50</peace_priority>
+<tension_priority>50</tension_priority>
+<total_war_priority>50</total_war_priority>
+<war_priority>50</war_priority>
+</cai_personality_occupation_decision_priorities>
+<cai_personality_occupation_decision_priorities record_uuid="{08a03578-eb10-40a4-b651-d719a94bc43a}" record_timestamp="1448379814343" record_key="norazeoccupation_decision_vassalfalse">
+<component_id>noraze</component_id>
+<if_cant_capture>0</if_cant_capture>
+<last_stand_priority>1</last_stand_priority>
+<option>occupation_decision_vassal</option>
+<peace_priority>1</peace_priority>
+<tension_priority>1</tension_priority>
+<total_war_priority>1</total_war_priority>
+<war_priority>1</war_priority>
+</cai_personality_occupation_decision_priorities>
+</dataroot>

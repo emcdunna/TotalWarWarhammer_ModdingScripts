@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_unit_class_junction.xsd" export_time="Wed Oct 14 11:27:57 2015" revision="40" export_branch="T:/warhammer/binaries" export_user="bob">
+<edit_uuid>b8cfeacc-b169-413f-ae23-ca36c7dc0f32</edit_uuid>
+<effect_bonus_value_unit_class_junction record_uuid="{71be6094-7d42-4e16-94d9-f71245bc8e33}" record_timestamp="1440779637432" record_key="wh_main_effect_unit_equipment_ammo_goldunit_stat_bonus_ammunitioncav_mis">
+<bonus_value_id>unit_stat_bonus_ammunition</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_ammo_gold</effect>
+<unit_class>cav_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{d671fcd1-0e91-4540-9e47-e5e093b4fbbd}" record_timestamp="1440779637457" record_key="wh_main_effect_unit_equipment_ammo_goldunit_stat_bonus_ammunitioninf_mis">
+<bonus_value_id>unit_stat_bonus_ammunition</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_ammo_gold</effect>
+<unit_class>inf_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{f8fc2f0f-c4a5-4e36-821f-867adbcf96f7}" record_timestamp="1440779637544" record_key="wh_main_effect_unit_equipment_ammo_silverunit_stat_bonus_ammunitioncav_mis">
+<bonus_value_id>unit_stat_bonus_ammunition</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_ammo_silver</effect>
+<unit_class>cav_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{8a888643-0789-456e-8fae-e2e3d958784b}" record_timestamp="1440779637522" record_key="wh_main_effect_unit_equipment_ammo_silverunit_stat_bonus_ammunitioninf_mis">
+<bonus_value_id>unit_stat_bonus_ammunition</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_ammo_silver</effect>
+<unit_class>inf_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{e2a61099-7e86-4c2e-bc38-9be51e537ac6}" record_timestamp="1440779637612" record_key="wh_main_effect_unit_equipment_armour_bronzeunit_stat_bonus_armourcav_mel">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_bronze</effect>
+<unit_class>cav_mel</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{253db65a-5388-4d58-977f-3125684f10af}" record_timestamp="1440779637875" record_key="wh_main_effect_unit_equipment_armour_bronzeunit_stat_bonus_armourcav_mis">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_bronze</effect>
+<unit_class>cav_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{26e07f71-7b3b-4765-9200-7ae714b61128}" record_timestamp="1440779637847" record_key="wh_main_effect_unit_equipment_armour_bronzeunit_stat_bonus_armourcav_shk">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_bronze</effect>
+<unit_class>cav_shk</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{63d6689a-a1d8-4c44-8293-f5c6b466d4db}" record_timestamp="1440779637567" record_key="wh_main_effect_unit_equipment_armour_bronzeunit_stat_bonus_armourinf_mel">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_bronze</effect>
+<unit_class>inf_mel</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{56f1190e-81c7-4380-a90c-8fc05f4d4449}" record_timestamp="1440779637634" record_key="wh_main_effect_unit_equipment_armour_bronzeunit_stat_bonus_armourinf_mis">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_bronze</effect>
+<unit_class>inf_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{8b72a63d-8b04-4c28-8875-636bfff5ad30}" record_timestamp="1440779637900" record_key="wh_main_effect_unit_equipment_armour_bronzeunit_stat_bonus_armourinf_pik">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_bronze</effect>
+<unit_class>inf_pik</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{f255e2d4-536e-407f-9175-0b452590190c}" record_timestamp="1440779637924" record_key="wh_main_effect_unit_equipment_armour_bronzeunit_stat_bonus_armourinf_spr">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_bronze</effect>
+<unit_class>inf_spr</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{b734ab6b-64f8-4d06-9386-61d8adfa3698}" record_timestamp="1440779637269" record_key="wh_main_effect_unit_equipment_armour_goldunit_stat_bonus_armourcav_mel">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_gold</effect>
+<unit_class>cav_mel</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{af723603-c043-49fc-aa72-166dd48d7a74}" record_timestamp="1440779637328" record_key="wh_main_effect_unit_equipment_armour_goldunit_stat_bonus_armourcav_mis">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_gold</effect>
+<unit_class>cav_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{dd9a319c-9018-4c11-af19-0f343ecd4d12}" record_timestamp="1440779637308" record_key="wh_main_effect_unit_equipment_armour_goldunit_stat_bonus_armourcav_shk">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_gold</effect>
+<unit_class>cav_shk</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{18e85f22-456c-4e0b-b441-88c17e70dca3}" record_timestamp="1440779637390" record_key="wh_main_effect_unit_equipment_armour_goldunit_stat_bonus_armourinf_mel">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_gold</effect>
+<unit_class>inf_mel</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{da1ca59e-11aa-4685-a863-a8c4fac47217}" record_timestamp="1440779637288" record_key="wh_main_effect_unit_equipment_armour_goldunit_stat_bonus_armourinf_mis">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_gold</effect>
+<unit_class>inf_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{d78c881a-a709-40c8-b16e-f8084996340b}" record_timestamp="1440779637479" record_key="wh_main_effect_unit_equipment_armour_goldunit_stat_bonus_armourinf_pik">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_gold</effect>
+<unit_class>inf_pik</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{3c38d7a8-851b-45da-9d75-d357f9ba597c}" record_timestamp="1440779637500" record_key="wh_main_effect_unit_equipment_armour_goldunit_stat_bonus_armourinf_spr">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_gold</effect>
+<unit_class>inf_spr</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{f55d13ea-6d45-468a-910b-abeb4ad560e9}" record_timestamp="1440779637369" record_key="wh_main_effect_unit_equipment_armour_silverunit_stat_bonus_armourcav_mel">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_silver</effect>
+<unit_class>cav_mel</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{eb2debab-7a8e-4604-a9a7-098d7217fb17}" record_timestamp="1440779637799" record_key="wh_main_effect_unit_equipment_armour_silverunit_stat_bonus_armourcav_mis">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_silver</effect>
+<unit_class>cav_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{0ba64dfa-20ae-4a6b-8154-a3efbf53932c}" record_timestamp="1440779637823" record_key="wh_main_effect_unit_equipment_armour_silverunit_stat_bonus_armourcav_shk">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_silver</effect>
+<unit_class>cav_shk</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{58f20588-a9a1-4d1a-bfdf-9e746b46839d}" record_timestamp="1440779637411" record_key="wh_main_effect_unit_equipment_armour_silverunit_stat_bonus_armourinf_mel">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_silver</effect>
+<unit_class>inf_mel</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{421a9a7b-5a99-4555-85f5-c613028eaba5}" record_timestamp="1440779637349" record_key="wh_main_effect_unit_equipment_armour_silverunit_stat_bonus_armourinf_mis">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_silver</effect>
+<unit_class>inf_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{dc00b2b1-c9d8-4ac1-b1fe-d5d099ff4987}" record_timestamp="1440779637776" record_key="wh_main_effect_unit_equipment_armour_silverunit_stat_bonus_armourinf_pik">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_silver</effect>
+<unit_class>inf_pik</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{e9723c83-c34f-4dfa-95b3-d8c8741b2303}" record_timestamp="1440779637749" record_key="wh_main_effect_unit_equipment_armour_silverunit_stat_bonus_armourinf_spr">
+<bonus_value_id>unit_stat_bonus_armour</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_armour_silver</effect>
+<unit_class>inf_spr</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{48eab5d9-9cc7-48ec-8a0a-5d3209f1e4fa}" record_timestamp="1440779637727" record_key="wh_main_effect_unit_equipment_weapon_bronzeunit_stat_bonus_weaponcav_mel">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_bronze</effect>
+<unit_class>cav_mel</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{b55998d4-a318-42e8-95e9-9f12beaae935}" record_timestamp="1440779637657" record_key="wh_main_effect_unit_equipment_weapon_bronzeunit_stat_bonus_weaponcav_mis">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_bronze</effect>
+<unit_class>cav_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{3221d568-4604-4e2d-9e98-dceb4ed9bc71}" record_timestamp="1440779637680" record_key="wh_main_effect_unit_equipment_weapon_bronzeunit_stat_bonus_weaponcav_shk">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_bronze</effect>
+<unit_class>cav_shk</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{589dd91c-af30-4cc8-a714-a741226ddf67}" record_timestamp="1440779637589" record_key="wh_main_effect_unit_equipment_weapon_bronzeunit_stat_bonus_weaponinf_mel">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_bronze</effect>
+<unit_class>inf_mel</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{ab55aca5-14ec-4850-b6fe-0f67f03089c6}" record_timestamp="1440779637704" record_key="wh_main_effect_unit_equipment_weapon_bronzeunit_stat_bonus_weaponinf_mis">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_bronze</effect>
+<unit_class>inf_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{30d7ff96-037a-487e-9aec-93ace92e31f5}" record_timestamp="1440779638237" record_key="wh_main_effect_unit_equipment_weapon_bronzeunit_stat_bonus_weaponinf_pik">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_bronze</effect>
+<unit_class>inf_pik</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{229a3da0-62e4-46e6-bbfa-239e964df756}" record_timestamp="1440779638206" record_key="wh_main_effect_unit_equipment_weapon_bronzeunit_stat_bonus_weaponinf_spr">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_bronze</effect>
+<unit_class>inf_spr</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{c278a021-ff41-4923-a8c3-8cdd8e7b59e5}" record_timestamp="1440779638127" record_key="wh_main_effect_unit_equipment_weapon_goldunit_stat_bonus_weaponcav_mel">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_gold</effect>
+<unit_class>cav_mel</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{90085dc0-c873-4dd3-8d3b-bbce7ac83297}" record_timestamp="1440779638102" record_key="wh_main_effect_unit_equipment_weapon_goldunit_stat_bonus_weaponcav_mis">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_gold</effect>
+<unit_class>cav_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{e036fe05-2a56-4429-bd35-6a7879811f09}" record_timestamp="1440779637972" record_key="wh_main_effect_unit_equipment_weapon_goldunit_stat_bonus_weaponcav_shk">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_gold</effect>
+<unit_class>cav_shk</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{05835186-7572-4f64-a745-2056eaf66d08}" record_timestamp="1440779638078" record_key="wh_main_effect_unit_equipment_weapon_goldunit_stat_bonus_weaponinf_mel">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_gold</effect>
+<unit_class>inf_mel</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{8b3ba218-1ed0-4f5d-82a8-9b3776946c5d}" record_timestamp="1440779638049" record_key="wh_main_effect_unit_equipment_weapon_goldunit_stat_bonus_weaponinf_mis">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_gold</effect>
+<unit_class>inf_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{edce421a-c133-4024-b5c8-045242123d11}" record_timestamp="1440779638024" record_key="wh_main_effect_unit_equipment_weapon_goldunit_stat_bonus_weaponinf_pik">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_gold</effect>
+<unit_class>inf_pik</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{8b9000df-2ca5-45d1-94d0-85fbf65ff08c}" record_timestamp="1440779637948" record_key="wh_main_effect_unit_equipment_weapon_goldunit_stat_bonus_weaponinf_spr">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_gold</effect>
+<unit_class>inf_spr</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{9d85ea8d-8f25-4d01-bb7c-76c8b3e06832}" record_timestamp="1440779638262" record_key="wh_main_effect_unit_equipment_weapon_silverunit_stat_bonus_weaponcav_mel">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_silver</effect>
+<unit_class>cav_mel</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{ea4be080-f2f5-40d8-889b-4d07bf38be27}" record_timestamp="1440779637250" record_key="wh_main_effect_unit_equipment_weapon_silverunit_stat_bonus_weaponcav_mis">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_silver</effect>
+<unit_class>cav_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{eb13766d-1e2c-44b7-a5c3-a034e08b91e1}" record_timestamp="1440779637231" record_key="wh_main_effect_unit_equipment_weapon_silverunit_stat_bonus_weaponcav_shk">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_silver</effect>
+<unit_class>cav_shk</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{f03c829e-73cc-420b-9cd9-86da5884fc59}" record_timestamp="1440779637996" record_key="wh_main_effect_unit_equipment_weapon_silverunit_stat_bonus_weaponinf_mel">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_silver</effect>
+<unit_class>inf_mel</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{e5b0714d-f715-4909-b8dd-9c6a568fd4fc}" record_timestamp="1440779637212" record_key="wh_main_effect_unit_equipment_weapon_silverunit_stat_bonus_weaponinf_mis">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_silver</effect>
+<unit_class>inf_mis</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{46b92b7d-a447-4875-91dd-0e30d8ec504d}" record_timestamp="1440779638153" record_key="wh_main_effect_unit_equipment_weapon_silverunit_stat_bonus_weaponinf_pik">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_silver</effect>
+<unit_class>inf_pik</unit_class>
+</effect_bonus_value_unit_class_junction>
+<effect_bonus_value_unit_class_junction record_uuid="{82323614-6c3a-4983-ae21-1dbaf24507f7}" record_timestamp="1440779638178" record_key="wh_main_effect_unit_equipment_weapon_silverunit_stat_bonus_weaponinf_spr">
+<bonus_value_id>unit_stat_bonus_weapon</bonus_value_id>
+<effect>wh_main_effect_unit_equipment_weapon_silver</effect>
+<unit_class>inf_spr</unit_class>
+</effect_bonus_value_unit_class_junction>
+</dataroot>

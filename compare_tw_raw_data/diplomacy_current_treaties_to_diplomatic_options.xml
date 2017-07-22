@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="diplomacy_current_treaties_to_diplomatic_options.xsd" export_time="Wed Sep 9 11:49:46 2015" revision="7" export_branch="C:/TotalWar/warhammer/binaries/intermediate" export_user="bob">
+<edit_uuid>3dd0d19e-ba8d-41d6-89e2-623fb03faf1f</edit_uuid>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{818db0b0-9dd2-4229-80fb-2514a51b8793}" record_timestamp="1360767075857" record_key="current_treaty_at_war">
+<can_be_cancelled>0</can_be_cancelled>
+<current_treaty_key>current_treaty_at_war</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_declare_war</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{a0a3f52a-2568-488a-a7d2-45f4d3dddcf3}" record_timestamp="1365783801369" record_key="current_treaty_client_of_player">
+<can_be_cancelled>1</can_be_cancelled>
+<current_treaty_key>current_treaty_client_of_player</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_client_state</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{eeaf90c4-d04b-4a86-bc8d-ffd9dc385618}" record_timestamp="1360767075903" record_key="current_treaty_defensive_alliance">
+<can_be_cancelled>1</can_be_cancelled>
+<current_treaty_key>current_treaty_defensive_alliance</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_defensive_alliance</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{d60bb2a5-5826-487b-8de6-442c264a4d00}" record_timestamp="1360767075935" record_key="current_treaty_giving_soft_military_access_indefinite">
+<can_be_cancelled>1</can_be_cancelled>
+<current_treaty_key>current_treaty_giving_soft_military_access_indefinite</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_soft_access</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{96540beb-3303-41bf-aed0-c0ad93d63182}" record_timestamp="1360767075981" record_key="current_treaty_giving_soft_military_access_turns">
+<can_be_cancelled>1</can_be_cancelled>
+<current_treaty_key>current_treaty_giving_soft_military_access_turns</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_soft_access</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{759dd519-d5f7-456b-9b08-47819a5f398b}" record_timestamp="1360767076013" record_key="current_treaty_has_soft_military_access_indefinite">
+<can_be_cancelled>1</can_be_cancelled>
+<current_treaty_key>current_treaty_has_soft_military_access_indefinite</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_soft_access</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{081c5d3a-70bc-484b-a2f6-671eb82818f4}" record_timestamp="1360767076059" record_key="current_treaty_has_soft_military_access_turns">
+<can_be_cancelled>1</can_be_cancelled>
+<current_treaty_key>current_treaty_has_soft_military_access_turns</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_soft_access</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{429c0e47-9e29-4198-b0e5-ab3df2fbe0a7}" record_timestamp="1360767076091" record_key="current_treaty_military_alliance">
+<can_be_cancelled>1</can_be_cancelled>
+<current_treaty_key>current_treaty_military_alliance</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_military_alliance</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{37f8e895-b414-4173-8683-6948c00a47d6}" record_timestamp="1360767076449" record_key="current_treaty_non_aggression_pact">
+<can_be_cancelled>1</can_be_cancelled>
+<current_treaty_key>current_treaty_non_aggression_pact</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_nonaggression_pact</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{3bea641d-b411-4726-be62-b5a42d40a627}" record_timestamp="1360767076169" record_key="current_treaty_payments_paying">
+<can_be_cancelled>0</can_be_cancelled>
+<current_treaty_key>current_treaty_payments_paying</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_payment</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{ed82940c-9e00-4bbf-9299-b4f064f5ba27}" record_timestamp="1360767076200" record_key="current_treaty_payments_receiving">
+<can_be_cancelled>0</can_be_cancelled>
+<current_treaty_key>current_treaty_payments_receiving</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_payment</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{3c149a78-3c6a-41e7-beb4-5d7d0fa0dd18}" record_timestamp="1360767076247" record_key="current_treaty_peace">
+<can_be_cancelled>0</can_be_cancelled>
+<current_treaty_key>current_treaty_peace</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_peace_treaty</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{f201c634-b26b-404e-b98f-45eae1d713d9}" record_timestamp="1360767076278" record_key="current_treaty_trade_agreement">
+<can_be_cancelled>1</can_be_cancelled>
+<current_treaty_key>current_treaty_trade_agreement</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_trade_agreement</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{f4c4bcf2-814c-490d-ae20-1e70eb7ff7d9}" record_timestamp="1360767076325" record_key="current_treaty_vassal_of_non_player">
+<can_be_cancelled>0</can_be_cancelled>
+<current_treaty_key>current_treaty_vassal_of_non_player</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_vassal</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+<diplomacy_current_treaties_to_diplomatic_options record_uuid="{e70014fb-3782-4023-85c5-38ed86db8775}" record_timestamp="1360767076371" record_key="current_treaty_vassal_of_player">
+<can_be_cancelled>1</can_be_cancelled>
+<current_treaty_key>current_treaty_vassal_of_player</current_treaty_key>
+<diplomatic_option_key>diplomatic_option_vassal</diplomatic_option_key>
+</diplomacy_current_treaties_to_diplomatic_options>
+</dataroot>

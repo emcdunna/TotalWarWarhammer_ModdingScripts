@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_ground_types.xsd" export_time="Fri Feb 26 12:55:25 2016" revision="42" export_branch="T:/warhammer/binaries" export_user="bob">
+<edit_uuid>9831afe1-589e-448b-87c1-27f3fa59131c</edit_uuid>
+<campaign_ground_types record_uuid="{0219ca11-73c1-43e2-9eac-1e472ba9fcf4}" record_timestamp="1445514791965" record_key="dense_forest">
+<audio_type>earth</audio_type>
+<icon>terrain_dense_forest.png</icon>
+<is_sea>0</is_sea>
+<movement_cost>240</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="Dense Forest" last_edit_user="bob">Dense Forest</onscreen_name>
+<selection_cursor>terrain_forest</selection_cursor>
+<standard_cursor>terrain_forest_noselect</standard_cursor>
+<type>dense_forest</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{a2192a8f-0b8e-4df1-84c4-689094598675}" record_timestamp="1445613627451" record_key="desert">
+<audio_type>sand</audio_type>
+<icon>terrain_desert.png</icon>
+<is_sea>0</is_sea>
+<movement_cost>112</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="Badlands" last_edit_user="bob">Badlands</onscreen_name>
+<selection_cursor>terrain_desert</selection_cursor>
+<standard_cursor>terrain_desert_noselect</standard_cursor>
+<type>desert</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{5ce49a97-a173-4541-ba7c-299a24248e64}" record_timestamp="1445514791988" record_key="grassland">
+<audio_type>earth</audio_type>
+<icon>terrain_grassland_plains.png</icon>
+<is_sea>0</is_sea>
+<movement_cost>80</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="Grassland" last_edit_user="bob">Grassland</onscreen_name>
+<selection_cursor>terrain_scrub</selection_cursor>
+<standard_cursor>terrain_scrub_noselect</standard_cursor>
+<type>grassland</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{04290c5b-ea25-4ec2-ad3e-a9f587ecc7bb}" record_timestamp="1445514791997" record_key="hills">
+<audio_type>earth</audio_type>
+<icon>terrain_hills.png</icon>
+<is_sea>0</is_sea>
+<movement_cost>144</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="Hills" last_edit_user="bob">Hills</onscreen_name>
+<selection_cursor></selection_cursor>
+<standard_cursor></standard_cursor>
+<type>hills</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{f036dfda-8673-4560-9166-04d99b3fabd8}" record_timestamp="1445514792006" record_key="hilly_light_forest">
+<audio_type>earth</audio_type>
+<icon>terrain_hilly_light_forest.png</icon>
+<is_sea>0</is_sea>
+<movement_cost>176</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="Hilly Light Forest" last_edit_user="bob">Hilly Light Forest</onscreen_name>
+<selection_cursor></selection_cursor>
+<standard_cursor></standard_cursor>
+<type>hilly_light_forest</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{f3b843a3-f2ff-4077-a431-570a46d9d181}" record_timestamp="1445514792015" record_key="jungle">
+<audio_type>earth</audio_type>
+<icon>terrain_dense_forest.png</icon>
+<is_sea>0</is_sea>
+<movement_cost>240</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="Jungle" last_edit_user="bob">Jungle</onscreen_name>
+<selection_cursor>terrain_forest</selection_cursor>
+<standard_cursor>terrain_forest_noselect</standard_cursor>
+<type>jungle</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{3628a79d-f708-4320-ba68-0a22ed769c15}" record_timestamp="1445514792026" record_key="light_forest">
+<audio_type>earth</audio_type>
+<icon>terrain_light_forest.png</icon>
+<is_sea>0</is_sea>
+<movement_cost>112</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="Light Forest" last_edit_user="bob">Light Forest</onscreen_name>
+<selection_cursor>terrain_forest</selection_cursor>
+<standard_cursor>terrain_forest_noselect</standard_cursor>
+<type>light_forest</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{563d2769-8769-4c73-bd46-f6a9d1efbeff}" record_timestamp="1445514792036" record_key="marsh">
+<audio_type>water</audio_type>
+<icon>terrain_marsh.png</icon>
+<is_sea>0</is_sea>
+<movement_cost>192</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="Marsh" last_edit_user="bob">Marsh</onscreen_name>
+<selection_cursor>terrain_marsh</selection_cursor>
+<standard_cursor>terrain_marsh_noselect</standard_cursor>
+<type>marsh</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{8f8a4684-2847-4fe3-aec6-6e8d5493830a}" record_timestamp="1445514792053" record_key="mountain">
+<audio_type>rock</audio_type>
+<icon>terrain_mountains.png</icon>
+<is_sea>0</is_sea>
+<movement_cost>240</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="Mountains" last_edit_user="bob">Mountains</onscreen_name>
+<selection_cursor>terrain_mountain</selection_cursor>
+<standard_cursor>terrain_mountain_noselect</standard_cursor>
+<type>mountain</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{6e7898fb-389a-4217-a814-29fe4c31b236}" record_timestamp="1445514792065" record_key="plains">
+<audio_type>earth</audio_type>
+<icon>terrain_grassland_plains.png</icon>
+<is_sea>0</is_sea>
+<movement_cost>80</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="Plains" last_edit_user="bob">Plains</onscreen_name>
+<selection_cursor>terrain_plains</selection_cursor>
+<standard_cursor>terrain_plains_noselect</standard_cursor>
+<type>plains</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{f85275c8-a8a8-4fe2-81cd-9405e6fbec82}" record_timestamp="1456491324623" record_key="river">
+<audio_type>water</audio_type>
+<icon>terrain_shallow_water_lake_coast.png</icon>
+<is_sea>0</is_sea>
+<movement_cost>2160</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="River" last_edit_user="bob">River</onscreen_name>
+<selection_cursor>terrain_softground</selection_cursor>
+<standard_cursor>terrain_softground_noselect</standard_cursor>
+<type>river</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{1fdc5f57-0d54-4f89-b4e8-523665e84403}" record_timestamp="1445514792090" record_key="sea_coast">
+<audio_type>water</audio_type>
+<icon>terrain_shallow_water_lake_coast.png</icon>
+<is_sea>1</is_sea>
+<movement_cost>64</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="Shallow Seas" last_edit_user="bob">Shallow Seas</onscreen_name>
+<selection_cursor>terrain_softground</selection_cursor>
+<standard_cursor>terrain_softground_noselect</standard_cursor>
+<type>sea_coast</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{edc1477f-90b2-4639-a173-a524bad4ae11}" record_timestamp="1445514792103" record_key="sea_lake">
+<audio_type>water</audio_type>
+<icon>terrain_shallow_water_lake_coast.png</icon>
+<is_sea>1</is_sea>
+<movement_cost>60</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="Lake" last_edit_user="bob">Lake</onscreen_name>
+<selection_cursor>terrain_softground</selection_cursor>
+<standard_cursor>terrain_softground_noselect</standard_cursor>
+<type>sea_lake</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{0d06a415-36b4-4f5f-8a81-3642c3f9a131}" record_timestamp="1445514792115" record_key="sea_ocean">
+<audio_type>water</audio_type>
+<icon>terrain_ocean.png</icon>
+<is_sea>1</is_sea>
+<movement_cost>128</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="High Seas" last_edit_user="bob">High Seas</onscreen_name>
+<selection_cursor>terrain_ocean</selection_cursor>
+<standard_cursor>terrain_ocean_noselect</standard_cursor>
+<type>sea_ocean</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{0e3e9f98-3d62-47cd-9e3b-c5a0128b523f}" record_timestamp="1445514792127" record_key="swamp">
+<audio_type>water</audio_type>
+<icon>terrain_marsh.png</icon>
+<is_sea>0</is_sea>
+<movement_cost>240</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="Swamp" last_edit_user="bob">Swamp</onscreen_name>
+<selection_cursor>terrain_marsh</selection_cursor>
+<standard_cursor>terrain_marsh_noselect</standard_cursor>
+<type>swamp</type>
+</campaign_ground_types>
+<campaign_ground_types record_uuid="{8d25ec6e-8094-4788-903c-28a7730a031f}" record_timestamp="1445514792140" record_key="tundra">
+<audio_type>sand</audio_type>
+<icon>terrain_tundra.png</icon>
+<is_sea>0</is_sea>
+<movement_cost>96</movement_cost>
+<onscreen_name state="APPROVED" last_approved_text="Tundra" last_edit_user="bob">Tundra</onscreen_name>
+<selection_cursor></selection_cursor>
+<standard_cursor></standard_cursor>
+<type>tundra</type>
+</campaign_ground_types>
+</dataroot>

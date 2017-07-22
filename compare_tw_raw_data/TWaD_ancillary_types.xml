@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_ancillary_types>
+<root>
+<edit_uuid>0b1404bd-2a74-4246-822e-5af036d5f359</edit_uuid>
+<agf_special_dependencies></agf_special_dependencies>
+<field>
+<field_uuid>{99c3ec76-b8b5-4654-8c23-0acde9a2cb2f}</field_uuid>
+<primary_key>1</primary_key>
+<name>type</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>50</max_length>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+<agf_done>0</agf_done>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{4c6b97c6-65a6-405e-a44a-8e0ebd80f0bd}</field_uuid>
+<primary_key>0</primary_key>
+<name>ui_icon</name>
+<field_type>text</field_type>
+<is_filename>1</is_filename>
+<required>1</required>
+<max_length>50</max_length>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+<agf_done>0</agf_done>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

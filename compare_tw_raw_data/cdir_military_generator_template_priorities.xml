@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdir_military_generator_template_priorities.xsd" export_time="Wed Feb 8 10:06:18 2017" revision="23" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e504350e-6c81-4a00-b399-bc8036af63a5</edit_uuid>
+<cdir_military_generator_template_priorities record_uuid="{d34d0286-579b-4165-9669-367428197293}" record_timestamp="1400161446928" record_key="WH_BeastmenWH_Beastmen_land">
+<config_key>WH_Beastmen</config_key>
+<priority>1</priority>
+<template_key>WH_Beastmen_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{bddd11cc-da23-449f-b088-0803b2bd2f25}" record_timestamp="1429526349186" record_key="WH_BeastmenWH_default_naval">
+<config_key>WH_Beastmen</config_key>
+<priority>1</priority>
+<template_key>WH_default_naval</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{eb67a4ef-b1f8-4bb9-bed1-fc1df6e09522}" record_timestamp="1486548378179" record_key="WH_BretonniaWH_Bretonnia_land">
+<config_key>WH_Bretonnia</config_key>
+<priority>5</priority>
+<template_key>WH_Bretonnia_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{922ed1ff-1dd5-4643-b986-b91d48622731}" record_timestamp="1486548378204" record_key="WH_BretonniaWH_Bretonnia_land_cav">
+<config_key>WH_Bretonnia</config_key>
+<priority>5</priority>
+<template_key>WH_Bretonnia_land_cav</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{16a0c791-b542-4a51-a79c-d65855935b62}" record_timestamp="1486548378003" record_key="WH_BretonniaWH_Bretonnia_land_flying">
+<config_key>WH_Bretonnia</config_key>
+<priority>1</priority>
+<template_key>WH_Bretonnia_land_flying</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{17cb39d1-ac48-44d7-a459-beec6b36eb5c}" record_timestamp="1429526349186" record_key="WH_BretonniaWH_default_naval">
+<config_key>WH_Bretonnia</config_key>
+<priority>1</priority>
+<template_key>WH_default_naval</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{158d9ff8-d4ca-44bd-b2ce-523d33fc9204}" record_timestamp="1400161446951" record_key="WH_ChaosWH_Chaos_land">
+<config_key>WH_Chaos</config_key>
+<priority>1</priority>
+<template_key>WH_Chaos_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{d535f7d3-21b6-43f0-99b4-cf3855cc001d}" record_timestamp="1429526349187" record_key="WH_ChaosWH_default_naval">
+<config_key>WH_Chaos</config_key>
+<priority>1</priority>
+<template_key>WH_default_naval</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{9a6360ae-26ff-4f21-9f54-5b51aa1576e9}" record_timestamp="1400161446996" record_key="WH_DwarfsWH_Dwarfs_land">
+<config_key>WH_Dwarfs</config_key>
+<priority>1</priority>
+<template_key>WH_Dwarfs_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{f282b66f-f2b9-43ae-80d3-2c6a965cb6cf}" record_timestamp="1429526349188" record_key="WH_DwarfsWH_default_naval">
+<config_key>WH_Dwarfs</config_key>
+<priority>1</priority>
+<template_key>WH_default_naval</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{880e5d3a-41be-4200-bc77-6f074f969e47}" record_timestamp="1400161446573" record_key="WH_EmpireWH_Empire_land">
+<config_key>WH_Empire</config_key>
+<priority>1</priority>
+<template_key>WH_Empire_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{120ae899-b93c-4cb5-871e-0b1f48e49c8c}" record_timestamp="1429526349187" record_key="WH_EmpireWH_default_naval">
+<config_key>WH_Empire</config_key>
+<priority>1</priority>
+<template_key>WH_default_naval</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{98d40d54-2c6c-435a-b0be-de2c6b70e8f7}" record_timestamp="1486401451551" record_key="WH_Greenskin_RebelsWH_Greenskin_Rebels_land">
+<config_key>WH_Greenskin_Rebels</config_key>
+<priority>1</priority>
+<template_key>WH_Greenskin_Rebels_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{f037f19e-ac05-4c14-9577-805e14f84da2}" record_timestamp="1400161447007" record_key="WH_GreenskinsWH_Greenskins_land">
+<config_key>WH_Greenskins</config_key>
+<priority>1</priority>
+<template_key>WH_Greenskins_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{58c20845-fa2d-4eb9-b502-ccdb310cc2ed}" record_timestamp="1429526349187" record_key="WH_GreenskinsWH_default_naval">
+<config_key>WH_Greenskins</config_key>
+<priority>1</priority>
+<template_key>WH_default_naval</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{7591f226-6ca6-47ec-8bef-100bb4226393}" record_timestamp="1461152293209" record_key="WH_Greenskins_WaaaghWH_Greenskins_Waaagh_land">
+<config_key>WH_Greenskins_Waaagh</config_key>
+<priority>1</priority>
+<template_key>WH_Greenskins_Waaagh_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{160dcba9-6629-4daf-bf6f-c37db7407908}" record_timestamp="1461152293210" record_key="WH_Greenskins_WaaaghWH_default_naval">
+<config_key>WH_Greenskins_Waaagh</config_key>
+<priority>1</priority>
+<template_key>WH_default_naval</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{8be6f72e-f715-481d-b9ad-28fb21cdc520}" record_timestamp="1400161447030" record_key="WH_KislevWH_Kislev_land">
+<config_key>WH_Kislev</config_key>
+<priority>1</priority>
+<template_key>WH_Kislev_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{8ef15b0f-1265-4d16-ab94-45c8a85ec12c}" record_timestamp="1429526349187" record_key="WH_KislevWH_default_naval">
+<config_key>WH_Kislev</config_key>
+<priority>1</priority>
+<template_key>WH_default_naval</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{a8f8b161-ae02-49f7-a5c6-fbbb587c0cae}" record_timestamp="1400161447052" record_key="WH_NorscaWH_Norsca_land">
+<config_key>WH_Norsca</config_key>
+<priority>1</priority>
+<template_key>WH_Norsca_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{5854a242-f33c-44c8-81aa-ff88498fc075}" record_timestamp="1429526349189" record_key="WH_NorscaWH_default_naval">
+<config_key>WH_Norsca</config_key>
+<priority>1</priority>
+<template_key>WH_default_naval</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{7d08f278-1160-45e9-ae92-6e07744419e0}" record_timestamp="1400161447086" record_key="WH_TEBWH_TEB_land">
+<config_key>WH_TEB</config_key>
+<priority>1</priority>
+<template_key>WH_TEB_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{ca09a8bd-0b30-4cfe-85ff-8cb25934c1cd}" record_timestamp="1429526349188" record_key="WH_TEBWH_default_naval">
+<config_key>WH_TEB</config_key>
+<priority>1</priority>
+<template_key>WH_default_naval</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{d7d7a90f-fcc9-4e29-b088-e9d527d680e2}" record_timestamp="1400161447110" record_key="WH_Vampire_CountsWH_Vampire_Counts_land">
+<config_key>WH_Vampire_Counts</config_key>
+<priority>1</priority>
+<template_key>WH_Vampire_Counts_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{fbbf5ee8-a5e3-499b-9187-5cdd80b08c3c}" record_timestamp="1429526349188" record_key="WH_Vampire_CountsWH_default_naval">
+<config_key>WH_Vampire_Counts</config_key>
+<priority>1</priority>
+<template_key>WH_default_naval</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{2e44022b-43b8-4c90-b256-d198993f7c92}" record_timestamp="1400161447122" record_key="WH_Wood_ElvesWH_Wood_Elves_land">
+<config_key>WH_Wood_Elves</config_key>
+<priority>1</priority>
+<template_key>WH_Wood_Elves_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{7da0562c-122d-4410-ab3b-81ec39954fb0}" record_timestamp="1429526349189" record_key="WH_Wood_ElvesWH_default_naval">
+<config_key>WH_Wood_Elves</config_key>
+<priority>1</priority>
+<template_key>WH_default_naval</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{f8c110e8-d0df-4c3a-9389-c6735bbf471b}" record_timestamp="1479309459676" record_key="WH_Wood_Elves_DurthuWH_Wood_Elves_Durthu_land">
+<config_key>WH_Wood_Elves_Durthu</config_key>
+<priority>1</priority>
+<template_key>WH_Wood_Elves_Durthu_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{d462e81d-1868-4213-b2e8-970b7baa0b8f}" record_timestamp="1479309459675" record_key="WH_Wood_Elves_DurthuWH_Wood_Elves_land">
+<config_key>WH_Wood_Elves_Durthu</config_key>
+<priority>1</priority>
+<template_key>WH_Wood_Elves_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{d3608d78-fd2d-416c-8caf-7b89fefd3889}" record_timestamp="1479309459676" record_key="WH_Wood_Elves_DurthuWH_default_naval">
+<config_key>WH_Wood_Elves_Durthu</config_key>
+<priority>1</priority>
+<template_key>WH_default_naval</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{babcf1d5-e01e-4b37-ae68-fbc05a27afe9}" record_timestamp="1479309459678" record_key="WH_Wood_Elves_OrionWH_Wood_Elves_Orion_land">
+<config_key>WH_Wood_Elves_Orion</config_key>
+<priority>1</priority>
+<template_key>WH_Wood_Elves_Orion_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{648f9c0a-cbb9-468f-ac66-bf9dd841ce1d}" record_timestamp="1479309459677" record_key="WH_Wood_Elves_OrionWH_Wood_Elves_land">
+<config_key>WH_Wood_Elves_Orion</config_key>
+<priority>1</priority>
+<template_key>WH_Wood_Elves_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{4675f2d9-f38c-4240-bc90-20802d7b9b0e}" record_timestamp="1479309459677" record_key="WH_Wood_Elves_OrionWH_default_naval">
+<config_key>WH_Wood_Elves_Orion</config_key>
+<priority>1</priority>
+<template_key>WH_default_naval</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{54abf6ab-8ddc-4c07-a68b-fbc4772aa5d7}" record_timestamp="1460532114833" record_key="WH_dlc03_Empire_mini_cavalryWH_dlc03_Empire_land_cavalry">
+<config_key>WH_dlc03_Empire_mini_cavalry</config_key>
+<priority>1</priority>
+<template_key>WH_dlc03_Empire_land_cavalry</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{c4a35716-5483-49ce-9666-8b9a1e0f2d0e}" record_timestamp="1460532114833" record_key="WH_dlc03_Empire_mini_infantryWH_dlc03_Empire_land_infantry">
+<config_key>WH_dlc03_Empire_mini_infantry</config_key>
+<priority>1</priority>
+<template_key>WH_dlc03_Empire_land_infantry</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{6ea27e8a-188b-44c2-aedd-b9d2473b3ad5}" record_timestamp="1474299176468" record_key="WH_dlc06_Greenskins_Waaaagh_skarsnikWH_dlc06_Greenskins_land_skarsnik">
+<config_key>WH_dlc06_Greenskins_Waaaagh_skarsnik</config_key>
+<priority>1</priority>
+<template_key>WH_dlc06_Greenskins_land_skarsnik</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{e69c78f7-842b-4625-8a12-51a6fe77ee97}" record_timestamp="1474299176467" record_key="WH_dlc06_Greenskins_Waaaagh_wurrzagWH_dcl06_Greenskins_land_wurrzag">
+<config_key>WH_dlc06_Greenskins_Waaaagh_wurrzag</config_key>
+<priority>1</priority>
+<template_key>WH_dcl06_Greenskins_land_wurrzag</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{bf0dd962-b9cd-40bb-97f4-27877c36e977}" record_timestamp="1429538306123" record_key="WH_mp_Beastmen_landWH_Beastmen_land">
+<config_key>WH_mp_Beastmen_land</config_key>
+<priority>1</priority>
+<template_key>WH_Beastmen_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{768e075e-4e06-44a4-a683-7b6ff8d212b3}" record_timestamp="1429538305205" record_key="WH_mp_Beastmen_siege_attackWH_mp_Beastmen_siege_attack">
+<config_key>WH_mp_Beastmen_siege_attack</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{aa09a777-48e5-4dc6-8379-d4debcd8eeb6}" record_timestamp="1429538304537" record_key="WH_mp_Beastmen_siege_defenceWH_mp_Beastmen_siege_defence">
+<config_key>WH_mp_Beastmen_siege_defence</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{ae39b403-9357-4c43-8999-34173933b6c4}" record_timestamp="1486548378259" record_key="WH_mp_Bretonnia_landWH_Bretonnia_land">
+<config_key>WH_mp_Bretonnia_land</config_key>
+<priority>1</priority>
+<template_key>WH_Bretonnia_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{303ab635-4a74-4e1f-a04f-d461696fbc53}" record_timestamp="1486548378287" record_key="WH_mp_Bretonnia_landWH_Bretonnia_land_cav">
+<config_key>WH_mp_Bretonnia_land</config_key>
+<priority>1</priority>
+<template_key>WH_Bretonnia_land_cav</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{24feb144-7ba3-4fa9-bfa2-ff827d8d0c90}" record_timestamp="1486548378339" record_key="WH_mp_Bretonnia_landWH_Bretonnia_land_flying">
+<config_key>WH_mp_Bretonnia_land</config_key>
+<priority>1</priority>
+<template_key>WH_Bretonnia_land_flying</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{ae1f06d6-ec67-40b1-b06b-541b50820f2a}" record_timestamp="1429538305385" record_key="WH_mp_Bretonnia_siege_attackWH_mp_Bretonnia_siege_attack">
+<config_key>WH_mp_Bretonnia_siege_attack</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Bretonnia_siege_attack</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{b73d92b6-20cf-4aa7-839a-3f5c4c05b3ec}" record_timestamp="1429538304474" record_key="WH_mp_Bretonnia_siege_defenceWH_mp_Bretonnia_siege_defence">
+<config_key>WH_mp_Bretonnia_siege_defence</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Bretonnia_siege_defence</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{ae6189fc-a4d2-4567-87a7-c4f6ce25d13b}" record_timestamp="1429538306246" record_key="WH_mp_Chaos_landWH_Chaos_land">
+<config_key>WH_mp_Chaos_land</config_key>
+<priority>1</priority>
+<template_key>WH_Chaos_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{efc3a13d-292e-4db5-841a-2bd7f6a32b2b}" record_timestamp="1429538305325" record_key="WH_mp_Chaos_siege_attackWH_mp_Chaos_siege_attack">
+<config_key>WH_mp_Chaos_siege_attack</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Chaos_siege_attack</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{4724e1ec-3d6e-49be-8b10-4d024bc6e53d}" record_timestamp="1429538303674" record_key="WH_mp_Chaos_siege_defenceWH_mp_Chaos_siege_defence">
+<config_key>WH_mp_Chaos_siege_defence</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Chaos_siege_defence</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{868cf552-292d-4edc-82de-7ba3fba27954}" record_timestamp="1429538306503" record_key="WH_mp_Dwarfs_landWH_Dwarfs_land">
+<config_key>WH_mp_Dwarfs_land</config_key>
+<priority>1</priority>
+<template_key>WH_Dwarfs_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{9aa27adf-9ff4-44c1-b241-602824b7ef0f}" record_timestamp="1429538304597" record_key="WH_mp_Dwarfs_siege_attackWH_mp_Dwarfs_siege_attack">
+<config_key>WH_mp_Dwarfs_siege_attack</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Dwarfs_siege_attack</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{4334a399-dd2c-42b9-8594-7dabbf4469b8}" record_timestamp="1429538303922" record_key="WH_mp_Dwarfs_siege_defenceWH_mp_Dwarfs_siege_defence">
+<config_key>WH_mp_Dwarfs_siege_defence</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Dwarfs_siege_defence</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{ee8e2792-6c71-489f-aeca-bca0f83d1433}" record_timestamp="1429538306439" record_key="WH_mp_Empire_landWH_Empire_land">
+<config_key>WH_mp_Empire_land</config_key>
+<priority>1</priority>
+<template_key>WH_Empire_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{66bc8888-d6f2-47e4-9f0c-2bcc9ef0bd9a}" record_timestamp="1429538304778" record_key="WH_mp_Empire_siege_attackWH_mp_Empire_siege_attack">
+<config_key>WH_mp_Empire_siege_attack</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Empire_siege_attack</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{bf443145-5319-4dce-8c1f-42f88c31068d}" record_timestamp="1429538303861" record_key="WH_mp_Empire_siege_defenceWH_mp_Empire_siege_defence">
+<config_key>WH_mp_Empire_siege_defence</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Empire_siege_defence</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{42530d58-9483-491e-9d69-165494063189}" record_timestamp="1429538305641" record_key="WH_mp_Greenskins_landWH_Greenskins_land">
+<config_key>WH_mp_Greenskins_land</config_key>
+<priority>1</priority>
+<template_key>WH_Greenskins_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{d4310c97-e9ec-488d-adb5-98407ef4efba}" record_timestamp="1429538304718" record_key="WH_mp_Greenskins_siege_attackWH_mp_Greenskins_siege_attack">
+<config_key>WH_mp_Greenskins_siege_attack</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Greenskins_siege_attack</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{e51fb0c7-708a-49e4-9cfd-d9b1b5b281b5}" record_timestamp="1429538304044" record_key="WH_mp_Greenskins_siege_defenceWH_mp_Greenskins_siege_defence">
+<config_key>WH_mp_Greenskins_siege_defence</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Greenskins_siege_defence</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{fd6f605e-befb-4c93-9a32-8d7fa8ee2dd8}" record_timestamp="1429538305761" record_key="WH_mp_Kislev_landWH_Kislev_land">
+<config_key>WH_mp_Kislev_land</config_key>
+<priority>1</priority>
+<template_key>WH_Kislev_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{6d6877ac-554c-4a98-aaba-d6d32afe443d}" record_timestamp="1429538304839" record_key="WH_mp_Kislev_siege_attackWH_mp_Kislev_siege_attack">
+<config_key>WH_mp_Kislev_siege_attack</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Kislev_siege_attack</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{5e15ce0b-5a09-4b23-81b0-17f61c74cf3b}" record_timestamp="1429538303188" record_key="WH_mp_Kislev_siege_defenceWH_mp_Kislev_siege_defence">
+<config_key>WH_mp_Kislev_siege_defence</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Kislev_siege_defence</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{a333452e-f4c5-4d9c-aaaf-c4e6eab86ca0}" record_timestamp="1429538305881" record_key="WH_mp_Norsca_landWH_Norsca_land">
+<config_key>WH_mp_Norsca_land</config_key>
+<priority>1</priority>
+<template_key>WH_Norsca_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{b3de8c5d-46b7-472f-8971-ba606bfcab5b}" record_timestamp="1429538304961" record_key="WH_mp_Norsca_siege_attackWH_mp_Norsca_siege_attack">
+<config_key>WH_mp_Norsca_siege_attack</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Norsca_siege_attack</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{abffcde5-e533-472d-99c3-a88ab30cd11a}" record_timestamp="1429538303308" record_key="WH_mp_Norsca_siege_defenceWH_mp_Norsca_siege_defence">
+<config_key>WH_mp_Norsca_siege_defence</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Norsca_siege_defence</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{7467b026-66d2-46ae-88fa-ac1dcc5c1a65}" record_timestamp="1429538305940" record_key="WH_mp_TEB_landWH_TEB_land">
+<config_key>WH_mp_TEB_land</config_key>
+<priority>1</priority>
+<template_key>WH_TEB_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{948464ff-e0eb-4c36-88b4-76e1f20714ed}" record_timestamp="1429538304287" record_key="WH_mp_TEB_siege_attackWH_mp_TEB_siege_attack">
+<config_key>WH_mp_TEB_siege_attack</config_key>
+<priority>1</priority>
+<template_key>WH_mp_TEB_siege_attack</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{b55dbc9c-5d11-416a-bfb3-8f4e5b6b3fd0}" record_timestamp="1429538303368" record_key="WH_mp_TEB_siege_defenceWH_mp_TEB_siege_defence">
+<config_key>WH_mp_TEB_siege_defence</config_key>
+<priority>1</priority>
+<template_key>WH_mp_TEB_siege_defence</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{33106641-be26-4a31-91f4-c2fec039ae81}" record_timestamp="1429538305084" record_key="WH_mp_Vampire_Counts_landWH_Vampire_Counts_land">
+<config_key>WH_mp_Vampire_Counts_land</config_key>
+<priority>1</priority>
+<template_key>WH_Vampire_Counts_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{1a9ee576-5db0-4922-86f5-34f00d77673d}" record_timestamp="1429538304412" record_key="WH_mp_Vampire_Counts_siege_attackWH_mp_Vampire_Counts_siege_attack">
+<config_key>WH_mp_Vampire_Counts_siege_attack</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Vampire_Counts_siege_attack</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{0566dcda-b2b8-4e2f-a4ab-219c1470d21b}" record_timestamp="1429538303494" record_key="WH_mp_Vampire_Counts_siege_defenceWH_mp_Vampire_Counts_siege_defence">
+<config_key>WH_mp_Vampire_Counts_siege_defence</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Vampire_Counts_siege_defence</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{b5d74451-6980-4101-bbf8-8d9988335a88}" record_timestamp="1429538305265" record_key="WH_mp_Wood_Elves_landWH_Wood_Elves_land">
+<config_key>WH_mp_Wood_Elves_land</config_key>
+<priority>1</priority>
+<template_key>WH_Wood_Elves_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{4f72db60-3495-4e96-9d41-3b8de01b01ea}" record_timestamp="1429538304350" record_key="WH_mp_Wood_Elves_siege_attackWH_mp_Wood_Elves_siege_attack">
+<config_key>WH_mp_Wood_Elves_siege_attack</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Wood_Elves_siege_attack</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{7a8e5080-87e6-4160-916e-24b404dd618a}" record_timestamp="1429538306573" record_key="WH_mp_Wood_Elves_siege_defenceWH_mp_Wood_Elves_siege_defence">
+<config_key>WH_mp_Wood_Elves_siege_defence</config_key>
+<priority>1</priority>
+<template_key>WH_mp_Wood_Elves_siege_defence</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{f66ac41b-fbd5-400d-aab3-bbb1e28543d0}" record_timestamp="1368026752543" record_key="defaultdefault_land">
+<config_key>default</config_key>
+<priority>1</priority>
+<template_key>default_land</template_key>
+</cdir_military_generator_template_priorities>
+<cdir_military_generator_template_priorities record_uuid="{170eb356-b533-4449-9e25-e07823ed1b7f}" record_timestamp="1368026754753" record_key="defaultdefault_naval">
+<config_key>default</config_key>
+<priority>1</priority>
+<template_key>default_naval</template_key>
+</cdir_military_generator_template_priorities>
+</dataroot>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_map_roads.xsd" export_time="Tue Sep 8 16:59:41 2015" revision="22" export_branch="D:/TW/warhammer/binaries" export_user="bob">
+<edit_uuid>951d0c9f-5a17-4e2f-bead-fc2a6f93eabd</edit_uuid>
+<campaign_map_roads record_uuid="{3bef98f6-b609-43fb-9a0f-18a00a7f56ba}" record_timestamp="1437723641341" record_key="wh_dlc03_beastmen_road_lv_1">
+<campaign>wh_dlc03_beastmen</campaign>
+<key>wh_dlc03_beastmen_road_lv_1</key>
+<movement_cost>80</movement_cost>
+<threshold>0</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+<campaign_map_roads record_uuid="{e325e8ee-0abd-490f-8545-f27163080a79}" record_timestamp="1437723641341" record_key="wh_dlc03_beastmen_road_lv_2">
+<campaign>wh_dlc03_beastmen</campaign>
+<key>wh_dlc03_beastmen_road_lv_2</key>
+<movement_cost>65</movement_cost>
+<threshold>10</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+<campaign_map_roads record_uuid="{4eba5bf4-98e0-4db2-940d-306f64a698cd}" record_timestamp="1437723641341" record_key="wh_dlc03_beastmen_road_lv_3">
+<campaign>wh_dlc03_beastmen</campaign>
+<key>wh_dlc03_beastmen_road_lv_3</key>
+<movement_cost>50</movement_cost>
+<threshold>40</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+<campaign_map_roads record_uuid="{3caf495d-c127-4d29-bfdb-8819dfc92a04}" record_timestamp="1439476416890" record_key="wh_dlc05_wood_elves_road_lv_1">
+<campaign>wh_dlc05_wood_elves</campaign>
+<key>wh_dlc05_wood_elves_road_lv_1</key>
+<movement_cost>80</movement_cost>
+<threshold>0</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+<campaign_map_roads record_uuid="{ad02e5c8-bec4-45bf-8d47-f8b97a4cf4c1}" record_timestamp="1439476416949" record_key="wh_dlc05_wood_elves_road_lv_2">
+<campaign>wh_dlc05_wood_elves</campaign>
+<key>wh_dlc05_wood_elves_road_lv_2</key>
+<movement_cost>65</movement_cost>
+<threshold>10</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+<campaign_map_roads record_uuid="{07250157-84a8-4763-b0ae-171ab4a2e440}" record_timestamp="1439476417007" record_key="wh_dlc05_wood_elves_road_lv_3">
+<campaign>wh_dlc05_wood_elves</campaign>
+<key>wh_dlc05_wood_elves_road_lv_3</key>
+<movement_cost>50</movement_cost>
+<threshold>40</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+<campaign_map_roads record_uuid="{65989ade-9d93-4dd9-953d-e220365ac8aa}" record_timestamp="1424959378701" record_key="wh_main_road_lv_1">
+<campaign>main_warhammer</campaign>
+<key>wh_main_road_lv_1</key>
+<movement_cost>80</movement_cost>
+<threshold>0</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+<campaign_map_roads record_uuid="{d1a3c285-36de-4360-bf5c-8cf9d1b055c2}" record_timestamp="1424959378811" record_key="wh_main_road_lv_2">
+<campaign>main_warhammer</campaign>
+<key>wh_main_road_lv_2</key>
+<movement_cost>65</movement_cost>
+<threshold>10</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+<campaign_map_roads record_uuid="{1dc8bb3c-4326-4b48-9ad6-b1b7583d811d}" record_timestamp="1424959378764" record_key="wh_main_road_lv_3">
+<campaign>main_warhammer</campaign>
+<key>wh_main_road_lv_3</key>
+<movement_cost>50</movement_cost>
+<threshold>40</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+</dataroot>

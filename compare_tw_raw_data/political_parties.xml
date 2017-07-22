@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="political_parties.xsd" export_time="Wed Jan 18 16:01:56 2017" revision="79" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>442b2051-3901-4987-b4e4-c23ab13de421</edit_uuid>
+<political_parties record_uuid="{956ef37d-c5c3-47c0-9870-68a788808267}" record_timestamp="1462458454239" record_key="wh_dlc03_political_party_beastmen_council">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_dlc03_political_party_beastmen_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Warherd Leaders" last_edit_user="bob">Other Warherd Leaders</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{07c0b529-f1f9-40db-9f76-38b2eb7992b6}" record_timestamp="1437478391025" record_key="wh_dlc03_political_party_beastmen_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_dlc03_faction_trait_beastmen_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_dlc03_political_party_beastmen_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Beastmen" last_edit_user="bob">The Beastmen</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{f532f30c-c16a-45c0-8042-708d79a58c9b}" record_timestamp="1464871627832" record_key="wh_dlc03_political_party_mini_beastmen_khazrak_council">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_dlc03_political_party_mini_beastmen_khazrak_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Warherd Leaders" last_edit_user="bob">Other Warherd Leaders</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{af224d11-d9fe-4925-90ee-a89daad2d71f}" record_timestamp="1464871627832" record_key="wh_dlc03_political_party_mini_beastmen_khazrak_ruler">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_dlc03_faction_trait_beastmen_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_dlc03_political_party_mini_beastmen_khazrak_ruler</key>
+<name_localised state="APPROVED" last_approved_text="Khazrak's Warherd" last_edit_user="bob">Khazrak's Warherd</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{4905434c-1df2-46f7-9f1c-fdfea0a313e7}" record_timestamp="1481043177982" record_key="wh_dlc05_political_party_mini_beastmen_morghur">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_dlc03_faction_trait_beastmen_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_dlc05_political_party_mini_beastmen_morghur</key>
+<name_localised state="APPROVED" last_approved_text="The Beastmen" last_edit_user="bob">The Beastmen</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{e62f4265-4f01-456a-a0bb-e69554b2dcc8}" record_timestamp="1481043177995" record_key="wh_dlc05_political_party_mini_beastmen_morghur_council">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_dlc05_political_party_mini_beastmen_morghur_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Warherd Leaders" last_edit_user="bob">Other Warherd Leaders</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{4dea9994-9976-40f0-b44d-906ec7f19151}" record_timestamp="1481043177999" record_key="wh_dlc05_political_party_mini_wood_elves_council">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_dlc05_political_party_mini_wood_elves_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Nobles" last_edit_user="bob">Other Nobles</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{3dcceb42-9d52-4b18-b02d-914dc3335f9e}" record_timestamp="1481043177961" record_key="wh_dlc05_political_party_mini_wood_elves_durthu">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_dlc05_faction_trait_wood_elves_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_dlc05_political_party_mini_wood_elves_durthu</key>
+<name_localised state="APPROVED" last_approved_text="Wood Elves" last_edit_user="bob">Wood Elves</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{4a27f226-27b0-4e93-a3cf-4fdea6b51d00}" record_timestamp="1481043177993" record_key="wh_dlc05_political_party_mini_wood_elves_durthu_council">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_dlc05_political_party_mini_wood_elves_durthu_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Nobles" last_edit_user="bob">Other Nobles</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{b02da428-a7aa-4c5a-928d-4fba9d4e6315}" record_timestamp="1481043177960" record_key="wh_dlc05_political_party_mini_wood_elves_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_dlc05_faction_trait_wood_elves_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_dlc05_political_party_mini_wood_elves_ruler</key>
+<name_localised state="APPROVED" last_approved_text="Wood Elves" last_edit_user="bob">Wood Elves</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{051d0f97-d85d-407a-bd21-786f883c6f05}" record_timestamp="1479333338435" record_key="wh_dlc05_political_party_wood_elves_council">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_dlc05_political_party_wood_elves_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Nobles" last_edit_user="bob">Other Nobles</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{509790a9-f885-4798-8b65-a6b3683df31a}" record_timestamp="1481043177944" record_key="wh_dlc05_political_party_wood_elves_durthu">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_dlc05_faction_trait_wood_elves_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_dlc05_political_party_wood_elves_durthu</key>
+<name_localised state="APPROVED" last_approved_text="Wood Elves" last_edit_user="bob">Wood Elves</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{38994df0-a369-43b3-a795-fc563133bfae}" record_timestamp="1481043177997" record_key="wh_dlc05_political_party_wood_elves_durthu_council">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_dlc05_political_party_wood_elves_durthu_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Nobles" last_edit_user="bob">Other Nobles</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{c1bc75d9-2a42-476a-a9aa-0992c96b1a91}" record_timestamp="1479333338434" record_key="wh_dlc05_political_party_wood_elves_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_dlc05_faction_trait_wood_elves_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_dlc05_political_party_wood_elves_ruler</key>
+<name_localised state="APPROVED" last_approved_text="Wood Elves" last_edit_user="bob">Wood Elves</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{1ebae353-65dd-4cbb-93d0-02d899634203}" record_timestamp="1474281890961" record_key="wh_dlc06_political_party_belegar_council">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_dlc06_political_party_belegar_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Nobles" last_edit_user="bob">Other Nobles</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{3a64df12-7d65-4adf-8e3c-59fe2e53ce9b}" record_timestamp="1474281890960" record_key="wh_dlc06_political_party_belegar_ruler">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_dwarfs_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_dlc06_political_party_belegar_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Dwarfs" last_edit_user="bob">The Dwarfs</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{13fa1b86-fb24-48b1-b1de-e7779559b7b2}" record_timestamp="1474281891110" record_key="wh_dlc06_political_party_skarsnik_council">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_dlc06_political_party_skarsnik_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Tribal Leaders" last_edit_user="bob">Other Tribal Leaders</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{d08b11d1-889f-4e8e-8ba3-759f8b0fb666}" record_timestamp="1474281891110" record_key="wh_dlc06_political_party_skarsnik_ruler">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_greenskins_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_dlc06_political_party_skarsnik_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Greenskins" last_edit_user="bob">The Greenskins</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{516095f0-72db-4a5f-93b1-9ab00a256cb2}" record_timestamp="1474281891111" record_key="wh_dlc06_political_party_wurrzag_council">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_dlc06_political_party_wurrzag_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Tribal Leaders" last_edit_user="bob">Other Tribal Leaders</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{bbbacea0-7f79-420f-8bd6-b25e51e7b4dc}" record_timestamp="1474281891111" record_key="wh_dlc06_political_party_wurrzag_ruler">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_greenskins_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_dlc06_political_party_wurrzag_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Greenskins" last_edit_user="bob">The Greenskins</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{94c64f11-d35c-4616-818a-12cb66c98f5c}" record_timestamp="1484755316615" record_key="wh_dlc07_political_party_bretonnia_alberic">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_bretonnia</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_dlc07_political_party_bretonnia_alberic</key>
+<name_localised state="APPROVED" last_approved_text="ph" last_edit_user="bob">ph</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{065bbe63-dc1a-4f92-8989-6974c021eb26}" record_timestamp="1481622328573" record_key="wh_dlc07_political_party_bretonnia_council">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_dlc07_political_party_bretonnia_council</key>
+<name_localised state="APPROVED" last_approved_text="ph" last_edit_user="bob">ph</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{5e127eb8-a2d1-43fe-ac26-18d4045ace98}" record_timestamp="1481803387950" record_key="wh_dlc07_political_party_bretonnia_council_alberic">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_dlc07_political_party_bretonnia_council_alberic</key>
+<name_localised state="APPROVED" last_approved_text="ph" last_edit_user="bob">ph</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{04daacd6-26ff-4f61-9599-2f57930fd1f1}" record_timestamp="1481803387951" record_key="wh_dlc07_political_party_bretonnia_council_fay">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_dlc07_political_party_bretonnia_council_fay</key>
+<name_localised state="APPROVED" last_approved_text="ph" last_edit_user="bob">ph</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{ff9b62cd-1328-4d78-bc7d-e90a07cc366a}" record_timestamp="1484755316660" record_key="wh_dlc07_political_party_bretonnia_fay">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_bretonnia</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_dlc07_political_party_bretonnia_fay</key>
+<name_localised state="APPROVED" last_approved_text="ph" last_edit_user="bob">ph</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{5f07aa10-00ed-4879-a98c-aabba2eb9e54}" record_timestamp="1481622328573" record_key="wh_dlc07_political_party_bretonnia_ruler">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_bretonnia</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_dlc07_political_party_bretonnia_ruler</key>
+<name_localised state="APPROVED" last_approved_text="ph" last_edit_user="bob">ph</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{aef12dfa-13fa-4d74-92ea-534f695cdd88}" record_timestamp="1438346351597" record_key="wh_main_political_party_chaos_council">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_main_political_party_chaos_council</key>
+<name_localised state="APPROVED" last_approved_text="Lesser Demons" last_edit_user="bob">Lesser Demons</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{cab43ee5-971e-4920-807b-a7a10da2a71a}" record_timestamp="1462358728877" record_key="wh_main_political_party_chaos_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_chaos_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_main_political_party_chaos_ruler</key>
+<name_localised state="APPROVED" last_approved_text="Chaos Lords" last_edit_user="bob">Chaos Lords</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{a8762429-9abc-4fd5-99b1-3b6ff8d5f79a}" record_timestamp="1438346351654" record_key="wh_main_political_party_chaos_separatist_council">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_main_political_party_chaos_separatist_council</key>
+<name_localised state="APPROVED" last_approved_text="Lesser Demons" last_edit_user="bob">Lesser Demons</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{ad496eb6-9635-4312-8936-7f7f2dfabd7c}" record_timestamp="1462358728877" record_key="wh_main_political_party_chaos_separatist_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_chaos_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_main_political_party_chaos_separatist_ruler</key>
+<name_localised state="APPROVED" last_approved_text="Chaos Lords" last_edit_user="bob">Chaos Lords</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{cec84ab1-6853-48cb-ab38-99a7400531f6}" record_timestamp="1443437716240" record_key="wh_main_political_party_chaos_separatist_sorcerer_lord_council">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_main_political_party_chaos_separatist_sorcerer_lord_council</key>
+<name_localised state="APPROVED" last_approved_text="Lesser Demons" last_edit_user="bob">Lesser Demons</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{688c7d68-6e02-462e-8474-96787f58aa34}" record_timestamp="1462358728878" record_key="wh_main_political_party_chaos_separatist_sorcerer_lord_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_chaos_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_main_political_party_chaos_separatist_sorcerer_lord_ruler</key>
+<name_localised state="APPROVED" last_approved_text="Chaos Lords" last_edit_user="bob">Chaos Lords</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{cfd79ccb-db27-442f-bf3e-56233066c23d}" record_timestamp="1438346351720" record_key="wh_main_political_party_dwarf_council">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_main_political_party_dwarf_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Nobles" last_edit_user="bob">Other Nobles</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{cc7f0b5c-c322-41ce-84ca-0b4ba828e50b}" record_timestamp="1438346351752" record_key="wh_main_political_party_dwarf_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_dwarfs_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_main_political_party_dwarf_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Dwarfs" last_edit_user="bob">The Dwarfs</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{ab5987e4-8331-45a0-9c13-97e8d79041c0}" record_timestamp="1438346351785" record_key="wh_main_political_party_dwarf_separatist_council">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_main_political_party_dwarf_separatist_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Nobles" last_edit_user="bob">Other Nobles</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{93019263-b31b-41e9-b308-4c349eaabe58}" record_timestamp="1438346351821" record_key="wh_main_political_party_dwarf_separatist_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_dwarfs_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_main_political_party_dwarf_separatist_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Dwarfs" last_edit_user="bob">The Dwarfs</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{fa378d66-494b-4f33-8cee-4ca10f2dc061}" record_timestamp="1438346351864" record_key="wh_main_political_party_empire_council">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_main_political_party_empire_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Nobles" last_edit_user="bob">Other Nobles</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{7729a709-1615-4843-8eba-32ef210b6a22}" record_timestamp="1438346351903" record_key="wh_main_political_party_empire_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_empire_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_main_political_party_empire_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Empire" last_edit_user="bob">The Empire</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{c1713dbe-a10e-41ed-a9b9-7a59a3c6a3d6}" record_timestamp="1438346351942" record_key="wh_main_political_party_empire_separatist_council">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_main_political_party_empire_separatist_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Nobles" last_edit_user="bob">Other Nobles</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{ff502982-afb8-4c6f-8f42-11e98d605075}" record_timestamp="1438346351983" record_key="wh_main_political_party_empire_separatist_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_empire_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_main_political_party_empire_separatist_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Empire" last_edit_user="bob">The Empire</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{1d6474d6-e39a-4cca-92d6-43488113b7ed}" record_timestamp="1438346352030" record_key="wh_main_political_party_greenskins_council">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_main_political_party_greenskins_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Tribal Leaders" last_edit_user="bob">Other Tribal Leaders</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{7ba5b720-2f16-4148-9d3f-0d7e773f63df}" record_timestamp="1438346352068" record_key="wh_main_political_party_greenskins_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_greenskins_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_main_political_party_greenskins_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Greenskins" last_edit_user="bob">The Greenskins</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{4455f74a-057e-4a16-80dd-47aa179f5904}" record_timestamp="1438346352109" record_key="wh_main_political_party_greenskins_separatist_council">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_main_political_party_greenskins_separatist_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Tribal Leaders" last_edit_user="bob">Other Tribal Leaders</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{0c083393-e308-404b-b510-044de4c10d32}" record_timestamp="1443437716691" record_key="wh_main_political_party_greenskins_separatist_goblin_shaman_council">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_main_political_party_greenskins_separatist_goblin_shaman_council</key>
+<name_localised state="APPROVED" last_approved_text="Other Tribal Leaders" last_edit_user="bob">Other Tribal Leaders</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{db3d124b-93ce-44c8-b83d-0d2e170a3d46}" record_timestamp="1443437716691" record_key="wh_main_political_party_greenskins_separatist_goblin_shaman_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_greenskins_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_main_political_party_greenskins_separatist_goblin_shaman_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Greenskins" last_edit_user="bob">The Greenskins</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{4046bc2c-7acc-4f54-8124-e618a9e91c2c}" record_timestamp="1438346352151" record_key="wh_main_political_party_greenskins_separatist_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_greenskins_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_main_political_party_greenskins_separatist_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Greenskins" last_edit_user="bob">The Greenskins</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{5d77886d-552e-4e7e-95f9-5dffb60d4b82}" record_timestamp="1438346352192" record_key="wh_main_political_party_vampire_council">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_main_political_party_vampire_council</key>
+<name_localised state="APPROVED" last_approved_text="Lesser Vampire Nobles" last_edit_user="bob">Lesser Vampire Nobles</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{5b00bbfb-1631-47e1-87fb-f612d5867753}" record_timestamp="1438346352232" record_key="wh_main_political_party_vampire_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_vampire_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_main_political_party_vampire_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Blood Lords" last_edit_user="bob">The Blood Lords</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{2a833675-e957-4aa7-b10c-434fef04242d}" record_timestamp="1438346352274" record_key="wh_main_political_party_vampire_separatist_council">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_main_political_party_vampire_separatist_council</key>
+<name_localised state="APPROVED" last_approved_text="Lesser Vampire Nobles" last_edit_user="bob">Lesser Vampire Nobles</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{e2a90f26-100f-4f54-b7a8-992a8b441753}" record_timestamp="1443437716641" record_key="wh_main_political_party_vampire_separatist_master_necromancer_council">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_main_political_party_vampire_separatist_master_necromancer_council</key>
+<name_localised state="APPROVED" last_approved_text="Lesser Vampire Nobles" last_edit_user="bob">Lesser Vampire Nobles</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{f1c5bcdd-71c3-4c18-8849-4a242aaf208b}" record_timestamp="1443437716641" record_key="wh_main_political_party_vampire_separatist_master_necromancer_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_vampire_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_main_political_party_vampire_separatist_master_necromancer_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Blood Lords" last_edit_user="bob">The Blood Lords</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{aa78e06e-bc73-4a82-98e5-68ebc063614a}" record_timestamp="1438346352317" record_key="wh_main_political_party_vampire_separatist_ruler">
+<description_localised state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_vampire_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_main_political_party_vampire_separatist_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Blood Lords" last_edit_user="bob">The Blood Lords</name_localised>
+<playable>1</playable>
+</political_parties>
+<political_parties record_uuid="{27206aa1-53a5-48f9-bc80-0624c05a59ce}" record_timestamp="1480946745311" record_key="wh_pro02_political_party_vlad_council">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<initial_power>10</initial_power>
+<key>wh_pro02_political_party_vlad_council</key>
+<name_localised state="APPROVED" last_approved_text="Lesser Vampire Nobles" last_edit_user="bob">Lesser Vampire Nobles</name_localised>
+<playable>0</playable>
+</political_parties>
+<political_parties record_uuid="{b3b20183-b392-44b5-b9b7-643aca324d16}" record_timestamp="1480946745331" record_key="wh_pro02_political_party_vlad_ruler">
+<description_localised state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</description_localised>
+<effect_bundle>wh_main_faction_trait_vampire_faction</effect_bundle>
+<initial_power>90</initial_power>
+<key>wh_pro02_political_party_vlad_ruler</key>
+<name_localised state="APPROVED" last_approved_text="The Blood Lords" last_edit_user="bob">The Blood Lords</name_localised>
+<playable>1</playable>
+</political_parties>
+</dataroot>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_particle_effects>
+<root>
+<edit_uuid>d94f43cc-04fa-4111-856f-633f9b8de743</edit_uuid>
+<field>
+<field_uuid>{a7d1bf90-21ee-436b-87fe-827b0f09c05f}</field_uuid>
+<primary_key>1</primary_key>
+<name>key</name>
+<field_type>text</field_type>
+<fragment_path>vfx</fragment_path>
+<required>1</required>
+<max_length>50</max_length>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+</field>
+</root>

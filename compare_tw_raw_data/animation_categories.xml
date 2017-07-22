@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="animation_categories.xsd" export_time="Mon Aug 24 09:57:38 2015" revision="59" export_branch="C:/fetch_c/warhammer/binaries" export_user="bob">
+<edit_uuid>cced3a4a-560a-4dd0-b848-3fbbe2463c07</edit_uuid>
+<animation_categories record_uuid="{2c38dd96-1d32-4280-a527-ca4ea404031c}" record_timestamp="1395079445245" record_key="R2_artillery">
+<name>R2_artillery</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{582e280e-331c-4e18-b071-708a34a19fe8}" record_timestamp="1395079445261" record_key="R2_artillery_crew">
+<name>R2_artillery_crew</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{f7a3368d-4cba-456e-bb4e-e2561e14e6b9}" record_timestamp="1395079445822" record_key="R2_bash_shield">
+<name>R2_bash_shield</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{3049ab83-d9d5-469e-9df0-f918702c2ce1}" record_timestamp="1395079445323" record_key="R2_celebrate">
+<name>R2_celebrate</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{1bd4c39f-4419-4b7c-9568-7967bb52093e}" record_timestamp="1395079445588" record_key="R2_chariot_driver">
+<name>R2_chariot_driver</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{d4c75f7d-2def-4bc3-8d93-363b6987a84b}" record_timestamp="1395079445947" record_key="R2_cinematics">
+<name>R2_cinematics</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{2b322c14-9c1b-49bd-8f75-0efbb25457aa}" record_timestamp="1395082819780" record_key="R2_climb">
+<name>R2_climb</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{dff171d7-e2af-4f7d-bdc4-d81c0e803f4d}" record_timestamp="1395079445495" record_key="R2_combat">
+<name>R2_combat</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{7f3c9d8f-2655-4f6d-a1a5-7e60eff7c38c}" record_timestamp="1395079445900" record_key="R2_deaths">
+<name>R2_deaths</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{30182de2-93da-4b83-b312-8eca4e3870cd}" record_timestamp="1395079445526" record_key="R2_face">
+<name>R2_face</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{c53981bc-9562-42b6-9407-90c3f8dd9d3c}" record_timestamp="1395079445822" record_key="R2_flinch">
+<name>R2_flinch</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{68a0ff3f-adc6-4cfc-b9df-47c9c5d6a02d}" record_timestamp="1395079445542" record_key="R2_hands">
+<name>R2_hands</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{2ab2cb26-7180-4b8f-92a0-aa2f686b6358}" record_timestamp="1395079445557" record_key="R2_hit_reactions">
+<name>R2_hit_reactions</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{e56ae1e5-922b-4837-8b68-8164d2113459}" record_timestamp="1395079445885" record_key="R2_jump_falls">
+<name>R2_jump_falls</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{ea52b8ba-6b46-4474-afad-c7f3ce3829ed}" record_timestamp="1395079445448" record_key="R2_knockback">
+<name>R2_knockback</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{5945794d-b9bc-4b83-8e2f-4bae5c121e7d}" record_timestamp="1395079445822" record_key="R2_knockdown">
+<name>R2_knockdown</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{9a585e10-81fe-48ba-b551-e0ac9b8bfa1a}" record_timestamp="1395079445791" record_key="R2_mandatory">
+<name>R2_mandatory</name>
+<order>1000</order>
+</animation_categories>
+<animation_categories record_uuid="{60562cb5-351d-4677-87de-a662fe19a7af}" record_timestamp="1395079445932" record_key="R2_misc">
+<name>R2_misc</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{53b075a7-3430-404b-8957-19f80a8e5368}" record_timestamp="1395079445323" record_key="R2_missile_attack">
+<name>R2_missile_attack</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{f75db135-ff13-44e5-aeab-b76dad83aca9}" record_timestamp="1395079445401" record_key="R2_missile_misc">
+<name>R2_missile_misc</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{c54f4b90-0490-4e3d-b101-97d08f5e6c3f}" record_timestamp="1395079445432" record_key="R2_mount_testudo">
+<name>R2_mount_testudo</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{20f0f1cd-bfff-4786-8fe1-7972c478f61b}" record_timestamp="1395079445963" record_key="R2_mounting">
+<name>R2_mounting</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{57fc391e-ba18-41a4-92d1-90de2ffdc135}" record_timestamp="1395079445323" record_key="R2_musician">
+<name>R2_musician</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{512bca70-2634-40f3-926a-d7473c65fd30}" record_timestamp="1395079445822" record_key="R2_raise_weapon">
+<name>R2_raise_weapon</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{d4f7838a-b9a6-48a4-a5a5-3b3408d527dc}" record_timestamp="1395079445978" record_key="R2_refuse">
+<name>R2_refuse</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{f4f92359-1319-4e47-955d-543640cc7804}" record_timestamp="1395079445994" record_key="R2_rider_bash_shield">
+<name>R2_rider_bash_shield</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{c1a085dd-9436-4541-888d-ad9fa1864f1c}" record_timestamp="1395079445744" record_key="R2_rider_celebrate">
+<name>R2_rider_celebrate</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{89735a9b-f9c1-4557-9463-fe1278acc57b}" record_timestamp="1395082819811" record_key="R2_rider_cinematics">
+<name>R2_rider_cinematics</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{1123312d-2b5b-4c3b-af2c-965edc186f58}" record_timestamp="1395079445760" record_key="R2_rider_combat">
+<name>R2_rider_combat</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{1a58d460-a9b2-41f0-842f-759f976d1b26}" record_timestamp="1395079445978" record_key="R2_rider_combat_ready">
+<name>R2_rider_combat_ready</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{24c23ade-d5ac-40fa-bd45-3b6fed784976}" record_timestamp="1395079445776" record_key="R2_rider_deaths">
+<name>R2_rider_deaths</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{3eb11f3b-586a-4acd-a1fe-67dc9797b69d}" record_timestamp="1395080489198" record_key="R2_rider_jump_falls">
+<name>R2_rider_jump_falls</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{8580cb84-e91c-4314-8e13-5179890ab3f2}" record_timestamp="1395079445729" record_key="R2_rider_knockback">
+<name>R2_rider_knockback</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{056eb994-7469-4f90-b680-acd3a5e8b8e0}" record_timestamp="1395079445713" record_key="R2_rider_missile_attack">
+<name>R2_rider_missile_attack</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{b8211adc-f552-4f1a-82a1-84a56546af85}" record_timestamp="1395079445978" record_key="R2_rider_mount_testudo">
+<name>R2_rider_mount_testudo</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{70be511e-5068-4470-8c06-40739dba4912}" record_timestamp="1395079445978" record_key="R2_rider_mounting">
+<name>R2_rider_mounting</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{303f3f40-ee79-45e9-b8d2-90bfdeddd160}" record_timestamp="1395079445994" record_key="R2_rider_musician">
+<name>R2_rider_musician</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{fd4c9fdb-17a5-42bb-81b7-3a7531591de9}" record_timestamp="1395079445791" record_key="R2_rider_normal">
+<name>R2_rider_normal</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{18933b32-eebc-4239-85d0-480b5cb563cc}" record_timestamp="1395079445994" record_key="R2_rider_raise_weapon">
+<name>R2_rider_raise_weapon</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{92c88c01-ec6e-4b23-8194-8b4e2d6f02ef}" record_timestamp="1395079445978" record_key="R2_rider_refuse">
+<name>R2_rider_refuse</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{db7eeece-3240-47f1-85cb-98c5a20a9719}" record_timestamp="1395079445698" record_key="R2_rider_shield_up">
+<name>R2_rider_shield_up</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{a6dcf5d2-f832-4141-848f-e18f35db0056}" record_timestamp="1395079445994" record_key="R2_rider_taunt">
+<name>R2_rider_taunt</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{ddb3d9fa-b598-4009-bd04-16c9445594ff}" record_timestamp="1395079446025" record_key="R2_rider_transitions">
+<name>R2_rider_transitions</name>
+<order>1035</order>
+</animation_categories>
+<animation_categories record_uuid="{cbfe848a-1661-4ff1-a145-93b9ba5424a2}" record_timestamp="1395079445838" record_key="R2_rider_wavering">
+<name>R2_rider_wavering</name>
+<order>1030</order>
+</animation_categories>
+<animation_categories record_uuid="{6369ff09-c884-4394-8747-d5015ea7edeb}" record_timestamp="1395079445666" record_key="R2_ship_crew">
+<name>R2_ship_crew</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{6ee9691e-f5a0-406c-8609-69e358f0d0ef}" record_timestamp="1395079445089" record_key="R2_stance_combat_ready">
+<name>R2_stance_combat_ready</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{56219f67-0c03-4460-ace4-5f1efa60d522}" record_timestamp="1395079445089" record_key="R2_stance_crouch">
+<name>R2_stance_crouch</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{546eb3db-2c10-425a-93ef-622c627a2b11}" record_timestamp="1395079445105" record_key="R2_stance_fatigued">
+<name>R2_stance_fatigued</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{28d21567-1130-468a-8a3c-4b238e5d78ae}" record_timestamp="1395079445120" record_key="R2_stance_injured">
+<name>R2_stance_injured</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{0e725735-f36c-4140-b22f-f0c319c4b07d}" record_timestamp="1395079445464" record_key="R2_stance_kneel">
+<name>R2_stance_kneel</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{27fc00dd-e770-4684-ba19-bb849e61c009}" record_timestamp="1395081079225" record_key="R2_stance_no_weapon">
+<name>R2_stance_no_weapon</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{6d7145ad-ad1b-4cb5-b451-6ddeac1059d2}" record_timestamp="1395079445089" record_key="R2_stance_normal">
+<name>R2_stance_normal</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{9fd439e9-e6b0-4f3a-b733-ede47633516e}" record_timestamp="1395079445214" record_key="R2_stance_pike">
+<name>R2_stance_pike</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{2a5558d9-2cc5-41db-afbe-62c861ecf678}" record_timestamp="1395079445120" record_key="R2_stance_shield_front">
+<name>R2_stance_shield_front</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{8b00eb37-644d-4bd2-9920-18f13c850799}" record_timestamp="1395079445136" record_key="R2_stance_shield_top">
+<name>R2_stance_shield_top</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{52140b87-8de9-4cd0-b128-7f3cfe961c69}" record_timestamp="1395079445152" record_key="R2_stance_shield_up">
+<name>R2_stance_shield_up</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{b46c9a4a-4288-4393-8ff1-03cb4614eb08}" record_timestamp="1395079445167" record_key="R2_stance_shoot">
+<name>R2_stance_shoot</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{54a39dbe-2b27-465d-98ca-a17e6053b7ea}" record_timestamp="1395079445183" record_key="R2_stance_shoot_crouch">
+<name>R2_stance_shoot_crouch</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{78cc164d-37a2-401a-bce9-a53a1dc6bb47}" record_timestamp="1395083432269" record_key="R2_stance_shoot_ready">
+<name>R2_stance_shoot_ready</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{1a4a477d-ed85-4cbb-a166-70d9fb041e59}" record_timestamp="1395079445183" record_key="R2_stance_wading">
+<name>R2_stance_wading</name>
+<order>1010</order>
+</animation_categories>
+<animation_categories record_uuid="{6855c985-9da1-4f28-9262-9553c94dcc42}" record_timestamp="1395079445838" record_key="R2_stumble">
+<name>R2_stumble</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{13f5048b-9e4f-4da7-b2a0-6632bb4a0d02}" record_timestamp="1395079445822" record_key="R2_taunt">
+<name>R2_taunt</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{e75017ed-a751-4853-ab60-a7600638f127}" record_timestamp="1395079445932" record_key="R2_transitions">
+<name>R2_transitions</name>
+<order>1015</order>
+</animation_categories>
+<animation_categories record_uuid="{44040881-0370-40a3-983c-ca076f849b93}" record_timestamp="1395079445651" record_key="R2_voice_over">
+<name>R2_voice_over</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{fa28813d-9b69-4fc1-96e0-e8da6cda10cf}" record_timestamp="1395079445822" record_key="R2_wavering">
+<name>R2_wavering</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{2267386b-1faf-4989-9fd4-37bb99a8be02}" record_timestamp="1396461192016" record_key="R2_weapon_docking">
+<name>R2_weapon_docking</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{629296b9-0916-4790-a2f2-8a1091c39cfb}" record_timestamp="1395079445635" record_key="R2_wounded">
+<name>R2_wounded</name>
+<order>1020</order>
+</animation_categories>
+<animation_categories record_uuid="{510d32f0-9485-46b5-84fe-132005f9045c}" record_timestamp="1438854482961" record_key="artillery_crew">
+<name>artillery_crew</name>
+<order>95</order>
+</animation_categories>
+<animation_categories record_uuid="{0ac956dc-afbd-4677-83a7-b87213bcee37}" record_timestamp="1438854482729" record_key="celebrate">
+<name>celebrate</name>
+<order>75</order>
+</animation_categories>
+<animation_categories record_uuid="{e7af369b-94ee-4093-b70b-119e767f54bf}" record_timestamp="1438854482796" record_key="climb">
+<name>climb</name>
+<order>80</order>
+</animation_categories>
+<animation_categories record_uuid="{93347fbc-279a-45e9-93b4-5116758109da}" record_timestamp="1438854478250" record_key="combat">
+<name>combat</name>
+<order>15</order>
+</animation_categories>
+<animation_categories record_uuid="{95a28542-b5e8-4d98-b6cf-ac4c3fc0cf7e}" record_timestamp="1438854485436" record_key="deaths">
+<name>deaths</name>
+<order>35</order>
+</animation_categories>
+<animation_categories record_uuid="{258ac4ce-6bf4-47ca-8088-3941d14d1952}" record_timestamp="1400148453715" record_key="face">
+<name>face</name>
+<order>3</order>
+</animation_categories>
+<animation_categories record_uuid="{d192ace3-62dc-44b0-8c8b-80a0eaed57ac}" record_timestamp="1438854483088" record_key="flying_combat">
+<name>flying_combat</name>
+<order>105</order>
+</animation_categories>
+<animation_categories record_uuid="{be6e3203-6bb9-480b-8c12-b6c4a70c35e4}" record_timestamp="1400148453707" record_key="hands">
+<name>hands</name>
+<order>2</order>
+</animation_categories>
+<animation_categories record_uuid="{ec0b97d5-10ff-4b24-876b-17bd4054c168}" record_timestamp="1438854485115" record_key="hit_reactions">
+<name>hit_reactions</name>
+<order>20</order>
+</animation_categories>
+<animation_categories record_uuid="{1a4dc26a-20a5-4bc2-b25f-859433a0cb3f}" record_timestamp="1438854482859" record_key="jump_falls">
+<name>jump_falls</name>
+<order>85</order>
+</animation_categories>
+<animation_categories record_uuid="{7d0feb06-400a-4531-a859-655744d34376}" record_timestamp="1438854485209" record_key="knockback">
+<name>knockback</name>
+<order>25</order>
+</animation_categories>
+<animation_categories record_uuid="{41e81073-3788-45b7-8da2-cf02bc3d72d7}" record_timestamp="1438854485364" record_key="knockdown">
+<name>knockdown</name>
+<order>30</order>
+</animation_categories>
+<animation_categories record_uuid="{86e49af5-e79c-47e2-b729-f2212b355346}" record_timestamp="1394821307215" record_key="mandatory">
+<name>mandatory</name>
+<order>0</order>
+</animation_categories>
+<animation_categories record_uuid="{fc00e19c-9a33-4ad0-96c5-001a4bd1760e}" record_timestamp="1438854485805" record_key="missile_attack">
+<name>missile_attack</name>
+<order>60</order>
+</animation_categories>
+<animation_categories record_uuid="{192918bb-8954-444f-869a-1be88faa431e}" record_timestamp="1438854485857" record_key="missile_misc">
+<name>missile_misc</name>
+<order>65</order>
+</animation_categories>
+<animation_categories record_uuid="{04937ac3-c7df-4181-a187-93348de43753}" record_timestamp="1439308415019" record_key="porthole">
+<name>porthole</name>
+<order>4</order>
+</animation_categories>
+<animation_categories record_uuid="{e1ac58c3-121c-4d82-8c8a-e5bcef10b702}" record_timestamp="1395079445339" record_key="redundant">
+<name>redundant</name>
+<order>10000</order>
+</animation_categories>
+<animation_categories record_uuid="{9208fcce-7888-486d-8ae9-a12c5fc5c060}" record_timestamp="1438854486499" record_key="rider_celebrate">
+<name>rider_celebrate</name>
+<order>240</order>
+</animation_categories>
+<animation_categories record_uuid="{ad54e9f6-3a90-4138-b282-c6e6051a4732}" record_timestamp="1438854483320" record_key="rider_combat">
+<name>rider_combat</name>
+<order>210</order>
+</animation_categories>
+<animation_categories record_uuid="{4455a8e1-66fc-4c12-a5ac-72cc5b940647}" record_timestamp="1438854483247" record_key="rider_combat_ready">
+<name>rider_combat_ready</name>
+<order>205</order>
+</animation_categories>
+<animation_categories record_uuid="{26a50b14-64dc-4e31-8377-6f82944a3092}" record_timestamp="1438854486309" record_key="rider_deaths">
+<name>rider_deaths</name>
+<order>225</order>
+</animation_categories>
+<animation_categories record_uuid="{40988207-8d17-4300-8631-4f331e9f97c3}" record_timestamp="1438854486551" record_key="rider_flying">
+<name>rider_flying</name>
+<order>245</order>
+</animation_categories>
+<animation_categories record_uuid="{a489116b-fa52-43fc-8dad-c95e8a60b27f}" record_timestamp="1438854486603" record_key="rider_flying_combat">
+<name>rider_flying_combat</name>
+<order>250</order>
+</animation_categories>
+<animation_categories record_uuid="{9b6d9c14-0f54-4823-90e3-2b240787444b}" record_timestamp="1438854486120" record_key="rider_hit_reactions">
+<name>rider_hit_reactions</name>
+<order>215</order>
+</animation_categories>
+<animation_categories record_uuid="{19493f72-ba0f-40e3-bf13-784ea04d5838}" record_timestamp="1438854486203" record_key="rider_knockback">
+<name>rider_knockback</name>
+<order>220</order>
+</animation_categories>
+<animation_categories record_uuid="{2d8d4be2-b250-4735-8d56-926bd84307ac}" record_timestamp="1438854486361" record_key="rider_missile_attack">
+<name>rider_missile_attack</name>
+<order>230</order>
+</animation_categories>
+<animation_categories record_uuid="{83799a6c-80ed-4717-91c1-2ff8ec5bc600}" record_timestamp="1438854483195" record_key="rider_normal">
+<name>rider_normal</name>
+<order>200</order>
+</animation_categories>
+<animation_categories record_uuid="{69ba0990-4b2d-460a-856b-787e502b0501}" record_timestamp="1438854486439" record_key="rider_spellcasting">
+<name>rider_spellcasting</name>
+<order>235</order>
+</animation_categories>
+<animation_categories record_uuid="{bc6f6545-ce4c-407c-b71e-68b2448b10ee}" record_timestamp="1438854486659" record_key="rider_transitions">
+<name>rider_transitions</name>
+<order>255</order>
+</animation_categories>
+<animation_categories record_uuid="{53c92544-0eaa-4c05-b7b2-e87ecf6be448}" record_timestamp="1438854485909" record_key="spellcasting">
+<name>spellcasting</name>
+<order>70</order>
+</animation_categories>
+<animation_categories record_uuid="{c597137e-4a4c-4ad6-a813-f89597fad09d}" record_timestamp="1394821801224" record_key="stance_combat_ready">
+<name>stance_combat_ready</name>
+<order>10</order>
+</animation_categories>
+<animation_categories record_uuid="{898d7fdf-6b8a-4a2d-8ba2-be3603bc888b}" record_timestamp="1438854483036" record_key="stance_flying">
+<name>stance_flying</name>
+<order>100</order>
+</animation_categories>
+<animation_categories record_uuid="{b8750346-a8a0-40f8-b460-f81ea4558615}" record_timestamp="1438854478192" record_key="stance_normal">
+<name>stance_normal</name>
+<order>5</order>
+</animation_categories>
+<animation_categories record_uuid="{c90aacaa-5a2e-4201-90c2-f317dcea6d69}" record_timestamp="1438854485503" record_key="stance_shoot">
+<name>stance_shoot</name>
+<order>40</order>
+</animation_categories>
+<animation_categories record_uuid="{b54ecf50-1b04-41c8-aff4-46d564ce1cd7}" record_timestamp="1438854485752" record_key="stance_shoot_death">
+<name>stance_shoot_death</name>
+<order>55</order>
+</animation_categories>
+<animation_categories record_uuid="{37d266b9-609d-4dac-93aa-a25ce547b965}" record_timestamp="1438854485648" record_key="stance_shoot_hit_reactions">
+<name>stance_shoot_hit_reactions</name>
+<order>50</order>
+</animation_categories>
+<animation_categories record_uuid="{df67b5b8-07ea-4dc6-9469-f581c7619b3b}" record_timestamp="1438854485571" record_key="stance_shoot_ready">
+<name>stance_shoot_ready</name>
+<order>45</order>
+</animation_categories>
+<animation_categories record_uuid="{4cdc70fd-ac72-40cc-bc70-df2ed4329b23}" record_timestamp="1438854483140" record_key="transitions">
+<name>transitions</name>
+<order>110</order>
+</animation_categories>
+<animation_categories record_uuid="{f6a5e6a8-f7d2-43c1-82ec-61fe17d4bd48}" record_timestamp="1395079445323" record_key="uncategorised">
+<name>uncategorised</name>
+<order>10000</order>
+</animation_categories>
+<animation_categories record_uuid="{19e42390-5882-41e8-9333-4d3f57e58860}" record_timestamp="1438854482911" record_key="war_machines">
+<name>war_machines</name>
+<order>90</order>
+</animation_categories>
+<animation_categories record_uuid="{d7858530-205a-4d3a-8188-75ad9d3a11b1}" record_timestamp="1400148453698" record_key="weapon_docking">
+<name>weapon_docking</name>
+<order>1</order>
+</animation_categories>
+</dataroot>

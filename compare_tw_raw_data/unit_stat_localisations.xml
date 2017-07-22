@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_stat_localisations.xsd" export_time="Mon Sep 19 15:40:25 2016" revision="39" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>2c407b4e-7b5c-427d-8fa7-bba485189261</edit_uuid>
+<unit_stat_localisations record_uuid="{cbd07d12-5e2b-40e6-930e-140b6e1b1988}" record_timestamp="1448961146455" record_key="scalar_bracing">
+<onscreen_name state="APPROVED" last_approved_text="Charge Resistance" last_edit_user="bob">Charge Resistance</onscreen_name>
+<stat_key>scalar_bracing</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="n/a" last_edit_user="bob">n/a</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{6e3820be-1efb-4d22-a4ce-880435c08b54}" record_timestamp="1452680164310" record_key="scalar_charge_speed">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_speed.png]][[/img]] Charge Speed" last_edit_user="bob">[[img:ui/skins/default/icon_stat_speed.png]][[/img]] Charge Speed</onscreen_name>
+<stat_key>scalar_charge_speed</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="n/a" last_edit_user="bob">n/a</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{9b082f56-ccb6-4766-b666-b3a63c72afc8}" record_timestamp="1452680164290" record_key="scalar_entity_acceleration_modifier">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_speed.png]][[/img]] Acceleration" last_edit_user="bob">[[img:ui/skins/default/icon_stat_speed.png]][[/img]] Acceleration</onscreen_name>
+<stat_key>scalar_entity_acceleration_modifier</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="n/a" last_edit_user="bob">n/a</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{90fd7116-0239-4a49-a079-83379ba9bf0e}" record_timestamp="1452680164270" record_key="scalar_entity_deceleration_modifier">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_speed.png]][[/img]] Deceleration" last_edit_user="bob">[[img:ui/skins/default/icon_stat_speed.png]][[/img]] Deceleration</onscreen_name>
+<stat_key>scalar_entity_deceleration_modifier</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="n/a" last_edit_user="bob">n/a</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{2301bb90-c125-494c-97b6-4170ba3bbb58}" record_timestamp="1446019434184" record_key="scalar_miscast_chance">
+<onscreen_name state="APPROVED" last_approved_text="Miscast Chance" last_edit_user="bob">Miscast Chance</onscreen_name>
+<stat_key>scalar_miscast_chance</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Reduced likelihood of miscasting spells." last_edit_user="bob">Reduced likelihood of miscasting spells.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{20ea3531-d16e-46df-a56c-3746aedac426}" record_timestamp="1474294253658" record_key="scalar_missile_damage_ap">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/modifier_icon_armour_piercing_ranged.png]][[/img]] Armour-Piercing Missile Damage" last_edit_user="bob">[[img:ui/skins/default/modifier_icon_armour_piercing_ranged.png]][[/img]] Armour-Piercing Missile Damage</onscreen_name>
+<stat_key>scalar_missile_damage_ap</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Armour-piercing damage" last_edit_user="bob">Armour-piercing damage</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{9f104df6-037b-4b67-ad3a-2985a40ad225}" record_timestamp="1452680164230" record_key="scalar_missile_damage_base">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_ranged_damage.png]][[/img]] Missile Damage" last_edit_user="bob">[[img:ui/skins/default/icon_stat_ranged_damage.png]][[/img]] Missile Damage</onscreen_name>
+<stat_key>scalar_missile_damage_base</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="The damage caused by a missile attack, split between base and armour piercing.||Armour-piercing damage is always applied, base damage can be blocked by armour." last_edit_user="bob">The damage caused by a missile attack, split between base and armour piercing.||Armour-piercing damage is always applied, base damage can be blocked by armour.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{62b5c5d9-5ff0-49ec-a055-05bd30d5f98b}" record_timestamp="1474294253659" record_key="scalar_missile_explosion_damage_ap">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/modifier_icon_armour_piercing_ranged.png]][[/img]] Armour-Piercing Explosion" last_edit_user="bob">[[img:ui/skins/default/modifier_icon_armour_piercing_ranged.png]][[/img]] Armour-Piercing Explosion</onscreen_name>
+<stat_key>scalar_missile_explosion_damage_ap</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Armour-piercing explosion" last_edit_user="bob">Armour-piercing explosion</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{0f0c7622-65c3-47d8-86d2-b556cccfcb1c}" record_timestamp="1459940131785" record_key="scalar_missile_explosion_damage_base">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_ranged_damage.png]][[/img]] Explosion" last_edit_user="bob">[[img:ui/skins/default/icon_stat_ranged_damage.png]][[/img]] Explosion</onscreen_name>
+<stat_key>scalar_missile_explosion_damage_base</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Explosion" last_edit_user="bob">Explosion</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{0069b2a7-ad0c-444f-aed9-3f2e44179264}" record_timestamp="1452680164211" record_key="scalar_missile_range">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_range.png]][[/img]] Range" last_edit_user="bob">[[img:ui/skins/default/icon_stat_range.png]][[/img]] Range</onscreen_name>
+<stat_key>scalar_missile_range</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="A long range enables you to hit enemies from a distance, but weapons are still more accurate at shorter ranges." last_edit_user="bob">A long range enables you to hit enemies from a distance, but weapons are still more accurate at shorter ranges.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{3e0aed20-79f1-4cd8-b01b-b6c22c6b23c9}" record_timestamp="1452680164192" record_key="scalar_speed">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_speed.png]][[/img]] Speed" last_edit_user="bob">[[img:ui/skins/default/icon_stat_speed.png]][[/img]] Speed</onscreen_name>
+<stat_key>scalar_speed</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="This is how fast a unit moves." last_edit_user="bob">This is how fast a unit moves.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{44f93ed4-de3f-4d1f-8039-bf4c3c8a18d1}" record_timestamp="1459940131518" record_key="scalar_splash_attack_power">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_damage.png]][[/img]] Splash Attack Power" last_edit_user="bob">[[img:ui/skins/default/icon_stat_damage.png]][[/img]] Splash Attack Power</onscreen_name>
+<stat_key>scalar_splash_attack_power</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="How powerful our splash attack is compared to the usual amount." last_edit_user="bob">How powerful our splash attack is compared to the usual amount.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{10409b8f-c7f7-42fa-8d97-86d3f1f1934d}" record_timestamp="1452680164153" record_key="stat_accuracy">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_range.png]][[/img]] Accuracy" last_edit_user="bob">[[img:ui/skins/default/icon_stat_range.png]][[/img]] Accuracy</onscreen_name>
+<stat_key>stat_accuracy</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="The likelihood of hitting the enemy when firing.||Accuracy is improved by experience in battle." last_edit_user="bob">The likelihood of hitting the enemy when firing.||Accuracy is improved by experience in battle.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{f0891e6c-3bec-4bc4-ae33-3f5cb8548783}" record_timestamp="1452680164135" record_key="stat_ammo">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_ammo.png]][[/img]] Ammunition" last_edit_user="bob">[[img:ui/skins/default/icon_stat_ammo.png]][[/img]] Ammunition</onscreen_name>
+<stat_key>stat_ammo</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="The amount of ammunition this unit can carry into battle.||Once this has been exhausted the unit will be forced to switch to melee to continue fighting.||After the battle, ammunition is fully replenished." last_edit_user="bob">The amount of ammunition this unit can carry into battle.||Once this has been exhausted the unit will be forced to switch to melee to continue fighting.||After the battle, ammunition is fully replenished.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{a56c90ae-2fa2-4875-a7d1-853f0b64f403}" record_timestamp="1452680164115" record_key="stat_armour">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_armour.png]][[/img]] Armour" last_edit_user="bob">[[img:ui/skins/default/icon_stat_armour.png]][[/img]] Armour</onscreen_name>
+<stat_key>stat_armour</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="How resistant a unit is to missile fire and melee attacks." last_edit_user="bob">How resistant a unit is to missile fire and melee attacks.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{fc392a51-f303-4917-b960-a82ac185ccf0}" record_timestamp="1462358717720" record_key="stat_bonus_vs_cavalry">
+<onscreen_name state="APPROVED" last_approved_text="Bonus vs. Cavalry" last_edit_user="bob">Bonus vs. Cavalry</onscreen_name>
+<stat_key>stat_bonus_vs_cavalry</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="The melee bonus this unit receives when fighting against cavalry." last_edit_user="bob">The melee bonus this unit receives when fighting against cavalry.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{e57e04fa-9eba-4168-ba36-d222e3762a56}" record_timestamp="1462358717720" record_key="stat_bonus_vs_infantry">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]] Bonus vs. Infantry" last_edit_user="bob">[[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]] Bonus vs. Infantry</onscreen_name>
+<stat_key>stat_bonus_vs_infantry</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="The melee bonus this unit receives when fighting against infantry." last_edit_user="bob">The melee bonus this unit receives when fighting against infantry.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{a9408ce7-5a78-47d6-a41b-55a6b838bf77}" record_timestamp="1462358717721" record_key="stat_bonus_vs_large">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/modifier_icon_bonus_vs_large.png]][[/img]] Bonus vs. Large" last_edit_user="bob">[[img:ui/skins/default/modifier_icon_bonus_vs_large.png]][[/img]] Bonus vs. Large</onscreen_name>
+<stat_key>stat_bonus_vs_large</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="The melee bonus this unit receives when fighting against large creatures." last_edit_user="bob">The melee bonus this unit receives when fighting against large creatures.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{b18ebd27-7d91-4f3f-8630-af3592f0aaf0}" record_timestamp="1452680164096" record_key="stat_charge_bonus">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_charge_bonus.png]][[/img]] Charge Bonus" last_edit_user="bob">[[img:ui/skins/default/icon_stat_charge_bonus.png]][[/img]] Charge Bonus</onscreen_name>
+<stat_key>stat_charge_bonus</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="This increases a unit's melee attack and damage when charging." last_edit_user="bob">This increases a unit's melee attack and damage when charging.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{3248a7cd-e537-4af9-9cbd-22ee6d21c172}" record_timestamp="1436887877160" record_key="stat_first_strike">
+<onscreen_name state="APPROVED" last_approved_text="First Strike" last_edit_user="bob">First Strike</onscreen_name>
+<stat_key>stat_first_strike</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Determines who strikes first at the beginning of combat" last_edit_user="bob">Determines who strikes first at the beginning of combat</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{6552a113-260e-449a-8f4c-515ab21b1025}" record_timestamp="1452680164077" record_key="stat_health">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_health.png]][[/img]] Hit Points" last_edit_user="bob">[[img:ui/skins/default/icon_stat_health.png]][[/img]] Hit Points</onscreen_name>
+<stat_key>stat_health</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="This determines how many hits a unit can withstand alongside armour and melee defence." last_edit_user="bob">This determines how many hits a unit can withstand alongside armour and melee defence.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{3426dfc1-9747-4374-8879-312281197fe0}" record_timestamp="1452680164059" record_key="stat_melee_attack">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_attack.png]][[/img]] Melee Attack" last_edit_user="bob">[[img:ui/skins/default/icon_stat_attack.png]][[/img]] Melee Attack</onscreen_name>
+<stat_key>stat_melee_attack</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="This determines the chance of a successful hit on the enemy when the unit is engaged in melee.||Battle-hardened troops will gain experience through melee, improving this skill." last_edit_user="bob">This determines the chance of a successful hit on the enemy when the unit is engaged in melee.||Battle-hardened troops will gain experience through melee, improving this skill.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{37801e5c-22aa-488e-a6a4-7bfb57bc15f7}" record_timestamp="1462358717721" record_key="stat_melee_damage_ap">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]] Armour-Piercing Damage" last_edit_user="bob">[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]] Armour-Piercing Damage</onscreen_name>
+<stat_key>stat_melee_damage_ap</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Armour-piercing damage" last_edit_user="bob">Armour-piercing damage</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{ea950002-4637-4a5f-a65c-af16de8af6b3}" record_timestamp="1456764850071" record_key="stat_melee_damage_base">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_damage.png]][[/img]] Weapon Damage" last_edit_user="bob">[[img:ui/skins/default/icon_stat_damage.png]][[/img]] Weapon Damage</onscreen_name>
+<stat_key>stat_melee_damage_base</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Base weapon damage" last_edit_user="bob">Base weapon damage</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{6ae42abc-e013-42c4-9e7c-48d9e148b789}" record_timestamp="1452680164003" record_key="stat_melee_defence">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_defence.png]][[/img]] Melee Defence" last_edit_user="bob">[[img:ui/skins/default/icon_stat_defence.png]][[/img]] Melee Defence</onscreen_name>
+<stat_key>stat_melee_defence</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="This determines the chance of a unit being hit whilst in melee.||This only works in melee and provides no protection from missiles!" last_edit_user="bob">This determines the chance of a unit being hit whilst in melee.||This only works in melee and provides no protection from missiles!</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{e9686cb3-c1b3-46fc-9c24-3d7b58a9c144}" record_timestamp="1452680163831" record_key="stat_missile_block_chance">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_defence.png]][[/img]] Missile Parry (with shield)" last_edit_user="bob">[[img:ui/skins/default/icon_stat_defence.png]][[/img]] Missile Parry (with shield)</onscreen_name>
+<stat_key>stat_missile_block_chance</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="The percentage change that the shield will block (non-artillery) missiles. " last_edit_user="bob">The percentage change that the shield will block (non-artillery) missiles. </tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{458e9631-9dae-4c3b-ad53-5fe53ff264c4}" record_timestamp="1453997299226" record_key="stat_morale">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_morale.png]][[/img]] Leadership" last_edit_user="bob">[[img:ui/skins/default/icon_stat_morale.png]][[/img]] Leadership</onscreen_name>
+<stat_key>stat_morale</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="A unit with high leadership is less likely to rout in the face of danger.||Leadership is improved by experience in battle." last_edit_user="bob">A unit with high leadership is less likely to rout in the face of danger.||Leadership is improved by experience in battle.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{5469f8c6-a3d7-4764-a79a-8c37e7736c24}" record_timestamp="1463570308901" record_key="stat_reloading">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_ammo.png]][[/img]] Reload Skill" last_edit_user="bob">[[img:ui/skins/default/icon_stat_ammo.png]][[/img]] Reload Skill</onscreen_name>
+<stat_key>stat_reloading</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="The rate at which this unit can fire.||This is improved with experience." last_edit_user="bob">The rate at which this unit can fire.||This is improved with experience.</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{f9635763-ab1d-41dc-a1cd-04ce74f3bd5c}" record_timestamp="1456764850071" record_key="stat_resistance_all">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/Battle UI/ability_icons/resistance_ward_save.png]][[/img]] Damage Resistance " last_edit_user="bob">[[img:ui/Battle UI/ability_icons/resistance_ward_save.png]][[/img]] Damage Resistance </onscreen_name>
+<stat_key>stat_resistance_all</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Damage resistance " last_edit_user="bob">Damage resistance </tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{d6a3d9ed-9aa6-4cf4-bca6-73eb0030733a}" record_timestamp="1456764850072" record_key="stat_resistance_flame">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/Battle UI/ability_icons/resistance_fire.png]][[/img]] Flame Resistance" last_edit_user="bob">[[img:ui/Battle UI/ability_icons/resistance_fire.png]][[/img]] Flame Resistance</onscreen_name>
+<stat_key>stat_resistance_flame</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Flame resistance" last_edit_user="bob">Flame resistance</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{13682ddb-6056-4a6d-9edf-07563949ba51}" record_timestamp="1456764850072" record_key="stat_resistance_magic">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/Battle UI/ability_icons/resistance_magic.png]][[/img]] Magic Resistance" last_edit_user="bob">[[img:ui/Battle UI/ability_icons/resistance_magic.png]][[/img]] Magic Resistance</onscreen_name>
+<stat_key>stat_resistance_magic</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Magic resistance" last_edit_user="bob">Magic resistance</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{64296772-a519-4dc8-b0a3-1973ac93e855}" record_timestamp="1456764850072" record_key="stat_resistance_missile">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/Battle UI/ability_icons/resistance_missile.png]][[/img]] Missile Resistance" last_edit_user="bob">[[img:ui/Battle UI/ability_icons/resistance_missile.png]][[/img]] Missile Resistance</onscreen_name>
+<stat_key>stat_resistance_missile</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Missile resistance" last_edit_user="bob">Missile resistance</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{852b40a8-6289-4691-98d1-481d8504dd44}" record_timestamp="1456764850072" record_key="stat_resistance_physical">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/Battle UI/ability_icons/resistance_physical.png]][[/img]] Physical Resistance" last_edit_user="bob">[[img:ui/Battle UI/ability_icons/resistance_physical.png]][[/img]] Physical Resistance</onscreen_name>
+<stat_key>stat_resistance_physical</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Physical resistance" last_edit_user="bob">Physical resistance</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{6c440fa4-1d7c-41b1-bdb2-8bf6a99bfdf4}" record_timestamp="1452680163949" record_key="stat_shield_armour">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_defence.png]][[/img]] Shield Armour" last_edit_user="bob">[[img:ui/skins/default/icon_stat_defence.png]][[/img]] Shield Armour</onscreen_name>
+<stat_key>stat_shield_armour</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Reduced damage due to shield" last_edit_user="bob">Reduced damage due to shield</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{8dba59b2-44ca-4006-b21b-d77b68dec81b}" record_timestamp="1452680163967" record_key="stat_shield_defence">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_defence.png]][[/img]] Shield Defence" last_edit_user="bob">[[img:ui/skins/default/icon_stat_defence.png]][[/img]] Shield Defence</onscreen_name>
+<stat_key>stat_shield_defence</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Defence or evasion bonus attained from the shield" last_edit_user="bob">Defence or evasion bonus attained from the shield</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{1132b200-4d97-4f9c-ae2e-6899481ac581}" record_timestamp="1456764850072" record_key="stat_ship_health">
+<onscreen_name state="APPROVED" last_approved_text="Ship Health" last_edit_user="bob">Ship Health</onscreen_name>
+<stat_key>stat_ship_health</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Ship health" last_edit_user="bob">Ship health</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{3397dc0c-c46b-431b-821f-ce19b7e5ed2a}" record_timestamp="1415786481374" record_key="stat_ship_move_speed">
+<onscreen_name state="APPROVED" last_approved_text="Ship Speed" last_edit_user="bob">Ship Speed</onscreen_name>
+<stat_key>stat_ship_move_speed</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="How quickly the ship is able to move" last_edit_user="bob">How quickly the ship is able to move</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{bbcd6236-8af2-4bd6-98a8-5fad22399cc0}" record_timestamp="1448961146459" record_key="stat_spotting_forest">
+<onscreen_name state="APPROVED" last_approved_text="Forest Spotting" last_edit_user="bob">Forest Spotting</onscreen_name>
+<stat_key>stat_spotting_forest</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="How well this unit can spot enemies" last_edit_user="bob">How well this unit can spot enemies</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{7015eb39-7718-4fe8-80bc-f33d34bbd1fe}" record_timestamp="1448961146460" record_key="stat_visibility_sight">
+<onscreen_name state="APPROVED" last_approved_text="Visibility Range" last_edit_user="bob">Visibility Range</onscreen_name>
+<stat_key>stat_visibility_sight</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="The distance at which opposing units are visible to this unit" last_edit_user="bob">The distance at which opposing units are visible to this unit</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{f1888643-29fb-4d91-88fa-977320f5d72b}" record_timestamp="1463569490837" record_key="stat_weakness_flame">
+<onscreen_name state="APPROVED" last_approved_text="Weakness to [[img:ui/skins/default/modifier_icon_flaming.png]][[/img]]Fire Damage" last_edit_user="bob">Weakness to [[img:ui/skins/default/modifier_icon_flaming.png]][[/img]]Fire Damage</onscreen_name>
+<stat_key>stat_weakness_flame</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="Flame weakness" last_edit_user="bob">Flame weakness</tooltip_text>
+</unit_stat_localisations>
+<unit_stat_localisations record_uuid="{617cfb39-8f57-428a-bb83-d6b27e93e95d}" record_timestamp="1452680163985" record_key="stat_weapon_damage">
+<onscreen_name state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_damage.png]][[/img]] Weapon Strength" last_edit_user="bob">[[img:ui/skins/default/icon_stat_damage.png]][[/img]] Weapon Strength</onscreen_name>
+<stat_key>stat_weapon_damage</stat_key>
+<tooltip_text state="APPROVED" last_approved_text="The damage caused by a unit's weapon, split between base and armour piercing.||Armour-piercing damage is always applied; base damage can be blocked by armour." last_edit_user="bob">The damage caused by a unit's weapon, split between base and armour piercing.||Armour-piercing damage is always applied; base damage can be blocked by armour.</tooltip_text>
+</unit_stat_localisations>
+</dataroot>

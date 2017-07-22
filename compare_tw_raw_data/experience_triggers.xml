@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="experience_triggers.xsd" export_time="Wed Nov 16 19:54:14 2016" revision="72" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>d184cacf-7060-4b29-bea7-f172762cb444</edit_uuid>
+<experience_triggers record_uuid="{b24cffeb-a445-4d99-9033-53f1292a83be}" record_timestamp="1465229860843" record_key="Trigger_Agent_Anti_Character_Fail_AI">
+<condition>not context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot;) and context:mission_result_failure()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Fail_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{7cf9cccf-4506-41f2-9624-81b9b4499313}" record_timestamp="1465229860844" record_key="Trigger_Agent_Anti_Character_Fail_Critical_AI">
+<condition>not context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot;) and context:mission_result_critial_failure()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>100</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Fail_Critical_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{51c0126e-6239-41af-81d1-686ad6442b77}" record_timestamp="1465229860809" record_key="Trigger_Agent_Anti_Character_Fail_Critical_Human">
+<condition>context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot;) and context:mission_result_critial_failure()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Fail_Critical_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{2249182a-5d26-4382-8af3-45d5a1fdbfd0}" record_timestamp="1474292689488" record_key="Trigger_Agent_Anti_Character_Fail_Critical_Human_skarsnik">
+<condition>context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot;) and context:mission_result_critial_failure() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Fail_Critical_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{b0308cae-618c-48da-bbc9-84defec92bb6}" record_timestamp="1465229860808" record_key="Trigger_Agent_Anti_Character_Fail_Human">
+<condition>context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot;) and context:mission_result_failure()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>400</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Fail_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{581691cc-49e2-4b5d-bfa4-1c6d62e62bed}" record_timestamp="1474292689498" record_key="Trigger_Agent_Anti_Character_Fail_Human_skarsnik">
+<condition>context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot;) and context:mission_result_failure() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>400</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Fail_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{53589e94-b165-4405-b533-fe3777817cd6}" record_timestamp="1465229860845" record_key="Trigger_Agent_Anti_Character_Fail_Opportune_AI">
+<condition>not context:character():faction():is_human() and ( context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot; ) and context:mission_result_opportune_failure()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>300</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Fail_Opportune_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{0fea162a-7942-44cc-b0e2-43515f535e73}" record_timestamp="1465229860810" record_key="Trigger_Agent_Anti_Character_Fail_Opportune_Human">
+<condition>context:character():faction():is_human() and ( context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot; ) and context:mission_result_opportune_failure()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Fail_Opportune_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{b2eedf65-0315-44a6-8dcb-e1c5907b3f9b}" record_timestamp="1474292689499" record_key="Trigger_Agent_Anti_Character_Fail_Opportune_Human_skarsnik">
+<condition>context:character():faction():is_human() and ( context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot; ) and context:mission_result_opportune_failure() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Fail_Opportune_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{4724c08a-224a-4ca9-8078-de0919a65278}" record_timestamp="1465229860843" record_key="Trigger_Agent_Anti_Character_Force_Success_High_Rank_Bonus_AI">
+<condition>not context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot; or context:ability()==&quot;hinder_army&quot;) and (context:mission_result_success() or context:mission_result_critial_success()) and context:target_character():rank() &gt; 20</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>300</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Force_Success_High_Rank_Bonus_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{b84c4f06-815d-49fa-9d4e-2e4cb6280638}" record_timestamp="1465229860811" record_key="Trigger_Agent_Anti_Character_Force_Success_High_Rank_Bonus_Human">
+<condition>context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot; or context:ability()==&quot;hinder_army&quot;) and (context:mission_result_success() or context:mission_result_critial_success()) and context:target_character():rank() &gt; 20</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Force_Success_High_Rank_Bonus_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{d752ee56-cc43-48c8-ae67-be6eaf51279c}" record_timestamp="1474292689499" record_key="Trigger_Agent_Anti_Character_Force_Success_High_Rank_Bonus_Human_skarsnik">
+<condition>context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot; or context:ability()==&quot;hinder_army&quot;) and (context:mission_result_success() or context:mission_result_critial_success()) and context:target_character():rank() &gt; 20 and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Force_Success_High_Rank_Bonus_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{ba9f1a98-0508-41d0-aeaf-8ed1946d7ca3}" record_timestamp="1465229860844" record_key="Trigger_Agent_Anti_Character_Force_Success_Medium_Rank_Bonus_AI">
+<condition>not context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot; or context:ability()==&quot;hinder_army&quot;) and (context:mission_result_success() or context:mission_result_critial_success()) and context:target_character():rank() &gt; 10 and context:target_character():rank() &lt; 21</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>150</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Force_Success_Medium_Rank_Bonus_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{a091cda5-c682-4760-897f-ea4e6e4b05e7}" record_timestamp="1465229860812" record_key="Trigger_Agent_Anti_Character_Force_Success_Medium_Rank_Bonus_Human">
+<condition>context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot; or context:ability()==&quot;hinder_army&quot;) and (context:mission_result_success() or context:mission_result_critial_success()) and context:target_character():rank() &gt; 10 and context:target_character():rank() &lt; 21</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>300</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Force_Success_Medium_Rank_Bonus_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{0e63d60c-abae-4ba2-80bc-40aebfb9031b}" record_timestamp="1474292689500" record_key="Trigger_Agent_Anti_Character_Force_Success_Medium_Rank_Bonus_Human_skarsnik">
+<condition>context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot; or context:ability()==&quot;hinder_army&quot;) and (context:mission_result_success() or context:mission_result_critial_success()) and context:target_character():rank() &gt; 10 and context:target_character():rank() &lt; 21 and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>300</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Force_Success_Medium_Rank_Bonus_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{a4befe8b-a0a9-4bb7-8c26-25ddb380f280}" record_timestamp="1465229860839" record_key="Trigger_Agent_Anti_Character_Success_AI">
+<condition>not context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot;) and context:mission_result_success()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>500</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Success_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{b6ee1478-4263-4072-90df-998d91b87021}" record_timestamp="1465229860840" record_key="Trigger_Agent_Anti_Character_Success_Critical_AI">
+<condition>not context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot;) and context:mission_result_critial_success()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>800</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Success_Critical_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{a98e5ff0-fd81-486e-87cb-faada62618a3}" record_timestamp="1465229860813" record_key="Trigger_Agent_Anti_Character_Success_Critical_Human">
+<condition>context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot;) and context:mission_result_critial_success()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>1600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Success_Critical_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{d342e247-994c-4fb2-b9f2-164c59996f62}" record_timestamp="1474292689509" record_key="Trigger_Agent_Anti_Character_Success_Critical_Human_skarsnik">
+<condition>context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot;) and context:mission_result_critial_success() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>1600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Success_Critical_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{e35e49fd-8162-41f2-af24-4e61cf41b800}" record_timestamp="1465229860812" record_key="Trigger_Agent_Anti_Character_Success_Human">
+<condition>context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot;) and context:mission_result_success()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>1000</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Success_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{640d564c-ab0d-4f74-b1c1-268753e1b454}" record_timestamp="1474292689509" record_key="Trigger_Agent_Anti_Character_Success_Human_skarsnik">
+<condition>context:character():faction():is_human() and (context:ability()==&quot;hinder_character&quot; or context:ability()==&quot;hinder_agent&quot;) and context:mission_result_success() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>1000</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Character_Success_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{b9a80f09-9d33-48a5-b074-0131f094a874}" record_timestamp="1465229860838" record_key="Trigger_Agent_Anti_Force_Fail_AI">
+<condition>not context:character():faction():is_human() and context:ability()==&quot;hinder_army&quot; and context:mission_result_failure()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Force_Fail_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{53523d00-701b-4568-ac03-f3f81821c1ab}" record_timestamp="1465229860839" record_key="Trigger_Agent_Anti_Force_Fail_Critical_AI">
+<condition>not context:character():faction():is_human() and context:ability()==&quot;hinder_army&quot; and context:mission_result_critial_failure()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>100</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Force_Fail_Critical_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{34bd55b8-33bb-4ff3-9206-4df8fe2c2fc3}" record_timestamp="1465229860824" record_key="Trigger_Agent_Anti_Force_Fail_Critical_Human">
+<condition>context:character():faction():is_human() and context:ability()==&quot;hinder_army&quot; and context:mission_result_critial_failure()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Force_Fail_Critical_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{05d8fceb-7c0a-4f28-8ad1-66832d63c5f0}" record_timestamp="1474292689514" record_key="Trigger_Agent_Anti_Force_Fail_Critical_Human_skarsnik">
+<condition>context:character():faction():is_human() and context:ability()==&quot;hinder_army&quot; and context:mission_result_critial_failure() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Force_Fail_Critical_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{7a166434-b6b8-4a59-a13a-8ac8265109c1}" record_timestamp="1465229860823" record_key="Trigger_Agent_Anti_Force_Fail_Human">
+<condition>context:character():faction():is_human() and context:ability()==&quot;hinder_army&quot; and context:mission_result_failure()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>400</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Force_Fail_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{65fad086-ca4f-45d5-8855-c475dbbfa536}" record_timestamp="1474292689515" record_key="Trigger_Agent_Anti_Force_Fail_Human_skarsnik">
+<condition>context:character():faction():is_human() and context:ability()==&quot;hinder_army&quot; and context:mission_result_failure() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>400</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Force_Fail_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{ca5e3c46-dc86-4051-b03f-2587bddc16a5}" record_timestamp="1465229860842" record_key="Trigger_Agent_Anti_Force_Fail_Opportune_AI">
+<condition>not context:character():faction():is_human() and context:ability()==&quot;hinder_army&quot; and context:mission_result_opportune_failure()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>300</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Force_Fail_Opportune_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{f0a27ac3-9047-4437-824e-17aa181081b8}" record_timestamp="1465229860825" record_key="Trigger_Agent_Anti_Force_Fail_Opportune_Human">
+<condition>context:character():faction():is_human() and context:ability()==&quot;hinder_army&quot; and context:mission_result_opportune_failure()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Force_Fail_Opportune_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{f51b4fbe-e34f-4b18-abe1-b43feb2662b0}" record_timestamp="1474292689515" record_key="Trigger_Agent_Anti_Force_Fail_Opportune_Human_skarsnik">
+<condition>context:character():faction():is_human() and context:ability()==&quot;hinder_army&quot; and context:mission_result_opportune_failure() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Force_Fail_Opportune_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{d7e820e0-f091-4479-89ed-343e67e62f37}" record_timestamp="1465229860842" record_key="Trigger_Agent_Anti_Force_Success_AI">
+<condition>not context:character():faction():is_human() and context:ability()==&quot;hinder_army&quot; and context:mission_result_success()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Force_Success_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{758988ad-399f-41b3-803e-ac2cd5f7ae1d}" record_timestamp="1465229860826" record_key="Trigger_Agent_Anti_Force_Success_Human">
+<condition>context:character():faction():is_human() and context:ability()==&quot;hinder_army&quot; and context:mission_result_success()</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>1200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Force_Success_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{9713b8d6-71bd-4a75-8e42-dc61e14584fa}" record_timestamp="1474292689516" record_key="Trigger_Agent_Anti_Force_Success_Human_skarsnik">
+<condition>context:character():faction():is_human() and context:ability()==&quot;hinder_army&quot; and context:mission_result_success() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCharacterTargetAction</event>
+<experience_points>1200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Force_Success_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{15355bdc-6d66-42d7-9661-77190646cb14}" record_timestamp="1465229860840" record_key="Trigger_Agent_Anti_Settlement_Fail_AI">
+<condition>not context:character():faction():is_human() and context:mission_result_failure()</condition>
+<event>CharacterGarrisonTargetAction</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Settlement_Fail_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{55eec635-1935-44bf-9fa2-5bbe3bc141a9}" record_timestamp="1465229860841" record_key="Trigger_Agent_Anti_Settlement_Fail_Critical_AI">
+<condition>not context:character():faction():is_human() and context:mission_result_critial_failure()</condition>
+<event>CharacterGarrisonTargetAction</event>
+<experience_points>100</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Settlement_Fail_Critical_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{8ed3e30e-fb5b-42fd-950f-ecf283e44fc1}" record_timestamp="1465229860827" record_key="Trigger_Agent_Anti_Settlement_Fail_Critical_Human">
+<condition>context:character():faction():is_human() and context:mission_result_critial_failure()</condition>
+<event>CharacterGarrisonTargetAction</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Settlement_Fail_Critical_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{fe17c084-2b89-4421-922c-7943e11288ea}" record_timestamp="1474292689516" record_key="Trigger_Agent_Anti_Settlement_Fail_Critical_Human_skarsnik">
+<condition>context:character():faction():is_human() and context:mission_result_critial_failure() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterGarrisonTargetAction</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Settlement_Fail_Critical_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{db36ee2e-1d82-441e-9cb4-c82b24aeb98b}" record_timestamp="1465229860826" record_key="Trigger_Agent_Anti_Settlement_Fail_Human">
+<condition>context:character():faction():is_human() and context:mission_result_failure()</condition>
+<event>CharacterGarrisonTargetAction</event>
+<experience_points>400</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Settlement_Fail_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{6fbd9799-1484-45a3-acfa-daf5e184b097}" record_timestamp="1474292689524" record_key="Trigger_Agent_Anti_Settlement_Fail_Human_skarsnik">
+<condition>context:character():faction():is_human() and context:mission_result_failure() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterGarrisonTargetAction</event>
+<experience_points>400</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Settlement_Fail_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{3de652a7-4ff8-401f-b619-e41e9ef44452}" record_timestamp="1465229860847" record_key="Trigger_Agent_Anti_Settlement_Fail_Opportune_AI">
+<condition>not context:character():faction():is_human() and context:mission_result_opportune_failure()</condition>
+<event>CharacterGarrisonTargetAction</event>
+<experience_points>300</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Settlement_Fail_Opportune_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{33df71a2-46fb-48e5-bf84-c37635f20609}" record_timestamp="1465229860834" record_key="Trigger_Agent_Anti_Settlement_Fail_Opportune_Human">
+<condition>context:character():faction():is_human() and context:mission_result_opportune_failure()</condition>
+<event>CharacterGarrisonTargetAction</event>
+<experience_points>600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Settlement_Fail_Opportune_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{b3490ecd-82bc-49e6-93e2-2ed30ffe2d5c}" record_timestamp="1474292689524" record_key="Trigger_Agent_Anti_Settlement_Fail_Opportune_Human_skarsnik">
+<condition>context:character():faction():is_human() and context:mission_result_opportune_failure() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterGarrisonTargetAction</event>
+<experience_points>600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Settlement_Fail_Opportune_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{eb322857-1796-416e-adb8-1930e07fd970}" record_timestamp="1465229860847" record_key="Trigger_Agent_Anti_Settlement_Success_AI">
+<condition>not context:character():faction():is_human() and context:mission_result_success()</condition>
+<event>CharacterGarrisonTargetAction</event>
+<experience_points>600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Settlement_Success_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{77586e52-e177-49f5-9af1-21c63d1a5a93}" record_timestamp="1465229860835" record_key="Trigger_Agent_Anti_Settlement_Success_Human">
+<condition>context:character():faction():is_human() and context:mission_result_success()</condition>
+<event>CharacterGarrisonTargetAction</event>
+<experience_points>1200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Settlement_Success_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{8c109244-f24d-4390-a750-9dcb9deff23c}" record_timestamp="1474292689525" record_key="Trigger_Agent_Anti_Settlement_Success_Human_skarsnik">
+<condition>context:character():faction():is_human() and context:mission_result_success() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterGarrisonTargetAction</event>
+<experience_points>1200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Anti_Settlement_Success_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{386c286c-ceae-44da-ae3c-2bf1dcad7024}" record_timestamp="1465229860845" record_key="Trigger_Agent_Deployed_Action_AI">
+<condition>not context:character():faction():is_human() and context:character():is_deployed()</condition>
+<event>CharacterTurnStart</event>
+<experience_points>50</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Deployed_Action_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{ecee3820-4f34-4eee-a82f-24f22df0d2c1}" record_timestamp="1465229860835" record_key="Trigger_Agent_Deployed_Action_Human">
+<condition>context:character():faction():is_human() and context:character():is_deployed()</condition>
+<event>CharacterTurnStart</event>
+<experience_points>100</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Deployed_Action_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{30cecbfb-73ca-4115-b30b-a8177a2ccbe5}" record_timestamp="1474292689525" record_key="Trigger_Agent_Deployed_Action_Human_skarsnik">
+<condition>context:character():faction():is_human() and context:character():is_deployed() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterTurnStart</event>
+<experience_points>100</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Deployed_Action_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{042da7d3-f420-4e36-be60-7f00f6346cd2}" record_timestamp="1465229860846" record_key="Trigger_Agent_Friendly_Target_Action_AI">
+<condition>not context:character():faction():is_human() and not (context:character():has_skill(&quot;wh_main_skill_all_champion_campaign_drill_master&quot;) or context:character():has_skill(&quot;wh_main_skill_all_dignitary_campaign_call_to_arms&quot;) or context:character():has_skill(&quot;wh_main_skill_all_wizard_campaign_magic_detection&quot;) or context:character():has_skill(&quot;wh_main_skill_dwf_engineer_campaign_logistical_engineer&quot;) or context:character():has_skill(&quot;wh_main_skill_dwf_runesmith_campaign_rune_of_spellbreaking&quot;) or context:character():has_skill(&quot;wh_main_skill_all_spy_campaign_watcher&quot;))</condition>
+<event>CharacterPerformsActionAgainstFriendlyTarget</event>
+<experience_points>50</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Friendly_Target_Action_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{430cc6dc-e559-4ad5-b27f-7989a81c89cb}" record_timestamp="1465229860836" record_key="Trigger_Agent_Friendly_Target_Action_Human">
+<condition>context:character():faction():is_human() and not (context:character():has_skill(&quot;wh_main_skill_all_champion_campaign_drill_master&quot;) or context:character():has_skill(&quot;wh_main_skill_all_dignitary_campaign_call_to_arms&quot;) or context:character():has_skill(&quot;wh_main_skill_all_wizard_campaign_magic_detection&quot;) or context:character():has_skill(&quot;wh_main_skill_dwf_engineer_campaign_logistical_engineer&quot;) or context:character():has_skill(&quot;wh_main_skill_dwf_runesmith_campaign_rune_of_spellbreaking&quot;) or context:character():has_skill(&quot;wh_main_skill_all_spy_campaign_watcher&quot;))</condition>
+<event>CharacterPerformsActionAgainstFriendlyTarget</event>
+<experience_points>100</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Friendly_Target_Action_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{d4649bfc-4a7c-4c00-bf36-98640c1bb7be}" record_timestamp="1474292689526" record_key="Trigger_Agent_Friendly_Target_Action_Human_skarsnik">
+<condition>context:character():faction():is_human() and not (context:character():has_skill(&quot;wh_main_skill_all_champion_campaign_drill_master&quot;) or context:character():has_skill(&quot;wh_main_skill_all_dignitary_campaign_call_to_arms&quot;) or context:character():has_skill(&quot;wh_main_skill_all_wizard_campaign_magic_detection&quot;) or context:character():has_skill(&quot;wh_main_skill_dwf_engineer_campaign_logistical_engineer&quot;) or context:character():has_skill(&quot;wh_main_skill_dwf_runesmith_campaign_rune_of_spellbreaking&quot;) or context:character():has_skill(&quot;wh_main_skill_all_spy_campaign_watcher&quot;)) and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterPerformsActionAgainstFriendlyTarget</event>
+<experience_points>100</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Friendly_Target_Action_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{bfd87b14-a617-4531-9d97-bcf23f3fad87}" record_timestamp="1465229860838" record_key="Trigger_Agent_Friendly_Target_Action_With_Skill_AI">
+<condition>not context:character():faction():is_human() and context:character():has_skill(&quot;wh_main_skill_all_champion_campaign_drill_master&quot;) or context:character():has_skill(&quot;wh_main_skill_all_dignitary_campaign_call_to_arms&quot;) or context:character():has_skill(&quot;wh_main_skill_all_wizard_campaign_magic_detection&quot;) or context:character():has_skill(&quot;wh_main_skill_dwf_engineer_campaign_logistical_engineer&quot;) or context:character():has_skill(&quot;wh_main_skill_dwf_runesmith_campaign_rune_of_spellbreaking&quot;) or context:character():has_skill(&quot;wh_main_skill_all_spy_campaign_watcher&quot;)</condition>
+<event>CharacterPerformsActionAgainstFriendlyTarget</event>
+<experience_points>100</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Friendly_Target_Action_With_Skill_AI</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{f87412a7-5e22-47d2-b3a7-98dc268d0137}" record_timestamp="1479326050518" record_key="Trigger_Agent_Friendly_Target_Action_With_Skill_Human">
+<condition>context:character():faction():is_human() and (context:character():has_skill(&quot;wh_main_skill_all_champion_campaign_drill_master&quot;) or context:character():has_skill(&quot;wh_main_skill_all_dignitary_campaign_call_to_arms&quot;) or context:character():has_skill(&quot;wh_main_skill_all_wizard_campaign_magic_detection&quot;) or context:character():has_skill(&quot;wh_main_skill_dwf_engineer_campaign_logistical_engineer&quot;) or context:character():has_skill(&quot;wh_main_skill_dwf_runesmith_campaign_rune_of_spellbreaking&quot;) or context:character():has_skill(&quot;wh_main_skill_all_spy_campaign_watcher&quot;))</condition>
+<event>CharacterPerformsActionAgainstFriendlyTarget</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Friendly_Target_Action_With_Skill_Human</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{b049cd36-f832-47e6-b65e-c59eb8910ce0}" record_timestamp="1479326050474" record_key="Trigger_Agent_Friendly_Target_Action_With_Skill_Human_skarsnik">
+<condition>context:character():faction():is_human() and ((context:character():has_skill(&quot;wh_main_skill_all_champion_campaign_drill_master&quot;) or context:character():has_skill(&quot;wh_main_skill_all_dignitary_campaign_call_to_arms&quot;) or context:character():has_skill(&quot;wh_main_skill_all_wizard_campaign_magic_detection&quot;) or context:character():has_skill(&quot;wh_main_skill_dwf_engineer_campaign_logistical_engineer&quot;) or context:character():has_skill(&quot;wh_main_skill_dwf_runesmith_campaign_rune_of_spellbreaking&quot;) or context:character():has_skill(&quot;wh_main_skill_all_spy_campaign_watcher&quot;))) and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterPerformsActionAgainstFriendlyTarget</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Agent_Friendly_Target_Action_With_Skill_Human_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{ad03c95c-470e-4903-8b35-3af36300f715}" record_timestamp="1479326050516" record_key="Trigger_General_Defeat">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and (not context:character():won_battle() and ((context:character():model():pending_battle():attacker_battle_result()==&quot;close_defeat&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;decisive_defeat&quot;) or (context:character():model():pending_battle():defender_battle_result()==&quot;close_defeat&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;decisive_defeat&quot;)))</condition>
+<event>CharacterCompletedBattle</event>
+<experience_points>400</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Defeat</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{a90e2bc6-88b6-4fb7-8726-71b4de2e5dcd}" record_timestamp="1462358734281" record_key="Trigger_General_Defeat_Crushing">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and not context:character():won_battle() and (context:character():model():pending_battle():defender_battle_result()==&quot;crushing_defeat&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;crushing_defeat&quot;)</condition>
+<event>CharacterCompletedBattle</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Defeat_Crushing</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{73d6480c-6a7f-4e58-b8c5-e6cb71e5cb2c}" record_timestamp="1479326050496" record_key="Trigger_General_Defeat_Crushing_skarsnik">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and (not context:character():won_battle() and (context:character():model():pending_battle():defender_battle_result()==&quot;crushing_defeat&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;crushing_defeat&quot;) and human_skarsnik_has_karak()) and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCompletedBattle</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Defeat_Crushing_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{4b45469e-a478-4327-b281-ca5819ba20a4}" record_timestamp="1479326050516" record_key="Trigger_General_Defeat_Valiant">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and (not context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;valiant_defeat&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;valiant_defeat&quot;))</condition>
+<event>CharacterCompletedBattle</event>
+<experience_points>600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Defeat_Valiant</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{8cbdf213-a0ab-42a4-b8e4-109fa8808c8f}" record_timestamp="1479326050507" record_key="Trigger_General_Defeat_Valiant_skarsnik">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and (not context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;valiant_defeat&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;valiant_defeat&quot;) and human_skarsnik_has_karak()) and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCompletedBattle</event>
+<experience_points>600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Defeat_Valiant_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{e7a18596-115d-42d4-a0cc-9b01ea0daecf}" record_timestamp="1479326050506" record_key="Trigger_General_Defeat_skarsnik">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and not context:character():won_battle() and (((context:character():model():pending_battle():attacker_battle_result()==&quot;close_defeat&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;decisive_defeat&quot;) or (context:character():model():pending_battle():defender_battle_result()==&quot;close_defeat&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;decisive_defeat&quot;))) and human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCompletedBattle</event>
+<experience_points>400</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Defeat_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{579d615d-0d3b-4000-ba9c-0a43f835b4e0}" record_timestamp="1465904894963" record_key="Trigger_General_Horde_Completed_Construction_Project">
+<condition>true</condition>
+<event>MilitaryForceBuildingCompleteEvent</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Horde_Completed_Construction_Project</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{d8125d3b-f9ff-449b-8bde-12d57abf82a6}" record_timestamp="1474292690004" record_key="Trigger_General_Horde_Completed_Construction_Project_skarsnik">
+<condition>human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>MilitaryForceBuildingCompleteEvent</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Horde_Completed_Construction_Project_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{96c3f8d8-0e8e-45c5-8df9-d7d7cf23f432}" record_timestamp="1462358717736" record_key="Trigger_General_Is_Garrisoned">
+<condition>context:character():has_garrison_residence()</condition>
+<event>CharacterTurnStart</event>
+<experience_points>100</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Is_Garrisoned</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{144fdc0d-d3f6-47c1-9e1c-fe438dea067a}" record_timestamp="1474292690004" record_key="Trigger_General_Is_Garrisoned_skarsnik">
+<condition>context:character():has_garrison_residence() and human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterTurnStart</event>
+<experience_points>100</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Is_Garrisoned_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{ec11c600-ce9a-4389-9aab-8d9bbcc03870}" record_timestamp="1452077538411" record_key="Trigger_General_Raiding">
+<condition>context:character():has_military_force() and (context:character():military_force():active_stance() == &quot;MILITARY_FORCE_ACTIVE_STANCE_TYPE_LAND_RAID&quot; or context:character():military_force():active_stance() == &quot;MILITARY_FORCE_ACTIVE_STANCE_TYPE_SET_CAMP_RAIDING&quot;)</condition>
+<event>CharacterTurnStart</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Raiding</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{1d8c7fab-13d2-4f0c-89ac-0e69a21014b0}" record_timestamp="1474292690005" record_key="Trigger_General_Raiding_skarsnik">
+<condition>context:character():has_military_force() and (context:character():military_force():active_stance() == &quot;MILITARY_FORCE_ACTIVE_STANCE_TYPE_LAND_RAID&quot; or context:character():military_force():active_stance() == &quot;MILITARY_FORCE_ACTIVE_STANCE_TYPE_SET_CAMP_RAIDING&quot;) and human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterTurnStart</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Raiding_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{9cc55cbe-d526-4feb-a62e-4735dacaf9cf}" record_timestamp="1452077538436" record_key="Trigger_General_Settlement_Captured">
+<condition>true</condition>
+<event>GarrisonOccupiedEvent</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Settlement_Captured</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{e696f42c-af01-4e44-86c4-fbe00f6a1d1c}" record_timestamp="1474292690005" record_key="Trigger_General_Settlement_Captured_skarsnik">
+<condition>human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>GarrisonOccupiedEvent</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Settlement_Captured_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{a544788f-a795-41e3-975a-bd015b87cbc3}" record_timestamp="1459937637388" record_key="Trigger_General_Settlement_Razed">
+<condition>true</condition>
+<event>CharacterRazedSettlement</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Settlement_Razed</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{0e9e77e1-6b3e-4f73-b924-1c41c40c6d11}" record_timestamp="1474292690006" record_key="Trigger_General_Settlement_Razed_skarsnik">
+<condition>human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterRazedSettlement</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Settlement_Razed_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{d44bd1cc-ecb0-4340-bd9a-b1a164074a84}" record_timestamp="1462358725590" record_key="Trigger_General_Successful_Ambush">
+<condition>context:character():won_battle() and context:pending_battle():attacker() == context:character() and context:pending_battle():ambush_battle()</condition>
+<event>CharacterCompletedBattle</event>
+<experience_points>400</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Successful_Ambush</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{b9bef0cd-e926-443d-bd92-fc557f39b8a2}" record_timestamp="1474292690006" record_key="Trigger_General_Successful_Ambush_skarsnik">
+<condition>context:character():won_battle() and context:pending_battle():attacker() == context:character() and context:pending_battle():ambush_battle() and human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCompletedBattle</event>
+<experience_points>400</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Successful_Ambush_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{046d7fbe-4d18-4161-be5a-7c152aed02db}" record_timestamp="1455611912399" record_key="Trigger_General_Victory">
+<condition>context:character():won_battle() and ((context:character():model():pending_battle():attacker_battle_result()==&quot;close_victory&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;decisive_victory&quot;) or (context:character():model():pending_battle():defender_battle_result()==&quot;close_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;decisive_victory&quot;))</condition>
+<event>CharacterCompletedBattle</event>
+<experience_points>1000</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Victory</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{ddcf2ee4-95fc-4f71-afdb-c7bb1c53696e}" record_timestamp="1455611912289" record_key="Trigger_General_Victory_Heroic">
+<condition>context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;heroic_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;heroic_victory&quot;)</condition>
+<event>CharacterCompletedBattle</event>
+<experience_points>1400</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Victory_Heroic</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{84ad784a-0d89-4370-8030-7fc4cc84a760}" record_timestamp="1474292690007" record_key="Trigger_General_Victory_Heroic_skarsnik">
+<condition>context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;heroic_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;heroic_victory&quot;) and human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCompletedBattle</event>
+<experience_points>1400</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Victory_Heroic_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{99d0aa0a-a3dd-4192-abd3-1ca2d6178edf}" record_timestamp="1455611826780" record_key="Trigger_General_Victory_Pyrrhic">
+<condition>context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;pyrrhic_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;pyrrhic_victory&quot;)</condition>
+<event>CharacterCompletedBattle</event>
+<experience_points>600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Victory_Pyrrhic</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{ce30714a-7831-4815-a149-b16617788139}" record_timestamp="1474292690007" record_key="Trigger_General_Victory_Pyrrhic_skarsnik">
+<condition>context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;pyrrhic_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;pyrrhic_victory&quot;) and human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCompletedBattle</event>
+<experience_points>600</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Victory_Pyrrhic_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{a48bcac2-6780-423a-b5aa-6bed62b848a8}" record_timestamp="1479326050508" record_key="Trigger_General_Victory_skarsnik">
+<condition>context:character():won_battle() and (((context:character():model():pending_battle():attacker_battle_result()==&quot;close_victory&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;decisive_victory&quot;) or (context:character():model():pending_battle():defender_battle_result()==&quot;close_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;decisive_victory&quot;))) and human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterCompletedBattle</event>
+<experience_points>1000</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_General_Victory_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{74021299-a671-4b1a-904d-24f1dbb077fb}" record_timestamp="1462358734282" record_key="Trigger_Hero_Defeat">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and not context:character():won_battle() and ((context:character():model():pending_battle():attacker_battle_result()==&quot;close_defeat&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;decisive_defeat&quot;) or (context:character():model():pending_battle():defender_battle_result()==&quot;close_defeat&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;decisive_defeat&quot;))</condition>
+<event>HeroCharacterParticipatedInBattle</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Hero_Defeat</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{637bcf1b-3123-42b5-98d2-0c82b13e55db}" record_timestamp="1462358734282" record_key="Trigger_Hero_Defeat_Crushing">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and not context:character():won_battle() and (context:character():model():pending_battle():defender_battle_result()==&quot;crushing_defeat&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;crushing_defeat&quot;)</condition>
+<event>HeroCharacterParticipatedInBattle</event>
+<experience_points>100</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Hero_Defeat_Crushing</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{8be77305-ca8b-4612-ac57-90f596cf0819}" record_timestamp="1462358734283" record_key="Trigger_Hero_Defeat_Valiant">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and not context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;valiant_defeat&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;valiant_defeat&quot;)</condition>
+<event>HeroCharacterParticipatedInBattle</event>
+<experience_points>300</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Hero_Defeat_Valiant</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{b61a7918-5b68-4b1e-bca1-c61d0740f8fe}" record_timestamp="1455612288949" record_key="Trigger_Hero_Victory">
+<condition>context:character():won_battle() and ((context:character():model():pending_battle():attacker_battle_result()==&quot;close_victory&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;decisive_victory&quot;) or (context:character():model():pending_battle():defender_battle_result()==&quot;close_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;decisive_victory&quot;))</condition>
+<event>HeroCharacterParticipatedInBattle</event>
+<experience_points>500</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Hero_Victory</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{24caa2b8-0167-422b-b836-a4b83b0917a8}" record_timestamp="1455612304565" record_key="Trigger_Hero_Victory_Heroic">
+<condition>context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;heroic_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;heroic_victory&quot;)</condition>
+<event>HeroCharacterParticipatedInBattle</event>
+<experience_points>700</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Hero_Victory_Heroic</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{b52edb98-4732-40c4-9621-cbfc626da3e1}" record_timestamp="1455612288783" record_key="Trigger_Hero_Victory_Pyrrhic">
+<condition>context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;pyrrhic_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;pyrrhic_victory&quot;)</condition>
+<event>HeroCharacterParticipatedInBattle</event>
+<experience_points>300</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Hero_Victory_Pyrrhic</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{a6ceed84-acbd-4a6b-8d34-f0f6f1403c80}" record_timestamp="1462358734283" record_key="Trigger_Secondary_General_Defeat">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and not context:character():won_battle() and ((context:character():model():pending_battle():attacker_battle_result()==&quot;close_defeat&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;decisive_defeat&quot;) or (context:character():model():pending_battle():defender_battle_result()==&quot;close_defeat&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;decisive_defeat&quot;))</condition>
+<event>CharacterParticipatedAsSecondaryGeneralInBattle</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Secondary_General_Defeat</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{8475feea-1094-4b69-8fa5-0e33be332480}" record_timestamp="1462358734284" record_key="Trigger_Secondary_General_Defeat_Crushing">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and not context:character():won_battle() and (context:character():model():pending_battle():defender_battle_result()==&quot;crushing_defeat&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;crushing_defeat&quot;)</condition>
+<event>CharacterParticipatedAsSecondaryGeneralInBattle</event>
+<experience_points>100</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Secondary_General_Defeat_Crushing</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{7b933f32-6301-49a7-8fcf-d95b4bd3ebc1}" record_timestamp="1474292690008" record_key="Trigger_Secondary_General_Defeat_Crushing_skarsnik">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and not context:character():won_battle() and (context:character():model():pending_battle():defender_battle_result()==&quot;crushing_defeat&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;crushing_defeat&quot;) and human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterParticipatedAsSecondaryGeneralInBattle</event>
+<experience_points>100</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Secondary_General_Defeat_Crushing_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{49927b25-b199-4bd3-a2b0-4fd048183795}" record_timestamp="1462358734284" record_key="Trigger_Secondary_General_Defeat_Valiant">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and not context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;valiant_defeat&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;valiant_defeat&quot;)</condition>
+<event>CharacterParticipatedAsSecondaryGeneralInBattle</event>
+<experience_points>300</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Secondary_General_Defeat_Valiant</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{f113ae92-46b3-447f-a021-6cea426b52e3}" record_timestamp="1474292690009" record_key="Trigger_Secondary_General_Defeat_Valiant_skarsnik">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and not context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;valiant_defeat&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;valiant_defeat&quot;) and human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterParticipatedAsSecondaryGeneralInBattle</event>
+<experience_points>300</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Secondary_General_Defeat_Valiant_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{04ae2969-5f8f-4906-831f-9c74678d2f15}" record_timestamp="1474292690009" record_key="Trigger_Secondary_General_Defeat_skarsnik">
+<condition>not battle_is_quest_battle(context:character():model():pending_battle()) and not context:character():won_battle() and ((context:character():model():pending_battle():attacker_battle_result()==&quot;close_defeat&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;decisive_defeat&quot;) or (context:character():model():pending_battle():defender_battle_result()==&quot;close_defeat&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;decisive_defeat&quot;)) and human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterParticipatedAsSecondaryGeneralInBattle</event>
+<experience_points>200</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Secondary_General_Defeat_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{eacff051-07a0-4dcf-9267-07d7896db1b2}" record_timestamp="1455612288991" record_key="Trigger_Secondary_General_Victory">
+<condition>context:character():won_battle() and ((context:character():model():pending_battle():attacker_battle_result()==&quot;close_victory&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;decisive_victory&quot;) or (context:character():model():pending_battle():defender_battle_result()==&quot;close_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;decisive_victory&quot;))</condition>
+<event>CharacterParticipatedAsSecondaryGeneralInBattle</event>
+<experience_points>500</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Secondary_General_Victory</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{7c257a4d-1cdb-4163-820e-c99b089f1143}" record_timestamp="1455612304520" record_key="Trigger_Secondary_General_Victory_Heroic">
+<condition>context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;heroic_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;heroic_victory&quot;)</condition>
+<event>CharacterParticipatedAsSecondaryGeneralInBattle</event>
+<experience_points>700</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Secondary_General_Victory_Heroic</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{3797080f-671d-4cdf-9bfa-2f518bc4fb8c}" record_timestamp="1474292690010" record_key="Trigger_Secondary_General_Victory_Heroic_skarsnik">
+<condition>context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;heroic_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;heroic_victory&quot;) and human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterParticipatedAsSecondaryGeneralInBattle</event>
+<experience_points>700</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Secondary_General_Victory_Heroic_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{874cefd9-e5f8-4b69-ac0d-e21a3072e1e3}" record_timestamp="1455612288823" record_key="Trigger_Secondary_General_Victory_Pyrrhic">
+<condition>context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;pyrrhic_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;pyrrhic_victory&quot;)</condition>
+<event>CharacterParticipatedAsSecondaryGeneralInBattle</event>
+<experience_points>300</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Secondary_General_Victory_Pyrrhic</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{4649f180-0fad-47cb-ab40-623aaf92c1d7}" record_timestamp="1474292690010" record_key="Trigger_Secondary_General_Victory_Pyrrhic_skarsnik">
+<condition>context:character():won_battle() and (context:character():model():pending_battle():attacker_battle_result()==&quot;pyrrhic_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;pyrrhic_victory&quot;) and human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterParticipatedAsSecondaryGeneralInBattle</event>
+<experience_points>300</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Secondary_General_Victory_Pyrrhic_skarsnik</trigger_key>
+</experience_triggers>
+<experience_triggers record_uuid="{1882cda7-2063-441f-a02c-5981e077790c}" record_timestamp="1474292690011" record_key="Trigger_Secondary_General_Victory_skarsnik">
+<condition>context:character():won_battle() and ((context:character():model():pending_battle():attacker_battle_result()==&quot;close_victory&quot; or context:character():model():pending_battle():attacker_battle_result()==&quot;decisive_victory&quot;) or (context:character():model():pending_battle():defender_battle_result()==&quot;close_victory&quot; or context:character():model():pending_battle():defender_battle_result()==&quot;decisive_victory&quot;)) and human_skarsnik_has_karak() and context:character():faction():name() ==&quot;wh_main_grn_crooked_moon&quot;</condition>
+<event>CharacterParticipatedAsSecondaryGeneralInBattle</event>
+<experience_points>500</experience_points>
+<gravitas_points>0</gravitas_points>
+<localised_description></localised_description>
+<target>agent</target>
+<trigger_key>Trigger_Secondary_General_Victory_skarsnik</trigger_key>
+</experience_triggers>
+</dataroot>

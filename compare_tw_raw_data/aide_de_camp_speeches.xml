@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="aide_de_camp_speeches.xsd" export_time="Wed May 4 11:51:43 2016" revision="72" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>c47dcd94-8528-4d4c-ad88-ac4bb78147e1</edit_uuid>
+<aide_de_camp_speeches record_uuid="{242e46b8-8a29-4deb-9bd8-74fbfc6cbd06}" record_timestamp="1454410909991" record_key="adc_allied_general_injured">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_death</icon_name>
+<key>adc_allied_general_injured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="The ally's Lord is wounded!" last_edit_user="bob">The ally's Lord is wounded!</text>
+<ui_duration_ms>15000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{78c89dd3-a5f3-4ecd-a1d9-70f49d1e93d3}" record_timestamp="1452874096266" record_key="adc_allied_general_killed">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_death</icon_name>
+<key>adc_allied_general_killed</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="The ally's Lord has fallen." last_edit_user="bob">The ally's Lord has fallen.</text>
+<ui_duration_ms>15000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{eb83c33b-f811-4c45-9c59-e4c6e3273cec}" record_timestamp="1462358733588" record_key="adc_allies_come_under_player_control">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_adc_reinforcements</icon_name>
+<key>adc_allies_come_under_player_control</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="Your allies are now under your control!" last_edit_user="bob">Your allies are now under your control!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{920f8ef4-1f5d-48fa-b149-1db06af563a0}" record_timestamp="1448544769045" record_key="adc_ally_reinforcements">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_adc_reinforcements</icon_name>
+<key>adc_ally_reinforcements</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="Reinforcements have arrived!" last_edit_user="bob">Reinforcements have arrived!</text>
+<ui_duration_ms>15000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{ca5462f7-3a87-4402-a5a2-bd5f83674b22}" record_timestamp="1453197246068" record_key="adc_enemy_attacking_gates">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_attacking_gates</icon_name>
+<key>adc_enemy_attacking_gates</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="The enemy are attacking the gates!" last_edit_user="bob">The enemy are attacking the gates!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{7cdfeb6b-8856-438a-be9d-6c30bdaf6d5d}" record_timestamp="1453281593922" record_key="adc_enemy_capturing_gates">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_gates</icon_name>
+<key>adc_enemy_capturing_gates</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="The enemy are attempting to capture the gates!" last_edit_user="bob">The enemy are attempting to capture the gates!</text>
+<ui_duration_ms>5000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{3e27ffd9-dbd7-49f8-bad5-a4fe7a4678ca}" record_timestamp="1453281593932" record_key="adc_enemy_capturing_victory_point">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_capture_point</icon_name>
+<key>adc_enemy_capturing_victory_point</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="The enemy are capturing our victory point!" last_edit_user="bob">The enemy are capturing our victory point!</text>
+<ui_duration_ms>5000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{b30d3bc5-235f-4671-bc20-3a726847534e}" record_timestamp="1457615354964" record_key="adc_enemy_flying_units_must_land">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>0</has_worldspace_ui_ping>
+<icon_name>icon_flying_units_withdraw</icon_name>
+<key>adc_enemy_flying_units_must_land</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="Without units on the ground, the enemy is forced to land and attack, or surrender this territory!" last_edit_user="bob">Without units on the ground, the enemy is forced to land and attack, or surrender this territory!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{537d2019-34e7-4f8e-84aa-e14d800ea516}" record_timestamp="1452874096163" record_key="adc_enemy_fort_about_to_be_captured">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_capture_point</icon_name>
+<key>adc_enemy_fort_about_to_be_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="The enemy stronghold will soon be yours." last_edit_user="bob">The enemy stronghold will soon be yours.</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{c3e9a12a-4352-48b8-8efa-8d2637d62351}" record_timestamp="1452874096173" record_key="adc_enemy_gate_captured">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_gates</icon_name>
+<key>adc_enemy_gate_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="The gates are yours!" last_edit_user="bob">The gates are yours!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{1f556170-ccbc-46e1-ac3e-ee0d5c8ce666}" record_timestamp="1461152306583" record_key="adc_enemy_gate_destroyed">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_attacking_gates</icon_name>
+<key>adc_enemy_gate_destroyed</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="The enemy gates are destroyed!" last_edit_user="bob">The enemy gates are destroyed!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{82e87136-3131-4bec-8077-0c6d0c853d56}" record_timestamp="1462358737748" record_key="adc_enemy_general_appears">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_adc_reinforcements</icon_name>
+<key>adc_enemy_general_appears</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="The enemy Lord joins the battle!" last_edit_user="bob">The enemy Lord joins the battle!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{6b917303-2728-4864-9ca0-a46137c850d3}" record_timestamp="1454410909973" record_key="adc_enemy_general_injured">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_death</icon_name>
+<key>adc_enemy_general_injured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="The enemy Lord is wounded!" last_edit_user="bob">The enemy Lord is wounded!</text>
+<ui_duration_ms>15000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{ce334871-4305-4640-8a00-2a97755de4dd}" record_timestamp="1452874096277" record_key="adc_enemy_general_killed">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_death</icon_name>
+<key>adc_enemy_general_killed</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="The enemy Lord is dead!" last_edit_user="bob">The enemy Lord is dead!</text>
+<ui_duration_ms>15000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{0386565a-9aa0-45e9-beb4-b4d990e56db4}" record_timestamp="1452874096071" record_key="adc_enemy_hidden_unit_spotted">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_spotted</icon_name>
+<key>adc_enemy_hidden_unit_spotted</key>
+<offset_angle>0</offset_angle>
+<offset_range>20</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="Your troops have uncovered hidden foes!" last_edit_user="bob">Your troops have uncovered hidden foes!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{30d3f5ac-1369-421c-87ba-d8250d9aaff5}" record_timestamp="1453197246084" record_key="adc_enemy_ladders_docked">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_ladders_docked</icon_name>
+<key>adc_enemy_ladders_docked</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="The enemy's ladders have docked on our walls!" last_edit_user="bob">The enemy's ladders have docked on our walls!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{52e44587-f742-4644-ac9b-3e2dda091878}" record_timestamp="1452874096192" record_key="adc_enemy_point_captured">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_capture_point</icon_name>
+<key>adc_enemy_point_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="The enemy have lost a victory point!" last_edit_user="bob">The enemy have lost a victory point!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{cf4c8d81-4d94-479f-8ae9-3dc1a36d84b5}" record_timestamp="1453281593946" record_key="adc_enemy_reclaimed_victory_point">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_capture_point</icon_name>
+<key>adc_enemy_reclaimed_victory_point</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="We've lost the victory point!" last_edit_user="bob">We've lost the victory point!</text>
+<ui_duration_ms>5000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{c4c4cde1-fcf5-40a9-9a91-482c06a97a28}" record_timestamp="1439914589160" record_key="adc_enemy_reinforcements">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_adc_reinforcements</icon_name>
+<key>adc_enemy_reinforcements</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="Enemy reinforcements approaching!" last_edit_user="bob">Enemy reinforcements approaching!</text>
+<ui_duration_ms>15000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{0719d8a2-7089-4d3d-bf76-87debeb49bbe}" record_timestamp="1453281593953" record_key="adc_enemy_siege_equipment_destroyed">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_siege_equipment_destroyed</icon_name>
+<key>adc_enemy_siege_equipment_destroyed</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="The enemy's siege equipment has been destroyed!" last_edit_user="bob">The enemy's siege equipment has been destroyed!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{751a8ed8-0b2f-44f6-82f1-01b19d0ba3ab}" record_timestamp="1452874096202" record_key="adc_enemy_tower_captured">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_tower</icon_name>
+<key>adc_enemy_tower_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="Your warriors have captured the tower!" last_edit_user="bob">Your warriors have captured the tower!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{39557119-acf8-4e8c-bd5b-7a3c4d6d20ea}" record_timestamp="1452874096333" record_key="adc_enemy_tower_destroyed">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_tower</icon_name>
+<key>adc_enemy_tower_destroyed</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="The enemy's tower has been destroyed!" last_edit_user="bob">The enemy's tower has been destroyed!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{b09ff406-a8a7-4f67-8ddb-5f88e3cedbcb}" record_timestamp="1452874096121" record_key="adc_losing">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>0</has_worldspace_ui_ping>
+<icon_name>icon_capture_point</icon_name>
+<key>adc_losing</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="You are losing ground!" last_edit_user="bob">You are losing ground!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{fd990c01-be30-4dd1-a98d-d51c7aa5bf50}" record_timestamp="1440486891393" record_key="adc_own_ally_attacked">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_ally_attacked</icon_name>
+<key>adc_own_ally_attacked</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="The foe attacks our ally!" last_edit_user="bob">The foe attacks our ally!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{1518ec59-b6d9-4b84-8050-dadf157894f0}" record_timestamp="1452874096153" record_key="adc_own_ally_destroyed">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_death</icon_name>
+<key>adc_own_ally_destroyed</key>
+<offset_angle>0</offset_angle>
+<offset_range>12</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="Your ally is destroyed." last_edit_user="bob">Your ally is destroyed.</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{9fc03033-48d2-407b-b43f-f8fb5ce4277e}" record_timestamp="1453199062707" record_key="adc_own_attacking_gates">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_attacking_gates</icon_name>
+<key>adc_own_attacking_gates</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="Our men have begun attacking the gates!" last_edit_user="bob">Our men have begun attacking the gates!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{1e874879-aa68-496c-939a-e33c7d5e9d3d}" record_timestamp="1453281593970" record_key="adc_own_capturing_gates">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_gates</icon_name>
+<key>adc_own_capturing_gates</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="We are capturing the gates!" last_edit_user="bob">We are capturing the gates!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{3719a800-1d03-4c1c-8d7f-e6ec073bff09}" record_timestamp="1453281593961" record_key="adc_own_capturing_victory_point">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_capture_point</icon_name>
+<key>adc_own_capturing_victory_point</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="We're capturing the enemy's victory point!" last_edit_user="bob">We're capturing the enemy's victory point!</text>
+<ui_duration_ms>5000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{557dc2d2-5615-4cde-bccf-943e94d36e33}" record_timestamp="1457615354965" record_key="adc_own_flying_units_must_land">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>0</has_worldspace_ui_ping>
+<icon_name>icon_flying_units_withdraw</icon_name>
+<key>adc_own_flying_units_must_land</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="Flying units alone cannot hold the ground! Land and attack, or surrender this territory." last_edit_user="bob">Flying units alone cannot hold the ground! Land and attack, or surrender this territory.</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{d5a152b7-a2af-4507-9b78-80ed3b8c520e}" record_timestamp="1452874096212" record_key="adc_own_fort_about_to_be_captured">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_capture_point</icon_name>
+<key>adc_own_fort_about_to_be_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="Your stronghold is in imminent danger!" last_edit_user="bob">Your stronghold is in imminent danger!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{74aec2ac-1ad1-41af-8f9a-69dbb11b8a15}" record_timestamp="1452874096222" record_key="adc_own_gate_captured">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_gates</icon_name>
+<key>adc_own_gate_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="The enemy have captured the gates!" last_edit_user="bob">The enemy have captured the gates!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{1383b165-0bbc-4416-8e3a-b710ed2dc2f1}" record_timestamp="1452874096233" record_key="adc_own_gate_destroyed">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_gates</icon_name>
+<key>adc_own_gate_destroyed</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="Your gates are destroyed." last_edit_user="bob">Your gates are destroyed.</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{574a3946-b86d-4b71-9dc9-f64537637dec}" record_timestamp="1452874096288" record_key="adc_own_general_attacked">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_ally_attacked</icon_name>
+<key>adc_own_general_attacked</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="Your Lord is under attack!" last_edit_user="bob">Your Lord is under attack!</text>
+<ui_duration_ms>15000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{e7bb7c42-6593-4f4c-bad6-06c4466dd089}" record_timestamp="1452874096299" record_key="adc_own_general_injured">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_death</icon_name>
+<key>adc_own_general_injured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="Curse the foe! Your Lord is wounded." last_edit_user="bob">Curse the foe! Your Lord is wounded.</text>
+<ui_duration_ms>15000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{2133bcea-6785-4f9c-9474-2b82ff44e870}" record_timestamp="1452874096310" record_key="adc_own_general_killed">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_death</icon_name>
+<key>adc_own_general_killed</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="Death embraces your Lord..." last_edit_user="bob">Death embraces your Lord...</text>
+<ui_duration_ms>15000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{aaaa6908-adf8-4142-aeea-e5c79238e793}" record_timestamp="1452874096078" record_key="adc_own_hidden_unit_spotted">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_spotted</icon_name>
+<key>adc_own_hidden_unit_spotted</key>
+<offset_angle>0</offset_angle>
+<offset_range>20</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="Your hidden units are revealed!" last_edit_user="bob">Your hidden units are revealed!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{056b3976-027b-454a-975d-44f347e58754}" record_timestamp="1453199062716" record_key="adc_own_ladders_docked">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_ladders_docked</icon_name>
+<key>adc_own_ladders_docked</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="Our ladders have docked on the walls!" last_edit_user="bob">Our ladders have docked on the walls!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{c7b8b598-ce77-494b-9506-0283fbb459a9}" record_timestamp="1452874096244" record_key="adc_own_point_captured">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_capture_point</icon_name>
+<key>adc_own_point_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="You have lost a victory point." last_edit_user="bob">You have lost a victory point.</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{be8bc045-90dd-4f01-905e-c4b2a3e207ab}" record_timestamp="1454413091171" record_key="adc_own_reclaimed_victory_point">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_capture_point</icon_name>
+<key>adc_own_reclaimed_victory_point</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="We've reclaimed the victory point!" last_edit_user="bob">We've reclaimed the victory point!</text>
+<ui_duration_ms>5000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{c73a543f-92f9-40b5-a564-9a219a251040}" record_timestamp="1452874096085" record_key="adc_own_reinforcements">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_adc_reinforcements</icon_name>
+<key>adc_own_reinforcements</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="Reinforcements have arrived!" last_edit_user="bob">Reinforcements have arrived!</text>
+<ui_duration_ms>15000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{baee9d37-55d3-41b0-b5b5-aedf77777304}" record_timestamp="1452874096093" record_key="adc_own_ship_being_boarded">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_ally_attacked</icon_name>
+<key>adc_own_ship_being_boarded</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="One of your ships is boarded!" last_edit_user="bob">One of your ships is boarded!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{6d4fd3b6-7bc2-4e80-886d-8f421194f40d}" record_timestamp="1452874096136" record_key="adc_own_ship_on_fire">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_ally_attacked</icon_name>
+<key>adc_own_ship_on_fire</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="One of your ships is on fire!" last_edit_user="bob">One of your ships is on fire!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{7f99a724-46df-4b71-a757-5bb89f1d2896}" record_timestamp="1453197246077" record_key="adc_own_siege_equipment_destroyed">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_siege_equipment_destroyed</icon_name>
+<key>adc_own_siege_equipment_destroyed</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="Your siege equipment has been destroyed!" last_edit_user="bob">Your siege equipment has been destroyed!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{1758eb03-2ed9-46e2-92f0-dbb30609236d}" record_timestamp="1452874096254" record_key="adc_own_tower_captured">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_tower</icon_name>
+<key>adc_own_tower_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="The enemy have the tower!" last_edit_user="bob">The enemy have the tower!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{ef7b81a5-a6b0-42ea-86db-6d600511771c}" record_timestamp="1452874096344" record_key="adc_own_tower_destroyed">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_tower</icon_name>
+<key>adc_own_tower_destroyed</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="A tower has been destroyed!" last_edit_user="bob">A tower has been destroyed!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{bee1f2e1-7630-4555-86f2-6b674ee4e16a}" record_timestamp="1452874096144" record_key="adc_own_unit_berserk">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_ally_attacked</icon_name>
+<key>adc_own_unit_berserk</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="One of your units has gone berserk!" last_edit_user="bob">One of your units has gone berserk!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{f99c2b95-a943-453e-889f-1961ba16bf68}" record_timestamp="1440486891453" record_key="adc_own_unit_lost">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_routing</icon_name>
+<key>adc_own_unit_lost</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="A unit has been wiped out!" last_edit_user="bob">A unit has been wiped out!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{fa22f895-6ec6-4969-af26-64a898abfde8}" record_timestamp="1440161721240" record_key="adc_own_unit_out_of_ammo">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_ally_attacked</icon_name>
+<key>adc_own_unit_out_of_ammo</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="One of your units has used all its ammunition!" last_edit_user="bob">One of your units has used all its ammunition!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{dc905170-8238-4ff0-8452-862c9f2bfd82}" record_timestamp="1452874096102" record_key="adc_own_unit_routed">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_routing</icon_name>
+<key>adc_own_unit_routed</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="Cravens! Your warriors flee!" last_edit_user="bob">Cravens! Your warriors flee!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{73b52628-7bcf-4680-9b85-9eb91e7eebc9}" record_timestamp="1452874096111" record_key="adc_own_unit_wavering">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_routing</icon_name>
+<key>adc_own_unit_wavering</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="Your warriors are wavering!" last_edit_user="bob">Your warriors are wavering!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{e75e879f-233a-4db8-b08d-d8e36920ba39}" record_timestamp="1452874096321" record_key="adc_walls_breached">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>1</circumvent_cooldown>
+<has_worldspace_ui_ping>1</has_worldspace_ui_ping>
+<icon_name>icon_gates</icon_name>
+<key>adc_walls_breached</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text state="APPROVED" last_approved_text="The walls are breached!" last_edit_user="bob">The walls are breached!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches record_uuid="{aabd7653-d2e5-4860-ba54-16aa5bd7cdfa}" record_timestamp="1452874096128" record_key="adc_winning">
+<cinematic_event></cinematic_event>
+<circumvent_cooldown>0</circumvent_cooldown>
+<has_worldspace_ui_ping>0</has_worldspace_ui_ping>
+<icon_name>icon_capture_point</icon_name>
+<key>adc_winning</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text state="APPROVED" last_approved_text="Victory is in our grasp!" last_edit_user="bob">Victory is in our grasp!</text>
+<ui_duration_ms>10000</ui_duration_ms>
+</aide_de_camp_speeches>
+</dataroot>

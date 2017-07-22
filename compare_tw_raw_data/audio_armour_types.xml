@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="audio_armour_types.xsd" export_time="Wed Jan 27 12:43:41 2016" revision="15" export_branch="T:/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>6aed4569-6f04-40be-b796-9d9aa05dbe9c</edit_uuid>
+<audio_armour_types record_uuid="{d2ca911e-0f07-4e3e-b90b-e4affc63f753}" record_timestamp="1430405266044" record_key="body">
+<group_collision>wh_grp_foley_collision_generic</group_collision>
+<group_impact>wh_grp_foley_impact_generic</group_impact>
+<group_melee></group_melee>
+<group_movement></group_movement>
+<key>body</key>
+<switch>body</switch>
+</audio_armour_types>
+<audio_armour_types record_uuid="{fb5a0c92-dc9a-4908-bdcf-e2d67ce66ab1}" record_timestamp="1434370103147" record_key="bone">
+<group_collision>wh_grp_foley_collision_generic</group_collision>
+<group_impact>wh_grp_foley_impact_generic</group_impact>
+<group_melee></group_melee>
+<group_movement>wh_grp_foley_movement_bone</group_movement>
+<key>bone</key>
+<switch>bone</switch>
+</audio_armour_types>
+<audio_armour_types record_uuid="{c8948b3c-48f1-4acb-8e4c-a6c127b835be}" record_timestamp="1434370103225" record_key="chainmail">
+<group_collision>wh_grp_foley_collision_metal</group_collision>
+<group_impact>wh_grp_foley_impact_metal</group_impact>
+<group_melee></group_melee>
+<group_movement>wh_grp_foley_movement_segmented</group_movement>
+<key>chainmail</key>
+<switch>chainmail</switch>
+</audio_armour_types>
+<audio_armour_types record_uuid="{495f3b77-181e-4b10-ad02-289dcdff1a11}" record_timestamp="1434370103225" record_key="heavy_metal">
+<group_collision>wh_grp_foley_collision_metal</group_collision>
+<group_impact>wh_grp_foley_impact_metal</group_impact>
+<group_melee></group_melee>
+<group_movement>wh_grp_foley_movement_segmented</group_movement>
+<key>heavy_metal</key>
+<switch>heavy_metal</switch>
+</audio_armour_types>
+<audio_armour_types record_uuid="{fce7adaa-5469-4404-a73d-2f5e14217179}" record_timestamp="1434370103224" record_key="leather">
+<group_collision>wh_grp_foley_collision_metal</group_collision>
+<group_impact>wh_grp_foley_impact_metal</group_impact>
+<group_melee></group_melee>
+<group_movement>wh_grp_foley_movement_leather</group_movement>
+<key>leather</key>
+<switch>leather</switch>
+</audio_armour_types>
+<audio_armour_types record_uuid="{65e9fefe-f835-411b-bbd4-1fc6f74db934}" record_timestamp="1434370103225" record_key="plate">
+<group_collision>wh_grp_foley_collision_metal</group_collision>
+<group_impact>wh_grp_foley_impact_metal</group_impact>
+<group_melee></group_melee>
+<group_movement>wh_grp_foley_movement_segmented</group_movement>
+<key>plate</key>
+<switch>plate</switch>
+</audio_armour_types>
+</dataroot>

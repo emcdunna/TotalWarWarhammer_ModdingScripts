@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_effect_scope_to_category_junctions.xsd" export_time="Mon Sep 19 14:57:06 2016" revision="17" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>9cd05e61-603e-4fad-9f64-777fe13f3e03</edit_uuid>
+<campaign_effect_scope_to_category_junctions record_uuid="{5ee3bd79-ea3f-444b-b5dd-67926843f028}" record_timestamp="1425551890440" record_key="agent_to_agent_action_assist_armyscope_category_agent_action">
+<category>scope_category_agent_action</category>
+<scope>agent_to_agent_action_assist_army</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{747a9f3e-bbf5-448a-9586-d6d6f795d0d8}" record_timestamp="1425551890440" record_key="agent_to_agent_action_assist_provincescope_category_agent_action">
+<category>scope_category_agent_action</category>
+<scope>agent_to_agent_action_assist_province</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{75674287-1e13-4867-b63d-734bdb9f20ea}" record_timestamp="1425551890440" record_key="agent_to_agent_action_hinder_agentscope_category_agent_action">
+<category>scope_category_agent_action</category>
+<scope>agent_to_agent_action_hinder_agent</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{297916d9-a9d5-4900-8741-55a44950c4d4}" record_timestamp="1425551890440" record_key="agent_to_agent_action_hinder_armyscope_category_agent_action">
+<category>scope_category_agent_action</category>
+<scope>agent_to_agent_action_hinder_army</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{484bc08e-1321-4032-a0ed-3de71edf446e}" record_timestamp="1425551890440" record_key="agent_to_agent_action_hinder_characterscope_category_agent_action">
+<category>scope_category_agent_action</category>
+<scope>agent_to_agent_action_hinder_character</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{f9cb15c6-5c78-4d4c-a4e0-24db9b1d7dcf}" record_timestamp="1425551890440" record_key="agent_to_agent_action_hinder_provincescope_category_agent_action">
+<category>scope_category_agent_action</category>
+<scope>agent_to_agent_action_hinder_province</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{6a39b507-8618-43b4-9618-509fe54843cb}" record_timestamp="1425551890440" record_key="agent_to_agent_action_hinder_settlementscope_category_agent_action">
+<category>scope_category_agent_action</category>
+<scope>agent_to_agent_action_hinder_settlement</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{484874de-425a-4e23-80ff-c69232cb0bce}" record_timestamp="1425551890440" record_key="agent_to_agent_action_ownscope_category_agent_action">
+<category>scope_category_agent_action</category>
+<scope>agent_to_agent_action_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{2b32e722-ce84-44a8-b0f9-12d5433a6153}" record_timestamp="1425551890440" record_key="agent_to_agent_action_passivescope_category_agent_action">
+<category>scope_category_agent_action</category>
+<scope>agent_to_agent_action_passive</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{c84f0d26-5adf-47b4-988a-118941fcc7ac}" record_timestamp="1425551890440" record_key="agent_to_parent_army_general_ownscope_category_force">
+<category>scope_category_force</category>
+<scope>agent_to_parent_army_general_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{d1f03177-9204-4f75-b338-7fef2ab68f59}" record_timestamp="1425551890440" record_key="agent_to_parent_army_ownscope_category_force">
+<category>scope_category_force</category>
+<scope>agent_to_parent_army_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{7f5794c5-d187-4fb0-a950-ab61aeabf7ba}" record_timestamp="1474293408153" record_key="army_to_army_own_unseenscope_category_force">
+<category>scope_category_force</category>
+<scope>army_to_army_own_unseen</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{16919460-27da-4bd8-99a7-92ca89872781}" record_timestamp="1425551890440" record_key="building_to_building_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>building_to_building_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{d006222b-208b-4a50-9ea5-1e9975f99eb2}" record_timestamp="1425551890456" record_key="building_to_sea_region_own_provincewidescope_category_province">
+<category>scope_category_province</category>
+<scope>building_to_sea_region_own_provincewide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{3aaf3c17-9229-4283-9dec-3fb9050026d0}" record_timestamp="1425551890456" record_key="building_to_sea_region_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>building_to_sea_region_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{beed23f2-e316-4d5b-831c-b8e57c96a8f7}" record_timestamp="1425551890456" record_key="character_to_character_own_category_regionscope_category_province">
+<category>scope_category_province</category>
+<scope>character_to_character_own_category_region</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{69b417e6-7140-4d68-b908-7eafa9cbe0fc}" record_timestamp="1425551890456" record_key="character_to_character_own_faction_leaderscope_category_characters">
+<category>scope_category_characters</category>
+<scope>character_to_character_own_faction_leader</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{58a3b68c-23d1-4a2e-9a80-5aeb646c3519}" record_timestamp="1425551890456" record_key="character_to_character_own_factionwidescope_category_faction">
+<category>scope_category_faction</category>
+<scope>character_to_character_own_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{0d684b13-2bf9-43f1-8f37-17468396823d}" record_timestamp="1425551890456" record_key="character_to_character_own_wifescope_category_wife">
+<category>scope_category_wife</category>
+<scope>character_to_character_own_wife</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{2f33d928-b99e-437c-8ab1-686fee74803b}" record_timestamp="1425551890456" record_key="character_to_character_ownscope_category_characters">
+<category>scope_category_characters</category>
+<scope>character_to_character_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{be59601c-1ce8-4aed-a487-88ff9e8b59e3}" record_timestamp="1425551890456" record_key="character_to_faction_unseenscope_category_faction">
+<category>scope_category_faction</category>
+<scope>character_to_faction_unseen</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{bf9c48c0-aa3e-431e-a28e-b1dc00d1be50}" record_timestamp="1425551890456" record_key="character_to_factionscope_category_faction">
+<category>scope_category_faction</category>
+<scope>character_to_faction</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{9eb272c3-d8c7-48c3-baee-856be041c879}" record_timestamp="1449840664528" record_key="character_to_force_regionwide_ownscope_category_force">
+<category>scope_category_force</category>
+<scope>character_to_force_regionwide_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{64634598-4dce-45d1-b507-3534efbca8e9}" record_timestamp="1425551890456" record_key="character_to_province_own_factionwidescope_category_province">
+<category>scope_category_province</category>
+<scope>character_to_province_own_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{b279238a-8b65-43a8-94ba-7f4924d01b66}" record_timestamp="1425551890456" record_key="character_to_province_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>character_to_province_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{157d4aea-500d-4088-a82b-534e06a5200a}" record_timestamp="1425551890456" record_key="character_to_region_own_factionwidescope_category_province">
+<category>scope_category_province</category>
+<scope>character_to_region_own_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{fac2063e-e6d3-499f-8b11-9e4360b7e115}" record_timestamp="1425551890456" record_key="character_to_region_own_provincewidescope_category_province">
+<category>scope_category_province</category>
+<scope>character_to_region_own_provincewide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{6f38e025-f4b4-4f8d-b4fb-c191bdb6b442}" record_timestamp="1425551890456" record_key="character_to_region_own_pseudo_provincewidescope_category_province">
+<category>scope_category_province</category>
+<scope>character_to_region_own_pseudo_provincewide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{974bbcb1-146c-4f37-bb60-96923b8a886f}" record_timestamp="1425551890456" record_key="character_to_region_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>character_to_region_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{8bf05cb7-30ef-48b7-a54b-8fd9a3a00de0}" record_timestamp="1425551890471" record_key="faction_to_army_own_unseenscope_category_force">
+<category>scope_category_force</category>
+<scope>faction_to_army_own_unseen</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{4b557167-d888-4d65-8672-964ea79d5e9d}" record_timestamp="1425551890471" record_key="faction_to_army_ownscope_category_force">
+<category>scope_category_force</category>
+<scope>faction_to_army_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{3cb002a2-44cd-4ea5-bfa8-070be77be5ee}" record_timestamp="1425551890471" record_key="faction_to_character_ownscope_category_characters">
+<category>scope_category_characters</category>
+<scope>faction_to_character_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{e44c0f74-301e-46d0-8543-e2708a3519e8}" record_timestamp="1425551890471" record_key="faction_to_faction_own_unseenscope_category_faction">
+<category>scope_category_faction</category>
+<scope>faction_to_faction_own_unseen</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{812d7b06-eb8c-4adf-a6ca-59294da32e8c}" record_timestamp="1425551890471" record_key="faction_to_faction_ownscope_category_faction">
+<category>scope_category_faction</category>
+<scope>faction_to_faction_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{40f0eb8e-5702-4492-a2df-aabec09993f6}" record_timestamp="1425551890471" record_key="faction_to_force_enemyscope_category_enemy">
+<category>scope_category_enemy</category>
+<scope>faction_to_force_enemy</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{24408a4b-a217-46ff-a29d-c6b67e1890db}" record_timestamp="1425551890471" record_key="faction_to_force_own_unseenscope_category_force">
+<category>scope_category_force</category>
+<scope>faction_to_force_own_unseen</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{f0d74074-40e1-4a2f-8919-72acfd4bee52}" record_timestamp="1425551890471" record_key="faction_to_force_ownscope_category_force">
+<category>scope_category_force</category>
+<scope>faction_to_force_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{0786330b-50d1-4269-8b71-c369cb391702}" record_timestamp="1425551890471" record_key="faction_to_general_ownscope_category_characters">
+<category>scope_category_characters</category>
+<scope>faction_to_general_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{8cf2f12f-4938-4229-be50-fb0f14f44c6d}" record_timestamp="1425551890471" record_key="faction_to_navy_own_unseenscope_category_force">
+<category>scope_category_force</category>
+<scope>faction_to_navy_own_unseen</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{de3585fa-f179-4f43-930d-e8e92f950533}" record_timestamp="1425551890471" record_key="faction_to_navy_ownscope_category_force">
+<category>scope_category_force</category>
+<scope>faction_to_navy_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{e582cb04-48a1-4908-b09a-04d87fdabb3e}" record_timestamp="1425551890471" record_key="faction_to_province_own_unseenscope_category_province">
+<category>scope_category_province</category>
+<scope>faction_to_province_own_unseen</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{bd55b0ce-99b4-4eab-a68e-289eeb53107e}" record_timestamp="1425551890471" record_key="faction_to_province_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>faction_to_province_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{e54fb9ab-630b-4dad-a1fb-7d73c870ce08}" record_timestamp="1425551890471" record_key="faction_to_region_own_unseenscope_category_province">
+<category>scope_category_province</category>
+<scope>faction_to_region_own_unseen</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{9cc3284e-fe66-426d-94f4-2fa2f1dcfe94}" record_timestamp="1425551890471" record_key="faction_to_region_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>faction_to_region_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{4a62fa14-bc5d-4ca1-812c-a41b1725d718}" record_timestamp="1425551890471" record_key="faction_to_sea_region_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>faction_to_sea_region_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{4d09d16d-cac5-4fc7-9554-20fd5fbd0430}" record_timestamp="1425551890471" record_key="force_building_to_faction_ownscope_category_faction">
+<category>scope_category_faction</category>
+<scope>force_building_to_faction_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{b2f8c292-c9da-4966-a1cc-459d7dbcaf29}" record_timestamp="1425551890471" record_key="force_to_enemy_force_regionwidescope_category_enemy">
+<category>scope_category_enemy</category>
+<scope>force_to_enemy_force_regionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{9e2ffd81-9781-483f-913b-8209076cf768}" record_timestamp="1425551890471" record_key="force_to_faction_own_factionwidescope_category_faction">
+<category>scope_category_faction</category>
+<scope>force_to_faction_own_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{f6b829f8-8c02-4897-bb1e-32389217cfac}" record_timestamp="1425551890471" record_key="force_to_faction_own_factionwidescope_category_horde">
+<category>scope_category_horde</category>
+<scope>force_to_faction_own_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{4dcf7287-787c-488d-b238-a39a36d9d564}" record_timestamp="1425551890471" record_key="force_to_force_buildingscope_category_force">
+<category>scope_category_force</category>
+<scope>force_to_force_building</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{025cf97f-aebd-4845-b55f-dc4df32b3155}" record_timestamp="1425551890487" record_key="force_to_force_own_factionwidescope_category_force">
+<category>scope_category_force</category>
+<scope>force_to_force_own_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{1558d2fd-d5ce-41ac-a7f0-cc7e5132bfb6}" record_timestamp="1425551890487" record_key="force_to_force_ownscope_category_force">
+<category>scope_category_force</category>
+<scope>force_to_force_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{15233243-9797-4ba3-8d30-ef2efe8fde19}" record_timestamp="1425551890487" record_key="force_to_general_own_forcewidescope_category_force">
+<category>scope_category_force</category>
+<scope>force_to_general_own_forcewide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{bdc7aad5-71c2-4f07-a277-135c05f61e62}" record_timestamp="1425551890487" record_key="force_to_general_ownscope_category_characters">
+<category>scope_category_characters</category>
+<scope>force_to_general_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{0c3dc479-cf8e-4d7f-b650-55f1d077bc19}" record_timestamp="1425551890487" record_key="force_to_province_anyscope_category_province">
+<category>scope_category_province</category>
+<scope>force_to_province_any</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{078693f6-4b29-44ea-adae-df4588088422}" record_timestamp="1425551890487" record_key="force_to_province_enemy_factionwidescope_category_enemy">
+<category>scope_category_enemy</category>
+<scope>force_to_province_enemy_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{4dba253f-4fde-40b1-85cb-b41581e16a55}" record_timestamp="1425551890487" record_key="force_to_province_enemyscope_category_enemy">
+<category>scope_category_enemy</category>
+<scope>force_to_province_enemy</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{b99f4383-bba9-439e-826c-80cb16e4c566}" record_timestamp="1425551890487" record_key="force_to_province_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>force_to_province_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{33568c06-52c9-4cad-a6a5-bbafa3ad9bb1}" record_timestamp="1425551890487" record_key="force_to_region_any_provincewidescope_category_province">
+<category>scope_category_province</category>
+<scope>force_to_region_any_provincewide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{c075d343-96be-4000-826e-d19c5e1abf66}" record_timestamp="1425551890487" record_key="force_to_region_anyscope_category_province">
+<category>scope_category_province</category>
+<scope>force_to_region_any</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{b13845da-6dbc-4df5-b398-8abcab5a0821}" record_timestamp="1425551890487" record_key="force_to_region_enemy_factionwidescope_category_enemy">
+<category>scope_category_enemy</category>
+<scope>force_to_region_enemy_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{9c6d9af4-9f8a-47fd-9d63-47077b92564d}" record_timestamp="1425551890487" record_key="force_to_region_enemyscope_category_enemy">
+<category>scope_category_enemy</category>
+<scope>force_to_region_enemy</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{23700986-f8b3-4b47-8e66-1d3d132daa99}" record_timestamp="1425551890487" record_key="force_to_sea_region_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>force_to_sea_region_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{ba4e0d57-1667-4122-8f6d-4dbae091c844}" record_timestamp="1425551890487" record_key="general_to_character_ownscope_category_characters">
+<category>scope_category_characters</category>
+<scope>general_to_character_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{b93f02f4-cc2b-47eb-bc77-3d10cc0e2894}" record_timestamp="1425551890487" record_key="general_to_character_when_commanding_navy_ownscope_category_characters">
+<category>scope_category_characters</category>
+<scope>general_to_character_when_commanding_navy_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{591a28ef-4f55-4962-ab39-b96e26aba6f1}" record_timestamp="1425551890502" record_key="general_to_force_enemy_regionwidescope_category_enemy">
+<category>scope_category_enemy</category>
+<scope>general_to_force_enemy_regionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{7700a794-2980-420c-a215-2a6e2c3a4954}" record_timestamp="1425551890502" record_key="general_to_force_own_unseenscope_category_force">
+<category>scope_category_force</category>
+<scope>general_to_force_own_unseen</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{691a267b-16bf-47fc-909e-f877c3bf2db2}" record_timestamp="1425551890502" record_key="general_to_force_ownscope_category_force">
+<category>scope_category_force</category>
+<scope>general_to_force_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{6474112f-88b2-4c81-8c71-0cac54bdb670}" record_timestamp="1425551890502" record_key="general_to_navy_ownscope_category_force">
+<category>scope_category_force</category>
+<scope>general_to_navy_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{a75a4d63-6598-4379-a439-1f45a5e92dc4}" record_timestamp="1425551890502" record_key="general_to_sea_region_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>general_to_sea_region_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{7ba38e39-bc02-4330-9f93-81076c9d6a11}" record_timestamp="1425551890502" record_key="navy_to_navy_ownscope_category_force">
+<category>scope_category_force</category>
+<scope>navy_to_navy_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{afc85a41-d2b8-4428-87cb-e9d54da259db}" record_timestamp="1425551890502" record_key="navy_to_sea_region_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>navy_to_sea_region_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{1a79f72d-7484-4742-a37c-64b1999624c1}" record_timestamp="1425551890502" record_key="province_to_army_factionwidescope_category_force">
+<category>scope_category_force</category>
+<scope>province_to_army_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{8f397e3c-c317-4013-bec1-af819a454839}" record_timestamp="1425551890502" record_key="province_to_army_ownscope_category_force">
+<category>scope_category_force</category>
+<scope>province_to_army_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{ca4b8294-5890-47ab-9d9e-ac33c12c2803}" record_timestamp="1425551890502" record_key="province_to_character_ownscope_category_characters">
+<category>scope_category_characters</category>
+<scope>province_to_character_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{a2895671-9f66-4040-81b8-bb8d6454e7e0}" record_timestamp="1425551890502" record_key="province_to_character_when_commanding_army_own_factionwidescope_category_characters">
+<category>scope_category_characters</category>
+<scope>province_to_character_when_commanding_army_own_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{f942543e-3b01-40ac-8302-75b04d4a1118}" record_timestamp="1425551890502" record_key="province_to_character_when_commanding_navy_own_factionwidescope_category_characters">
+<category>scope_category_characters</category>
+<scope>province_to_character_when_commanding_navy_own_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{a31dccf6-dc99-4e48-b700-76f6e7714494}" record_timestamp="1425551890502" record_key="province_to_character_when_commanding_own_factionwidescope_category_characters">
+<category>scope_category_characters</category>
+<scope>province_to_character_when_commanding_own_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{0a8875e9-7b5e-4595-beee-6ee0c5801178}" record_timestamp="1425551890502" record_key="province_to_factionscope_category_faction">
+<category>scope_category_faction</category>
+<scope>province_to_faction</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{58e5d185-7e94-418b-bb0b-723de53b2ed7}" record_timestamp="1434708404404" record_key="province_to_force_any_provincewidescope_category_force">
+<category>scope_category_force</category>
+<scope>province_to_force_any_provincewide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{3a72e37b-2089-402e-a26a-4c8881c2aec2}" record_timestamp="1434708404578" record_key="province_to_force_own_factionwidescope_category_force">
+<category>scope_category_force</category>
+<scope>province_to_force_own_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{a18897f6-6ab9-46e9-af96-d4f2739aaeca}" record_timestamp="1425551890518" record_key="province_to_navy_factionwidescope_category_force">
+<category>scope_category_force</category>
+<scope>province_to_navy_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{0d12afc5-3307-45d5-bac0-f19fcd064786}" record_timestamp="1425551890518" record_key="province_to_province_own_factionwidescope_category_province">
+<category>scope_category_province</category>
+<scope>province_to_province_own_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{b3272eef-ddda-4bae-8e36-73a898ddf104}" record_timestamp="1425551890518" record_key="province_to_province_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>province_to_province_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{01f64435-23af-4e56-bb01-76218ccf1337}" record_timestamp="1425551890518" record_key="province_to_region_own_factionwidescope_category_province">
+<category>scope_category_province</category>
+<scope>province_to_region_own_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{7f3411e5-4aa5-4a94-9777-4d5d495ad151}" record_timestamp="1438190787228" record_key="province_to_region_own_unseenscope_category_province">
+<category>scope_category_province</category>
+<scope>province_to_region_own_unseen</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{905775b1-bbdd-4323-95fe-892a7605a69a}" record_timestamp="1425551890518" record_key="province_to_sea_region_own_factionwidescope_category_province">
+<category>scope_category_province</category>
+<scope>province_to_sea_region_own_factionwide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{47aa9cd3-3d61-4189-a6c9-166b63992a89}" record_timestamp="1425551890518" record_key="province_to_sea_region_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>province_to_sea_region_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{c9b5de00-a5ae-4a2a-91be-c726227dba0e}" record_timestamp="1425551890518" record_key="region_to_character_anyscope_category_characters">
+<category>scope_category_characters</category>
+<scope>region_to_character_any</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{3bc9cd34-c3c7-4151-8e0f-f2f71319229d}" record_timestamp="1425551890518" record_key="region_to_character_enemyscope_category_enemy">
+<category>scope_category_enemy</category>
+<scope>region_to_character_enemy</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{f41c15b6-e0f3-4031-8914-13a4fd21bdad}" record_timestamp="1425551890518" record_key="region_to_character_ownscope_category_characters">
+<category>scope_category_characters</category>
+<scope>region_to_character_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{21a51811-2742-4496-abfa-e967141daf23}" record_timestamp="1425551890518" record_key="region_to_force_anyscope_category_force">
+<category>scope_category_force</category>
+<scope>region_to_force_any</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{f5042bdf-0e6a-4070-b32c-db05231f0ab2}" record_timestamp="1425551890518" record_key="region_to_force_ownscope_category_force">
+<category>scope_category_force</category>
+<scope>region_to_force_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{2cbe3d5b-6f2f-4462-b112-3231d3a475ca}" record_timestamp="1425551890518" record_key="region_to_province_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>region_to_province_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{62e3b7c1-989c-47fd-8f75-2a2fc1eeaec7}" record_timestamp="1425551890518" record_key="region_to_region_own_provincewidescope_category_province">
+<category>scope_category_province</category>
+<scope>region_to_region_own_provincewide</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{bb96ff92-3b29-45c5-a3fd-fd2ed47f0744}" record_timestamp="1425551890518" record_key="region_to_region_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>region_to_region_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{532b6c7f-ed68-4428-b4bc-7895854f70ff}" record_timestamp="1425551890518" record_key="region_to_sea_region_ownscope_category_province">
+<category>scope_category_province</category>
+<scope>region_to_sea_region_own</scope>
+</campaign_effect_scope_to_category_junctions>
+<campaign_effect_scope_to_category_junctions record_uuid="{1e9836b9-bcf2-4a7f-b3fe-54fa21f5c42a}" record_timestamp="1425551890518" record_key="this_buildingscope_category_province">
+<category>scope_category_province</category>
+<scope>this_building</scope>
+</campaign_effect_scope_to_category_junctions>
+</dataroot>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="event_feed_subcategories.xsd" export_time="Wed May 4 11:51:46 2016" revision="19" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>200225fb-f0dd-4ec5-8fcd-92ddb82cab6e</edit_uuid>
+<event_feed_subcategories record_uuid="{5f83e3cb-3d8b-418f-93fb-6cd1866ac262}" record_timestamp="1430315476763" record_key="wh_event_subcategory_agent_action">
+<category>wh_event_category_agent</category>
+<subcategory>wh_event_subcategory_agent_action</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Hero Actions" last_edit_user="bob">Hero Actions</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{ad6d30fd-e3f2-46a1-83a8-cf57230bdcbb}" record_timestamp="1430315476974" record_key="wh_event_subcategory_agent_recruited">
+<category>wh_event_category_agent</category>
+<subcategory>wh_event_subcategory_agent_recruited</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Hero Recruitment" last_edit_user="bob">Hero Recruitment</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{46a9e6d5-0cdb-489a-bb44-25e5ea094cd8}" record_timestamp="1447234791402" record_key="wh_event_subcategory_character_ancillaries">
+<category>wh_event_category_traits_ancillaries</category>
+<subcategory>wh_event_subcategory_character_ancillaries</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Equipment" last_edit_user="bob">Equipment</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{d9a47aec-02e5-476c-9efb-7a215acb3340}" record_timestamp="1430315034219" record_key="wh_event_subcategory_character_deaths">
+<category>wh_event_category_character</category>
+<subcategory>wh_event_subcategory_character_deaths</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Deaths &amp; Injuries" last_edit_user="bob">Deaths &amp; Injuries</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{1c68682f-5837-4ad1-817f-21956f421fd3}" record_timestamp="1430315033138" record_key="wh_event_subcategory_character_development">
+<category>wh_event_category_character</category>
+<subcategory>wh_event_subcategory_character_development</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Character Developments" last_edit_user="bob">Character Developments</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{b49b6cf1-329c-4b40-b5de-a8be775c729a}" record_timestamp="1430315041066" record_key="wh_event_subcategory_character_traits">
+<category>wh_event_category_traits_ancillaries</category>
+<subcategory>wh_event_subcategory_character_traits</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Traits" last_edit_user="bob">Traits</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{aa19d115-a9a0-4dcd-a078-6b360afddd74}" record_timestamp="1430315032319" record_key="wh_event_subcategory_conquest_battle">
+<category>wh_event_category_conquest</category>
+<subcategory>wh_event_subcategory_conquest_battle</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Battles" last_edit_user="bob">Battles</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{3bbaf47c-4c7c-444e-a3a8-0147ca6329e2}" record_timestamp="1430315039735" record_key="wh_event_subcategory_conquest_enemy_raids">
+<category>wh_event_category_conquest</category>
+<subcategory>wh_event_subcategory_conquest_enemy_raids</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Raids" last_edit_user="bob">Raids</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{c76f2773-edc4-4f19-a4a7-c4eaa51ed7c7}" record_timestamp="1430315038426" record_key="wh_event_subcategory_conquest_occupation">
+<category>wh_event_category_conquest</category>
+<subcategory>wh_event_subcategory_conquest_occupation</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Occupation" last_edit_user="bob">Occupation</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{d6116c1e-a73d-42af-8a5e-28e5f1895bdf}" record_timestamp="1430315040471" record_key="wh_event_subcategory_conquest_siege_blockade">
+<category>wh_event_category_conquest</category>
+<subcategory>wh_event_subcategory_conquest_siege_blockade</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Sieges &amp; Blockades" last_edit_user="bob">Sieges &amp; Blockades</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{4aa23799-d469-4815-a64f-584c8ee8eefc}" record_timestamp="1430315040829" record_key="wh_event_subcategory_conquest_territorial_disputes">
+<category>wh_event_category_conquest</category>
+<subcategory>wh_event_subcategory_conquest_territorial_disputes</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Territorial Disputes" last_edit_user="bob">Territorial Disputes</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{62cc5fb1-3683-4a97-8614-04e920eb75fb}" record_timestamp="1430315034683" record_key="wh_event_subcategory_diplomacy_state_matters">
+<category>wh_event_category_diplomacy</category>
+<subcategory>wh_event_subcategory_diplomacy_state_matters</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Diplomatic Reports" last_edit_user="bob">Diplomatic Reports</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{77504ffa-1670-45f4-9813-f22b32e27da9}" record_timestamp="1430315041707" record_key="wh_event_subcategory_diplomacy_treaty_broken">
+<category>wh_event_category_diplomacy</category>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Treaties Broken" last_edit_user="bob">Treaties Broken</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{caee1667-9741-4cb6-8b4f-ebcbbd3e818d}" record_timestamp="1430315042314" record_key="wh_event_subcategory_diplomacy_treaty_broken_manipulated">
+<category>wh_event_category_diplomacy</category>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken_manipulated</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Treaties Manipulated" last_edit_user="bob">Treaties Manipulated</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{ca2ffef3-4d50-4826-adfe-356e02aad100}" record_timestamp="1430315042911" record_key="wh_event_subcategory_diplomacy_treaty_negotiated">
+<category>wh_event_category_diplomacy</category>
+<subcategory>wh_event_subcategory_diplomacy_treaty_negotiated</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Treaties Negotiated" last_edit_user="bob">Treaties Negotiated</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{202a6ba8-c071-401e-9303-af958165f9fd}" record_timestamp="1430315043872" record_key="wh_event_subcategory_diplomacy_war_coordination">
+<category>wh_event_category_diplomacy</category>
+<subcategory>wh_event_subcategory_diplomacy_war_coordination</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="War Co-ordination" last_edit_user="bob">War Co-ordination</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{bd1a14dd-3400-4509-8781-025fddfbc4ea}" record_timestamp="1430315043495" record_key="wh_event_subcategory_diplomacy_war_peace">
+<category>wh_event_category_diplomacy</category>
+<subcategory>wh_event_subcategory_diplomacy_war_peace</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="War &amp; Peace" last_edit_user="bob">War &amp; Peace</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{d5b96fc3-9173-4110-9bd0-8d15f3ee77bb}" record_timestamp="1430315035157" record_key="wh_event_subcategory_faction_crises">
+<category>wh_event_category_faction</category>
+<subcategory>wh_event_subcategory_faction_crises</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Faction Crises" last_edit_user="bob">Faction Crises</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{1d96391a-393f-4085-b8f3-12c6f052724f}" record_timestamp="1430315036452" record_key="wh_event_subcategory_faction_developments">
+<category>wh_event_category_faction</category>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Faction Developments" last_edit_user="bob">Faction Developments</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{3715821a-43bf-4804-8578-c96b2872410b}" record_timestamp="1430315034617" record_key="wh_event_subcategory_faction_event_dilemma_incident">
+<category>wh_event_category_faction</category>
+<subcategory>wh_event_subcategory_faction_event_dilemma_incident</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Dilemmas &amp; Incidents" last_edit_user="bob">Dilemmas &amp; Incidents</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{48650e35-1087-4bd2-9586-02a9afa603e1}" record_timestamp="1430315037421" record_key="wh_event_subcategory_faction_missions_objectives">
+<category>wh_event_category_faction</category>
+<subcategory>wh_event_subcategory_faction_missions_objectives</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Missions &amp; Objectives" last_edit_user="bob">Missions &amp; Objectives</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{403e97e5-61f8-44d6-9a38-3f17cae280cd}" record_timestamp="1430315031556" record_key="wh_event_subcategory_military_ambushes">
+<category>wh_event_category_military</category>
+<subcategory>wh_event_subcategory_military_ambushes</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Ambushes" last_edit_user="bob">Ambushes</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{1bff1c0f-4c18-41b5-895d-782ef8bfbfdb}" record_timestamp="1430315032047" record_key="wh_event_subcategory_military_army_developments">
+<category>wh_event_category_military</category>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Army Reports" last_edit_user="bob">Army Reports</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{c5b33ee3-1ada-42d4-9ad6-434983808de1}" record_timestamp="1430315032183" record_key="wh_event_subcategory_military_attrition">
+<category>wh_event_category_military</category>
+<subcategory>wh_event_subcategory_military_attrition</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Attrition" last_edit_user="bob">Attrition</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{fd871e79-21e4-4ad0-8229-752d2795494d}" record_timestamp="1430315039956" record_key="wh_event_subcategory_military_unit_recruited">
+<category>wh_event_category_military</category>
+<subcategory>wh_event_subcategory_military_unit_recruited</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Recruitment" last_edit_user="bob">Recruitment</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{2b402142-e10a-406c-bbad-575bed34e044}" record_timestamp="1430315032865" record_key="wh_event_subcategory_provinces_buildings">
+<category>wh_event_category_provinces</category>
+<subcategory>wh_event_subcategory_provinces_buildings</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Buildings" last_edit_user="bob">Buildings</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{bfb69672-a942-4761-b738-f0de8c24d097}" record_timestamp="1430315039242" record_key="wh_event_subcategory_provinces_crises">
+<category>wh_event_category_provinces</category>
+<subcategory>wh_event_subcategory_provinces_crises</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Provincial Crises" last_edit_user="bob">Provincial Crises</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{6c1efdd8-4feb-444c-8c44-9ee27591d4bd}" record_timestamp="1430315039515" record_key="wh_event_subcategory_provinces_developments">
+<category>wh_event_category_provinces</category>
+<subcategory>wh_event_subcategory_provinces_developments</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Provincial Developments" last_edit_user="bob">Provincial Developments</subcategory_title>
+</event_feed_subcategories>
+<event_feed_subcategories record_uuid="{5c2b4ea1-79b9-4863-88ee-2e7253f5515e}" record_timestamp="1462358687894" record_key="wh_event_subcategory_world_climate">
+<category>wh_event_category_provinces</category>
+<subcategory>wh_event_subcategory_world_climate</subcategory>
+<subcategory_title state="APPROVED" last_approved_text="Winds of Magic Change" last_edit_user="bob">Winds of Magic Change</subcategory_title>
+</event_feed_subcategories>
+</dataroot>

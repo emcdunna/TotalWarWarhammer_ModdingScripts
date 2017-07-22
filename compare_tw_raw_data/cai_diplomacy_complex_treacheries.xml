@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_diplomacy_complex_treacheries.xsd" export_time="Wed May 25 11:51:51 2016" revision="16" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>08c314f0-88d7-478a-9a7b-240ba70df247</edit_uuid>
+<cai_diplomacy_complex_treacheries record_uuid="{e9cfbb8b-c363-4cb7-bf01-484ca600dd10}" record_timestamp="1464173511049" record_key="CLIENT_STATECLIENT_STATE_BROKEN">
+<first_event>CLIENT_STATE</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>CLIENT_STATE_BROKEN</second_event>
+<value>15</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{fb01387a-fec9-4920-98d8-df1f3cf3e98f}" record_timestamp="1464173511050" record_key="CLIENT_STATE_BROKENWAR">
+<first_event>CLIENT_STATE_BROKEN</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>WAR</second_event>
+<value>15</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{89739a88-cf30-4bb5-99ac-45509e911d57}" record_timestamp="1464173511053" record_key="DEFENSIVE_ALLIANCEDEFENSIVE_ALLIANCE_BROKEN">
+<first_event>DEFENSIVE_ALLIANCE</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>DEFENSIVE_ALLIANCE_BROKEN</second_event>
+<value>10</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{0cb286ef-7e8f-447f-9989-b7a53c5d31c0}" record_timestamp="1464173511050" record_key="DEFENSIVE_ALLIANCE_BROKENWAR">
+<first_event>DEFENSIVE_ALLIANCE_BROKEN</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>WAR</second_event>
+<value>15</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{9e992f4d-d583-4575-baac-5895c285f5a2}" record_timestamp="1464173511053" record_key="MILITARY_ACCESSMILITARY_ACCESS_BROKEN">
+<first_event>MILITARY_ACCESS</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>MILITARY_ACCESS_BROKEN</second_event>
+<value>10</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{aea9b80d-8ecb-4f0f-8a49-c58e16cd1b4e}" record_timestamp="1464173511054" record_key="MILITARY_ACCESS_BROKENWAR">
+<first_event>MILITARY_ACCESS_BROKEN</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>WAR</second_event>
+<value>10</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{8917e1df-db3b-451a-8c63-ae89da6c89cb}" record_timestamp="1464173511054" record_key="MILITARY_ALLIANCEMILITARY_ALLIANCE_BROKEN">
+<first_event>MILITARY_ALLIANCE</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>MILITARY_ALLIANCE_BROKEN</second_event>
+<value>10</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{dcc75a21-1d58-4b5a-9909-b8d8363b320b}" record_timestamp="1464173511051" record_key="MILITARY_ALLIANCE_BROKENWAR">
+<first_event>MILITARY_ALLIANCE_BROKEN</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>WAR</second_event>
+<value>15</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{67af0130-9352-4d97-951c-bf0211a00b80}" record_timestamp="1464173511055" record_key="NON_AGGRESSION_PACTNON_AGGRESSION_PACT_BROKEN">
+<first_event>NON_AGGRESSION_PACT</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>NON_AGGRESSION_PACT_BROKEN</second_event>
+<value>10</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{cb32bb64-1ced-4922-b2a4-9f88992ba757}" record_timestamp="1464173511055" record_key="NON_AGGRESSION_PACT_BROKENWAR">
+<first_event>NON_AGGRESSION_PACT_BROKEN</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>WAR</second_event>
+<value>10</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{1812c5e7-0e09-45be-a97a-8aea66d4b7b1}" record_timestamp="1464173511053" record_key="PEACEWAR">
+<first_event>PEACE</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>WAR</second_event>
+<value>30</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{f8838068-d060-4fd8-8a49-58c90caf4ea5}" record_timestamp="1464173511056" record_key="STATE_GIFT_ACCEPTEDWAR">
+<first_event>STATE_GIFT_ACCEPTED</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>WAR</second_event>
+<value>10</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{55cdb67a-2ef2-4ae8-8853-2f6dcb407d46}" record_timestamp="1464173511056" record_key="TRADE_AGREEMENTTRADE_AGREEMENT_BROKEN">
+<first_event>TRADE_AGREEMENT</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>TRADE_AGREEMENT_BROKEN</second_event>
+<value>10</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{26815235-839c-483f-8f0c-cc951fe011c8}" record_timestamp="1464173511056" record_key="TRADE_AGREEMENT_BROKENWAR">
+<first_event>TRADE_AGREEMENT_BROKEN</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>WAR</second_event>
+<value>10</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{da5808e2-d8e4-456a-a91e-c4f68fcb8c8a}" record_timestamp="1464173511052" record_key="VASSALAGEVASSALAGE_BROKEN">
+<first_event>VASSALAGE</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>VASSALAGE_BROKEN</second_event>
+<value>15</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{4b7fcdfb-0e67-488b-ad35-c151da9e789e}" record_timestamp="1464173511052" record_key="VASSALAGE_BROKENWAR">
+<first_event>VASSALAGE_BROKEN</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>WAR</second_event>
+<value>15</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{2499595f-7efa-4921-b5ed-34a7864436ce}" record_timestamp="1464173511051" record_key="VASSALAGE_FORCEDVASSALAGE_BROKEN">
+<first_event>VASSALAGE_FORCED</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>VASSALAGE_BROKEN</second_event>
+<value>15</value>
+</cai_diplomacy_complex_treacheries>
+<cai_diplomacy_complex_treacheries record_uuid="{09749d36-3db5-4341-a095-7ed140c7780d}" record_timestamp="1464173511051" record_key="WARPEACE">
+<first_event>WAR</first_event>
+<max_turn_difference>10</max_turn_difference>
+<second_event>PEACE</second_event>
+<value>15</value>
+</cai_diplomacy_complex_treacheries>
+</dataroot>

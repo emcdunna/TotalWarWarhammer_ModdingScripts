@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_campaign_payload_ui_details>
+<root>
+<edit_uuid>c555b1a0-0f2c-4913-bd9b-bcaaeaf76b9a</edit_uuid>
+<field>
+<field_uuid>{8664b6b3-e3a4-4415-9774-b3d76979b210}</field_uuid>
+<primary_key>1</primary_key>
+<name>component</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+</field>
+<field>
+<field_uuid>{d5b89898-88c4-403a-9739-e2058958e6b9}</field_uuid>
+<primary_key>0</primary_key>
+<name>description</name>
+<field_type>text</field_type>
+<required>0</required>
+<max_length>255</max_length>
+</field>
+<field>
+<field_uuid>{03c55f02-f214-4672-b96c-d914051d72d8}</field_uuid>
+<primary_key>0</primary_key>
+<name>icon</name>
+<field_type>text</field_type>
+<required>0</required>
+<max_length>255</max_length>
+</field>
+<field>
+<field_uuid>{ad6de006-34ef-49dc-a6c0-c43cb6bf3248}</field_uuid>
+<primary_key>0</primary_key>
+<name>comment</name>
+<field_type>text</field_type>
+<required>0</required>
+<max_length>255</max_length>
+</field>
+</root>

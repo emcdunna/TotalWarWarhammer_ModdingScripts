@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personality_trespassing_components.xsd" export_time="Mon Oct 19 17:24:13 2015" revision="7" export_branch="T:/warhammer/binaries" export_user="bob">
+<edit_uuid>4abc2482-00d5-443b-a91e-10b0886083a1</edit_uuid>
+<cai_personality_trespassing_components record_uuid="{2bbd99ab-366c-425b-b3c2-e954c9a5e9f0}" record_timestamp="1445271853405" record_key="default">
+<key>default</key>
+<min_score>-7</min_score>
+<min_score_horde>-15</min_score_horde>
+<stance_mod_best_friends>1</stance_mod_best_friends>
+<stance_mod_bitter_enemies>0</stance_mod_bitter_enemies>
+<stance_mod_friendly>0.3</stance_mod_friendly>
+<stance_mod_neutral>0.15</stance_mod_neutral>
+<stance_mod_unfriendly>0.1</stance_mod_unfriendly>
+<stance_mod_very_friendly>0.75</stance_mod_very_friendly>
+<stance_mod_very_unfriendly>0</stance_mod_very_unfriendly>
+<unknown_faction_modifier>0.5</unknown_faction_modifier>
+</cai_personality_trespassing_components>
+<cai_personality_trespassing_components record_uuid="{2d4ce794-3691-484c-9a21-cef153ba952f}" record_timestamp="1445271853400" record_key="reliable">
+<key>reliable</key>
+<min_score>-7</min_score>
+<min_score_horde>-15</min_score_horde>
+<stance_mod_best_friends>1</stance_mod_best_friends>
+<stance_mod_bitter_enemies>0</stance_mod_bitter_enemies>
+<stance_mod_friendly>0.6</stance_mod_friendly>
+<stance_mod_neutral>0.25</stance_mod_neutral>
+<stance_mod_unfriendly>0.2</stance_mod_unfriendly>
+<stance_mod_very_friendly>1</stance_mod_very_friendly>
+<stance_mod_very_unfriendly>0</stance_mod_very_unfriendly>
+<unknown_faction_modifier>0.5</unknown_faction_modifier>
+</cai_personality_trespassing_components>
+<cai_personality_trespassing_components record_uuid="{c94fe6b4-e042-4938-a12e-9ec2042d56ab}" record_timestamp="1439540206117" record_key="unreliable">
+<key>unreliable</key>
+<min_score>-7</min_score>
+<min_score_horde>-15</min_score_horde>
+<stance_mod_best_friends>0.75</stance_mod_best_friends>
+<stance_mod_bitter_enemies>0</stance_mod_bitter_enemies>
+<stance_mod_friendly>0.2</stance_mod_friendly>
+<stance_mod_neutral>0</stance_mod_neutral>
+<stance_mod_unfriendly>0</stance_mod_unfriendly>
+<stance_mod_very_friendly>0.5</stance_mod_very_friendly>
+<stance_mod_very_unfriendly>0</stance_mod_very_unfriendly>
+<unknown_faction_modifier>0.5</unknown_faction_modifier>
+</cai_personality_trespassing_components>
+</dataroot>

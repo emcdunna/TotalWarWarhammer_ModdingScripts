@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_region_transformation_composite_scenes.xsd" export_time="Mon Aug 22 12:42:35 2016" revision="3" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>0df5b147-ac52-4345-aa8b-3e4a1a61a3ed</edit_uuid>
+<campaign_region_transformation_composite_scenes record_uuid="{31a4e126-ecb6-4603-b02a-69f1e35dfa80}" record_timestamp="1471865764551" record_key="campaign_region_transform_evilwh_dlc03_stance_csc_beastmen">
+<campaign_group>wh_dlc03_stance_csc_beastmen</campaign_group>
+<composite_scene>campaign_region_transform_evil</composite_scene>
+</campaign_region_transformation_composite_scenes>
+<campaign_region_transformation_composite_scenes record_uuid="{8d2a25a0-3495-4ffc-96fa-0065fd0741ba}" record_timestamp="1448885677196" record_key="campaign_region_transform_evilwh_stance_csc_chaos">
+<campaign_group>wh_stance_csc_chaos</campaign_group>
+<composite_scene>campaign_region_transform_evil</composite_scene>
+</campaign_region_transformation_composite_scenes>
+<campaign_region_transformation_composite_scenes record_uuid="{b8f7c828-8876-4c38-8745-89e12e651f6b}" record_timestamp="1448885677174" record_key="campaign_region_transform_evilwh_stance_csc_greenskins">
+<campaign_group>wh_stance_csc_greenskins</campaign_group>
+<composite_scene>campaign_region_transform_evil</composite_scene>
+</campaign_region_transformation_composite_scenes>
+<campaign_region_transformation_composite_scenes record_uuid="{e77d64d4-48ad-4655-b9fc-2093bd745723}" record_timestamp="1448885677185" record_key="campaign_region_transform_evilwh_stance_csc_norsca">
+<campaign_group>wh_stance_csc_norsca</campaign_group>
+<composite_scene>campaign_region_transform_evil</composite_scene>
+</campaign_region_transformation_composite_scenes>
+<campaign_region_transformation_composite_scenes record_uuid="{da77c3a0-df4b-4857-9d60-e7b52c3a0963}" record_timestamp="1471865764550" record_key="campaign_region_transform_goodwh_dlc05_stance_csc_woodelves">
+<campaign_group>wh_dlc05_stance_csc_woodelves</campaign_group>
+<composite_scene>campaign_region_transform_good</composite_scene>
+</campaign_region_transformation_composite_scenes>
+<campaign_region_transformation_composite_scenes record_uuid="{211bf8e4-af82-4725-ab53-9b6a6a44088a}" record_timestamp="1448885677154" record_key="campaign_region_transform_goodwh_stance_csc_bretonnia">
+<campaign_group>wh_stance_csc_bretonnia</campaign_group>
+<composite_scene>campaign_region_transform_good</composite_scene>
+</campaign_region_transformation_composite_scenes>
+<campaign_region_transformation_composite_scenes record_uuid="{6fa59ded-a4b8-4a56-a852-1358e600bdae}" record_timestamp="1448885677144" record_key="campaign_region_transform_goodwh_stance_csc_dwarfs">
+<campaign_group>wh_stance_csc_dwarfs</campaign_group>
+<composite_scene>campaign_region_transform_good</composite_scene>
+</campaign_region_transformation_composite_scenes>
+<campaign_region_transformation_composite_scenes record_uuid="{6fc757d0-9eab-4bfa-8a9a-0fc758c13297}" record_timestamp="1448885677135" record_key="campaign_region_transform_goodwh_stance_csc_empire">
+<campaign_group>wh_stance_csc_empire</campaign_group>
+<composite_scene>campaign_region_transform_good</composite_scene>
+</campaign_region_transformation_composite_scenes>
+<campaign_region_transformation_composite_scenes record_uuid="{59d00de4-fb99-44ff-8e5f-84dafccbf96e}" record_timestamp="1448885677164" record_key="campaign_region_transform_vampirewh_stance_csc_vampire_counts">
+<campaign_group>wh_stance_csc_vampire_counts</campaign_group>
+<composite_scene>campaign_region_transform_vampire</composite_scene>
+</campaign_region_transformation_composite_scenes>
+</dataroot>

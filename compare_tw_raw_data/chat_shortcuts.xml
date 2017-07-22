@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="chat_shortcuts.xsd" export_time="Mon Aug 24 09:58:06 2015" revision="15" export_branch="C:/fetch_c/warhammer/binaries" export_user="bob">
+<edit_uuid>61a46ea2-3286-47c0-b2dc-1acf5090c8eb</edit_uuid>
+<chat_shortcuts record_uuid="{204068e2-3d1e-4adf-bcbb-c574fe1aae3f}" record_key="add">
+<description state="APPROVED" last_approved_text="adds specified player as a friend (/add player_name)" last_edit_user="bob">adds specified player as a friend (/add player_name)</description>
+<game_area>all</game_area>
+<key>add</key>
+</chat_shortcuts>
+<chat_shortcuts record_uuid="{1587d962-3ed6-48af-97b7-b4a593fcf1fc}" record_key="all">
+<description state="APPROVED" last_approved_text="chat to all players in current game (/all message)" last_edit_user="bob">chat to all players in current game (/all message)</description>
+<game_area>BattleUI</game_area>
+<key>all</key>
+</chat_shortcuts>
+<chat_shortcuts record_uuid="{885ebbdb-b3f3-4c9e-98a6-a20588329cbd}" record_key="block">
+<description state="APPROVED" last_approved_text="blocks specified players chat and voice permanently until unblocked (/block player_name)" last_edit_user="bob">blocks specified players chat and voice permanently until unblocked (/block player_name)</description>
+<game_area>all</game_area>
+<key>block</key>
+</chat_shortcuts>
+<chat_shortcuts record_uuid="{5a7197c5-5cbc-4cf4-bcda-354416eb95ce}" record_key="help">
+<description state="APPROVED" last_approved_text="shows all available chat shortcut commands for current game area (/help)" last_edit_user="bob">shows all available chat shortcut commands for current game area (/help)</description>
+<game_area>all</game_area>
+<key>help</key>
+</chat_shortcuts>
+<chat_shortcuts record_uuid="{6fd88074-7ccb-4ab9-a42c-776455435af7}" record_key="invite">
+<description state="APPROVED" last_approved_text="invites specified player to current game (/invite player_name)" last_edit_user="bob">invites specified player to current game (/invite player_name)</description>
+<game_area>FrontEnd</game_area>
+<key>invite</key>
+</chat_shortcuts>
+<chat_shortcuts record_uuid="{840bb6b2-ec61-451d-8e19-40646533306c}" record_timestamp="1365770137516" record_key="mute">
+<description state="APPROVED" last_approved_text="mutes specified players chat and voice for current session (/mute player_name)" last_edit_user="bob">mutes specified players chat and voice for current session (/mute player_name)</description>
+<game_area>all</game_area>
+<key>mute</key>
+</chat_shortcuts>
+<chat_shortcuts record_uuid="{6d1a1c1c-7be9-47da-bee3-1c43f16ab093}" record_timestamp="1368641467381" record_key="pm">
+<description state="APPROVED" last_approved_text="send private message to specified player (/pm player_name message)" last_edit_user="bob">send private message to specified player (/pm player_name message)</description>
+<game_area>all</game_area>
+<key>pm</key>
+</chat_shortcuts>
+<chat_shortcuts record_uuid="{cc100198-7194-4842-bdba-dbc2ecdc5fc6}" record_key="profile">
+<description state="APPROVED" last_approved_text="shows profile of specified player (/profile player_name)" last_edit_user="bob">shows profile of specified player (/profile player_name)</description>
+<game_area>all</game_area>
+<key>profile</key>
+</chat_shortcuts>
+<chat_shortcuts record_uuid="{64f0adc3-2a8c-44c9-96ff-685dceaca15d}" record_key="r">
+<description state="APPROVED" last_approved_text="reply to last person who whispered to you (/r message)" last_edit_user="bob">reply to last person who whispered to you (/r message)</description>
+<game_area>all</game_area>
+<key>r</key>
+</chat_shortcuts>
+<chat_shortcuts record_uuid="{7b8cf156-40bc-4132-a909-fdb9688955eb}" record_key="team">
+<description state="APPROVED" last_approved_text="chat to players in current team (/team message)" last_edit_user="bob">chat to players in current team (/team message)</description>
+<game_area>BattleUI</game_area>
+<key>team</key>
+</chat_shortcuts>
+<chat_shortcuts record_uuid="{e444f5f2-f239-43c5-a856-67aa63cd3ba5}" record_timestamp="1382686648238" record_key="unblock">
+<description state="APPROVED" last_approved_text="unblocks specified players chat and voice (/unblock player_name)" last_edit_user="bob">unblocks specified players chat and voice (/unblock player_name)</description>
+<game_area>all</game_area>
+<key>unblock</key>
+</chat_shortcuts>
+<chat_shortcuts record_uuid="{3058d4fd-43bd-48d8-b0ec-528ea227f750}" record_key="unmute">
+<description state="APPROVED" last_approved_text="unmutes specified players chat and voice for current session (/unmute player_name)" last_edit_user="bob">unmutes specified players chat and voice for current session (/unmute player_name)</description>
+<game_area>all</game_area>
+<key>unmute</key>
+</chat_shortcuts>
+</dataroot>

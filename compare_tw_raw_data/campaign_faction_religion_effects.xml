@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_faction_religion_effects.xsd" export_time="Tue Nov 3 17:53:47 2015" revision="11" export_branch="T:/warhammer/binaries" export_user="bob">
+<edit_uuid>4e44603c-0e9f-4233-8dd5-8a34ec821234</edit_uuid>
+<campaign_faction_religion_effects record_uuid="{807c3dd7-e5d7-4c01-9b06-8a071f392324}" record_timestamp="1446573226779" record_key="2">
+<effects_bundle>wh_main_effect_religion_undeath_public_order</effects_bundle>
+<id>2</id>
+<percentage_upper_threshold>100</percentage_upper_threshold>
+<religion>wh_main_religion_undeath</religion>
+</campaign_faction_religion_effects>
+</dataroot>

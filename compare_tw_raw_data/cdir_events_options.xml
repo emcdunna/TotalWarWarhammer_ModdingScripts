@@ -1,0 +1,2128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdir_events_options.xsd" export_time="Fri Dec 16 11:23:35 2016" revision="30" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>40a3f102-3105-4169-a36c-8fd6a0fef84a</edit_uuid>
+<cdir_events_options record_uuid="{305bbdc6-c406-45bf-8cf4-779b7cdf24ed}" record_timestamp="1423673066080" record_key="CND_ALLIED_WITH">
+<notes>Is the player faction ALLIED with the key-specified FACTION? Multiple use operator: AND.</notes>
+<option_key>CND_ALLIED_WITH</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a0f277a7-d0a4-4b05-bb9e-61f483586428}" record_timestamp="1423673066196" record_key="CND_ALLIED_WITH_SUBCULTURE">
+<notes>Is the player faction ALLIED with AT LEAST ONE FACTION belonging to the key-specified SUBCULTURE? Multiple use operator: UNSURE!</notes>
+<option_key>CND_ALLIED_WITH_SUBCULTURE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7416e270-4cc5-45a7-a864-79c1f20bd44d}" record_timestamp="1423673066309" record_key="CND_ALLY_SHOGUN">
+<notes>[OBSOLETE] Is the player faction allied with whichever clan rules the Shogunate?</notes>
+<option_key>CND_ALLY_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a6a5f731-7c75-461a-8e8e-55c6d0b25f8f}" record_timestamp="1423673066421" record_key="CND_ARMY_CAP_FREE">
+<notes>Can the player faction sustain ADDITIONAL ARMIES?</notes>
+<option_key>CND_ARMY_CAP_FREE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{48b6f1dc-a8d8-496e-a01f-4a8480c80226}" record_timestamp="1423673066543" record_key="CND_ARMY_IN_ENEMY_REGION">
+<notes>Does the player faction have AT LEAST ONE ARMY in an ENEMY REGION?</notes>
+<option_key>CND_ARMY_IN_ENEMY_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7b246379-d31f-4006-8ace-d125ffbd0284}" record_timestamp="1423673066653" record_key="CND_ASHIKAGA_SHOGUN">
+<notes>[OBSOLETE] Does the Ashikaga clan rules the Shogunate?</notes>
+<option_key>CND_ASHIKAGA_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{70ea42fc-328a-4447-90e8-f65fcfc6c895}" record_timestamp="1455199051303" record_key="CND_AT_WAR_SUBCULTURE">
+<notes>Is the player faction AT WAR with any factions belonging to the key-specified SUBCULTURE?</notes>
+<option_key>CND_AT_WAR_SUBCULTURE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{25a6945a-d8c8-4ad1-a85c-3f63a140b699}" record_timestamp="1423673066764" record_key="CND_BUILDING_CHAIN">
+<notes>Does the player faction have AT LEAST ONE instance of the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>CND_BUILDING_CHAIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8a0c1c13-bb8e-4ac0-ad74-7ee566155919}" record_timestamp="1423673066872" record_key="CND_BUILDING_CHAIN_AVAILABLE">
+<notes>Is the player faction currently able to CONSTRUCT the key-specified BUILDING CHAIN in one of their settlements? Multiple use operator: AND.</notes>
+<option_key>CND_BUILDING_CHAIN_AVAILABLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{651db93b-3763-4d03-be7a-d224e0adf0a8}" record_timestamp="1423673066993" record_key="CND_BUILDING_LEVEL">
+<notes>Does the player faction have AT LEAST ONE instance of the key-specified BUILDING LEVEL? Multiple use operator: AND.</notes>
+<option_key>CND_BUILDING_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{2718cf6e-29e6-49f3-bede-af89cd387c57}" record_timestamp="1423673067115" record_key="CND_BUILDING_LEVEL_AVAILABLE">
+<notes>Is the player faction currently able to CONSTRUCT the key-specified BUILDING LEVEL in one of their settlements? Multiple use operator: AND.</notes>
+<option_key>CND_BUILDING_LEVEL_AVAILABLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{bdb03756-05ca-416f-8ba8-6bd2a4feb8a3}" record_timestamp="1423673067235" record_key="CND_BUILDING_LEVEL_HALF_REGIONS">
+<notes>Does the player faction have an instance of the key-specified BUILDING LEVEL in at least HALF of their REGIONS? Multiple use operator: UNSURE!</notes>
+<option_key>CND_BUILDING_LEVEL_HALF_REGIONS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4c793176-cb6d-4222-9fb9-9848eca0cbed}" record_timestamp="1423673067355" record_key="CND_BUILDING_LEVEL_ONE_QUARTER_REGIONS">
+<notes>Does the player faction have an instance of the key-specified BUILDING LEVEL in AT LEAST ONE-QUARTER of their REGIONS? Multiple use operator: UNSURE!</notes>
+<option_key>CND_BUILDING_LEVEL_ONE_QUARTER_REGIONS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{fef0aee8-f2ba-488c-8e0d-650e688ad7c3}" record_timestamp="1423673067465" record_key="CND_BUILDING_LEVEL_THREE_QUARTER_REGIONS">
+<notes>Does the player faction have an instance of the key-specified BUILDING LEVEL in at least THREE-QUARTERS of their REGIONS? Multiple use operator: UNSURE!</notes>
+<option_key>CND_BUILDING_LEVEL_THREE_QUARTER_REGIONS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b6252e74-84cc-482b-b70a-5309224c20bf}" record_timestamp="1423673067586" record_key="CND_CAMPAIGN">
+<notes>Is the CAMPAIGN being played this key-specified one? Multiple use operator: OR.</notes>
+<option_key>CND_CAMPAIGN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{91459712-84e8-4d84-98bc-b8eaa3899199}" record_timestamp="1423673067702" record_key="CND_CAN_RECRUIT_UNIT">
+<notes>Can the player faction currently RECRUIT the unit_key-specified UNIT? Multiple use operator: UNSURE!</notes>
+<option_key>CND_CAN_RECRUIT_UNIT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1ff13071-b9cc-4dce-a806-7ff8c61bdb1a}" record_timestamp="1423673067812" record_key="CND_CAN_RECRUIT_UNIT_CASTE">
+<notes>Can the player faction currently RECRUIT the unit_caste-specified UNIT? Multiple use operator: UNSURE!</notes>
+<option_key>CND_CAN_RECRUIT_UNIT_CASTE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5aa3a970-9132-4b71-89fd-073e93b527a2}" record_timestamp="1423673067924" record_key="CND_CAN_RECRUIT_UNIT_CATEGORY">
+<notes>Can the player faction currently RECRUIT the unit_category-specified UNIT? Multiple use operator: UNSURE!</notes>
+<option_key>CND_CAN_RECRUIT_UNIT_CATEGORY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1ed5bbe4-a258-4d2c-93c5-c9b5ac6d1641}" record_timestamp="1423673068043" record_key="CND_CAN_RECRUIT_UNIT_CLASS">
+<notes>Can the player faction currently RECRUIT the unit_class-specified UNIT? Multiple use operator: UNSURE!</notes>
+<option_key>CND_CAN_RECRUIT_UNIT_CLASS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f7f77e19-8f50-4550-889f-961582f632bf}" record_timestamp="1423673068164" record_key="CND_CONSTRUCTING_BUILDING_CHAIN">
+<notes>Is the player faction currently CONSTRUCTING a building from the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>CND_CONSTRUCTING_BUILDING_CHAIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3a35ea86-2262-4f3d-a5ce-bf07515f88b1}" record_timestamp="1423673068277" record_key="CND_CONSTRUCTING_BUILDING_LEVEL">
+<notes>Is the player faction currently CONSTRUCTING the key-specified BUILDING LEVEL? Multiple use operator: AND.</notes>
+<option_key>CND_CONSTRUCTING_BUILDING_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3990e4f5-dc1b-4998-9da7-20d6e618b7d0}" record_timestamp="1423673068401" record_key="CND_CONSTRUCTING_NOT_BUILDING_CHAIN">
+<notes>Is the player faction currently NOT CONSTRUCTING a building from the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>CND_CONSTRUCTING_NOT_BUILDING_CHAIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1f5387be-7584-48fa-a5d1-6103018de281}" record_timestamp="1423673068518" record_key="CND_CONSTRUCTING_NOT_BUILDING_LEVEL">
+<notes>Is the player faction currently NOT CONSTRUCTING the key-specified BUILDING LEVEL? Multiple use operator: AND.</notes>
+<option_key>CND_CONSTRUCTING_NOT_BUILDING_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a12762df-83d1-4aaf-94db-2409ad10e353}" record_timestamp="1423673068637" record_key="CND_DILEMMA_CHOSEN_FIRST">
+<notes>Did the player choose the FIRST OPTION when faced with the key-specified DILEMMA? Multiple use operator: OR. [NOTE: We require additional options for CHOSEN_THIRD and CHOSEN_FOURTH]</notes>
+<option_key>CND_DILEMMA_CHOSEN_FIRST</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{dda1d010-becb-4651-87c8-101e9b4eb22e}" record_timestamp="1423673068754" record_key="CND_DILEMMA_CHOSEN_SECOND">
+<notes>Did the player choose the SECOND OPTION when faced with the key-specified DILEMMA? Multiple use operator: OR. [NOTE: We require additional options for CHOSEN_THIRD and CHOSEN_FOURTH]</notes>
+<option_key>CND_DILEMMA_CHOSEN_SECOND</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{60e05a69-90bb-4c55-ac99-2e5ebee9a9a8}" record_timestamp="1423673068870" record_key="CND_DILEMMA_GENERATED">
+<notes>Has the key-specified DILEMMA been GENERATED for the player during this campaign? Multiple use operator: OR.</notes>
+<option_key>CND_DILEMMA_GENERATED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{74cff53c-be20-4fec-a85b-86ffa6a6ca4d}" record_timestamp="1423673068982" record_key="CND_DILEMMA_NOT_CHOSEN_FIRST">
+<notes>Did the player NOT choose the FIRST OPTION when faced with the key-specified DILEMMA? Multiple use operator: OR. [NOTE: We require additional options for CHOSEN_THIRD and CHOSEN_FOURTH]</notes>
+<option_key>CND_DILEMMA_NOT_CHOSEN_FIRST</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{fa7561fa-b364-4dca-b57c-6f476bdbe484}" record_timestamp="1423673069100" record_key="CND_DILEMMA_NOT_CHOSEN_SECOND">
+<notes>Did the player NOT choose the SECOND OPTION when faced with the key-specified DILEMMA? Multiple use operator: OR. [NOTE: We require additional options for CHOSEN_THIRD and CHOSEN_FOURTH]</notes>
+<option_key>CND_DILEMMA_NOT_CHOSEN_SECOND</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{77b5b0e3-5538-4ac1-8292-8280bd93db92}" record_timestamp="1423673069212" record_key="CND_DILEMMA_NOT_GENERATED">
+<notes>Has the key-specified DILEMMA NOT been GENERATED for the player during this campaign? Multiple use operator: OR.</notes>
+<option_key>CND_DILEMMA_NOT_GENERATED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0883e2d8-946a-413e-8d45-99f18a3c7579}" record_timestamp="1423673069327" record_key="CND_ENEMY_ARMY_IN_REGION">
+<notes>Is there an ENEMY ARMY in any of the player faction's REGIONS?</notes>
+<option_key>CND_ENEMY_ARMY_IN_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{691091b9-6b0a-41c3-a5ed-16c432a186e9}" record_timestamp="1423673069454" record_key="CND_FACTION">
+<notes>Is the player currently playing as this FACTION? Multiple use operator: OR.</notes>
+<option_key>CND_FACTION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0dd6b2ed-9574-4f83-a4e2-31b4ec616af6}" record_timestamp="1423673069571" record_key="CND_FIRST_ROUND">
+<notes>Specify the FIRST ROUND that a random event may be GENERATED during a campaign.</notes>
+<option_key>CND_FIRST_ROUND</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{da4e30b1-515b-4147-95af-d4376ec172b6}" record_timestamp="1454585458521" record_key="CND_HAS_AGENT">
+<notes>Does the player faction have AT LEAST ONE instance of the key-specified AGENT? Multiple use operator: OR (use semi colon).</notes>
+<option_key>CND_HAS_AGENT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{102f0d92-9ae4-40bd-8a68-49825f72331c}" record_timestamp="1423673069806" record_key="CND_HAS_ARMY">
+<notes>Does the player faction have AT LEAST ONE ARMY?</notes>
+<option_key>CND_HAS_ARMY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{dfda2ccd-e108-4066-bcaf-71069d674273}" record_timestamp="1423673069922" record_key="CND_HAS_NAVY">
+<notes>Does the player faction have AT LEAST ONE NAVY?</notes>
+<option_key>CND_HAS_NAVY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f4b7f29d-4668-4e5a-9fc0-23ff873f522a}" record_timestamp="1446040782883" record_key="CND_HAS_PORT">
+<notes>Does the player faction own a port?</notes>
+<option_key>CND_HAS_PORT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4391d7c3-e731-461b-8d1c-7314ff82a721}" record_timestamp="1423673070032" record_key="CND_INCIDENT_GENERATED">
+<notes>Has the key-specified INCIDENT been GENERATED for the player during this campaign? Multiple use operator: OR.</notes>
+<option_key>CND_INCIDENT_GENERATED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3a0c4473-9d39-4aab-b8ca-15570465e699}" record_timestamp="1423673070144" record_key="CND_INCIDENT_NOT_GENERATED">
+<notes>Has the key-specified INCIDENT NOT been GENERATED for the player during this campaign? Multiple use operator: OR.</notes>
+<option_key>CND_INCIDENT_NOT_GENERATED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ed8a1e96-da9c-4626-8323-0cf006560d87}" record_timestamp="1423673070256" record_key="CND_IS_BECOMING_SHOGUN">
+<notes>[OBSOLETE] Is the player faction in the process of assuming control of the Shogunate?</notes>
+<option_key>CND_IS_BECOMING_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{335ef7e5-a9c5-4243-b684-41410e8c2832}" record_timestamp="1423673070380" record_key="CND_IS_SHOGUN">
+<notes>[OBSOLETE] Does the player faction rule the Shogunate?</notes>
+<option_key>CND_IS_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{eba57cb4-e072-44df-b090-e3e98541d130}" record_timestamp="1423673070526" record_key="CND_LAST_ROUND">
+<notes>Specify the LAST ROUND that a random event may be GENERATED during a campaign.</notes>
+<option_key>CND_LAST_ROUND</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{483c8faf-6878-4603-8a52-f7149f8b971d}" record_timestamp="1423673070669" record_key="CND_MAX_ALLIED">
+<notes>Is the player faction ALLIED with NO MORE THAN the specified number of FACTIONS?</notes>
+<option_key>CND_MAX_ALLIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f7023b5e-a69c-41ed-85f0-c6d02d4f78a6}" record_timestamp="1423673070809" record_key="CND_MAX_ARTILLERY_CATEGORY_RATIO">
+<notes>Of all the player faction's UNITS, do NO MORE THAN the specified proportion of them belong to the ARTILLERY category?</notes>
+<option_key>CND_MAX_ARTILLERY_CATEGORY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e227aab7-d1c1-4d28-b2a3-50348053c7e8}" record_timestamp="1423673070953" record_key="CND_MAX_BUDDHIST_RATIO">
+<notes>[OBSOLETE] Does the player faction have NO MORE THAN the specified average proportion of Buddhism across their territory?</notes>
+<option_key>CND_MAX_BUDDHIST_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a8b960e6-29a3-46b2-896d-a4f9fbc9d62a}" record_timestamp="1423673071092" record_key="CND_MAX_CAVALRY_CATEGORY_RATIO">
+<notes>Of all the player faction's UNITS, do NO MORE THAN the specified proportion of them belong to the CAVALRY category?</notes>
+<option_key>CND_MAX_CAVALRY_CATEGORY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{cc6503a4-2355-4ae7-863d-2481ab5d2275}" record_timestamp="1423673071244" record_key="CND_MAX_CHRISTIAN_RATIO">
+<notes>[OBSOLETE] Does the player faction have NO MORE THAN the specified average proportion of Christianity across their territory?</notes>
+<option_key>CND_MAX_CHRISTIAN_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f7b6f721-4f6a-4fd7-9f93-262199d4b401}" record_timestamp="1423673071383" record_key="CND_MAX_CIVIL_TECHNOLOGY_RATIO">
+<notes>[BROKEN?] Of all the player faction's researched TECHNOLOGIES, are NO MORE THAN the specified proportion CIVIL TECHNOLOGIES? </notes>
+<option_key>CND_MAX_CIVIL_TECHNOLOGY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f4baa66d-77e2-405f-bd48-5486ecc169cf}" record_timestamp="1446044303357" record_key="CND_MAX_COASTAL_REGIONS_OWNED">
+<notes>Does the player faction own NO MORE THAN the specified number of COASTAL REGIONS? (the region borders the sea - does not necessarily have a port!)</notes>
+<option_key>CND_MAX_COASTAL_REGIONS_OWNED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8e8b5550-d2b8-4a38-8c9f-219572ad6967}" record_timestamp="1423673071653" record_key="CND_MAX_DAIMYO_HONOUR">
+<notes>[OBSOLETE] Does the player faction's daimyo have NO MORE THAN the specified amount of Honour.</notes>
+<option_key>CND_MAX_DAIMYO_HONOUR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ab4c2139-dfac-42cf-a99f-d7f04a86791f}" record_timestamp="1423673071797" record_key="CND_MAX_ENGINEERING_TECHNOLOGY_RATIO">
+<notes>[BROKEN?] Of all the player faction's researched TECHNOLOGIES, are NO MORE THAN the specified proportion ENGINEERING TECHNOLOGIES? </notes>
+<option_key>CND_MAX_ENGINEERING_TECHNOLOGY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{af91ff91-275f-4ac8-82bc-5102b3ecaaa9}" record_timestamp="1423673071944" record_key="CND_MAX_FACTION_NEIGHBOUR_ALLIED">
+<notes>Is the player faction ALLIED with NO MORE THAN the specified number of NEIGHBOURING FACTIONS?</notes>
+<option_key>CND_MAX_FACTION_NEIGHBOUR_ALLIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1318cd2c-0662-46dc-afc5-3caca33e1868}" record_timestamp="1423673072096" record_key="CND_MAX_FACTION_NEIGHBOUR_MILITARY_ACCESS_GIVEN">
+<notes>[BROKEN?] Has the player faction GIVEN MILITARY ACCESS to NO MORE THAN the specified number of NEIGHBOURING FACTIONS?</notes>
+<option_key>CND_MAX_FACTION_NEIGHBOUR_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{734d6ec7-8f0b-4986-8242-5b6f33087ead}" record_timestamp="1423673072234" record_key="CND_MAX_FACTION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED">
+<notes>[BROKEN?] Has the player faction RECEIVED MILITARY ACCESS from NO MORE THAN the specified number of NEIGHBOURING FACTIONS?</notes>
+<option_key>CND_MAX_FACTION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{cecad675-27ab-4cdc-b6b5-33a61c199e88}" record_timestamp="1423673072345" record_key="CND_MAX_FACTION_NEIGHBOUR_NEUTRAL">
+<notes>Is the player faction NEUTRAL towards NO MORE THAN the specified number of NEIGHBOURING FACTIONS?</notes>
+<option_key>CND_MAX_FACTION_NEIGHBOUR_NEUTRAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3c207b84-71d5-4b43-9f00-cd212630977f}" record_timestamp="1423673072466" record_key="CND_MAX_FACTION_NEIGHBOUR_PROTECTORATES">
+<notes>[BROKEN?] Is the player faction the OVERLORD of NO MORE THAN the specified number of NEIGHBOURING FACTIONS?</notes>
+<option_key>CND_MAX_FACTION_NEIGHBOUR_PROTECTORATES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4134b378-f411-4940-bada-dae55e998819}" record_timestamp="1423673072583" record_key="CND_MAX_FACTION_NEIGHBOUR_TRADE">
+<notes>Is the player faction TRADING with NO MORE THAN the specified number of NEIGHBOURING FACTIONS?</notes>
+<option_key>CND_MAX_FACTION_NEIGHBOUR_TRADE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{2a2f75da-71b6-4dbf-abe6-6cb602a7f7a5}" record_timestamp="1423673072704" record_key="CND_MAX_FACTION_NEIGHBOUR_WAR">
+<notes>Is the player faction AT WAR with NO MORE THAN the specified number of NEIGHBOURING FACTIONS?</notes>
+<option_key>CND_MAX_FACTION_NEIGHBOUR_WAR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b55ee359-cba5-4f49-b328-d703bfc717d6}" record_timestamp="1423673072813" record_key="CND_MAX_FAME">
+<notes>Does the player faction have NO MORE THAN the specified amount of FAME / PRESTIGE / IMPERIUM.</notes>
+<option_key>CND_MAX_FAME</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{02d6f697-ca50-4be5-88a4-cc336558ed52}" record_timestamp="1423673072921" record_key="CND_MAX_FAME_LEVEL">
+<notes>[OBSOLETE] Is the player faction's  FAME / PRESTIGE / IMPERIUM level NO HIGHER THAN the given Shogun-specific fame level?</notes>
+<option_key>CND_MAX_FAME_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{6c09198b-88ce-4d5e-a8ff-f2536adf44a1}" record_timestamp="1423673073026" record_key="CND_MAX_FAME_RANK">
+<notes>Is the player faction's  FAME / PRESTIGE / IMPERIUM level NO HIGHER THAN the value specified?</notes>
+<option_key>CND_MAX_FAME_RANK</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{54c59fd5-f15a-4f2e-851a-60a94e23680f}" record_timestamp="1423673073133" record_key="CND_MAX_FORCE_COUNT">
+<notes>Does the player faction have NO MORE THAN the specified number of MILITARY FORCES.</notes>
+<option_key>CND_MAX_FORCE_COUNT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{77a7aca8-de62-4d7d-9449-a354dc6dacd9}" record_timestamp="1423673073239" record_key="CND_MAX_HIGHEST_FAME_LEVEL">
+<notes>[OBSOLETE] Was the player faction's  highest ever FAME / PRESTIGE / IMPERIUM level NO HIGHER THAN the given Shogun-specific fame level?</notes>
+<option_key>CND_MAX_HIGHEST_FAME_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{463060ab-9349-4823-9e51-79ea08f67564}" record_timestamp="1423673073344" record_key="CND_MAX_INFANTRY_MELEE_CATEGORY_RATIO">
+<notes>Of all the player faction's UNITS, do NO MORE THAN the specified proportion of them belong to the MELEE INFANTRY category?</notes>
+<option_key>CND_MAX_INFANTRY_MELEE_CATEGORY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8e9a0a17-0928-43b8-b4c4-5d2ab4289372}" record_timestamp="1423673073451" record_key="CND_MAX_INFANTRY_RANGED_CATEGORY_RATIO">
+<notes>Of all the player faction's UNITS, do NO MORE THAN the specified proportion of them belong to the RANGED INFANTRY category?</notes>
+<option_key>CND_MAX_INFANTRY_RANGED_CATEGORY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a116278f-5820-4612-8042-dd0dfe0b3075}" record_timestamp="1423673073564" record_key="CND_MAX_LAND_UNIT_COUNT">
+<notes>Does the player faction have NO MORE THAN the specified number of LAND UNITS?</notes>
+<option_key>CND_MAX_LAND_UNIT_COUNT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e8a5a0a5-350f-4079-870f-d383c3000a53}" record_timestamp="1423673073673" record_key="CND_MAX_MERCENARY_UNIT_COUNT">
+<notes>Does the player faction have NO MORE THAN the specified number of MERCENARY UNITS?</notes>
+<option_key>CND_MAX_MERCENARY_UNIT_COUNT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{070cdbbe-1b0a-4deb-b342-07baabf34c88}" record_timestamp="1423673073780" record_key="CND_MAX_MILITARY_ACCESS_GIVEN">
+<notes>[BROKEN?] Has the player faction GIVEN MILITARY ACCESS to NO MORE THAN the specified number of FACTIONS?</notes>
+<option_key>CND_MAX_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{6efe128a-4c1e-4497-835d-88419f45ab14}" record_timestamp="1423673073888" record_key="CND_MAX_MILITARY_ACCESS_RECEIVED">
+<notes>[BROKEN?] Has the player faction RECEIVED MILITARY ACCESS from NO MORE THAN the specified number of FACTIONS?</notes>
+<option_key>CND_MAX_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5dccf64f-87ee-4e38-a91e-b3ce3696cb13}" record_timestamp="1423673073994" record_key="CND_MAX_MILITARY_TECHNOLOGY_RATIO">
+<notes>[BROKEN?] Of all the player faction's researched TECHNOLOGIES, are NO MORE THAN the specified proportion MILITARY TECHNOLOGIES? </notes>
+<option_key>CND_MAX_MILITARY_TECHNOLOGY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a9c9eb31-4897-45f2-ba8b-c3d36b40fa17}" record_timestamp="1423673074100" record_key="CND_MAX_NAVAL_HEAVY_CATEGORY_RATIO">
+<notes>Of all the player faction's UNITS, do NO MORE THAN the specified proportion of them belong to the HEAVY NAVAL category?</notes>
+<option_key>CND_MAX_NAVAL_HEAVY_CATEGORY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{aa40fd56-d21a-4c69-b1fe-880996e56f81}" record_timestamp="1423673074206" record_key="CND_MAX_NAVAL_LIGHT_CATEGORY_RATIO">
+<notes>Of all the player faction's UNITS, do NO MORE THAN the specified proportion of them belong to the LIGHT NAVAL category?</notes>
+<option_key>CND_MAX_NAVAL_LIGHT_CATEGORY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0c098d94-f23b-4410-a36f-259becf71ea7}" record_timestamp="1423673074313" record_key="CND_MAX_NAVAL_MEDIUM_CATEGORY_RATIO">
+<notes>Of all the player faction's UNITS, do NO MORE THAN the specified proportion of them belong to the MEDIUM NAVAL category?</notes>
+<option_key>CND_MAX_NAVAL_MEDIUM_CATEGORY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ec3a0db7-f0d5-4828-8b18-61b552ae5ea9}" record_timestamp="1423673074419" record_key="CND_MAX_NAVAL_UNIT_COUNT">
+<notes>Does the player faction have NO MORE THAN the specified number of NAVAL UNITS?</notes>
+<option_key>CND_MAX_NAVAL_UNIT_COUNT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b547103d-2e80-4c3f-a251-29139aa92c69}" record_timestamp="1423673074525" record_key="CND_MAX_NEUTRAL">
+<notes>Is the player faction NEUTRAL towards NO MORE THAN the specified number of FACTIONS?</notes>
+<option_key>CND_MAX_NEUTRAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{56eb5ed6-4ad0-4c89-998e-89733a71e347}" record_timestamp="1423673074632" record_key="CND_MAX_PROTECTORATES">
+<notes>[BROKEN?] Is the player faction the OVERLORD of NO MORE THAN the specified number of FACTIONS?</notes>
+<option_key>CND_MAX_PROTECTORATES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{33412a8f-dfec-459a-af42-718ed6dab771}" record_timestamp="1423673074738" record_key="CND_MAX_PROVINCES_FULLY_OWNED">
+<notes>Does the player faction fully own NO MORE THAN the specified number of PROVINCES?</notes>
+<option_key>CND_MAX_PROVINCES_FULLY_OWNED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9adbe5b9-7fcf-412a-9563-a73158e4c79e}" record_timestamp="1423673075596" record_key="CND_MAX_REGIONS_OWNED">
+<notes>Does the player faction own NO MORE THAN the specified number of REGIONS?</notes>
+<option_key>CND_MAX_REGIONS_OWNED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1c2f7bf0-0ea5-4b32-a072-bd15458b7898}" record_timestamp="1423673074844" record_key="CND_MAX_REGION_NEIGHBOUR_ALLIED">
+<notes>Is the player faction ALLIED with the owners of NO MORE THAN the specified number of NEIGHBOURING REGIONS?</notes>
+<option_key>CND_MAX_REGION_NEIGHBOUR_ALLIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7f8938a8-72a1-4b08-a141-e7f4b5e77579}" record_timestamp="1423673074950" record_key="CND_MAX_REGION_NEIGHBOUR_MILITARY_ACCESS_GIVEN">
+<notes>[BROKEN?] Has the player faction GIVEN MILITARY ACCESS to the owners of NO MORE THAN the specified number of NEIGHBOURING REGIONS?</notes>
+<option_key>CND_MAX_REGION_NEIGHBOUR_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b241dfb6-49c9-4e82-aa3e-361dcf49f250}" record_timestamp="1423673075057" record_key="CND_MAX_REGION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED">
+<notes>[BROKEN?] Has the player faction RECEIVED MILITARY ACCESS from the owners of NO MORE THAN the specified number of NEIGHBOURING REGIONS?</notes>
+<option_key>CND_MAX_REGION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{88475f36-74b1-4d73-b976-acdd4073033d}" record_timestamp="1423673075164" record_key="CND_MAX_REGION_NEIGHBOUR_NEUTRAL">
+<notes>Is the player faction NEUTRAL towards the owners of NO MORE THAN the specified number of NEIGHBOURING REGIONS?</notes>
+<option_key>CND_MAX_REGION_NEIGHBOUR_NEUTRAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b234cd5f-3ca5-44ce-b1b3-8281d323cb51}" record_timestamp="1423673075270" record_key="CND_MAX_REGION_NEIGHBOUR_PROTECTORATES">
+<notes>[BROKEN?] Is the player faction the OVERLORD of the owners of NO MORE THAN the specified number of NEIGHBOURING REGIONS?</notes>
+<option_key>CND_MAX_REGION_NEIGHBOUR_PROTECTORATES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{cae92276-3734-4217-bd9c-a81d64fe9544}" record_timestamp="1423673075377" record_key="CND_MAX_REGION_NEIGHBOUR_TRADE">
+<notes>Is the player faction TRADING with the owners of NO MORE THAN the specified number of NEIGHBOURING REGIONS?</notes>
+<option_key>CND_MAX_REGION_NEIGHBOUR_TRADE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{74726d36-e6bc-458d-a501-4387baf0adaa}" record_timestamp="1423673075490" record_key="CND_MAX_REGION_NEIGHBOUR_WAR">
+<notes>Is the player faction AT WAR with the owners of NO MORE THAN the specified number of NEIGHBOURING REGIONS?</notes>
+<option_key>CND_MAX_REGION_NEIGHBOUR_WAR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9e00d0d7-07d6-42ba-b5f6-dcf3340bc30a}" record_timestamp="1423673075703" record_key="CND_MAX_REGULAR_EXPENDITURE">
+<notes>Is the player faction SPENDING NO MORE THAN the specified amount every turn?</notes>
+<option_key>CND_MAX_REGULAR_EXPENDITURE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f7845a9d-805f-4b43-8905-7ad60150e4cd}" record_timestamp="1423673075809" record_key="CND_MAX_REGULAR_EXPENDITURE_DIPLOMACY">
+<notes>[BROKEN?] Is the player faction SPENDING NO MORE THAN the specified amount on DIPLOMACY every turn?</notes>
+<option_key>CND_MAX_REGULAR_EXPENDITURE_DIPLOMACY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{08799645-f057-417c-84de-a10fefec3a3d}" record_timestamp="1423673075916" record_key="CND_MAX_REGULAR_EXPENDITURE_POLICING">
+<notes>[BROKEN?] Is the player faction SPENDING NO MORE THAN the specified amount on POLICING every turn?</notes>
+<option_key>CND_MAX_REGULAR_EXPENDITURE_POLICING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{6dcf3b8f-27b6-4d77-9084-35350111e24e}" record_timestamp="1423673076022" record_key="CND_MAX_REGULAR_EXPENDITURE_PROTECTORATE">
+<notes>[BROKEN?] Is the player faction SPENDING NO MORE THAN the specified amount on PROTECTORATES / VASSALS / CLIENTS / SATRAPIES every turn?</notes>
+<option_key>CND_MAX_REGULAR_EXPENDITURE_PROTECTORATE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{66a04567-470a-412c-aed1-6319d7d2e699}" record_timestamp="1423673076129" record_key="CND_MAX_REGULAR_EXPENDITURE_UPKEEP">
+<notes>Is the player faction SPENDING NO MORE THAN the specified amount on TOTAL UPKEEP every turn?</notes>
+<option_key>CND_MAX_REGULAR_EXPENDITURE_UPKEEP</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4a14f7dc-c041-4126-8a83-4a6aa9622cd6}" record_timestamp="1423673076235" record_key="CND_MAX_REGULAR_EXPENDITURE_UPKEEP_ARMY">
+<notes>Is the player faction SPENDING NO MORE THAN the specified amount on ARMY UPKEEP every turn?</notes>
+<option_key>CND_MAX_REGULAR_EXPENDITURE_UPKEEP_ARMY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{85d111c3-6380-49cb-844d-f24d7902400a}" record_timestamp="1423673076341" record_key="CND_MAX_REGULAR_EXPENDITURE_UPKEEP_NAVY">
+<notes>Is the player faction SPENDING NO MORE THAN the specified amount on NAVY UPKEEP every turn?</notes>
+<option_key>CND_MAX_REGULAR_EXPENDITURE_UPKEEP_NAVY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f86e6cbe-2742-472e-a4c1-34375591a037}" record_timestamp="1423673076449" record_key="CND_MAX_REGULAR_INCOME">
+<notes>Is the player faction EARNING NO MORE THAN the specified amount every turn?</notes>
+<option_key>CND_MAX_REGULAR_INCOME</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ead51ffc-986e-46f3-aeab-57d40000c89c}" record_timestamp="1423673076556" record_key="CND_MAX_REGULAR_INCOME_DIPLOMACY">
+<notes>[BROKEN?] Is the player faction EARNING NO MORE THAN the specified amount from DIPLOMACY every turn?</notes>
+<option_key>CND_MAX_REGULAR_INCOME_DIPLOMACY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e6408f68-c307-44e7-a956-ac97c27ce733}" record_timestamp="1423673076664" record_key="CND_MAX_REGULAR_INCOME_PROTECTORATE">
+<notes>[BROKEN?] Is the player faction EARNING NO MORE THAN the specified amount from PROTECTORATES / VASSALS / CLIENTS / SATRAPIES every turn?</notes>
+<option_key>CND_MAX_REGULAR_INCOME_PROTECTORATE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{599b5ad6-9cb6-4d9f-9c41-8a3a3b4775ef}" record_timestamp="1423673076770" record_key="CND_MAX_REGULAR_INCOME_RAIDING">
+<notes>[BROKEN?] Is the player faction EARNING NO MORE THAN the specified amount from RAIDING every turn?</notes>
+<option_key>CND_MAX_REGULAR_INCOME_RAIDING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{6a132cf8-a5d9-46e5-a7c7-4055bf438615}" record_timestamp="1423673076876" record_key="CND_MAX_REGULAR_INCOME_TAXES">
+<notes>[BROKEN?] Is the player faction EARNING NO MORE THAN the specified amount from TAXES every turn?</notes>
+<option_key>CND_MAX_REGULAR_INCOME_TAXES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{2e9451f2-c360-4fa5-b878-603401b42cf8}" record_timestamp="1423673076982" record_key="CND_MAX_REGULAR_INCOME_TRADE">
+<notes>[BROKEN?] Is the player faction EARNING NO MORE THAN the specified amount from TRADE every turn?</notes>
+<option_key>CND_MAX_REGULAR_INCOME_TRADE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8c525cd5-b337-40bc-a353-2f52bff028d4}" record_timestamp="1423673077089" record_key="CND_MAX_TRADE">
+<notes>Is the player faction TRADING with NO MORE THAN the specified number of FACTIONS?</notes>
+<option_key>CND_MAX_TRADE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{20371626-9a39-432e-807d-7eba6cc53734}" record_timestamp="1423673077195" record_key="CND_MAX_TRADE_NODE_OCCUPIED">
+<notes>[OBSOLETE] Is the player faction occupying NO MORE THAN the specified number of TRADE NODES?</notes>
+<option_key>CND_MAX_TRADE_NODE_OCCUPIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c50c7903-58f4-49f1-9d81-981a3ebc4bc2}" record_timestamp="1423673077302" record_key="CND_MAX_TREASURY">
+<notes>Does the player faction have NO MORE THAN the specified amount of money in its coffers?</notes>
+<option_key>CND_MAX_TREASURY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{77beec42-9552-4809-a884-a12890ae8c96}" record_timestamp="1423673077410" record_key="CND_MAX_WAR">
+<notes>Is the player faction AT WAR with NO MORE THAN the specified number of FACTIONS?</notes>
+<option_key>CND_MAX_WAR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{591f99e1-1eca-4425-9925-e96721bc2043}" record_timestamp="1423673077520" record_key="CND_MIN_ALLIED">
+<notes>Is the player faction ALLIED with AT LEAST the specified number of FACTIONS?</notes>
+<option_key>CND_MIN_ALLIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{77a92ada-83bc-4062-87dc-d53ca2b8ba1d}" record_timestamp="1423673077631" record_key="CND_MIN_ARTILLERY_CATEGORY_RATIO">
+<notes>Of all the player faction's UNITS, do AT LEAST the specified proportion of them belong to the ARTILLERY category?</notes>
+<option_key>CND_MIN_ARTILLERY_CATEGORY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{787b8f60-a66a-44cc-9bcd-68555f46e0ec}" record_timestamp="1423673077743" record_key="CND_MIN_BUDDHIST_RATIO">
+<notes>[OBSOLETE] Does the player faction have AT LEAST the specified average proportion of Buddhism across their territory?</notes>
+<option_key>CND_MIN_BUDDHIST_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{093d7411-9352-4a0f-8379-294ffc5f17ad}" record_timestamp="1423673077849" record_key="CND_MIN_CAVALRY_CATEGORY_RATIO">
+<notes>Of all the player faction's UNITS, do AT LEAST the specified proportion of them belong to the CAVALRY category?</notes>
+<option_key>CND_MIN_CAVALRY_CATEGORY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{62092fcb-50cb-4adb-870e-245fb0bfbd47}" record_timestamp="1423673077955" record_key="CND_MIN_CHRISTIAN_RATIO">
+<notes>[OBSOLETE] Does the player faction have AT LEAST the specified average proportion of Christianity across their territory?</notes>
+<option_key>CND_MIN_CHRISTIAN_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{729ae0bd-0001-4359-834a-b198675d36de}" record_timestamp="1423673078060" record_key="CND_MIN_CIVIL_TECHNOLOGY_RATIO">
+<notes>[BROKEN?] Of all the player faction's researched TECHNOLOGIES, are AT LEAST the specified proportion CIVIL TECHNOLOGIES? </notes>
+<option_key>CND_MIN_CIVIL_TECHNOLOGY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{791e7586-7236-4b2e-b1b6-1b3fbd7c4c6f}" record_timestamp="1446044303317" record_key="CND_MIN_COASTAL_REGIONS_OWNED">
+<notes>Does the player faction own AT LEAST the specified number of COASTAL REGIONS? (the region borders the sea - does not necessarily have a port!)</notes>
+<option_key>CND_MIN_COASTAL_REGIONS_OWNED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8f9f1797-691b-496f-8915-a505cd664728}" record_timestamp="1423673078272" record_key="CND_MIN_DAIMYO_HONOUR">
+<notes>[OBSOLETE] Does the player faction's daimyo have AT LEAST the specified amount of Honour.</notes>
+<option_key>CND_MIN_DAIMYO_HONOUR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{20c2d388-c8ea-44eb-a16c-9b98838f6d9b}" record_timestamp="1423673078377" record_key="CND_MIN_ENGINEERING_TECHNOLOGY_RATIO">
+<notes>[BROKEN?] Of all the player faction's researched TECHNOLOGIES, are AT LEAST the specified proportion ENGINEERING TECHNOLOGIES? </notes>
+<option_key>CND_MIN_ENGINEERING_TECHNOLOGY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9177860f-79b3-4e8b-966a-ed362e899b2b}" record_timestamp="1423673078484" record_key="CND_MIN_FACTION_NEIGHBOUR_ALLIED">
+<notes>Is the player faction ALLIED with AT LEAST the specified number of NEIGHBOURING FACTIONS?</notes>
+<option_key>CND_MIN_FACTION_NEIGHBOUR_ALLIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{06658d91-5a10-4f93-a7f7-36081e3a20ce}" record_timestamp="1423673078591" record_key="CND_MIN_FACTION_NEIGHBOUR_MILITARY_ACCESS_GIVEN">
+<notes>[BROKEN?] Has the player faction GIVEN MILITARY ACCESS to AT LEAST the specified number of NEIGHBOURING FACTIONS?</notes>
+<option_key>CND_MIN_FACTION_NEIGHBOUR_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{2d120fe4-90b7-4c1d-9fb8-1952f132a0dc}" record_timestamp="1423673078697" record_key="CND_MIN_FACTION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED">
+<notes>[BROKEN?] Has the player faction RECEIVED MILITARY ACCESS from AT LEAST the specified number of NEIGHBOURING FACTIONS?</notes>
+<option_key>CND_MIN_FACTION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{176ac484-a70e-48d4-9510-0f2870ee44b1}" record_timestamp="1423673078803" record_key="CND_MIN_FACTION_NEIGHBOUR_NEUTRAL">
+<notes>Is the player faction NEUTRAL towards AT LEAST the specified number of NEIGHBOURING FACTIONS?</notes>
+<option_key>CND_MIN_FACTION_NEIGHBOUR_NEUTRAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{035fb8c6-c93c-4b0f-a4c7-da181cc951f2}" record_timestamp="1423673078910" record_key="CND_MIN_FACTION_NEIGHBOUR_PROTECTORATES">
+<notes>[BROKEN?] Is the player faction the OVERLORD of AT LEAST the specified number of NEIGHBOURING FACTIONS?</notes>
+<option_key>CND_MIN_FACTION_NEIGHBOUR_PROTECTORATES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{080f8940-a44d-4786-a486-0d9c3ee2f588}" record_timestamp="1423673079016" record_key="CND_MIN_FACTION_NEIGHBOUR_TRADE">
+<notes>Is the player faction TRADING with AT LEAST the specified number of NEIGHBOURING FACTIONS?</notes>
+<option_key>CND_MIN_FACTION_NEIGHBOUR_TRADE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7dbde509-65e5-4d49-9bd8-600500621e00}" record_timestamp="1423673079122" record_key="CND_MIN_FACTION_NEIGHBOUR_WAR">
+<notes>Is the player faction AT WAR with AT LEAST the specified number of NEIGHBOURING FACTIONS?</notes>
+<option_key>CND_MIN_FACTION_NEIGHBOUR_WAR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{dd986bed-3486-414a-9441-a6f3de4df9a5}" record_timestamp="1423673079228" record_key="CND_MIN_FAME">
+<notes>Does the player faction have AT LEAST the specified amount of FAME / PRESTIGE / IMPERIUM.</notes>
+<option_key>CND_MIN_FAME</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{895e15bb-e959-4530-8329-2fc68e3cd583}" record_timestamp="1423673079333" record_key="CND_MIN_FAME_LEVEL">
+<notes>[OBSOLETE] Is the player faction's  FAME / PRESTIGE / IMPERIUM level NO HIGHER THAN the given Shogun-specific fame level?</notes>
+<option_key>CND_MIN_FAME_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b8ee63c0-ea80-458c-b071-843e4e45ee7c}" record_timestamp="1423673079439" record_key="CND_MIN_FAME_RANK">
+<notes>Is the player faction's  FAME / PRESTIGE / IMPERIUM level NO HIGHER THAN the value specified?</notes>
+<option_key>CND_MIN_FAME_RANK</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3699284b-345c-46ac-8efd-7b94c52557d9}" record_timestamp="1423673079545" record_key="CND_MIN_FORCE_COUNT">
+<notes>Does the player faction have AT LEAST the specified number of MILITARY FORCES.</notes>
+<option_key>CND_MIN_FORCE_COUNT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f541b814-ff07-404c-8aaf-22a1ba63b65d}" record_timestamp="1423673079650" record_key="CND_MIN_HIGHEST_FAME_LEVEL">
+<notes>[OBSOLETE] Was the player faction's  highest ever FAME / PRESTIGE / IMPERIUM level NO HIGHER THAN the given Shogun-specific fame level?</notes>
+<option_key>CND_MIN_HIGHEST_FAME_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{71fb346a-4fdf-40ec-a8ef-86fec33063ca}" record_timestamp="1423673079756" record_key="CND_MIN_INFANTRY_MELEE_CATEGORY_RATIO">
+<notes>Of all the player faction's UNITS, do AT LEAST the specified proportion of them belong to the MELEE INFANTRY category?</notes>
+<option_key>CND_MIN_INFANTRY_MELEE_CATEGORY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0bb0e515-c117-4369-8df6-1fe3ef9f7482}" record_timestamp="1423673079862" record_key="CND_MIN_INFANTRY_RANGED_CATEGORY_RATIO">
+<notes>Of all the player faction's UNITS, do AT LEAST the specified proportion of them belong to the RANGED INFANTRY category?</notes>
+<option_key>CND_MIN_INFANTRY_RANGED_CATEGORY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e08caf53-3847-4412-a083-561b13decb32}" record_timestamp="1423673079968" record_key="CND_MIN_LAND_UNIT_COUNT">
+<notes>Does the player faction have AT LEAST the specified number of LAND UNITS?</notes>
+<option_key>CND_MIN_LAND_UNIT_COUNT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f0fef0ea-1b68-4ec6-8b11-d4b033c7181c}" record_timestamp="1423673080075" record_key="CND_MIN_MERCENARY_UNIT_COUNT">
+<notes>Does the player faction have AT LEAST the specified number of MERCENARY UNITS?</notes>
+<option_key>CND_MIN_MERCENARY_UNIT_COUNT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e95fd8ab-6c4a-41de-a49e-9d6777bf5407}" record_timestamp="1423673080181" record_key="CND_MIN_MILITARY_ACCESS_GIVEN">
+<notes>[BROKEN?] Has the player faction GIVEN MILITARY ACCESS to AT LEAST the specified number of FACTIONS?</notes>
+<option_key>CND_MIN_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f3cf8db4-36d2-44f0-9892-b9b1206dfa5c}" record_timestamp="1423673080288" record_key="CND_MIN_MILITARY_ACCESS_RECEIVED">
+<notes>[BROKEN?] Has the player faction RECEIVED MILITARY ACCESS from AT LEAST the specified number of FACTIONS?</notes>
+<option_key>CND_MIN_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{2f136980-acbb-47a8-b4d6-cc68d4e81559}" record_timestamp="1423673080394" record_key="CND_MIN_MILITARY_TECHNOLOGY_RATIO">
+<notes>[BROKEN?] Of all the player faction's researched TECHNOLOGIES, are AT LEAST the specified proportion MILITARY TECHNOLOGIES? </notes>
+<option_key>CND_MIN_MILITARY_TECHNOLOGY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{01714048-cd57-4492-a0d1-8507f3a4e737}" record_timestamp="1423673080521" record_key="CND_MIN_NAVAL_HEAVY_CATEGORY_RATIO">
+<notes>Of all the player faction's UNITS, do AT LEAST the specified proportion of them belong to the HEAVY NAVAL category?</notes>
+<option_key>CND_MIN_NAVAL_HEAVY_CATEGORY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{71d7b9d4-586f-45fa-9fb6-9d122151776c}" record_timestamp="1423673080639" record_key="CND_MIN_NAVAL_LIGHT_CATEGORY_RATIO">
+<notes>Of all the player faction's UNITS, do AT LEAST the specified proportion of them belong to the LIGHT NAVAL category?</notes>
+<option_key>CND_MIN_NAVAL_LIGHT_CATEGORY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{71680b1a-66df-465b-815d-c06f0587444a}" record_timestamp="1423673080761" record_key="CND_MIN_NAVAL_MEDIUM_CATEGORY_RATIO">
+<notes>Of all the player faction's UNITS, do AT LEAST the specified proportion of them belong to the MEDIUM NAVAL category?</notes>
+<option_key>CND_MIN_NAVAL_MEDIUM_CATEGORY_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{36ad2b5d-356f-43a1-82e9-d91146f3ebd0}" record_timestamp="1423673080868" record_key="CND_MIN_NAVAL_UNIT_COUNT">
+<notes>Does the player faction have AT LEAST the specified number of NAVAL UNITS?</notes>
+<option_key>CND_MIN_NAVAL_UNIT_COUNT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{971039b6-dc24-4d16-8531-e6147d9867af}" record_timestamp="1423673080974" record_key="CND_MIN_NEUTRAL">
+<notes>Is the player faction NEUTRAL towards AT LEAST the specified number of FACTIONS?</notes>
+<option_key>CND_MIN_NEUTRAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{cabda59c-26a3-4a8a-a06a-8cc2413ecb89}" record_timestamp="1423673081080" record_key="CND_MIN_PROTECTORATES">
+<notes>[BROKEN?] Is the player faction the OVERLORD of AT LEAST the specified number of FACTIONS?</notes>
+<option_key>CND_MIN_PROTECTORATES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{40d549ed-5cc0-4644-affa-78d36ce23ce6}" record_timestamp="1423673081187" record_key="CND_MIN_PROVINCES_FULLY_OWNED">
+<notes>Does the player faction fully own AT LEAST the specified number of PROVINCES?</notes>
+<option_key>CND_MIN_PROVINCES_FULLY_OWNED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{fcf94fa6-b9db-4ef1-82fd-7c27c0142d60}" record_timestamp="1423673082039" record_key="CND_MIN_REGIONS_OWNED">
+<notes>Does the player faction own AT LEAST the specified number of REGIONS?</notes>
+<option_key>CND_MIN_REGIONS_OWNED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b2bb3398-0c92-4b0a-b26f-4f3ef8fd3a18}" record_timestamp="1423673081293" record_key="CND_MIN_REGION_NEIGHBOUR_ALLIED">
+<notes>Is the player faction ALLIED with the owners of AT LEAST the specified number of NEIGHBOURING REGIONS?</notes>
+<option_key>CND_MIN_REGION_NEIGHBOUR_ALLIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1b6f2ecb-b120-47b6-a9b8-3d1b16ce217a}" record_timestamp="1423673081400" record_key="CND_MIN_REGION_NEIGHBOUR_MILITARY_ACCESS_GIVEN">
+<notes>[BROKEN?] Has the player faction GIVEN MILITARY ACCESS to the owners of AT LEAST the specified number of NEIGHBOURING REGIONS?</notes>
+<option_key>CND_MIN_REGION_NEIGHBOUR_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{367b90f1-3f81-4945-aa01-5e5bd093ca93}" record_timestamp="1423673081507" record_key="CND_MIN_REGION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED">
+<notes>[BROKEN?] Has the player faction RECEIVED MILITARY ACCESS from the owners of AT LEAST the specified number of NEIGHBOURING REGIONS?</notes>
+<option_key>CND_MIN_REGION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{fac8427b-6c79-4ee2-87da-3ed91bb968c7}" record_timestamp="1423673081614" record_key="CND_MIN_REGION_NEIGHBOUR_NEUTRAL">
+<notes>Is the player faction NEUTRAL towards the owners of AT LEAST the specified number of NEIGHBOURING REGIONS?</notes>
+<option_key>CND_MIN_REGION_NEIGHBOUR_NEUTRAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b51ca0bc-bbeb-45c8-9a57-adbe257767b1}" record_timestamp="1423673081720" record_key="CND_MIN_REGION_NEIGHBOUR_PROTECTORATES">
+<notes>[BROKEN?] Is the player faction the OVERLORD of the owners of AT LEAST the specified number of NEIGHBOURING REGIONS?</notes>
+<option_key>CND_MIN_REGION_NEIGHBOUR_PROTECTORATES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d0719075-48bf-44b1-a053-6bf82a56b546}" record_timestamp="1423673081826" record_key="CND_MIN_REGION_NEIGHBOUR_TRADE">
+<notes>Is the player faction TRADING with the owners of AT LEAST the specified number of NEIGHBOURING REGIONS?</notes>
+<option_key>CND_MIN_REGION_NEIGHBOUR_TRADE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e8b63381-9c38-44ef-83e6-f7a3edf311b4}" record_timestamp="1423673081932" record_key="CND_MIN_REGION_NEIGHBOUR_WAR">
+<notes>Is the player faction AT WAR with the owners of AT LEAST the specified number of NEIGHBOURING REGIONS?</notes>
+<option_key>CND_MIN_REGION_NEIGHBOUR_WAR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{456439e0-4872-4910-9320-169fc3eaec9b}" record_timestamp="1423673082145" record_key="CND_MIN_REGULAR_EXPENDITURE">
+<notes>Is the player faction SPENDING AT LEAST the specified amount every turn?</notes>
+<option_key>CND_MIN_REGULAR_EXPENDITURE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{cd9e1b8a-afd7-41c4-8164-2df90ced7e1f}" record_timestamp="1423673082251" record_key="CND_MIN_REGULAR_EXPENDITURE_DIPLOMACY">
+<notes>[BROKEN?] Is the player faction SPENDING AT LEAST the specified amount on DIPLOMACY every turn?</notes>
+<option_key>CND_MIN_REGULAR_EXPENDITURE_DIPLOMACY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9d1587de-07db-4faf-a124-686d0d7c8225}" record_timestamp="1423673082357" record_key="CND_MIN_REGULAR_EXPENDITURE_POLICING">
+<notes>[BROKEN?] Is the player faction SPENDING AT LEAST the specified amount on POLICING every turn?</notes>
+<option_key>CND_MIN_REGULAR_EXPENDITURE_POLICING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8a61add5-56b6-4c2e-982d-31d6aaf49ddb}" record_timestamp="1423673082463" record_key="CND_MIN_REGULAR_EXPENDITURE_PROTECTORATE">
+<notes>[BROKEN?] Is the player faction SPENDING AT LEAST the specified amount on PROTECTORATES / VASSALS / CLIENTS / SATRAPIES every turn?</notes>
+<option_key>CND_MIN_REGULAR_EXPENDITURE_PROTECTORATE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ada74b3d-6162-4cd8-ba94-2e48686ef606}" record_timestamp="1423673082569" record_key="CND_MIN_REGULAR_EXPENDITURE_UPKEEP">
+<notes>Is the player faction SPENDING AT LEAST the specified amount on TOTAL UPKEEP every turn?</notes>
+<option_key>CND_MIN_REGULAR_EXPENDITURE_UPKEEP</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ec9c0c1c-1632-4742-9866-b2421c3ec72f}" record_timestamp="1423673082675" record_key="CND_MIN_REGULAR_EXPENDITURE_UPKEEP_ARMY">
+<notes>Is the player faction SPENDING AT LEAST the specified amount on ARMY UPKEEP every turn?</notes>
+<option_key>CND_MIN_REGULAR_EXPENDITURE_UPKEEP_ARMY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{043b279c-9d5c-471d-9360-bb5844a01905}" record_timestamp="1423673082781" record_key="CND_MIN_REGULAR_EXPENDITURE_UPKEEP_NAVY">
+<notes>Is the player faction SPENDING AT LEAST the specified amount on NAVY UPKEEP every turn?</notes>
+<option_key>CND_MIN_REGULAR_EXPENDITURE_UPKEEP_NAVY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{02d1e4e8-daba-4474-b411-0df9628eb20c}" record_timestamp="1423673082887" record_key="CND_MIN_REGULAR_INCOME">
+<notes>Is the player faction EARNING AT LEAST the specified amount every turn?</notes>
+<option_key>CND_MIN_REGULAR_INCOME</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{93f24e01-e933-47e3-b1e5-92e504d989ec}" record_timestamp="1423673082992" record_key="CND_MIN_REGULAR_INCOME_DIPLOMACY">
+<notes>[BROKEN?] Is the player faction EARNING AT LEAST the specified amount from DIPLOMACY every turn?</notes>
+<option_key>CND_MIN_REGULAR_INCOME_DIPLOMACY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{42a27726-cd7c-4f2e-92d5-3762ac81d0c9}" record_timestamp="1423673083099" record_key="CND_MIN_REGULAR_INCOME_PROTECTORATE">
+<notes>[BROKEN?] Is the player faction EARNING AT LEAST the specified amount from PROTECTORATES / VASSALS / CLIENTS / SATRAPIES every turn?</notes>
+<option_key>CND_MIN_REGULAR_INCOME_PROTECTORATE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{65678613-3ffd-4b84-b9df-9c086f00a5ba}" record_timestamp="1423673083206" record_key="CND_MIN_REGULAR_INCOME_RAIDING">
+<notes>[BROKEN?] Is the player faction EARNING AT LEAST the specified amount from RAIDING every turn?</notes>
+<option_key>CND_MIN_REGULAR_INCOME_RAIDING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{211e60de-42f3-4624-809b-1b50dee61713}" record_timestamp="1423673083314" record_key="CND_MIN_REGULAR_INCOME_TAXES">
+<notes>[BROKEN?] Is the player faction EARNING AT LEAST the specified amount from TAXES every turn?</notes>
+<option_key>CND_MIN_REGULAR_INCOME_TAXES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{59a82c16-08b9-4a74-8b84-5bb91cf37f37}" record_timestamp="1423673083424" record_key="CND_MIN_REGULAR_INCOME_TRADE">
+<notes>[BROKEN?] Is the player faction EARNING AT LEAST the specified amount from TRADE every turn?</notes>
+<option_key>CND_MIN_REGULAR_INCOME_TRADE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d8a57af0-44f4-48f9-a604-976c7ba82f5e}" record_timestamp="1423673083533" record_key="CND_MIN_TRADE">
+<notes>Is the player faction TRADING with AT LEAST the specified number of FACTIONS?</notes>
+<option_key>CND_MIN_TRADE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{949440b2-b059-4f3a-bfc3-67596a75e706}" record_timestamp="1423673083641" record_key="CND_MIN_TRADE_NODE_OCCUPIED">
+<notes>[OBSOLETE] Is the player faction occupying AT LEAST the specified number of TRADE NODES?</notes>
+<option_key>CND_MIN_TRADE_NODE_OCCUPIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3b448c26-17ef-4a89-993c-c6e37eb05afe}" record_timestamp="1423673083748" record_key="CND_MIN_TREASURY">
+<notes>Does the player faction have AT LEAST the specified amount of money in its coffers?</notes>
+<option_key>CND_MIN_TREASURY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4848e50c-480e-463b-b86f-86b486a405eb}" record_timestamp="1423673083857" record_key="CND_MIN_WAR">
+<notes>Is the player faction AT WAR with AT LEAST the specified number of FACTIONS?</notes>
+<option_key>CND_MIN_WAR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7e1885b3-022d-44fe-9117-142c2f4c7be9}" record_timestamp="1423673083966" record_key="CND_MISSION_ACTIVE">
+<notes>Is the key-specified MISSION currently in play?</notes>
+<option_key>CND_MISSION_ACTIVE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{91287837-3e98-4a2f-9071-855574c24da5}" record_timestamp="1423673084074" record_key="CND_MISSION_FAILED">
+<notes>Has the key-specified MISSION been FAILED by the player during this campaign?</notes>
+<option_key>CND_MISSION_FAILED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3af70452-009f-4e69-83f2-7e777a4aa7c9}" record_timestamp="1423673084183" record_key="CND_MISSION_GENERATED">
+<notes>Has the key-specified MISSION been GENERATED for the player during this campaign? Multiple use operator: OR.</notes>
+<option_key>CND_MISSION_GENERATED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{efdf80d4-5825-4642-891f-b41282ff9ee2}" record_timestamp="1423673084291" record_key="CND_MISSION_ISSUER_ROUNDS_UNTIL_NEXT">
+<notes>Specify the number of ROUNDS that must elapse before another MISSION associated with the same MISSION ISSUER as this one can be GENERATED.</notes>
+<option_key>CND_MISSION_ISSUER_ROUNDS_UNTIL_NEXT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{72c67d0c-6282-490b-9856-89abdfb35b50}" record_timestamp="1423673084405" record_key="CND_MISSION_NOT_ACTIVE">
+<notes>Is the key-specified MISSION NOT currently in play?</notes>
+<option_key>CND_MISSION_NOT_ACTIVE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{194ddc4f-6668-4da5-baf9-ad47129f8ad1}" record_timestamp="1423673084515" record_key="CND_MISSION_NOT_GENERATED">
+<notes>Has the key-specified MISSION NOT been GENERATED for the player during this campaign? Multiple use operator: OR.</notes>
+<option_key>CND_MISSION_NOT_GENERATED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{61a4d5bf-5828-4e87-9569-00b06d29ee7a}" record_timestamp="1423673084622" record_key="CND_MISSION_SUCCEEDED">
+<notes>Has the key-specified MISSION been SUCCEEDED by the player during this campaign?</notes>
+<option_key>CND_MISSION_SUCCEEDED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5e1aed7b-ab35-454b-8c76-3e600cff5fd6}" record_timestamp="1423673084727" record_key="CND_MISSION_TYPE_ROUNDS_UNTIL_NEXT">
+<notes>Specify the number of ROUNDS that must elapse before another MISSION associated with the same MISSION TYPE as this one can be GENERATED.</notes>
+<option_key>CND_MISSION_TYPE_ROUNDS_UNTIL_NEXT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{aa422336-5340-4516-a7af-5a6c2ecdeefd}" record_timestamp="1423673084836" record_key="CND_MULTIPLAYER">
+<notes>Is the CAMPAIGN being played a MULTIPLAYER one?</notes>
+<option_key>CND_MULTIPLAYER</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f2b3c57d-cd27-4125-a5d0-3015a6a1b2c2}" record_timestamp="1423673084942" record_key="CND_NAVY_CAP_FREE">
+<notes>Can the player faction sustain ADDITIONAL NAVIES?</notes>
+<option_key>CND_NAVY_CAP_FREE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d493af51-7bbe-4238-8537-70929a54e75e}" record_timestamp="1423673085048" record_key="CND_NEUTRAL_WITH">
+<notes>Is the player faction NEUTRAL towards the key-specified FACTION? Multiple use operator: AND.</notes>
+<option_key>CND_NEUTRAL_WITH</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e1826683-d07e-45d6-9b46-ebb3b2a1f089}" record_timestamp="1423673085154" record_key="CND_NOT_ALLIED_WITH">
+<notes>Is the player faction NOT ALLIED with the key-specified FACTION? Multiple use operator: AND.</notes>
+<option_key>CND_NOT_ALLIED_WITH</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{142dbe37-e4dd-4a7b-8b26-8cf69c107d22}" record_timestamp="1423673085260" record_key="CND_NOT_ALLIED_WITH_SUBCULTURE">
+<notes>Is the player faction NOT ALLIED with AT LEAST ONE FACTION belonging to the key-specified SUBCULTURE? Multiple use operator: UNSURE!</notes>
+<option_key>CND_NOT_ALLIED_WITH_SUBCULTURE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ad25a39c-a544-408a-a581-6f1434e959b9}" record_timestamp="1423673085367" record_key="CND_NOT_ALLY_SHOGUN">
+<notes>[OBSOLETE] Is the player faction not allied with whichever clan rules the Shogunate?</notes>
+<option_key>CND_NOT_ALLY_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c8ce8668-d73e-4750-b56e-a7936e4f2963}" record_timestamp="1423673085473" record_key="CND_NOT_ARMY_CAP_FREE">
+<notes>Can the player faction NOT sustain ADDITIONAL ARMIES?</notes>
+<option_key>CND_NOT_ARMY_CAP_FREE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ebdf9f44-c01e-467c-b96a-548e397d053d}" record_timestamp="1423673085579" record_key="CND_NOT_ARMY_IN_ENEMY_REGION">
+<notes>Does the player faction NOT have AT LEAST ONE ARMY in an ENEMY REGION?</notes>
+<option_key>CND_NOT_ARMY_IN_ENEMY_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4f06e4be-aa28-4fbc-b6c9-b31b9ff4ac17}" record_timestamp="1423673085686" record_key="CND_NOT_ASHIKAGA_SHOGUN">
+<notes>[OBSOLETE] Does the Ashikaga clan not rule the Shogunate?</notes>
+<option_key>CND_NOT_ASHIKAGA_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{650a050f-0470-4515-b018-b7fe847ee375}" record_timestamp="1455199051319" record_key="CND_NOT_AT_WAR_SUBCULTURE">
+<notes>Is the player faction NOT AT WAR with any factions belonging to the key-specified SUBCULTURE?</notes>
+<option_key>CND_NOT_AT_WAR_SUBCULTURE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{de0724e4-3b5f-43cd-b110-995c0ac1a41c}" record_timestamp="1423673085793" record_key="CND_NOT_BUILDING_CHAIN">
+<notes>Does the player faction NOT have AT LEAST ONE instance of the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>CND_NOT_BUILDING_CHAIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{58fe6f05-4176-4ad7-9692-8aa0179e799c}" record_timestamp="1423673085900" record_key="CND_NOT_BUILDING_CHAIN_AVAILABLE">
+<notes>Is the player faction NOT currently able to CONSTRUCT the key-specified BUILDING CHAIN in one of their settlements? Multiple use operator: AND.</notes>
+<option_key>CND_NOT_BUILDING_CHAIN_AVAILABLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a4e0ef36-c1e9-4b20-8a87-ac7c63f28860}" record_timestamp="1423673086006" record_key="CND_NOT_BUILDING_LEVEL">
+<notes>Does the player faction NOT have AT LEAST ONE instance of the key-specified BUILDING LEVEL? Multiple use operator: AND.</notes>
+<option_key>CND_NOT_BUILDING_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{42bbf6b6-728f-4ca5-92f2-5f8f480ade83}" record_timestamp="1423673086113" record_key="CND_NOT_BUILDING_LEVEL_AVAILABLE">
+<notes>Is the player faction NOT currently able to CONSTRUCT the key-specified BUILDING LEVEL in one of their settlements? Multiple use operator: AND.</notes>
+<option_key>CND_NOT_BUILDING_LEVEL_AVAILABLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9210eb2e-4128-450a-8424-e79c4643358e}" record_timestamp="1423673086219" record_key="CND_NOT_CAN_RECRUIT_UNIT">
+<notes>Can the player faction currently NOT RECRUIT the unit_key-specified UNIT? Multiple use operator: UNSURE!</notes>
+<option_key>CND_NOT_CAN_RECRUIT_UNIT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d8ad192e-7a43-4004-b797-92da0a995d6b}" record_timestamp="1423673086325" record_key="CND_NOT_CAN_RECRUIT_UNIT_CASTE">
+<notes>Can the player faction currently NOT RECRUIT the unit_caste-specified UNIT? Multiple use operator: UNSURE!</notes>
+<option_key>CND_NOT_CAN_RECRUIT_UNIT_CASTE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b67a751f-2353-46c7-ba83-f80c9769f961}" record_timestamp="1423673086432" record_key="CND_NOT_CAN_RECRUIT_UNIT_CATEGORY">
+<notes>Can the player faction currently NOT RECRUIT the unit_category-specified UNIT? Multiple use operator: UNSURE!</notes>
+<option_key>CND_NOT_CAN_RECRUIT_UNIT_CATEGORY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9e4c2653-59c4-459a-a088-627222cc9f8e}" record_timestamp="1423673086542" record_key="CND_NOT_CAN_RECRUIT_UNIT_CLASS">
+<notes>Can the player faction currently NOT RECRUIT the unit_class-specified UNIT? Multiple use operator: UNSURE!</notes>
+<option_key>CND_NOT_CAN_RECRUIT_UNIT_CLASS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{66420921-f26c-4073-be7e-f465ad3a100d}" record_timestamp="1423673086651" record_key="CND_NOT_ENEMY_ARMY_IN_REGION">
+<notes>Is there NOTan ENEMY ARMY in any of the player faction's REGIONS?</notes>
+<option_key>CND_NOT_ENEMY_ARMY_IN_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{15998f37-1670-4646-a5a6-15bedc6604f8}" record_timestamp="1423673086760" record_key="CND_NOT_HAS_AGENT">
+<notes>Does the player faction NOT have AT LEAST ONE instance of the key-specified AGENT? Multiple use operator: UNSURE!</notes>
+<option_key>CND_NOT_HAS_AGENT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{79a814cf-6c59-49ce-bb74-ab261447b602}" record_timestamp="1423673086902" record_key="CND_NOT_HAS_ARMY">
+<notes>Does the player faction NOT have AT LEAST ONE ARMY?</notes>
+<option_key>CND_NOT_HAS_ARMY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{75c329fe-85b8-4789-9ff0-6e5a16f0a14e}" record_timestamp="1423673087031" record_key="CND_NOT_HAS_NAVY">
+<notes>Does the player faction NOT have AT LEAST ONE NAVY?</notes>
+<option_key>CND_NOT_HAS_NAVY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1898ad11-4946-495a-8730-bbda2b070a72}" record_timestamp="1423673087154" record_key="CND_NOT_IS_BECOMING_SHOGUN">
+<notes>[OBSOLETE] Is the player faction not in the process of assuming control of the Shogunate?</notes>
+<option_key>CND_NOT_IS_BECOMING_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7fbeef16-7798-42e0-a441-e1b79d2fe01d}" record_timestamp="1423673087284" record_key="CND_NOT_IS_SHOGUN">
+<notes>[OBSOLETE] Does the player faction not rule the Shogunate?</notes>
+<option_key>CND_NOT_IS_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{34e60fd6-9493-4308-abf1-37764a083ed9}" record_timestamp="1423673087420" record_key="CND_NOT_MULTIPLAYER">
+<notes>Is the CAMPAIGN being played NOT a MULTIPLAYER one?</notes>
+<option_key>CND_NOT_MULTIPLAYER</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5dbc3977-1642-45d7-8fc9-67a9cc0fdb34}" record_timestamp="1423673087545" record_key="CND_NOT_NAVY_CAP_FREE">
+<notes>Can the player faction NOT sustain ADDITIONAL NAVIES?</notes>
+<option_key>CND_NOT_NAVY_CAP_FREE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c403918b-4b6d-4108-9681-0e7831d325f2}" record_timestamp="1423673087685" record_key="CND_NOT_NEUTRAL_WITH">
+<notes>Is the player faction NOT NEUTRAL towards the key-specified FACTION? Multiple use operator: AND.</notes>
+<option_key>CND_NOT_NEUTRAL_WITH</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{68ca3a5b-aa38-4b9f-8ed8-c9dcf1523b6a}" record_timestamp="1423673087812" record_key="CND_NOT_OWNS_HOME_REGION">
+<notes>Does the player faction NOT OWN their HOME REGION?</notes>
+<option_key>CND_NOT_OWNS_HOME_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{2cd5755b-cb45-4d79-be63-c5a0b10e9504}" record_timestamp="1423673087943" record_key="CND_NOT_OWNS_REGION">
+<notes>Does the player faction NOT OWN the key-specified REGION?</notes>
+<option_key>CND_NOT_OWNS_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{2c9bfe1d-16e0-4598-b58e-e628ff2c2f4c}" record_timestamp="1423673088068" record_key="CND_NOT_POLITICAL_PARTY">
+<notes>Does the player NOT belong to the key-specified POLITICAL PARTY?</notes>
+<option_key>CND_NOT_POLITICAL_PARTY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e6fd9b3f-a446-481b-a721-b8b456c3b6af}" record_timestamp="1423673088194" record_key="CND_NOT_PORT_BLOCKADED">
+<notes>Is the player faction NOT currently suffering from a BLOCKADE somewhere?</notes>
+<option_key>CND_NOT_PORT_BLOCKADED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{598c3f98-158d-4ecf-b275-4a830b0aeb5a}" record_timestamp="1423673088323" record_key="CND_NOT_REALM_DIVIDE">
+<notes>[OBSOLETE] Has the player faction NOT experienced realm divide yet?</notes>
+<option_key>CND_NOT_REALM_DIVIDE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f063da3e-55d6-44d8-b4b2-abf7898c1b8a}" record_timestamp="1423673088462" record_key="CND_NOT_REBELLION">
+<notes>Is the player faction NOT currently experiencing a REBELLION somewhere?</notes>
+<option_key>CND_NOT_REBELLION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ef071ab6-636f-4620-ab36-7f1c8edf8e79}" record_timestamp="1423673088585" record_key="CND_NOT_RELIGION">
+<notes>Does the player faction NOT belong to a key-specified RELIGION? Multiple use operator: OR.</notes>
+<option_key>CND_NOT_RELIGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ed35ce35-1840-4e51-b9ba-1c5c12c73d53}" record_timestamp="1423673088715" record_key="CND_NOT_RESEARCHING_TECHNOLOGY_CIVIL">
+<notes>Is the player faction NOT currently RESEARCHING a CIVIL TECHNOLOGY?</notes>
+<option_key>CND_NOT_RESEARCHING_TECHNOLOGY_CIVIL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b49094a8-3d35-4f4f-ab69-daa30646b243}" record_timestamp="1423673088859" record_key="CND_NOT_RESEARCHING_TECHNOLOGY_ENGINEERING">
+<notes>Is the player faction NOT currently RESEARCHING an ENGINEERING TECHNOLOGY?</notes>
+<option_key>CND_NOT_RESEARCHING_TECHNOLOGY_ENGINEERING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a0107c64-3101-4030-a572-a6b64e2002dc}" record_timestamp="1423673088984" record_key="CND_NOT_RESEARCHING_TECHNOLOGY_MILITARY">
+<notes>Is the player faction NOT currently RESEARCHING a MILITARY TECHNOLOGY?</notes>
+<option_key>CND_NOT_RESEARCHING_TECHNOLOGY_MILITARY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e2478f6c-f952-4c47-b152-3d1b8a392407}" record_timestamp="1423673089106" record_key="CND_NOT_SEASON">
+<notes>Is it NOT currently the key-specified SEASON? Multiple use operator: OR.</notes>
+<option_key>CND_NOT_SEASON</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{62039e14-e99f-48c8-b3bb-4718e9aee696}" record_timestamp="1423673089240" record_key="CND_NOT_SLOT_TYPE">
+<notes>[OBSOLETE?] Does the player faction own an instance of the key-specified slot type?</notes>
+<option_key>CND_NOT_SLOT_TYPE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0fcfcfad-974c-4c51-a475-4abe1683203e}" record_timestamp="1423673089371" record_key="CND_NOT_TECHNOLOGY_RESEARCHED">
+<notes>Has the player NOT RESEARCHED the key-specified TECHNOLOGY?</notes>
+<option_key>CND_NOT_TECHNOLOGY_RESEARCHED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d4f11b7a-1d4a-4bd9-8262-ef48728435cb}" record_timestamp="1423673089485" record_key="CND_NOT_TRADE_NODE_GROUP_OCCUPIED">
+<notes>[OBSOLETE] Is the player NOT currently occupying a key-specified trade node group?</notes>
+<option_key>CND_NOT_TRADE_NODE_GROUP_OCCUPIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{bec1ab96-0729-4af6-b489-699af5e87cd2}" record_timestamp="1423673089596" record_key="CND_NOT_TRADE_NODE_OCCUPIED">
+<notes>[OBSOLETE] Is the player NOT currently occupying a key-specified trade node?</notes>
+<option_key>CND_NOT_TRADE_NODE_OCCUPIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d2ff18b4-3a7f-4ed0-958c-5b98f09e89ea}" record_timestamp="1423673089703" record_key="CND_NOT_TRADE_WITH">
+<notes>Is the player faction NOT TRADING with the key-specified FACTION? Multiple use operator: AND.</notes>
+<option_key>CND_NOT_TRADE_WITH</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7d85efb9-15dc-4dc6-a18d-b9b9df7e4779}" record_timestamp="1423673089817" record_key="CND_NOT_WAR_SHOGUN">
+<notes>[OBSOLETE] Is the player faction NOT at war with the Shogunate?</notes>
+<option_key>CND_NOT_WAR_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c231664c-2435-4138-bb04-aaf75c0c5f80}" record_timestamp="1423673089928" record_key="CND_NOT_WAR_WITH">
+<notes>Is the player faction NOT AT WAR with the key-specified FACTION? Multiple use operator: AND.</notes>
+<option_key>CND_NOT_WAR_WITH</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{897387d4-7b48-4f07-9784-6ec654516350}" record_timestamp="1423673090039" record_key="CND_OWNS_HOME_REGION">
+<notes>Does the player faction OWN their HOME REGION?</notes>
+<option_key>CND_OWNS_HOME_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7aad32e4-d311-4e7a-a97e-df0c46b4b614}" record_timestamp="1423673090148" record_key="CND_OWNS_REGION">
+<notes>Does the player faction OWN the key-specified REGION?</notes>
+<option_key>CND_OWNS_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{233f61fa-6561-4380-9a29-2453f6991cc4}" record_timestamp="1423673090255" record_key="CND_POLITICAL_PARTY">
+<notes>Does the player belong to the key-specified POLITICAL PARTY?</notes>
+<option_key>CND_POLITICAL_PARTY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1d3ef440-30c1-4779-9b72-d8925154c605}" record_timestamp="1423673090363" record_key="CND_PORT_BLOCKADED">
+<notes>Is the player faction currently suffering from a BLOCKADE somewhere?</notes>
+<option_key>CND_PORT_BLOCKADED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{55abc602-ee21-4b2e-985e-0da8f259eb07}" record_timestamp="1423673090478" record_key="CND_PROTECTED">
+<notes>[BROKEN?] Is the player faction currently somebody else's PROTECTORATE?</notes>
+<option_key>CND_PROTECTED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{34ee48bb-b431-4419-9a90-6f888c8d5be6}" record_timestamp="1423673090588" record_key="CND_RANDOM">
+<notes>Specify a further PERCENTAGE CHANCE that this EVENT will be GENERATED in spite of all its OPTIONS / CONDITIONS being satisfied. Used mainly for PRIORITISED EVENTS (always triggering).</notes>
+<option_key>CND_RANDOM</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{64ba0fc3-6419-444f-b68b-04d6fe6df063}" record_timestamp="1423673090694" record_key="CND_REALM_DIVIDE">
+<notes>[OBSOLETE] Has the player faction experienced realm divide yet?</notes>
+<option_key>CND_REALM_DIVIDE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c2d0b789-85fc-4347-a232-7f393b95c9ec}" record_timestamp="1423673090799" record_key="CND_REBELLION">
+<notes>Is the player faction currently experiencing a REBELLION somewhere?</notes>
+<option_key>CND_REBELLION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{710abd1f-4915-4f8f-8bfa-eb4cdfdc94c3}" record_timestamp="1423673090905" record_key="CND_RELIGION">
+<notes>Does the player faction belong to a key-specified RELIGION? Multiple use operator: OR.</notes>
+<option_key>CND_RELIGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{25838f48-9179-4e00-af38-349bca7cfc12}" record_timestamp="1423673091011" record_key="CND_RESEARCHING_TECHNOLOGY_CIVIL">
+<notes>Is the player faction currently RESEARCHING a CIVIL TECHNOLOGY?</notes>
+<option_key>CND_RESEARCHING_TECHNOLOGY_CIVIL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{62db3dfa-e035-4185-a5d3-dde6884a2b73}" record_timestamp="1423673091117" record_key="CND_RESEARCHING_TECHNOLOGY_ENGINEERING">
+<notes>Is the player faction currently RESEARCHING an ENGINEERING TECHNOLOGY?</notes>
+<option_key>CND_RESEARCHING_TECHNOLOGY_ENGINEERING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c23a5017-8768-4eea-82fb-37ff02e033be}" record_timestamp="1423673091223" record_key="CND_RESEARCHING_TECHNOLOGY_MILITARY">
+<notes>Is the player faction currently RESEARCHING a MILITARY TECHNOLOGY?</notes>
+<option_key>CND_RESEARCHING_TECHNOLOGY_MILITARY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{26eb0ff5-275e-4f6e-acf0-65efe0ae032c}" record_timestamp="1423673091329" record_key="CND_ROUNDS_UNTIL_NEXT">
+<notes>Specify the number of ROUNDS that must elapse before the SAME EVENT can be GENERATED again. The EVENT cannot be UNIQUE.</notes>
+<option_key>CND_ROUNDS_UNTIL_NEXT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{060fc404-4e9f-42c9-b296-f334822a8164}" record_timestamp="1423673091438" record_key="CND_SEASON">
+<notes>Is it NOT currently the key-specified SEASON? Multiple use operator: OR.</notes>
+<option_key>CND_SEASON</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4250cf33-02e9-4904-a1ec-bb30f340db58}" record_timestamp="1423673091544" record_key="CND_SLOT_TYPE">
+<notes>[OBSOLETE?] Does the player faction own an instance of the key-specified slot type?</notes>
+<option_key>CND_SLOT_TYPE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{6d41e1c7-e5ca-4e76-84be-3bf309868a53}" record_timestamp="1423673091649" record_key="CND_TECHNOLOGY_RESEARCHED">
+<notes>Has the player NOT RESEARCHED the key-specified TECHNOLOGY?</notes>
+<option_key>CND_TECHNOLOGY_RESEARCHED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b82c58d9-58ae-4cca-a7b8-e498aa10934d}" record_timestamp="1423673091754" record_key="CND_TRADE_NODE_GROUP_OCCUPIED">
+<notes>[OBSOLETE] Is the player NOT currently occupying a key-specified trade node group?</notes>
+<option_key>CND_TRADE_NODE_GROUP_OCCUPIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4422aba1-8180-4cd1-aa7d-4e481c430679}" record_timestamp="1423673091860" record_key="CND_TRADE_NODE_OCCUPIED">
+<notes>[OBSOLETE] Is the player NOT currently occupying a key-specified trade node?</notes>
+<option_key>CND_TRADE_NODE_OCCUPIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9941adf9-cd6d-4526-b811-e598e448cf73}" record_timestamp="1423673091966" record_key="CND_TRADE_WITH">
+<notes>Is the player faction TRADING with the key-specified FACTION? Multiple use operator: AND.</notes>
+<option_key>CND_TRADE_WITH</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9348f952-a454-40ec-9e19-f19d469c16db}" record_timestamp="1423673092071" record_key="CND_UNIQUE">
+<notes>Specify that the EVENT is UNIQUE. Once GENERATED, it will NEVER be GENERATED again.</notes>
+<option_key>CND_UNIQUE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ff7d596c-c4aa-4702-b61f-34c629553922}" record_timestamp="1423673092177" record_key="CND_WAR_SHOGUN">
+<notes>[OBSOLETE] Is the player faction at war with the Shogunate?</notes>
+<option_key>CND_WAR_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8d66ae77-625e-48d4-94f6-9d875a4f045c}" record_timestamp="1423673092281" record_key="CND_WAR_WITH">
+<notes>Is the player faction AT WAR with the key-specified FACTION? Multiple use operator: AND.</notes>
+<option_key>CND_WAR_WITH</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{bbd8b6cd-049c-4759-82db-7ca7da1688ba}" record_timestamp="1423673092388" record_key="GEN_CND_AGENT">
+<notes>Is the EVENT TARGET CHARACTER an AGENT?</notes>
+<option_key>GEN_CND_AGENT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{da1fd017-cce1-4e77-89e7-d278f94b754d}" record_timestamp="1423673092494" record_key="GEN_CND_AGENT_METSUKE">
+<notes>[OBSOLETE] Is the EVENT TARGET CHARACTER a Metsuke?</notes>
+<option_key>GEN_CND_AGENT_METSUKE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f7924029-96e2-4a8f-b4a2-3464a18508c9}" record_timestamp="1423673092599" record_key="GEN_CND_AGENT_MISSIONARY">
+<notes>[OBSOLETE] Is the EVENT TARGET CHARACTER a Missionary?</notes>
+<option_key>GEN_CND_AGENT_MISSIONARY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1123fed9-10ae-49bd-b0a8-68b57e7eda52}" record_timestamp="1423673092705" record_key="GEN_CND_AGENT_MONK">
+<notes>[OBSOLETE] Is the EVENT TARGET CHARACTER a Monk?</notes>
+<option_key>GEN_CND_AGENT_MONK</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{947ded36-109e-4ef9-9d0a-1bc66e0d14b3}" record_timestamp="1423673092810" record_key="GEN_CND_AGENT_NINJA">
+<notes>[OBSOLETE] Is the EVENT TARGET CHARACTER a Ninja?</notes>
+<option_key>GEN_CND_AGENT_NINJA</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7ab979b7-3185-4190-a786-3955936ed67e}" record_timestamp="1481887379484" record_key="GEN_CND_AGENT_SUBTYPE">
+<notes>Specify that a EVENT TARGET CHARACTER must be the specified Agent Subtype.</notes>
+<option_key>GEN_CND_AGENT_SUBTYPE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5f745e16-9e04-4c6e-876d-0986f9899e49}" record_timestamp="1423673092916" record_key="GEN_CND_ALLIED_WITH_ALLY">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) ALLIED with AN ALLY of the player faction?</notes>
+<option_key>GEN_CND_ALLIED_WITH_ALLY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4bdb5061-e11b-45ea-9ee4-0afec19aa702}" record_timestamp="1423673093022" record_key="GEN_CND_ALLIED_WITH_ENEMY">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) ALLIED with AN ENEMY of the player faction?</notes>
+<option_key>GEN_CND_ALLIED_WITH_ENEMY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{2235dbc8-7b0f-47a9-9949-deeb5d3425db}" record_timestamp="1445593523269" record_key="GEN_CND_ALLOW_REBELS">
+<notes>Speify that you allow tageting of rebel regions for region target generation... Only work in conjuction with GEN_CND_REGION</notes>
+<option_key>GEN_CND_ALLOW_REBELS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8ee8e30b-69dd-49e6-8c35-6c9c01a9dd24}" record_timestamp="1423673093127" record_key="GEN_CND_ALLY_SHOGUN">
+<notes>[OBSOLETE] Is the event target or its owner an ally of the Shogunate?</notes>
+<option_key>GEN_CND_ALLY_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e88686d5-29cd-4ee1-a8c6-a11a03efa775}" record_timestamp="1423673093232" record_key="GEN_CND_ARMY_IN_REGION">
+<notes>Does the player have at least ONE ARMY in the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) ?</notes>
+<option_key>GEN_CND_ARMY_IN_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{40045173-897e-4ee9-8830-3cab4c01b8e6}" record_timestamp="1423673093337" record_key="GEN_CND_BECOMING_SHOGUN">
+<notes>[OBSOLETE] Is the EVENT TARGET FACTION assuming control of the Shogunate?</notes>
+<option_key>GEN_CND_BECOMING_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1f674b33-a2a4-4e00-b19e-f6f8ded0b076}" record_timestamp="1423673093443" record_key="GEN_CND_CAPITAL_REGION">
+<notes>Does the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED)  contain a FACTION CAPITAL?</notes>
+<option_key>GEN_CND_CAPITAL_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{dd38ae6b-1322-4534-9722-29f2ea7a5c09}" record_timestamp="1423673093548" record_key="GEN_CND_CHARACTER_BATTLE_VICTORY_PERCENT">
+<notes>Of the BATTLES FOUGHT by this EVENT TARGET CHARACTER, have the specified PERCENTAGE of VICTORIES been achieved?</notes>
+<option_key>GEN_CND_CHARACTER_BATTLE_VICTORY_PERCENT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b6ed5a01-280b-413a-8140-e30d6b414b0b}" record_timestamp="1437490621689" record_key="GEN_CND_CHARACTER_ID">
+<notes>The character Id given to them in the startpos data</notes>
+<option_key>GEN_CND_CHARACTER_ID</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3dfe5adc-a14b-4e8f-ab25-40a4d9672de5}" record_timestamp="1423673093653" record_key="GEN_CND_CHARACTER_NOT_TRAIT">
+<notes>Does the EVENT TARGET CHARACTER NOT have the key-specified TRAIT.</notes>
+<option_key>GEN_CND_CHARACTER_NOT_TRAIT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d0e020c8-3b4f-4345-85ea-66bb0eabb7be}" record_timestamp="1423673093759" record_key="GEN_CND_CHARACTER_TRAIT">
+<notes>Does the EVENT TARGET CHARACTER have the key-specified TRAIT.</notes>
+<option_key>GEN_CND_CHARACTER_TRAIT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{391e38ba-a248-4e30-879d-65971ef8fd36}" record_timestamp="1423673093864" record_key="GEN_CND_CHARACTER_TYPE">
+<notes>Specify that a EVENT TARGET CHARACTER must be a key-specified CHARACTER TYPE.</notes>
+<option_key>GEN_CND_CHARACTER_TYPE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0440a6ce-8b04-42d1-9d67-75c7d811a7d5}" record_timestamp="1423673093970" record_key="GEN_CND_DAIMYO">
+<notes>[OBSOLETE] Is the event target character a Daimyo?</notes>
+<option_key>GEN_CND_DAIMYO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0036ebb4-d015-4203-9840-4fc1ecfcffe5}" record_timestamp="1423673094076" record_key="GEN_CND_DEFENSIVE_ALLIED">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) DEFENSIVE ALLIES with the player faction?</notes>
+<option_key>GEN_CND_DEFENSIVE_ALLIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4a83ae9a-663a-4517-9022-23bf5df250ed}" record_timestamp="1423673094181" record_key="GEN_CND_DIPLOMACY_AVAILABLE">
+<notes>Can the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) engage in diplomacy with the player faction?</notes>
+<option_key>GEN_CND_DIPLOMACY_AVAILABLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{109e97f6-dcd3-405d-a906-0974bce3dbca}" record_timestamp="1423673094286" record_key="GEN_CND_EMBARKED">
+<notes>Is the EVENT TARGET embarked upon the sea? Used primarily for ARMY targets.</notes>
+<option_key>GEN_CND_EMBARKED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{45bc02b2-c44e-48eb-a4a1-36626705e6e1}" record_timestamp="1423673094391" record_key="GEN_CND_ENEMY_OF_YOUR_ALLY_WITH_SUBCULTURE">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) an ENEMY of one of the player faction's ALLIES that belongs to the key-specified SUBCULTURE.</notes>
+<option_key>GEN_CND_ENEMY_OF_YOUR_ALLY_WITH_SUBCULTURE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{66835bb2-f9ed-4424-9640-dd201799d9e5}" record_timestamp="1437490628066" record_key="GEN_CND_FACTION">
+<notes>The key of the targeted faction</notes>
+<option_key>GEN_CND_FACTION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{640ea7a5-c60a-49bb-a912-439f7673feb4}" record_timestamp="1423673094496" record_key="GEN_CND_FACTION_BUILDING_CHAIN">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) possess an instance of the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_FACTION_BUILDING_CHAIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c359166f-763f-4097-ae95-3d2e544c18ae}" record_timestamp="1423673094602" record_key="GEN_CND_FACTION_BUILDING_CHAIN_AVAILABLE">
+<notes>Can the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently CONSTRUCT the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_FACTION_BUILDING_CHAIN_AVAILABLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3342301a-7bec-4e93-b241-5908ab51df46}" record_timestamp="1423673094709" record_key="GEN_CND_FACTION_BUILDING_LEVEL">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) possess an instance of the key-specified BUILDING LEVEL? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_FACTION_BUILDING_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4aa2bc36-450c-4e25-b5fd-237e04a8eef2}" record_timestamp="1423673094815" record_key="GEN_CND_FACTION_COASTAL">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently hold a COASTAL REGION?</notes>
+<option_key>GEN_CND_FACTION_COASTAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f5f0e22f-2b6e-41fc-886d-4030a50ffe2c}" record_timestamp="1423673094920" record_key="GEN_CND_FACTION_CONSTRUCTING">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently in the process of CONSTRUCTING a BUILDING?</notes>
+<option_key>GEN_CND_FACTION_CONSTRUCTING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e5dc7b5f-6f8c-499e-9305-e8c27bbeb7ab}" record_timestamp="1423673095027" record_key="GEN_CND_FACTION_HAS_ARMY">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently have an ARMY?</notes>
+<option_key>GEN_CND_FACTION_HAS_ARMY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{2e8c7740-81b0-49c7-afe5-351a4675aa84}" record_timestamp="1423673095133" record_key="GEN_CND_FACTION_HAS_NAVY">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently have a NAVY?</notes>
+<option_key>GEN_CND_FACTION_HAS_NAVY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{63aefe2a-79fb-45cb-bb61-78665de80c72}" record_timestamp="1423673095238" record_key="GEN_CND_FACTION_LEADER">
+<notes>Is the EVENT TARGET CHARACTER a FACTION LEADER?</notes>
+<option_key>GEN_CND_FACTION_LEADER</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{cf9273f0-c67a-44f7-986d-70f0adbf8970}" record_timestamp="1423673095344" record_key="GEN_CND_FACTION_MAXED_BUILDING_CHAIN">
+<notes>Has the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) managed to CONSTRUCT the maximum level of the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_FACTION_MAXED_BUILDING_CHAIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0fe986d7-b0be-415d-83bd-cfa51923616a}" record_timestamp="1423673095450" record_key="GEN_CND_FACTION_NEIGHBOURS">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) a NEIGHBOUR of the player faction?</notes>
+<option_key>GEN_CND_FACTION_NEIGHBOURS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{59f8be08-4db1-47ed-87a9-b340aee23b88}" record_timestamp="1423673095556" record_key="GEN_CND_FACTION_NOT_BUILDING_CHAIN">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT possess an instance of the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_FACTION_NOT_BUILDING_CHAIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3a5b1f7f-1651-41f0-9bc9-1b404b0e925d}" record_timestamp="1423673095662" record_key="GEN_CND_FACTION_NOT_BUILDING_CHAIN_AVAILABLE">
+<notes>Can the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently NOT CONSTRUCT the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_FACTION_NOT_BUILDING_CHAIN_AVAILABLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{bbe0978f-aff8-40a5-9384-8f716781e3be}" record_timestamp="1423673095767" record_key="GEN_CND_FACTION_NOT_BUILDING_LEVEL">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT possess an instance of the key-specified BUILDING LEVEL? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_FACTION_NOT_BUILDING_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{66535c83-e291-40d5-b12b-013f3c6d4631}" record_timestamp="1423673095873" record_key="GEN_CND_FACTION_NOT_COASTAL">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently NOT hold a COASTAL REGION?</notes>
+<option_key>GEN_CND_FACTION_NOT_COASTAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{81e6edb6-2534-43fe-bb5a-dfb9491706b9}" record_timestamp="1423673095979" record_key="GEN_CND_FACTION_NOT_CONSTRUCTING">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently NOT in the process of CONSTRUCTING a BUILDING?</notes>
+<option_key>GEN_CND_FACTION_NOT_CONSTRUCTING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4e8bceb7-619e-48ce-81bc-7264df0ca65b}" record_timestamp="1423673096085" record_key="GEN_CND_FACTION_NOT_HAS_ARMY">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently NOT have an ARMY?</notes>
+<option_key>GEN_CND_FACTION_NOT_HAS_ARMY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a772139e-a7bb-4956-9caf-20c52e794fa5}" record_timestamp="1423673096192" record_key="GEN_CND_FACTION_NOT_HAS_NAVY">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently NOT have a NAVY?</notes>
+<option_key>GEN_CND_FACTION_NOT_HAS_NAVY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5578e600-36dc-4d08-8d58-9f66b26fa57b}" record_timestamp="1423673096297" record_key="GEN_CND_FACTION_NOT_MAXED_BUILDING_CHAIN">
+<notes>Has the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT managed to CONSTRUCT the maximum level of the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_FACTION_NOT_MAXED_BUILDING_CHAIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{39d2d6ee-363e-4321-9666-75e702839db1}" record_timestamp="1423673096403" record_key="GEN_CND_FACTION_NOT_NEIGHBOURS">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT a NEIGHBOUR of the player faction?</notes>
+<option_key>GEN_CND_FACTION_NOT_NEIGHBOURS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{293e055a-7ad0-4647-9b10-9c41b2ab9b99}" record_timestamp="1423673096510" record_key="GEN_CND_FACTION_NOT_REBELLION">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT currently experiencing a REBELLION somewhere?</notes>
+<option_key>GEN_CND_FACTION_NOT_REBELLION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e1a6386a-cd50-4649-9e10-b9bf98dd4a92}" record_timestamp="1423673096617" record_key="GEN_CND_FACTION_NOT_RECRUITING">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently NOT RECRUITING any UNITS?</notes>
+<option_key>GEN_CND_FACTION_NOT_RECRUITING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b5e3acb0-f3ad-4549-b0ca-88ba6fa49497}" record_timestamp="1423673096723" record_key="GEN_CND_FACTION_NOT_RELIGION">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT belong to the key-specified RELIGION?</notes>
+<option_key>GEN_CND_FACTION_NOT_RELIGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a12cf7c7-720b-4c1e-97f1-6804ca564821}" record_timestamp="1423673096828" record_key="GEN_CND_FACTION_NOT_SAME_RELIGION">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT the same RELIGION as the player faction?</notes>
+<option_key>GEN_CND_FACTION_NOT_SAME_RELIGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{6718aebe-94a3-4066-baef-5e864ee5c4ab}" record_timestamp="1423673096934" record_key="GEN_CND_FACTION_NOT_SLOT_TYPE">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT possess an instance of the key-specified SLOT TYPE. Multiple use operator: AND.</notes>
+<option_key>GEN_CND_FACTION_NOT_SLOT_TYPE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{db6ea34c-a254-404c-91f1-74ee7eb60b84}" record_timestamp="1423673097041" record_key="GEN_CND_FACTION_REBELLION">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently experiencing a REBELLION somewhere?</notes>
+<option_key>GEN_CND_FACTION_REBELLION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7d44d685-1a1c-4cbf-afd4-ea7406fb0c3c}" record_timestamp="1423673097147" record_key="GEN_CND_FACTION_RECRUITING">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently RECRUITING any UNITS?</notes>
+<option_key>GEN_CND_FACTION_RECRUITING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8a40ead6-1d69-4962-b567-92b97159dff1}" record_timestamp="1423673097252" record_key="GEN_CND_FACTION_RELIGION">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) belong to the key-specified RELIGION?</notes>
+<option_key>GEN_CND_FACTION_RELIGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ab0d5e29-db1c-4449-9cc2-bce67876a611}" record_timestamp="1423673097358" record_key="GEN_CND_FACTION_SAME_RELIGION">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) the same RELIGION as the player faction?</notes>
+<option_key>GEN_CND_FACTION_SAME_RELIGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e876471c-29d6-4f2c-acb6-075af6369a48}" record_timestamp="1423673097464" record_key="GEN_CND_FACTION_SLOT_TYPE">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) possess an instance of the key-specified SLOT TYPE. Multiple use operator: AND.</notes>
+<option_key>GEN_CND_FACTION_SLOT_TYPE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ae07c58c-fae2-4d15-84ec-f253a112e0e0}" record_timestamp="1423673097570" record_key="GEN_CND_FEMALE">
+<notes>Is the EVENT TARGET CHARACTER a FEMALE?</notes>
+<option_key>GEN_CND_FEMALE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7b1e8158-7bed-4d7c-8531-7ec95bbcf017}" record_timestamp="1423673097677" record_key="GEN_CND_FORCE_HAS_EFFECT_BUNDLE">
+<notes>Does the EVENT TARGET MILITARY FORCE (or a MILITARY FORCE within the EVENT TARGET REGION) currently have a key-specified EFFECT BUNDLE applied to it?</notes>
+<option_key>GEN_CND_FORCE_HAS_EFFECT_BUNDLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e7610ee4-541e-44bc-9100-e9e62e1eb361}" record_timestamp="1423673097782" record_key="GEN_CND_FORCE_IN_PROVINCE">
+<notes>Does the EVENT TARGET REGION contain a MILITARY FORCE belonging to the player faction? Note that despite referring to PROVINCE, I think that this only works with REGIONS - we can't yet target PROVINCES.</notes>
+<option_key>GEN_CND_FORCE_IN_PROVINCE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1c9ea042-c594-428a-9be9-a592b6c48d5a}" record_timestamp="1449844278493" record_key="GEN_CND_HAS_ENEMIES">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) AT WAR with any faction?</notes>
+<option_key>GEN_CND_HAS_ENEMIES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3206c3c9-3a58-4e86-a342-887e2446fa37}" record_timestamp="1459935466641" record_key="GEN_CND_HAS_ENEMIES_WITH_OCCUPIABLE_REGIONS">
+<notes>Specify that a faction must have atleast one enemy with a region that the player can occupy to be a valid target</notes>
+<option_key>GEN_CND_HAS_ENEMIES_WITH_OCCUPIABLE_REGIONS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{cd766225-d9cd-4a79-b0fa-6a8e9c2d4d74}" record_timestamp="1456315131992" record_key="GEN_CND_HAS_ENEMIES_WITH_REGIONS">
+<notes>Specify that a faction must have atleast one enemy with a region to be a valid target</notes>
+<option_key>GEN_CND_HAS_ENEMIES_WITH_REGIONS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3e7b7e04-deef-4446-a922-b6d6b8b328fe}" record_timestamp="1449844278503" record_key="GEN_CND_HAS_NO_ENEMIES">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT AT WAR with any faction?</notes>
+<option_key>GEN_CND_HAS_NO_ENEMIES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{869ae4fe-d28f-48e8-bff9-deb4cef91e3f}" record_timestamp="1423673097887" record_key="GEN_CND_HOME_REGION">
+<notes>Is the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED)  a FACTION'S HOME REGION?</notes>
+<option_key>GEN_CND_HOME_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{89ba6cad-b457-4c0a-926e-89fe8cf757ac}" record_timestamp="1423673097993" record_key="GEN_CND_HUMAN">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) a HUMAN player?</notes>
+<option_key>GEN_CND_HUMAN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ad706cd8-3376-4bc0-b0c9-1c45097447ec}" record_timestamp="1423673098099" record_key="GEN_CND_IN_ENEMY_REGION">
+<notes>Is the EVENT TARGET CHARACTER or MILITARY FORCE currently standing within an ENEMY REGION?</notes>
+<option_key>GEN_CND_IN_ENEMY_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ccc87776-0957-48f3-9a33-b5d4e04748e7}" record_timestamp="1442329179817" record_key="GEN_CND_LOWEST_LOYALTY">
+<notes>Does the EVENT TARGET CHARACTER have the lowest loyalty (or inter-factional loyalty) of all characters in the GEN_CND_SUBCULTURE key (must specify this)?</notes>
+<option_key>GEN_CND_LOWEST_LOYALTY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{42dd347a-8c10-4ebc-bb5d-bf6376e28aa2}" record_timestamp="1423673098205" record_key="GEN_CND_MALE">
+<notes>Is the EVENT TARGET CHARACTER a MALE?</notes>
+<option_key>GEN_CND_MALE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{106d8d32-4906-451d-9abb-88ebb78c08ce}" record_timestamp="1423673098311" record_key="GEN_CND_MARRIED">
+<notes>Specify that a CHARACTER event requires a married character</notes>
+<option_key>GEN_CND_MARRIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e9950c74-904b-453d-a277-5bea5a24b044}" record_timestamp="1423673098419" record_key="GEN_CND_MAX_BATTLES">
+<notes>Has the EVENT TARGET CHARACTER fought NO MORE THAN the specified number of BATTLES?</notes>
+<option_key>GEN_CND_MAX_BATTLES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e92c0846-e8ef-408f-b4f5-1978c5c3e42c}" record_timestamp="1423673098526" record_key="GEN_CND_MAX_BATTLES_LOST">
+<notes>Has the EVENT TARGET CHARACTER fought NO MORE THAN the specified number of LOSING BATTLES?</notes>
+<option_key>GEN_CND_MAX_BATTLES_LOST</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f22e2ef7-72e7-401c-9945-c557e68d7a89}" record_timestamp="1423673098634" record_key="GEN_CND_MAX_BATTLES_WON">
+<notes>Has the EVENT TARGET CHARACTER fought and NO MORE THAN the specified number of WINNING BATTLES?</notes>
+<option_key>GEN_CND_MAX_BATTLES_WON</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{81cfb90e-e56b-401c-9a39-62742db82e60}" record_timestamp="1423673098740" record_key="GEN_CND_MAX_CHARACTER_AMBITION">
+<notes>Does the EVENT TARGET CHARACTER have NO MORE THAN the specified amount of AMBITION?</notes>
+<option_key>GEN_CND_MAX_CHARACTER_AMBITION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ff8ce6aa-9d34-4f58-83f8-1fed6fbf94e1}" record_timestamp="1423673098848" record_key="GEN_CND_MAX_CHARACTER_GRAVITAS">
+<notes>Does the EVENT TARGET CHARACTER have NO MORE THAN the specified amount of GRAVITAS?</notes>
+<option_key>GEN_CND_MAX_CHARACTER_GRAVITAS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0dd49308-e173-42d2-b2bf-149964e02536}" record_timestamp="1423673098955" record_key="GEN_CND_MAX_CHARACTER_LEVEL">
+<notes>Is the EVENT TARGET CHARACTER of RANK NO HIGHER THAN that specified?</notes>
+<option_key>GEN_CND_MAX_CHARACTER_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8112295c-384e-4cfe-9875-88e412aceed8}" record_timestamp="1423673099062" record_key="GEN_CND_MAX_CHARACTER_LOYALTY">
+<notes>[OBSOLETE PENDING RE-USE FOR FAMILY GAMEPLAY] Does the EVENT TARGET CHARACTER have NO MORE THAN the specified amount of LOYALTY / FAMILY ATTITUDE?</notes>
+<option_key>GEN_CND_MAX_CHARACTER_LOYALTY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{459b4128-d855-453e-99a5-8d39f6c147f5}" record_timestamp="1423673099169" record_key="GEN_CND_MAX_CHARACTER_PARTY_POWER_PERCENTAGE">
+<notes>Does the EVENT TARGET CHARACTER'S POLITICAL PARTY have NO MORE THAN the specified PERCENTAGE of POLITICAL POWER / INFLUENCE?</notes>
+<option_key>GEN_CND_MAX_CHARACTER_PARTY_POWER_PERCENTAGE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{99c89de7-8a1f-4fca-a211-28a22c6ede35}" record_timestamp="1423673099276" record_key="GEN_CND_MAX_DAIMYO_HONOUR">
+<notes>[OBSOLETE] Does the event target faction or owning faction's daimyo have NO MORE THAN the specified amount of honour?</notes>
+<option_key>GEN_CND_MAX_DAIMYO_HONOUR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7d2fec27-47d5-4584-8c5d-6a6de8804577}" record_timestamp="1423673099382" record_key="GEN_CND_MAX_DIPLOMATIC_RELATION">
+<notes>[BROKEN?] Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) have a DIPLOMATIC STANDING of NO MORE THAN the specified amount with the player faction?</notes>
+<option_key>GEN_CND_MAX_DIPLOMATIC_RELATION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8c3051be-4040-4761-898d-a96339d81a04}" record_timestamp="1423673099490" record_key="GEN_CND_MAX_FAME">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) have NO MORE THAN the specified amount of FAME / PRESTIGE / IMPERIUM?</notes>
+<option_key>GEN_CND_MAX_FAME</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d48ce14a-32be-4778-bfad-cc48ec9655f7}" record_timestamp="1423673099598" record_key="GEN_CND_MAX_FAME_LEVEL">
+<notes>[OBSOLETE] Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) have NO MORE THAN the given Shogun-specific fame level?</notes>
+<option_key>GEN_CND_MAX_FAME_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9249c089-b92c-4017-a2e8-37a4970d9423}" record_timestamp="1423673099705" record_key="GEN_CND_MAX_FAME_RANK">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) have a FAME / PRESTIGE / IMPERIUM LEVEL which is NO HIGHER THAN the specified amount?</notes>
+<option_key>GEN_CND_MAX_FAME_RANK</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{32e29a9b-ca72-4205-af28-d98457c35acf}" record_timestamp="1423673099812" record_key="GEN_CND_MAX_HIGHEST_FAME_LEVEL">
+<notes>Has the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) had a FAME / PRESTIGE / IMPERIUM LEVEL which is NO HIGHER THAN that specified ever during the course of a campaign?</notes>
+<option_key>GEN_CND_MAX_HIGHEST_FAME_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e72bcf77-8fb8-4968-971a-7f06dc3294ff}" record_timestamp="1423673099919" record_key="GEN_CND_MAX_ORIGINAL_HOME_REGION_DISTANCE">
+<notes>Is the EVENT TARGET'S distance (in terms of NUMBER OF REGIONS) from the player faction's ORIGINAL HOME REGION NO FURTHER THAN that specified?</notes>
+<option_key>GEN_CND_MAX_ORIGINAL_HOME_REGION_DISTANCE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8cbf71c4-1b87-4f33-96af-21d9ef558834}" record_timestamp="1423673100028" record_key="GEN_CND_MAX_PLAYER_BATTLES">
+<notes>Has the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) fought NO MORE THAN the specified number of BATTLES against the player faction?</notes>
+<option_key>GEN_CND_MAX_PLAYER_BATTLES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9b88f77f-af06-418f-9bec-d3069c4ca3bc}" record_timestamp="1423673100135" record_key="GEN_CND_MAX_PLAYER_BATTLES_LOST">
+<notes>Has the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) fought NO MORE THAN the specified number of LOSING BATTLES against the player faction?</notes>
+<option_key>GEN_CND_MAX_PLAYER_BATTLES_LOST</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{519b23da-cce9-4706-936b-6a9aa7eaad0c}" record_timestamp="1423673100242" record_key="GEN_CND_MAX_PLAYER_BATTLES_WON">
+<notes>Has the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) fought NO MORE THAN the specified number of WINNING BATTLES against the player faction?</notes>
+<option_key>GEN_CND_MAX_PLAYER_BATTLES_WON</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f61d38d4-61d0-4a96-85d1-dd4f74cd0fdf}" record_timestamp="1423673100349" record_key="GEN_CND_MAX_PROVINCE_SLAVE_PERCENTAGE">
+<notes>Does the PROVINCE to which the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) belongs have NO MORE THAN the specified SLAVE PERCENTAGE?</notes>
+<option_key>GEN_CND_MAX_PROVINCE_SLAVE_PERCENTAGE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{625a2197-a5aa-421d-968c-1442fbd2fb5d}" record_timestamp="1423673100673" record_key="GEN_CND_MAX_REGIONS_OWNED">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) OWN NO MORE THAN the specified number of REGIONS?</notes>
+<option_key>GEN_CND_MAX_REGIONS_OWNED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{73b3d0ff-07f3-498e-b6aa-ff50378af363}" record_timestamp="1423673100459" record_key="GEN_CND_MAX_REGION_DISTANCE">
+<notes>Is the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) NO FURTHER THAN the specified distance (in terms of NUMBER OF REGIONS) from the player faction's BORDERS (0 = neighbouring).</notes>
+<option_key>GEN_CND_MAX_REGION_DISTANCE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c223d49f-234b-4a22-9921-662e6cac1626}" record_timestamp="1423673100566" record_key="GEN_CND_MAX_REGION_PUBLIC_ORDER">
+<notes>[BROKEN?] Does the PROVINCE to which the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) belongs have NO MORE THAN the specified amount of PUBLIC ORDER?</notes>
+<option_key>GEN_CND_MAX_REGION_PUBLIC_ORDER</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e5a345eb-9151-4179-9e29-0c90c3b31ca9}" record_timestamp="1423673100780" record_key="GEN_CND_MAX_SETTLEMENT_UNITS">
+<notes>Does the SETTLEMENT within the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) contain NO MORE THAN the specified NUMBER OF UNITS.</notes>
+<option_key>GEN_CND_MAX_SETTLEMENT_UNITS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{32db2719-d193-43c0-b912-2cfee385d68d}" record_timestamp="1423673100886" record_key="GEN_CND_MAX_UNITS_IN_REGION">
+<notes>Does the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) contain NO MORE THAN the specified NUMBER OF UNITS.</notes>
+<option_key>GEN_CND_MAX_UNITS_IN_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b4a7fde0-4f82-454a-9c88-75618418b63a}" record_timestamp="1423673100994" record_key="GEN_CND_MILITARY_ACCESS_GIVEN">
+<notes>[BROKEN?] Has the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) GIVEN MILITARY ACCESS to the player faction?</notes>
+<option_key>GEN_CND_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1c150934-dd52-4e3c-8fb2-3a78d7046d46}" record_timestamp="1423673101102" record_key="GEN_CND_MILITARY_ACCESS_RECEIVED">
+<notes>[BROKEN?] Has the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) RECEIVED MILITARY ACCESS from the player faction?</notes>
+<option_key>GEN_CND_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{01e87a98-1eeb-4b6e-a794-9880155f2447}" record_timestamp="1423673101211" record_key="GEN_CND_MILITARY_ALLIED">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) MILITARY ALLIES with the player faction?</notes>
+<option_key>GEN_CND_MILITARY_ALLIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{762e072e-3320-4136-89d6-6da600a4edea}" record_timestamp="1423673101318" record_key="GEN_CND_MIN_BATTLES">
+<notes>Has the EVENT TARGET CHARACTER fought AT LEAST the specified number of BATTLES?</notes>
+<option_key>GEN_CND_MIN_BATTLES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{48cc8bee-9d57-4440-86d7-e5126e7ab73f}" record_timestamp="1423673101425" record_key="GEN_CND_MIN_BATTLES_LOST">
+<notes>Has the EVENT TARGET CHARACTER fought AT LEAST the specified number of LOSING BATTLES?</notes>
+<option_key>GEN_CND_MIN_BATTLES_LOST</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{2fddf509-4ab9-490e-a048-33837ae6cbfd}" record_timestamp="1423673101532" record_key="GEN_CND_MIN_BATTLES_WON">
+<notes>Has the EVENT TARGET CHARACTER fought and AT LEAST the specified number of WINNING BATTLES?</notes>
+<option_key>GEN_CND_MIN_BATTLES_WON</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3da9dc82-8aec-424b-aa11-cce9f9e43182}" record_timestamp="1423673101639" record_key="GEN_CND_MIN_CHARACTER_AMBITION">
+<notes>Does the EVENT TARGET CHARACTER have AT LEAST the specified amount of AMBITION?</notes>
+<option_key>GEN_CND_MIN_CHARACTER_AMBITION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0dd76380-d2a5-431e-ab6c-81380b154fba}" record_timestamp="1423673101747" record_key="GEN_CND_MIN_CHARACTER_GRAVITAS">
+<notes>Does the EVENT TARGET CHARACTER have AT LEAST the specified amount of GRAVITAS?</notes>
+<option_key>GEN_CND_MIN_CHARACTER_GRAVITAS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e974202c-9099-48ad-afc8-4ffae3e34c00}" record_timestamp="1423673101854" record_key="GEN_CND_MIN_CHARACTER_LEVEL">
+<notes>Is the EVENT TARGET CHARACTER of RANK NO HIGHER THAN that specified?</notes>
+<option_key>GEN_CND_MIN_CHARACTER_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{99398bb8-c4c5-46c0-8f37-ee03c828599b}" record_timestamp="1423673101960" record_key="GEN_CND_MIN_CHARACTER_LOYALTY">
+<notes>[OBSOLETE PENDING RE-USE FOR FAMILY GAMEPLAY] Does the EVENT TARGET CHARACTER have AT LEAST the specified amount of LOYALTY / FAMILY ATTITUDE?</notes>
+<option_key>GEN_CND_MIN_CHARACTER_LOYALTY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1e287e3f-868b-4e16-b953-e5f8f9547570}" record_timestamp="1423673102068" record_key="GEN_CND_MIN_CHARACTER_PARTY_POWER_PERCENTAGE">
+<notes>Does the EVENT TARGET CHARACTER'S POLITICAL PARTY have AT LEAST the specified PERCENTAGE of POLITICAL POWER / INFLUENCE?</notes>
+<option_key>GEN_CND_MIN_CHARACTER_PARTY_POWER_PERCENTAGE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1985e38e-b62c-44c1-bef5-28369ff9c384}" record_timestamp="1423673102175" record_key="GEN_CND_MIN_DAIMYO_HONOUR">
+<notes>[OBSOLETE] Does the event target faction or owning faction's daimyo have AT LEAST the specified amount of honour?</notes>
+<option_key>GEN_CND_MIN_DAIMYO_HONOUR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e7ebcad6-3003-48cf-aca2-5be1ce5b0fbd}" record_timestamp="1423673102281" record_key="GEN_CND_MIN_DIPLOMATIC_RELATION">
+<notes>[BROKEN?] Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) have a DIPLOMATIC STANDING of AT LEAST the specified amount with the player faction?</notes>
+<option_key>GEN_CND_MIN_DIPLOMATIC_RELATION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a3660870-4d86-456c-b16d-2a424acd93e7}" record_timestamp="1423673102389" record_key="GEN_CND_MIN_FAME">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) have AT LEAST the specified amount of FAME / PRESTIGE / IMPERIUM?</notes>
+<option_key>GEN_CND_MIN_FAME</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{bcad12c4-c2c2-45aa-8af8-76e7d55a71ee}" record_timestamp="1423673102496" record_key="GEN_CND_MIN_FAME_LEVEL">
+<notes>[OBSOLETE] Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) have AT LEAST the given Shogun-specific fame level?</notes>
+<option_key>GEN_CND_MIN_FAME_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{39a5f92f-3025-4cdb-9756-88107f37cc33}" record_timestamp="1423673102604" record_key="GEN_CND_MIN_FAME_RANK">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) have a FAME / PRESTIGE / IMPERIUM LEVEL which is NO HIGHER THAN the specified amount?</notes>
+<option_key>GEN_CND_MIN_FAME_RANK</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ae18cff8-50d4-44d6-bbd4-976bed7193e8}" record_timestamp="1423673102712" record_key="GEN_CND_MIN_HIGHEST_FAME_LEVEL">
+<notes>Has the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) had a FAME / PRESTIGE / IMPERIUM LEVEL which is NO HIGHER THAN that specified ever during the course of a campaign?</notes>
+<option_key>GEN_CND_MIN_HIGHEST_FAME_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ddcd69f9-834c-4535-bdd5-1a96425ac6ed}" record_timestamp="1423673102819" record_key="GEN_CND_MIN_ORIGINAL_HOME_REGION_DISTANCE">
+<notes>Is the EVENT TARGET'S distance (in terms of NUMBER OF REGIONS) from the player faction's ORIGINAL HOME REGION NO FURTHER THAN that specified?</notes>
+<option_key>GEN_CND_MIN_ORIGINAL_HOME_REGION_DISTANCE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{acba07a9-6034-4d86-acfa-3425cc6cee5f}" record_timestamp="1423673102925" record_key="GEN_CND_MIN_PLAYER_BATTLES">
+<notes>Has the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) fought AT LEAST the specified number of BATTLES against the player faction?</notes>
+<option_key>GEN_CND_MIN_PLAYER_BATTLES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{cde4e725-d4c5-48f1-b610-31a899978eb9}" record_timestamp="1423673103034" record_key="GEN_CND_MIN_PLAYER_BATTLES_LOST">
+<notes>Has the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) fought AT LEAST the specified number of LOSING BATTLES against the player faction?</notes>
+<option_key>GEN_CND_MIN_PLAYER_BATTLES_LOST</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f865bb09-4fe2-48ed-80cf-2254e8229344}" record_timestamp="1423673103140" record_key="GEN_CND_MIN_PLAYER_BATTLES_WON">
+<notes>Has the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) fought AT LEAST the specified number of WINNING BATTLES against the player faction?</notes>
+<option_key>GEN_CND_MIN_PLAYER_BATTLES_WON</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f3890cb1-b460-4a79-af0c-780183bed986}" record_timestamp="1423673103247" record_key="GEN_CND_MIN_PROVINCE_SLAVE_PERCENTAGE">
+<notes>Does the PROVINCE to which the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) belongs have AT LEAST the specified SLAVE PERCENTAGE?</notes>
+<option_key>GEN_CND_MIN_PROVINCE_SLAVE_PERCENTAGE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c2eabf16-91f4-449f-a2e2-52bf696db251}" record_timestamp="1423673103569" record_key="GEN_CND_MIN_REGIONS_OWNED">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) OWN AT LEAST the specified number of REGIONS?</notes>
+<option_key>GEN_CND_MIN_REGIONS_OWNED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ed564e89-f12a-4996-bf47-84e0bee543bd}" record_timestamp="1423673103353" record_key="GEN_CND_MIN_REGION_DISTANCE">
+<notes>Is the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) NO FURTHER THAN the specified distance (in terms of NUMBER OF REGIONS) from the player faction's BORDERS (0 = neighbouring).</notes>
+<option_key>GEN_CND_MIN_REGION_DISTANCE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{19aa2024-0ac3-4951-a7c8-35d87c15b843}" record_timestamp="1423673103461" record_key="GEN_CND_MIN_REGION_PUBLIC_ORDER">
+<notes>[BROKEN?] Does the PROVINCE to which the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) belongs have AT LEAST the specified amount of PUBLIC ORDER?</notes>
+<option_key>GEN_CND_MIN_REGION_PUBLIC_ORDER</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4596d9b8-464c-4b6f-a18d-3aa8556792f3}" record_timestamp="1423673103676" record_key="GEN_CND_MIN_SETTLEMENT_UNITS">
+<notes>Does the SETTLEMENT within the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) contain AT LEAST the specified NUMBER OF UNITS.</notes>
+<option_key>GEN_CND_MIN_SETTLEMENT_UNITS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{76bad99b-f218-4704-ac26-face9e699c9b}" record_timestamp="1423673103783" record_key="GEN_CND_MIN_UNITS_IN_REGION">
+<notes>Does the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) contain AT LEAST the specified NUMBER OF UNITS.</notes>
+<option_key>GEN_CND_MIN_UNITS_IN_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{727de06e-ddc4-48e5-bde8-5a3489311874}" record_timestamp="1446053412614" record_key="GEN_CND_NAVY">
+<notes>Is the EVENT TARGET FORCE a NAVY?</notes>
+<option_key>GEN_CND_NAVY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7d2dd719-d0f7-462f-be7e-d11f706ae6e0}" record_timestamp="1423673103890" record_key="GEN_CND_NEUTRAL">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NEUTRAL towards the player faction?</notes>
+<option_key>GEN_CND_NEUTRAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7ad0245a-57f1-4ffd-8e02-d8e2958633f1}" record_timestamp="1481887379484" record_key="GEN_CND_NOT_AGENT_SUBTYPE">
+<notes>Specify that a EVENT TARGET CHARACTER must NOT be the specified Agent Subtype.</notes>
+<option_key>GEN_CND_NOT_AGENT_SUBTYPE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f41a0de1-f4f5-4c0d-8d46-1af9e672df09}" record_timestamp="1423673103996" record_key="GEN_CND_NOT_ALLIED_WITH_ALLY">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT ALLIED with AN ALLY of the player faction?</notes>
+<option_key>GEN_CND_NOT_ALLIED_WITH_ALLY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c22ad80e-2bab-4660-892a-d0205e378b25}" record_timestamp="1423673104105" record_key="GEN_CND_NOT_ALLIED_WITH_ENEMY">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT ALLIED with AN ENEMY of the player faction?</notes>
+<option_key>GEN_CND_NOT_ALLIED_WITH_ENEMY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9a1858bb-1d72-4d83-b9c4-671af647723c}" record_timestamp="1423673104212" record_key="GEN_CND_NOT_ALLY_SHOGUN">
+<notes>[OBSOLETE] Is the event target or its owner NOT an ally of the Shogunate?</notes>
+<option_key>GEN_CND_NOT_ALLY_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c38ac6c7-dbba-4368-b4e5-e950342ec1bc}" record_timestamp="1423673104319" record_key="GEN_CND_NOT_ARMY_IN_REGION">
+<notes>Does the player faction NOT have at least ONE ARMY in the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) ?</notes>
+<option_key>GEN_CND_NOT_ARMY_IN_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{73d17286-9e46-464c-bab2-f2db2d6019d3}" record_timestamp="1423673104426" record_key="GEN_CND_NOT_BECOMING_SHOGUN">
+<notes>[OBSOLETE] Is the EVENT TARGET FACTION NOT assuming control of the Shogunate?</notes>
+<option_key>GEN_CND_NOT_BECOMING_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{44abe20a-4fdb-4fc1-8db6-87509ccb807e}" record_timestamp="1423673104534" record_key="GEN_CND_NOT_CAPITAL_REGION">
+<notes>Does the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) NOT contain a FACTION CAPITAL?</notes>
+<option_key>GEN_CND_NOT_CAPITAL_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d6f3e849-6f21-4b75-bc66-0d803879ed55}" record_timestamp="1423673104642" record_key="GEN_CND_NOT_CHARACTER_TYPE">
+<notes>Specify that a EVENT TARGET CHARACTER must NOT be a key-specified CHARACTER TYPE.</notes>
+<option_key>GEN_CND_NOT_CHARACTER_TYPE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{01a77448-ac0a-4856-8849-039aa6a908ec}" record_timestamp="1423673104749" record_key="GEN_CND_NOT_DAIMYO">
+<notes>[OBSOLETE] Is the event target character not a Daimyo?</notes>
+<option_key>GEN_CND_NOT_DAIMYO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ef149162-3210-42e7-93a7-b7640a3ca2ae}" record_timestamp="1423673104856" record_key="GEN_CND_NOT_DEFENSIVE_ALLIED">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT DEFENSIVE ALLIES with the player faction?</notes>
+<option_key>GEN_CND_NOT_DEFENSIVE_ALLIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1de14b32-74b2-4f02-8e57-623b1bd4ce5f}" record_timestamp="1423673104963" record_key="GEN_CND_NOT_DIPLOMACY_AVAILABLE">
+<notes>Can the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT engage in DIPLOMACY with the player faction?</notes>
+<option_key>GEN_CND_NOT_DIPLOMACY_AVAILABLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a7e060c7-84fb-4e16-b5d4-be4d13ad652a}" record_timestamp="1423673105071" record_key="GEN_CND_NOT_EMBARKED">
+<notes>Is the EVENT TARGET NOT embarked upon the sea? Used primarily for ARMY targets.</notes>
+<option_key>GEN_CND_NOT_EMBARKED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{aa53b88c-6126-4c6b-a5fb-5002a86a551a}" record_timestamp="1423673105179" record_key="GEN_CND_NOT_ENEMY_OF_YOUR_ALLY_WITH_SUBCULTURE">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET)NOT an ENEMY of one of the player faction's ALLIES that belongs to the key-specified SUBCULTURE.</notes>
+<option_key>GEN_CND_NOT_ENEMY_OF_YOUR_ALLY_WITH_SUBCULTURE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a0c62eaf-b0a6-49e4-bd99-87da1884f830}" record_timestamp="1423673105286" record_key="GEN_CND_NOT_FACTION_LEADER">
+<notes>Is the EVENT TARGET CHARACTER NOT a FACTION LEADER?</notes>
+<option_key>GEN_CND_NOT_FACTION_LEADER</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{2471ffd6-4c45-4c59-a283-2fb26b094b90}" record_timestamp="1423673105394" record_key="GEN_CND_NOT_FORCE_HAS_EFFECT_BUNDLE">
+<notes>Does the EVENT TARGET MILITARY FORCE (or a MILITARY FORCE within the EVENT TARGET REGION) NOT currently have a key-specified EFFECT BUNDLE applied to it?</notes>
+<option_key>GEN_CND_NOT_FORCE_HAS_EFFECT_BUNDLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{af903b48-ef5d-469c-aaf9-c612daf59657}" record_timestamp="1423673105502" record_key="GEN_CND_NOT_FORCE_IN_PROVINCE">
+<notes>Does the EVENT TARGET REGION NOT contain a MILITARY FORCE belonging to the player faction? Note that despite referring to PROVINCE, I think that this only works with REGIONS - we can't yet target PROVINCES.</notes>
+<option_key>GEN_CND_NOT_FORCE_IN_PROVINCE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{79c8cc3f-3a2e-48d3-8ed6-f83e0a00afcc}" record_timestamp="1423673105611" record_key="GEN_CND_NOT_HOME_REGION">
+<notes>Is the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) NOT a FACTION'S HOME REGION?</notes>
+<option_key>GEN_CND_NOT_HOME_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5b393917-ccd9-4fbd-8bed-1c2904833c99}" record_timestamp="1423673105718" record_key="GEN_CND_NOT_HUMAN">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT a HUMAN player?</notes>
+<option_key>GEN_CND_NOT_HUMAN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{25c07adf-178d-406e-961c-c1993dd6b015}" record_timestamp="1423673105824" record_key="GEN_CND_NOT_IN_ENEMY_REGION">
+<notes>Is the EVENT TARGET CHARACTER or MILITARY FORCE NOT currently standing within an ENEMY REGION?</notes>
+<option_key>GEN_CND_NOT_IN_ENEMY_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{10c49c3e-7230-47c8-a8d3-ea8ab2093d62}" record_timestamp="1423673105931" record_key="GEN_CND_NOT_MARRIED">
+<notes>Specify that a CHARACTER event requires a not married character</notes>
+<option_key>GEN_CND_NOT_MARRIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{93f00df8-a8bd-47fd-850e-a53f75caadb9}" record_timestamp="1423673106038" record_key="GEN_CND_NOT_MILITARY_ACCESS_GIVEN">
+<notes>[BROKEN?] Has the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT GIVEN MILITARY ACCESS to the player faction?</notes>
+<option_key>GEN_CND_NOT_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3a38e171-257b-490d-8ea3-9263f6e8146f}" record_timestamp="1423673106146" record_key="GEN_CND_NOT_MILITARY_ACCESS_RECEIVED">
+<notes>[BROKEN?] Has the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT RECEIVED MILITARY ACCESS from the player faction?</notes>
+<option_key>GEN_CND_NOT_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ea1f7abe-a23d-4e60-bbfe-d693e43d4143}" record_timestamp="1423673106253" record_key="GEN_CND_NOT_MILITARY_ALLIED">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT MILITARY ALLIES with the player faction?</notes>
+<option_key>GEN_CND_NOT_MILITARY_ALLIED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{053ae9f8-6707-41ce-9702-6a6337d57958}" record_timestamp="1423673106361" record_key="GEN_CND_NOT_NEUTRAL">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT NEUTRAL towards the player faction?</notes>
+<option_key>GEN_CND_NOT_NEUTRAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d88b7750-7bb6-47bb-b4ad-331b2b3ef171}" record_timestamp="1423673106469" record_key="GEN_CND_NOT_OWNS">
+<notes>Does the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) NOT belong to the player faction?</notes>
+<option_key>GEN_CND_NOT_OWNS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1e4cd9ee-a3e1-440e-89f8-b9c165fd13ec}" record_timestamp="1423673106576" record_key="GEN_CND_NOT_OWNS_HOME_REGION">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT currently OWN their HOME REGION?</notes>
+<option_key>GEN_CND_NOT_OWNS_HOME_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{71ec97b8-1304-4cd0-bdaa-4dada83a5db2}" record_timestamp="1423673106684" record_key="GEN_CND_NOT_OWNS_REGION">
+<notes>Does the REGION where an EVENT TARGET CHARACTER or MILITARY FORCE is located NOT belong to the player faction?</notes>
+<option_key>GEN_CND_NOT_OWNS_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{28accb8f-2615-4167-8cef-796d14203002}" record_timestamp="1423673106792" record_key="GEN_CND_NOT_PLAYER_ARMY_IN_ANY_REGION">
+<notes>Does the player faction NOT currently have an ARMY within a REGION belonging to the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET)?</notes>
+<option_key>GEN_CND_NOT_PLAYER_ARMY_IN_ANY_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{2896e4c2-c76d-4599-8f3a-5ca9af351a33}" record_timestamp="1423673106900" record_key="GEN_CND_NOT_POLITICAL_PARTY">
+<notes>Does the EVENT TARGET CHARACTER NOT belong to the key-specified POLITICAL PARTY?</notes>
+<option_key>GEN_CND_NOT_POLITICAL_PARTY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9aa435ac-c1af-4aa9-b220-53dade6c8989}" record_timestamp="1423673107008" record_key="GEN_CND_NOT_PORT_BLOCKADED">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT currently experiencing a BLOCKADE?</notes>
+<option_key>GEN_CND_NOT_PORT_BLOCKADED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{71c8d2f5-1ea3-42e4-adb0-20ed1958f9fc}" record_timestamp="1423673107116" record_key="GEN_CND_NOT_PROTECTED">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT currently a PROTECTORATE / CLIENT / VASSAL / SATRAPY of the player faction?</notes>
+<option_key>GEN_CND_NOT_PROTECTED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{26b6f89a-aa2a-4b88-befa-d1a949c707c8}" record_timestamp="1423673107224" record_key="GEN_CND_NOT_PROTECTOR">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT currently the OVERLORD of the player faction?</notes>
+<option_key>GEN_CND_NOT_PROTECTOR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a0745ac6-713c-4274-85ec-afd107ed91e6}" record_timestamp="1423673107331" record_key="GEN_CND_NOT_PROVINCE_COMPLETE">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT belong to a PROVINCE which is ENTIRELY OWNED by the player faction?</notes>
+<option_key>GEN_CND_NOT_PROVINCE_COMPLETE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{27ca499b-9556-4712-b5ea-88f883a0a720}" record_timestamp="1423673107439" record_key="GEN_CND_NOT_REGION">
+<notes>Is the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) NOT the key-specified REGION? Multiple use operator: UNSURE! Should be AND, I guess?</notes>
+<option_key>GEN_CND_NOT_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{eb1648be-91d2-4069-a298-c660440c949b}" record_timestamp="1423673107546" record_key="GEN_CND_NOT_REGION_HAS_EFFECT_BUNDLE">
+<notes>Does the EVENT TARGET REGION (or a REGION where the EVENT TARGET MILITARY FORCE IS LOCATED) NOT currently have a key-specified EFFECT BUNDLE applied to it?</notes>
+<option_key>GEN_CND_NOT_REGION_HAS_EFFECT_BUNDLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8b2b94a1-717a-4a7d-befb-870fb25d6c3e}" record_timestamp="1423673107654" record_key="GEN_CND_NOT_REGION_NEIGHBOURING_HAS_EFFECT_BUNDLE">
+<notes>Does the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED) NOT have a NEIGHBOURING REGION which currently has a key-specified EFFECT BUNDLE applied to it?</notes>
+<option_key>GEN_CND_NOT_REGION_NEIGHBOURING_HAS_EFFECT_BUNDLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{09f140d7-cdcd-40c0-8efe-6cc8a60ab685}" record_timestamp="1423673107762" record_key="GEN_CND_NOT_REGION_NEIGHBOURS">
+<notes>Is the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED) NOT NEIGHBOURING the player faction?</notes>
+<option_key>GEN_CND_NOT_REGION_NEIGHBOURS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3c507abe-f1fb-4458-a6c6-255c9f91d5ca}" record_timestamp="1423673107870" record_key="GEN_CND_NOT_RESEARCHABLE">
+<notes>Is the EVENT TARGET TECHNOLOGY NOT currently RESEARCHABLE?</notes>
+<option_key>GEN_CND_NOT_RESEARCHABLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{02cdc49b-688b-4ff2-a215-106f6c2169a6}" record_timestamp="1423673107976" record_key="GEN_CND_NOT_RESEARCHED">
+<notes>Has the EVENT TARGET TECHNOLOGY NOT yet been RESEARCHED?</notes>
+<option_key>GEN_CND_NOT_RESEARCHED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f291149d-46c5-4189-b6f9-1fe8a570046e}" record_timestamp="1423673108084" record_key="GEN_CND_NOT_RESEARCHING">
+<notes>Is the EVENT TARGET TECHNOLOGY NOT currently being RESEARCHED?</notes>
+<option_key>GEN_CND_NOT_RESEARCHING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b8cba71c-f53d-47f0-b959-f3e8ea37c9a6}" record_timestamp="1423673108191" record_key="GEN_CND_NOT_SHOGUN">
+<notes>[OBSOLETE] Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT currently rule the shogunate?</notes>
+<option_key>GEN_CND_NOT_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{10cbc483-23b2-4021-9ccb-c19af7751643}" record_timestamp="1423673108298" record_key="GEN_CND_NOT_SLOT_TYPE">
+<notes>[OBSOLETE?] Is the EVENT TARGET SLOT NOT of the key-specified SLOT TYPE?</notes>
+<option_key>GEN_CND_NOT_SLOT_TYPE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{25a438b7-8453-4955-91be-712870954739}" record_timestamp="1423673108405" record_key="GEN_CND_NOT_STANCE">
+<notes>Is the EVENT TARGET MILITARY FORCE NOT currently in the key-specified STANCE?</notes>
+<option_key>GEN_CND_NOT_STANCE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{223b694d-6ca7-4dce-82f4-243eb4164a68}" record_timestamp="1441969568868" record_key="GEN_CND_NOT_SUBCULTURE">
+<notes>Does the event target character / region / settlement / military_force / faction NOT belong to the key-specified subculture? Multiple use operator: OR</notes>
+<option_key>GEN_CND_NOT_SUBCULTURE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{77d3dabc-85e9-4508-a1eb-1cb522b0f7e6}" record_timestamp="1423673108513" record_key="GEN_CND_NOT_TARGET_ARMY_IN_ANY_REGION">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT currently have an ARMY in one of the player faction's REGIONS?</notes>
+<option_key>GEN_CND_NOT_TARGET_ARMY_IN_ANY_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{72e1f9d9-e61c-4770-bf0a-fb03369ea7f4}" record_timestamp="1423673108620" record_key="GEN_CND_NOT_TARGET_ARMY_NEAR_ORIGINAL_HOME_REGION">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT currently have an ARMY in the palyer faction's HOME REGION or one of its NEIGHBOURING REGIONS?</notes>
+<option_key>GEN_CND_NOT_TARGET_ARMY_NEAR_ORIGINAL_HOME_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3fe2f3bc-4062-4aff-9f1c-e1a84c6eafc6}" record_timestamp="1423673108728" record_key="GEN_CND_NOT_TRADE">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT TRADING with the player faction?</notes>
+<option_key>GEN_CND_NOT_TRADE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3cf7f984-863b-489e-93bf-a75193f20b0d}" record_timestamp="1423673108835" record_key="GEN_CND_NOT_VISIBLE">
+<notes>Can the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT be seen by the player faction?</notes>
+<option_key>GEN_CND_NOT_VISIBLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{894242e2-0ccf-453d-9e01-628a8a148876}" record_timestamp="1448016947072" record_key="GEN_CND_NOT_WAAAGH">
+<notes>Specify that a faction, region, settlement or force must not belong to or be the WAAAGH! faction</notes>
+<option_key>GEN_CND_NOT_WAAAGH</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{31abcdf7-28a4-4927-87d1-da75a951001a}" record_timestamp="1423673108942" record_key="GEN_CND_NOT_WAR">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT AT WAR with the player faction?</notes>
+<option_key>GEN_CND_NOT_WAR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e9f99487-2448-4cfd-a8b6-459a6381eece}" record_timestamp="1423673109049" record_key="GEN_CND_NOT_WAR_SHOGUN">
+<notes>[OBSOLETE] Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT AT WAR with the Shogunate?</notes>
+<option_key>GEN_CND_NOT_WAR_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0c1dca79-9907-47fe-91e7-213af494e665}" record_timestamp="1423673109156" record_key="GEN_CND_NOT_WAR_WITH_ALLY">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT AT WAR with an ALLY of the player faction?</notes>
+<option_key>GEN_CND_NOT_WAR_WITH_ALLY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5fc481ef-1530-471e-a8d5-d621845c896e}" record_timestamp="1423673109263" record_key="GEN_CND_NOT_WAR_WITH_ENEMY">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) NOT AT WAR with an ENEMY of the player faction?</notes>
+<option_key>GEN_CND_NOT_WAR_WITH_ENEMY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7974aacd-c6b0-48f2-8f41-a2dcd50a8ad7}" record_timestamp="1423673109370" record_key="GEN_CND_OWNS">
+<notes>Does the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) belong to the player faction?</notes>
+<option_key>GEN_CND_OWNS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{54eb2080-5884-4a8a-96e7-c1ab9b23f48e}" record_timestamp="1423673109477" record_key="GEN_CND_OWNS_HOME_REGION">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently OWN their HOME REGION?</notes>
+<option_key>GEN_CND_OWNS_HOME_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{13739386-84d2-416b-8b80-b3f979b0d5ad}" record_timestamp="1423673109583" record_key="GEN_CND_OWNS_REGION">
+<notes>Does the REGION where an EVENT TARGET CHARACTER or MILITARY FORCE is located belong to the player faction?</notes>
+<option_key>GEN_CND_OWNS_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d5bd66fd-c5e5-4166-a2ea-d66938ff8c30}" record_timestamp="1423673109691" record_key="GEN_CND_PLAYER_ARMY_IN_ANY_REGION">
+<notes>Does the player faction currently have an ARMY within a REGION belonging to the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET)?</notes>
+<option_key>GEN_CND_PLAYER_ARMY_IN_ANY_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{26d058ef-87d0-4b97-8153-335fdec80f75}" record_timestamp="1423673109797" record_key="GEN_CND_POLITICAL_PARTY">
+<notes>Does the EVENT TARGET CHARACTER belong to the key-specified POLITICAL PARTY?</notes>
+<option_key>GEN_CND_POLITICAL_PARTY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d1ee4ded-00d9-404d-8f26-f430eeb4760b}" record_timestamp="1423673109904" record_key="GEN_CND_PORT_BLOCKADED">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently experiencing a BLOCKADE?</notes>
+<option_key>GEN_CND_PORT_BLOCKADED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ac490b43-bbee-4537-8774-011042f60a6c}" record_timestamp="1423673110010" record_key="GEN_CND_PROTECTED">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently a PROTECTORATE / CLIENT / VASSAL / SATRAPY of the player faction?</notes>
+<option_key>GEN_CND_PROTECTED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4245d8ce-b1dc-4ca8-8562-7ec8db7faf9e}" record_timestamp="1423673110118" record_key="GEN_CND_PROTECTOR">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently the OVERLORD of the player faction?</notes>
+<option_key>GEN_CND_PROTECTOR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8cdeb448-dcfa-4339-afbc-c8394866c303}" record_timestamp="1423673110225" record_key="GEN_CND_PROVINCE_COMPLETE">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) belong to a PROVINCE which is ENTIRELY OWNED by the player faction?</notes>
+<option_key>GEN_CND_PROVINCE_COMPLETE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{45affb8b-ecc7-4baf-9671-0c6bddf55e52}" record_timestamp="1423673110331" record_key="GEN_CND_REGION">
+<notes>Is the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) the key-specified REGION? Multiple use operator: UNSURE! Should be OR, I guess?</notes>
+<option_key>GEN_CND_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8cd5ba84-bc40-4311-a56d-8e24d06c9728}" record_timestamp="1462358725637" record_key="GEN_CND_REGION_ABANDONED">
+<notes>Specify that a target region must be abandoned</notes>
+<option_key>GEN_CND_REGION_ABANDONED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ad9d8879-18bb-4c46-a131-876746b9c9d6}" record_timestamp="1423673110438" record_key="GEN_CND_REGION_ANY_OF">
+<notes>Is the EVENT TARGET REGION one of the many key-specified (and semicolon-separated) REGIONS? OPTION_VALUE example: rom_italia_etruria; rom_italia_latium; rom_italia_picenum; etc...</notes>
+<option_key>GEN_CND_REGION_ANY_OF</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8e1c2e3f-7a89-46bd-86d9-223ac8a63ea9}" record_timestamp="1423673110545" record_key="GEN_CND_REGION_BUILDING_CHAIN">
+<notes>Does the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) possess an instance of the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_REGION_BUILDING_CHAIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f77a087d-1d65-48f6-8b8d-29628eae60d3}" record_timestamp="1423673110652" record_key="GEN_CND_REGION_BUILDING_CHAIN_AVAILABLE">
+<notes>Can the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) currently CONSTRUCT the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_REGION_BUILDING_CHAIN_AVAILABLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c0714550-e487-42c0-a0db-29efae473933}" record_timestamp="1423673110759" record_key="GEN_CND_REGION_BUILDING_LEVEL">
+<notes>Does the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) possess an instance of the key-specified BUILDING LEVEL? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_REGION_BUILDING_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a3586d10-0c9f-46e8-be2f-d35b87e4f3f9}" record_timestamp="1423673110867" record_key="GEN_CND_REGION_COASTAL">
+<notes>Is the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) a COASTAL REGION?</notes>
+<option_key>GEN_CND_REGION_COASTAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{447cb1b9-77a3-48f0-acd3-08cb867c77a0}" record_timestamp="1423673110975" record_key="GEN_CND_REGION_CONSTRUCTING">
+<notes>Is the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) currently in the process of CONSTRUCTING a BUILDING?</notes>
+<option_key>GEN_CND_REGION_CONSTRUCTING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5a21c661-32a1-49c2-9f66-4d20dd050760}" record_timestamp="1423673111082" record_key="GEN_CND_REGION_CONTAINS_OFFICIAL">
+<notes>Does the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) currently contain a CHARACTER with the ket-defined MINISTERIAL POSITION.</notes>
+<option_key>GEN_CND_REGION_CONTAINS_OFFICIAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{229c9cbb-576b-43e9-b98c-af807c674707}" record_timestamp="1423673111189" record_key="GEN_CND_REGION_ENEMY_NEIGHBOURS">
+<notes>Is the EVENT TARGET REGION (or a REGION where the EVENT TARGET MILITARY FORCE IS LOCATED) NEIGHBOURING an ENEMY FACTION?</notes>
+<option_key>GEN_CND_REGION_ENEMY_NEIGHBOURS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d1c79619-b10a-469f-81d8-1b1ee8aa5869}" record_timestamp="1423673111296" record_key="GEN_CND_REGION_HAS_EFFECT_BUNDLE">
+<notes>Does the EVENT TARGET REGION (or a REGION where the EVENT TARGET MILITARY FORCE IS LOCATED) currently have a key-specified EFFECT BUNDLE applied to it?</notes>
+<option_key>GEN_CND_REGION_HAS_EFFECT_BUNDLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{78116364-6c6c-410c-ac94-8e44604ca6f9}" record_timestamp="1423673111510" record_key="GEN_CND_REGION_MAXED_BUILDING_CHAIN">
+<notes>Has the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED)  managed to CONSTRUCT the maximum level of the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_REGION_MAXED_BUILDING_CHAIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0ce147bd-58f4-48ea-89df-79854f1fa077}" record_timestamp="1423673111403" record_key="GEN_CND_REGION_MAX_FACTION_RELIGION_RATIO">
+<notes>Does the EVENT TARGET REGION (or a REGION where the EVENT TARGET MILITARY FORCE IS LOCATED) contain a ratio of the player faction's RELIGION which is NO GREATER THAN that specified?</notes>
+<option_key>GEN_CND_REGION_MAX_FACTION_RELIGION_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ad9cb286-01dc-4604-87e1-ca5f9cb12e67}" record_timestamp="1423673111616" record_key="GEN_CND_REGION_MIN_FACTION_RELIGION_RATIO">
+<notes>Does the EVENT TARGET REGION (or a REGION where the EVENT TARGET MILITARY FORCE IS LOCATED) contain a ratio of the player faction's RELIGION which is AT LEAST that specified?</notes>
+<option_key>GEN_CND_REGION_MIN_FACTION_RELIGION_RATIO</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c8bcdf43-b2bb-43a2-9648-058774ed6900}" record_timestamp="1423673111723" record_key="GEN_CND_REGION_NEIGHBOURING_HAS_EFFECT_BUNDLE">
+<notes>Does the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED) have a NEIGHBOURING REGION which currently has a key-specified EFFECT BUNDLE applied to it?</notes>
+<option_key>GEN_CND_REGION_NEIGHBOURING_HAS_EFFECT_BUNDLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{638a491e-6847-4b7a-af5f-6bd1dd209571}" record_timestamp="1423673111830" record_key="GEN_CND_REGION_NEIGHBOURS">
+<notes>Is the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED) NEIGHBOURING the player faction?</notes>
+<option_key>GEN_CND_REGION_NEIGHBOURS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8073532d-c02a-4dc8-8acf-bab2bb1ee7aa}" record_timestamp="1462358725637" record_key="GEN_CND_REGION_NOT_ABANDONED">
+<notes>Specify that a target region must not be abandoned</notes>
+<option_key>GEN_CND_REGION_NOT_ABANDONED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9bef6b54-e5d1-4ff2-a2f8-dea4f3a38df1}" record_timestamp="1423673111938" record_key="GEN_CND_REGION_NOT_ALL_OF">
+<notes>Is the EVENT TARGET REGION NOT one of the many key-specified (and semicolon-separated) REGIONS? OPTION_VALUE example: rom_italia_etruria; rom_italia_latium; rom_italia_picenum; etc...</notes>
+<option_key>GEN_CND_REGION_NOT_ALL_OF</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{40ea760c-b594-4620-b661-a3d3cbccaa22}" record_timestamp="1423673112044" record_key="GEN_CND_REGION_NOT_BUILDING_CHAIN">
+<notes>Does the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) NOT possess an instance of the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_REGION_NOT_BUILDING_CHAIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{63e27345-0a82-49cd-8636-df7e609e34d2}" record_timestamp="1423673112152" record_key="GEN_CND_REGION_NOT_BUILDING_CHAIN_AVAILABLE">
+<notes>Can the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) NOT currently CONSTRUCT the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_REGION_NOT_BUILDING_CHAIN_AVAILABLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5462df59-cdd0-43b1-b39b-b15123185564}" record_timestamp="1423673112259" record_key="GEN_CND_REGION_NOT_BUILDING_LEVEL">
+<notes>Does the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) NOT possess an instance of the key-specified BUILDING LEVEL? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_REGION_NOT_BUILDING_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5aaf444e-d91a-499e-b83d-31c0c59d7edb}" record_timestamp="1423673112366" record_key="GEN_CND_REGION_NOT_COASTAL">
+<notes>Is the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) NOT a COASTAL REGION?</notes>
+<option_key>GEN_CND_REGION_NOT_COASTAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f729f42a-8965-429c-bd08-769837990e91}" record_timestamp="1423673112473" record_key="GEN_CND_REGION_NOT_CONSTRUCTING">
+<notes>Is the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) NOT currently in the process of CONSTRUCTING a BUILDING?</notes>
+<option_key>GEN_CND_REGION_NOT_CONSTRUCTING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{616d02d5-5982-4430-872e-07fa54a095b6}" record_timestamp="1423673112580" record_key="GEN_CND_REGION_NOT_CONTAINS_OFFICIAL">
+<notes>Does the EVENT TARGET REGION (or the REGION where the EVENT TARGET IS LOCATED) NOT currently contain a CHARACTER with the ket-defined MINISTERIAL POSITION.</notes>
+<option_key>GEN_CND_REGION_NOT_CONTAINS_OFFICIAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b424cec7-c67f-4ac9-9078-3cbc846981c2}" record_timestamp="1423673112687" record_key="GEN_CND_REGION_NOT_ENEMY_NEIGHBOURS">
+<notes>Is the EVENT TARGET REGION (or a REGION where the EVENT TARGET MILITARY FORCE IS LOCATED) NOT NEIGHBOURING an ENEMY FACTION?</notes>
+<option_key>GEN_CND_REGION_NOT_ENEMY_NEIGHBOURS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{bf565433-a076-496a-b238-26636d560b51}" record_timestamp="1423673112794" record_key="GEN_CND_REGION_NOT_MAXED_BUILDING_CHAIN">
+<notes>Has the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED) NOT managed to CONSTRUCT the maximum level of the key-specified BUILDING CHAIN? Multiple use operator: AND.</notes>
+<option_key>GEN_CND_REGION_NOT_MAXED_BUILDING_CHAIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1c575084-de38-4f8f-8db3-166a6d07ef45}" record_timestamp="1423673112901" record_key="GEN_CND_REGION_NOT_REBELLION">
+<notes>Is the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED) NOT currently experiencing a REBELLION?</notes>
+<option_key>GEN_CND_REGION_NOT_REBELLION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5cd334c2-a480-499d-a6a2-4bbc3734c577}" record_timestamp="1423673113009" record_key="GEN_CND_REGION_NOT_RECRUITING">
+<notes>Is the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED) NOT currently RECRUITING any UNITS?</notes>
+<option_key>GEN_CND_REGION_NOT_RECRUITING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{15169d1f-c048-4a45-95b0-b4a1dac3e0ce}" record_timestamp="1423673113116" record_key="GEN_CND_REGION_NOT_RELIGION">
+<notes>Does the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED) NOT belong to the key-specified RELIGION?</notes>
+<option_key>GEN_CND_REGION_NOT_RELIGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{433a5587-974b-4c40-a896-9f53ab3207a5}" record_timestamp="1423673113224" record_key="GEN_CND_REGION_NOT_SAME_RELIGION">
+<notes>Does the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED) NOT belong to the SAME RELIGION as the player faction?</notes>
+<option_key>GEN_CND_REGION_NOT_SAME_RELIGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{03b38431-f8d7-4f73-b05f-ccf72facb6d0}" record_timestamp="1423673113330" record_key="GEN_CND_REGION_NOT_SLOT_TYPE">
+<notes>Does the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED) NOT possess an instance of the key-specified SLOT TYPE. Multiple use operator: AND.</notes>
+<option_key>GEN_CND_REGION_NOT_SLOT_TYPE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{290ac2a9-8484-4a2a-8481-3b449d433a7b}" record_timestamp="1423673113439" record_key="GEN_CND_REGION_REBELLION">
+<notes>Is the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED) currently experiencing a REBELLION?</notes>
+<option_key>GEN_CND_REGION_REBELLION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5cdeb6ba-22c4-4a97-8418-79f8303ac653}" record_timestamp="1423673113547" record_key="GEN_CND_REGION_RECRUITING">
+<notes>Is the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED)  currently RECRUITING any UNITS?</notes>
+<option_key>GEN_CND_REGION_RECRUITING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3b6d2aa1-e529-4f88-b095-10c4063a7b05}" record_timestamp="1423673113654" record_key="GEN_CND_REGION_RELIGION">
+<notes>Does the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED) belong to the key-specified RELIGION?</notes>
+<option_key>GEN_CND_REGION_RELIGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{15968e84-4487-4c3d-bfcb-2595915dadc1}" record_timestamp="1423673113760" record_key="GEN_CND_REGION_SAME_RELIGION">
+<notes>Does the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED) belong to the SAME RELIGION as the player faction?</notes>
+<option_key>GEN_CND_REGION_SAME_RELIGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4a6fdde9-0459-406e-b8d4-5ba72749374e}" record_timestamp="1423673113867" record_key="GEN_CND_REGION_SLOT_TYPE">
+<notes>Does the EVENT TARGET REGION (or a REGION where the EVENT TARGET IS LOCATED) possess an instance of the key-specified SLOT TYPE. Multiple use operator: AND.</notes>
+<option_key>GEN_CND_REGION_SLOT_TYPE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8716ec83-ed7d-4a58-83a2-4202bdb100dd}" record_timestamp="1423673113974" record_key="GEN_CND_RESEARCHABLE">
+<notes>Is the EVENT TARGET TECHNOLOGY currently RESEARCHABLE?</notes>
+<option_key>GEN_CND_RESEARCHABLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{bc7e065b-6f2d-4ac6-9b0a-ebf6f817a3e1}" record_timestamp="1423673114080" record_key="GEN_CND_RESEARCHED">
+<notes>Has the EVENT TARGET TECHNOLOGY been RESEARCHED?</notes>
+<option_key>GEN_CND_RESEARCHED</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4a4b5cd2-75d2-454a-82e1-bd229204a757}" record_timestamp="1423673114188" record_key="GEN_CND_RESEARCHING">
+<notes>Is the EVENT TARGET TECHNOLOGY currently being RESEARCHED?</notes>
+<option_key>GEN_CND_RESEARCHING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{92bc93e3-83f1-40f2-9b2a-e561c0880784}" record_timestamp="1423673114294" record_key="GEN_CND_SELF">
+<notes>Specify that a event targets the owners faction</notes>
+<option_key>GEN_CND_SELF</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{57583b94-8bd4-417d-9836-251ca6aa54f2}" record_timestamp="1423673114401" record_key="GEN_CND_SHOGUN">
+<notes>[OBSOLETE] Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently rule the shogunate?</notes>
+<option_key>GEN_CND_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{6653c175-928b-4419-b556-828d820422c6}" record_timestamp="1423673114508" record_key="GEN_CND_SLOT_TYPE">
+<notes>[OBSOLETE?] Is the EVENT TARGET SLOT of the key-specified SLOT TYPE?</notes>
+<option_key>GEN_CND_SLOT_TYPE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0bff79e7-4120-4c73-89c8-cccb012ec3c2}" record_timestamp="1423673114614" record_key="GEN_CND_STANCE">
+<notes>Is the EVENT TARGET MILITARY FORCE currently in the key-specified STANCE?</notes>
+<option_key>GEN_CND_STANCE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{26313fea-6976-48ac-9db1-077248427bd6}" record_timestamp="1442241588838" record_key="GEN_CND_SUBCULTURE">
+<notes>Does the event target character / region / settlement / military_force / faction belong to the key-specified subculture? Multiple use operator: OR</notes>
+<option_key>GEN_CND_SUBCULTURE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{942c8812-95c5-471a-9690-1b34bc253ac0}" record_timestamp="1423673114721" record_key="GEN_CND_TARGET_ARMY_IN_ANY_REGION">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently have an ARMY in one of the player faction's REGIONS?</notes>
+<option_key>GEN_CND_TARGET_ARMY_IN_ANY_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{23978176-1bf6-4f67-8bfb-f680b7ac8847}" record_timestamp="1423673114827" record_key="GEN_CND_TARGET_ARMY_NEAR_ORIGINAL_HOME_REGION">
+<notes>Does the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) currently have an ARMY in the palyer faction's HOME REGION or one of its NEIGHBOURING REGIONS?</notes>
+<option_key>GEN_CND_TARGET_ARMY_NEAR_ORIGINAL_HOME_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{04adf1d4-02a7-4e9e-af49-3e8d1c875ea4}" record_timestamp="1437490620714" record_key="GEN_CND_TARGET_FACTION_SUBCULTURE">
+<notes>The key of the event target faction we're looking for. (Multiple use operator OR)</notes>
+<option_key>GEN_CND_TARGET_FACTION_SUBCULTURE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5915948d-e381-45b0-a9f4-2c149398205c}" record_timestamp="1445862796675" record_key="GEN_CND_TECHNOLOGY">
+<notes>The key of the targeted technology</notes>
+<option_key>GEN_CND_TECHNOLOGY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{35b4ab88-88fe-42ff-a87e-3ba9f5f9e2a8}" record_timestamp="1423673114934" record_key="GEN_CND_TECHNOLOGY_CIVIL">
+<notes>Is the EVENT TARGET TECHNOLOGY a CIVIL TECHNOLOGY?</notes>
+<option_key>GEN_CND_TECHNOLOGY_CIVIL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f4966081-e6c7-49ec-986b-0a75cffb5ed6}" record_timestamp="1423673115041" record_key="GEN_CND_TECHNOLOGY_ENGINEERING">
+<notes>Is the EVENT TARGET TECHNOLOGY an ENGINEERING TECHNOLOGY?</notes>
+<option_key>GEN_CND_TECHNOLOGY_ENGINEERING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c59b427a-4c8a-4a8a-b7b6-cc964d8bf3ca}" record_timestamp="1423673115148" record_key="GEN_CND_TECHNOLOGY_MILITARY">
+<notes>Is the EVENT TARGET TECHNOLOGY a MILITARY TECHNOLOGY?</notes>
+<option_key>GEN_CND_TECHNOLOGY_MILITARY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{26f3d4b3-44ab-43f2-92f6-5c2ce6351964}" record_timestamp="1423673115256" record_key="GEN_CND_TECHNOLOGY_NOT_CIVIL">
+<notes>Is the EVENT TARGET TECHNOLOGY NOT a CIVIL TECHNOLOGY?</notes>
+<option_key>GEN_CND_TECHNOLOGY_NOT_CIVIL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{83cad120-821a-4f61-b354-1412b906a03d}" record_timestamp="1423673115363" record_key="GEN_CND_TECHNOLOGY_NOT_ENGINEERING">
+<notes>Is the EVENT TARGET TECHNOLOGY NOT an ENGINEERING TECHNOLOGY?</notes>
+<option_key>GEN_CND_TECHNOLOGY_NOT_ENGINEERING</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4e35dc20-da0d-42b6-856c-97dd3b741de0}" record_timestamp="1423673115470" record_key="GEN_CND_TECHNOLOGY_NOT_MILITARY">
+<notes>Is the EVENT TARGET TECHNOLOGY NOT a MILITARY TECHNOLOGY?</notes>
+<option_key>GEN_CND_TECHNOLOGY_NOT_MILITARY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7533d4f8-8de3-48f8-8d70-5365c9c05a4b}" record_timestamp="1423673115577" record_key="GEN_CND_TRADE">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) TRADING with the player faction?</notes>
+<option_key>GEN_CND_TRADE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{bb179ed3-f306-4783-b91a-c508df223777}" record_timestamp="1423673115682" record_key="GEN_CND_VISIBLE">
+<notes>Can the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) be seen by the player faction?</notes>
+<option_key>GEN_CND_VISIBLE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{35ee5923-0858-4e78-8d8a-8ffce6bc213a}" record_timestamp="1423673115789" record_key="GEN_CND_WAR">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) AT WAR with the player faction?</notes>
+<option_key>GEN_CND_WAR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{b8cb299c-2c52-4d31-be01-40237d162dc6}" record_timestamp="1423673115895" record_key="GEN_CND_WAR_SHOGUN">
+<notes>[OBSOLETE] Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) AT WAR with the Shogunate?</notes>
+<option_key>GEN_CND_WAR_SHOGUN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{82a9d4ef-364c-4e8a-b31f-334c675d5a9d}" record_timestamp="1423673116002" record_key="GEN_CND_WAR_WITH_ALLY">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) AT WAR with an ALLY of the player faction?</notes>
+<option_key>GEN_CND_WAR_WITH_ALLY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{15301624-286a-4b91-8ea5-b237be0cb799}" record_timestamp="1423673116108" record_key="GEN_CND_WAR_WITH_ENEMY">
+<notes>Is the EVENT TARGET FACTION (or the FACTION that OWNS the EVENT TARGET) AT WAR with an ENEMY of the player faction?</notes>
+<option_key>GEN_CND_WAR_WITH_ENEMY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c84cdfe1-5ab0-4273-8cca-db1dd5c952d2}" record_timestamp="1423673116216" record_key="GEN_TARGET_CHARACTER">
+<notes>Specifies that the EVENT TARGET must be a CHARACTER. (May not be used in conjunction with other GEN_TARGET OPTIONS. All EVENTS must have a GEN_TARGET OPTION.)</notes>
+<option_key>GEN_TARGET_CHARACTER</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3d6fed31-6b52-44df-a9d3-c03f80eca32b}" record_timestamp="1423673116321" record_key="GEN_TARGET_FACTION">
+<notes>Specifies that the EVENT TARGET must be a FACTION. (May not be used in conjunction with other GEN_TARGET OPTIONS. All EVENTS must have a GEN_TARGET OPTION.)</notes>
+<option_key>GEN_TARGET_FACTION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{23687c15-b112-488e-9415-8767a124e3e5}" record_timestamp="1423673116428" record_key="GEN_TARGET_MILITARY_FORCE">
+<notes>Specifies that the EVENT TARGET must be a MILITARY FORCE. (May not be used in conjunction with other GEN_TARGET OPTIONS. All EVENTS must have a GEN_TARGET OPTION.)</notes>
+<option_key>GEN_TARGET_MILITARY_FORCE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{84f083ed-d3b5-4dce-a61d-60d2ce559fce}" record_timestamp="1423673116535" record_key="GEN_TARGET_NONE">
+<notes>Specifies that there is NO EVENT TARGET. (May not be used in conjunction with other GEN_TARGET OPTIONS. All EVENTS must have a GEN_TARGET OPTION.)</notes>
+<option_key>GEN_TARGET_NONE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4e2da6a6-2ec8-4ff2-99c8-22d813e36f78}" record_timestamp="1423673116642" record_key="GEN_TARGET_PARENT">
+<notes>Specifies that the EVENT TARGET is INHERITED from the PARENT EVENT. This is only applicable to FOLLOWUP EVENTS. (May not be used in conjunction with other GEN_TARGET OPTIONS. All EVENTS must have a GEN_TARGET OPTION.)</notes>
+<option_key>GEN_TARGET_PARENT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3bdd6000-9608-44ac-94fc-2924dcb4c011}" record_timestamp="1423673116749" record_key="GEN_TARGET_POLITICAL_EVENT">
+<notes>Specifies that the EVENT TARGET comes from a political event (CAN ONLY BE USED WITH POLITICAL EVENT GENERATED EVENTS)</notes>
+<option_key>GEN_TARGET_POLITICAL_EVENT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{160a64f9-214c-4d7c-8737-4a173f6dd1a4}" record_timestamp="1423673116856" record_key="GEN_TARGET_POLITICAL_EVENT_ACTOR">
+<notes>Specifies that the EVENT TARGET must be an actor in a political event (CAN ONLY BE USED WITH POLITICAL EVENT GENERATED EVENTS)</notes>
+<option_key>GEN_TARGET_POLITICAL_EVENT_ACTOR</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f178b819-d6e4-4be6-a3cc-f3de2e7a6169}" record_timestamp="1423673116963" record_key="GEN_TARGET_POLITICAL_EVENT_TARGET">
+<notes>Specifies that the EVENT TARGET must be a target in a political event (CAN ONLY BE USED WITH POLITICAL EVENT GENERATED EVENTS)</notes>
+<option_key>GEN_TARGET_POLITICAL_EVENT_TARGET</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d31e1a7e-5292-4eb9-a2f2-dde936c7f76f}" record_timestamp="1423673117071" record_key="GEN_TARGET_REGION">
+<notes>Specifies that the EVENT TARGET must be a REGION. (May not be used in conjunction with other GEN_TARGET OPTIONS. All EVENTS must have a GEN_TARGET OPTION.)</notes>
+<option_key>GEN_TARGET_REGION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0725c06a-f506-4517-ad7f-633641ae1812}" record_timestamp="1423673117179" record_key="GEN_TARGET_SETTLEMENT">
+<notes>Specifies that the EVENT TARGET must be a SETTLEMENT. (May not be used in conjunction with other GEN_TARGET OPTIONS. All EVENTS must have a GEN_TARGET OPTION.)</notes>
+<option_key>GEN_TARGET_SETTLEMENT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3556462d-b350-4b3d-82c6-feb13d5c66dc}" record_timestamp="1423673117287" record_key="GEN_TARGET_SLOT">
+<notes>Specifies that the EVENT TARGET must be a SLOT. (May not be used in conjunction with other GEN_TARGET OPTIONS. All EVENTS must have a GEN_TARGET OPTION.)</notes>
+<option_key>GEN_TARGET_SLOT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{c96a3c7a-77a2-40bc-9b52-36c9f199533d}" record_timestamp="1423673117395" record_key="GEN_TARGET_TECHNOLOGY">
+<notes>Specifies that the EVENT TARGET must be a TECHNOLOGY. (May not be used in conjunction with other GEN_TARGET OPTIONS. All EVENTS must have a GEN_TARGET OPTION.)</notes>
+<option_key>GEN_TARGET_TECHNOLOGY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{08d715a2-2326-48f3-8ca5-b2db60221ae9}" record_timestamp="1423673117503" record_key="VAR_CHANCE">
+<notes>Specifies the relative chance that an EVENT that satisfies its EVENT OPTIONS will be GENERATED. A WEIGHTING, NOT an actual PERCENTAGE.</notes>
+<option_key>VAR_CHANCE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7faa585b-e67f-4954-9a35-fc83dbc5e376}" record_timestamp="1423673117610" record_key="VAR_DELAY_MAX">
+<notes>Specifies the MAXIMUM number of turns before a FOLLOWUP EVENT will be triggered after its PARENT EVENT has fired. I *think* this is a required parameter.</notes>
+<option_key>VAR_DELAY_MAX</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{51476550-9a29-42d3-80f0-572f6a6e1bfb}" record_timestamp="1423673117718" record_key="VAR_DELAY_MIN">
+<notes>Specifies the MINIMUM number of turns before a FOLLOWUP EVENT will be triggered after its PARENT EVENT has fired. I *think* this is a required parameter.</notes>
+<option_key>VAR_DELAY_MIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{22c24969-76e2-441a-ae6c-0da1fdc53b18}" record_timestamp="1423673117825" record_key="VAR_FOLLOWUP_CHANCE">
+<notes>Specifies the PERCENTAGE CHANCE of GENERATING one of the associated FOLLOWUP EVENTS.</notes>
+<option_key>VAR_FOLLOWUP_CHANCE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{6f1c5535-8aa4-4cd5-806b-7516954d892a}" record_timestamp="1423673117933" record_key="VAR_MISSION_LENGTH_ADDITIONAL_MAX">
+<notes>Specifies the MAXIMUM number of turns which may be RANDOMLY ADDED to a MISSION turn allowance.</notes>
+<option_key>VAR_MISSION_LENGTH_ADDITIONAL_MAX</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{85d46829-d8f1-47bd-8c24-0ca0aa1bba2f}" record_timestamp="1423673118040" record_key="VAR_MISSION_LENGTH_ADDITIONAL_MIN">
+<notes>Specifies the MINIMUM number of turns which must be RANDOMLY ADDED to a MISSION turn allowance.</notes>
+<option_key>VAR_MISSION_LENGTH_ADDITIONAL_MIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{df0566ff-0b80-46a9-9180-a7b526f46839}" record_timestamp="1444905865679" record_key="VAR_MISSION_LENGTH_INFINITE">
+<notes>Specifies a MISSION length is infinite.</notes>
+<option_key>VAR_MISSION_LENGTH_INFINITE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9604557c-af00-4cd7-aa07-c8a181a59ccb}" record_timestamp="1423673118147" record_key="VAR_MISSION_LENGTH_MAX">
+<notes>Specifies a MISSION's MAXIMUM turn allowance.</notes>
+<option_key>VAR_MISSION_LENGTH_MAX</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{9df831d3-7639-4d29-89b7-1fa5bf811305}" record_timestamp="1423673118254" record_key="VAR_MISSION_LENGTH_MIN">
+<notes>Specifies a MISSION's MINIMUM turn allowance.</notes>
+<option_key>VAR_MISSION_LENGTH_MIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{3c0742c7-6aa9-4826-b1ac-4bb3dcca8db8}" record_timestamp="1423673118362" record_key="VAR_MISSION_LENGTH_MOD_EASY">
+<notes>Multiplies the final MISSION turn allowance for EASY CAMPAIGNS. MUST have a decimal (1.0, 1.5, 2.0, etc).</notes>
+<option_key>VAR_MISSION_LENGTH_MOD_EASY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{24f074d9-7aaf-4348-b27f-cda684ade42d}" record_timestamp="1461152289044" record_key="VAR_MISSION_LENGTH_MOD_HARD">
+<notes>Multiplies the final MISSION turn allowance for HARD CAMPAIGNS. MUST have a decimal (1.0, 1.5, 2.0, etc).</notes>
+<option_key>VAR_MISSION_LENGTH_MOD_HARD</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{69e64a4a-9a42-4177-997d-a0f2cdf998a7}" record_timestamp="1461152289044" record_key="VAR_MISSION_LENGTH_MOD_NORMAL">
+<notes>Multiplies the final MISSION turn allowance for NORMAL CAMPAIGNS. MUST have a decimal (1.0, 1.5, 2.0, etc).</notes>
+<option_key>VAR_MISSION_LENGTH_MOD_NORMAL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{2392b5a0-74ab-4f8e-9833-a0bfe53c2cb4}" record_timestamp="1461152289045" record_key="VAR_MISSION_LENGTH_MOD_VERY_HARD">
+<notes>Multiplies the final MISSION turn allowance for VERY HARD and LEGENDARY CAMPAIGNS. MUST have a decimal (1.0, 1.5, 2.0, etc).</notes>
+<option_key>VAR_MISSION_LENGTH_MOD_VERY_HARD</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1d3c863c-9741-400d-acca-dbcc3c5f111e}" record_timestamp="1423673118796" record_key="VAR_OBJECTIVE_AGENT">
+<notes>Specify that a CHARACTER-RELATED MISSION OBJECTIVE must be a key-specified AGENT.</notes>
+<option_key>VAR_OBJECTIVE_AGENT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a70f2c48-7a14-487d-8eea-43a2ec4ce26f}" record_timestamp="1465456427971" record_key="VAR_OBJECTIVE_AGENT_SUBTYPE">
+<notes>Specify that a CHARACTER-RELATED MISSION OBJECTIVE must be a key-specified AGENT SUBTYPE.</notes>
+<option_key>VAR_OBJECTIVE_AGENT_SUBTYPE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7b39ada2-8c2b-489c-aceb-4ee5197eed72}" record_timestamp="1461152289045" record_key="VAR_OBJECTIVE_AMOUNT_FLOAT">
+<notes>The amount of the variable that the mission objective requires, expressed as a float value.</notes>
+<option_key>VAR_OBJECTIVE_AMOUNT_FLOAT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{8379be20-97d4-4f43-b9df-ed116b3ba10c}" record_timestamp="1461152289045" record_key="VAR_OBJECTIVE_AMOUNT_INT">
+<notes>The amount of the variable that the mission objective requires, expressed as an integer value.</notes>
+<option_key>VAR_OBJECTIVE_AMOUNT_INT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{dc6845f8-b8eb-4676-bd2e-93bcdb83d062}" record_timestamp="1423673118904" record_key="VAR_OBJECTIVE_ARMIES_ONLY">
+<notes>Specify that an FORCE-RELATED MISSION OBJECTIVE must be an ARMY.</notes>
+<option_key>VAR_OBJECTIVE_ARMIES_ONLY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{feba8532-4575-4cab-8dc8-96e8d8bb882e}" record_timestamp="1423673119012" record_key="VAR_OBJECTIVE_BUILDING_CHAIN">
+<notes>Specify that a BUILDING-RELATED MISSION OBJECTIVE must be a key-specified BUILDING CHAIN.</notes>
+<option_key>VAR_OBJECTIVE_BUILDING_CHAIN</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{08c298f8-908a-4bde-938c-152eb0e3a68f}" record_timestamp="1423673119120" record_key="VAR_OBJECTIVE_BUILDING_LEVEL">
+<notes>Specify that a BUILDING-RELATED MISSION OBJECTIVE must be a key-specified BUILDING LEVEL.</notes>
+<option_key>VAR_OBJECTIVE_BUILDING_LEVEL</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7f56218f-180a-41e9-aebe-d24f3b330f4c}" record_timestamp="1437490625065" record_key="VAR_OBJECTIVE_CHARACTER_ID">
+<notes>The id of the character</notes>
+<option_key>VAR_OBJECTIVE_CHARACTER_ID</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7c48240a-c2d0-473b-9fca-c53699ac7364}" record_timestamp="1443715849242" record_key="VAR_OBJECTIVE_ENEMY_OF_FACTION">
+<notes>Specify that the MISSION OBJECTIVE associated with the mission will involve acting against an ENEMY of the TARGET FACTION.</notes>
+<option_key>VAR_OBJECTIVE_ENEMY_OF_FACTION</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{a9f42b0f-5a04-4ab9-945f-d5e0d1509547}" record_timestamp="1423673119229" record_key="VAR_OBJECTIVE_INVADING_ONLY">
+<notes>Specify that a FORCE-RELATED MISSION OBJECTIVE must be invading the PLAYER FACTION's REGIONS.</notes>
+<option_key>VAR_OBJECTIVE_INVADING_ONLY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5006ff36-cc3f-4548-a1b6-0b31de7308ae}" record_timestamp="1423673119338" record_key="VAR_OBJECTIVE_NAVIES_ONLY">
+<notes>Specify that an FORCE-RELATED MISSION OBJECTIVE must be an NAVY.</notes>
+<option_key>VAR_OBJECTIVE_NAVIES_ONLY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{7aa8509a-0af5-4261-8d2d-9b0af6790f0f}" record_timestamp="1437490618413" record_key="VAR_OBJECTIVE_NUM_AGENTS">
+<notes>The number of agents the mission objective requires</notes>
+<option_key>VAR_OBJECTIVE_NUM_AGENTS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{1f79892f-d59b-4d18-b4f6-c98a10ad4d57}" record_timestamp="1437490618661" record_key="VAR_OBJECTIVE_NUM_ARMIES">
+<notes>The number of armies the mission objective requires</notes>
+<option_key>VAR_OBJECTIVE_NUM_ARMIES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{5c1699c5-8355-4d2f-97fa-76e53ccf9770}" record_timestamp="1437490619520" record_key="VAR_OBJECTIVE_NUM_CHARACTERS">
+<notes>The number of characters to complete the objective</notes>
+<option_key>VAR_OBJECTIVE_NUM_CHARACTERS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{0a82b919-ac46-4deb-8e5c-f4cd60fc754e}" record_timestamp="1437490625534" record_key="VAR_OBJECTIVE_NUM_PROVINCES">
+<notes>The number of provinces</notes>
+<option_key>VAR_OBJECTIVE_NUM_PROVINCES</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{4b3f6ff1-8a69-43db-84a3-8238e2c852ab}" record_timestamp="1437490618910" record_key="VAR_OBJECTIVE_NUM_REGIONS">
+<notes>The number of regions the mission objective requires</notes>
+<option_key>VAR_OBJECTIVE_NUM_REGIONS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e4a1a2f6-35d3-492a-a2b2-5e49154f6017}" record_timestamp="1437490618788" record_key="VAR_OBJECTIVE_NUM_SETTLEMENTS">
+<notes>The number of settlements the mission objective requires</notes>
+<option_key>VAR_OBJECTIVE_NUM_SETTLEMENTS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{633451bb-f752-40f5-b0d8-129c566e0dac}" record_timestamp="1437490621081" record_key="VAR_OBJECTIVE_NUM_TURNS">
+<notes>The number of turns to complete the objective</notes>
+<option_key>VAR_OBJECTIVE_NUM_TURNS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{196be261-7104-4a2f-8b3d-2391219eff8a}" record_timestamp="1437490618537" record_key="VAR_OBJECTIVE_NUM_UNITS">
+<notes>The number of units the mission objective requires</notes>
+<option_key>VAR_OBJECTIVE_NUM_UNITS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{d0010fea-f37f-4b84-8b22-cec5e1374e37}" record_timestamp="1423673119446" record_key="VAR_OBJECTIVE_RELIGION_PCT">
+<notes>Specify that a RELIGION-RELATED MISSION OBJECTIVE must be the specified percentage of the PLAYER FACTION'S RELIGION.</notes>
+<option_key>VAR_OBJECTIVE_RELIGION_PCT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{66e9a10a-d041-47f1-ba70-611a21a9b321}" record_timestamp="1423673119553" record_key="VAR_OBJECTIVE_REQUIRES_VICTORY">
+<notes>Specify that a FORCE-RELATED MISSION OBJECTIVE must conclude in a VICTORY.</notes>
+<option_key>VAR_OBJECTIVE_REQUIRES_VICTORY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{e959a8e4-a87c-4580-a82e-483432b79a8e}" record_timestamp="1437490624463" record_key="VAR_OBJECTIVE_RESOURCE_TYPE">
+<notes>The resources type of the resource related objective</notes>
+<option_key>VAR_OBJECTIVE_RESOURCE_TYPE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{646fc6c2-4b09-4f31-8efd-b07568882d51}" record_timestamp="1441356542853" record_key="VAR_OBJECTIVE_SUBCULTURE">
+<notes>Specify that a FACTION-RELATED MISSION OBJECTIVE must involve a key-specified SUBCULTURE</notes>
+<option_key>VAR_OBJECTIVE_SUBCULTURE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{80b053b7-8cf7-4fbd-b98b-27fb12933e37}" record_timestamp="1423673119661" record_key="VAR_OBJECTIVE_TECH_CATEGORY">
+<notes>Specify that a TECHNOLOGY-RELATED MISSION OBJECTIVE must involve research of a TECHNOLOGY from the key-specified CATEGORY.</notes>
+<option_key>VAR_OBJECTIVE_TECH_CATEGORY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{dae1d81b-c503-459b-9518-e5982b2fffc3}" record_timestamp="1423673119768" record_key="VAR_OBJECTIVE_UNIT">
+<notes>Specify that a RECRUITMENT-RELATED MISSION OBJECTIVE must involve recruitment of a key-specified UNIT.</notes>
+<option_key>VAR_OBJECTIVE_UNIT</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{65c0fb35-8c1e-4bfc-96ec-7049f22b44f3}" record_timestamp="1423673119875" record_key="VAR_OBJECTIVE_UNIT_CASTE">
+<notes>Specify that a RECRUITMENT-RELATED MISSION OBJECTIVE must involve recruitment of a UNIT from a key-specified CASTE.</notes>
+<option_key>VAR_OBJECTIVE_UNIT_CASTE</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{ffc7fd18-4295-4732-ba57-6ab8caeb5351}" record_timestamp="1423673119982" record_key="VAR_OBJECTIVE_UNIT_CATEGORY">
+<notes>Specify that a RECRUITMENT-RELATED MISSION OBJECTIVE must involve recruitment of a UNIT from a key-specified CATEGORY.</notes>
+<option_key>VAR_OBJECTIVE_UNIT_CATEGORY</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{f5165001-0e7f-4cc3-9ec0-d59d10234701}" record_timestamp="1423673120090" record_key="VAR_OBJECTIVE_UNIT_CLASS">
+<notes>Specify that a RECRUITMENT-RELATED MISSION OBJECTIVE must involve recruitment of a UNIT from a key-specified CLASS.</notes>
+<option_key>VAR_OBJECTIVE_UNIT_CLASS</option_key>
+</cdir_events_options>
+<cdir_events_options record_uuid="{478646ce-b441-4c4e-8f6e-3f0f7b9871ea}" record_timestamp="1397647402338" record_key="default">
+<notes>placeholder</notes>
+<option_key>default</option_key>
+</cdir_events_options>
+</dataroot>

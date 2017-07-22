@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dilemmas.xsd" export_time="Fri Feb 3 11:47:33 2017" revision="177" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>7e276ab1-2b4a-442e-ac2e-fa251500b278</edit_uuid>
+<dilemmas record_uuid="{31782a38-ffd5-4077-8f17-d8158a07d388}" record_timestamp="1468500775991" record_key="wh_dlc03_agent_choice">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc03_agent_choice</key>
+<localised_description state="APPROVED" last_approved_text="The Ruinous Powers take grim pleasure in your endeavours. In their dark mirth, they grant a boon. Which of their gifts will you choose?" last_edit_user="bob">The Ruinous Powers take grim pleasure in your endeavours. In their dark mirth, they grant a boon. Which of their gifts will you choose?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Dark Choice" last_edit_user="bob">Dark Choice</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{c5e54142-15b6-419e-8649-2d0d13dc8a45}" record_timestamp="1465837574163" record_key="wh_dlc03_bst_blasphemy">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc03_bst_blasphemy</key>
+<localised_description state="APPROVED" last_approved_text="Although you have scored a victory most vicious, enemy reinforcements are on their way and will doubtless overrun this position. There is precious little time - do we loot the wealth from the corpses or defile their shrines? There is not enough time for both!" last_edit_user="bob">Although you have scored a victory most vicious, enemy reinforcements are on their way and will doubtless overrun this position. There is precious little time - do we loot the wealth from the corpses or defile their shrines? There is not enough time for both!</localised_description>
+<localised_title state="APPROVED" last_approved_text="Blasphemy " last_edit_user="bob">Blasphemy </localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{d8f834ea-d25b-42e3-be73-513241664844}" record_timestamp="1465837574238" record_key="wh_dlc03_bst_blood_or_flesh">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc03_bst_blood_or_flesh</key>
+<localised_description state="APPROVED" last_approved_text="The herd cries out for blood - you yourself can taste the coppery call on your tongue. The only question remaining is which Uncloven Ones? Empire or Bretonnia - fine choices both!" last_edit_user="bob">The herd cries out for blood - you yourself can taste the coppery call on your tongue. The only question remaining is which Uncloven Ones? Empire or Bretonnia - fine choices both!</localised_description>
+<localised_title state="APPROVED" last_approved_text="Blood or Flesh" last_edit_user="bob">Blood or Flesh</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{d4adeeae-1e25-4219-bdcc-4c3935b6c4d6}" record_timestamp="1466176776919" record_key="wh_dlc03_bst_blood_or_flesh_mini">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc03_bst_blood_or_flesh_mini</key>
+<localised_description state="APPROVED" last_approved_text="The herd cries out for blood - you yourself can taste the coppery call on your tongue. The only question remaining is which Uncloven Ones? Middenheim or Hochland - fine choices both!" last_edit_user="bob">The herd cries out for blood - you yourself can taste the coppery call on your tongue. The only question remaining is which Uncloven Ones? Middenheim or Hochland - fine choices both!</localised_description>
+<localised_title state="APPROVED" last_approved_text="Blood or Flesh" last_edit_user="bob">Blood or Flesh</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{26b1ffee-716c-4256-9ef8-5274b31758ec}" record_timestamp="1465837574343" record_key="wh_dlc03_bst_blood_or_flesh_mini_2">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc03_bst_blood_or_flesh_mini_2</key>
+<localised_description state="APPROVED" last_approved_text="The herd cries out for blood - you yourself can taste the coppery call on your tongue. The only question remaining is which Uncloven Ones? The Cult of Ulric or Carroburg - fine choices both!" last_edit_user="bob">The herd cries out for blood - you yourself can taste the coppery call on your tongue. The only question remaining is which Uncloven Ones? The Cult of Ulric or Carroburg - fine choices both!</localised_description>
+<localised_title state="APPROVED" last_approved_text="Blood or Flesh" last_edit_user="bob">Blood or Flesh</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{6e2170ba-5b2e-4917-b5e0-d3a62b93cef8}" record_timestamp="1465577678809" record_key="wh_dlc03_bst_boris_defeated">
+<event_category>Event</event_category>
+<generate>0</generate>
+<key>wh_dlc03_bst_boris_defeated</key>
+<localised_description state="APPROVED" last_approved_text="Todbringer hits the ground, the air rushing from his lungs. His eyes bulge in shock and pain and then Khazrak is upon him. Two inhuman arms bind him to the floor. A savage, bestial roar founders into laughter, dark and derisive. His head dips, a battle-worn and dirt-firmed horn edging perilously close to Todbringer's right eye. With calculated inelegance, Khazrak plunges it down, the laughter now a feverous howling of gruesome delight. Blood explodes from the socket. Todbringer screams. Khazrak laughs.\n\nThe eye - and vengeance - is yours at last Khazrak! What will you do with your new prize?" last_edit_user="bob">Todbringer hits the ground, the air rushing from his lungs. His eyes bulge in shock and pain and then Khazrak is upon him. Two inhuman arms bind him to the floor. A savage, bestial roar founders into laughter, dark and derisive. His head dips, a battle-worn and dirt-firmed horn edging perilously close to Todbringer's right eye. With calculated inelegance, Khazrak plunges it down, the laughter now a feverous howling of gruesome delight. Blood explodes from the socket. Todbringer screams. Khazrak laughs.\n\nThe eye - and vengeance - is yours at last Khazrak! What will you do with your new prize?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Boris Todbringer Defeated" last_edit_user="bob">Boris Todbringer Defeated</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>todbringer_defeated</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{d677143b-b8d9-4804-804a-2765ce5e13a9}" record_timestamp="1465837574704" record_key="wh_dlc03_bst_command_of_the_herd">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc03_bst_command_of_the_herd</key>
+<localised_description state="APPROVED" last_approved_text="In the herd, strength is the only qualifier. A foolish but admirable beast challenged you for control of the herd and lost. He is at your mercy now, lord - do you wish to remove this weak one's horns and in so doing remove the threat or kill him to prove a point?" last_edit_user="bob">In the herd, strength is the only qualifier. A foolish but admirable beast challenged you for control of the herd and lost. He is at your mercy now, lord - do you wish to remove this weak one's horns and in so doing remove the threat or kill him to prove a point?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Commander of the Herd " last_edit_user="bob">Commander of the Herd </localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{967acc01-bac1-430b-973e-f4b56bb57213}" record_timestamp="1469176807852" record_key="wh_dlc03_bst_dont_lick_a_toad">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc03_bst_dont_lick_a_toad</key>
+<localised_description state="APPROVED" last_approved_text="The lair of a Jabberslythe - a mutated and horrendous abomination - has been found, with the creature still within. We could harness this beast to bolster the herd and risk madness or leave it to its abominable rest." last_edit_user="bob">The lair of a Jabberslythe - a mutated and horrendous abomination - has been found, with the creature still within. We could harness this beast to bolster the herd and risk madness or leave it to its abominable rest.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Don't Lick a Toad " last_edit_user="bob">Don't Lick a Toad </localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{df97b8e7-7767-4490-ab09-d4357f7edaf5}" record_timestamp="1465837574381" record_key="wh_dlc03_bst_gaze_of_darkness">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc03_bst_gaze_of_darkness</key>
+<localised_description state="APPROVED" last_approved_text="Our devotion to madness and destruction has drawn the favour of the Chaos Gods, who wish to reward our calamitous actions with a gift. Yet we could reject it. Shall we do so? Or shall we accept this Ruinous offering?" last_edit_user="bob">Our devotion to madness and destruction has drawn the favour of the Chaos Gods, who wish to reward our calamitous actions with a gift. Yet we could reject it. Shall we do so? Or shall we accept this Ruinous offering?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Gaze of Darkness" last_edit_user="bob">Gaze of Darkness</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{bb722bde-44c5-4d32-a6e1-128a67f99de8}" record_timestamp="1465837574415" record_key="wh_dlc03_bst_gluttony">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc03_bst_gluttony</key>
+<localised_description state="APPROVED" last_approved_text="The herd is noisome and disgruntled - moreso than usual even. They resent having to worship the herdstone for yet another night and instead desire to feast and overindulge. What say you, lord?" last_edit_user="bob">The herd is noisome and disgruntled - moreso than usual even. They resent having to worship the herdstone for yet another night and instead desire to feast and overindulge. What say you, lord?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Gluttony " last_edit_user="bob">Gluttony </localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{7cf10340-8c5b-448a-8241-c41ce88441e9}" record_timestamp="1468500080238" record_key="wh_dlc03_bst_into_the_heart_of_the_dark">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc03_bst_into_the_heart_of_the_dark</key>
+<localised_description state="APPROVED" last_approved_text="One of your Bray-Shamans - one of some renown - wishes to leave the herd and make a journey to the Heart of the Dark. Do you wish to allow this pilgrimage?" last_edit_user="bob">One of your Bray-Shamans - one of some renown - wishes to leave the herd and make a journey to the Heart of the Dark. Do you wish to allow this pilgrimage?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Into the Heart of the Dark " last_edit_user="bob">Into the Heart of the Dark </localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{0a025884-e042-4650-bab6-fcc3f6b73bf4}" record_timestamp="1465837574486" record_key="wh_dlc03_bst_ruinous_rituals">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc03_bst_ruinous_rituals</key>
+<localised_description state="APPROVED" last_approved_text="The Ruinous Powers look down upon us with ire, lord. Perhaps we were not diligent enough in sowing catastrophe? Perhaps you do not care? If you do, a sacrifice of warriors should appease their dark desires. If you do not, then the herd awaits…" last_edit_user="bob">The Ruinous Powers look down upon us with ire, lord. Perhaps we were not diligent enough in sowing catastrophe? Perhaps you do not care? If you do, a sacrifice of warriors should appease their dark desires. If you do not, then the herd awaits…</localised_description>
+<localised_title state="APPROVED" last_approved_text="Ruinous Rituals " last_edit_user="bob">Ruinous Rituals </localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{f06bc8b3-e2a7-4a1a-b8b3-8205a7cb9c97}" record_timestamp="1465837574520" record_key="wh_dlc03_bst_the_brayherd_calls">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc03_bst_the_brayherd_calls</key>
+<localised_description state="APPROVED" last_approved_text="A rival Beastlord has called a brayherd to war and demands that you join his ranks. Will you listen to this call or will you forge on alone, without them?" last_edit_user="bob">A rival Beastlord has called a brayherd to war and demands that you join his ranks. Will you listen to this call or will you forge on alone, without them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Brayherd Calls " last_edit_user="bob">The Brayherd Calls </localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{7008fe87-22e8-4804-96a6-ce3015c8cfc1}" record_timestamp="1465837574560" record_key="wh_dlc03_bst_the_enemy_within">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc03_bst_the_enemy_within</key>
+<localised_description state="APPROVED" last_approved_text="Nobles of the Empire worship the Ruinous Powers, currying favour in hope of a heretical boon. Should we allow these undeserving fools to court the attention of the Dark Gods or should we put an end to their ignorant wants?" last_edit_user="bob">Nobles of the Empire worship the Ruinous Powers, currying favour in hope of a heretical boon. Should we allow these undeserving fools to court the attention of the Dark Gods or should we put an end to their ignorant wants?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Enemy Within " last_edit_user="bob">The Enemy Within </localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{463590e6-b3cd-471f-b8a6-d232acf17b98}" record_timestamp="1479323159277" record_key="wh_dlc03_full_moon_preparations_full_moon_1">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_1</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{1406e44c-e74c-41bd-959c-8d6cc8d26f02}" record_timestamp="1479323159277" record_key="wh_dlc03_full_moon_preparations_full_moon_10">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_10</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{9f0f0208-eb62-44b2-8675-877c2f7c4d0c}" record_timestamp="1479323159276" record_key="wh_dlc03_full_moon_preparations_full_moon_11">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_11</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{ef5c03fc-9fff-48a3-9e13-d03635eef5f5}" record_timestamp="1479323159276" record_key="wh_dlc03_full_moon_preparations_full_moon_12">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_12</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{324e1276-4be6-46b8-846c-971dc988d41f}" record_timestamp="1479323159275" record_key="wh_dlc03_full_moon_preparations_full_moon_13">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_13</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{9d1e8f4b-1257-4ed0-a140-ad28e380da99}" record_timestamp="1479323159274" record_key="wh_dlc03_full_moon_preparations_full_moon_14">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_14</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{45dc76a7-7e2e-4d0b-885c-2103b6ca3e00}" record_timestamp="1479323159274" record_key="wh_dlc03_full_moon_preparations_full_moon_15">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_15</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon " last_edit_user="bob">The Dark Moon </localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{3c16e4bd-bfe6-46b3-ba5e-0dfa902fea05}" record_timestamp="1479323159272" record_key="wh_dlc03_full_moon_preparations_full_moon_16">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_16</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{a25f2621-251f-4c26-b384-21d859eaa179}" record_timestamp="1479323159272" record_key="wh_dlc03_full_moon_preparations_full_moon_17">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_17</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{3cf08327-218e-4e44-be9a-f832619bbfcc}" record_timestamp="1479323159271" record_key="wh_dlc03_full_moon_preparations_full_moon_18">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_18</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{82ba3402-bbd8-449e-abff-1acef9bf72e0}" record_timestamp="1479323159270" record_key="wh_dlc03_full_moon_preparations_full_moon_19">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_19</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{c561cd9e-7dcf-4029-9189-88a682191b4c}" record_timestamp="1479323159270" record_key="wh_dlc03_full_moon_preparations_full_moon_2">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_2</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{95f53b27-b799-4c71-b73f-1ec4836142bb}" record_timestamp="1479323159269" record_key="wh_dlc03_full_moon_preparations_full_moon_20">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_20</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{6b15bb9e-a835-4c4b-ac08-5fc9765cc329}" record_timestamp="1479323159269" record_key="wh_dlc03_full_moon_preparations_full_moon_3">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_3</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{7b68b439-fea4-4b7f-963c-4c8d1cf72fb0}" record_timestamp="1479323159268" record_key="wh_dlc03_full_moon_preparations_full_moon_4">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_4</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{d5f085ee-9e70-435f-9762-61eaae6d167e}" record_timestamp="1479323159268" record_key="wh_dlc03_full_moon_preparations_full_moon_5">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_5</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{20a1c6b9-3355-4868-8234-7fe84d87e5b9}" record_timestamp="1479323159266" record_key="wh_dlc03_full_moon_preparations_full_moon_6">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_6</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{c72f6ac0-af60-423a-af8d-d622fd719a7d}" record_timestamp="1479323159265" record_key="wh_dlc03_full_moon_preparations_full_moon_7">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_7</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{ca6c566f-a6a3-435e-afa4-d4bbc47e2211}" record_timestamp="1479323159263" record_key="wh_dlc03_full_moon_preparations_full_moon_8">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_8</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{bf321319-b309-4883-a434-5acf033449a9}" record_timestamp="1479323159260" record_key="wh_dlc03_full_moon_preparations_full_moon_9">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_full_moon_9</key>
+<localised_description state="APPROVED" last_approved_text="The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?" last_edit_user="bob">The great weird moon, Morrslieb, hangs low and large in the sky, casting its eerie and singular green incandescence over the canopies of the twisted forests. Its rise is a portent of greatness for the Beastmen - who now look to you, Beastlord. How will you direct them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>full_moon_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{63920288-80df-4b94-9676-492693a57f41}" record_timestamp="1479323159258" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_1">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_1</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{e58e4fbd-1951-4df4-8da2-964ed33392cc}" record_timestamp="1479323159257" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_10">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_10</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{ab605c52-1d0b-4af6-9447-ce123c5819fd}" record_timestamp="1479323159256" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_11">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_11</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{f2ea8591-75e5-4824-931c-1860664a25dd}" record_timestamp="1479323159254" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_12">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_12</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{b9c917ac-e905-4446-9083-8d96b3451b5b}" record_timestamp="1479323159253" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_13">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_13</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{d743209a-f5c0-4cf6-ad39-c760241bcb75}" record_timestamp="1479323159251" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_14">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_14</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{62ee1fb3-125f-48b9-a803-caafb39cc50a}" record_timestamp="1479323159250" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_15">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_15</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{14f16af5-3278-4d38-9ad7-c239d3879d0a}" record_timestamp="1479323159246" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_16">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_16</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{a7c50d86-5ef6-4b14-9f22-baf250d400f2}" record_timestamp="1479323159245" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_17">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_17</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{f8a1976f-0b05-4447-aa57-b736f890f0e7}" record_timestamp="1479323159244" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_18">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_18</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{ae781c2b-8561-4c90-a8bf-a9188892da09}" record_timestamp="1479323159242" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_19">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_19</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{70cff09e-f28f-4822-81c6-aebbba1ae66b}" record_timestamp="1479323159241" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_2">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_2</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{6e9465b8-f069-48bf-b61e-295d4affc1ac}" record_timestamp="1479323159240" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_20">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_20</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{3f656c67-f93a-47d7-8c95-7d607d1fa962}" record_timestamp="1479323159238" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_3">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_3</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{7aef2757-db26-4c7c-9f11-eb6524a270fc}" record_timestamp="1479323159237" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_4">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_4</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{42311780-79c5-4445-b092-99c57c5132b0}" record_timestamp="1479323159235" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_5">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_5</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{1410077c-5b88-44c5-b3b7-113a42183723}" record_timestamp="1479323159235" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_6">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_6</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{8f2e98e1-726d-44ea-b6e1-877773e3fb5f}" record_timestamp="1479323159234" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_7">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_7</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{98dbff53-c171-447e-ae99-c494a1b3caa9}" record_timestamp="1479323159234" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_8">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_8</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{8beb9258-ff8f-4e56-9bbd-9b5df2c7d632}" record_timestamp="1479323159204" record_key="wh_dlc03_full_moon_preparations_lunar_eclipse_9">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_lunar_eclipse_9</key>
+<localised_description state="APPROVED" last_approved_text="The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies." last_edit_user="bob">The moon is suffused with a deep, dark crimson - a sign of the rage of the Ruinous Powers, and a call for the Beastmen to see this rage manifested. It is you, Beastlord, who must channel this hatred and direct it upon our enemies.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>lunar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{b1935c9f-abce-4c6f-87fa-015dd19c1dda}" record_timestamp="1479323159203" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_1">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_1</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{e95ae6f7-b17b-4f75-81f3-46dbc4cfd7f9}" record_timestamp="1479323159202" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_10">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_10</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{40f8a111-56d8-4ca4-af0c-06736194be87}" record_timestamp="1479323159202" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_11">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_11</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{f2e76572-b107-4404-91e1-7571f791ddc2}" record_timestamp="1479323159201" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_12">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_12</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{1021231c-ec35-4e53-9dab-402a13983670}" record_timestamp="1479323159200" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_13">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_13</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{8d381c05-7c38-45e4-9b70-db9e125b5006}" record_timestamp="1479323159200" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_14">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_14</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{a1d0c621-1d03-4515-8f5a-fa433500aebc}" record_timestamp="1479323159199" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_15">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_15</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{e82cffef-7def-424f-8314-9585c6808ff4}" record_timestamp="1479323159199" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_16">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_16</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{d8ef929f-cdc0-4a0c-b1eb-ac0319cf3388}" record_timestamp="1479323159198" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_17">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_17</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{c11bc07b-3d01-41e0-a0d6-483a483e45c7}" record_timestamp="1479323159198" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_18">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_18</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{5b4c09e5-003d-4f65-89e3-e850310d58ff}" record_timestamp="1479323159197" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_19">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_19</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{429c0f5b-39ea-4796-8828-89956dca7d10}" record_timestamp="1479323159197" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_2">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_2</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{9bdb8488-e64c-4300-aca7-687010f832d7}" record_timestamp="1479323159196" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_20">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_20</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{370ea8e8-1c82-4e2b-aade-adedb607238c}" record_timestamp="1479323159195" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_3">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_3</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{b3f16b36-6550-48ea-816e-f5c337caf737}" record_timestamp="1479323159195" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_4">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_4</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{0797c041-6af3-4f03-bc32-40bd48b81457}" record_timestamp="1479323159194" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_5">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_5</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{0077e4e6-050b-4b44-aa46-1725a8602b64}" record_timestamp="1479323159194" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_6">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_6</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{dda125f9-dd42-454c-abe9-34ac5946316a}" record_timestamp="1479323159193" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_7">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_7</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{0b4b1335-159d-4837-aca2-4275fd992759}" record_timestamp="1479323159187" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_8">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_8</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{011f4335-698c-45b2-8794-bcd7b7046d5e}" record_timestamp="1479323159186" record_key="wh_dlc03_full_moon_preparations_solar_eclipse_9">
+<event_category>dark_moon</event_category>
+<generate>0</generate>
+<key>wh_dlc03_full_moon_preparations_solar_eclipse_9</key>
+<localised_description state="APPROVED" last_approved_text="Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!" last_edit_user="bob">Morrslieb is ascendant, usurping the sun's revered place in the firmament! The world is awash with its sick and terrible hue. Such an event is almost unheard of - it is a call to the Beastmen; a sign that the herd has an opportunity to dominate. Lead them, Beastlord - seize glory!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dark Moon" last_edit_user="bob">The Dark Moon</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Full_Moon</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Full_Moon</sound_popup_override>
+<ui_image>solar_eclipse_loop</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{02395eec-101c-417b-86a8-cd23e9437def}" record_timestamp="1469613622543" record_key="wh_dlc04_vmp_vlad_von_carstein_the_carstein_ring_stage_2">
+<event_category>Quest</event_category>
+<generate>0</generate>
+<key>wh_dlc04_vmp_vlad_von_carstein_the_carstein_ring_stage_2</key>
+<localised_description state="APPROVED" last_approved_text="Vlad has kept his revivification a secret from the general populace - both mortal and living - so far, as this serves to further his machinations, but now it is time to make the Midnight Aristocracy either quail in fear of domination or flock to his banner. But how best to display such power? Through a bloody massacre or the tempting of Dark Magic and the promise to share?" last_edit_user="bob">Vlad has kept his revivification a secret from the general populace - both mortal and living - so far, as this serves to further his machinations, but now it is time to make the Midnight Aristocracy either quail in fear of domination or flock to his banner. But how best to display such power? Through a bloody massacre or the tempting of Dark Magic and the promise to share?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Carstein Ring" last_edit_user="bob">The Carstein Ring</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{fabf8286-73d3-4078-b907-ed725bae8b2f}" record_timestamp="1481890016401" record_key="wh_dlc05_wef_asrai_asur_druchii">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc05_wef_asrai_asur_druchii</key>
+<localised_description state="APPROVED" last_approved_text="Carried by elegantly-hewn ships, our cousins have travelled from the distant lands of Ulthuan to visit us. After so many long years, they have finally deigned to visit their forest brethren. Is this a gracious visit, or an omen of arrogance? Do you consider this a slight or a blessing? Will you grant them an audience with the Elven Council?" last_edit_user="bob">Carried by elegantly-hewn ships, our cousins have travelled from the distant lands of Ulthuan to visit us. After so many long years, they have finally deigned to visit their forest brethren. Is this a gracious visit, or an omen of arrogance? Do you consider this a slight or a blessing? Will you grant them an audience with the Elven Council?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Asrai, Asur, Druchii" last_edit_user="bob">Asrai, Asur, Druchii</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>diplomacy</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{9ed6a679-9629-4604-94fd-2448517e72e2}" record_timestamp="1481890016410" record_key="wh_dlc05_wef_children_of_eternity">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc05_wef_children_of_eternity</key>
+<localised_description state="APPROVED" last_approved_text="The Asrai have long had a… patchy relationship with the denizens of the forest. Whilst often the two peoples get along harmoniously, there have been issues. Lately, malevolent Dryads have taken to kidnapping Elven children for fun. When brought to justice they remain unrepentant - it is their forest, they say. To burn them would anger the forest, but surely they must be made to pay for their crimes against the Asrai?" last_edit_user="bob">The Asrai have long had a… patchy relationship with the denizens of the forest. Whilst often the two peoples get along harmoniously, there have been issues. Lately, malevolent Dryads have taken to kidnapping Elven children for fun. When brought to justice they remain unrepentant - it is their forest, they say. To burn them would anger the forest, but surely they must be made to pay for their crimes against the Asrai?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Children of Eternity" last_edit_user="bob">Children of Eternity</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>politics</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{116c0383-004b-463e-b219-ea763e41c030}" record_timestamp="1481890016410" record_key="wh_dlc05_wef_festival_of_the_equinox">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc05_wef_festival_of_the_equinox</key>
+<localised_description state="APPROVED" last_approved_text="Interlopers into the Trickster's Woods have been caught and brought before you to face justice. The sentence is clear: death. Yet before you can pass judgement, one of the captives issues a brazen challenge; if he can last one hour in battle with a Wardancer, then he and his friends go free. If not, he accepts your sentence. It is a... bold request, but one you have no obligation to accept." last_edit_user="bob">Interlopers into the Trickster's Woods have been caught and brought before you to face justice. The sentence is clear: death. Yet before you can pass judgement, one of the captives issues a brazen challenge; if he can last one hour in battle with a Wardancer, then he and his friends go free. If not, he accepts your sentence. It is a... bold request, but one you have no obligation to accept.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Festival of the Equinox" last_edit_user="bob">Festival of the Equinox</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>politics</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{a281bc74-049a-4e08-8bf4-936a2cb0590b}" record_timestamp="1481890016411" record_key="wh_dlc05_wef_heavens_or_the_underworld">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc05_wef_heavens_or_the_underworld</key>
+<localised_description state="APPROVED" last_approved_text="The Asrai wish to erect a new shrine within Athel Loren, to give praise to the gods they so faithfully serve. Yet the question is posed - to whom should this shrine be dedicated? The two frontrunners are Asuryan or Khaine, yet ultimately the choice is yours. Do you wish honour the Phoenix King, Asuryan, the wise and just ruler of the Elven pantheon, or his brother Khaine; harsh and ruthless god of battle?" last_edit_user="bob">The Asrai wish to erect a new shrine within Athel Loren, to give praise to the gods they so faithfully serve. Yet the question is posed - to whom should this shrine be dedicated? The two frontrunners are Asuryan or Khaine, yet ultimately the choice is yours. Do you wish honour the Phoenix King, Asuryan, the wise and just ruler of the Elven pantheon, or his brother Khaine; harsh and ruthless god of battle?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Heavens or the Underworld?" last_edit_user="bob">Heavens or the Underworld?</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>diplomacy</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{d3f15050-fd8b-4ab8-b748-894d6fdc7132}" record_timestamp="1481890016411" record_key="wh_dlc05_wef_shape_shifters">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc05_wef_shape_shifters</key>
+<localised_description state="APPROVED" last_approved_text="The Elves of the Skymark Reaches, Cavaroc, come to you with a proposal. These subjects of Lord Edrael have ever been brash; always the first into battle and the last to apologise, yet their latest endeavours are somewhat more… nefarious. They wish to subvert the Bretonnian Dukedom of Quenelles by planting shapeshifting forest spirits amongst the court as Damsels. Such a sneaky scheme is sure to wreak havoc amongst the Bretonnians, which may be to our advantage. Do you wish to aid them, or not?" last_edit_user="bob">The Elves of the Skymark Reaches, Cavaroc, come to you with a proposal. These subjects of Lord Edrael have ever been brash; always the first into battle and the last to apologise, yet their latest endeavours are somewhat more… nefarious. They wish to subvert the Bretonnian Dukedom of Quenelles by planting shapeshifting forest spirits amongst the court as Damsels. Such a sneaky scheme is sure to wreak havoc amongst the Bretonnians, which may be to our advantage. Do you wish to aid them, or not?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Shape-Shifters" last_edit_user="bob">Shape-Shifters</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>messenger</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{285a5898-1400-45db-928c-1e1c1c5d6f2e}" record_timestamp="1481906781986" record_key="wh_dlc05_wef_the_dreaming_wood">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc05_wef_the_dreaming_wood</key>
+<localised_description state="APPROVED" last_approved_text="A young Glade Lord, full of hope and naivety, wishes to journey into the Dreaming Wood to recover a lost artefact. Headstrong and confident, perhaps to the point of arrogance; the Dreaming Wood is a twisted domain ruled by the Prince of Pleasure, Slaanesh - to enter is to dance with the Chaos God of madness and desire. Most who enter never return, claimed body and soul by the forces of Ruin. Yet this Glade Lord seems self-assured - do you allow them to recover this item or forbid the journey?" last_edit_user="bob">A young Glade Lord, full of hope and naivety, wishes to journey into the Dreaming Wood to recover a lost artefact. Headstrong and confident, perhaps to the point of arrogance; the Dreaming Wood is a twisted domain ruled by the Prince of Pleasure, Slaanesh - to enter is to dance with the Chaos God of madness and desire. Most who enter never return, claimed body and soul by the forces of Ruin. Yet this Glade Lord seems self-assured - do you allow them to recover this item or forbid the journey?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Dreaming Wood" last_edit_user="bob">The Dreaming Wood</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{e1f50afb-297e-47da-84c7-73b1130f1685}" record_timestamp="1481890016420" record_key="wh_dlc05_wef_the_fate_of_the_body">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc05_wef_the_fate_of_the_body</key>
+<localised_description state="APPROVED" last_approved_text="As with all things of the natural world, a denizen of the forest has shed their mortal shell and become one with the woods. Yet the question remains of how to honour the body, now that they have passed. They could be sacrificed in the flames, immolated as Orion is each year - a warrior's pyre - or the body could be planted deep within the ground, allowing the hungry roots of the Deepwood to draw strength from the mouldering remains..." last_edit_user="bob">As with all things of the natural world, a denizen of the forest has shed their mortal shell and become one with the woods. Yet the question remains of how to honour the body, now that they have passed. They could be sacrificed in the flames, immolated as Orion is each year - a warrior's pyre - or the body could be planted deep within the ground, allowing the hungry roots of the Deepwood to draw strength from the mouldering remains...</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Fate of the Body" last_edit_user="bob">The Fate of the Body</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>funeral</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{4fa93dab-612f-4923-9e02-b362730ffb90}" record_timestamp="1481890016430" record_key="wh_dlc05_wef_the_great_stag">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc05_wef_the_great_stag</key>
+<localised_description state="APPROVED" last_approved_text="The Great Stag is a revered and treasured creature of Athel Loren; renowned for its magical, ethereal properties, many say it represents the soul of the forest itself. On a hunt one day, you come across one of the majestic creatures, presenting you with a unique opportunity. It is the way of the forest to hunt, a part of the natural cycle of life. If you could claim the antlers of such a great beast, you would be honoured as true master of the Hunt. Yet there is much to be said for staying your hand, and leaving the beast in peace..." last_edit_user="bob">The Great Stag is a revered and treasured creature of Athel Loren; renowned for its magical, ethereal properties, many say it represents the soul of the forest itself. On a hunt one day, you come across one of the majestic creatures, presenting you with a unique opportunity. It is the way of the forest to hunt, a part of the natural cycle of life. If you could claim the antlers of such a great beast, you would be honoured as true master of the Hunt. Yet there is much to be said for staying your hand, and leaving the beast in peace...</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Great Stag" last_edit_user="bob">The Great Stag</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>civilisation_up</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{4a9e4c64-17e2-43a1-a5ba-e8c3a8ddd613}" record_timestamp="1481890016431" record_key="wh_dlc05_wef_the_night_glens">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc05_wef_the_night_glens</key>
+<localised_description state="APPROVED" last_approved_text="Lady Morlanna and Lord Arlas have been turning a blind eye to the practises of their subjects, and hence the shadowed Night Glens are awash with forbidden and arcane magics. The Elven subjects are ever-accommodating, and invite you to join them, perhaps in the hope that you may spare them retribution, and even learn something for your trouble...?" last_edit_user="bob">Lady Morlanna and Lord Arlas have been turning a blind eye to the practises of their subjects, and hence the shadowed Night Glens are awash with forbidden and arcane magics. The Elven subjects are ever-accommodating, and invite you to join them, perhaps in the hope that you may spare them retribution, and even learn something for your trouble...?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Night Glens" last_edit_user="bob">The Night Glens</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>army_morale_up</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{83bcb513-0aa5-4ee9-9f43-9fa6dd280029}" record_timestamp="1481890016439" record_key="wh_dlc05_wef_vaults_of_winter">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc05_wef_vaults_of_winter</key>
+<localised_description state="APPROVED" last_approved_text="Arranoc lies under the eternal summer sun, scarcely knowing night. The guests to this mystical and radiant part of the forest have been feasting endlessly, fattening themselves for the coming sacrifice. Many whisper that this time is now, yet the guests could yet continue to feast themselves into a greater state of readiness. What do you think, my Lord?" last_edit_user="bob">Arranoc lies under the eternal summer sun, scarcely knowing night. The guests to this mystical and radiant part of the forest have been feasting endlessly, fattening themselves for the coming sacrifice. Many whisper that this time is now, yet the guests could yet continue to feast themselves into a greater state of readiness. What do you think, my Lord?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Vaults of Winter" last_edit_user="bob">Vaults of Winter</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>civilisation_up</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{efe73d16-3934-4cf6-a4d6-909d11e313dd}" record_timestamp="1484653154966" record_key="wh_dlc07_brt_a_noble_feast">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc07_brt_a_noble_feast</key>
+<localised_description state="APPROVED" last_approved_text="Following a great feast with much revelry, there is a glut of leftovers. The peasants grumble about 'hunger' and 'starving', but aren't they always? What to do with this surplus, then?" last_edit_user="bob">Following a great feast with much revelry, there is a glut of leftovers. The peasants grumble about 'hunger' and 'starving', but aren't they always? What to do with this surplus, then?</localised_description>
+<localised_title state="APPROVED" last_approved_text="A Noble Feast" last_edit_user="bob">A Noble Feast</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>celebration</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{475493ca-72d3-49db-8609-e72317922388}" record_timestamp="1484653154985" record_key="wh_dlc07_brt_dedicated_service">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc07_brt_dedicated_service</key>
+<localised_description state="APPROVED" last_approved_text="The noble Knights and aristocrats who keep the realm at peace deserve a token of our thanks, but how best to reward them?" last_edit_user="bob">The noble Knights and aristocrats who keep the realm at peace deserve a token of our thanks, but how best to reward them?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Dedicated Service" last_edit_user="bob">Dedicated Service</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{1642fda3-8f3b-436c-913f-c144b6cdb55e}" record_timestamp="1486122452974" record_key="wh_dlc07_brt_final_battle_choice">
+<event_category>Event</event_category>
+<generate>0</generate>
+<key>wh_dlc07_brt_final_battle_choice</key>
+<localised_description state="APPROVED" last_approved_text="Bretonnia stands strong as the protector of honour and chivalry. Yet one last challenge must still be met, in the wastes of the Old World. Our King perpares for battle on the grandest of scales and calls forth an Errantry War. I ask  you now to bestow your great virtues upon us and lead the Knightly Orders to their final victory over our enemy!" last_edit_user="bob">Bretonnia stands strong as the protector of honour and chivalry. Yet one last challenge must still be met, in the wastes of the Old World. Our King perpares for battle on the grandest of scales and calls forth an Errantry War. I ask  you now to bestow your great virtues upon us and lead the Knightly Orders to their final victory over our enemy!</localised_description>
+<localised_title state="APPROVED" last_approved_text="Wars of Errantry" last_edit_user="bob">Wars of Errantry</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>errant_war</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{12aaa411-a3f0-47cc-9135-c1410d00df25}" record_timestamp="1484653155003" record_key="wh_dlc07_brt_food_hoarder">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc07_brt_food_hoarder</key>
+<localised_description state="APPROVED" last_approved_text="A treasonous peasant was discovered siphoning extra grain for himself and family, who are apparently 'starving'. The clerics say we should make an example of him; what do you think?" last_edit_user="bob">A treasonous peasant was discovered siphoning extra grain for himself and family, who are apparently 'starving'. The clerics say we should make an example of him; what do you think?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Food Hoarder" last_edit_user="bob">Food Hoarder</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>politics</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{f0b8f11c-d361-443f-96d6-8c8b7434088f}" record_timestamp="1484653155020" record_key="wh_dlc07_brt_gifted_children">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc07_brt_gifted_children</key>
+<localised_description state="APPROVED" last_approved_text="Whilst absently observing the noble children at play in the castle grounds, a squire observed some displaying a certain magical affinity. Could their latent talents be harnessed?" last_edit_user="bob">Whilst absently observing the noble children at play in the castle grounds, a squire observed some displaying a certain magical affinity. Could their latent talents be harnessed?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Gifted Children" last_edit_user="bob">Gifted Children</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>messenger</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{d4edf570-49e8-4e05-bdf3-c1d289b75f50}" record_timestamp="1484653155038" record_key="wh_dlc07_brt_hidden_statue">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc07_brt_hidden_statue</key>
+<localised_description state="APPROVED" last_approved_text="On his travels a Knight, by happenstance, has stumbled upon a statue of the Lady, forged of solid gold. Many in the court suggest we bring it back to the city as a monument, but locals near the forest say it protects them from dark forces. What shall we do?" last_edit_user="bob">On his travels a Knight, by happenstance, has stumbled upon a statue of the Lady, forged of solid gold. Many in the court suggest we bring it back to the city as a monument, but locals near the forest say it protects them from dark forces. What shall we do?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Hidden Statue" last_edit_user="bob">Hidden Statue</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>messenger</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{36affaea-a8a6-49a6-b33a-09bc70bf5735}" record_timestamp="1484653155055" record_key="wh_dlc07_brt_hunting_grounds">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc07_brt_hunting_grounds</key>
+<localised_description state="APPROVED" last_approved_text="Your nobles have stumbled upon lush fields, filled with game; a beautiful hunting ground. The local peasants say it is 'farmland', but the nobles do so want to hunt…" last_edit_user="bob">Your nobles have stumbled upon lush fields, filled with game; a beautiful hunting ground. The local peasants say it is 'farmland', but the nobles do so want to hunt…</localised_description>
+<localised_title state="APPROVED" last_approved_text="Hunting Grounds" last_edit_user="bob">Hunting Grounds</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{d75a9600-36cb-4206-8815-e0bf3bbd3568}" record_timestamp="1484653155095" record_key="wh_dlc07_brt_knowledge_from_the_lady">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc07_brt_knowledge_from_the_lady</key>
+<localised_description state="APPROVED" last_approved_text="The Servants of the Lady wish to pilgrimage to holy sites around the realm; a quest of knowledge and faith. They have asked that you donate to their worthy cause." last_edit_user="bob">The Servants of the Lady wish to pilgrimage to holy sites around the realm; a quest of knowledge and faith. They have asked that you donate to their worthy cause.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Knowledge from the Lady" last_edit_user="bob">Knowledge from the Lady</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>politics</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{7d01c8bb-0bc4-4b66-a552-4f83d26c6af0}" record_timestamp="1484653155112" record_key="wh_dlc07_brt_mockery_of_our_vows">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc07_brt_mockery_of_our_vows</key>
+<localised_description state="APPROVED" last_approved_text="Gossip has spread throughout the court that a foreign Lord has been openly mocking the Bretonnian vows; will you let such a slur stand?" last_edit_user="bob">Gossip has spread throughout the court that a foreign Lord has been openly mocking the Bretonnian vows; will you let such a slur stand?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Mockery of our Vows" last_edit_user="bob">Mockery of our Vows</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>diplomacy</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{5029e826-5123-4fb6-b20f-80ca0d4e2a28}" record_timestamp="1484653155130" record_key="wh_dlc07_brt_pimples_and_brown_spots">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc07_brt_pimples_and_brown_spots</key>
+<localised_description state="APPROVED" last_approved_text="Plague regularly visits Bretonnia, so we must be ever vigilant. Some nobles and peasants have shown peculiar discolouration on their skin, a potential sign of the Green Pox…" last_edit_user="bob">Plague regularly visits Bretonnia, so we must be ever vigilant. Some nobles and peasants have shown peculiar discolouration on their skin, a potential sign of the Green Pox…</localised_description>
+<localised_title state="APPROVED" last_approved_text="Pimples &amp; Brown Spots" last_edit_user="bob">Pimples &amp; Brown Spots</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>civilisation_down</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{2eb78810-ce3e-42fd-807a-ec7fe8c0908d}" record_timestamp="1484653155160" record_key="wh_dlc07_brt_prosperous_harvest">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc07_brt_prosperous_harvest</key>
+<localised_description state="APPROVED" last_approved_text="An unusually bountiful harvest has left us with a rare and excessive surplus. This can be distributed immediately or stored for the future…" last_edit_user="bob">An unusually bountiful harvest has left us with a rare and excessive surplus. This can be distributed immediately or stored for the future…</localised_description>
+<localised_title state="APPROVED" last_approved_text="Prosperous Harvest" last_edit_user="bob">Prosperous Harvest</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>civilisation_up</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{e8825f30-5365-4898-a748-29baf514bf05}" record_timestamp="1483696476114" record_key="wh_dlc07_brt_qb_alberic_trident_of_manann_stage_5">
+<event_category>Quest</event_category>
+<generate>0</generate>
+<key>wh_dlc07_brt_qb_alberic_trident_of_manann_stage_5</key>
+<localised_description state="APPROVED" last_approved_text="Although funds have been raised and a search party deployed, the results are as thin as a peasant in Winter. Alberic feels the clawing miasma of failure seeping in, and his questing dreams evaporating. However, when all seems lost, a suspicious man arrives in Bordeleaux, offering information on the whereabouts of the thieves. As these men always do, however, he seeks a price for the knowledge in gold or silver." last_edit_user="bob">Although funds have been raised and a search party deployed, the results are as thin as a peasant in Winter. Alberic feels the clawing miasma of failure seeping in, and his questing dreams evaporating. However, when all seems lost, a suspicious man arrives in Bordeleaux, offering information on the whereabouts of the thieves. As these men always do, however, he seeks a price for the knowledge in gold or silver.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Trident of Manann" last_edit_user="bob">Trident of Manann</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>messenger</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{d7bf75ba-e372-445c-9a6c-fddfa0d9d800}" record_timestamp="1484653155179" record_key="wh_dlc07_brt_the_price_of_chivalry">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc07_brt_the_price_of_chivalry</key>
+<localised_description state="APPROVED" last_approved_text="The Damsels and Priests have come forth, claiming 'The  Lady is watching'. They speak with the words of the Enchantress, and so we must know - what great deeds shall we perform for her?" last_edit_user="bob">The Damsels and Priests have come forth, claiming 'The  Lady is watching'. They speak with the words of the Enchantress, and so we must know - what great deeds shall we perform for her?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Price of Chivalry" last_edit_user="bob">The Price of Chivalry</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>faction</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{f93e7537-b2b6-4ae4-8175-12e825aae06a}" record_timestamp="1484653155197" record_key="wh_dlc07_brt_whispers_of_witchcraft">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_dlc07_brt_whispers_of_witchcraft</key>
+<localised_description state="APPROVED" last_approved_text="Panic has gripped the peasantry as rumours of a curse-hurling, child-snatching witch abound in local villages." last_edit_user="bob">Panic has gripped the peasantry as rumours of a curse-hurling, child-snatching witch abound in local villages.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Whispers of Witchcraft" last_edit_user="bob">Whispers of Witchcraft</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>civilisation_down</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{2efb20cc-1ae9-4805-b037-c5fd0556f258}" record_timestamp="1457008622731" record_key="wh_main_all_a_stranger_comes">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_all_a_stranger_comes</key>
+<localised_description state="APPROVED" last_approved_text="A cloaked stranger, from the mist-shrouded land of Albion, approaches with a request. He is of sinister aspect but assures you that his intentions are good." last_edit_user="bob">A cloaked stranger, from the mist-shrouded land of Albion, approaches with a request. He is of sinister aspect but assures you that his intentions are good.</localised_description>
+<localised_title state="APPROVED" last_approved_text="A Stranger Comes" last_edit_user="bob">A Stranger Comes</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>messenger</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{4e41c606-0990-4f63-9d2e-cce202d5c384}" record_timestamp="1457008622745" record_key="wh_main_all_a_stranger_comes_vmp">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_all_a_stranger_comes_vmp</key>
+<localised_description state="APPROVED" last_approved_text="A cloaked stranger, from the mist-shrouded land of Albion, approaches with a request. He is of sinister aspect but assures you that his intentions are good." last_edit_user="bob">A cloaked stranger, from the mist-shrouded land of Albion, approaches with a request. He is of sinister aspect but assures you that his intentions are good.</localised_description>
+<localised_title state="APPROVED" last_approved_text="A Stranger Comes" last_edit_user="bob">A Stranger Comes</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>messenger</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{7db823ab-38a8-4032-97db-b7f7f3ce9928}" record_timestamp="1455704055583" record_key="wh_main_all_foolish_vainglory">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_all_foolish_vainglory</key>
+<localised_description state="APPROVED" last_approved_text="They say you revel in victory. They say you spend more time erecting monuments to battles past than managing the realm. They say you are a fool." last_edit_user="bob">They say you revel in victory. They say you spend more time erecting monuments to battles past than managing the realm. They say you are a fool.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Foolish Vainglory" last_edit_user="bob">Foolish Vainglory</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>politics</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{4ee53e00-220d-4c89-a3fd-5a2847e5d512}" record_timestamp="1455704055612" record_key="wh_main_all_the_gods_are_angry">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_all_the_gods_are_angry</key>
+<localised_description state="APPROVED" last_approved_text="The omens are ill - something you have done has angered the gods! Yet they are fickle; they may forgive you in time... or more immediate appeasement might be necessary!" last_edit_user="bob">The omens are ill - something you have done has angered the gods! Yet they are fickle; they may forgive you in time... or more immediate appeasement might be necessary!</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Gods are Angry" last_edit_user="bob">The Gods are Angry</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>civilisation_down</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{fe17978f-ee8e-4778-9f6a-1f651b3d7407}" record_timestamp="1455704055554" record_key="wh_main_all_the_migration">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_all_the_migration</key>
+<localised_description state="APPROVED" last_approved_text="A great migration comes to our borders, demanding shelter from larger threats abroad. Do we let them cross into our territory or turn them away?" last_edit_user="bob">A great migration comes to our borders, demanding shelter from larger threats abroad. Do we let them cross into our territory or turn them away?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Migration" last_edit_user="bob">The Migration</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{2ba67cbf-bd40-40c1-981f-23c389fcc4f2}" record_timestamp="1455704053622" record_key="wh_main_all_under_the_dark_moons_glare">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_all_under_the_dark_moons_glare</key>
+<localised_description state="APPROVED" last_approved_text="Your warriors range deep into hostile lands, but all is not well. There are dark omens abroad, as if the shadow of some horned god was watching from the evil moon above. The army is fettered by Morrslieb's glare." last_edit_user="bob">Your warriors range deep into hostile lands, but all is not well. There are dark omens abroad, as if the shadow of some horned god was watching from the evil moon above. The army is fettered by Morrslieb's glare.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Under the Dark Moon's Glare" last_edit_user="bob">Under the Dark Moon's Glare</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>faction</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{e0291fdf-aafc-49f2-9e49-268d265c3643}" record_timestamp="1446024672572" record_key="wh_main_azhag_the_slaughterer_azhags_ard_armour_stage_1">
+<event_category>Quest</event_category>
+<generate>0</generate>
+<key>wh_main_azhag_the_slaughterer_azhags_ard_armour_stage_1</key>
+<localised_description state="APPROVED" last_approved_text="Azhag's Armour is alright. It's got spikes in the right places, the odd skull here and there and is decorated with the crusted blood of countless broken enemies. But it's missing something, and Azhag can't quite put his finger on what that is. He summons his Shamans to demand answers." last_edit_user="bob">Azhag's Armour is alright. It's got spikes in the right places, the odd skull here and there and is decorated with the crusted blood of countless broken enemies. But it's missing something, and Azhag can't quite put his finger on what that is. He summons his Shamans to demand answers.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Azhag's 'Ard Armour" last_edit_user="bob">Azhag's 'Ard Armour</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{378a6cc7-5f50-4939-b3e9-adac6d0fd770}" record_timestamp="1455183755386" record_key="wh_main_brt_border_dispute">
+<event_category>Event</event_category>
+<generate>0</generate>
+<key>wh_main_brt_border_dispute</key>
+<localised_description state="APPROVED" last_approved_text="Our wine factors have fallen out with Empire traders over something to do with extra customs levies on our wine. Swords have yet to be drawn, but if no deal is struck this could escalate. How should we settle this?" last_edit_user="bob">Our wine factors have fallen out with Empire traders over something to do with extra customs levies on our wine. Swords have yet to be drawn, but if no deal is struck this could escalate. How should we settle this?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Border Dispute" last_edit_user="bob">Border Dispute</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{c495c596-61d1-4ce7-a451-e596fac19d68}" record_timestamp="1455902842117" record_key="wh_main_brt_corrupt_duke">
+<event_category>Event</event_category>
+<generate>0</generate>
+<key>wh_main_brt_corrupt_duke</key>
+<localised_description state="APPROVED" last_approved_text="The Duke of this realm does not exemplify the Lady's creed, he pockets taxes and never pays tribute to the King. He has even denied his hospitality to visiting Questing Knights, breaking a sacred Knightly vow!" last_edit_user="bob">The Duke of this realm does not exemplify the Lady's creed, he pockets taxes and never pays tribute to the King. He has even denied his hospitality to visiting Questing Knights, breaking a sacred Knightly vow!</localised_description>
+<localised_title state="APPROVED" last_approved_text="Corrupt Duke" last_edit_user="bob">Corrupt Duke</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{2c0d9b15-9d86-45c1-9498-f3962d5f1f94}" record_timestamp="1455183755397" record_key="wh_main_brt_peasant_riots">
+<event_category>Event</event_category>
+<generate>0</generate>
+<key>wh_main_brt_peasant_riots</key>
+<localised_description state="APPROVED" last_approved_text="The peasantry have always been an ungrateful mob. Do they not see that taxes pay for the roads, the keeps and the walls they come running to when in need of protection? And now they riot! Something must be done." last_edit_user="bob">The peasantry have always been an ungrateful mob. Do they not see that taxes pay for the roads, the keeps and the walls they come running to when in need of protection? And now they riot! Something must be done.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Peasant Riots" last_edit_user="bob">Peasant Riots</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{fa3de862-1e1e-4b60-a3e6-b40904e1f1b6}" record_timestamp="1455630425479" record_key="wh_main_chs_the_eye_closes">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_chs_the_eye_closes</key>
+<localised_description state="APPROVED" last_approved_text="The Eye of the Gods is closed, or so your Sorcerers tell you. Maybe it is for the best - a time to grow in power unfettered by the Gods' demands. Or… perhaps a more grandiose glorifying act is needed to open the Eye once more?" last_edit_user="bob">The Eye of the Gods is closed, or so your Sorcerers tell you. Maybe it is for the best - a time to grow in power unfettered by the Gods' demands. Or… perhaps a more grandiose glorifying act is needed to open the Eye once more?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Eye Closes" last_edit_user="bob">The Eye Closes</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>land_victory</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{2bb35ad0-b856-4ac5-b8e8-aba5a94a84e8}" record_timestamp="1455630425528" record_key="wh_main_chs_the_eye_opens">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_chs_the_eye_opens</key>
+<localised_description state="APPROVED" last_approved_text="The Chaos Gods take notice of their champion, but rarely do they act in accord. Khorne demands slaughter, but Tzeentch orders a more subtle approach." last_edit_user="bob">The Chaos Gods take notice of their champion, but rarely do they act in accord. Khorne demands slaughter, but Tzeentch orders a more subtle approach.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Eye Opens" last_edit_user="bob">The Eye Opens</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>messenger</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{1e693ce0-05a2-429d-be07-0d111a99da71}" record_timestamp="1455630425560" record_key="wh_main_chs_the_eye_opens_wider">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_chs_the_eye_opens_wider</key>
+<localised_description state="APPROVED" last_approved_text="The Chaos Gods see their champion, but each has its own agenda. Nurgle wishes the temperate southern regions, perfect for his unctuous poxes to spread. Slaanesh desires the colder north, where men look to their warm beds." last_edit_user="bob">The Chaos Gods see their champion, but each has its own agenda. Nurgle wishes the temperate southern regions, perfect for his unctuous poxes to spread. Slaanesh desires the colder north, where men look to their warm beds.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Eye Opens Wider" last_edit_user="bob">The Eye Opens Wider</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>celebration</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{b1c97366-101c-458f-a96d-0e2b3400ce53}" record_timestamp="1455637532105" record_key="wh_main_dwf_a_grudge_too_far">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_dwf_a_grudge_too_far</key>
+<localised_description state="APPROVED" last_approved_text="The enemy has wronged us… but righting this grudge will cost us deeply, perhaps too deeply. Maybe, just this once, we should ignore the slight and focus on the grander objective?" last_edit_user="bob">The enemy has wronged us… but righting this grudge will cost us deeply, perhaps too deeply. Maybe, just this once, we should ignore the slight and focus on the grander objective?</localised_description>
+<localised_title state="APPROVED" last_approved_text="A Grudge Too Far" last_edit_user="bob">A Grudge Too Far</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{38dd31b0-61c2-4a70-ad5b-bd952b9d192a}" record_timestamp="1455637532144" record_key="wh_main_dwf_a_shameful_display">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_dwf_a_shameful_display</key>
+<localised_description state="APPROVED" last_approved_text="A close ally of ours, an influential Dawi sitting on several Guild councils, has shamed his family name with a craven act. He should by all accounts take the Slayer Oath and go into exile, but we will lose his influence." last_edit_user="bob">A close ally of ours, an influential Dawi sitting on several Guild councils, has shamed his family name with a craven act. He should by all accounts take the Slayer Oath and go into exile, but we will lose his influence.</localised_description>
+<localised_title state="APPROVED" last_approved_text="A Shameful Display" last_edit_user="bob">A Shameful Display</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>civilisation_down</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{66f3dcd5-1ed8-4587-9b8a-6ede91b5d02f}" record_timestamp="1462358726570" record_key="wh_main_dwf_besieged_khazid">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_dwf_besieged_khazid</key>
+<localised_description state="APPROVED" last_approved_text="A Dwarf trade caravan is ringed by Goblin Wolf raiders. A stalemate has developed, but the foe refuses to relent. Such a local affray should be dealt with by the local Lord, but your intervention could speed things up." last_edit_user="bob">A Dwarf trade caravan is ringed by Goblin Wolf raiders. A stalemate has developed, but the foe refuses to relent. Such a local affray should be dealt with by the local Lord, but your intervention could speed things up.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Caravan Raid" last_edit_user="bob">Caravan Raid</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>politics</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{56194ccf-c7c7-439b-8fbc-04ee4166476d}" record_timestamp="1455637532227" record_key="wh_main_dwf_empire_in_flames">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_dwf_empire_in_flames</key>
+<localised_description state="APPROVED" last_approved_text="The manlings of Sigmar come pleading to us once again. They have witnessed our devastating flame weapons and beg that we share the secrets to this technology, as we once did with black powder." last_edit_user="bob">The manlings of Sigmar come pleading to us once again. They have witnessed our devastating flame weapons and beg that we share the secrets to this technology, as we once did with black powder.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Empire in Flames" last_edit_user="bob">Empire in Flames</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>civilisation_up</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{a59a9bc0-0f09-4985-a189-6b2b93fd3d39}" record_timestamp="1479312637120" record_key="wh_main_dwf_ungrim_ironfist_slayer_crown_stage_3">
+<event_category>Quest</event_category>
+<generate>0</generate>
+<key>wh_main_dwf_ungrim_ironfist_slayer_crown_stage_3</key>
+<localised_description state="APPROVED" last_approved_text="The scout watching Sylvania's border reports a chance encounter with a terrified Sylvanian peasant who lay hidden and witnessed the passing of a hideous army of the dead. At its head rode two pale figures on dead horses, one in crimson armour, the other robed in black. The armoured figure slapped his mount's neck with a mailed fist and cursed in a voice as cold as death &quot;Weeks of searching the mountain caves and still you have failed to find what I desire. If you are wrong about the locations to the northwest and we should find no dragon's corpse to serve me into death, I shall feast upon your soul&quot;. It seems that the Undead Lord is searching for new materials for use in his foul Necromancy. It would seem that the dead have found at least two possible locations for what they seek and are now moving to claim their vile prize. King Ungrim marches from his hall, shouting for the throng to be assembled. In the meantime he must decide which of the Undead hordes his scout should track." last_edit_user="bob">The scout watching Sylvania's border reports a chance encounter with a terrified Sylvanian peasant who lay hidden and witnessed the passing of a hideous army of the dead. At its head rode two pale figures on dead horses, one in crimson armour, the other robed in black. The armoured figure slapped his mount's neck with a mailed fist and cursed in a voice as cold as death &quot;Weeks of searching the mountain caves and still you have failed to find what I desire. If you are wrong about the locations to the northwest and we should find no dragon's corpse to serve me into death, I shall feast upon your soul&quot;. It seems that the Undead Lord is searching for new materials for use in his foul Necromancy. It would seem that the dead have found at least two possible locations for what they seek and are now moving to claim their vile prize. King Ungrim marches from his hall, shouting for the throng to be assembled. In the meantime he must decide which of the Undead hordes his scout should track.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Slayer Crown" last_edit_user="bob">The Slayer Crown</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{6434529d-d53b-4f44-918f-83b620e67642}" record_timestamp="1455637532266" record_key="wh_main_dwf_what_would_grungni_do">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_dwf_what_would_grungni_do</key>
+<localised_description state="APPROVED" last_approved_text="A Reckoner has approached, requiring guidance on how to settle a dispute between two Clans. Both are claiming ownership of a mine, one has remained loyal to you for centuries and the other has opposed many of your edicts." last_edit_user="bob">A Reckoner has approached, requiring guidance on how to settle a dispute between two Clans. Both are claiming ownership of a mine, one has remained loyal to you for centuries and the other has opposed many of your edicts.</localised_description>
+<localised_title state="APPROVED" last_approved_text="What Would Grungni Do?" last_edit_user="bob">What Would Grungni Do?</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>diplomacy</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{92ce4160-5649-4341-9ea4-8bce66cc191a}" record_timestamp="1461152299138" record_key="wh_main_emp_balthasar_gelt_amulet_of_sea_gold_stage_3">
+<event_category>Quest</event_category>
+<generate>0</generate>
+<key>wh_main_emp_balthasar_gelt_amulet_of_sea_gold_stage_3</key>
+<localised_description state="APPROVED" last_approved_text="The Wizard reports back to Gelt that his researches have turned up two possible locations: the barrow of the ancient tribal Chieftain Marbad in Middenland or the tomb of an unknown Lord in the dusty foothills of distant Estalia. Gelt decides that it is time he took to the field to beat the enemy to the prize." last_edit_user="bob">The Wizard reports back to Gelt that his researches have turned up two possible locations: the barrow of the ancient tribal Chieftain Marbad in Middenland or the tomb of an unknown Lord in the dusty foothills of distant Estalia. Gelt decides that it is time he took to the field to beat the enemy to the prize.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Amulet of Sea Gold" last_edit_user="bob">Amulet of Sea Gold</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{77624a0b-b9f3-4cf8-97b5-0c5ce74cc0d6}" record_timestamp="1462358726178" record_key="wh_main_emp_elector_greed">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_emp_elector_greed</key>
+<localised_description state="APPROVED" last_approved_text="While the Emperor's armies march forth, our nobles barter with each other, claiming great swathes of land for themselves. Should the common man, the brave soldier, not have a farmstead on which to retire?" last_edit_user="bob">While the Emperor's armies march forth, our nobles barter with each other, claiming great swathes of land for themselves. Should the common man, the brave soldier, not have a farmstead on which to retire?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Elector Greed" last_edit_user="bob">Elector Greed</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>politics</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{99385ca7-2b6b-4bec-b8e2-1896deeba4d0}" record_timestamp="1455719631743" record_key="wh_main_emp_karl_franz_silver_seal_stage_2">
+<event_category>Quest</event_category>
+<generate>0</generate>
+<key>wh_main_emp_karl_franz_silver_seal_stage_2</key>
+<localised_description state="APPROVED" last_approved_text="The Witch Hunter reports that a mysterious woman was seen fleeing through a small hamlet to the east of Altdorf. Though the informant only caught a glimpse of her retreating back in the faint moonlight, he swears that her steed was a thing of bone with a fell green glow about it. The Witch Hunter suspects her to be an agent of the Undead. Stirland lies to the east of Reikland and beyond it lies Sylvania, historically the centre of Undead activity in the area, so the hunt should be directed there." last_edit_user="bob">The Witch Hunter reports that a mysterious woman was seen fleeing through a small hamlet to the east of Altdorf. Though the informant only caught a glimpse of her retreating back in the faint moonlight, he swears that her steed was a thing of bone with a fell green glow about it. The Witch Hunter suspects her to be an agent of the Undead. Stirland lies to the east of Reikland and beyond it lies Sylvania, historically the centre of Undead activity in the area, so the hunt should be directed there.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Silver Seal" last_edit_user="bob">The Silver Seal</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{1a4600bb-3c1e-4f02-92fd-6100678682db}" record_timestamp="1455622797095" record_key="wh_main_emp_looters">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_emp_looters</key>
+<localised_description state="APPROVED" last_approved_text="Our armies consist of noble state troops and yet they act like a horde of Free Company! They loot and pillage across the countryside, something must be done!" last_edit_user="bob">Our armies consist of noble state troops and yet they act like a horde of Free Company! They loot and pillage across the countryside, something must be done!</localised_description>
+<localised_title state="APPROVED" last_approved_text="Looters" last_edit_user="bob">Looters</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>besieged</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{e3463c75-8bdf-4224-ba37-c2635a4596f4}" record_timestamp="1455622797419" record_key="wh_main_emp_tax_riots">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_emp_tax_riots</key>
+<localised_description state="APPROVED" last_approved_text="Tax is a necessity. It's a shame the public don't always agree, hence the rioting in this region. What should be done with the ungrateful rabble?" last_edit_user="bob">Tax is a necessity. It's a shame the public don't always agree, hence the rioting in this region. What should be done with the ungrateful rabble?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Tax Riots" last_edit_user="bob">Tax Riots</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>civilisation_down</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{3ebd737f-4377-4b05-b01c-3ee0244f59a0}" record_timestamp="1456404792087" record_key="wh_main_emp_the_brass_sentinel_speaks">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_emp_the_brass_sentinel_speaks</key>
+<localised_description state="APPROVED" last_approved_text="The Deathknell watchtowers act as a warning system for the Empire. The Brass Sentinel atop each one whirls into action, reciting a message to the next watchtower in the chain using the Semaphorius. However, they have been known to send false signals on many occasions." last_edit_user="bob">The Deathknell watchtowers act as a warning system for the Empire. The Brass Sentinel atop each one whirls into action, reciting a message to the next watchtower in the chain using the Semaphorius. However, they have been known to send false signals on many occasions.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Brass Sentinel Speaks" last_edit_user="bob">The Brass Sentinel Speaks</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>messenger</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{bc845404-9550-4393-b9a2-b99a25caa1c2}" record_timestamp="1455622797983" record_key="wh_main_emp_the_moot_petitions">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_emp_the_moot_petitions</key>
+<localised_description state="APPROVED" last_approved_text="The Elder of the Moot requests audience with the Emperor. He pleads that men be sent to their eastern border to secure it against neighbouring Sylvania. The Halflings are nervous about von Carstein intent." last_edit_user="bob">The Elder of the Moot requests audience with the Emperor. He pleads that men be sent to their eastern border to secure it against neighbouring Sylvania. The Halflings are nervous about von Carstein intent.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Moot Petitions" last_edit_user="bob">The Moot Petitions</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>diplomacy</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{3d56ae4c-c03e-48af-85d5-c6e9f92bef48}" record_timestamp="1455630111219" record_key="wh_main_grn_get_out_of_da_way">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_grn_get_out_of_da_way</key>
+<localised_description state="APPROVED" last_approved_text="As da tribe gets bigga, yer Bosses move outta of strikin' reach and start ta get ideas. Dey begin ta fink they're betta dan yoo! Dey fink dey should get dere own Waaagh!" last_edit_user="bob">As da tribe gets bigga, yer Bosses move outta of strikin' reach and start ta get ideas. Dey begin ta fink they're betta dan yoo! Dey fink dey should get dere own Waaagh!</localised_description>
+<localised_title state="APPROVED" last_approved_text="Get Out of Da way!" last_edit_user="bob">Get Out of Da way!</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>politics</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{e2a5580b-0876-4269-b276-89a4bceb1a5c}" record_timestamp="1455902842124" record_key="wh_main_grn_gork_or_mork">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_grn_gork_or_mork</key>
+<localised_description state="APPROVED" last_approved_text="The lads were wonderin' which of da gods to shout furst in da war cry. Som of da boyz wanna shout Mork cos he's brutally kunnin', while da others wanna start wiv Gork cos 'ee's kunningly brutal." last_edit_user="bob">The lads were wonderin' which of da gods to shout furst in da war cry. Som of da boyz wanna shout Mork cos he's brutally kunnin', while da others wanna start wiv Gork cos 'ee's kunningly brutal.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Gork or Mork?" last_edit_user="bob">Gork or Mork?</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>civilisation_up</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{6bdb597c-f206-46ba-947c-00e3eb0b64f9}" record_timestamp="1455630110789" record_key="wh_main_grn_lootas">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_grn_lootas</key>
+<localised_description state="APPROVED" last_approved_text="Dose stupid gits 'ave gone and plundered stuff from Boss Wossisname up dere. We weren't meant to do dat. We 'ad made a pact an' everyfing. Wot we gonna do?" last_edit_user="bob">Dose stupid gits 'ave gone and plundered stuff from Boss Wossisname up dere. We weren't meant to do dat. We 'ad made a pact an' everyfing. Wot we gonna do?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Lootas" last_edit_user="bob">Lootas</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>settlement_lost</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{e8099d0f-db13-47c2-8127-db1eef4cc365}" record_timestamp="1455630111280" record_key="wh_main_grn_wanderin_gits">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_grn_wanderin_gits</key>
+<localised_description state="APPROVED" last_approved_text="A great migration of da tribes comes to our borders, demandin' shelter and wantin' ta join in da fightin'. Not normally a problem, but dis don't smell right." last_edit_user="bob">A great migration of da tribes comes to our borders, demandin' shelter and wantin' ta join in da fightin'. Not normally a problem, but dis don't smell right.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Wanderin' Gits" last_edit_user="bob">Wanderin' Gits</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>diplomacy</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{f14d36db-ad78-4924-8cc4-9718939e27d2}" record_timestamp="1455630111313" record_key="wh_main_grn_wheres_ma_teef">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_grn_wheres_ma_teef</key>
+<localised_description state="APPROVED" last_approved_text="One of yer most trusted Bosses 'as come back from a raid empty-'anded. So 'ee sez… but he's wearin' a right nifty 'elmet, it's all shiny. Hmm… Where 'ee get all dat dosh to polish dat 'elmet?" last_edit_user="bob">One of yer most trusted Bosses 'as come back from a raid empty-'anded. So 'ee sez… but he's wearin' a right nifty 'elmet, it's all shiny. Hmm… Where 'ee get all dat dosh to polish dat 'elmet?</localised_description>
+<localised_title state="APPROVED" last_approved_text="Where's ma teef?" last_edit_user="bob">Where's ma teef?</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>land_victory</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{a19b8c3a-bc1a-43aa-9efa-2d5ee695ad8c}" record_timestamp="1455712092348" record_key="wh_main_vmp_an_enemy_within">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_vmp_an_enemy_within</key>
+<localised_description state="APPROVED" last_approved_text="One of your spies, who flits between the courts of mortal men, seems to be straying from his appointed task. He is a being that still breathes, but craves the Red Kiss. Perhaps a visit is in order to remind him who he serves?" last_edit_user="bob">One of your spies, who flits between the courts of mortal men, seems to be straying from his appointed task. He is a being that still breathes, but craves the Red Kiss. Perhaps a visit is in order to remind him who he serves?</localised_description>
+<localised_title state="APPROVED" last_approved_text="An Enemy Within" last_edit_user="bob">An Enemy Within</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>messenger</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{42e5b310-8eee-4c31-83a9-7d3fb512519e}" record_timestamp="1455538300079" record_key="wh_main_vmp_feasting_on_the_smallfolk">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_vmp_feasting_on_the_smallfolk</key>
+<localised_description state="APPROVED" last_approved_text="A Vampire within your dominion is needlessly feasting on the peasantry. They die in horror, in their hamlets, leaving their pathetic farms unattended. If mortals become so fatalistic then we risk an uprising. The terror must be balanced." last_edit_user="bob">A Vampire within your dominion is needlessly feasting on the peasantry. They die in horror, in their hamlets, leaving their pathetic farms unattended. If mortals become so fatalistic then we risk an uprising. The terror must be balanced.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Feasting On The Smallfolk" last_edit_user="bob">Feasting On The Smallfolk</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>politics</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{e2f2e644-5d9b-4ab4-a222-ef6095cda842}" record_timestamp="1455712092256" record_key="wh_main_vmp_legacy_of_nagash">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_vmp_legacy_of_nagash</key>
+<localised_description state="APPROVED" last_approved_text="Nagash has been gone from the world for centuries, yet his legacy persists. And now a humble warlock approaches wishing to sell two artefacts said to contain the Great Necromancer's spirit." last_edit_user="bob">Nagash has been gone from the world for centuries, yet his legacy persists. And now a humble warlock approaches wishing to sell two artefacts said to contain the Great Necromancer's spirit.</localised_description>
+<localised_title state="APPROVED" last_approved_text="Legacy of Nagash" last_edit_user="bob">Legacy of Nagash</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>politics</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{e61e2baf-5ef9-4aa0-ac2c-5032b46a189f}" record_timestamp="1455712092286" record_key="wh_main_vmp_the_bloody_princes">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_vmp_the_bloody_princes</key>
+<localised_description state="APPROVED" last_approved_text="The prattling kingdoms to the south of the Black Mountains contain peevish mortals that are insignificant and yet demand attention. Should we care?" last_edit_user="bob">The prattling kingdoms to the south of the Black Mountains contain peevish mortals that are insignificant and yet demand attention. Should we care?</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Bloody Princes" last_edit_user="bob">The Bloody Princes</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{d22b4032-0513-4b07-b3ed-45ec7062b94c}" record_timestamp="1462358726179" record_key="wh_main_vmp_the_prince_of_nothing">
+<event_category>Event</event_category>
+<generate>1</generate>
+<key>wh_main_vmp_the_prince_of_nothing</key>
+<localised_description state="APPROVED" last_approved_text="Some malignant thing dares to challenge you. A message sent from somewhere in the Grey Mountains warns you to stay away and &quot;Keep to your Sylvanian slums or face the Great Enchanter&quot;." last_edit_user="bob">Some malignant thing dares to challenge you. A message sent from somewhere in the Grey Mountains warns you to stay away and &quot;Keep to your Sylvanian slums or face the Great Enchanter&quot;.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Prince of Nothing" last_edit_user="bob">The Prince of Nothing</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override></sound_click_override>
+<sound_popup_override></sound_popup_override>
+<ui_image>diplomacy</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{d28c33d5-d4db-46a2-8e7d-17aef12b3a44}" record_timestamp="1479323159324" record_key="wh_pro01_dwf_grombrindal_amour_of_glimril_scales_stage_3">
+<event_category>Quest</event_category>
+<generate>0</generate>
+<key>wh_pro01_dwf_grombrindal_amour_of_glimril_scales_stage_3</key>
+<localised_description state="APPROVED" last_approved_text="&quot;The White Dwarf's throng arrives at Bugman's legendary brewery. Josef is a fine host, but the situation is dire. The Master Brewer recounts a tale of woe and fell magicks that has all the hallmarks of the Ruinous Powers. It seems a Chaos Lord is loose in the Reikwald. The urk is performing fell rituals that corrupt Beastmen tribes to his will and saturate the Cloven Ones in Dark Magic, making them an even greater threat than normal. So far the umgi of Sigmar have proven no match for these corrupted warherds. " last_edit_user="bob">&quot;The White Dwarf's throng arrives at Bugman's legendary brewery. Josef is a fine host, but the situation is dire. The Master Brewer recounts a tale of woe and fell magicks that has all the hallmarks of the Ruinous Powers. It seems a Chaos Lord is loose in the Reikwald. The urk is performing fell rituals that corrupt Beastmen tribes to his will and saturate the Cloven Ones in Dark Magic, making them an even greater threat than normal. So far the umgi of Sigmar have proven no match for these corrupted warherds. </localised_description>
+<localised_title state="APPROVED" last_approved_text="Armour of Glimril Scales" last_edit_user="bob">Armour of Glimril Scales</localised_title>
+<prioritized>0</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Grombrindal</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Grombrindal</sound_popup_override>
+<ui_image>generic</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{3fb454a4-481f-4bf9-a591-b414e401a175}" record_timestamp="1479323159323" record_key="wh_pro01_dwf_grombrindal_god_choice_grimnir_15">
+<event_category>Event</event_category>
+<generate>0</generate>
+<key>wh_pro01_dwf_grombrindal_god_choice_grimnir_15</key>
+<localised_description state="APPROVED" last_approved_text="The warrior's path is trod in blood of urks and the companionship of fellow warriors, but after the fight comes the need to rebuild or hew halls anew. Grombrindal must look to other Ancestors to endure, or even within himself." last_edit_user="bob">The warrior's path is trod in blood of urks and the companionship of fellow warriors, but after the fight comes the need to rebuild or hew halls anew. Grombrindal must look to other Ancestors to endure, or even within himself.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Living Ancestor" last_edit_user="bob">The Living Ancestor</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Grombrindal</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Grombrindal</sound_popup_override>
+<ui_image>faction</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{59940c1d-d402-4c9c-99b3-aa26f78f1f1b}" record_timestamp="1479323159323" record_key="wh_pro01_dwf_grombrindal_god_choice_grimnir_25">
+<event_category>Event</event_category>
+<generate>0</generate>
+<key>wh_pro01_dwf_grombrindal_god_choice_grimnir_25</key>
+<localised_description state="APPROVED" last_approved_text="The warrior's path is trod in blood of urks and the companionship of fellow warriors, but after the fight comes the need to rebuild or hew halls anew. Grombrindal must look to other Ancestors to endure, or even within himself." last_edit_user="bob">The warrior's path is trod in blood of urks and the companionship of fellow warriors, but after the fight comes the need to rebuild or hew halls anew. Grombrindal must look to other Ancestors to endure, or even within himself.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Living Ancestor" last_edit_user="bob">The Living Ancestor</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Grombrindal</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Grombrindal</sound_popup_override>
+<ui_image>faction</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{5c14f9a5-dc6e-462e-98ea-3cd19fbd9710}" record_timestamp="1479323159322" record_key="wh_pro01_dwf_grombrindal_god_choice_grungni_15">
+<event_category>Event</event_category>
+<generate>0</generate>
+<key>wh_pro01_dwf_grombrindal_god_choice_grungni_15</key>
+<localised_description state="APPROVED" last_approved_text="The White Dwarf thanks his mentor, Grungni. Wisdom cannot come from one source alone though, so he must now look to his fellow Ancestors - or even to his own experience - for guidance in the trials ahead." last_edit_user="bob">The White Dwarf thanks his mentor, Grungni. Wisdom cannot come from one source alone though, so he must now look to his fellow Ancestors - or even to his own experience - for guidance in the trials ahead.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Living Ancestor" last_edit_user="bob">The Living Ancestor</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Grombrindal</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Grombrindal</sound_popup_override>
+<ui_image>faction</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{41c62bff-db13-4946-8b3f-63fa48e03449}" record_timestamp="1479323159321" record_key="wh_pro01_dwf_grombrindal_god_choice_grungni_25">
+<event_category>Event</event_category>
+<generate>0</generate>
+<key>wh_pro01_dwf_grombrindal_god_choice_grungni_25</key>
+<localised_description state="APPROVED" last_approved_text="The White Dwarf thanks his mentor, Grungni. Wisdom cannot come from one source alone though, so he must now look to his fellow Ancestors - or even to his own experience - for guidance in the trials ahead." last_edit_user="bob">The White Dwarf thanks his mentor, Grungni. Wisdom cannot come from one source alone though, so he must now look to his fellow Ancestors - or even to his own experience - for guidance in the trials ahead.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Living Ancestor" last_edit_user="bob">The Living Ancestor</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Grombrindal</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Grombrindal</sound_popup_override>
+<ui_image>faction</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{cad3ed67-153f-4c25-9bd4-15ac7e825ed3}" record_timestamp="1479323159321" record_key="wh_pro01_dwf_grombrindal_god_choice_valaya_15">
+<event_category>Event</event_category>
+<generate>0</generate>
+<key>wh_pro01_dwf_grombrindal_god_choice_valaya_15</key>
+<localised_description state="APPROVED" last_approved_text="Valaya's time has waned and now she rests. Grombrindal looks to his fellow Ancestors for guidance in aiding his kith and kin during this Age of Reckoning." last_edit_user="bob">Valaya's time has waned and now she rests. Grombrindal looks to his fellow Ancestors for guidance in aiding his kith and kin during this Age of Reckoning.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Living Ancestor" last_edit_user="bob">The Living Ancestor</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Grombrindal</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Grombrindal</sound_popup_override>
+<ui_image>faction</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{9239ee0a-4163-4202-a769-ac8ec4941994}" record_timestamp="1479323159320" record_key="wh_pro01_dwf_grombrindal_god_choice_valaya_25">
+<event_category>Event</event_category>
+<generate>0</generate>
+<key>wh_pro01_dwf_grombrindal_god_choice_valaya_25</key>
+<localised_description state="APPROVED" last_approved_text="Valaya's time has waned and now she rests. Grombrindal looks to his fellow Ancestors for guidance in aiding his kith and kin during this Age of Reckoning." last_edit_user="bob">Valaya's time has waned and now she rests. Grombrindal looks to his fellow Ancestors for guidance in aiding his kith and kin during this Age of Reckoning.</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Living Ancestor" last_edit_user="bob">The Living Ancestor</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Grombrindal</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Grombrindal</sound_popup_override>
+<ui_image>faction</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{9ffa7429-15bc-4967-a36b-af647f2064b3}" record_timestamp="1479323159320" record_key="wh_pro01_dwf_grombrindal_god_choice_white_dwarf_15">
+<event_category>Event</event_category>
+<generate>0</generate>
+<key>wh_pro01_dwf_grombrindal_god_choice_white_dwarf_15</key>
+<localised_description state="APPROVED" last_approved_text="Such is the age and renown of the White Dwarf that many sagas say he strode with the Ancestor gods themselves. It is a claim the White Dwarf does not refute - and no one dares challenge - for to doubt Grombrindal's word, or call him false, would surely end badly for the accuser..." last_edit_user="bob">Such is the age and renown of the White Dwarf that many sagas say he strode with the Ancestor gods themselves. It is a claim the White Dwarf does not refute - and no one dares challenge - for to doubt Grombrindal's word, or call him false, would surely end badly for the accuser...</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Living Ancestor" last_edit_user="bob">The Living Ancestor</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Grombrindal</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Grombrindal</sound_popup_override>
+<ui_image>blessed</ui_image>
+</dilemmas>
+<dilemmas record_uuid="{433458a0-2483-4033-816f-d710167f4fd8}" record_timestamp="1479323159319" record_key="wh_pro01_dwf_grombrindal_god_choice_white_dwarf_25">
+<event_category>Event</event_category>
+<generate>0</generate>
+<key>wh_pro01_dwf_grombrindal_god_choice_white_dwarf_25</key>
+<localised_description state="APPROVED" last_approved_text="Such is the age and renown of the White Dwarf that many sagas say he strode with the Ancestor gods themselves. It is a claim the White Dwarf does not refute - and no one dares challenge - for to doubt Grombrindal's word, or call him false, would surely end badly for the accuser..." last_edit_user="bob">Such is the age and renown of the White Dwarf that many sagas say he strode with the Ancestor gods themselves. It is a claim the White Dwarf does not refute - and no one dares challenge - for to doubt Grombrindal's word, or call him false, would surely end badly for the accuser...</localised_description>
+<localised_title state="APPROVED" last_approved_text="The Living Ancestor" last_edit_user="bob">The Living Ancestor</localised_title>
+<prioritized>1</prioritized>
+<sound_click_override>UI_CAM_HUD_Dilemma_Grombrindal</sound_click_override>
+<sound_popup_override>UI_CAM_EVENT_Dilemma_Grombrindal</sound_popup_override>
+<ui_image>blessed</ui_image>
+</dilemmas>
+</dataroot>

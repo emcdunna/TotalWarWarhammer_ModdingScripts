@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="taxes_effects_jct.xsd" export_time="Wed Nov 4 09:45:48 2015" revision="29" export_branch="T:/warhammer/binaries" export_user="bob">
+<edit_uuid>5d0cdcda-efae-460f-a4d1-b6010741711a</edit_uuid>
+<taxes_effects_jct record_uuid="{b63338ce-2b43-48f4-bb61-2da0e30d84c4}" record_timestamp="1425557557599" record_key="lower_extortionatewh_main_effect_province_growth_taxesfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_province_growth_taxes</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_extortionate</tax_name>
+<value>-3</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{9f51d73d-cf0a-4c65-aca8-3427529e3402}" record_timestamp="1425557574375" record_key="lower_extortionatewh_main_effect_public_order_tax_ratefalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_public_order_tax_rate</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_extortionate</tax_name>
+<value>-25</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{c83f04af-d1f5-4200-8834-892f0468ad35}" record_timestamp="1446220543193" record_key="lower_extortionatewh_main_effect_unit_recruitment_points_navalfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>province_to_sea_region_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_extortionate</tax_name>
+<value>1</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{b4e71cfc-f77c-46d3-8c06-e90b69b8c0db}" record_timestamp="1445536188732" record_key="lower_extortionatewh_main_effect_unit_recruitment_pointsfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_extortionate</tax_name>
+<value>1</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{edbd39f4-3706-4c58-8ab8-75607f3a9bbe}" record_timestamp="1425557557851" record_key="lower_highwh_main_effect_province_growth_taxesfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_province_growth_taxes</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_high</tax_name>
+<value>-1</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{e01ce9d0-6b17-4dd6-ab5a-78b1a9a965a3}" record_timestamp="1425557574216" record_key="lower_highwh_main_effect_public_order_tax_ratefalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_public_order_tax_rate</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_high</tax_name>
+<value>-10</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{8c7a8872-94b8-4aba-a85b-75630235e095}" record_timestamp="1446220543223" record_key="lower_highwh_main_effect_unit_recruitment_points_navalfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>province_to_sea_region_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_high</tax_name>
+<value>1</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{a0b62341-0850-44f5-a03c-06562ec8d225}" record_timestamp="1445536188595" record_key="lower_highwh_main_effect_unit_recruitment_pointsfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_high</tax_name>
+<value>1</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{3f829f89-62bc-4fd4-9504-e9dc889c79f1}" record_timestamp="1425557557515" record_key="lower_lowwh_main_effect_province_growth_taxesfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_province_growth_taxes</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_low</tax_name>
+<value>2</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{79bcce51-2cad-4650-8993-e7cbaa855b3c}" record_timestamp="1425557574455" record_key="lower_lowwh_main_effect_public_order_tax_ratefalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_public_order_tax_rate</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_low</tax_name>
+<value>-1</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{1ec4a2f1-2fd3-4623-a95f-da18cc1eec05}" record_timestamp="1446220543233" record_key="lower_lowwh_main_effect_unit_recruitment_points_navalfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>province_to_sea_region_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_low</tax_name>
+<value>1</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{1c6caef6-099f-4d6a-a2c3-40b0444a1ab2}" record_timestamp="1445536188459" record_key="lower_lowwh_main_effect_unit_recruitment_pointsfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_low</tax_name>
+<value>1</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{c9e759c4-cde1-4df4-a672-b123ffb771f5}" record_timestamp="1425557557683" record_key="lower_minimalwh_main_effect_province_growth_taxesfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_province_growth_taxes</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_minimal</tax_name>
+<value>4</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{1dfbc137-50f3-47d3-b30d-dd068c354ab8}" record_timestamp="1425557574534" record_key="lower_minimalwh_main_effect_public_order_tax_ratefalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_public_order_tax_rate</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_minimal</tax_name>
+<value>0</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{563ba5b4-243c-4ce1-a4ea-bc8354c6fd23}" record_timestamp="1446220543253" record_key="lower_minimalwh_main_effect_unit_recruitment_points_navalfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>province_to_sea_region_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_minimal</tax_name>
+<value>1</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{f5a90032-83e2-4f46-8888-ef002e7a8ee5}" record_timestamp="1445536188186" record_key="lower_minimalwh_main_effect_unit_recruitment_pointsfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_minimal</tax_name>
+<value>1</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{9175551c-8bb5-4071-bd4b-d0376da36a4b}" record_timestamp="1425557557767" record_key="lower_normalwh_main_effect_province_growth_taxesfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_province_growth_taxes</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_normal</tax_name>
+<value>0</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{d75a31f1-7073-4572-9f30-8c8e68c142ed}" record_timestamp="1425557574296" record_key="lower_normalwh_main_effect_public_order_tax_ratefalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_public_order_tax_rate</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_normal</tax_name>
+<value>-4</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{6bda3028-20a5-4427-91c2-45dc97494038}" record_timestamp="1446220543253" record_key="lower_normalwh_main_effect_unit_recruitment_points_navalfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>province_to_sea_region_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_normal</tax_name>
+<value>1</value>
+</taxes_effects_jct>
+<taxes_effects_jct record_uuid="{6ab7bb66-712f-4d85-a843-7c16694c6442}" record_timestamp="1445536187641" record_key="lower_normalwh_main_effect_unit_recruitment_pointsfalse">
+<ai_only>0</ai_only>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>province_to_province_own</effect_scope>
+<optional_campaign_key></optional_campaign_key>
+<optional_difficulty_level></optional_difficulty_level>
+<tax_name>lower_normal</tax_name>
+<value>1</value>
+</taxes_effects_jct>
+</dataroot>

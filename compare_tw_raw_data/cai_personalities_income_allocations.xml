@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personalities_income_allocations.xsd" export_time="Fri Feb 10 15:26:58 2017" revision="12" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>837c7f1b-6e21-4271-9129-5f2796184270</edit_uuid>
+<cai_personalities_income_allocations record_uuid="{4c34f5be-68c4-4a41-afe1-2a2624de5593}" record_timestamp="1454681819529" record_key="income_allocation_high_spending">
+<key>income_allocation_high_spending</key>
+<positive_net_income_survival_rounds>10</positive_net_income_survival_rounds>
+<proportion_of_net_income_to_spend>0.75</proportion_of_net_income_to_spend>
+<zero_or_negative_net_income_survival_rounds>20</zero_or_negative_net_income_survival_rounds>
+</cai_personalities_income_allocations>
+<cai_personalities_income_allocations record_uuid="{6a280bc4-9205-4035-91b0-7b69235703e4}" record_timestamp="1454681819674" record_key="income_allocation_low_spending">
+<key>income_allocation_low_spending</key>
+<positive_net_income_survival_rounds>10</positive_net_income_survival_rounds>
+<proportion_of_net_income_to_spend>0.65</proportion_of_net_income_to_spend>
+<zero_or_negative_net_income_survival_rounds>20</zero_or_negative_net_income_survival_rounds>
+</cai_personalities_income_allocations>
+<cai_personalities_income_allocations record_uuid="{0e0fc3e8-7725-444b-b7b8-716636bedc5b}" record_timestamp="1486740417863" record_key="income_allocation_low_spending_no_overspend">
+<key>income_allocation_low_spending_no_overspend</key>
+<positive_net_income_survival_rounds>1000</positive_net_income_survival_rounds>
+<proportion_of_net_income_to_spend>0.65</proportion_of_net_income_to_spend>
+<zero_or_negative_net_income_survival_rounds>1000</zero_or_negative_net_income_survival_rounds>
+</cai_personalities_income_allocations>
+<cai_personalities_income_allocations record_uuid="{bc9eda70-d562-4a77-a9a6-8cf6b55a5f33}" record_timestamp="1454681819602" record_key="income_allocation_medium_spending">
+<key>income_allocation_medium_spending</key>
+<positive_net_income_survival_rounds>10</positive_net_income_survival_rounds>
+<proportion_of_net_income_to_spend>0.7</proportion_of_net_income_to_spend>
+<zero_or_negative_net_income_survival_rounds>20</zero_or_negative_net_income_survival_rounds>
+</cai_personalities_income_allocations>
+<cai_personalities_income_allocations record_uuid="{7f0d7f45-b51a-4eef-ba7e-7f3f3842e521}" record_timestamp="1454681819455" record_key="income_allocation_very_high_spending">
+<key>income_allocation_very_high_spending</key>
+<positive_net_income_survival_rounds>10</positive_net_income_survival_rounds>
+<proportion_of_net_income_to_spend>0.8</proportion_of_net_income_to_spend>
+<zero_or_negative_net_income_survival_rounds>20</zero_or_negative_net_income_survival_rounds>
+</cai_personalities_income_allocations>
+<cai_personalities_income_allocations record_uuid="{22239fbd-3f74-4ff6-b60e-da6fd225bf0c}" record_timestamp="1454681819819" record_key="income_allocation_very_low_spending">
+<key>income_allocation_very_low_spending</key>
+<positive_net_income_survival_rounds>10</positive_net_income_survival_rounds>
+<proportion_of_net_income_to_spend>0.55</proportion_of_net_income_to_spend>
+<zero_or_negative_net_income_survival_rounds>20</zero_or_negative_net_income_survival_rounds>
+</cai_personalities_income_allocations>
+</dataroot>

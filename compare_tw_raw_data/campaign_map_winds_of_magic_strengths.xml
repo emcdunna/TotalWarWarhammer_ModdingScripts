@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_map_winds_of_magic_strengths.xsd" export_time="Wed Apr 6 11:55:44 2016" revision="11" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>3934077a-ca7a-4e9a-907b-61dc547285f3</edit_uuid>
+<campaign_map_winds_of_magic_strengths record_uuid="{b5a28e52-d221-4641-9115-612c2a829a04}" record_timestamp="1459940144521" record_key="wom_strength_0">
+<composite_scene></composite_scene>
+<default>0</default>
+<frequency>1</frequency>
+<key>wom_strength_0</key>
+<localised_name state="APPROVED" last_approved_text="Calm" last_edit_user="bob">Calm</localised_name>
+<value>-50</value>
+</campaign_map_winds_of_magic_strengths>
+<campaign_map_winds_of_magic_strengths record_uuid="{e60a714f-efd8-4164-93bf-e4ecf0ac4eb7}" record_timestamp="1459940144525" record_key="wom_strength_1">
+<composite_scene></composite_scene>
+<default>0</default>
+<frequency>3</frequency>
+<key>wom_strength_1</key>
+<localised_name state="APPROVED" last_approved_text="Weak" last_edit_user="bob">Weak</localised_name>
+<value>-20</value>
+</campaign_map_winds_of_magic_strengths>
+<campaign_map_winds_of_magic_strengths record_uuid="{1b9d879d-930a-4bf0-aeda-0655e5b082e1}" record_timestamp="1445532216232" record_key="wom_strength_2">
+<composite_scene>winds_of_magic_3</composite_scene>
+<default>1</default>
+<frequency>5</frequency>
+<key>wom_strength_2</key>
+<localised_name state="APPROVED" last_approved_text="Blowing" last_edit_user="bob">Blowing</localised_name>
+<value>0</value>
+</campaign_map_winds_of_magic_strengths>
+<campaign_map_winds_of_magic_strengths record_uuid="{bdf376dd-b2e6-42a0-a48a-9c4190c6d2ee}" record_timestamp="1459940144526" record_key="wom_strength_3">
+<composite_scene>winds_of_magic_4</composite_scene>
+<default>0</default>
+<frequency>3</frequency>
+<key>wom_strength_3</key>
+<localised_name state="APPROVED" last_approved_text="Strong" last_edit_user="bob">Strong</localised_name>
+<value>20</value>
+</campaign_map_winds_of_magic_strengths>
+<campaign_map_winds_of_magic_strengths record_uuid="{1a285b03-717e-44a0-9b6b-1545e2f5dbc6}" record_timestamp="1459940144524" record_key="wom_strength_4">
+<composite_scene>winds_of_magic_5</composite_scene>
+<default>0</default>
+<frequency>1</frequency>
+<key>wom_strength_4</key>
+<localised_name state="APPROVED" last_approved_text="Tempestuous" last_edit_user="bob">Tempestuous</localised_name>
+<value>50</value>
+</campaign_map_winds_of_magic_strengths>
+</dataroot>

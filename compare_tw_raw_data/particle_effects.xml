@@ -1,0 +1,1687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="particle_effects.xsd" export_time="Fri Feb 3 08:16:46 2017" revision="264" export_branch="E:/TW/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e9f1a875-0a40-4444-b8c2-7fd770b4a1e0</edit_uuid>
+<particle_effects record_uuid="{0046f455-4018-4419-8b44-bb9cf97c11f8}" record_timestamp="1455119270107" record_key="empty">
+<key>empty</key>
+</particle_effects>
+<particle_effects record_uuid="{e7275a4b-75c7-4a81-8705-c7805b2eae19}" record_timestamp="1461152125525" record_key="wh_dlc02_arrow_impact_blood_medium">
+<key>wh_dlc02_arrow_impact_blood_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{3fb9433a-513d-4580-ae7a-1c315514f048}" record_timestamp="1463569352738" record_key="wh_dlc02_blood_dismember_stump_large">
+<key>wh_dlc02_blood_dismember_stump_large</key>
+</particle_effects>
+<particle_effects record_uuid="{153725de-430e-4a2f-891d-7d5899129237}" record_timestamp="1466524299045" record_key="wh_dlc02_blood_dismember_stump_large_onground">
+<key>wh_dlc02_blood_dismember_stump_large_onground</key>
+</particle_effects>
+<particle_effects record_uuid="{72efe43c-0ab7-4ecc-82cd-5bc83aaaa810}" record_timestamp="1463569352732" record_key="wh_dlc02_blood_explosion_medium">
+<key>wh_dlc02_blood_explosion_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{0b67d6fc-b050-42b2-ad22-b4335d937a9c}" record_timestamp="1466524299044" record_key="wh_dlc02_blood_explosion_medium_onground">
+<key>wh_dlc02_blood_explosion_medium_onground</key>
+</particle_effects>
+<particle_effects record_uuid="{0f1423a5-1eb1-4eae-8b54-0c43bce24c5c}" record_timestamp="1461152125525" record_key="wh_dlc02_lib_arrow_impact_blood">
+<key>wh_dlc02_lib_arrow_impact_blood</key>
+</particle_effects>
+<particle_effects record_uuid="{30c450b5-70ba-4853-84a8-639bcf62ea14}" record_timestamp="1465231570274" record_key="wh_dlc02_weapon_carcas_impact">
+<key>wh_dlc02_weapon_carcas_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{b272ace1-dc6d-4286-8b58-b66ae7de5ac1}" record_timestamp="1462359681900" record_key="wh_dlc02_weapon_doomdiver_entity_impact">
+<key>wh_dlc02_weapon_doomdiver_entity_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{91ee2555-1744-4da8-9f70-8f6fb0db84e8}" record_timestamp="1462358166219" record_key="wh_dlc02_weapon_doomdiver_impact">
+<key>wh_dlc02_weapon_doomdiver_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{d8ba1566-a017-42ab-8d49-a2e317acabad}" record_timestamp="1461073403213" record_key="wh_dlc03_amber_spear_explosion">
+<key>wh_dlc03_amber_spear_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{db37562b-becb-4058-a96f-a9aaf88210cd}" record_timestamp="1465403170937" record_key="wh_dlc03_amber_spear_impact">
+<key>wh_dlc03_amber_spear_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{8aacd382-c9f6-4477-a3ff-9f2a8ca69c68}" record_timestamp="1461073403139" record_key="wh_dlc03_beasts_amber_spear_trail">
+<key>wh_dlc03_beasts_amber_spear_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{1ae0978d-147a-448f-ad5e-8584b36af75c}" record_timestamp="1460538316354" record_key="wh_dlc03_beasts_aura_casting_long">
+<key>wh_dlc03_beasts_aura_casting_long</key>
+</particle_effects>
+<particle_effects record_uuid="{064dda9f-419a-42e0-822c-f925e04e94f8}" record_timestamp="1460538316432" record_key="wh_dlc03_beasts_aura_casting_medium">
+<key>wh_dlc03_beasts_aura_casting_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{3b75f46c-3aea-4a4b-bace-ad3b35744a06}" record_timestamp="1460538316393" record_key="wh_dlc03_beasts_aura_casting_short">
+<key>wh_dlc03_beasts_aura_casting_short</key>
+</particle_effects>
+<particle_effects record_uuid="{32015e09-f397-46bb-add5-55f871fb8a61}" record_timestamp="1460538316470" record_key="wh_dlc03_beasts_cast_long">
+<key>wh_dlc03_beasts_cast_long</key>
+</particle_effects>
+<particle_effects record_uuid="{7cb4c439-c26d-461d-b9a8-619fecf0f38b}" record_timestamp="1460538316510" record_key="wh_dlc03_beasts_cast_medium">
+<key>wh_dlc03_beasts_cast_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{05676353-1cc9-4e74-a46e-07977bd24c33}" record_timestamp="1460538316549" record_key="wh_dlc03_beasts_cast_short">
+<key>wh_dlc03_beasts_cast_short</key>
+</particle_effects>
+<particle_effects record_uuid="{9e33e139-043b-40ce-87f5-965c40841a49}" record_timestamp="1460538318201" record_key="wh_dlc03_beasts_curse_of_anraheir_debuff">
+<key>wh_dlc03_beasts_curse_of_anraheir_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{60ea5fa7-8e3a-4c49-87d5-c3cabcc2cb9c}" record_timestamp="1460538318281" record_key="wh_dlc03_beasts_flock_of_doom_debuff">
+<key>wh_dlc03_beasts_flock_of_doom_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{77dbff6d-6f35-49a9-ad1f-d7edcefb2f6f}" record_timestamp="1460538317850" record_key="wh_dlc03_beasts_miscast">
+<key>wh_dlc03_beasts_miscast</key>
+</particle_effects>
+<particle_effects record_uuid="{62ea7212-aef8-42eb-b011-3701fe45f1b5}" record_timestamp="1460538318321" record_key="wh_dlc03_beasts_panns_impenetrable_pelt_buff">
+<key>wh_dlc03_beasts_panns_impenetrable_pelt_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{025fa869-b3ce-48cf-9191-ba5861c0a865}" record_timestamp="1460538318360" record_key="wh_dlc03_beasts_transformation_of_kadon">
+<key>wh_dlc03_beasts_transformation_of_kadon</key>
+</particle_effects>
+<particle_effects record_uuid="{6a015698-9052-41b4-8d33-61fe43ae18b2}" record_timestamp="1460538318398" record_key="wh_dlc03_beasts_wyssans_wildform_buff">
+<key>wh_dlc03_beasts_wyssans_wildform_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{df344e9c-a32f-4551-a44a-4263096b1656}" record_timestamp="1465377645697" record_key="wh_dlc03_cygor_boulder_explosion">
+<key>wh_dlc03_cygor_boulder_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{7c0a1b12-dc0f-4495-baef-fb5d229aaa52}" record_timestamp="1466009472422" record_key="wh_dlc03_weapon_trail_hunting_spear">
+<key>wh_dlc03_weapon_trail_hunting_spear</key>
+</particle_effects>
+<particle_effects record_uuid="{f912a62b-a38d-4516-8686-b438ef42129d}" record_timestamp="1460538316588" record_key="wh_dlc03_wild_aura_casting_long">
+<key>wh_dlc03_wild_aura_casting_long</key>
+</particle_effects>
+<particle_effects record_uuid="{18c5b00c-df10-430d-97aa-5c9f6500d4f4}" record_timestamp="1460538316627" record_key="wh_dlc03_wild_aura_casting_medium">
+<key>wh_dlc03_wild_aura_casting_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{82545348-7341-4735-b3fc-e671b982b6c1}" record_timestamp="1460538316666" record_key="wh_dlc03_wild_aura_casting_short">
+<key>wh_dlc03_wild_aura_casting_short</key>
+</particle_effects>
+<particle_effects record_uuid="{4c1c1dd3-fb1c-4e0a-b3ed-7d5bf26f4a0d}" record_timestamp="1464254811073" record_key="wh_dlc03_wild_bray_scream_area">
+<key>wh_dlc03_wild_bray_scream_area</key>
+</particle_effects>
+<particle_effects record_uuid="{81c1bba4-527c-423e-bba1-466da983879d}" record_timestamp="1460538316705" record_key="wh_dlc03_wild_cast_long">
+<key>wh_dlc03_wild_cast_long</key>
+</particle_effects>
+<particle_effects record_uuid="{1759d1c2-68e0-42fe-92f6-afbbb5f9ce18}" record_timestamp="1460538316743" record_key="wh_dlc03_wild_cast_medium">
+<key>wh_dlc03_wild_cast_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{7b61bd82-5d94-4ba5-a1df-65c4018dc5cb}" record_timestamp="1460538316784" record_key="wh_dlc03_wild_cast_short">
+<key>wh_dlc03_wild_cast_short</key>
+</particle_effects>
+<particle_effects record_uuid="{e824f035-f401-429d-8f72-56d0e5b7f9e3}" record_timestamp="1460538318437" record_key="wh_dlc03_wild_devolve_entity_debuff">
+<key>wh_dlc03_wild_devolve_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{49736813-4d6a-4ed4-9993-091c3a31ecc1}" record_timestamp="1460538318475" record_key="wh_dlc03_wild_mantle_of_ghorok_entity_buff">
+<key>wh_dlc03_wild_mantle_of_ghorok_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{5973ed8b-51cd-4c93-8578-8f7ae8bdf1bd}" record_timestamp="1460538318515" record_key="wh_dlc03_wild_mantle_of_ghorok_unit_debuff">
+<key>wh_dlc03_wild_mantle_of_ghorok_unit_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{206973c0-d30c-465c-9aad-98e2d93079bb}" record_timestamp="1460538317889" record_key="wh_dlc03_wild_miscast">
+<key>wh_dlc03_wild_miscast</key>
+</particle_effects>
+<particle_effects record_uuid="{1c45ed64-95c7-422d-b088-79a02236d129}" record_timestamp="1460538318553" record_key="wh_dlc03_wild_savage_dominion">
+<key>wh_dlc03_wild_savage_dominion</key>
+</particle_effects>
+<particle_effects record_uuid="{051ed62a-e39e-494e-81c4-6487aa0de474}" record_timestamp="1460538318590" record_key="wh_dlc03_wild_traitor_kin_entity_debuff">
+<key>wh_dlc03_wild_traitor_kin_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{d968a430-b636-4dce-bc45-ca993028efd6}" record_timestamp="1469795022845" record_key="wh_dlc04_light_ability_aura_casting_long">
+<key>wh_dlc04_light_ability_aura_casting_long</key>
+</particle_effects>
+<particle_effects record_uuid="{90e123d9-6729-495f-9ae6-b3fb8d586aa3}" record_timestamp="1479331185564" record_key="wh_dlc05_abilities_aura_of_transmutation">
+<key>wh_dlc05_abilities_aura_of_transmutation</key>
+</particle_effects>
+<particle_effects record_uuid="{4fbe1c44-deff-4485-943f-cdd69116db33}" record_timestamp="1479332180962" record_key="wh_dlc05_abilities_hail_of_doom_explosion">
+<key>wh_dlc05_abilities_hail_of_doom_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{ca1d80e2-d2a3-4f1e-9e1e-dfd5e8b17bd7}" record_timestamp="1479332180961" record_key="wh_dlc05_abilities_hail_of_doom_trail">
+<key>wh_dlc05_abilities_hail_of_doom_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{c197e78b-a0ca-4165-bd82-14c76f7e2e13}" record_timestamp="1477041450687" record_key="wh_dlc05_ability_arrow_of_kurnous_explosion">
+<key>wh_dlc05_ability_arrow_of_kurnous_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{73910106-11b7-4791-8dcd-4f79ba70a58d}" record_timestamp="1477041450686" record_key="wh_dlc05_ability_arrow_of_kurnous_impact">
+<key>wh_dlc05_ability_arrow_of_kurnous_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{270a1da9-abe2-4fad-9e17-c427ea75df8e}" record_timestamp="1477041450686" record_key="wh_dlc05_ability_arrow_of_kurnous_trail">
+<key>wh_dlc05_ability_arrow_of_kurnous_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{56c689be-3845-456f-ac10-468e984e62fb}" record_timestamp="1479308799512" record_key="wh_dlc05_ability_lamentation_of_despair_explosion">
+<key>wh_dlc05_ability_lamentation_of_despair_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{e2e4da60-c8a0-443c-90bd-651acae914a1}" record_timestamp="1479308799512" record_key="wh_dlc05_ability_lamentation_of_despair_impact">
+<key>wh_dlc05_ability_lamentation_of_despair_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{a6a8b950-45e2-4876-b2cb-066edc5ef403}" record_timestamp="1479308799511" record_key="wh_dlc05_ability_lamentation_of_despair_trail">
+<key>wh_dlc05_ability_lamentation_of_despair_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{6f54a734-4735-4e7b-ad8d-ca162bc0ddf0}" record_timestamp="1477041407212" record_key="wh_dlc05_hawk_magic_arrow_trail">
+<key>wh_dlc05_hawk_magic_arrow_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{bdcacf44-58f9-4972-a9f3-6fb770942f6b}" record_timestamp="1477036761528" record_key="wh_dlc05_impact_vsmall_wef_arrow">
+<key>wh_dlc05_impact_vsmall_wef_arrow</key>
+</particle_effects>
+<particle_effects record_uuid="{7797c156-0497-4062-ab39-6b40969558ab}" record_timestamp="1481045531979" record_key="wh_dlc05_impact_vsmall_wef_arrow_starfire">
+<key>wh_dlc05_impact_vsmall_wef_arrow_starfire</key>
+</particle_effects>
+<particle_effects record_uuid="{cb6c1b3f-565e-4183-a0ad-045fdf4ae311}" record_timestamp="1481045532009" record_key="wh_dlc05_impact_vsmall_wef_arrow_swiftshiver">
+<key>wh_dlc05_impact_vsmall_wef_arrow_swiftshiver</key>
+</particle_effects>
+<particle_effects record_uuid="{f3f4cb85-9a38-49f1-bb82-6372b1582eb3}" record_timestamp="1481046283090" record_key="wh_dlc05_impact_vsmall_wef_arrow_trueflight">
+<key>wh_dlc05_impact_vsmall_wef_arrow_trueflight</key>
+</particle_effects>
+<particle_effects record_uuid="{e1738e0a-2981-4699-ad74-58f01d012e35}" record_timestamp="1475074247944" record_key="wh_dlc05_life_aura_casting_long">
+<key>wh_dlc05_life_aura_casting_long</key>
+</particle_effects>
+<particle_effects record_uuid="{928cf4c0-557a-4d4a-92a2-17d0965c5c9a}" record_timestamp="1475074248009" record_key="wh_dlc05_life_aura_casting_medium">
+<key>wh_dlc05_life_aura_casting_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{1523dfca-a862-4c29-847d-325873ff02bf}" record_timestamp="1475074248073" record_key="wh_dlc05_life_aura_casting_short">
+<key>wh_dlc05_life_aura_casting_short</key>
+</particle_effects>
+<particle_effects record_uuid="{b6d1a92c-96c6-4529-ac65-4a5558c62e4a}" record_timestamp="1475074248112" record_key="wh_dlc05_life_awakening_the_wood_debuff">
+<key>wh_dlc05_life_awakening_the_wood_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{c0279d49-06f7-4710-bbf5-93403b7b43ca}" record_timestamp="1475074248179" record_key="wh_dlc05_life_cast_long">
+<key>wh_dlc05_life_cast_long</key>
+</particle_effects>
+<particle_effects record_uuid="{6db0d0e8-54e1-46a2-8fbf-f00b1e9a0cb7}" record_timestamp="1475074248247" record_key="wh_dlc05_life_cast_medium">
+<key>wh_dlc05_life_cast_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{a4a34db2-b127-4c4e-a780-32f6e80ffdc6}" record_timestamp="1475074248317" record_key="wh_dlc05_life_cast_short">
+<key>wh_dlc05_life_cast_short</key>
+</particle_effects>
+<particle_effects record_uuid="{6ac2a050-af6c-471f-a492-bca7cfa05924}" record_timestamp="1475074248388" record_key="wh_dlc05_life_earthblood_central">
+<key>wh_dlc05_life_earthblood_central</key>
+</particle_effects>
+<particle_effects record_uuid="{c29ad432-fa4c-486c-8568-0411d3df5f47}" record_timestamp="1477037069688" record_key="wh_dlc05_life_earthblood_entity_buff">
+<key>wh_dlc05_life_earthblood_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{1cfcfeea-77b8-4096-b33a-99c9c3a62589}" record_timestamp="1477037069700" record_key="wh_dlc05_life_flesh_to_stone_entity_buff">
+<key>wh_dlc05_life_flesh_to_stone_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{11ecf46a-2393-47e5-9c7d-6fbd0b4c1599}" record_timestamp="1475074248735" record_key="wh_dlc05_life_regrowth_entity_buff">
+<key>wh_dlc05_life_regrowth_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{5581af04-2aeb-4556-accc-201dc1988cfc}" record_timestamp="1477037069712" record_key="wh_dlc05_life_shield_of_thornes_entity_buff">
+<key>wh_dlc05_life_shield_of_thornes_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{ee0e2f57-e120-4dc9-bba2-c7c375e521ff}" record_timestamp="1479307784490" record_key="wh_dlc05_loren_magic_arrow_trail">
+<key>wh_dlc05_loren_magic_arrow_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{3625ee69-3a32-4fcb-995a-d14ace410322}" record_timestamp="1479308735187" record_key="wh_dlc05_pray_of_anath_entity_debuff">
+<key>wh_dlc05_pray_of_anath_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{9a9ff2cd-fde6-49c8-9cea-d386fbe752f1}" record_timestamp="1469717480469" record_key="wh_dlc05_shadow_aura_casting_long">
+<key>wh_dlc05_shadow_aura_casting_long</key>
+</particle_effects>
+<particle_effects record_uuid="{d883443c-aebe-4500-969e-ef44444bc91e}" record_timestamp="1469717480469" record_key="wh_dlc05_shadow_aura_casting_medium">
+<key>wh_dlc05_shadow_aura_casting_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{559b6fbb-a5cb-4a0c-9347-aea69b200aa8}" record_timestamp="1469717480469" record_key="wh_dlc05_shadow_aura_casting_short">
+<key>wh_dlc05_shadow_aura_casting_short</key>
+</particle_effects>
+<particle_effects record_uuid="{499b44cd-1879-4f18-9a4f-48b721dde7ab}" record_timestamp="1469717480469" record_key="wh_dlc05_shadow_cast_long">
+<key>wh_dlc05_shadow_cast_long</key>
+</particle_effects>
+<particle_effects record_uuid="{e4d50216-c90d-449c-a388-7ccea349f113}" record_timestamp="1469717480469" record_key="wh_dlc05_shadow_cast_medium">
+<key>wh_dlc05_shadow_cast_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{b13049d9-719d-4e50-892d-13341675621c}" record_timestamp="1469717480469" record_key="wh_dlc05_shadow_cast_short">
+<key>wh_dlc05_shadow_cast_short</key>
+</particle_effects>
+<particle_effects record_uuid="{8af25011-6a51-4907-984a-2412ae16e057}" record_timestamp="1474558586047" record_key="wh_dlc05_shadow_enfeebling_foe_entity_debuff">
+<key>wh_dlc05_shadow_enfeebling_foe_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{d61529f9-410b-4cfa-90c4-fa0a80fa04bc}" record_timestamp="1474558586019" record_key="wh_dlc05_shadow_melkoths_entity_debuff">
+<key>wh_dlc05_shadow_melkoths_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{0a1525bb-fe81-483a-bbed-c0917c3d0b73}" record_timestamp="1481031078182" record_key="wh_dlc05_shadow_okkams_entity_buff">
+<key>wh_dlc05_shadow_okkams_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{9a47d767-0ebd-4809-a83f-f4569dd82953}" record_timestamp="1470325110807" record_key="wh_dlc05_shadow_pit_of_shades">
+<key>wh_dlc05_shadow_pit_of_shades</key>
+</particle_effects>
+<particle_effects record_uuid="{f4764520-ad0a-4f59-a2b6-e39aca14d938}" record_timestamp="1474558586031" record_key="wh_dlc05_shadow_withering_entity_debuff">
+<key>wh_dlc05_shadow_withering_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{1c996866-58a5-4ae3-aaaf-5271f829dc81}" record_timestamp="1479307777482" record_key="wh_dlc05_treeman_entity_movement_grass">
+<key>wh_dlc05_treeman_entity_movement_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{4d72eedc-0b6d-4c9a-97c3-842a8908516b}" record_timestamp="1479307777482" record_key="wh_dlc05_treeman_entity_movement_mud">
+<key>wh_dlc05_treeman_entity_movement_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{2cab763a-c8ab-4163-b669-e3b1b296830b}" record_timestamp="1479307777482" record_key="wh_dlc05_treeman_entity_movement_snow">
+<key>wh_dlc05_treeman_entity_movement_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{57c24e1c-7ac7-42af-b6b2-7f73c97dbbb8}" record_timestamp="1479307777481" record_key="wh_dlc05_treeman_entity_movement_water">
+<key>wh_dlc05_treeman_entity_movement_water</key>
+</particle_effects>
+<particle_effects record_uuid="{9dd7ec1f-0ee4-4743-abc4-0a582e146cff}" record_timestamp="1477040624605" record_key="wh_dlc05_weapon_trail_orion_spear">
+<key>wh_dlc05_weapon_trail_orion_spear</key>
+</particle_effects>
+<particle_effects record_uuid="{883d4933-f2cc-48fb-89f1-48c394624b4b}" record_timestamp="1479307784490" record_key="wh_dlc05_wef_bow_of_loren_spawn">
+<key>wh_dlc05_wef_bow_of_loren_spawn</key>
+</particle_effects>
+<particle_effects record_uuid="{56614287-e914-4e2e-a765-87768e3ba657}" record_timestamp="1479308293280" record_key="wh_dlc05_wef_hagbane_arrow_trail">
+<key>wh_dlc05_wef_hagbane_arrow_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{149b0ab4-265a-482e-b35b-85a428596d5e}" record_timestamp="1477041407172" record_key="wh_dlc05_wef_hawks_talon_bomb_spawn">
+<key>wh_dlc05_wef_hawks_talon_bomb_spawn</key>
+</particle_effects>
+<particle_effects record_uuid="{94e3a9b9-82d8-4961-a406-30ec9b1cd387}" record_timestamp="1477041407171" record_key="wh_dlc05_wef_magic_explosion">
+<key>wh_dlc05_wef_magic_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{f9976e66-21cf-46b0-a0e4-96dd24456693}" record_timestamp="1481045531940" record_key="wh_dlc05_wef_standard_arrow_trail">
+<key>wh_dlc05_wef_standard_arrow_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{88e1b27c-2979-4ed7-8e57-8f3bd64bb423}" record_timestamp="1479308293280" record_key="wh_dlc05_wef_starfire_arrow_trail">
+<key>wh_dlc05_wef_starfire_arrow_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{82d91194-bded-4d74-ac5a-778f04e33e29}" record_timestamp="1479308698468" record_key="wh_dlc05_wef_swiftshiver_arrow_trail">
+<key>wh_dlc05_wef_swiftshiver_arrow_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{80837b50-b0fe-45a9-8e2f-94de417a9d9c}" record_timestamp="1479308293280" record_key="wh_dlc05_wef_trueflight_arrow_trail">
+<key>wh_dlc05_wef_trueflight_arrow_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{464a5184-c09a-4301-bfa7-a9e24a886d52}" record_timestamp="1474281953200" record_key="wh_dlc06_kamakaze_squig_explosion">
+<key>wh_dlc06_kamakaze_squig_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{57c9bb4b-9c69-4df5-8030-049a69bed59b}" record_timestamp="1474281925867" record_key="wh_dlc06_skarsnik_explosion">
+<key>wh_dlc06_skarsnik_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{36867361-baca-4dcd-a484-cd9ad671ec86}" record_timestamp="1474287889707" record_key="wh_dlc06_skarsnik_explosion_mini">
+<key>wh_dlc06_skarsnik_explosion_mini</key>
+</particle_effects>
+<particle_effects record_uuid="{26ab0c3f-c3cc-4319-a1e0-e6793a278fe9}" record_timestamp="1474281925867" record_key="wh_dlc06_skarsnik_missile_trail">
+<key>wh_dlc06_skarsnik_missile_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{15d4cfcf-cd43-4527-91a3-b89d7e0bd44b}" record_timestamp="1477035600038" record_key="wh_dlc06_weapon_drakegun_skolder_muzzle">
+<key>wh_dlc06_weapon_drakegun_skolder_muzzle</key>
+</particle_effects>
+<particle_effects record_uuid="{9d2487dd-0b30-4d1a-b7fc-12da9d83ccf0}" record_timestamp="1477035599992" record_key="wh_dlc06_weapon_trail_drakegun_skolder">
+<key>wh_dlc06_weapon_trail_drakegun_skolder</key>
+</particle_effects>
+<particle_effects record_uuid="{5b375470-8721-4568-a5f3-09b52dd7c3d7}" record_timestamp="1483726494308" record_key="wh_dlc07_ability_wrath_of_manann">
+<key>wh_dlc07_ability_wrath_of_manann</key>
+</particle_effects>
+<particle_effects record_uuid="{9bc9cb38-e7f5-49c6-b7cc-c99b6a6e9a88}" record_timestamp="1477036762479" record_key="wh_dlc07_blessed_stone_impact">
+<key>wh_dlc07_blessed_stone_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{c1322b1f-3995-4f3c-bc95-7bc3baff3cbb}" record_timestamp="1475243713525" record_key="wh_dlc07_blessed_stone_impact_water">
+<key>wh_dlc07_blessed_stone_impact_water</key>
+</particle_effects>
+<particle_effects record_uuid="{27ccfb2e-7256-45f0-bc2e-673807b97c33}" record_timestamp="1477036762493" record_key="wh_dlc07_blessed_stone_trail">
+<key>wh_dlc07_blessed_stone_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{63c900c4-111e-4c70-adaa-5c5f0d78ae40}" record_timestamp="1486109806447" record_key="wh_dlc07_campaign_blessing_of_lady">
+<key>wh_dlc07_campaign_blessing_of_lady</key>
+</particle_effects>
+<particle_effects record_uuid="{16c2ff4e-8d47-44f7-9a20-f525bef4649b}" record_timestamp="1484310400581" record_key="wh_dlc07_impact_burning_arrow">
+<key>wh_dlc07_impact_burning_arrow</key>
+</particle_effects>
+<particle_effects record_uuid="{2d98a707-988e-4c4d-96cd-ef1214570829}" record_timestamp="1484310400585" record_key="wh_dlc07_impact_poison_arrow">
+<key>wh_dlc07_impact_poison_arrow</key>
+</particle_effects>
+<particle_effects record_uuid="{87a29e06-cab9-4a26-b12f-6bf44a45ea30}" record_timestamp="1484217652613" record_key="wh_dlc07_weapon_trail_arrow_burning_small">
+<key>wh_dlc07_weapon_trail_arrow_burning_small</key>
+</particle_effects>
+<particle_effects record_uuid="{a6c7966c-1aab-457c-9960-3a16805d0f5b}" record_timestamp="1484217652608" record_key="wh_dlc07_weapon_trail_arrow_poison_small">
+<key>wh_dlc07_weapon_trail_arrow_poison_small</key>
+</particle_effects>
+<particle_effects record_uuid="{2f597abe-e070-4471-a469-ce07222d82c3}" record_timestamp="1436448209273" record_key="wh_main_abilities_fiery_ring_of_thori_area">
+<key>wh_main_abilities_fiery_ring_of_thori_area</key>
+</particle_effects>
+<particle_effects record_uuid="{b0f45420-0d03-4dd1-bbc1-7bed4f68293b}" record_timestamp="1443100380663" record_key="wh_main_abilities_lord_of_the_storm_explosion">
+<key>wh_main_abilities_lord_of_the_storm_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{c5ec6388-2586-428c-a578-0accdedda899}" record_timestamp="1443100380691" record_key="wh_main_abilities_lord_of_the_storm_impact">
+<key>wh_main_abilities_lord_of_the_storm_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{53e46eb1-2f48-468b-b550-6d632609d173}" record_timestamp="1442241221585" record_key="wh_main_abilities_lord_of_the_storm_trail">
+<key>wh_main_abilities_lord_of_the_storm_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{608369b1-03e0-4b28-a692-737211331454}" record_timestamp="1436448209296" record_key="wh_main_abilities_skabscrath_area">
+<key>wh_main_abilities_skabscrath_area</key>
+</particle_effects>
+<particle_effects record_uuid="{529ac2c2-1fd5-49f2-8bab-016825887c87}" record_timestamp="1423664615386" record_key="wh_main_ability_claim_this_area_area">
+<key>wh_main_ability_claim_this_area_area</key>
+</particle_effects>
+<particle_effects record_uuid="{37e1595d-d53b-479f-b27d-472539b34a5b}" record_timestamp="1434033758974" record_key="wh_main_big_waaagh_aura_casting_long">
+<key>wh_main_big_waaagh_aura_casting_long</key>
+</particle_effects>
+<particle_effects record_uuid="{fa59701b-1ace-454a-aec0-05da72a68159}" record_timestamp="1434033758966" record_key="wh_main_big_waaagh_aura_casting_medium">
+<key>wh_main_big_waaagh_aura_casting_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{5d16ae82-12d3-45f6-9ce3-b1ffa81ae299}" record_timestamp="1434033758958" record_key="wh_main_big_waaagh_aura_casting_short">
+<key>wh_main_big_waaagh_aura_casting_short</key>
+</particle_effects>
+<particle_effects record_uuid="{ea2f3a3a-8c8e-42fb-a0cb-3c8b3fd55d1f}" record_timestamp="1432300524042" record_key="wh_main_big_waaagh_banner_buff">
+<key>wh_main_big_waaagh_banner_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{69c21b2d-a1dc-49e1-9978-9aaccdcca9ae}" record_timestamp="1432300524029" record_key="wh_main_big_waaagh_banner_debuff">
+<key>wh_main_big_waaagh_banner_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{c9b68551-0675-487d-833a-1254a84f5bbb}" record_timestamp="1424082409528" record_key="wh_main_big_waaagh_brain_bursta_area">
+<key>wh_main_big_waaagh_brain_bursta_area</key>
+</particle_effects>
+<particle_effects record_uuid="{8eabd283-bfa8-48db-adf4-7d96a7acb313}" record_timestamp="1437036849366" record_key="wh_main_big_waaagh_cast_long">
+<key>wh_main_big_waaagh_cast_long</key>
+</particle_effects>
+<particle_effects record_uuid="{3303ce32-48b4-47e4-8763-b12a4660a689}" record_timestamp="1437036849319" record_key="wh_main_big_waaagh_cast_medium">
+<key>wh_main_big_waaagh_cast_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{9819ef8c-1f17-47f0-acfc-195915298855}" record_timestamp="1437036849342" record_key="wh_main_big_waaagh_cast_short">
+<key>wh_main_big_waaagh_cast_short</key>
+</particle_effects>
+<particle_effects record_uuid="{a2e2e7d4-9fc5-47f1-ac48-52d1f78e904a}" record_timestamp="1439976847850" record_key="wh_main_big_waaagh_character_aura">
+<key>wh_main_big_waaagh_character_aura</key>
+</particle_effects>
+<particle_effects record_uuid="{6a3cf257-474a-4749-ac3d-acd5fc509f97}" record_timestamp="1423842093574" record_key="wh_main_big_waaagh_eadbutt_area">
+<key>wh_main_big_waaagh_eadbutt_area</key>
+</particle_effects>
+<particle_effects record_uuid="{b773dc72-12fb-41aa-9cb7-1305332aa03d}" record_timestamp="1437751962258" record_key="wh_main_big_waaagh_ere_we_go_entity_buff">
+<key>wh_main_big_waaagh_ere_we_go_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{c7911244-022f-4219-9925-749ba07f8dc3}" record_timestamp="1450781659158" record_key="wh_main_big_waaagh_fists_of_gork_entity_buff">
+<key>wh_main_big_waaagh_fists_of_gork_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{8d06432f-6d7c-4f0e-b05e-9c04dbf366c3}" record_timestamp="1423842093737" record_key="wh_main_big_waaagh_foot_of_gork_bomb_spawn">
+<key>wh_main_big_waaagh_foot_of_gork_bomb_spawn</key>
+</particle_effects>
+<particle_effects record_uuid="{aee0b6e5-8fcf-448b-b45a-45bb6e52027e}" record_timestamp="1423842093767" record_key="wh_main_big_waaagh_foot_of_gork_bomb_trail">
+<key>wh_main_big_waaagh_foot_of_gork_bomb_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{cebff50a-b0d1-45dc-97f4-6ce5c3ab6b9c}" record_timestamp="1423842093828" record_key="wh_main_big_waaagh_foot_of_gork_impact">
+<key>wh_main_big_waaagh_foot_of_gork_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{9f50454e-72c8-4edf-9b09-94057dd28fc8}" record_timestamp="1453391666962" record_key="wh_main_big_waaagh_gaze_of_mork_explosion">
+<key>wh_main_big_waaagh_gaze_of_mork_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{116b75da-b3ed-44b9-9aa6-8a194fab4663}" record_timestamp="1423842093920" record_key="wh_main_big_waaagh_gaze_of_mork_impact">
+<key>wh_main_big_waaagh_gaze_of_mork_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{c7f021e0-100f-4784-abaa-4181827c8c22}" record_timestamp="1424360384700" record_key="wh_main_big_waaagh_gaze_of_mork_trail">
+<key>wh_main_big_waaagh_gaze_of_mork_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{ff01b9d6-ee77-4b20-88dc-9d5752cf3ac7}" record_timestamp="1433496673555" record_key="wh_main_big_waaagh_miscast">
+<key>wh_main_big_waaagh_miscast</key>
+</particle_effects>
+<particle_effects record_uuid="{1c07829d-350f-4419-b0ab-d2e5f6f77a22}" record_timestamp="1465232505414" record_key="wh_main_bolt_of_illumination_launch">
+<key>wh_main_bolt_of_illumination_launch</key>
+</particle_effects>
+<particle_effects record_uuid="{147b4f6f-e495-41f7-88c8-f2131f80a2ab}" record_timestamp="1479325015729" record_key="wh_main_bound_entity_energy_large">
+<key>wh_main_bound_entity_energy_large</key>
+</particle_effects>
+<particle_effects record_uuid="{be61a2b6-d1fb-4ba4-aca3-ceb31a0b6194}" record_timestamp="1479326056128" record_key="wh_main_bound_entity_energy_manticore">
+<key>wh_main_bound_entity_energy_manticore</key>
+</particle_effects>
+<particle_effects record_uuid="{0541fea3-7823-454c-ad71-faab096c3206}" record_timestamp="1479325015728" record_key="wh_main_bound_entity_energy_small">
+<key>wh_main_bound_entity_energy_small</key>
+</particle_effects>
+<particle_effects record_uuid="{6b8ab4ad-af1c-4325-97d6-5447f09f8d65}" record_timestamp="1455210492350" record_key="wh_main_campaign_autoresolve_actor_lose">
+<key>wh_main_campaign_autoresolve_actor_lose</key>
+</particle_effects>
+<particle_effects record_uuid="{af6b5d30-3ad9-4703-ab6e-1e7f0fe214e9}" record_timestamp="1455210492366" record_key="wh_main_campaign_autoresolve_actor_win">
+<key>wh_main_campaign_autoresolve_actor_win</key>
+</particle_effects>
+<particle_effects record_uuid="{93c426ad-a136-4bea-9a17-73c75523805e}" record_timestamp="1447254270948" record_key="wh_main_campaign_character_attrition">
+<key>wh_main_campaign_character_attrition</key>
+</particle_effects>
+<particle_effects record_uuid="{582135b4-a86b-4816-b5cd-fa989b6ab75f}" record_timestamp="1448288217861" record_key="wh_main_campaign_deploy_enemy_region">
+<key>wh_main_campaign_deploy_enemy_region</key>
+</particle_effects>
+<particle_effects record_uuid="{9c9ebf58-c525-4484-a07e-323edcc4bfc6}" record_timestamp="1448288217869" record_key="wh_main_campaign_deploy_own_region">
+<key>wh_main_campaign_deploy_own_region</key>
+</particle_effects>
+<particle_effects record_uuid="{e0d6cb5a-3aee-455a-a87f-6549dbcf90f2}" record_timestamp="1447926531037" record_key="wh_main_campaign_low_waaagh_morale">
+<key>wh_main_campaign_low_waaagh_morale</key>
+</particle_effects>
+<particle_effects record_uuid="{a66df079-6025-4a20-87ee-bbd219a29427}" record_timestamp="1435595214640" record_key="wh_main_campaign_placeholder">
+<key>wh_main_campaign_placeholder</key>
+</particle_effects>
+<particle_effects record_uuid="{ef989551-c9e6-4f68-b0d2-9040c9134cac}" record_timestamp="1450108450633" record_key="wh_main_campaign_raise_dead_buff">
+<key>wh_main_campaign_raise_dead_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{537862a8-71ce-44a3-898c-b2a1333fa18f}" record_timestamp="1445532216231" record_key="wh_main_campaign_shaman_draining">
+<key>wh_main_campaign_shaman_draining</key>
+</particle_effects>
+<particle_effects record_uuid="{28a9b3dd-2f13-4eac-b505-fc09d5d2226d}" record_timestamp="1444312685627" record_key="wh_main_campaign_ui_agent_selection">
+<key>wh_main_campaign_ui_agent_selection</key>
+</particle_effects>
+<particle_effects record_uuid="{c8c9108a-0f48-4d96-872b-17d096f7871f}" record_timestamp="1452595131384" record_key="wh_main_campaign_ui_generic_target">
+<key>wh_main_campaign_ui_generic_target</key>
+</particle_effects>
+<particle_effects record_uuid="{c0a93a53-289a-488d-85d3-3c1842522901}" record_timestamp="1447326574054" record_key="wh_main_campaign_ui_level_up">
+<key>wh_main_campaign_ui_level_up</key>
+</particle_effects>
+<particle_effects record_uuid="{23c22658-8e7e-4662-bccc-18925fdbfac6}" record_timestamp="1444312685664" record_key="wh_main_campaign_ui_settle_selection">
+<key>wh_main_campaign_ui_settle_selection</key>
+</particle_effects>
+<particle_effects record_uuid="{3dc3778f-fcf0-4820-91ce-9f5729d3ca18}" record_timestamp="1445444531464" record_key="wh_main_campaign_ui_waaagh_selection">
+<key>wh_main_campaign_ui_waaagh_selection</key>
+</particle_effects>
+<particle_effects record_uuid="{912455f4-0b38-456f-b378-bdfb2c687cdf}" record_timestamp="1445444531451" record_key="wh_main_campaign_ui_waaagh_target">
+<key>wh_main_campaign_ui_waaagh_target</key>
+</particle_effects>
+<particle_effects record_uuid="{3f81ab7d-d0dd-4b8e-9e0f-844c38caf790}" record_timestamp="1459944115061" record_key="wh_main_campaign_zone_of_control">
+<key>wh_main_campaign_zone_of_control</key>
+</particle_effects>
+<particle_effects record_uuid="{7e1bd65d-b275-4941-a2a0-b9e102568a12}" record_timestamp="1454519639350" record_key="wh_main_cannonball_impact_large_grass">
+<key>wh_main_cannonball_impact_large_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{36d9a768-ec8b-4d18-91f9-ac8d56a91ce6}" record_timestamp="1454519639359" record_key="wh_main_cannonball_impact_large_leather">
+<key>wh_main_cannonball_impact_large_leather</key>
+</particle_effects>
+<particle_effects record_uuid="{bf610916-63aa-4510-a6ae-db394376439e}" record_timestamp="1454519639310" record_key="wh_main_cannonball_impact_large_mud">
+<key>wh_main_cannonball_impact_large_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{7015f681-1354-4183-84b5-74e1d6e5defc}" record_timestamp="1454519639319" record_key="wh_main_cannonball_impact_large_rock">
+<key>wh_main_cannonball_impact_large_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{a0dc229c-4c84-4a4c-b9f0-d99342f886e7}" record_timestamp="1454519639329" record_key="wh_main_cannonball_impact_large_sand">
+<key>wh_main_cannonball_impact_large_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{9a0de505-3f72-45d4-83bd-488b0dbbe789}" record_timestamp="1454519639340" record_key="wh_main_cannonball_impact_large_snow">
+<key>wh_main_cannonball_impact_large_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{19a416fd-edc7-46ce-877e-f28e6bbd784b}" record_timestamp="1454519639366" record_key="wh_main_cannonball_impact_large_wood">
+<key>wh_main_cannonball_impact_large_wood</key>
+</particle_effects>
+<particle_effects record_uuid="{f098d205-d687-4c06-929a-ff7a76b86a2b}" record_timestamp="1449756526973" record_key="wh_main_capture_complete">
+<key>wh_main_capture_complete</key>
+</particle_effects>
+<particle_effects record_uuid="{9b7f56ed-eeea-436a-a058-d69d75e44325}" record_timestamp="1449680214191" record_key="wh_main_capture_point_gained">
+<key>wh_main_capture_point_gained</key>
+</particle_effects>
+<particle_effects record_uuid="{2e05a3c7-9b23-46f1-b501-cbd630fa5cdb}" record_timestamp="1449680214181" record_key="wh_main_capture_point_lost">
+<key>wh_main_capture_point_lost</key>
+</particle_effects>
+<particle_effects record_uuid="{be6a173b-9106-4422-9463-65c796a1bc1b}" record_timestamp="1442915808651" record_key="wh_main_death_aspect_of_the_dreadknight_entity_buff">
+<key>wh_main_death_aspect_of_the_dreadknight_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{bc41b1d1-71de-4a01-b503-a60c25c88c1d}" record_timestamp="1434033758951" record_key="wh_main_death_aura_casting_long">
+<key>wh_main_death_aura_casting_long</key>
+</particle_effects>
+<particle_effects record_uuid="{8e47d222-ba96-4f54-9952-6c22bf19c39f}" record_timestamp="1434033758943" record_key="wh_main_death_aura_casting_medium">
+<key>wh_main_death_aura_casting_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{0bffe805-db4f-4e09-82c5-cb8340ccd8cb}" record_timestamp="1434033758936" record_key="wh_main_death_aura_casting_short">
+<key>wh_main_death_aura_casting_short</key>
+</particle_effects>
+<particle_effects record_uuid="{bf5801d7-ff4f-4c11-8824-4f3107e52281}" record_timestamp="1432300524017" record_key="wh_main_death_banner_buff">
+<key>wh_main_death_banner_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{4ab3cd16-e962-4105-b40c-5e67a961b099}" record_timestamp="1432300524005" record_key="wh_main_death_banner_debuff">
+<key>wh_main_death_banner_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{562c4bcc-c3f3-425e-8627-b844d2a4a6fd}" record_timestamp="1441717485868" record_key="wh_main_death_cast_long">
+<key>wh_main_death_cast_long</key>
+</particle_effects>
+<particle_effects record_uuid="{d0ff9d68-9eac-4232-a29d-21dc03a83583}" record_timestamp="1441717485855" record_key="wh_main_death_cast_medium">
+<key>wh_main_death_cast_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{fe0005f6-7eaa-49c1-89ca-b915870f6277}" record_timestamp="1441717485839" record_key="wh_main_death_cast_short">
+<key>wh_main_death_cast_short</key>
+</particle_effects>
+<particle_effects record_uuid="{68265cc2-88e9-4f9e-8b73-fcae95031df9}" record_timestamp="1439976847811" record_key="wh_main_death_character_aura">
+<key>wh_main_death_character_aura</key>
+</particle_effects>
+<particle_effects record_uuid="{29521a32-1729-4ae1-8b4f-46ef617a9389}" record_timestamp="1442915808642" record_key="wh_main_death_doom_and_darkness_entity_debuff">
+<key>wh_main_death_doom_and_darkness_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{5e59d364-6f05-4697-b5bc-74ab5abda26f}" record_timestamp="1433496673561" record_key="wh_main_death_miscast">
+<key>wh_main_death_miscast</key>
+</particle_effects>
+<particle_effects record_uuid="{ebeff253-6c6e-4839-8065-87033d73c0fd}" record_timestamp="1442915808661" record_key="wh_main_death_soulblight_entity_debuff">
+<key>wh_main_death_soulblight_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{6266f58f-f6de-415b-bc39-a917125cf1a4}" record_timestamp="1437751962274" record_key="wh_main_death_spirit_leech_entity_debuff">
+<key>wh_main_death_spirit_leech_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{c5683f1e-94eb-45a6-ad23-9b9ca329598c}" record_timestamp="1437751962290" record_key="wh_main_death_the_fate_of_bjuna_entity_debuff">
+<key>wh_main_death_the_fate_of_bjuna_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{ade1e479-1636-4fab-8262-2f4afc72a0b4}" record_timestamp="1422290391605" record_key="wh_main_death_the_purple_sun_of_xereus_area">
+<key>wh_main_death_the_purple_sun_of_xereus_area</key>
+</particle_effects>
+<particle_effects record_uuid="{4795c18c-131c-4c7e-b791-0add7163f8ec}" record_timestamp="1453391665434" record_key="wh_main_dwf_fused_beer_keg_explosion">
+<key>wh_main_dwf_fused_beer_keg_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{50c2c317-1ba1-41cd-95e9-0b0197ba1d6f}" record_timestamp="1423842094139" record_key="wh_main_entity_gyrocopter_steam">
+<key>wh_main_entity_gyrocopter_steam</key>
+</particle_effects>
+<particle_effects record_uuid="{d3bf4601-0094-4865-8f17-cff130e2e799}" record_timestamp="1432739905769" record_key="wh_main_fanatic_test">
+<key>wh_main_fanatic_test</key>
+</particle_effects>
+<particle_effects record_uuid="{a730c4eb-3968-46d4-bafd-16975f9ddb93}" record_timestamp="1441700977174" record_key="wh_main_fire_aura_casting_long">
+<key>wh_main_fire_aura_casting_long</key>
+</particle_effects>
+<particle_effects record_uuid="{59bacbca-5256-43bd-8329-ce2707386bdb}" record_timestamp="1441700977174" record_key="wh_main_fire_aura_casting_medium">
+<key>wh_main_fire_aura_casting_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{d1361289-3060-4691-82ea-18d5fe13b51b}" record_timestamp="1441700977174" record_key="wh_main_fire_aura_casting_short">
+<key>wh_main_fire_aura_casting_short</key>
+</particle_effects>
+<particle_effects record_uuid="{7862a8be-25eb-47e5-b66e-44903517e640}" record_timestamp="1432300523993" record_key="wh_main_fire_banner_buff">
+<key>wh_main_fire_banner_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{7f11acf9-8516-49ab-b082-58a32cfd4fcb}" record_timestamp="1432300523982" record_key="wh_main_fire_banner_debuff">
+<key>wh_main_fire_banner_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{cbb30445-0557-4387-89c9-6ffbf1cc7010}" record_timestamp="1437751962306" record_key="wh_main_fire_cascading_fire_cloak_entity_buff">
+<key>wh_main_fire_cascading_fire_cloak_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{a7d7532c-0a33-4128-818d-48d985521efd}" record_timestamp="1441379615012" record_key="wh_main_fire_cast_long">
+<key>wh_main_fire_cast_long</key>
+</particle_effects>
+<particle_effects record_uuid="{4bb9a8d3-fe1a-4510-8a82-7b3de1bde7de}" record_timestamp="1441379615005" record_key="wh_main_fire_cast_medium">
+<key>wh_main_fire_cast_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{cf2d4b89-2089-4606-b84e-f12ad69f3998}" record_timestamp="1441379614994" record_key="wh_main_fire_cast_short">
+<key>wh_main_fire_cast_short</key>
+</particle_effects>
+<particle_effects record_uuid="{10d070cb-f4ba-4139-be05-de3d177909c5}" record_timestamp="1439976847823" record_key="wh_main_fire_character_aura">
+<key>wh_main_fire_character_aura</key>
+</particle_effects>
+<particle_effects record_uuid="{03230c16-728c-45d0-a376-717a8883d96d}" record_timestamp="1447693823542" record_key="wh_main_fire_fireball_entity_explosion">
+<key>wh_main_fire_fireball_entity_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{6758f134-1231-4928-ab03-d34e6f4891d7}" record_timestamp="1453391665988" record_key="wh_main_fire_fireball_explosion">
+<key>wh_main_fire_fireball_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{e952254e-580e-4dbf-b419-9267cb68812f}" record_timestamp="1425555722449" record_key="wh_main_fire_fireball_impact">
+<key>wh_main_fire_fireball_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{4b409319-26bf-4186-aa9c-19138e75dc02}" record_timestamp="1425555722469" record_key="wh_main_fire_fireball_trail">
+<key>wh_main_fire_fireball_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{b7b0beb8-1d29-429b-88f6-a00f4f240817}" record_timestamp="1422290391492" record_key="wh_main_fire_flame_storm_area">
+<key>wh_main_fire_flame_storm_area</key>
+</particle_effects>
+<particle_effects record_uuid="{cb7a7a46-1fa6-4437-8512-6203605aa295}" record_timestamp="1437751962322" record_key="wh_main_fire_flaming_sword_of_rhuin_entity_buff">
+<key>wh_main_fire_flaming_sword_of_rhuin_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{86d32ead-bbda-4334-9c8b-dc67d5a4d60e}" record_timestamp="1433496673530" record_key="wh_main_fire_miscast">
+<key>wh_main_fire_miscast</key>
+</particle_effects>
+<particle_effects record_uuid="{820c24c5-b586-4a1a-bdf1-396eb4c192a5}" record_timestamp="1425555722269" record_key="wh_main_fire_piercing_bolts_of_burning_bomb_spawn">
+<key>wh_main_fire_piercing_bolts_of_burning_bomb_spawn</key>
+</particle_effects>
+<particle_effects record_uuid="{2c9ebd22-fee3-4d7d-bea7-d96b5207707c}" record_timestamp="1425555722249" record_key="wh_main_fire_piercing_bolts_of_burning_bomb_trail">
+<key>wh_main_fire_piercing_bolts_of_burning_bomb_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{95dbdd55-d90b-4b8c-9ba9-ce0a5314bfe7}" record_timestamp="1462358725587" record_key="wh_main_fire_piercing_bolts_of_burning_explode">
+<key>wh_main_fire_piercing_bolts_of_burning_explode</key>
+</particle_effects>
+<particle_effects record_uuid="{614d3ccb-c3dd-4e60-9a6b-3ff2b458960a}" record_timestamp="1425555722229" record_key="wh_main_fire_piercing_bolts_of_burning_impact">
+<key>wh_main_fire_piercing_bolts_of_burning_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{97f96617-295d-4875-9711-6f678f884674}" record_timestamp="1425555722339" record_key="wh_main_fire_the_burning_head_area">
+<key>wh_main_fire_the_burning_head_area</key>
+</particle_effects>
+<particle_effects record_uuid="{c9312104-64ba-4162-a43c-9671fb0096ea}" record_timestamp="1438701647020" record_key="wh_main_generic_banner_buff">
+<key>wh_main_generic_banner_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{1a57b6dc-a63e-4280-9b75-3dedce6a52be}" record_timestamp="1438701647004" record_key="wh_main_generic_banner_debuff">
+<key>wh_main_generic_banner_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{1bee211f-346d-431e-b4e4-ca64caba1d62}" record_timestamp="1440600789212" record_key="wh_main_generic_cast_long">
+<key>wh_main_generic_cast_long</key>
+</particle_effects>
+<particle_effects record_uuid="{3eed1e63-37a5-45e4-bd82-9de14f32c644}" record_timestamp="1440600789198" record_key="wh_main_generic_cast_medium">
+<key>wh_main_generic_cast_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{98b23ad4-517b-4661-9021-47ca22b1d090}" record_timestamp="1440600789181" record_key="wh_main_generic_cast_short">
+<key>wh_main_generic_cast_short</key>
+</particle_effects>
+<particle_effects record_uuid="{b55080e6-00a6-4e6a-8761-8382d6f49da4}" record_timestamp="1439976847815" record_key="wh_main_generic_character_aura">
+<key>wh_main_generic_character_aura</key>
+</particle_effects>
+<particle_effects record_uuid="{d7a7d534-1a03-4f0e-9b67-87a5ad11bdea}" record_timestamp="1455115645160" record_key="wh_main_generic_debris_impact">
+<key>wh_main_generic_debris_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{d6591b61-33dc-4319-b80a-74e38b9be96d}" record_timestamp="1428590369268" record_key="wh_main_generic_dust_blow">
+<key>wh_main_generic_dust_blow</key>
+</particle_effects>
+<particle_effects record_uuid="{959b6f5d-b8b4-441a-9d82-19f78993b46e}" record_timestamp="1443631125671" record_key="wh_main_generic_entity_buff_attack">
+<key>wh_main_generic_entity_buff_attack</key>
+</particle_effects>
+<particle_effects record_uuid="{a88a3b73-36c2-4738-b062-b7086bd21426}" record_timestamp="1443631125739" record_key="wh_main_generic_entity_buff_defence">
+<key>wh_main_generic_entity_buff_defence</key>
+</particle_effects>
+<particle_effects record_uuid="{7d4293bb-9b0b-483f-84b9-4f4d0e23d420}" record_timestamp="1454600522960" record_key="wh_main_generic_entity_buff_defence_attack">
+<key>wh_main_generic_entity_buff_defence_attack</key>
+</particle_effects>
+<particle_effects record_uuid="{c7dd04f2-7d58-4653-850d-c8b3ca14aa95}" record_timestamp="1454600522857" record_key="wh_main_generic_entity_buff_defence_morale">
+<key>wh_main_generic_entity_buff_defence_morale</key>
+</particle_effects>
+<particle_effects record_uuid="{a1af5490-829b-47a5-998c-37e8d8e289cf}" record_timestamp="1454600522919" record_key="wh_main_generic_entity_buff_morale">
+<key>wh_main_generic_entity_buff_morale</key>
+</particle_effects>
+<particle_effects record_uuid="{ba107d7e-d1ae-4bd8-8c2e-f65576160b50}" record_timestamp="1454600523084" record_key="wh_main_generic_entity_buff_morale_attack">
+<key>wh_main_generic_entity_buff_morale_attack</key>
+</particle_effects>
+<particle_effects record_uuid="{a84ecdb4-e911-4812-8de7-11984c4971d3}" record_timestamp="1443631125706" record_key="wh_main_generic_entity_debuff_attack">
+<key>wh_main_generic_entity_debuff_attack</key>
+</particle_effects>
+<particle_effects record_uuid="{5e265c62-9811-4a9f-aaf3-7a2d117d0d8c}" record_timestamp="1443631125772" record_key="wh_main_generic_entity_debuff_defence">
+<key>wh_main_generic_entity_debuff_defence</key>
+</particle_effects>
+<particle_effects record_uuid="{4622d5c4-bad7-440a-acee-5e1d2ccfc796}" record_timestamp="1454600523125" record_key="wh_main_generic_entity_debuff_defence_attack">
+<key>wh_main_generic_entity_debuff_defence_attack</key>
+</particle_effects>
+<particle_effects record_uuid="{ac6bf997-9579-4049-9dad-23235511bc72}" record_timestamp="1454600523002" record_key="wh_main_generic_entity_debuff_defence_attack_morale">
+<key>wh_main_generic_entity_debuff_defence_attack_morale</key>
+</particle_effects>
+<particle_effects record_uuid="{7116012b-c0dc-446a-911a-14f65f635411}" record_timestamp="1454600523044" record_key="wh_main_generic_entity_debuff_moral">
+<key>wh_main_generic_entity_debuff_moral</key>
+</particle_effects>
+<particle_effects record_uuid="{eeae3156-fd70-42e9-a4f1-46ce1a05df02}" record_timestamp="1454600523166" record_key="wh_main_generic_entity_debuff_moral_attack">
+<key>wh_main_generic_entity_debuff_moral_attack</key>
+</particle_effects>
+<particle_effects record_uuid="{544cc68d-9f90-4fa0-9c55-910b15476f53}" record_timestamp="1442395408563" record_key="wh_main_generic_entity_hp_damage">
+<key>wh_main_generic_entity_hp_damage</key>
+</particle_effects>
+<particle_effects record_uuid="{12996c97-6f48-4412-9100-b19b78dddc4b}" record_timestamp="1446736651673" record_key="wh_main_generic_entity_hp_damage_burst">
+<key>wh_main_generic_entity_hp_damage_burst</key>
+</particle_effects>
+<particle_effects record_uuid="{32b33de4-9291-4b7f-927a-53de77f35e98}" record_timestamp="1436451571387" record_key="wh_main_generic_entity_hp_regen">
+<key>wh_main_generic_entity_hp_regen</key>
+</particle_effects>
+<particle_effects record_uuid="{7b05b1fb-bade-421e-83ea-7e949d5714c8}" record_timestamp="1446736651685" record_key="wh_main_generic_entity_hp_regen_burst">
+<key>wh_main_generic_entity_hp_regen_burst</key>
+</particle_effects>
+<particle_effects record_uuid="{10b6f7d1-abf8-4186-a210-3dbb0a9f5750}" record_timestamp="1423128656191" record_key="wh_main_generic_explosion_large">
+<key>wh_main_generic_explosion_large</key>
+</particle_effects>
+<particle_effects record_uuid="{04fa7d01-a93d-401b-8fcc-9812144fe619}" record_timestamp="1423128656219" record_key="wh_main_generic_explosion_medium">
+<key>wh_main_generic_explosion_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{24e50e72-04a2-459b-9269-cc46999c4ff0}" record_timestamp="1435741684007" record_key="wh_main_generic_explosion_mine">
+<key>wh_main_generic_explosion_mine</key>
+</particle_effects>
+<particle_effects record_uuid="{1ad87941-7e53-4e3c-b72d-f170330cbb8d}" record_timestamp="1423137533435" record_key="wh_main_generic_explosion_small">
+<key>wh_main_generic_explosion_small</key>
+</particle_effects>
+<particle_effects record_uuid="{bf8d33f1-ed7f-4a75-aa82-56c37ce79b1a}" record_timestamp="1417622425890" record_key="wh_main_generic_fire_smoke_loop">
+<key>wh_main_generic_fire_smoke_loop</key>
+</particle_effects>
+<particle_effects record_uuid="{1aea2cc3-f165-4c61-bb11-db14ec872ac1}" record_timestamp="1453391664442" record_key="wh_main_generic_spherical_explosion_large">
+<key>wh_main_generic_spherical_explosion_large</key>
+</particle_effects>
+<particle_effects record_uuid="{a89449a4-a0f1-41cc-977f-81815f0f9c02}" record_timestamp="1453391664413" record_key="wh_main_generic_spherical_explosion_medium">
+<key>wh_main_generic_spherical_explosion_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{5cf97047-0706-4031-a2c9-268813168a60}" record_timestamp="1453391664467" record_key="wh_main_generic_spherical_explosion_small">
+<key>wh_main_generic_spherical_explosion_small</key>
+</particle_effects>
+<particle_effects record_uuid="{32a0499f-28f4-4794-aec3-e3aa7ea63a81}" record_timestamp="1451900289975" record_key="wh_main_generic_ui_segment">
+<key>wh_main_generic_ui_segment</key>
+</particle_effects>
+<particle_effects record_uuid="{be59a161-7181-4a29-843a-87267efa404a}" record_timestamp="1468500726256" record_key="wh_main_generic_ui_segment_buff">
+<key>wh_main_generic_ui_segment_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{6b9ef33f-8c32-4f42-b7f2-9c7698dc2508}" record_timestamp="1468500726255" record_key="wh_main_generic_ui_segment_debuff">
+<key>wh_main_generic_ui_segment_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{c1b43be0-c1d2-412d-8227-14932eaba867}" record_timestamp="1456160052296" record_key="wh_main_generic_ui_segment_short">
+<key>wh_main_generic_ui_segment_short</key>
+</particle_effects>
+<particle_effects record_uuid="{1eaa1875-581b-4623-916c-84f34e4d266a}" record_timestamp="1436448209187" record_key="wh_main_generic_unit_buff">
+<key>wh_main_generic_unit_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{4066f02d-e214-4a33-9318-a966a7e795b8}" record_timestamp="1436448209177" record_key="wh_main_generic_unit_buff_earthing_rod">
+<key>wh_main_generic_unit_buff_earthing_rod</key>
+</particle_effects>
+<particle_effects record_uuid="{14bc9cf7-b592-4765-b4a0-5d5624ed5c03}" record_timestamp="1436448209204" record_key="wh_main_generic_unit_buff_frenzy">
+<key>wh_main_generic_unit_buff_frenzy</key>
+</particle_effects>
+<particle_effects record_uuid="{1f8dc293-d2ec-4096-9fe5-27c38a7f7831}" record_timestamp="1436448209280" record_key="wh_main_generic_ward_save_all">
+<key>wh_main_generic_ward_save_all</key>
+</particle_effects>
+<particle_effects record_uuid="{d6a4a335-4478-48f9-8fd0-22b67b3e7a88}" record_timestamp="1436448209169" record_key="wh_main_generic_ward_save_magic">
+<key>wh_main_generic_ward_save_magic</key>
+</particle_effects>
+<particle_effects record_uuid="{fed72df2-eb1b-484a-bd66-09e93add2242}" record_timestamp="1436448209158" record_key="wh_main_generic_ward_save_missile">
+<key>wh_main_generic_ward_save_missile</key>
+</particle_effects>
+<particle_effects record_uuid="{186a003f-0eb3-485c-b9f4-629bac214f71}" record_timestamp="1455115644887" record_key="wh_main_grn_giant_dungball_explosion">
+<key>wh_main_grn_giant_dungball_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{c1ff6958-c535-4df5-a8f4-32f0c300ec11}" record_timestamp="1434033758928" record_key="wh_main_heavens_aura_casting_long">
+<key>wh_main_heavens_aura_casting_long</key>
+</particle_effects>
+<particle_effects record_uuid="{d1d25dd3-1adb-4c98-913a-34c3130fa841}" record_timestamp="1434033758921" record_key="wh_main_heavens_aura_casting_medium">
+<key>wh_main_heavens_aura_casting_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{1d59203f-fc86-4bd9-952c-724df0262ea8}" record_timestamp="1434033758914" record_key="wh_main_heavens_aura_casting_short">
+<key>wh_main_heavens_aura_casting_short</key>
+</particle_effects>
+<particle_effects record_uuid="{a92da6ba-bd5a-47fe-8636-8a9b630390f3}" record_timestamp="1432300523971" record_key="wh_main_heavens_banner_buff">
+<key>wh_main_heavens_banner_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{62b58090-cca3-49e4-a022-305861206866}" record_timestamp="1432300523960" record_key="wh_main_heavens_banner_debuff">
+<key>wh_main_heavens_banner_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{eedc1fae-f92e-49a7-8356-19d11f88cb17}" record_timestamp="1437490252187" record_key="wh_main_heavens_cast_long">
+<key>wh_main_heavens_cast_long</key>
+</particle_effects>
+<particle_effects record_uuid="{56b8a23a-1a5e-47a6-9765-f5f1ae691e06}" record_timestamp="1437490252118" record_key="wh_main_heavens_cast_medium">
+<key>wh_main_heavens_cast_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{dc7cbe64-2484-4eb1-bd6c-92751d76fbab}" record_timestamp="1437490252158" record_key="wh_main_heavens_cast_short">
+<key>wh_main_heavens_cast_short</key>
+</particle_effects>
+<particle_effects record_uuid="{8439e519-43cb-4bdc-b46f-224f288e0859}" record_timestamp="1425555721306" record_key="wh_main_heavens_chain_lightning_area">
+<key>wh_main_heavens_chain_lightning_area</key>
+</particle_effects>
+<particle_effects record_uuid="{6f0a23f7-5dc8-4106-86e2-5544da589a86}" record_timestamp="1425555721326" record_key="wh_main_heavens_chain_lightning_trail">
+<key>wh_main_heavens_chain_lightning_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{d4e03bae-02b1-46a9-a325-31c96ab6b758}" record_timestamp="1439976847819" record_key="wh_main_heavens_character_aura">
+<key>wh_main_heavens_character_aura</key>
+</particle_effects>
+<particle_effects record_uuid="{5a7dcdd8-1f50-48df-ac8b-3971031e63e0}" record_timestamp="1422290391542" record_key="wh_main_heavens_comet_of_casandora_bomb_spawn">
+<key>wh_main_heavens_comet_of_casandora_bomb_spawn</key>
+</particle_effects>
+<particle_effects record_uuid="{8edce152-fc63-4b5c-ba48-aced9e0a38fc}" record_timestamp="1422290391557" record_key="wh_main_heavens_comet_of_casandora_bomb_trail">
+<key>wh_main_heavens_comet_of_casandora_bomb_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{7f56768d-9f12-4467-998a-2c9d616f9e97}" record_timestamp="1422290391589" record_key="wh_main_heavens_comet_of_casandora_impact">
+<key>wh_main_heavens_comet_of_casandora_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{2d7eba2e-42c1-4bf0-975a-08de3fbf10f8}" record_timestamp="1450781659167" record_key="wh_main_heavens_curse_of_the_midnight_wind_entity_debuff">
+<key>wh_main_heavens_curse_of_the_midnight_wind_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{d032150f-9652-4734-b5b8-74424a121f2f}" record_timestamp="1437751962340" record_key="wh_main_heavens_harmonic_convergence_entity_buff">
+<key>wh_main_heavens_harmonic_convergence_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{1a0c0d2d-5fa9-445b-aa1d-4506e5d4d417}" record_timestamp="1433496673536" record_key="wh_main_heavens_miscast">
+<key>wh_main_heavens_miscast</key>
+</particle_effects>
+<particle_effects record_uuid="{7d57f8ae-b113-43c5-b70a-e1736cf56650}" record_timestamp="1425555721416" record_key="wh_main_heavens_urannons_thunderbolt_bomb_spawn">
+<key>wh_main_heavens_urannons_thunderbolt_bomb_spawn</key>
+</particle_effects>
+<particle_effects record_uuid="{cd8a9ef8-66d9-463a-8cee-cb1baaaa8b3d}" record_timestamp="1425555721406" record_key="wh_main_heavens_urannons_thunderbolt_bomb_trail">
+<key>wh_main_heavens_urannons_thunderbolt_bomb_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{fd5979c3-678a-4fb1-8886-280914ca433f}" record_timestamp="1442220279110" record_key="wh_main_heavens_urannons_thunderbolt_impact">
+<key>wh_main_heavens_urannons_thunderbolt_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{4db2b935-3564-4bad-9b13-f285c2887eb1}" record_timestamp="1459952303482" record_key="wh_main_heavens_urannons_thunderbolt_launch">
+<key>wh_main_heavens_urannons_thunderbolt_launch</key>
+</particle_effects>
+<particle_effects record_uuid="{3c18ef08-f743-4e9d-b759-48ddaf6317ee}" record_timestamp="1441787972128" record_key="wh_main_heavens_wind_blast_area">
+<key>wh_main_heavens_wind_blast_area</key>
+</particle_effects>
+<particle_effects record_uuid="{c02cf501-4906-45fc-a87e-f7315551cf14}" record_timestamp="1425555721456" record_key="wh_main_heavens_wind_blast_impact">
+<key>wh_main_heavens_wind_blast_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{e971beeb-33ef-4ad2-bb10-cf514a7d09ff}" record_timestamp="1425555721499" record_key="wh_main_heavens_wind_blast_trail">
+<key>wh_main_heavens_wind_blast_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{ee4ba020-f41c-4f08-b633-46afb94d81ca}" record_timestamp="1462358735990" record_key="wh_main_impact_arrow_grass">
+<key>wh_main_impact_arrow_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{ff98080d-af13-41ef-bad1-5df15e8e1eee}" record_timestamp="1462358735990" record_key="wh_main_impact_arrow_mud">
+<key>wh_main_impact_arrow_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{c3880532-1a3f-4d1f-aec9-d60aa6e1bd3f}" record_timestamp="1462358735990" record_key="wh_main_impact_arrow_rock">
+<key>wh_main_impact_arrow_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{a75783c7-1be2-4a5c-93e8-8b09f2575f0a}" record_timestamp="1462358735991" record_key="wh_main_impact_arrow_sand">
+<key>wh_main_impact_arrow_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{51df79f2-b55d-462d-bb35-7da1c254de68}" record_timestamp="1462358735991" record_key="wh_main_impact_arrow_snow">
+<key>wh_main_impact_arrow_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{9974465b-eae2-4224-be07-b5926d0b7c83}" record_timestamp="1462358735991" record_key="wh_main_impact_arrow_wood">
+<key>wh_main_impact_arrow_wood</key>
+</particle_effects>
+<particle_effects record_uuid="{1524f577-5b90-43a8-90fa-8a8124172c74}" record_timestamp="1430411736858" record_key="wh_main_impact_large_grass">
+<key>wh_main_impact_large_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{e491b046-6277-4013-9139-164d75ce5d0d}" record_timestamp="1440513046138" record_key="wh_main_impact_large_leather">
+<key>wh_main_impact_large_leather</key>
+</particle_effects>
+<particle_effects record_uuid="{f97e6719-f12a-45dd-a603-eb6c77cf2885}" record_timestamp="1430411736893" record_key="wh_main_impact_large_mud">
+<key>wh_main_impact_large_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{6bd6e7f8-9786-4f5f-a4b8-185d55485faf}" record_timestamp="1430411736928" record_key="wh_main_impact_large_rock">
+<key>wh_main_impact_large_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{fe9556c7-635d-4e23-9a4c-1f0b2e36b998}" record_timestamp="1430411736963" record_key="wh_main_impact_large_sand">
+<key>wh_main_impact_large_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{e6167c18-dde2-4000-900f-a50377515834}" record_timestamp="1430411736999" record_key="wh_main_impact_large_snow">
+<key>wh_main_impact_large_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{1815fb6d-6032-4a27-b99a-6e44925dbb8c}" record_timestamp="1430411737035" record_key="wh_main_impact_large_water">
+<key>wh_main_impact_large_water</key>
+</particle_effects>
+<particle_effects record_uuid="{237d690c-62e7-47a7-bcb6-192f25a1ad90}" record_timestamp="1430411737073" record_key="wh_main_impact_large_wood">
+<key>wh_main_impact_large_wood</key>
+</particle_effects>
+<particle_effects record_uuid="{416e0100-7de9-4704-bbb2-88f76b39f25e}" record_timestamp="1430411737111" record_key="wh_main_impact_medium_grass">
+<key>wh_main_impact_medium_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{e42942f9-5b8a-4511-9f21-554a97d1082e}" record_timestamp="1440513046129" record_key="wh_main_impact_medium_leather">
+<key>wh_main_impact_medium_leather</key>
+</particle_effects>
+<particle_effects record_uuid="{8ad40f99-41b8-4c3b-9402-daa0e0ca650e}" record_timestamp="1430411737152" record_key="wh_main_impact_medium_mud">
+<key>wh_main_impact_medium_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{39507fae-a313-4667-b898-f8baae799a8f}" record_timestamp="1430411737190" record_key="wh_main_impact_medium_rock">
+<key>wh_main_impact_medium_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{8d4321f0-94cd-47aa-8697-fb945bc02ae1}" record_timestamp="1430411737227" record_key="wh_main_impact_medium_sand">
+<key>wh_main_impact_medium_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{65f6ecec-6eb5-483b-8f1b-62fe691fdae2}" record_timestamp="1430411737266" record_key="wh_main_impact_medium_snow">
+<key>wh_main_impact_medium_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{4f2f1105-a117-4b78-8c56-8866e3c2faad}" record_timestamp="1430411737305" record_key="wh_main_impact_medium_water">
+<key>wh_main_impact_medium_water</key>
+</particle_effects>
+<particle_effects record_uuid="{73d0fba0-58cd-4167-a593-efdd516ff9ae}" record_timestamp="1430411737345" record_key="wh_main_impact_medium_wood">
+<key>wh_main_impact_medium_wood</key>
+</particle_effects>
+<particle_effects record_uuid="{8c63f414-cbf1-47ff-bf9d-6537f94f44d8}" record_timestamp="1453391665738" record_key="wh_main_impact_mortar_grass">
+<key>wh_main_impact_mortar_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{13f1631f-94c9-4f22-a712-7a27ca185abc}" record_timestamp="1453391665675" record_key="wh_main_impact_mortar_mud">
+<key>wh_main_impact_mortar_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{b537cb17-8ae6-43bb-8b8f-e7dbab3419d3}" record_timestamp="1453391665498" record_key="wh_main_impact_mortar_rock">
+<key>wh_main_impact_mortar_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{3a53b296-7003-41bc-82fe-550f1a9abf8c}" record_timestamp="1453391665805" record_key="wh_main_impact_mortar_sand">
+<key>wh_main_impact_mortar_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{83dab8a1-9fa7-4544-8125-18e1f16c4d72}" record_timestamp="1453391665616" record_key="wh_main_impact_mortar_snow">
+<key>wh_main_impact_mortar_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{719c30fa-2db8-4709-91c5-bd5565ec1741}" record_timestamp="1453391665557" record_key="wh_main_impact_mortar_wood">
+<key>wh_main_impact_mortar_wood</key>
+</particle_effects>
+<particle_effects record_uuid="{80089a16-cbd4-4e9f-af0c-cab20cbf08bf}" record_timestamp="1430411737384" record_key="wh_main_impact_small_grass">
+<key>wh_main_impact_small_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{26238a24-1186-459f-bb7a-35909ba23186}" record_timestamp="1440513046111" record_key="wh_main_impact_small_leather">
+<key>wh_main_impact_small_leather</key>
+</particle_effects>
+<particle_effects record_uuid="{6b68e9c9-c862-446e-8a78-f53ef52e4713}" record_timestamp="1430411737424" record_key="wh_main_impact_small_mud">
+<key>wh_main_impact_small_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{4f5333ef-e473-48df-aecb-186dcdb7525b}" record_timestamp="1430411737463" record_key="wh_main_impact_small_rock">
+<key>wh_main_impact_small_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{b40dbbb8-2767-4e96-913d-23fb4447b6cb}" record_timestamp="1430411737503" record_key="wh_main_impact_small_sand">
+<key>wh_main_impact_small_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{f433b2b8-0e7e-46ac-8797-883ad4ccd2b1}" record_timestamp="1430411737544" record_key="wh_main_impact_small_snow">
+<key>wh_main_impact_small_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{da5eb942-03f6-4083-a1af-18b273806c92}" record_timestamp="1430411737585" record_key="wh_main_impact_small_water">
+<key>wh_main_impact_small_water</key>
+</particle_effects>
+<particle_effects record_uuid="{9fde09dc-f76d-417a-99b5-15127c4c1860}" record_timestamp="1430411737627" record_key="wh_main_impact_small_wood">
+<key>wh_main_impact_small_wood</key>
+</particle_effects>
+<particle_effects record_uuid="{a4022df7-cc98-4693-b61b-12a90f6f15b3}" record_timestamp="1430411737668" record_key="wh_main_impact_vlarge_grass">
+<key>wh_main_impact_vlarge_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{ff0b2066-37df-44fb-bd50-d854fda27f76}" record_timestamp="1440513046099" record_key="wh_main_impact_vlarge_leather">
+<key>wh_main_impact_vlarge_leather</key>
+</particle_effects>
+<particle_effects record_uuid="{9c54d551-33de-49c3-b885-d4165b69db76}" record_timestamp="1430411737709" record_key="wh_main_impact_vlarge_mud">
+<key>wh_main_impact_vlarge_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{84f5f04a-69fd-4cfb-88e5-909aad21fe63}" record_timestamp="1430411737750" record_key="wh_main_impact_vlarge_rock">
+<key>wh_main_impact_vlarge_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{7188db0f-4ae7-4d3d-b172-28bf9123e5f5}" record_timestamp="1430411737793" record_key="wh_main_impact_vlarge_sand">
+<key>wh_main_impact_vlarge_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{28fe91d7-a8ce-4a59-8a3a-447a5fcb8539}" record_timestamp="1430411737836" record_key="wh_main_impact_vlarge_snow">
+<key>wh_main_impact_vlarge_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{1e721f40-4585-473b-bd22-35764c810817}" record_timestamp="1430411737877" record_key="wh_main_impact_vlarge_water">
+<key>wh_main_impact_vlarge_water</key>
+</particle_effects>
+<particle_effects record_uuid="{8a6e1539-2252-4bbc-9bef-01d81bd7ce46}" record_timestamp="1430411737918" record_key="wh_main_impact_vlarge_wood">
+<key>wh_main_impact_vlarge_wood</key>
+</particle_effects>
+<particle_effects record_uuid="{f42cabcd-cdfe-42e0-896a-c5d709282e01}" record_timestamp="1430411737960" record_key="wh_main_impact_vsmall_grass">
+<key>wh_main_impact_vsmall_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{a20d1395-33ee-406e-bd39-d2440940c987}" record_timestamp="1453311525522" record_key="wh_main_impact_vsmall_grass_bounce">
+<key>wh_main_impact_vsmall_grass_bounce</key>
+</particle_effects>
+<particle_effects record_uuid="{803cfc61-6bc5-473d-8978-0282ed4c671a}" record_timestamp="1440513046119" record_key="wh_main_impact_vsmall_leather">
+<key>wh_main_impact_vsmall_leather</key>
+</particle_effects>
+<particle_effects record_uuid="{4ffc8e23-22ce-42ae-bc6f-0fbede36c60b}" record_timestamp="1453311525473" record_key="wh_main_impact_vsmall_leather_bounce">
+<key>wh_main_impact_vsmall_leather_bounce</key>
+</particle_effects>
+<particle_effects record_uuid="{ed299425-d338-4b23-9dd3-1ecf33f10abb}" record_timestamp="1430411738003" record_key="wh_main_impact_vsmall_mud">
+<key>wh_main_impact_vsmall_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{88382ad4-ecd5-4953-a873-584ca2fc07d1}" record_timestamp="1453311525423" record_key="wh_main_impact_vsmall_mud_bounce">
+<key>wh_main_impact_vsmall_mud_bounce</key>
+</particle_effects>
+<particle_effects record_uuid="{9a0ee94b-2b49-4d65-a99a-fbcfd55ede6d}" record_timestamp="1430411738045" record_key="wh_main_impact_vsmall_rock">
+<key>wh_main_impact_vsmall_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{f151ba42-6b2b-4dfb-8eb0-f49281cc275e}" record_timestamp="1453311525374" record_key="wh_main_impact_vsmall_rock_bounce">
+<key>wh_main_impact_vsmall_rock_bounce</key>
+</particle_effects>
+<particle_effects record_uuid="{003fc06a-6419-4649-b1cc-7e71a50247a4}" record_timestamp="1430411738093" record_key="wh_main_impact_vsmall_sand">
+<key>wh_main_impact_vsmall_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{fbda4490-19b8-41c2-b989-1ae5f208a790}" record_timestamp="1453311525324" record_key="wh_main_impact_vsmall_sand_bounce">
+<key>wh_main_impact_vsmall_sand_bounce</key>
+</particle_effects>
+<particle_effects record_uuid="{e4658ca3-6818-4fac-af63-aadbb4c92ad1}" record_timestamp="1430411738134" record_key="wh_main_impact_vsmall_snow">
+<key>wh_main_impact_vsmall_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{ae150a91-2b01-4cd4-9dfd-303410da398f}" record_timestamp="1453311525274" record_key="wh_main_impact_vsmall_snow_bounce">
+<key>wh_main_impact_vsmall_snow_bounce</key>
+</particle_effects>
+<particle_effects record_uuid="{ef13bb51-26d2-4398-bdb5-c4d4a2704ab0}" record_timestamp="1430411738178" record_key="wh_main_impact_vsmall_water">
+<key>wh_main_impact_vsmall_water</key>
+</particle_effects>
+<particle_effects record_uuid="{57796b48-896a-46e9-af28-f5272a8174e3}" record_timestamp="1430411738220" record_key="wh_main_impact_vsmall_wood">
+<key>wh_main_impact_vsmall_wood</key>
+</particle_effects>
+<particle_effects record_uuid="{8557ea24-8852-4e6d-ba1c-70313917a44f}" record_timestamp="1453311525225" record_key="wh_main_impact_vsmall_wood_bounce">
+<key>wh_main_impact_vsmall_wood_bounce</key>
+</particle_effects>
+<particle_effects record_uuid="{d2e1f2fd-589a-4dbd-9f59-8efa65766ebd}" record_timestamp="1477035618803" record_key="wh_main_lib_voodoo">
+<key>wh_main_lib_voodoo</key>
+</particle_effects>
+<particle_effects record_uuid="{8afa3c3f-d037-42e7-8eca-efb54eed85e5}" record_timestamp="1441700977175" record_key="wh_main_light_aura_casting_long">
+<key>wh_main_light_aura_casting_long</key>
+</particle_effects>
+<particle_effects record_uuid="{7557f750-2af5-497d-b59c-7001c29daaab}" record_timestamp="1441700977175" record_key="wh_main_light_aura_casting_medium">
+<key>wh_main_light_aura_casting_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{b70854aa-2c2a-4f62-94d8-20774abf1178}" record_timestamp="1441700977175" record_key="wh_main_light_aura_casting_short">
+<key>wh_main_light_aura_casting_short</key>
+</particle_effects>
+<particle_effects record_uuid="{fa53511f-30b7-43c5-bd8b-8ef85f7b5752}" record_timestamp="1425555721819" record_key="wh_main_light_banishment_area">
+<key>wh_main_light_banishment_area</key>
+</particle_effects>
+<particle_effects record_uuid="{d0d8a6f0-3181-4c7f-a9c1-4cd7efdc9e65}" record_timestamp="1432300524746" record_key="wh_main_light_banner_buff">
+<key>wh_main_light_banner_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{6af9f152-6f03-4173-a958-06f9d64d484c}" record_timestamp="1432300524766" record_key="wh_main_light_banner_debuff">
+<key>wh_main_light_banner_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{0435387f-44ea-442f-9cd1-fea8bee1632a}" record_timestamp="1441898450226" record_key="wh_main_light_bironas_timewarp_entity_buff">
+<key>wh_main_light_bironas_timewarp_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{410a1d78-e06c-42e8-b715-74837d15722f}" record_timestamp="1441700977175" record_key="wh_main_light_cast_long">
+<key>wh_main_light_cast_long</key>
+</particle_effects>
+<particle_effects record_uuid="{16b91610-7a5e-4221-ab3b-c8dbe1179470}" record_timestamp="1441700977175" record_key="wh_main_light_cast_medium">
+<key>wh_main_light_cast_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{b088ecee-1969-4a2b-8086-3720cea4f14c}" record_timestamp="1441700977175" record_key="wh_main_light_cast_short">
+<key>wh_main_light_cast_short</key>
+</particle_effects>
+<particle_effects record_uuid="{9cfcc849-8426-4b31-ba3a-667be522b36b}" record_timestamp="1439976847832" record_key="wh_main_light_character_aura">
+<key>wh_main_light_character_aura</key>
+</particle_effects>
+<particle_effects record_uuid="{d80a7cb0-40d2-407d-83a9-82dae08dc1ca}" record_timestamp="1437751962357" record_key="wh_main_light_light_of_battle_entity_buff">
+<key>wh_main_light_light_of_battle_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{162ccfa6-db66-4af0-b879-31fd3433c6e6}" record_timestamp="1433496673542" record_key="wh_main_light_miscast">
+<key>wh_main_light_miscast</key>
+</particle_effects>
+<particle_effects record_uuid="{794cbb22-8bda-44d5-8d2b-97ee05482146}" record_timestamp="1442230233986" record_key="wh_main_light_net_of_amyntok_entity_debuff">
+<key>wh_main_light_net_of_amyntok_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{99f84dc2-c196-4d25-b924-0215d2c6fb5c}" record_timestamp="1441898450479" record_key="wh_main_light_phas_protection_entity_buff">
+<key>wh_main_light_phas_protection_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{ecdb792c-42a7-4489-9b9c-a73e3c21e8cd}" record_timestamp="1453391667020" record_key="wh_main_light_shems_burning_gaze_explosion">
+<key>wh_main_light_shems_burning_gaze_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{93e2eea4-aa78-451e-b5ee-466d737c56d7}" record_timestamp="1442243563460" record_key="wh_main_light_shems_burning_gaze_target">
+<key>wh_main_light_shems_burning_gaze_target</key>
+</particle_effects>
+<particle_effects record_uuid="{fcd995c8-2df4-4140-ab7d-48f1a4f678bf}" record_timestamp="1433929960572" record_key="wh_main_light_shems_burning_gaze_trail">
+<key>wh_main_light_shems_burning_gaze_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{e33fc59a-b726-4257-ad07-6bef55652b9b}" record_timestamp="1434033758907" record_key="wh_main_lil_waaagh_aura_casting_long">
+<key>wh_main_lil_waaagh_aura_casting_long</key>
+</particle_effects>
+<particle_effects record_uuid="{0a107a21-5991-4652-ac70-224f4f19ba39}" record_timestamp="1434033758899" record_key="wh_main_lil_waaagh_aura_casting_medium">
+<key>wh_main_lil_waaagh_aura_casting_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{7eca0fc4-9d60-4006-ab7a-684115dc5689}" record_timestamp="1434033758892" record_key="wh_main_lil_waaagh_aura_casting_short">
+<key>wh_main_lil_waaagh_aura_casting_short</key>
+</particle_effects>
+<particle_effects record_uuid="{48913a72-1412-4964-9072-af67d62045d5}" record_timestamp="1432300523948" record_key="wh_main_lil_waaagh_banner_buff">
+<key>wh_main_lil_waaagh_banner_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{07ccab86-515d-41c5-ae0d-e405ecfd3998}" record_timestamp="1432300524109" record_key="wh_main_lil_waaagh_banner_debuff">
+<key>wh_main_lil_waaagh_banner_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{d5814471-81ae-4da4-b03e-b469eae4243d}" record_timestamp="1438684768927" record_key="wh_main_lil_waaagh_cast_long">
+<key>wh_main_lil_waaagh_cast_long</key>
+</particle_effects>
+<particle_effects record_uuid="{c9c1ff71-e0cc-41b9-ab2f-fb7b97b2b3da}" record_timestamp="1438684768934" record_key="wh_main_lil_waaagh_cast_medium">
+<key>wh_main_lil_waaagh_cast_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{aae9f882-6fea-4165-8a5e-12b630f91ca3}" record_timestamp="1438684768940" record_key="wh_main_lil_waaagh_cast_short">
+<key>wh_main_lil_waaagh_cast_short</key>
+</particle_effects>
+<particle_effects record_uuid="{41d5a2ca-d511-4e7c-9f46-8577263572fb}" record_timestamp="1439976847827" record_key="wh_main_lil_waaagh_character_aura">
+<key>wh_main_lil_waaagh_character_aura</key>
+</particle_effects>
+<particle_effects record_uuid="{eeab7199-004d-470c-944e-961cdaf77bff}" record_timestamp="1423842094171" record_key="wh_main_lil_waaagh_curse_of_da_bad_moon_area">
+<key>wh_main_lil_waaagh_curse_of_da_bad_moon_area</key>
+</particle_effects>
+<particle_effects record_uuid="{934be509-0b25-4100-ba79-8de0b44fcb65}" record_timestamp="1439298754897" record_key="wh_main_lil_waaagh_curse_of_da_bad_moon_upgraded_area">
+<key>wh_main_lil_waaagh_curse_of_da_bad_moon_upgraded_area</key>
+</particle_effects>
+<particle_effects record_uuid="{617e5485-c6f6-477d-942f-646bad330662}" record_timestamp="1437751962376" record_key="wh_main_lil_waaagh_gorkll_fix_it_entity_debuff">
+<key>wh_main_lil_waaagh_gorkll_fix_it_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{efa1f438-1365-4cbf-b623-ada1894c4aca}" record_timestamp="1437751962393" record_key="wh_main_lil_waaagh_itchy_nuisance_entity_debuff">
+<key>wh_main_lil_waaagh_itchy_nuisance_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{f403f1f9-639e-45e6-887d-3c47a515c6b1}" record_timestamp="1433496673548" record_key="wh_main_lil_waaagh_miscast">
+<key>wh_main_lil_waaagh_miscast</key>
+</particle_effects>
+<particle_effects record_uuid="{d2280e6f-0e49-4b4a-a24b-219a43c908d8}" record_timestamp="1437751962412" record_key="wh_main_lil_waaagh_night_shroud_entity_debuff">
+<key>wh_main_lil_waaagh_night_shroud_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{1e756483-f86b-48be-af4b-01cd255a2417}" record_timestamp="1450781659173" record_key="wh_main_lil_waaagh_sneaky_stabbin_entity_buff">
+<key>wh_main_lil_waaagh_sneaky_stabbin_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{4a2bddee-a521-4294-9b73-9333266fa97c}" record_timestamp="1453391667076" record_key="wh_main_lil_waaagh_vindictive_glare_explosion">
+<key>wh_main_lil_waaagh_vindictive_glare_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{43d9fe6e-08bf-4fd8-b1c8-6389ffcbcdef}" record_timestamp="1423842094670" record_key="wh_main_lil_waaagh_vindictive_glare_impact">
+<key>wh_main_lil_waaagh_vindictive_glare_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{dbdaff79-7928-440e-97d6-b95521675170}" record_timestamp="1423842094704" record_key="wh_main_lil_waaagh_vindictive_glare_trail">
+<key>wh_main_lil_waaagh_vindictive_glare_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{29cd2f77-1f00-4cc4-abbc-762916e7c833}" record_timestamp="1436255290841" record_key="wh_main_machine_bolt_of_illumination">
+<key>wh_main_machine_bolt_of_illumination</key>
+</particle_effects>
+<particle_effects record_uuid="{1c740490-aa16-4196-b747-84af865be80e}" record_timestamp="1436255290899" record_key="wh_main_machine_bolt_of_illumination_explosion">
+<key>wh_main_machine_bolt_of_illumination_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{8bde06c1-0994-453a-bb0b-0e85b01975f4}" record_timestamp="1436255291339" record_key="wh_main_machine_bolt_of_illumination_impact">
+<key>wh_main_machine_bolt_of_illumination_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{d11110f9-766b-473b-92f6-cf1f671cd068}" record_timestamp="1436255291388" record_key="wh_main_machine_bolt_of_illumination_spawn">
+<key>wh_main_machine_bolt_of_illumination_spawn</key>
+</particle_effects>
+<particle_effects record_uuid="{cf6798b7-8d0f-4058-bab0-648667fde00f}" record_timestamp="1438774885304" record_key="wh_main_machine_gyrocopter_steamgun">
+<key>wh_main_machine_gyrocopter_steamgun</key>
+</particle_effects>
+<particle_effects record_uuid="{fa89d0b3-ce64-43a6-95fd-b33f2cae4b3d}" record_timestamp="1450092062990" record_key="wh_main_machine_hell_cannon_trail">
+<key>wh_main_machine_hell_cannon_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{bb7f816a-8bb6-4315-acf2-476c1238d775}" record_timestamp="1441972002500" record_key="wh_main_machine_movement_mud">
+<key>wh_main_machine_movement_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{02159962-1343-416d-96a4-dd9b561288eb}" record_timestamp="1441356926249" record_key="wh_main_metal_aura_casting_long">
+<key>wh_main_metal_aura_casting_long</key>
+</particle_effects>
+<particle_effects record_uuid="{818615a8-4fa0-4856-a3c2-8c50ab15d931}" record_timestamp="1441356926240" record_key="wh_main_metal_aura_casting_medium">
+<key>wh_main_metal_aura_casting_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{f3c00bac-b5d8-4282-8d7e-958b5c396047}" record_timestamp="1441356926230" record_key="wh_main_metal_aura_casting_short">
+<key>wh_main_metal_aura_casting_short</key>
+</particle_effects>
+<particle_effects record_uuid="{de46f424-4bc6-44fd-ac3a-92a9021b49c8}" record_timestamp="1432300524096" record_key="wh_main_metal_banner_buff">
+<key>wh_main_metal_banner_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{588a9ce2-b687-473b-bd6b-86fcb37915ca}" record_timestamp="1432300524082" record_key="wh_main_metal_banner_debuff">
+<key>wh_main_metal_banner_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{309a485d-32d6-484e-8c35-9d8c0c21a8ca}" record_timestamp="1437490252078" record_key="wh_main_metal_cast_long">
+<key>wh_main_metal_cast_long</key>
+</particle_effects>
+<particle_effects record_uuid="{163b77e5-67b1-45a3-86f6-7884410d9bde}" record_timestamp="1441356926201" record_key="wh_main_metal_cast_medium">
+<key>wh_main_metal_cast_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{ef6e2f9e-19f7-4944-9b81-4cc1e03a54c7}" record_timestamp="1441356926192" record_key="wh_main_metal_cast_short">
+<key>wh_main_metal_cast_short</key>
+</particle_effects>
+<particle_effects record_uuid="{92647126-a3dc-40b7-a047-fee289d4f171}" record_timestamp="1439976847843" record_key="wh_main_metal_character_aura">
+<key>wh_main_metal_character_aura</key>
+</particle_effects>
+<particle_effects record_uuid="{583f642e-3948-4e84-9ee9-9a1c2c52a1e6}" record_timestamp="1437751962431" record_key="wh_main_metal_final_transmutation_entity_debuff">
+<key>wh_main_metal_final_transmutation_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{ab807111-3202-4a59-9836-0f9a4fbec570}" record_timestamp="1425555722009" record_key="wh_main_metal_gehennas_golden_hounds_area">
+<key>wh_main_metal_gehennas_golden_hounds_area</key>
+</particle_effects>
+<particle_effects record_uuid="{c32a3508-316e-4068-adb8-cb73fd442f49}" record_timestamp="1437751962451" record_key="wh_main_metal_gehennas_golden_hounds_entity_debuff">
+<key>wh_main_metal_gehennas_golden_hounds_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{576d2c15-7b5e-4963-b42c-6e72497c819f}" record_timestamp="1437751962471" record_key="wh_main_metal_glittering_robe_entity_buff">
+<key>wh_main_metal_glittering_robe_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{5d8116a4-f89d-4d7d-93f8-9823db2401bc}" record_timestamp="1433496673519" record_key="wh_main_metal_miscast">
+<key>wh_main_metal_miscast</key>
+</particle_effects>
+<particle_effects record_uuid="{57397f13-f421-4826-919f-c1f0be79fc92}" record_timestamp="1437751962491" record_key="wh_main_metal_plague_of_rust_entity_debuff">
+<key>wh_main_metal_plague_of_rust_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{7efcb073-fad2-41c1-8800-9f660f32ab42}" record_timestamp="1422290391416" record_key="wh_main_metal_searing_doom_area">
+<key>wh_main_metal_searing_doom_area</key>
+</particle_effects>
+<particle_effects record_uuid="{e027a1bb-ccd6-41f2-9567-32cd5c2db00a}" record_timestamp="1422290391431" record_key="wh_main_metal_searing_doom_bomb_spawn">
+<key>wh_main_metal_searing_doom_bomb_spawn</key>
+</particle_effects>
+<particle_effects record_uuid="{59760c97-ba8d-47ae-ad05-3cecf215004d}" record_timestamp="1422290391446" record_key="wh_main_metal_searing_doom_bomb_trail">
+<key>wh_main_metal_searing_doom_bomb_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{047316b2-b500-4fb5-aa51-a0288b0e92c6}" record_timestamp="1422469508359" record_key="wh_main_metal_searing_doom_impact">
+<key>wh_main_metal_searing_doom_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{4cea0e14-7c33-4909-a7e1-26f8474eed88}" record_timestamp="1437751962510" record_key="wh_main_metal_transmutation_of_lead_entity_debuff">
+<key>wh_main_metal_transmutation_of_lead_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{f7edffbd-ca7e-4ece-a166-29800c01b319}" record_timestamp="1436448209360" record_key="wh_main_passive_swarm_of_flies">
+<key>wh_main_passive_swarm_of_flies</key>
+</particle_effects>
+<particle_effects record_uuid="{9fa7cbc2-0185-499f-b2c8-083b79bea07a}" record_timestamp="1453311526020" record_key="wh_main_projectile_penetration_impact">
+<key>wh_main_projectile_penetration_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{eb9a5b5e-e812-4521-9320-1b5b801dc21b}" record_timestamp="1436448209237" record_key="wh_main_spell_bound_soulfire_impact">
+<key>wh_main_spell_bound_soulfire_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{05404143-adad-43fb-b353-7050be97f29a}" record_timestamp="1436448209368" record_key="wh_main_spell_bound_soulfire_spawn">
+<key>wh_main_spell_bound_soulfire_spawn</key>
+</particle_effects>
+<particle_effects record_uuid="{ccb8cc69-ccd9-496a-b512-52f12853a502}" record_timestamp="1436448209244" record_key="wh_main_spell_bound_soulfire_trail">
+<key>wh_main_spell_bound_soulfire_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{4dabc819-9c48-44ab-b363-9fc80d2e7cd6}" record_timestamp="1440605427959" record_key="wh_main_steam_explosion_medium">
+<key>wh_main_steam_explosion_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{577a1464-f40a-46e2-9152-8c3ccefab2cb}" record_timestamp="1446024775037" record_key="wh_main_targeting_generic_bombardment_ui_central">
+<key>wh_main_targeting_generic_bombardment_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{5abbcf31-166a-4c61-8773-d42d8a92e056}" record_timestamp="1446024778927" record_key="wh_main_targeting_generic_breath_ui_central">
+<key>wh_main_targeting_generic_breath_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{8e50ddfc-b2f1-4f00-8620-7d94f81d4710}" record_timestamp="1451900286811" record_key="wh_main_targeting_generic_buff_ui_central">
+<key>wh_main_targeting_generic_buff_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{3af83ef5-bafe-4538-9f19-66210058d7b8}" record_timestamp="1446024775339" record_key="wh_main_targeting_generic_default_ui_central">
+<key>wh_main_targeting_generic_default_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{239f9c5a-c1ce-4d98-b372-121b122544c0}" record_timestamp="1457525070590" record_key="wh_main_targeting_generic_entity_small_ui_central">
+<key>wh_main_targeting_generic_entity_small_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{17f44ec4-4fba-4282-9bf3-8b1e2b02c3bd}" record_timestamp="1457525028574" record_key="wh_main_targeting_generic_entity_ui_central">
+<key>wh_main_targeting_generic_entity_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{e9e345f8-9247-44fd-912e-e4442bfe7a6d}" record_timestamp="1451900286770" record_key="wh_main_targeting_generic_pre_bombardment_ui_central">
+<key>wh_main_targeting_generic_pre_bombardment_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{b57f848f-1768-4640-a6bf-9911684afbc3}" record_timestamp="1451900286790" record_key="wh_main_targeting_generic_pre_breath_ui_central">
+<key>wh_main_targeting_generic_pre_breath_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{0b28bc6e-dad9-40b1-b8ab-d0a88a2ef953}" record_timestamp="1451900286730" record_key="wh_main_targeting_generic_pre_buff_ui_central">
+<key>wh_main_targeting_generic_pre_buff_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{581ad7a9-1887-499c-928a-7108ae9b5495}" record_timestamp="1453294979967" record_key="wh_main_targeting_generic_pre_debuff_ui_central">
+<key>wh_main_targeting_generic_pre_debuff_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{e52b8ae3-84b6-4f2f-908e-b4fd07debf55}" record_timestamp="1451900286750" record_key="wh_main_targeting_generic_pre_default_ui_central">
+<key>wh_main_targeting_generic_pre_default_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{5f1263cc-9a88-4a63-b61c-5c9695531f3b}" record_timestamp="1459932364890" record_key="wh_main_targeting_generic_pre_explosion_ground_ui_central">
+<key>wh_main_targeting_generic_pre_explosion_ground_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{ba16a4fa-a5bf-4069-9ebd-80ad869df3f2}" record_timestamp="1453294979954" record_key="wh_main_targeting_generic_pre_explosion_ui_central">
+<key>wh_main_targeting_generic_pre_explosion_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{a1b27ab3-d67b-48ed-98ad-e6080b363695}" record_timestamp="1451900289842" record_key="wh_main_targeting_generic_pre_magicmissile_ui_central">
+<key>wh_main_targeting_generic_pre_magicmissile_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{2cd3d620-7d71-4672-9d70-4ac97d86c301}" record_timestamp="1459932364890" record_key="wh_main_targeting_generic_pre_vortex_ground_ui_central">
+<key>wh_main_targeting_generic_pre_vortex_ground_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{ec7ddfc1-f209-44da-ab19-0c9ef4c2e419}" record_timestamp="1451900286706" record_key="wh_main_targeting_generic_pre_vortex_ui_central">
+<key>wh_main_targeting_generic_pre_vortex_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{e0194121-3a1c-4faa-8ee1-e5004c865880}" record_timestamp="1466678330852" record_key="wh_main_targeting_generic_pre_wind_ground_ui_central">
+<key>wh_main_targeting_generic_pre_wind_ground_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{d3021801-e80b-4d1c-ab4e-ae0f5ccd5244}" record_timestamp="1446024775540" record_key="wh_main_targeting_generic_vortex_ui_central">
+<key>wh_main_targeting_generic_vortex_ui_central</key>
+</particle_effects>
+<particle_effects record_uuid="{a99f4cd7-dbf1-4ba5-a508-865d012a01f0}" record_timestamp="1438784217729" record_key="wh_main_terrain_entity_move_giant_grass">
+<key>wh_main_terrain_entity_move_giant_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{586c89ee-b6cb-4a92-9459-e5200928b0a5}" record_timestamp="1438784217748" record_key="wh_main_terrain_entity_move_giant_mud">
+<key>wh_main_terrain_entity_move_giant_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{513e5dcb-65a8-4409-bcc2-59dac0ac518d}" record_timestamp="1438784217741" record_key="wh_main_terrain_entity_move_giant_rock">
+<key>wh_main_terrain_entity_move_giant_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{ddc32c40-3127-4903-9a90-f468fe8ddaab}" record_timestamp="1438784217715" record_key="wh_main_terrain_entity_move_giant_sand">
+<key>wh_main_terrain_entity_move_giant_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{c3386ae8-a482-43f6-98bb-8bda8b32d2cf}" record_timestamp="1438784217699" record_key="wh_main_terrain_entity_move_giant_snow">
+<key>wh_main_terrain_entity_move_giant_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{944e3b27-8a3f-44a8-8194-aa1a93dfe48c}" record_timestamp="1430843757197" record_key="wh_main_terrain_entity_move_large_grass">
+<key>wh_main_terrain_entity_move_large_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{791bcc7b-9500-4cd6-a6da-5aac56cc8c6f}" record_timestamp="1430843757203" record_key="wh_main_terrain_entity_move_large_mud">
+<key>wh_main_terrain_entity_move_large_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{df8bfab9-811f-41ef-8264-2f63fdcef4f8}" record_timestamp="1430843757208" record_key="wh_main_terrain_entity_move_large_rock">
+<key>wh_main_terrain_entity_move_large_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{4cd54631-9153-4cab-b1a4-969dc5e4930c}" record_timestamp="1430843757213" record_key="wh_main_terrain_entity_move_large_sand">
+<key>wh_main_terrain_entity_move_large_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{06f99ac3-6e94-4ff8-90a6-e8c5b39872e6}" record_timestamp="1430843757164" record_key="wh_main_terrain_entity_move_large_snow">
+<key>wh_main_terrain_entity_move_large_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{c7be528c-bfb6-4659-9a63-f4a5ce5d09a3}" record_timestamp="1430843757172" record_key="wh_main_terrain_entity_move_large_wake">
+<key>wh_main_terrain_entity_move_large_wake</key>
+</particle_effects>
+<particle_effects record_uuid="{d718cfb9-bd54-4a1f-84c8-9ed154cb18c5}" record_timestamp="1430843757184" record_key="wh_main_terrain_entity_move_large_water">
+<key>wh_main_terrain_entity_move_large_water</key>
+</particle_effects>
+<particle_effects record_uuid="{b3421565-3f2e-4b09-894e-57044eaa95a8}" record_timestamp="1430843757191" record_key="wh_main_terrain_entity_move_medium_grass">
+<key>wh_main_terrain_entity_move_medium_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{f0632211-2db2-4207-b12d-e2419a89e1b7}" record_timestamp="1430843757246" record_key="wh_main_terrain_entity_move_medium_mud">
+<key>wh_main_terrain_entity_move_medium_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{6c06b5a6-56f0-46e4-a5a8-06da4491b088}" record_timestamp="1430843757260" record_key="wh_main_terrain_entity_move_medium_rock">
+<key>wh_main_terrain_entity_move_medium_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{9be7c075-1612-42b4-bcc0-a66411b13a35}" record_timestamp="1430843757268" record_key="wh_main_terrain_entity_move_medium_sand">
+<key>wh_main_terrain_entity_move_medium_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{301adc97-be0f-476c-87f7-630d7741d2cb}" record_timestamp="1430843757275" record_key="wh_main_terrain_entity_move_medium_snow">
+<key>wh_main_terrain_entity_move_medium_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{d877ba10-f0d6-4047-82c7-ca4d36a8f77a}" record_timestamp="1430843757219" record_key="wh_main_terrain_entity_move_medium_wake">
+<key>wh_main_terrain_entity_move_medium_wake</key>
+</particle_effects>
+<particle_effects record_uuid="{8a92408f-de28-401f-a0d4-67ca40346b60}" record_timestamp="1430843757225" record_key="wh_main_terrain_entity_move_medium_water">
+<key>wh_main_terrain_entity_move_medium_water</key>
+</particle_effects>
+<particle_effects record_uuid="{d0891b7c-1d33-4c78-89b1-aa25bafa89be}" record_timestamp="1430843757232" record_key="wh_main_terrain_entity_move_small_grass">
+<key>wh_main_terrain_entity_move_small_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{883cdf67-084b-4ab0-a28b-ffd561cdaa6c}" record_timestamp="1430843757239" record_key="wh_main_terrain_entity_move_small_mud">
+<key>wh_main_terrain_entity_move_small_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{38dbc4eb-d29a-4673-b8a1-2da58e07208f}" record_timestamp="1430843757282" record_key="wh_main_terrain_entity_move_small_rock">
+<key>wh_main_terrain_entity_move_small_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{fe95d37f-ec83-4b51-8379-23264b59b0ef}" record_timestamp="1430843757290" record_key="wh_main_terrain_entity_move_small_sand">
+<key>wh_main_terrain_entity_move_small_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{31ab52f1-fcc0-4258-a21d-e4a5d0fffaee}" record_timestamp="1430843757297" record_key="wh_main_terrain_entity_move_small_snow">
+<key>wh_main_terrain_entity_move_small_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{45ffe9dd-12d0-4b97-aa3d-5c7dc52ed3cd}" record_timestamp="1430843757306" record_key="wh_main_terrain_entity_move_small_wake">
+<key>wh_main_terrain_entity_move_small_wake</key>
+</particle_effects>
+<particle_effects record_uuid="{6e8b4e79-84c7-4cfe-b875-ca1de9bc72b4}" record_timestamp="1430843757253" record_key="wh_main_terrain_entity_move_small_water">
+<key>wh_main_terrain_entity_move_small_water</key>
+</particle_effects>
+<particle_effects record_uuid="{6de0ae77-1a3d-41a5-b4ca-403a7fa42144}" record_timestamp="1442316895790" record_key="wh_main_terrain_entity_raise_dead_grass">
+<key>wh_main_terrain_entity_raise_dead_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{f56e2325-5a10-460f-9d68-75ec4b423b6d}" record_timestamp="1442316895837" record_key="wh_main_terrain_entity_raise_dead_mud">
+<key>wh_main_terrain_entity_raise_dead_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{589b9047-5dad-4503-bb3c-ca18103540c5}" record_timestamp="1442316895814" record_key="wh_main_terrain_entity_raise_dead_rock">
+<key>wh_main_terrain_entity_raise_dead_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{b88a8085-18ca-47cc-a11b-b36cc1d61343}" record_timestamp="1442316895884" record_key="wh_main_terrain_entity_raise_dead_sand">
+<key>wh_main_terrain_entity_raise_dead_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{d73d6828-c691-4939-9703-fc7f1a751327}" record_timestamp="1442316895861" record_key="wh_main_terrain_entity_raise_dead_snow">
+<key>wh_main_terrain_entity_raise_dead_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{a936ab90-9f7a-4e7c-9664-d194f7bd8ad6}" record_timestamp="1442316895907" record_key="wh_main_terrain_entity_raise_dead_water">
+<key>wh_main_terrain_entity_raise_dead_water</key>
+</particle_effects>
+<particle_effects record_uuid="{a1618750-163c-420f-93f7-bfa9f291f437}" record_timestamp="1440430542672" record_key="wh_main_terrain_unit_impact_large_grass">
+<key>wh_main_terrain_unit_impact_large_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{2496c12b-e89d-4b07-80bf-5a38ae9d58a6}" record_timestamp="1440430542695" record_key="wh_main_terrain_unit_impact_large_mud">
+<key>wh_main_terrain_unit_impact_large_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{dec711b3-6d7f-4b5f-ad31-19ecbacae05a}" record_timestamp="1440430542717" record_key="wh_main_terrain_unit_impact_large_rock">
+<key>wh_main_terrain_unit_impact_large_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{631e1b0c-c712-4cd2-945b-aa3fe9fbf6a4}" record_timestamp="1440430542742" record_key="wh_main_terrain_unit_impact_large_sand">
+<key>wh_main_terrain_unit_impact_large_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{8d6abca2-3105-4434-911d-4e4a9dc4913a}" record_timestamp="1440430542765" record_key="wh_main_terrain_unit_impact_large_snow">
+<key>wh_main_terrain_unit_impact_large_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{d536c361-0c48-41f4-a66a-9987c71117c2}" record_timestamp="1440430542787" record_key="wh_main_terrain_unit_impact_large_water">
+<key>wh_main_terrain_unit_impact_large_water</key>
+</particle_effects>
+<particle_effects record_uuid="{451d843e-5dee-44c1-88b3-f5f576af2ea9}" record_timestamp="1440430542407" record_key="wh_main_terrain_unit_impact_medium_grass">
+<key>wh_main_terrain_unit_impact_medium_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{e95c5012-7a71-4ef3-982b-5ada6f57d5c9}" record_timestamp="1440430542439" record_key="wh_main_terrain_unit_impact_medium_mud">
+<key>wh_main_terrain_unit_impact_medium_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{8cc447cc-d99e-4517-b568-97858cf3403a}" record_timestamp="1440430542460" record_key="wh_main_terrain_unit_impact_medium_rock">
+<key>wh_main_terrain_unit_impact_medium_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{07d45a71-c41d-4397-bd4d-65deef5ce219}" record_timestamp="1440430542481" record_key="wh_main_terrain_unit_impact_medium_sand">
+<key>wh_main_terrain_unit_impact_medium_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{51f492ff-eed4-4079-b08a-05e23543e9aa}" record_timestamp="1440430542501" record_key="wh_main_terrain_unit_impact_medium_snow">
+<key>wh_main_terrain_unit_impact_medium_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{531ac2eb-ebb1-47c6-9de7-e8cdd62ae7a7}" record_timestamp="1440430542521" record_key="wh_main_terrain_unit_impact_medium_water">
+<key>wh_main_terrain_unit_impact_medium_water</key>
+</particle_effects>
+<particle_effects record_uuid="{a8800d86-ab4e-400d-aa49-58a2e671f6da}" record_timestamp="1440430542542" record_key="wh_main_terrain_unit_impact_small_grass">
+<key>wh_main_terrain_unit_impact_small_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{885428c4-f279-4c60-9362-f5fbc36bf453}" record_timestamp="1440430542563" record_key="wh_main_terrain_unit_impact_small_mud">
+<key>wh_main_terrain_unit_impact_small_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{cb917e22-fee1-4331-9117-b7487b8eefd7}" record_timestamp="1440430542584" record_key="wh_main_terrain_unit_impact_small_rock">
+<key>wh_main_terrain_unit_impact_small_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{ac3ce257-01f6-4722-961c-545a5bf4294f}" record_timestamp="1440430542606" record_key="wh_main_terrain_unit_impact_small_sand">
+<key>wh_main_terrain_unit_impact_small_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{0d22a8f2-37a7-40cc-bfb3-29d785043aab}" record_timestamp="1440430542628" record_key="wh_main_terrain_unit_impact_small_snow">
+<key>wh_main_terrain_unit_impact_small_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{1358ef2d-2f91-46c9-b0c5-1e5a086fef69}" record_timestamp="1440430542650" record_key="wh_main_terrain_unit_impact_small_water">
+<key>wh_main_terrain_unit_impact_small_water</key>
+</particle_effects>
+<particle_effects record_uuid="{bb114026-0d9c-4360-91ca-620c84139c3c}" record_timestamp="1430905581640" record_key="wh_main_terrain_unit_move_large_grass">
+<key>wh_main_terrain_unit_move_large_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{28a62c17-309f-4b70-9c18-8589dc219368}" record_timestamp="1430905581640" record_key="wh_main_terrain_unit_move_large_mud">
+<key>wh_main_terrain_unit_move_large_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{7b454e8b-10e2-4ca2-852b-2f335e2cfb93}" record_timestamp="1430905581640" record_key="wh_main_terrain_unit_move_large_rock">
+<key>wh_main_terrain_unit_move_large_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{9b39ad2b-44d5-4128-9562-7117e68b5e46}" record_timestamp="1430905581640" record_key="wh_main_terrain_unit_move_large_sand">
+<key>wh_main_terrain_unit_move_large_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{66581265-1b7d-4f12-9f9d-70086c37e810}" record_timestamp="1430905581640" record_key="wh_main_terrain_unit_move_large_snow">
+<key>wh_main_terrain_unit_move_large_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{612dcb99-506a-438e-839c-feeeb9b7a250}" record_timestamp="1430905581640" record_key="wh_main_terrain_unit_move_large_wake">
+<key>wh_main_terrain_unit_move_large_wake</key>
+</particle_effects>
+<particle_effects record_uuid="{33cb7324-fd76-4846-a51c-deb86481ffc3}" record_timestamp="1430905581640" record_key="wh_main_terrain_unit_move_large_water">
+<key>wh_main_terrain_unit_move_large_water</key>
+</particle_effects>
+<particle_effects record_uuid="{7ff2ea38-5712-4b16-91e0-8f742b937065}" record_timestamp="1430905581640" record_key="wh_main_terrain_unit_move_medium_grass">
+<key>wh_main_terrain_unit_move_medium_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{3f171533-ab9a-4ab5-8204-b13e4a2369e6}" record_timestamp="1430905581640" record_key="wh_main_terrain_unit_move_medium_mud">
+<key>wh_main_terrain_unit_move_medium_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{3801dcbb-ecd2-4f65-8c8b-9d65b7666312}" record_timestamp="1430905581640" record_key="wh_main_terrain_unit_move_medium_rock">
+<key>wh_main_terrain_unit_move_medium_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{45d437f9-a0c5-41fd-a655-6cf56f908228}" record_timestamp="1430905581640" record_key="wh_main_terrain_unit_move_medium_sand">
+<key>wh_main_terrain_unit_move_medium_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{4c9f5d8a-8dd1-476c-ad63-b4d00e8be9c8}" record_timestamp="1430905581640" record_key="wh_main_terrain_unit_move_medium_snow">
+<key>wh_main_terrain_unit_move_medium_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{cd128952-08cd-427f-bbaa-60e31a7e6a0d}" record_timestamp="1430905581640" record_key="wh_main_terrain_unit_move_medium_wake">
+<key>wh_main_terrain_unit_move_medium_wake</key>
+</particle_effects>
+<particle_effects record_uuid="{d507ea4a-178d-4fb5-ba85-66b9f0812839}" record_timestamp="1430905581640" record_key="wh_main_terrain_unit_move_medium_water">
+<key>wh_main_terrain_unit_move_medium_water</key>
+</particle_effects>
+<particle_effects record_uuid="{2a5a693c-e9fc-4778-a942-aed347577d1c}" record_timestamp="1430905684270" record_key="wh_main_terrain_unit_move_small_grass">
+<key>wh_main_terrain_unit_move_small_grass</key>
+</particle_effects>
+<particle_effects record_uuid="{673375e8-568b-4080-a027-7507e818fed8}" record_timestamp="1430905684263" record_key="wh_main_terrain_unit_move_small_mud">
+<key>wh_main_terrain_unit_move_small_mud</key>
+</particle_effects>
+<particle_effects record_uuid="{8c555647-d908-419f-ad9b-4648139f3af2}" record_timestamp="1430905684286" record_key="wh_main_terrain_unit_move_small_rock">
+<key>wh_main_terrain_unit_move_small_rock</key>
+</particle_effects>
+<particle_effects record_uuid="{75590b21-1b44-49f9-9ca9-fd24307604ea}" record_timestamp="1430905684279" record_key="wh_main_terrain_unit_move_small_sand">
+<key>wh_main_terrain_unit_move_small_sand</key>
+</particle_effects>
+<particle_effects record_uuid="{d80c856a-3c3e-423d-8667-e71dcde96382}" record_timestamp="1430905684300" record_key="wh_main_terrain_unit_move_small_snow">
+<key>wh_main_terrain_unit_move_small_snow</key>
+</particle_effects>
+<particle_effects record_uuid="{ed95047e-4b81-4c1a-82a3-df62264fb604}" record_timestamp="1430905684293" record_key="wh_main_terrain_unit_move_small_wake">
+<key>wh_main_terrain_unit_move_small_wake</key>
+</particle_effects>
+<particle_effects record_uuid="{b086bf37-ae72-4edf-aba7-ef0bbfac750c}" record_timestamp="1430905684307" record_key="wh_main_terrain_unit_move_small_water">
+<key>wh_main_terrain_unit_move_small_water</key>
+</particle_effects>
+<particle_effects record_uuid="{1aed1b79-a260-4366-a18e-bf22c0428a2b}" record_timestamp="1455115644911" record_key="wh_main_tower_grn_rock_idol">
+<key>wh_main_tower_grn_rock_idol</key>
+</particle_effects>
+<particle_effects record_uuid="{f312b43f-dc89-430d-b8ac-96dbc7e4e1ac}" record_timestamp="1450799723021" record_key="wh_main_ui_advice_character_select">
+<key>wh_main_ui_advice_character_select</key>
+</particle_effects>
+<particle_effects record_uuid="{e704b65c-5149-48ea-b1ae-3e9ee02bf4c0}" record_timestamp="1450799670448" record_key="wh_main_ui_advice_settle_select">
+<key>wh_main_ui_advice_settle_select</key>
+</particle_effects>
+<particle_effects record_uuid="{d6e81871-9554-4bf9-b8e7-0a0a9c8470e8}" record_timestamp="1439997783034" record_key="wh_main_ui_medium_selection">
+<key>wh_main_ui_medium_selection</key>
+</particle_effects>
+<particle_effects record_uuid="{1ee61666-11f0-46a2-a502-c1364966e017}" record_timestamp="1443789581809" record_key="wh_main_vampires_aura_casting_long">
+<key>wh_main_vampires_aura_casting_long</key>
+</particle_effects>
+<particle_effects record_uuid="{b63f443f-7d70-465f-8130-6a40fb983686}" record_timestamp="1443789581876" record_key="wh_main_vampires_aura_casting_medium">
+<key>wh_main_vampires_aura_casting_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{cb6f786f-f3a4-4710-b69c-a1b848f374f5}" record_timestamp="1443789581892" record_key="wh_main_vampires_aura_casting_short">
+<key>wh_main_vampires_aura_casting_short</key>
+</particle_effects>
+<particle_effects record_uuid="{e26a5b8d-c728-40fe-ba36-bf4987964b5e}" record_timestamp="1432300524068" record_key="wh_main_vampires_banner_buff">
+<key>wh_main_vampires_banner_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{2e5fc021-1d7d-4ec7-b454-752b7d7b24fe}" record_timestamp="1432300524055" record_key="wh_main_vampires_banner_debuff">
+<key>wh_main_vampires_banner_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{a53b3105-5e92-4465-9047-bd4e33b760f3}" record_timestamp="1455011084868" record_key="wh_main_vampires_banner_unstable">
+<key>wh_main_vampires_banner_unstable</key>
+</particle_effects>
+<particle_effects record_uuid="{3507ee0d-f9e1-4876-8bd5-315d8ac18b33}" record_timestamp="1459937660904" record_key="wh_main_vampires_banner_unstable_severe">
+<key>wh_main_vampires_banner_unstable_severe</key>
+</particle_effects>
+<particle_effects record_uuid="{71f3cb00-ec63-4b64-839b-adba334d143b}" record_timestamp="1443789581859" record_key="wh_main_vampires_cast_long">
+<key>wh_main_vampires_cast_long</key>
+</particle_effects>
+<particle_effects record_uuid="{b297dad2-bc33-4e38-9b6d-5b9725efae81}" record_timestamp="1443789581843" record_key="wh_main_vampires_cast_medium">
+<key>wh_main_vampires_cast_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{56f66751-ccef-4dc8-a67f-184bf1067018}" record_timestamp="1443789581827" record_key="wh_main_vampires_cast_short">
+<key>wh_main_vampires_cast_short</key>
+</particle_effects>
+<particle_effects record_uuid="{5376f63a-3e93-4807-be1c-f4440ff53aad}" record_timestamp="1439976847837" record_key="wh_main_vampires_character_aura">
+<key>wh_main_vampires_character_aura</key>
+</particle_effects>
+<particle_effects record_uuid="{cf6be57e-18e9-4ab4-9d4a-f4524fdd10c8}" record_timestamp="1453480883860" record_key="wh_main_vampires_crumble">
+<key>wh_main_vampires_crumble</key>
+</particle_effects>
+<particle_effects record_uuid="{b33b68a2-bb40-4bf8-8d29-d39ac3e98094}" record_timestamp="1437751962531" record_key="wh_main_vampires_curse_of_years_entity_debuff">
+<key>wh_main_vampires_curse_of_years_entity_debuff</key>
+</particle_effects>
+<particle_effects record_uuid="{3b8769e4-00dc-486c-8c5a-81a51fc7cbd5}" record_timestamp="1453391667141" record_key="wh_main_vampires_gaze_of_nagash_explosion">
+<key>wh_main_vampires_gaze_of_nagash_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{59696b9b-c210-4f89-81e1-a1e369411563}" record_timestamp="1425555720966" record_key="wh_main_vampires_gaze_of_nagash_impact">
+<key>wh_main_vampires_gaze_of_nagash_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{b127fe16-6d3f-42c4-b9e4-fd9ea20b5f1b}" record_timestamp="1425555722589" record_key="wh_main_vampires_gaze_of_nagash_trail">
+<key>wh_main_vampires_gaze_of_nagash_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{3fdb5f7c-0252-4976-8bff-8d8a1800fa07}" record_timestamp="1433496673525" record_key="wh_main_vampires_miscast">
+<key>wh_main_vampires_miscast</key>
+</particle_effects>
+<particle_effects record_uuid="{bdf00167-eaff-4c89-80db-291c3c591d0e}" record_timestamp="1434460872852" record_key="wh_main_vampires_raise_dead_entity_spawn">
+<key>wh_main_vampires_raise_dead_entity_spawn</key>
+</particle_effects>
+<particle_effects record_uuid="{09fa09d2-230b-4d4f-a5d0-d98649c246d2}" record_timestamp="1455010854889" record_key="wh_main_vampires_unstable">
+<key>wh_main_vampires_unstable</key>
+</particle_effects>
+<particle_effects record_uuid="{007cc6ac-9655-4d82-acfa-569d5c308572}" record_timestamp="1455010854871" record_key="wh_main_vampires_unstable_severe">
+<key>wh_main_vampires_unstable_severe</key>
+</particle_effects>
+<particle_effects record_uuid="{83c43642-4001-4007-8d97-f30d24279386}" record_timestamp="1437751962551" record_key="wh_main_vampires_vanhels_danse_macabre_entity_buff">
+<key>wh_main_vampires_vanhels_danse_macabre_entity_buff</key>
+</particle_effects>
+<particle_effects record_uuid="{098c9be2-eddc-4725-a173-345c403d7763}" record_timestamp="1425555720896" record_key="wh_main_vampires_wind_of_death_area">
+<key>wh_main_vampires_wind_of_death_area</key>
+</particle_effects>
+<particle_effects record_uuid="{65008172-71cc-4cdc-983f-8a70e2909e7a}" record_timestamp="1425555720886" record_key="wh_main_vampires_wind_of_death_target">
+<key>wh_main_vampires_wind_of_death_target</key>
+</particle_effects>
+<particle_effects record_uuid="{9774a157-f72e-4596-9be2-48556bf0c07a}" record_timestamp="1455115644899" record_key="wh_main_vmp_caged_bats_explosion">
+<key>wh_main_vmp_caged_bats_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{253138e9-edfd-41ba-aa7f-bd54c28fa94e}" record_timestamp="1452159149170" record_key="wh_main_vmp_crumble">
+<key>wh_main_vmp_crumble</key>
+</particle_effects>
+<particle_effects record_uuid="{63920e90-dfea-44a8-8766-2291ac386e5e}" record_timestamp="1466678330823" record_key="wh_main_vmp_dark_magic_entity">
+<key>wh_main_vmp_dark_magic_entity</key>
+</particle_effects>
+<particle_effects record_uuid="{cb8d643e-3592-412b-96cd-eeefbb56b4e9}" record_timestamp="1455115644864" record_key="wh_main_vmp_dark_magic_large">
+<key>wh_main_vmp_dark_magic_large</key>
+</particle_effects>
+<particle_effects record_uuid="{9f0bd621-00f3-435a-9f1b-5ed3ed191af9}" record_timestamp="1455115644850" record_key="wh_main_vmp_dark_magic_medium">
+<key>wh_main_vmp_dark_magic_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{2d1ed374-54b3-408d-8336-53560dcbbf48}" record_timestamp="1455115644875" record_key="wh_main_vmp_dark_magic_small">
+<key>wh_main_vmp_dark_magic_small</key>
+</particle_effects>
+<particle_effects record_uuid="{7ae3b72f-7cbc-433b-a849-03a7da1157b5}" record_timestamp="1430991066365" record_key="wh_main_weapon_doomdiver_impact">
+<key>wh_main_weapon_doomdiver_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{8ce992ef-971c-4135-93d1-bd13cfad724b}" record_timestamp="1439395335221" record_key="wh_main_weapon_flame_cannon_impact">
+<key>wh_main_weapon_flame_cannon_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{7b7b87d1-c484-4fea-a88e-3c22ae370992}" record_timestamp="1439395335162" record_key="wh_main_weapon_flame_cannon_trail">
+<key>wh_main_weapon_flame_cannon_trail</key>
+</particle_effects>
+<particle_effects record_uuid="{31f4e029-1aa4-43bd-aa9d-8fe3d87a5b78}" record_timestamp="1423137533408" record_key="wh_main_weapon_flamethrower_beam">
+<key>wh_main_weapon_flamethrower_beam</key>
+</particle_effects>
+<particle_effects record_uuid="{4c613a66-0f4c-47ff-a3ca-e4dd780043c4}" record_timestamp="1453391665230" record_key="wh_main_weapon_flamethrower_explosion">
+<key>wh_main_weapon_flamethrower_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{7c7c03ad-529a-49c6-a709-ce6e4d87700a}" record_timestamp="1435740340528" record_key="wh_main_weapon_flamethrower_impact">
+<key>wh_main_weapon_flamethrower_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{4dfbdfec-a4c9-410a-9b45-0eb6f820d309}" record_timestamp="1423137533421" record_key="wh_main_weapon_flamethrower_muzzle">
+<key>wh_main_weapon_flamethrower_muzzle</key>
+</particle_effects>
+<particle_effects record_uuid="{32155e0f-b7ad-4682-805f-e7eb26997ff8}" record_timestamp="1474288594846" record_key="wh_main_weapon_gob_lobber_impact">
+<key>wh_main_weapon_gob_lobber_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{00c0b420-93dd-4794-8e9e-e16597ac9051}" record_timestamp="1437645735525" record_key="wh_main_weapon_gyrobomber_bomb_large">
+<key>wh_main_weapon_gyrobomber_bomb_large</key>
+</particle_effects>
+<particle_effects record_uuid="{ab9e8d7a-3a31-4bde-89e3-96d49a8848d4}" record_timestamp="1453391667377" record_key="wh_main_weapon_gyrobomber_bomb_large_impact">
+<key>wh_main_weapon_gyrobomber_bomb_large_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{4fd01b3a-414c-4ddb-82ae-006a2f25ea6a}" record_timestamp="1457547060384" record_key="wh_main_weapon_gyrocopter_grenade">
+<key>wh_main_weapon_gyrocopter_grenade</key>
+</particle_effects>
+<particle_effects record_uuid="{ea868ea7-937a-4f30-9b57-7500ba0aecd9}" record_timestamp="1453391665036" record_key="wh_main_weapon_hell_cannon_explosion">
+<key>wh_main_weapon_hell_cannon_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{0daaabda-42f3-4358-afc8-dff0818a92c2}" record_timestamp="1450438935152" record_key="wh_main_weapon_hell_cannon_impact">
+<key>wh_main_weapon_hell_cannon_impact</key>
+</particle_effects>
+<particle_effects record_uuid="{db416b50-f696-43d1-98d3-8f79850537a5}" record_timestamp="1423137533395" record_key="wh_main_weapon_muzzle_flash_large">
+<key>wh_main_weapon_muzzle_flash_large</key>
+</particle_effects>
+<particle_effects record_uuid="{6d8335f5-9b18-4d0e-998c-75c81add1af4}" record_timestamp="1423137533382" record_key="wh_main_weapon_muzzle_flash_medium">
+<key>wh_main_weapon_muzzle_flash_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{45808fb0-dd8f-4828-b74a-4aa8af268e10}" record_timestamp="1423137533368" record_key="wh_main_weapon_muzzle_flash_small">
+<key>wh_main_weapon_muzzle_flash_small</key>
+</particle_effects>
+<particle_effects record_uuid="{8e153b60-c07a-4122-8bc2-a6ec0389479c}" record_timestamp="1430410451313" record_key="wh_main_weapon_steam_beam">
+<key>wh_main_weapon_steam_beam</key>
+</particle_effects>
+<particle_effects record_uuid="{e42887e0-717e-49f0-b75f-14571359c4b4}" record_timestamp="1461152306544" record_key="wh_main_weapon_trail_arrow_medium">
+<key>wh_main_weapon_trail_arrow_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{309508b5-7e3a-4f6d-83e5-1a7ebd9e8b97}" record_timestamp="1461152306544" record_key="wh_main_weapon_trail_arrow_small">
+<key>wh_main_weapon_trail_arrow_small</key>
+</particle_effects>
+<particle_effects record_uuid="{dc74c9c0-c2c5-4704-9a4b-d8ac127228d0}" record_timestamp="1466678330835" record_key="wh_main_weapon_trail_dark_magic">
+<key>wh_main_weapon_trail_dark_magic</key>
+</particle_effects>
+<particle_effects record_uuid="{3fe4f575-27da-4a52-8a97-38e2ba78830f}" record_timestamp="1441644248531" record_key="wh_main_weapon_trail_doomdiver">
+<key>wh_main_weapon_trail_doomdiver</key>
+</particle_effects>
+<particle_effects record_uuid="{fad3a59c-6dc8-4c75-b9dd-37761dafd9ea}" record_timestamp="1423137533356" record_key="wh_main_weapon_trail_fire_large">
+<key>wh_main_weapon_trail_fire_large</key>
+</particle_effects>
+<particle_effects record_uuid="{b2027e72-0173-45a6-9978-85d3a8353f4e}" record_timestamp="1423137533343" record_key="wh_main_weapon_trail_fire_medium">
+<key>wh_main_weapon_trail_fire_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{fbc45350-c43b-4236-8d36-1ba0750ccb62}" record_timestamp="1423137533330" record_key="wh_main_weapon_trail_fire_small">
+<key>wh_main_weapon_trail_fire_small</key>
+</particle_effects>
+<particle_effects record_uuid="{ea5270a6-ae7b-4cc8-aa9d-f6640122c19b}" record_timestamp="1461152306543" record_key="wh_main_weapon_trail_javelin">
+<key>wh_main_weapon_trail_javelin</key>
+</particle_effects>
+<particle_effects record_uuid="{67e2faf4-f9f2-4284-8e1b-5f943709529e}" record_timestamp="1461152296727" record_key="wh_main_weapon_trail_mortar">
+<key>wh_main_weapon_trail_mortar</key>
+</particle_effects>
+<particle_effects record_uuid="{a97bee33-8964-470c-97f0-3caacafb8823}" record_timestamp="1461152306544" record_key="wh_main_weapon_trail_rifle">
+<key>wh_main_weapon_trail_rifle</key>
+</particle_effects>
+<particle_effects record_uuid="{7d208bf8-5882-4923-bbba-71427859691b}" record_timestamp="1429874547888" record_key="wh_main_weapon_trail_rocket_medium">
+<key>wh_main_weapon_trail_rocket_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{b1a71976-d14a-489d-b9ba-a2c424fc7417}" record_timestamp="1423137533317" record_key="wh_main_weapon_trail_smoke_large">
+<key>wh_main_weapon_trail_smoke_large</key>
+</particle_effects>
+<particle_effects record_uuid="{9c1837c1-d9e2-49c2-baba-d1d9cdf001be}" record_timestamp="1423128655270" record_key="wh_main_weapon_trail_smoke_medium">
+<key>wh_main_weapon_trail_smoke_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{31d772d0-9055-4dcc-a04b-1d6371e69e4f}" record_timestamp="1423128655294" record_key="wh_main_weapon_trail_smoke_small">
+<key>wh_main_weapon_trail_smoke_small</key>
+</particle_effects>
+<particle_effects record_uuid="{792ffe48-31c6-4939-8eac-acfe92f6ef41}" record_timestamp="1438877565684" record_key="wh_main_weapon_trail_smoke_vsmall">
+<key>wh_main_weapon_trail_smoke_vsmall</key>
+</particle_effects>
+<particle_effects record_uuid="{5e5c65f5-7566-43c3-9718-b900f36ba9d6}" record_timestamp="1440087305674" record_key="wh_main_weapon_trail_steam_medium">
+<key>wh_main_weapon_trail_steam_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{284c2108-c83d-4aa4-8e81-671744e3eb4d}" record_timestamp="1456412254013" record_key="wh_main_weapon_trail_tower_caged_bats">
+<key>wh_main_weapon_trail_tower_caged_bats</key>
+</particle_effects>
+<particle_effects record_uuid="{2ee12408-52d7-4aa1-a844-b8a1e5a10803}" record_timestamp="1454683812144" record_key="wh_main_weapon_trail_tower_medium">
+<key>wh_main_weapon_trail_tower_medium</key>
+</particle_effects>
+<particle_effects record_uuid="{6d849c63-c291-43f8-96f3-1c12ba949ff2}" record_timestamp="1454068413380" record_key="wh_main_weapon_trollhammer_explosion">
+<key>wh_main_weapon_trollhammer_explosion</key>
+</particle_effects>
+<particle_effects record_uuid="{84940be2-f156-4224-b94d-71852ca04697}" record_timestamp="1477035615680" record_key="wh_pro01_ability_flash_bang_entity_debuff">
+<key>wh_pro01_ability_flash_bang_entity_debuff</key>
+</particle_effects>
+</dataroot>

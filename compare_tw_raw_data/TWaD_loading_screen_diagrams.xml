@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_loading_screen_diagrams>
+<root>
+<edit_uuid>eda37927-acf6-4fb5-aec7-8e82bb1151ed</edit_uuid>
+<field>
+<field_uuid>{3cb74cff-8ef4-4f29-a438-e92e2083e23f}</field_uuid>
+<primary_key>1</primary_key>
+<name>key</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<field_description>Unique id</field_description>
+</field>
+<field>
+<field_uuid>{13f005da-1796-42e4-9b5e-9f92502e6033}</field_uuid>
+<primary_key>0</primary_key>
+<name>image_name</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<field_description>Image name. images live in ui/loading_ui/diagrams</field_description>
+</field>
+<field>
+<field_uuid>{c88f7171-c11e-4201-8c32-051a46ba4bc9}</field_uuid>
+<primary_key>0</primary_key>
+<name>onscreen_text</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<field_description>Onscreen text</field_description>
+</field>
+</root>

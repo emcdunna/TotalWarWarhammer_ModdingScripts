@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_payload_ui_details.xsd" export_time="Tue Feb 14 10:17:10 2017" revision="84" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>89f3e09e-de43-49cc-8085-3a3794a04899</edit_uuid>
+<campaign_payload_ui_details record_uuid="{be0296f3-2a5b-4738-bfc6-824f7ff21962}" record_timestamp="1424799501585" record_key="add_province_development_point">
+<comment></comment>
+<component>add_province_development_point</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{6c46c434-610d-43ab-a2c8-9f9249b978f4}" record_timestamp="1425561560936" record_key="adopt">
+<comment>Use %1% to display adopting character's name.  Use %2% to display adopted character's name.</comment>
+<component>adopt</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{19ddea83-3fb1-419a-8c95-e45067360a24}" record_timestamp="1424799501585" record_key="ambition_change">
+<comment></comment>
+<component>ambition_change</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{4a0ce997-ffc5-481a-99bb-c387c11fa1f2}" record_timestamp="1446028356098" record_key="assign_character_to_post">
+<comment>Use %1% to display character name.  Use %2% to display post title.</comment>
+<component>assign_character_to_post</component>
+<description state="APPROVED" last_approved_text="Office appointed: %1%, %2%" last_edit_user="bob">Office appointed: %1%, %2%</description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{b4396355-fe7c-4002-8ab6-e56dc6290a55}" record_timestamp="1424799501585" record_key="become_retainer">
+<comment></comment>
+<component>become_retainer</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{94df9932-8adc-4f61-b2fa-76d8e18ff592}" record_timestamp="1425393502050" record_key="building_restriction_change">
+<comment>Use %1% to display building variant onscreen name</comment>
+<component>building_restriction_change</component>
+<description state="APPROVED" last_approved_text="%1%" last_edit_user="bob">%1%</description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{060889aa-a76a-41a8-9ca0-8ed5b3351c3d}" record_timestamp="1452785477882" record_key="character_experience_change">
+<comment>Use %1% or %+1% to display value.  Use %2% to display character name.</comment>
+<component>character_experience_change</component>
+<description state="APPROVED" last_approved_text="Bonus experience: %1% for %2%" last_edit_user="bob">Bonus experience: %1% for %2%</description>
+<icon>ui/campaign ui/effect_bundles/experience.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{30e32af3-6a75-4402-8afb-9b9265d4c010}" record_timestamp="1487011529373" record_key="chivalry_decrease">
+<comment></comment>
+<component>chivalry_decrease</component>
+<description state="APPROVED" last_approved_text="Chivalry: -20" last_edit_user="bob">Chivalry: -20</description>
+<icon>ui/campaign ui/effect_bundles/chivalry_negative.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{9fada454-2366-4734-94c2-03a6af642ebe}" record_timestamp="1487011529303" record_key="chivalry_increase">
+<comment></comment>
+<component>chivalry_increase</component>
+<description state="APPROVED" last_approved_text="Chivalry: +20" last_edit_user="bob">Chivalry: +20</description>
+<icon>ui/campaign ui/effect_bundles/chivalry_positive.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{9e1db78c-7f10-42f8-8988-6200a22817a9}" record_timestamp="1457093369828" record_key="damage_buildings">
+<comment></comment>
+<component>damage_buildings</component>
+<description state="APPROVED" last_approved_text="Buildings damaged" last_edit_user="bob">Buildings damaged</description>
+<icon>ui/campaign ui/effect_bundles/construction.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{09824a4b-17d7-4333-a41d-85654165ee9d}" record_timestamp="1457093369831" record_key="damage_buildings_home_region">
+<comment></comment>
+<component>damage_buildings_home_region</component>
+<description state="APPROVED" last_approved_text="Buildings damaged" last_edit_user="bob">Buildings damaged</description>
+<icon>ui/campaign ui/effect_bundles/construction.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{ee62f2a0-26fd-4bf7-95cb-1e5755eae5f0}" record_timestamp="1444995686440" record_key="damage_character">
+<comment></comment>
+<component>damage_character</component>
+<description state="IGNORED" last_approved_text="" last_edit_user="bob">PLACEHOLDER9</description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{c04f47ac-c796-4364-b943-10d931bfc009}" record_timestamp="1452785477883" record_key="demolish_building_chain">
+<comment></comment>
+<component>demolish_building_chain</component>
+<description state="APPROVED" last_approved_text="Building demolished" last_edit_user="bob">Building demolished</description>
+<icon>ui/campaign ui/effect_bundles/settlement.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{82d0d5ea-55e9-4a0f-ae90-3e84e1552d5c}" record_timestamp="1455637532786" record_key="diplomatic_attitude_change">
+<comment>Use %1% or %+1% to display value.  Use %2% to display target faction's name.</comment>
+<component>diplomatic_attitude_change</component>
+<description state="APPROVED" last_approved_text="Diplomatic relations: %+1% with %2%" last_edit_user="bob">Diplomatic relations: %+1% with %2%</description>
+<icon>ui/campaign ui/effect_bundles/diplomacy.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{c0af5171-f1a2-4fe9-b984-01840b2843b5}" record_timestamp="1425561560936" record_key="divorce">
+<comment>Use %1% to display husband's name.  Use %2% to display wife's name.</comment>
+<component>divorce</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{cb8b11f8-09f4-41be-bcf4-91aa4402055d}" record_timestamp="1455704056053" record_key="dummy_do_nothing">
+<comment></comment>
+<component>dummy_do_nothing</component>
+<description state="APPROVED" last_approved_text="Do nothing" last_edit_user="bob">Do nothing</description>
+<icon>ui/campaign ui/effect_bundles/icon_effects_army.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{98ebe5be-7f50-45a8-a9f5-89e73032b18b}" record_timestamp="1467712940376" record_key="dummy_take_no_action">
+<comment></comment>
+<component>dummy_take_no_action</component>
+<description state="APPROVED" last_approved_text="[[sortorder:1]][[/sortorder]]You will take no action." last_edit_user="bob">[[sortorder:1]][[/sortorder]]You will take no action.</description>
+<icon>ui/campaign ui/effect_bundles/icon_effects_army.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{3cbfff71-dbb5-4a25-81ab-976807b290f4}" record_timestamp="1469107289088" record_key="dummy_wh_dlc03_jagged_horn_join">
+<comment></comment>
+<component>dummy_wh_dlc03_jagged_horn_join</component>
+<description state="APPROVED" last_approved_text="The Jagged-Horn tribe will respect you." last_edit_user="bob">The Jagged-Horn tribe will respect you.</description>
+<icon>ui/campaign ui/effect_bundles/diplomacy.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{ace6aba3-7fab-41c0-9db3-81199e318f79}" record_timestamp="1467718899975" record_key="dummy_wh_dlc03_moon_chance">
+<comment></comment>
+<component>dummy_wh_dlc03_moon_chance</component>
+<description state="APPROVED" last_approved_text="[[sortorder:2]][[/sortorder]][[col:green]]Good chance of favourable outcome[[/col]]" last_edit_user="bob">[[sortorder:2]][[/sortorder]][[col:green]]Good chance of favourable outcome[[/col]]</description>
+<icon>ui/campaign ui/effect_bundles/icon_effects_army.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{6bc8a34a-3094-44e4-97ab-e4bb8fda00ab}" record_timestamp="1467718899976" record_key="dummy_wh_dlc03_moon_chance_none">
+<comment></comment>
+<component>dummy_wh_dlc03_moon_chance_none</component>
+<description state="APPROVED" last_approved_text="[[sortorder:2]][[/sortorder]][[col:red]]Less favourable outcome[[/col]]" last_edit_user="bob">[[sortorder:2]][[/sortorder]][[col:red]]Less favourable outcome[[/col]]</description>
+<icon>ui/campaign ui/effect_bundles/icon_effects_army.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{5d2fd789-9fee-442b-8b39-5ce0766f62dc}" record_timestamp="1467718899976" record_key="dummy_wh_dlc03_redhorn_join">
+<comment></comment>
+<component>dummy_wh_dlc03_redhorn_join</component>
+<description state="APPROVED" last_approved_text="The Redhorn tribe will respect you." last_edit_user="bob">The Redhorn tribe will respect you.</description>
+<icon>ui/campaign ui/effect_bundles/diplomacy.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{bea5076b-a73f-4fd7-a94d-c9cfe9c68dbf}" record_timestamp="1467718900006" record_key="dummy_wh_dlc03_ripper_horn_join">
+<comment></comment>
+<component>dummy_wh_dlc03_ripper_horn_join</component>
+<description state="APPROVED" last_approved_text="The Ripper Horn tribe will respect you." last_edit_user="bob">The Ripper Horn tribe will respect you.</description>
+<icon>ui/campaign ui/effect_bundles/diplomacy.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{9115e235-14c8-4bfb-b4b2-7347c6fa019a}" record_timestamp="1467718900007" record_key="dummy_wh_dlc03_shadowgor_join">
+<comment></comment>
+<component>dummy_wh_dlc03_shadowgor_join</component>
+<description state="APPROVED" last_approved_text="The Shadowgor tribe will respect you." last_edit_user="bob">The Shadowgor tribe will respect you.</description>
+<icon>ui/campaign ui/effect_bundles/diplomacy.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{0b91e73a-2a21-4cfd-9384-a0d2186fc3f5}" record_timestamp="1467718900018" record_key="dummy_wh_dlc03_skrinderkin_join">
+<comment></comment>
+<component>dummy_wh_dlc03_skrinderkin_join</component>
+<description state="APPROVED" last_approved_text="The Skrinderkin tribe will respect you." last_edit_user="bob">The Skrinderkin tribe will respect you.</description>
+<icon>ui/campaign ui/effect_bundles/diplomacy.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{23ef788b-ec07-493d-aab5-08188f23bd2a}" record_timestamp="1468497397541" record_key="dummy_wh_dlc03_story_war_1">
+<comment></comment>
+<component>dummy_wh_dlc03_story_war_1</component>
+<description state="APPROVED" last_approved_text="[[col:dark_r]]The Cult of Ulric declares war on you![[/col]]" last_edit_user="bob">[[col:dark_r]]The Cult of Ulric declares war on you![[/col]]</description>
+<icon>ui/campaign ui/effect_bundles/diplomacy.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{45acd342-3b3e-400a-a58a-dfee86b6c7a3}" record_timestamp="1468497397541" record_key="dummy_wh_dlc03_story_war_2">
+<comment></comment>
+<component>dummy_wh_dlc03_story_war_2</component>
+<description state="APPROVED" last_approved_text="[[col:dark_r]]Middenland declares war on you![[/col]]" last_edit_user="bob">[[col:dark_r]]Middenland declares war on you![[/col]]</description>
+<icon>ui/campaign ui/effect_bundles/diplomacy.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{1035ed0c-fa74-457b-86d1-462db97d2404}" record_timestamp="1468497397542" record_key="dummy_wh_dlc03_story_war_3">
+<comment></comment>
+<component>dummy_wh_dlc03_story_war_3</component>
+<description state="APPROVED" last_approved_text="[[col:dark_r]]Hochland declares war on you![[/col]]" last_edit_user="bob">[[col:dark_r]]Hochland declares war on you![[/col]]</description>
+<icon>ui/campaign ui/effect_bundles/diplomacy.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{e692517f-9947-4b6c-84ae-549839ca8297}" record_timestamp="1468415784362" record_key="dummy_wh_dlc04_vmp_vlad_von_carstein_the_carstein_ring_stage_2_3">
+<comment></comment>
+<component>dummy_wh_dlc04_vmp_vlad_von_carstein_the_carstein_ring_stage_2_3</component>
+<description state="APPROVED" last_approved_text="Host a masquerade. {{tr:treasury}}: -5000" last_edit_user="bob">Host a masquerade. {{tr:treasury}}: -5000</description>
+<icon>ui/skins/wh_main_vmp_vampire_counts/icon_treasury.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{8921aba9-4c03-4b6b-b7af-70804405bf54}" record_timestamp="1456314872307" record_key="dummy_wh_main_dwf_thorgrim_grudgebearer_axe_of_grimnir_stage_1">
+<comment></comment>
+<component>dummy_wh_main_dwf_thorgrim_grudgebearer_axe_of_grimnir_stage_1</component>
+<description state="APPROVED" last_approved_text="Invest in the Guild's workshops. {{tr:treasury}}: -5000" last_edit_user="bob">Invest in the Guild's workshops. {{tr:treasury}}: -5000</description>
+<icon>ui/skins/default/icon_treasury.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{a34980c6-93a2-4925-89b4-4065926a1219}" record_timestamp="1456314872296" record_key="dummy_wh_main_dwf_thorgrim_grudgebearer_dragon_crown_of_karaz_stage_2.3">
+<comment></comment>
+<component>dummy_wh_main_dwf_thorgrim_grudgebearer_dragon_crown_of_karaz_stage_2.3</component>
+<description state="APPROVED" last_approved_text="Supply the fugitives. {{tr:treasury}}: -2500" last_edit_user="bob">Supply the fugitives. {{tr:treasury}}: -2500</description>
+<icon>ui/skins/default/icon_treasury.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{9a766304-4f50-40b3-98c5-46c2f7ebe16d}" record_timestamp="1456314872285" record_key="dummy_wh_main_emp_karl_franz_ghal_maraz_stage_2">
+<comment></comment>
+<component>dummy_wh_main_emp_karl_franz_ghal_maraz_stage_2</component>
+<description state="APPROVED" last_approved_text="Fund the astrolabe adjustments. {{tr:treasury}}: -5000" last_edit_user="bob">Fund the astrolabe adjustments. {{tr:treasury}}: -5000</description>
+<icon>ui/skins/default/icon_treasury.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{c2c68813-0604-482c-a090-6b7db8329ad1}" record_timestamp="1456314872318" record_key="dummy_wh_main_vmp_mannfred_von_carstein_sword_of_unholy_power_stage_2">
+<comment></comment>
+<component>dummy_wh_main_vmp_mannfred_von_carstein_sword_of_unholy_power_stage_2</component>
+<description state="APPROVED" last_approved_text="Pay the Necromancer for the book. {{tr:treasury}}: -5000" last_edit_user="bob">Pay the Necromancer for the book. {{tr:treasury}}: -5000</description>
+<icon>ui/skins/wh_main_vmp_vampire_counts/icon_treasury.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{06ab0222-4c4f-4456-9cec-ab916197005a}" record_timestamp="1426085770346" record_key="embezzle">
+<comment>Use %1% to display amount embezzled.  Use %2% to display character name.</comment>
+<component>embezzle</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{646d94ff-9cf7-446f-9ea4-a320b65fbd38}" record_timestamp="1446028356226" record_key="gain_ancillary">
+<comment>Use %1% to display ancillary name</comment>
+<component>gain_ancillary</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{4c23d26f-0cc4-4009-bc70-9d93b095b368}" record_timestamp="1452785477885" record_key="gain_trait">
+<comment>Use %1% to display trait name</comment>
+<component>gain_trait</component>
+<description state="APPROVED" last_approved_text="Trait gained: %1%" last_edit_user="bob">Trait gained: %1%</description>
+<icon>ui/campaign ui/effect_bundles/personality.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{9b1d2f3d-e853-485b-81d1-db33f5c5c163}" record_timestamp="1425571472790" record_key="give_region">
+<comment></comment>
+<component>give_region</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{d5d945af-3b62-4724-9a4d-c8e1fbd53b24}" record_timestamp="1425561560937" record_key="gravitas_change">
+<comment>Use %1% or %+1% to display value.  Use %2% to display character name.</comment>
+<component>gravitas_change</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{e984b507-f3db-4999-b572-ea7703e59a21}" record_timestamp="1425382569691" record_key="honour_change_negative">
+<comment>Use %1% or %+1% to display value</comment>
+<component>honour_change_negative</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{bbcf26c4-4aef-4e14-bfaf-4441e646f4f9}" record_timestamp="1425382569692" record_key="honour_change_positive">
+<comment>Use %1% or %+1% to display value</comment>
+<component>honour_change_positive</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{04a84834-c2d8-4096-9d5f-493d50e59de4}" record_timestamp="1424799501661" record_key="issue_mission">
+<comment></comment>
+<component>issue_mission</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{466ad3d4-d8e1-4d84-af14-a405383af358}" record_timestamp="1425382569692" record_key="kill_character">
+<comment>Use %1% to display character name</comment>
+<component>kill_character</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{1d664103-c601-4438-87b5-ed976f9056d0}" record_timestamp="1446028356313" record_key="lose_ancillary">
+<comment>Use %1% to display ancillary name.  Use %2% to display character name.</comment>
+<component>lose_ancillary</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{29f591a5-a160-44b1-981c-788b30376fc5}" record_timestamp="1452785477885" record_key="lose_trait">
+<comment></comment>
+<component>lose_trait</component>
+<description state="APPROVED" last_approved_text="Trait lost: %1%" last_edit_user="bob">Trait lost: %1%</description>
+<icon>ui/campaign ui/skills/trait_personality.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{f68905ef-54a0-4bea-b9c8-e530bb43836e}" record_timestamp="1425561560937" record_key="loyalty_change">
+<comment>Use %1% or %+1% to display value.  Use %2% to display character name.</comment>
+<component>loyalty_change</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{0ac264e5-037a-41dd-87a6-e9c43190a05b}" record_timestamp="1425561560937" record_key="marriage">
+<comment>Use %1% to display proposer's name.  Use %2% to display recipient's name.</comment>
+<component>marriage</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{6cf3d0be-eea3-4f09-88e1-28ed7897cb6b}" record_timestamp="1425561560939" record_key="marriage_random">
+<comment>Variant of marriage where the recipient it not yet known.  Use %1% to display proposer's name.</comment>
+<component>marriage_random</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{d85230b9-1eb3-4e60-b24a-959d710bdb6f}" record_timestamp="1425989757024" record_key="party_power_change">
+<comment>Use %1% or %+1% to diplay power change delta</comment>
+<component>party_power_change</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{fd310377-6af1-414b-a81b-2aee2138b9f4}" record_timestamp="1424799501662" record_key="play_movie">
+<comment></comment>
+<component>play_movie</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{4fdacaae-2934-4515-89f3-ca86cb385782}" record_timestamp="1452785477885" record_key="rebellion">
+<comment></comment>
+<component>rebellion</component>
+<description state="APPROVED" last_approved_text="Rebellion" last_edit_user="bob">Rebellion</description>
+<icon>ui/campaign ui/effect_bundles/religion.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{743f6226-adfe-4989-8c02-c92e68a40387}" record_timestamp="1424799501662" record_key="seek_wife">
+<comment></comment>
+<component>seek_wife</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{0fa750a2-63db-4870-9a59-18500c0e0106}" record_timestamp="1452785477886" record_key="spawn_agent">
+<comment>Use %1% to display agent type onscreen name.  Use %2% to display settlement name.</comment>
+<component>spawn_agent</component>
+<description state="APPROVED" last_approved_text="Hero recruited: %1%" last_edit_user="bob">Hero recruited: %1%</description>
+<icon>ui/campaign ui/effect_bundles/agent.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{47c603d2-8a19-4898-96e1-ad65ee2ae108}" record_timestamp="1454404236244" record_key="spawn_agent_home_region">
+<comment>Use %1% to display agent type onscreen name.  Use %2% to display current home region/force (may change by the time payload is applied).</comment>
+<component>spawn_agent_home_region</component>
+<description state="APPROVED" last_approved_text="Hero recruited at %2%: %1%" last_edit_user="bob">Hero recruited at %2%: %1%</description>
+<icon>ui/campaign ui/effect_bundles/agent.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{3130fcee-bd62-4dd5-b352-26cc783751c5}" record_timestamp="1425561560939" record_key="spawn_agent_home_region_unknown">
+<comment>Variant of spawn_agent_home_region where the home region/force is unknown.  Use %1% to display agent type onscreen name.</comment>
+<component>spawn_agent_home_region_unknown</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{329e96ad-3e16-45e0-8eeb-c64cf7050da9}" record_timestamp="1425393502053" record_key="spawn_unit">
+<comment>Use %1% to display unit onscreen name</comment>
+<component>spawn_unit</component>
+<description state="APPROVED" last_approved_text="%1%" last_edit_user="bob">%1%</description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{dd168f9a-80a1-4ace-9128-0f07da7b71b8}" record_timestamp="1425393502053" record_key="spawn_unit_home_region">
+<comment>Use %1% to display unit onscreen name</comment>
+<component>spawn_unit_home_region</component>
+<description state="APPROVED" last_approved_text="%1%" last_edit_user="bob">%1%</description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{3842faa1-695a-452a-8466-bb625dad627a}" record_timestamp="1452785477887" record_key="treasury_change">
+<comment>Use %1% or %+1% to display value</comment>
+<component>treasury_change</component>
+<description state="APPROVED" last_approved_text="{{tr:treasury}}: %+1%" last_edit_user="bob">{{tr:treasury}}: %+1%</description>
+<icon>ui/skins/default/icon_treasury.png</icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{ddbef674-e7f4-4fd6-be07-cb6a324b7357}" record_timestamp="1424799501662" record_key="unit_restriction_change">
+<comment></comment>
+<component>unit_restriction_change</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{6e988277-2908-40a1-abe7-1e2e112f2088}" record_timestamp="1424799501662" record_key="unlock_state_religion_change">
+<comment></comment>
+<component>unlock_state_religion_change</component>
+<description></description>
+<icon></icon>
+</campaign_payload_ui_details>
+<campaign_payload_ui_details record_uuid="{2ab103f3-9af4-4cc6-8b93-08f9f1477af1}" record_timestamp="1452785477887" record_key="wound_character">
+<comment>Use %1% to display character name</comment>
+<component>wound_character</component>
+<description state="APPROVED" last_approved_text="Character wounded: %1%" last_edit_user="bob">Character wounded: %1%</description>
+<icon>ui/campaign ui/effect_bundles/wound_time.png</icon>
+</campaign_payload_ui_details>
+</dataroot>

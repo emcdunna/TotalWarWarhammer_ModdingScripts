@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effects_additional_tooltip_details.xsd" export_time="Wed Jan 11 13:11:38 2017" revision="22" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>bbfeeede-e6ef-4845-afd3-9716ec7ec5ab</edit_uuid>
+<effects_additional_tooltip_details record_uuid="{04e73dba-a6d8-45ff-be6f-d1930a0f99ae}" record_timestamp="1484140298264" record_key="wh_dlc07_effect_general_aura_mod_all_during_attack">
+<effect>wh_dlc07_effect_general_aura_mod_all_during_attack</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{cc165972-596f-4961-8a9c-2e90f59474d1}" record_timestamp="1453376962247" record_key="wh_main_effect_agent_action_all_hinder_character_buff">
+<effect>wh_main_effect_agent_action_all_hinder_character_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Assassinate[[/col]]\nKills the target character.[[/col]]" last_edit_user="bob">[[col:yellow]]Assassinate[[/col]]\nKills the target character.[[/col]]</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{c8b22414-a75e-4bb0-af4f-a60cf9959f4c}" record_timestamp="1453376962127" record_key="wh_main_effect_agent_action_champion_assist_province_buff">
+<effect>wh_main_effect_agent_action_champion_assist_province_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Inspire Populace[[/col]]\nIncreases [[img:icon_public_order]][[/img]]{{tr:public_order}} in the local province." last_edit_user="bob">[[col:yellow]]Inspire Populace[[/col]]\nIncreases [[img:icon_public_order]][[/img]]{{tr:public_order}} in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{6ce4a291-2a4e-4de6-8f71-59eb18598cf6}" record_timestamp="1453376962367" record_key="wh_main_effect_agent_action_champion_hinder_army_buff">
+<effect>wh_main_effect_agent_action_champion_hinder_army_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Assault Units[[/col]]\nInflicts damage upon all units in the target army.[[/col]]" last_edit_user="bob">[[col:yellow]]Assault Units[[/col]]\nInflicts damage upon all units in the target army.[[/col]]</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{3fb8fddc-00be-4d46-8d45-e0b5a3cd1ac1}" record_timestamp="1453376962427" record_key="wh_main_effect_agent_action_champion_hinder_province_buff">
+<effect>wh_main_effect_agent_action_champion_hinder_province_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Discourage Populace[[/col]]\nDecreases [[img:icon_public_order]][[/img]]{{tr:public_order}} in the local province.[[/col]]" last_edit_user="bob">[[col:yellow]]Discourage Populace[[/col]]\nDecreases [[img:icon_public_order]][[/img]]{{tr:public_order}} in the local province.[[/col]]</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{ba2906d3-da2e-4f8c-b3b3-ade3429b5dca}" record_timestamp="1453376962307" record_key="wh_main_effect_agent_action_champion_hinder_settlement_buff">
+<effect>wh_main_effect_agent_action_champion_hinder_settlement_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Assault Garrison[[/col]]\nInflicts damage upon a member of the garrison in the target settlement.[[/col]]" last_edit_user="bob">[[col:yellow]]Assault Garrison[[/col]]\nInflicts damage upon a member of the garrison in the target settlement.[[/col]]</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{a58f41d9-d140-447e-ad1e-e4fa38013992}" record_timestamp="1453376967697" record_key="wh_main_effect_agent_action_dignitary_assist_province_buff">
+<effect>wh_main_effect_agent_action_dignitary_assist_province_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Pray[[/col]]\nIncreases [[img:icon_growth]][[/img]]growth in the local province." last_edit_user="bob">[[col:yellow]]Pray[[/col]]\nIncreases [[img:icon_growth]][[/img]]growth in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{d053b976-eb82-4ec0-82b7-681aec88b9e9}" record_timestamp="1463569483611" record_key="wh_main_effect_agent_action_dignitary_hinder_army_buff">
+<effect>wh_main_effect_agent_action_dignitary_hinder_army_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Demoralise Army[[/col]]\nReduces the [[img:icon_morale]][[/img]]leadership of the target army." last_edit_user="bob">[[col:yellow]]Demoralise Army[[/col]]\nReduces the [[img:icon_morale]][[/img]]leadership of the target army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{7e592816-9fbd-4ae5-8356-757aa90b4aa4}" record_timestamp="1453376967577" record_key="wh_main_effect_agent_action_dignitary_hinder_province_buff">
+<effect>wh_main_effect_agent_action_dignitary_hinder_province_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Inhibit[[/col]]\nReduces [[img:icon_growth]][[/img]]growth in the local province." last_edit_user="bob">[[col:yellow]]Inhibit[[/col]]\nReduces [[img:icon_growth]][[/img]]growth in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{3bb6aeff-3040-4444-bf24-e5d41a85dd7c}" record_timestamp="1453376967517" record_key="wh_main_effect_agent_action_dignitary_hinder_settlement_buff">
+<effect>wh_main_effect_agent_action_dignitary_hinder_settlement_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Damage Building[[/col]]\nInflicts damage upon a building in the target settlement." last_edit_user="bob">[[col:yellow]]Damage Building[[/col]]\nInflicts damage upon a building in the target settlement.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{5048fe8c-8997-4a28-adaf-0f5405c0edad}" record_timestamp="1453376962187" record_key="wh_main_effect_agent_action_enable_champion_assist_army">
+<effect>wh_main_effect_agent_action_enable_champion_assist_army</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Training[[/col]]\nGrants experience per turn to units serving in the parent army." last_edit_user="bob">[[col:yellow]]Training[[/col]]\nGrants experience per turn to units serving in the parent army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{4aa869f0-8e61-4d66-83e5-aa5caaf597b7}" record_timestamp="1463569483611" record_key="wh_main_effect_agent_action_enable_champion_hinder_army_horde">
+<effect>wh_main_effect_agent_action_enable_champion_hinder_army_horde</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Demoralise Army[[/col]]\nReduces the [[img:icon_morale]][[/img]]leadership of the target army." last_edit_user="bob">[[col:yellow]]Demoralise Army[[/col]]\nReduces the [[img:icon_morale]][[/img]]leadership of the target army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{aae4cf83-403b-4762-be03-3f8065fd3316}" record_timestamp="1453376991277" record_key="wh_main_effect_agent_action_enable_champion_hinder_settlement_horde">
+<effect>wh_main_effect_agent_action_enable_champion_hinder_settlement_horde</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Storm Garrison[[/col]]\nInflicts damage upon the entire garrison in the target settlement." last_edit_user="bob">[[col:yellow]]Storm Garrison[[/col]]\nInflicts damage upon the entire garrison in the target settlement.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{9bfd95a6-a895-4ec1-84c7-f8fabb4dfbab}" record_timestamp="1471865779675" record_key="wh_main_effect_agent_action_enable_dignitary_assist_army">
+<effect>wh_main_effect_agent_action_enable_dignitary_assist_army</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Heal Troops[[/col]]\nIncreases [[img:icon_replenishment]][[/img]]replenishment of the parent army." last_edit_user="bob">[[col:yellow]]Heal Troops[[/col]]\nIncreases [[img:icon_replenishment]][[/img]]replenishment of the parent army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{1d0ccc08-8592-4a71-afb6-b6420324f121}" record_timestamp="1453376981747" record_key="wh_main_effect_agent_action_enable_engineer_assist_army">
+<effect>wh_main_effect_agent_action_enable_engineer_assist_army</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Heavy Lifting[[/col]]\nIncreases the campaign movement range of the parent army." last_edit_user="bob">[[col:yellow]]Heavy Lifting[[/col]]\nIncreases the campaign movement range of the parent army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{f76dbadb-270c-4ef6-9b26-3d49dd8e1ff8}" record_timestamp="1453376977277" record_key="wh_main_effect_agent_action_enable_runesmith_assist_army">
+<effect>wh_main_effect_agent_action_enable_runesmith_assist_army</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Awareness[[/col]]\nReduces the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against the parent army." last_edit_user="bob">[[col:yellow]]Awareness[[/col]]\nReduces the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against the parent army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{ed2f047f-35f7-4b1d-bb23-ac3d2a0e4533}" record_timestamp="1453376963077" record_key="wh_main_effect_agent_action_enable_spy_assist_army">
+<effect>wh_main_effect_agent_action_enable_spy_assist_army</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Guard[[/col]]\nReduces the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against the parent army." last_edit_user="bob">[[col:yellow]]Guard[[/col]]\nReduces the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against the parent army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{10a1a07e-895b-496a-8e46-cf95482127ad}" record_timestamp="1453376965497" record_key="wh_main_effect_agent_action_enable_wizard_assist_army">
+<effect>wh_main_effect_agent_action_enable_wizard_assist_army</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Scouting[[/col]]\nIncreases the chance of post-battle magic item drops for the parent army." last_edit_user="bob">[[col:yellow]]Scouting[[/col]]\nIncreases the chance of post-battle magic item drops for the parent army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{25a89e46-e8ba-4f2d-957c-719373e76ae5}" record_timestamp="1453376965367" record_key="wh_main_effect_agent_action_enable_wizard_hinder_army_horde">
+<effect>wh_main_effect_agent_action_enable_wizard_hinder_army_horde</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Block Army[[/col]]\nReduces the campaign movement range of the target army." last_edit_user="bob">[[col:yellow]]Block Army[[/col]]\nReduces the campaign movement range of the target army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{bbe6caf4-65f3-4072-88f9-31e02a467891}" record_timestamp="1453376965617" record_key="wh_main_effect_agent_action_enable_wizard_hinder_settlement_horde">
+<effect>wh_main_effect_agent_action_enable_wizard_hinder_settlement_horde</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Damage Buildings[[/col]]\nInflicts damage upon all buildings in the target settlement." last_edit_user="bob">[[col:yellow]]Damage Buildings[[/col]]\nInflicts damage upon all buildings in the target settlement.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{ffb0c306-ff02-4137-a43d-6dfb0ab9f31d}" record_timestamp="1453376982017" record_key="wh_main_effect_agent_action_engineer_assist_province_buff">
+<effect>wh_main_effect_agent_action_engineer_assist_province_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Knuckle Down[[/col]]\nReduces {{tr:icon_money}}construction costs in the local province." last_edit_user="bob">[[col:yellow]]Knuckle Down[[/col]]\nReduces {{tr:icon_money}}construction costs in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{0342c8be-5bde-4ea4-bb6a-c16debd71a34}" record_timestamp="1453376981947" record_key="wh_main_effect_agent_action_engineer_hinder_army_buff">
+<effect>wh_main_effect_agent_action_engineer_hinder_army_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Sabotage[[/col]]\nReduces the campaign movement range of the target army." last_edit_user="bob">[[col:yellow]]Sabotage[[/col]]\nReduces the campaign movement range of the target army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{41b29b03-41ce-4ad6-b38b-593c49fdcf30}" record_timestamp="1453376981877" record_key="wh_main_effect_agent_action_engineer_hinder_province_buff">
+<effect>wh_main_effect_agent_action_engineer_hinder_province_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Tinker[[/col]]\nReduces the ammunition of enemy armies' artillery in the local province." last_edit_user="bob">[[col:yellow]]Tinker[[/col]]\nReduces the ammunition of enemy armies' artillery in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{714078b8-15de-49d8-bc3d-bdf973470bce}" record_timestamp="1453376981817" record_key="wh_main_effect_agent_action_engineer_hinder_settlement_buff">
+<effect>wh_main_effect_agent_action_engineer_hinder_settlement_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Damage Walls[[/col]]\nDamages the walls of the target settlement." last_edit_user="bob">[[col:yellow]]Damage Walls[[/col]]\nDamages the walls of the target settlement.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{8be57e33-824d-4353-a03e-8c9a0f993c27}" record_timestamp="1474291326629" record_key="wh_main_effect_agent_action_runesmith_assist_province_buff">
+<effect>wh_main_effect_agent_action_runesmith_assist_province_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Runic Seal[[/col]]\nReduces the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against settlements in the local province." last_edit_user="bob">[[col:yellow]]Runic Seal[[/col]]\nReduces the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against settlements in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{5154af03-c0be-44ad-8ffe-7aa3208ab652}" record_timestamp="1460469405299" record_key="wh_main_effect_agent_action_runesmith_hinder_army_buff">
+<effect>wh_main_effect_agent_action_runesmith_hinder_army_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Block Magic[[/col]]\nReduces the Winds of Magic [[img:icon_wom_power]][[/img]]power reserve for the target army." last_edit_user="bob">[[col:yellow]]Block Magic[[/col]]\nReduces the Winds of Magic [[img:icon_wom_power]][[/img]]power reserve for the target army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{91e9b1af-824c-4b0c-9d23-6912f374c5e3}" record_timestamp="1453376977397" record_key="wh_main_effect_agent_action_runesmith_hinder_province_buff">
+<effect>wh_main_effect_agent_action_runesmith_hinder_province_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Runic Protection[[/col]]\nReduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province." last_edit_user="bob">[[col:yellow]]Runic Protection[[/col]]\nReduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{ac1bc060-b530-4826-a598-774ab8d72edd}" record_timestamp="1453376977337" record_key="wh_main_effect_agent_action_runesmith_hinder_settlement_buff">
+<effect>wh_main_effect_agent_action_runesmith_hinder_settlement_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Damage Settlement[[/col]]\nInflicts damage upon all buildings in the target settlement." last_edit_user="bob">[[col:yellow]]Damage Settlement[[/col]]\nInflicts damage upon all buildings in the target settlement.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{3182657f-e24b-4e3c-8111-59deb9c98025}" record_timestamp="1474291326629" record_key="wh_main_effect_agent_action_spy_assist_province_buff">
+<effect>wh_main_effect_agent_action_spy_assist_province_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Scout[[/col]]\nReduces the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against settlements in the local province." last_edit_user="bob">[[col:yellow]]Scout[[/col]]\nReduces the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against settlements in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{9d6fe739-d0ef-4d81-a4b5-41cdaf203817}" record_timestamp="1453376963137" record_key="wh_main_effect_agent_action_spy_hinder_army_buff">
+<effect>wh_main_effect_agent_action_spy_hinder_army_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Block Army[[/col]]\nReduces the campaign movement range of the target army." last_edit_user="bob">[[col:yellow]]Block Army[[/col]]\nReduces the campaign movement range of the target army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{4c87c7f3-265a-4929-adb6-52a0305203d3}" record_timestamp="1453376963187" record_key="wh_main_effect_agent_action_spy_hinder_province_buff">
+<effect>wh_main_effect_agent_action_spy_hinder_province_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Infiltrate[[/col]]\nReduces the {{tr:icon_income}}income generated by enemy buildings in local province." last_edit_user="bob">[[col:yellow]]Infiltrate[[/col]]\nReduces the {{tr:icon_income}}income generated by enemy buildings in local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{4bd56bbd-c045-4f6b-95a9-3a758596cb39}" record_timestamp="1453376963247" record_key="wh_main_effect_agent_action_spy_hinder_settlement_buff">
+<effect>wh_main_effect_agent_action_spy_hinder_settlement_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Damage Walls[[/col]]\nDamages the walls of the target settlement." last_edit_user="bob">[[col:yellow]]Damage Walls[[/col]]\nDamages the walls of the target settlement.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{17c37ccd-184e-4a3f-a25c-f1e4f50f6aeb}" record_timestamp="1453376965297" record_key="wh_main_effect_agent_action_wizard_assist_province_buff">
+<effect>wh_main_effect_agent_action_wizard_assist_province_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Planning[[/col]]\nReduces {{tr:icon_money}}construction costs in the local province." last_edit_user="bob">[[col:yellow]]Planning[[/col]]\nReduces {{tr:icon_money}}construction costs in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{f2222f53-0b8e-495c-b938-bf5a06feeda0}" record_timestamp="1453376965247" record_key="wh_main_effect_agent_action_wizard_hinder_army_buff">
+<effect>wh_main_effect_agent_action_wizard_hinder_army_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Assault Unit[[/col]]\nInflicts damage upon a unit in the target army." last_edit_user="bob">[[col:yellow]]Assault Unit[[/col]]\nInflicts damage upon a unit in the target army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{81a8f88d-1797-446b-8ca2-0013fa115eed}" record_timestamp="1460469405363" record_key="wh_main_effect_agent_action_wizard_hinder_province_buff">
+<effect>wh_main_effect_agent_action_wizard_hinder_province_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Magical Interference[[/col]]\nReduces the Winds of Magic [[img:icon_wom_power]][[/img]]power reserve for enemy armies in the local province." last_edit_user="bob">[[col:yellow]]Magical Interference[[/col]]\nReduces the Winds of Magic [[img:icon_wom_power]][[/img]]power reserve for enemy armies in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{baecfd4c-0149-427b-b9ec-561cea0c7cbf}" record_timestamp="1453376965557" record_key="wh_main_effect_agent_action_wizard_hinder_settlement_buff">
+<effect>wh_main_effect_agent_action_wizard_hinder_settlement_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/agent.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]Damage Building[[/col]]\nInflicts damage upon a building in the target settlement." last_edit_user="bob">[[col:yellow]]Damage Building[[/col]]\nInflicts damage upon a building in the target settlement.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{e22c6e52-5fe0-4639-9398-765a35f429d8}" record_timestamp="1454069543339" record_key="wh_main_effect_character_stat_mod_personal_aura_morale_effect">
+<effect>wh_main_effect_character_stat_mod_personal_aura_morale_effect</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{7f6996a6-dcad-4d69-9a8d-14147664d90b}" record_timestamp="1454069543368" record_key="wh_main_effect_character_stat_mod_personal_aura_size">
+<effect>wh_main_effect_character_stat_mod_personal_aura_size</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{91029e84-9b84-4697-a5e1-26928d645e14}" record_timestamp="1453140107646" record_key="wh_main_effect_character_stat_mod_ward_save">
+<effect>wh_main_effect_character_stat_mod_ward_save</effect>
+<icon_path>ui/campaign ui/effect_bundles/resistance_ward_save.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Ward save. Any type of damage is reduced by this amount." last_edit_user="bob">Ward save. Any type of damage is reduced by this amount.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{10cbbe2b-0e9c-47c6-9aa1-93ec3d1f5b76}" record_timestamp="1463569327314" record_key="wh_main_effect_character_stat_mod_ward_save_fire">
+<effect>wh_main_effect_character_stat_mod_ward_save_fire</effect>
+<icon_path>ui/campaign ui/effect_bundles/resistance_fire.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Fire Resistance. Damage of [[img:ui/skins/default/modifier_icon_flaming.png]][[/img]]flaming attacks is reduced by this amount." last_edit_user="bob">Fire Resistance. Damage of [[img:ui/skins/default/modifier_icon_flaming.png]][[/img]]flaming attacks is reduced by this amount.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{8bf967e7-8df2-40dd-8b88-c6a97a98beca}" record_timestamp="1463569327314" record_key="wh_main_effect_character_stat_mod_ward_save_magic">
+<effect>wh_main_effect_character_stat_mod_ward_save_magic</effect>
+<icon_path>ui/campaign ui/effect_bundles/resistance_magic.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Magic Resistance. Damage of [[img:ui/skins/default/modifier_icon_magical.png]][[/img]]magical attacks is reduced by this amount." last_edit_user="bob">Magic Resistance. Damage of [[img:ui/skins/default/modifier_icon_magical.png]][[/img]]magical attacks is reduced by this amount.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{b82ddfb4-7910-4572-8dfa-a0398caa4647}" record_timestamp="1453483192193" record_key="wh_main_effect_character_stat_mod_ward_save_missile">
+<effect>wh_main_effect_character_stat_mod_ward_save_missile</effect>
+<icon_path>ui/campaign ui/effect_bundles/resistance_missile.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Missile Resistance. Damage of missile attacks is reduced by this amount." last_edit_user="bob">Missile Resistance. Damage of missile attacks is reduced by this amount.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{18320b08-788e-49af-84c1-aad3931f8062}" record_timestamp="1453134626384" record_key="wh_main_effect_character_stat_mod_ward_save_physical">
+<effect>wh_main_effect_character_stat_mod_ward_save_physical</effect>
+<icon_path>ui/campaign ui/effect_bundles/resistance_physical.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Physical Resistance. Damage of non-magical attacks is reduced by this amount." last_edit_user="bob">Physical Resistance. Damage of non-magical attacks is reduced by this amount.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{d70c7ecf-8936-47ae-bde9-fac885942016}" record_timestamp="1457520320561" record_key="wh_main_effect_conquest_enable_night_battles">
+<effect>wh_main_effect_conquest_enable_night_battles</effect>
+<icon_path>ui/campaign ui/effect_bundles/subterfuge.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="The option to carry out a lightning strike battle will appear on the Pre-Battle panel. Enabling this prevents reinforcements from joining the battle." last_edit_user="bob">The option to carry out a lightning strike battle will appear on the Pre-Battle panel. Enabling this prevents reinforcements from joining the battle.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{b05ce590-8b72-4405-84d5-55a3a4931ebf}" record_timestamp="1462358723140" record_key="wh_main_effect_force_ward_save_missile_artillery">
+<effect>wh_main_effect_force_ward_save_missile_artillery</effect>
+<icon_path>ui/campaign ui/effect_bundles/resistance_ward_save.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Ward save. Any type of damage is reduced by this amount." last_edit_user="bob">Ward save. Any type of damage is reduced by this amount.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{4a737071-332d-4f80-a37f-26def5c54ce7}" record_timestamp="1454069543393" record_key="wh_main_effect_general_aura_mod_all_during_ambush">
+<effect>wh_main_effect_general_aura_mod_all_during_ambush</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{af8db426-7601-4c0b-976e-e7162e266daf}" record_timestamp="1454069543425" record_key="wh_main_effect_general_aura_mod_all_during_attack">
+<effect>wh_main_effect_general_aura_mod_all_during_attack</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{726270a3-6edb-4b03-93da-728eb6ba3fad}" record_timestamp="1454069543453" record_key="wh_main_effect_general_aura_mod_all_during_attack_siege">
+<effect>wh_main_effect_general_aura_mod_all_during_attack_siege</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{249d4d26-0708-4205-a408-e4330976e4cd}" record_timestamp="1454069543483" record_key="wh_main_effect_general_aura_mod_all_during_defence">
+<effect>wh_main_effect_general_aura_mod_all_during_defence</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{61c6f59d-44bf-4fd7-9e73-879cdc68da40}" record_timestamp="1454069543508" record_key="wh_main_effect_general_aura_mod_all_during_defence_siege">
+<effect>wh_main_effect_general_aura_mod_all_during_defence_siege</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{49abaf60-5b33-4783-af21-e0cf7f30331d}" record_timestamp="1454069543541" record_key="wh_main_effect_general_aura_mod_all_during_night">
+<effect>wh_main_effect_general_aura_mod_all_during_night</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+</dataroot>

@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personality_cultural_relations_overrides.xsd" export_time="Thu Jan 19 16:18:54 2017" revision="16" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>08b04f0a-1c93-4317-8eff-6bd529f3f994</edit_uuid>
+<cai_personality_cultural_relations_overrides record_uuid="{98e1af97-8fe0-4e08-a6f9-bf63a8771fcd}" record_timestamp="1481032050358" record_key="anti_chaoswh_main_sc_brt_bretonniawh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{3fdae2d9-19ac-4e11-845f-df1fbc036b42}" record_timestamp="1449069303052" record_key="anti_chaoswh_main_sc_brt_bretonniawh_main_sc_brt_bretonnia">
+<attitude_base>50</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>0.75</negative_attitude_multiplier>
+<positive_attitude_multiplier>1.5</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{5f4aa37f-8509-421a-b3d8-d2f19b26954a}" record_timestamp="1449069303161" record_key="anti_chaoswh_main_sc_brt_bretonniawh_main_sc_dwf_dwarfs">
+<attitude_base>50</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>0.75</negative_attitude_multiplier>
+<positive_attitude_multiplier>1.5</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{ec33b35c-2a47-4865-b3cc-4579e3b9fef8}" record_timestamp="1449069303215" record_key="anti_chaoswh_main_sc_brt_bretonniawh_main_sc_emp_empire">
+<attitude_base>50</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>0.75</negative_attitude_multiplier>
+<positive_attitude_multiplier>1.5</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_emp_empire</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{f62f41e7-5672-4a49-9796-a1f99a90f923}" record_timestamp="1481032050361" record_key="anti_chaoswh_main_sc_chs_chaoswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{371c9abb-efdf-407b-a0b4-0e422c9681bb}" record_timestamp="1481032050359" record_key="anti_chaoswh_main_sc_dwf_dwarfswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{901f1db3-8d22-43d6-aff1-2d45224cda15}" record_timestamp="1449069304152" record_key="anti_chaoswh_main_sc_dwf_dwarfswh_main_sc_brt_bretonnia">
+<attitude_base>50</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>0.75</negative_attitude_multiplier>
+<positive_attitude_multiplier>1.5</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{abcce33c-7782-4d15-8f7a-7c8d31047dd8}" record_timestamp="1449069304259" record_key="anti_chaoswh_main_sc_dwf_dwarfswh_main_sc_dwf_dwarfs">
+<attitude_base>50</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>0.75</negative_attitude_multiplier>
+<positive_attitude_multiplier>1.5</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{f9575694-8512-4532-b751-71bf30179c06}" record_timestamp="1449069304313" record_key="anti_chaoswh_main_sc_dwf_dwarfswh_main_sc_emp_empire">
+<attitude_base>50</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>0.75</negative_attitude_multiplier>
+<positive_attitude_multiplier>1.5</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_emp_empire</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{75198d21-e28e-41e4-9d66-6a9597ab2430}" record_timestamp="1481032050363" record_key="anti_chaoswh_main_sc_emp_empirewh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{336ba4e6-aea4-442f-8583-fb8dde570170}" record_timestamp="1449069303825" record_key="anti_chaoswh_main_sc_emp_empirewh_main_sc_brt_bretonnia">
+<attitude_base>50</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>0.75</negative_attitude_multiplier>
+<positive_attitude_multiplier>1.5</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{8e9cea9a-8ea3-4c59-8012-4a670156f21a}" record_timestamp="1449069304806" record_key="anti_chaoswh_main_sc_emp_empirewh_main_sc_dwf_dwarfs">
+<attitude_base>50</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>0.75</negative_attitude_multiplier>
+<positive_attitude_multiplier>1.5</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{40f66243-4351-443d-b302-0d1d9a1ac7ad}" record_timestamp="1449157209659" record_key="anti_chaoswh_main_sc_emp_empirewh_main_sc_emp_empire">
+<attitude_base>50</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>0.75</negative_attitude_multiplier>
+<positive_attitude_multiplier>1.5</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_emp_empire</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{c52c2fcf-e4a8-404c-9e6d-e08db028fe8c}" record_timestamp="1481032050362" record_key="anti_chaoswh_main_sc_grn_greenskinswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{d5cac47f-a246-4eb6-98b6-8896f65934b0}" record_timestamp="1481032050366" record_key="anti_chaoswh_main_sc_grn_savage_orcswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{46716750-a460-45a4-84fe-e59cf4ae020d}" record_timestamp="1481032050365" record_key="anti_chaoswh_main_sc_ksl_kislevwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{b4669680-859e-4a25-967f-7b7bbb0c23dd}" record_timestamp="1481032050369" record_key="anti_chaoswh_main_sc_nor_norscawh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{5a719836-3d8c-4f4a-9e23-16c3e3068848}" record_timestamp="1481032050367" record_key="anti_chaoswh_main_sc_teb_tebwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{e2ffcee3-3e7d-4e92-9c4e-45742ee1dbf6}" record_timestamp="1481032050326" record_key="anti_chaoswh_main_sc_vmp_vampire_countswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>anti_chaos</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{86dcb964-12e2-495a-bdcc-1214e2184a58}" record_timestamp="1481032050326" record_key="defaultwh_main_sc_brt_bretonniawh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>default</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{d0c5999a-a0b5-45c5-a1fd-96ed5effa87f}" record_timestamp="1481032050328" record_key="defaultwh_main_sc_chs_chaoswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>default</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{a0d86c4b-f345-4cb3-9bb1-e262701f146c}" record_timestamp="1481032050327" record_key="defaultwh_main_sc_dwf_dwarfswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>default</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{82d6af61-f5ba-496f-93ee-836405837918}" record_timestamp="1481032050329" record_key="defaultwh_main_sc_emp_empirewh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>default</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{a013c9d1-2179-4599-a76e-883868766938}" record_timestamp="1481032050328" record_key="defaultwh_main_sc_grn_greenskinswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>default</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{644b8156-0a81-4d31-b27b-4a8828125ae7}" record_timestamp="1481032050330" record_key="defaultwh_main_sc_grn_savage_orcswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>default</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{cd3c7ea5-5927-4680-9377-dc3c891125b1}" record_timestamp="1481032050330" record_key="defaultwh_main_sc_ksl_kislevwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>default</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{05227abc-e6a9-4cd6-99e7-8270534dab92}" record_timestamp="1481032050332" record_key="defaultwh_main_sc_nor_norscawh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>default</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{ebdaaf1c-32d0-439a-9094-08c0bc577dea}" record_timestamp="1481032050331" record_key="defaultwh_main_sc_teb_tebwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>default</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{e4b98695-2f20-4ef2-8453-122e08ccc514}" record_timestamp="1481032050333" record_key="defaultwh_main_sc_vmp_vampire_countswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>default</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{968681a0-3d22-4264-8e32-f52664ab79f7}" record_timestamp="1479325105977" record_key="dislikes_beastmenwh_dlc05_sc_wef_wood_elveswh_dlc03_sc_bst_beastmen">
+<attitude_base>-100</attitude_base>
+<component_id>dislikes_beastmen</component_id>
+<negative_attitude_multiplier>1.5</negative_attitude_multiplier>
+<positive_attitude_multiplier>0.5</positive_attitude_multiplier>
+<source>wh_dlc05_sc_wef_wood_elves</source>
+<target>wh_dlc03_sc_bst_beastmen</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{e1a09a7f-f8e1-4976-af2e-c6f178c0e04f}" record_timestamp="1481032050317" record_key="dislikes_beastmenwh_dlc05_sc_wef_wood_elveswh_dlc05_sc_wef_wood_elves">
+<attitude_base>0</attitude_base>
+<component_id>dislikes_beastmen</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_dlc05_sc_wef_wood_elves</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{36759480-f9e0-4ce8-8a9b-0c9a32d947d8}" record_timestamp="1481886741260" record_key="dislikes_beastmenwh_dlc05_sc_wef_wood_elveswh_main_sc_brt_bretonnia">
+<attitude_base>-10</attitude_base>
+<component_id>dislikes_beastmen</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_dlc05_sc_wef_wood_elves</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{bf81bd52-9761-4467-9abb-735c90e5b2b7}" record_timestamp="1481032050332" record_key="dislikes_beastmenwh_main_sc_brt_bretonniawh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_beastmen</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{4beb71b8-6811-47c9-b8ac-acd65eb8162c}" record_timestamp="1481032050335" record_key="dislikes_beastmenwh_main_sc_chs_chaoswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_beastmen</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{cbacd585-5446-4efd-8c13-4c076a29ba0e}" record_timestamp="1481032050334" record_key="dislikes_beastmenwh_main_sc_dwf_dwarfswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_beastmen</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{df035e4e-89f1-47d6-861d-5519ea3c4a81}" record_timestamp="1481032050336" record_key="dislikes_beastmenwh_main_sc_emp_empirewh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_beastmen</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{aa92a501-054f-4126-afed-073793009db2}" record_timestamp="1481032050335" record_key="dislikes_beastmenwh_main_sc_grn_greenskinswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_beastmen</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{fef0e381-bbe5-45b9-8826-9378ae195d82}" record_timestamp="1481032050371" record_key="dislikes_beastmenwh_main_sc_grn_savage_orcswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_beastmen</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{56637c19-9387-4321-b553-d015da912183}" record_timestamp="1481032050370" record_key="dislikes_beastmenwh_main_sc_ksl_kislevwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_beastmen</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{bd1b4351-ed39-4ac1-9a9b-578b241ce42b}" record_timestamp="1481032050374" record_key="dislikes_beastmenwh_main_sc_nor_norscawh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_beastmen</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{8d85596d-6eaf-46ef-a424-58da2667bac0}" record_timestamp="1481032050373" record_key="dislikes_beastmenwh_main_sc_teb_tebwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_beastmen</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{8b9290b0-9597-44de-a159-172e4bf1d841}" record_timestamp="1481032050376" record_key="dislikes_beastmenwh_main_sc_vmp_vampire_countswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_beastmen</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{9a5110fc-d974-45b5-8e47-829d91e49794}" record_timestamp="1481029452538" record_key="dislikes_bretonniawh_dlc03_sc_bst_beastmenwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-100</attitude_base>
+<component_id>dislikes_bretonnia</component_id>
+<negative_attitude_multiplier>4</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_dlc03_sc_bst_beastmen</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{01db5cc6-12ff-45f4-b64a-e3608467df3b}" record_timestamp="1481032050375" record_key="dislikes_bretonniawh_main_sc_brt_bretonniawh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_bretonnia</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{9fd1b508-f10d-4f53-b5d2-b9de7ceb40c2}" record_timestamp="1449250862554" record_key="dislikes_bretonniawh_main_sc_brt_bretonniawh_main_sc_brt_bretonnia">
+<attitude_base>-15</attitude_base>
+<component_id>dislikes_bretonnia</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{63a99ab9-60ea-41a2-9f8f-1d69d89456e2}" record_timestamp="1481032050379" record_key="dislikes_bretonniawh_main_sc_chs_chaoswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_bretonnia</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{52b8ce65-4eb2-4292-96eb-739bad4ce105}" record_timestamp="1481032050377" record_key="dislikes_bretonniawh_main_sc_dwf_dwarfswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_bretonnia</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{0ad1d4a3-5e00-4a88-91b7-417b136c23ac}" record_timestamp="1449250862554" record_key="dislikes_bretonniawh_main_sc_dwf_dwarfswh_main_sc_brt_bretonnia">
+<attitude_base>-15</attitude_base>
+<component_id>dislikes_bretonnia</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{aaca5e48-0c6f-4db3-8313-0691c34bd35b}" record_timestamp="1481032050381" record_key="dislikes_bretonniawh_main_sc_emp_empirewh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_bretonnia</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{42daec28-7acb-4fd6-b040-26cf98f69074}" record_timestamp="1449250862554" record_key="dislikes_bretonniawh_main_sc_emp_empirewh_main_sc_brt_bretonnia">
+<attitude_base>-15</attitude_base>
+<component_id>dislikes_bretonnia</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{d328ada5-9e07-4434-9ae8-8d485e055814}" record_timestamp="1481032050380" record_key="dislikes_bretonniawh_main_sc_grn_greenskinswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_bretonnia</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{6859be73-fb9d-4261-ac29-51a5473b79ff}" record_timestamp="1481032050384" record_key="dislikes_bretonniawh_main_sc_grn_savage_orcswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_bretonnia</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{0eed8be3-cedf-419f-b782-0f1a885bdc03}" record_timestamp="1481032050382" record_key="dislikes_bretonniawh_main_sc_ksl_kislevwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_bretonnia</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{40b3ac5e-50c9-4b01-b457-476141270717}" record_timestamp="1481032050386" record_key="dislikes_bretonniawh_main_sc_nor_norscawh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_bretonnia</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{59c1c849-d044-4cfe-b84a-0b2b02ebc7ec}" record_timestamp="1481032050385" record_key="dislikes_bretonniawh_main_sc_teb_tebwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_bretonnia</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{6308025b-656f-475c-9b11-1ebc626847d7}" record_timestamp="1481032050325" record_key="dislikes_bretonniawh_main_sc_vmp_vampire_countswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_bretonnia</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{818347be-4f69-4dd9-b204-a2f56b6ff349}" record_timestamp="1481032050324" record_key="dislikes_dwarfswh_main_sc_brt_bretonniawh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_dwarfs</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{ef0d7d92-decd-4c34-bf64-9bcedefa3c84}" record_timestamp="1449250862554" record_key="dislikes_dwarfswh_main_sc_brt_bretonniawh_main_sc_dwf_dwarfs">
+<attitude_base>-15</attitude_base>
+<component_id>dislikes_dwarfs</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{eeefae8b-3b91-482a-a985-d0be58d57279}" record_timestamp="1481032050347" record_key="dislikes_dwarfswh_main_sc_chs_chaoswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_dwarfs</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{05ee7e82-d2af-4017-b8ef-cbd9bc5c7d9d}" record_timestamp="1481032050346" record_key="dislikes_dwarfswh_main_sc_dwf_dwarfswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_dwarfs</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{45b192e8-fed4-4b08-9e9f-412eda283a53}" record_timestamp="1449250862554" record_key="dislikes_dwarfswh_main_sc_dwf_dwarfswh_main_sc_dwf_dwarfs">
+<attitude_base>-15</attitude_base>
+<component_id>dislikes_dwarfs</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{e8208c3a-da08-49e7-b685-d4debc33e8eb}" record_timestamp="1481032050349" record_key="dislikes_dwarfswh_main_sc_emp_empirewh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_dwarfs</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{03135c46-ee14-4413-b8f5-beefda9e94e5}" record_timestamp="1449250862554" record_key="dislikes_dwarfswh_main_sc_emp_empirewh_main_sc_dwf_dwarfs">
+<attitude_base>-15</attitude_base>
+<component_id>dislikes_dwarfs</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{fa4b135a-18c7-47e3-a1ea-e59cc206f273}" record_timestamp="1481032050348" record_key="dislikes_dwarfswh_main_sc_grn_greenskinswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_dwarfs</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{b9616a45-4703-4263-8f4a-5567ee8f780a}" record_timestamp="1481032050350" record_key="dislikes_dwarfswh_main_sc_grn_savage_orcswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_dwarfs</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{6c72a4b8-75bc-4e3a-bc86-c252f42691de}" record_timestamp="1481032050349" record_key="dislikes_dwarfswh_main_sc_ksl_kislevwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_dwarfs</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{9e459a82-50ec-4c6d-aebe-2e5a377c9f98}" record_timestamp="1481032050351" record_key="dislikes_dwarfswh_main_sc_nor_norscawh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_dwarfs</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{d5fb6117-d307-45cf-b693-bf6e09a812f4}" record_timestamp="1481032050351" record_key="dislikes_dwarfswh_main_sc_teb_tebwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_dwarfs</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{800ddc74-c01e-447f-a772-96d9ef61bf60}" record_timestamp="1481032050353" record_key="dislikes_dwarfswh_main_sc_vmp_vampire_countswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_dwarfs</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{9490cd18-12e1-4973-8f89-481adec29edd}" record_timestamp="1481029452538" record_key="dislikes_empirewh_dlc03_sc_bst_beastmenwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-100</attitude_base>
+<component_id>dislikes_empire</component_id>
+<negative_attitude_multiplier>4</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_dlc03_sc_bst_beastmen</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{e94dbc98-177d-4686-a57b-e3fe0e8bf784}" record_timestamp="1481032050352" record_key="dislikes_empirewh_main_sc_brt_bretonniawh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_empire</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{af454157-b62e-4907-a843-70becd41df8d}" record_timestamp="1449250862554" record_key="dislikes_empirewh_main_sc_brt_bretonniawh_main_sc_emp_empire">
+<attitude_base>-15</attitude_base>
+<component_id>dislikes_empire</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_emp_empire</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{d83f59aa-5265-4935-847b-9673f91aa106}" record_timestamp="1481032050354" record_key="dislikes_empirewh_main_sc_chs_chaoswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_empire</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{b56c1773-705c-48d3-b52e-2e1cc92cfe38}" record_timestamp="1481032050354" record_key="dislikes_empirewh_main_sc_dwf_dwarfswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_empire</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{f2a622f0-885f-4323-9cfe-d7ae96df424f}" record_timestamp="1449250862554" record_key="dislikes_empirewh_main_sc_dwf_dwarfswh_main_sc_emp_empire">
+<attitude_base>-15</attitude_base>
+<component_id>dislikes_empire</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_emp_empire</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{a0b32f44-7ece-4689-a9f6-07cd7b2092cb}" record_timestamp="1481032050356" record_key="dislikes_empirewh_main_sc_emp_empirewh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_empire</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{9d2ef63f-8c2a-4dd0-b247-1021873f2b20}" record_timestamp="1449250862554" record_key="dislikes_empirewh_main_sc_emp_empirewh_main_sc_emp_empire">
+<attitude_base>-15</attitude_base>
+<component_id>dislikes_empire</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_emp_empire</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{d42f1f8e-411a-43d7-beff-001ba39b8619}" record_timestamp="1481032050355" record_key="dislikes_empirewh_main_sc_grn_greenskinswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_empire</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{17a5896d-324b-49ac-94ac-54d7236238c3}" record_timestamp="1481032050357" record_key="dislikes_empirewh_main_sc_grn_savage_orcswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_empire</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{c355d364-4ad2-4b97-a5de-55ee1b48b693}" record_timestamp="1481032050356" record_key="dislikes_empirewh_main_sc_ksl_kislevwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_empire</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{6c73b149-3e9a-4ca9-b96f-b3d8d4b15268}" record_timestamp="1481032050338" record_key="dislikes_empirewh_main_sc_nor_norscawh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_empire</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{d9ef805a-06af-49a6-83aa-dff0c8520135}" record_timestamp="1481032050337" record_key="dislikes_empirewh_main_sc_teb_tebwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_empire</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{20e02d71-9c14-44e2-a228-b88d95cb02c2}" record_timestamp="1481032050339" record_key="dislikes_empirewh_main_sc_vmp_vampire_countswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>dislikes_empire</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{a1feb8d8-ed67-4583-bc3b-8c27c09824c7}" record_timestamp="1481032050339" record_key="likes_vampireswh_main_sc_brt_bretonniawh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>likes_vampires</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{e4091dd5-d335-4f21-bc33-61119c68fa82}" record_timestamp="1481032050341" record_key="likes_vampireswh_main_sc_chs_chaoswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>likes_vampires</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{bc7edffc-37a2-4971-9da9-c666851f128b}" record_timestamp="1481032050340" record_key="likes_vampireswh_main_sc_dwf_dwarfswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>likes_vampires</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{0a7d5823-f872-4af1-a300-a92c510ced91}" record_timestamp="1481032050342" record_key="likes_vampireswh_main_sc_emp_empirewh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>likes_vampires</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{035172c2-e277-448a-b26f-308407cce4bb}" record_timestamp="1481032050341" record_key="likes_vampireswh_main_sc_grn_greenskinswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>likes_vampires</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{5897e98c-dbcf-49be-b23a-d5bbe90b92ec}" record_timestamp="1454089983397" record_key="likes_vampireswh_main_sc_grn_greenskinswh_main_sc_vmp_vampire_counts">
+<attitude_base>10</attitude_base>
+<component_id>likes_vampires</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_main_sc_vmp_vampire_counts</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{d4098b35-ca5e-475b-9d98-694d2e316b94}" record_timestamp="1481032050343" record_key="likes_vampireswh_main_sc_grn_savage_orcswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>likes_vampires</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{81a3a1b4-f75c-4347-95b5-f68c774a957a}" record_timestamp="1481032050343" record_key="likes_vampireswh_main_sc_ksl_kislevwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>likes_vampires</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{4abd90a9-4f94-45ee-af98-25ebb82e11d8}" record_timestamp="1481032050345" record_key="likes_vampireswh_main_sc_nor_norscawh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>likes_vampires</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{6f4a0f07-e83b-4acb-bde1-1a5c7045161f}" record_timestamp="1481032050344" record_key="likes_vampireswh_main_sc_teb_tebwh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>likes_vampires</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+<cai_personality_cultural_relations_overrides record_uuid="{e038b428-c142-42c1-92a4-e788185b0572}" record_timestamp="1481032050345" record_key="likes_vampireswh_main_sc_vmp_vampire_countswh_dlc05_sc_wef_wood_elves">
+<attitude_base>-30</attitude_base>
+<component_id>likes_vampires</component_id>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_dlc05_sc_wef_wood_elves</target>
+</cai_personality_cultural_relations_overrides>
+</dataroot>

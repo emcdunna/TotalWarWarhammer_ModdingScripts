@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdir_events_incident_options.xsd" export_time="Mon Aug 24 09:57:59 2015" revision="26" export_branch="C:/fetch_c/warhammer/binaries" export_user="bob">
+<edit_uuid>e1a5f114-8444-4967-9a6c-3846daa381bc</edit_uuid>
+<cdir_events_incident_options record_uuid="{c93737e4-63dc-409b-87b8-a9c7f523917f}" record_key="CND_ALLIED_WITH">
+<option_key>CND_ALLIED_WITH</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{1f4b0846-bfad-49c1-9865-d19475b89070}" record_timestamp="1375976237844" record_key="CND_ALLIED_WITH_SUBCULTURE">
+<option_key>CND_ALLIED_WITH_SUBCULTURE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0931b9b3-281d-405c-b68e-fac9c042ca90}" record_key="CND_ALLY_SHOGUN">
+<option_key>CND_ALLY_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{58b01180-b3af-4906-b878-66545cdba62b}" record_timestamp="1376421282862" record_key="CND_ARMY_CAP_FREE">
+<option_key>CND_ARMY_CAP_FREE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d902d0a3-1cf6-4c94-b588-e80942b1017a}" record_key="CND_ARMY_IN_ENEMY_REGION">
+<option_key>CND_ARMY_IN_ENEMY_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{66116b61-6726-4d79-843a-f2054537c77e}" record_key="CND_ASHIKAGA_SHOGUN">
+<option_key>CND_ASHIKAGA_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4bcc7cf2-cb1c-4e36-bfc2-65cf884f7a4f}" record_key="CND_BUILDING_CHAIN">
+<option_key>CND_BUILDING_CHAIN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{2965a99a-6d3d-4315-b72e-154fd305de95}" record_key="CND_BUILDING_CHAIN_AVAILABLE">
+<option_key>CND_BUILDING_CHAIN_AVAILABLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d43ede9a-0428-4f98-bd93-b63116a32ac4}" record_key="CND_BUILDING_LEVEL">
+<option_key>CND_BUILDING_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{371abbdf-ec42-4858-b5b2-fc230f83beda}" record_key="CND_BUILDING_LEVEL_AVAILABLE">
+<option_key>CND_BUILDING_LEVEL_AVAILABLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ce3ca062-e062-44d5-a12d-61f479a33ba4}" record_key="CND_BUILDING_LEVEL_HALF_REGIONS">
+<option_key>CND_BUILDING_LEVEL_HALF_REGIONS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{5353dcd1-3e94-4f0f-ada3-8645302ec860}" record_key="CND_BUILDING_LEVEL_ONE_QUARTER_REGIONS">
+<option_key>CND_BUILDING_LEVEL_ONE_QUARTER_REGIONS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{7109f586-c80e-462d-934a-a3256e5ada3e}" record_key="CND_BUILDING_LEVEL_THREE_QUARTER_REGIONS">
+<option_key>CND_BUILDING_LEVEL_THREE_QUARTER_REGIONS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{812ac556-cd69-4556-8b6c-58fe5a0072fd}" record_key="CND_CAMPAIGN">
+<option_key>CND_CAMPAIGN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{71b3effa-0371-4f67-9dbd-a30ac15b205e}" record_key="CND_CAN_RECRUIT_UNIT">
+<option_key>CND_CAN_RECRUIT_UNIT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c07a567c-d75b-4a5a-a602-6e7793dd7488}" record_key="CND_CAN_RECRUIT_UNIT_CASTE">
+<option_key>CND_CAN_RECRUIT_UNIT_CASTE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{02ae4070-e060-44f7-a6a9-715e28231a35}" record_key="CND_CAN_RECRUIT_UNIT_CATEGORY">
+<option_key>CND_CAN_RECRUIT_UNIT_CATEGORY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{70440a7e-abab-4e2d-9be3-8e97600d54a7}" record_key="CND_CAN_RECRUIT_UNIT_CLASS">
+<option_key>CND_CAN_RECRUIT_UNIT_CLASS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{3cc1cb0f-29fc-4cf1-be8f-9ea0329c9c76}" record_key="CND_CONSTRUCTING_BUILDING_CHAIN">
+<option_key>CND_CONSTRUCTING_BUILDING_CHAIN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{de151fd8-53b5-4654-a315-ad64f5ef34e9}" record_key="CND_CONSTRUCTING_BUILDING_LEVEL">
+<option_key>CND_CONSTRUCTING_BUILDING_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b1bfa328-2750-426e-addd-923c526c5abb}" record_key="CND_CONSTRUCTING_NOT_BUILDING_CHAIN">
+<option_key>CND_CONSTRUCTING_NOT_BUILDING_CHAIN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{bfb66fb6-2611-444f-a4d7-35d843475ed9}" record_key="CND_CONSTRUCTING_NOT_BUILDING_LEVEL">
+<option_key>CND_CONSTRUCTING_NOT_BUILDING_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{1f802af3-00ba-4b2e-9fc8-ed5bf18f05a9}" record_key="CND_DILEMMA_CHOSEN_FIRST">
+<option_key>CND_DILEMMA_CHOSEN_FIRST</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c715bad5-5834-46c7-bfbd-7c1cdb9ebac8}" record_key="CND_DILEMMA_CHOSEN_SECOND">
+<option_key>CND_DILEMMA_CHOSEN_SECOND</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{12a8df09-9cc7-4b96-a8de-b738abe163ca}" record_key="CND_DILEMMA_GENERATED">
+<option_key>CND_DILEMMA_GENERATED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{cea0a989-9aa1-48ef-9904-59e109fe1b28}" record_key="CND_DILEMMA_NOT_CHOSEN_FIRST">
+<option_key>CND_DILEMMA_NOT_CHOSEN_FIRST</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f460e956-6f71-46b0-90eb-d5a88205f115}" record_key="CND_DILEMMA_NOT_CHOSEN_SECOND">
+<option_key>CND_DILEMMA_NOT_CHOSEN_SECOND</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{af89f49e-c3f4-4332-ab07-6b5503cae8bd}" record_key="CND_DILEMMA_NOT_GENERATED">
+<option_key>CND_DILEMMA_NOT_GENERATED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{fab40d2d-04ae-4539-b096-5e9f8a0ca1a7}" record_key="CND_ENEMY_ARMY_IN_REGION">
+<option_key>CND_ENEMY_ARMY_IN_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0a420802-932f-48e7-b967-9f3a87f7538f}" record_key="CND_FACTION">
+<option_key>CND_FACTION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{16bc41cc-ec85-4c70-8c0b-635cb368e9c7}" record_key="CND_FIRST_ROUND">
+<option_key>CND_FIRST_ROUND</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{fb4aa8a7-10d6-4b4e-a440-09cce9993cd1}" record_key="CND_HAS_AGENT">
+<option_key>CND_HAS_AGENT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b12ca61d-b046-4020-a82e-0e234b04b048}" record_key="CND_HAS_ARMY">
+<option_key>CND_HAS_ARMY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{3085bc11-023c-4ff6-b8ab-31ac0dee157d}" record_key="CND_HAS_NAVY">
+<option_key>CND_HAS_NAVY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f526a255-a511-46c4-a09f-e9edf616c775}" record_key="CND_INCIDENT_GENERATED">
+<option_key>CND_INCIDENT_GENERATED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{683dccb9-cf06-4650-a64f-316ce2912daf}" record_key="CND_INCIDENT_NOT_GENERATED">
+<option_key>CND_INCIDENT_NOT_GENERATED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{778733fe-93b1-4991-aff4-ae51809226c1}" record_key="CND_IS_BECOMING_SHOGUN">
+<option_key>CND_IS_BECOMING_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{3e4bcd1f-ccf4-46b1-80ff-7b22a33f645a}" record_key="CND_IS_SHOGUN">
+<option_key>CND_IS_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{58adeb83-e64d-4749-892e-8ccc8651477b}" record_key="CND_LAST_ROUND">
+<option_key>CND_LAST_ROUND</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a8b8f793-1db8-496d-92e6-11926f89e53e}" record_key="CND_MAX_ALLIED">
+<option_key>CND_MAX_ALLIED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{77f7146f-b8ec-49f2-ab73-2b8c7397f7b3}" record_key="CND_MAX_ARTILLERY_CATEGORY_RATIO">
+<option_key>CND_MAX_ARTILLERY_CATEGORY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c92b296c-5e2f-4af2-8a56-7cf287689e7c}" record_key="CND_MAX_BUDDHIST_RATIO">
+<option_key>CND_MAX_BUDDHIST_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ecef54e0-fefc-4354-b37a-7610ed5be6f1}" record_key="CND_MAX_CAVALRY_CATEGORY_RATIO">
+<option_key>CND_MAX_CAVALRY_CATEGORY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{884489c4-663a-435c-b317-21d13611b2dc}" record_key="CND_MAX_CHRISTIAN_RATIO">
+<option_key>CND_MAX_CHRISTIAN_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{010a9984-963a-4ed7-b2a8-4922939105f2}" record_key="CND_MAX_CIVIL_TECHNOLOGY_RATIO">
+<option_key>CND_MAX_CIVIL_TECHNOLOGY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f7b3c7db-a455-4054-a000-482856e6fe5d}" record_key="CND_MAX_COASTAL_REGIONS_OWNED">
+<option_key>CND_MAX_COASTAL_REGIONS_OWNED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{dc6acf11-74ee-4fac-b835-2498ff24f16f}" record_key="CND_MAX_DAIMYO_HONOUR">
+<option_key>CND_MAX_DAIMYO_HONOUR</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d87fad30-0b34-47a6-9c1d-a37df1fd47cf}" record_key="CND_MAX_ENGINEERING_TECHNOLOGY_RATIO">
+<option_key>CND_MAX_ENGINEERING_TECHNOLOGY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{53626351-e485-4df1-a120-a192b06f3a15}" record_key="CND_MAX_FACTION_NEIGHBOUR_ALLIED">
+<option_key>CND_MAX_FACTION_NEIGHBOUR_ALLIED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{8a1d37c0-61c5-49ad-92b8-68c7712c332e}" record_key="CND_MAX_FACTION_NEIGHBOUR_MILITARY_ACCESS_GIVEN">
+<option_key>CND_MAX_FACTION_NEIGHBOUR_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{cc0b7a31-429a-4049-9ea6-3de56c85d28d}" record_key="CND_MAX_FACTION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED">
+<option_key>CND_MAX_FACTION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{9ab69230-8330-49cd-bc16-7f1b513552e9}" record_key="CND_MAX_FACTION_NEIGHBOUR_NEUTRAL">
+<option_key>CND_MAX_FACTION_NEIGHBOUR_NEUTRAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{914c36e5-fcce-4013-a0d9-e5d02297757a}" record_key="CND_MAX_FACTION_NEIGHBOUR_PROTECTORATES">
+<option_key>CND_MAX_FACTION_NEIGHBOUR_PROTECTORATES</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{93d8aa9b-71e8-402a-bfa6-c443d420cd76}" record_key="CND_MAX_FACTION_NEIGHBOUR_TRADE">
+<option_key>CND_MAX_FACTION_NEIGHBOUR_TRADE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{17d0b10f-0cb3-4dd1-9452-488e59644a3b}" record_key="CND_MAX_FACTION_NEIGHBOUR_WAR">
+<option_key>CND_MAX_FACTION_NEIGHBOUR_WAR</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e0d20c43-95a6-43db-8f6e-95231a845927}" record_key="CND_MAX_FAME">
+<option_key>CND_MAX_FAME</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{68ac5983-dde5-4d98-9857-67a8654e1d0e}" record_key="CND_MAX_FAME_LEVEL">
+<option_key>CND_MAX_FAME_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{1d11f9f6-e82b-49bd-8a81-c848586e79c2}" record_key="CND_MAX_FAME_RANK">
+<option_key>CND_MAX_FAME_RANK</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{92097a1a-854f-4a20-822b-73302e93ad29}" record_timestamp="1375976238663" record_key="CND_MAX_FORCE_COUNT">
+<option_key>CND_MAX_FORCE_COUNT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{876a6e3f-eebd-4c86-8293-69601b40e7dc}" record_key="CND_MAX_HIGHEST_FAME_LEVEL">
+<option_key>CND_MAX_HIGHEST_FAME_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{71c6100d-2921-4c20-8d1c-c9fc03eba514}" record_key="CND_MAX_INFANTRY_MELEE_CATEGORY_RATIO">
+<option_key>CND_MAX_INFANTRY_MELEE_CATEGORY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{706d0a7b-883c-4abf-8067-c3514c584e55}" record_key="CND_MAX_INFANTRY_RANGED_CATEGORY_RATIO">
+<option_key>CND_MAX_INFANTRY_RANGED_CATEGORY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e52626d8-ec3f-4d0a-ab0a-ea22d4d3b7cf}" record_key="CND_MAX_LAND_UNIT_COUNT">
+<option_key>CND_MAX_LAND_UNIT_COUNT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{288fa153-f9b6-4167-ac2f-e68a3c61fa1f}" record_timestamp="1375976238710" record_key="CND_MAX_MERCENARY_UNIT_COUNT">
+<option_key>CND_MAX_MERCENARY_UNIT_COUNT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ea76e8af-ef4a-4b10-ae98-2a42c311d145}" record_key="CND_MAX_MILITARY_ACCESS_GIVEN">
+<option_key>CND_MAX_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{21baf5ac-c581-4d25-877c-b19ebb470b99}" record_key="CND_MAX_MILITARY_ACCESS_RECEIVED">
+<option_key>CND_MAX_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a143fe76-b488-4b1e-bf40-9a7534eb20de}" record_key="CND_MAX_MILITARY_TECHNOLOGY_RATIO">
+<option_key>CND_MAX_MILITARY_TECHNOLOGY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e74077f9-5b87-4c0b-8e0d-09e6fb4ca34f}" record_key="CND_MAX_NAVAL_HEAVY_CATEGORY_RATIO">
+<option_key>CND_MAX_NAVAL_HEAVY_CATEGORY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{41edfddd-dc5d-4043-933e-2261e61e6ad9}" record_key="CND_MAX_NAVAL_LIGHT_CATEGORY_RATIO">
+<option_key>CND_MAX_NAVAL_LIGHT_CATEGORY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e6714832-5f00-4e69-9f0b-fe8ab9ea6d60}" record_key="CND_MAX_NAVAL_MEDIUM_CATEGORY_RATIO">
+<option_key>CND_MAX_NAVAL_MEDIUM_CATEGORY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{00e28289-10bf-4c72-8ebe-61c753a1c432}" record_key="CND_MAX_NAVAL_UNIT_COUNT">
+<option_key>CND_MAX_NAVAL_UNIT_COUNT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{da7de187-1af6-45b5-ba29-60060cccccdb}" record_key="CND_MAX_NEUTRAL">
+<option_key>CND_MAX_NEUTRAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{422fa107-a2f3-4631-8353-b00edaa5a4d2}" record_key="CND_MAX_PROTECTORATES">
+<option_key>CND_MAX_PROTECTORATES</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{443fa4d7-16c8-40ae-adf5-c94772b37d4f}" record_timestamp="1375976238566" record_key="CND_MAX_PROVINCES_FULLY_OWNED">
+<option_key>CND_MAX_PROVINCES_FULLY_OWNED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{bb3fa717-a95b-4632-a460-e5bf33d034ac}" record_key="CND_MAX_REGIONS_OWNED">
+<option_key>CND_MAX_REGIONS_OWNED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{9cbb2827-9ba5-410f-9a4f-ea254b568a6b}" record_key="CND_MAX_REGION_NEIGHBOUR_ALLIED">
+<option_key>CND_MAX_REGION_NEIGHBOUR_ALLIED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{dc8addc4-e97f-448a-b7a2-49aea47815ee}" record_key="CND_MAX_REGION_NEIGHBOUR_MILITARY_ACCESS_GIVEN">
+<option_key>CND_MAX_REGION_NEIGHBOUR_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c36c39a8-db2a-4535-bcc8-13c892ae8d64}" record_key="CND_MAX_REGION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED">
+<option_key>CND_MAX_REGION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{faf54c02-c538-4516-80a2-299b81b6c757}" record_key="CND_MAX_REGION_NEIGHBOUR_NEUTRAL">
+<option_key>CND_MAX_REGION_NEIGHBOUR_NEUTRAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{fbc7d4fe-5503-430b-950a-f4ceb47b1638}" record_key="CND_MAX_REGION_NEIGHBOUR_PROTECTORATES">
+<option_key>CND_MAX_REGION_NEIGHBOUR_PROTECTORATES</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{abcd3dc1-e9f1-400b-8e55-f38156e05a99}" record_key="CND_MAX_REGION_NEIGHBOUR_TRADE">
+<option_key>CND_MAX_REGION_NEIGHBOUR_TRADE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4d6eeb50-47e7-4b31-b48b-b9b33f9d1512}" record_key="CND_MAX_REGION_NEIGHBOUR_WAR">
+<option_key>CND_MAX_REGION_NEIGHBOUR_WAR</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{dd8aac9a-ac3a-4ac6-af36-4734fab57db6}" record_key="CND_MAX_REGULAR_EXPENDITURE">
+<option_key>CND_MAX_REGULAR_EXPENDITURE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{8cb94a69-2e94-4d9e-9330-8e8dd6af9597}" record_key="CND_MAX_REGULAR_EXPENDITURE_DIPLOMACY">
+<option_key>CND_MAX_REGULAR_EXPENDITURE_DIPLOMACY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a08665f6-b0d9-4281-967d-176759608488}" record_key="CND_MAX_REGULAR_EXPENDITURE_POLICING">
+<option_key>CND_MAX_REGULAR_EXPENDITURE_POLICING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{416a9092-e293-4c21-9b53-124020a3b0e3}" record_key="CND_MAX_REGULAR_EXPENDITURE_PROTECTORATE">
+<option_key>CND_MAX_REGULAR_EXPENDITURE_PROTECTORATE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a8ea9dad-3321-4139-9b85-dfc78b8011f2}" record_key="CND_MAX_REGULAR_EXPENDITURE_UPKEEP">
+<option_key>CND_MAX_REGULAR_EXPENDITURE_UPKEEP</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ff30e9b0-2859-49b5-9d64-4029751341b5}" record_key="CND_MAX_REGULAR_EXPENDITURE_UPKEEP_ARMY">
+<option_key>CND_MAX_REGULAR_EXPENDITURE_UPKEEP_ARMY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b5d1df40-3501-40e2-b2de-dd8f41cf7f7f}" record_key="CND_MAX_REGULAR_EXPENDITURE_UPKEEP_NAVY">
+<option_key>CND_MAX_REGULAR_EXPENDITURE_UPKEEP_NAVY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{78f7cf51-4c32-4820-b0c8-2349a3caa239}" record_key="CND_MAX_REGULAR_INCOME">
+<option_key>CND_MAX_REGULAR_INCOME</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b5299e22-c449-48ae-aaf2-8b8c1a17895a}" record_key="CND_MAX_REGULAR_INCOME_DIPLOMACY">
+<option_key>CND_MAX_REGULAR_INCOME_DIPLOMACY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c4b842bd-9bd1-404a-a1f9-6d48521f8575}" record_key="CND_MAX_REGULAR_INCOME_PROTECTORATE">
+<option_key>CND_MAX_REGULAR_INCOME_PROTECTORATE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{983bb735-29ac-4c7d-a9da-ffedade5ce86}" record_key="CND_MAX_REGULAR_INCOME_RAIDING">
+<option_key>CND_MAX_REGULAR_INCOME_RAIDING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c924a9f9-1f42-4b6d-853c-172714dd8b61}" record_key="CND_MAX_REGULAR_INCOME_TAXES">
+<option_key>CND_MAX_REGULAR_INCOME_TAXES</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{beef3281-ca7f-45e1-af34-825e4ec0a852}" record_key="CND_MAX_REGULAR_INCOME_TRADE">
+<option_key>CND_MAX_REGULAR_INCOME_TRADE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{7b1d9b7c-0600-43ba-9490-3a7702d1e8f0}" record_key="CND_MAX_TRADE">
+<option_key>CND_MAX_TRADE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f7f706d1-064e-45a8-be7c-5a0a942de1da}" record_key="CND_MAX_TRADE_NODE_OCCUPIED">
+<option_key>CND_MAX_TRADE_NODE_OCCUPIED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{eb1e492e-0a3e-4ff6-ad50-88ee380e66fa}" record_key="CND_MAX_TREASURY">
+<option_key>CND_MAX_TREASURY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{261cccf7-d0e5-45bd-954c-44b837a1a1ef}" record_key="CND_MAX_WAR">
+<option_key>CND_MAX_WAR</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c89ce4fe-a1a4-4f95-ae63-2c757ab4c00d}" record_key="CND_MIN_ALLIED">
+<option_key>CND_MIN_ALLIED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ec7323e7-ccc3-465b-b6c7-de718b60e07c}" record_key="CND_MIN_ARTILLERY_CATEGORY_RATIO">
+<option_key>CND_MIN_ARTILLERY_CATEGORY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0100740c-b5e6-4313-9df4-982aa37e247b}" record_key="CND_MIN_BUDDHIST_RATIO">
+<option_key>CND_MIN_BUDDHIST_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{39f230e7-d0de-4db9-9a99-e65f7d1eed31}" record_key="CND_MIN_CAVALRY_CATEGORY_RATIO">
+<option_key>CND_MIN_CAVALRY_CATEGORY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d8508c72-bf53-4bd7-a4dd-63fcf34a72b8}" record_key="CND_MIN_CHRISTIAN_RATIO">
+<option_key>CND_MIN_CHRISTIAN_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{36100545-aec3-4095-a089-10660fe2e597}" record_key="CND_MIN_CIVIL_TECHNOLOGY_RATIO">
+<option_key>CND_MIN_CIVIL_TECHNOLOGY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0606754d-1a12-4aa9-8d1e-0dcc287580f9}" record_key="CND_MIN_COASTAL_REGIONS_OWNED">
+<option_key>CND_MIN_COASTAL_REGIONS_OWNED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0ad5c308-ad5e-4d9d-a491-8528ff639f50}" record_key="CND_MIN_DAIMYO_HONOUR">
+<option_key>CND_MIN_DAIMYO_HONOUR</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{83c8eb4f-b0fd-4952-921e-39e1ffe4e380}" record_key="CND_MIN_ENGINEERING_TECHNOLOGY_RATIO">
+<option_key>CND_MIN_ENGINEERING_TECHNOLOGY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{09de3d3f-bad9-485d-8bec-b72d3b58ef92}" record_key="CND_MIN_FACTION_NEIGHBOUR_ALLIED">
+<option_key>CND_MIN_FACTION_NEIGHBOUR_ALLIED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c5843493-1abe-4426-8932-ea64fb0e4e32}" record_key="CND_MIN_FACTION_NEIGHBOUR_MILITARY_ACCESS_GIVEN">
+<option_key>CND_MIN_FACTION_NEIGHBOUR_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{940b94d2-bbe7-40ae-a74d-a9092ccc04f9}" record_key="CND_MIN_FACTION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED">
+<option_key>CND_MIN_FACTION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{1595dc26-79c5-482e-8491-25c234e4f42d}" record_key="CND_MIN_FACTION_NEIGHBOUR_NEUTRAL">
+<option_key>CND_MIN_FACTION_NEIGHBOUR_NEUTRAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c6a442e8-7291-403d-a07a-ef2d47e595d1}" record_key="CND_MIN_FACTION_NEIGHBOUR_PROTECTORATES">
+<option_key>CND_MIN_FACTION_NEIGHBOUR_PROTECTORATES</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a214c1cc-9caa-4573-bb10-e6c7254bc68f}" record_key="CND_MIN_FACTION_NEIGHBOUR_TRADE">
+<option_key>CND_MIN_FACTION_NEIGHBOUR_TRADE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b53db293-bafb-4edb-92ed-7740bdbdab1b}" record_key="CND_MIN_FACTION_NEIGHBOUR_WAR">
+<option_key>CND_MIN_FACTION_NEIGHBOUR_WAR</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{5280d0da-24d2-41ed-a6bd-dd3538ae2801}" record_key="CND_MIN_FAME">
+<option_key>CND_MIN_FAME</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{5c5973fb-452a-48e2-b07a-776a10f05407}" record_key="CND_MIN_FAME_LEVEL">
+<option_key>CND_MIN_FAME_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c30549b7-e494-47b2-9eb3-d0af3a839ae6}" record_key="CND_MIN_FAME_RANK">
+<option_key>CND_MIN_FAME_RANK</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{8d996d76-d81d-4f94-879e-ea05c5259195}" record_timestamp="1375976238640" record_key="CND_MIN_FORCE_COUNT">
+<option_key>CND_MIN_FORCE_COUNT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f8392cd5-885d-4898-b685-622b7720ceb5}" record_key="CND_MIN_HIGHEST_FAME_LEVEL">
+<option_key>CND_MIN_HIGHEST_FAME_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{52c0cedf-faf1-495a-834e-34efc1f0b921}" record_key="CND_MIN_INFANTRY_MELEE_CATEGORY_RATIO">
+<option_key>CND_MIN_INFANTRY_MELEE_CATEGORY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{9ad1a560-5528-4cdd-a038-ad7a4384d517}" record_key="CND_MIN_INFANTRY_RANGED_CATEGORY_RATIO">
+<option_key>CND_MIN_INFANTRY_RANGED_CATEGORY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{3c78f0e7-2204-490c-a21b-55344aaa8050}" record_key="CND_MIN_LAND_UNIT_COUNT">
+<option_key>CND_MIN_LAND_UNIT_COUNT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e8de6c2b-f7c7-4ff1-a7ac-117e1c3be947}" record_timestamp="1375976238687" record_key="CND_MIN_MERCENARY_UNIT_COUNT">
+<option_key>CND_MIN_MERCENARY_UNIT_COUNT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a6efda5b-7e6f-41f3-b746-83e5079f70a3}" record_key="CND_MIN_MILITARY_ACCESS_GIVEN">
+<option_key>CND_MIN_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{383633ef-abe8-46dd-af54-7bea45cc8b0c}" record_key="CND_MIN_MILITARY_ACCESS_RECEIVED">
+<option_key>CND_MIN_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a3d36b3f-d984-4abe-b09e-d5539e4c0167}" record_key="CND_MIN_MILITARY_TECHNOLOGY_RATIO">
+<option_key>CND_MIN_MILITARY_TECHNOLOGY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e6dc2d54-a0af-4cf2-84f0-365999e41c1c}" record_key="CND_MIN_NAVAL_HEAVY_CATEGORY_RATIO">
+<option_key>CND_MIN_NAVAL_HEAVY_CATEGORY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a84cf730-778b-4e47-8caa-055e61768af1}" record_key="CND_MIN_NAVAL_LIGHT_CATEGORY_RATIO">
+<option_key>CND_MIN_NAVAL_LIGHT_CATEGORY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{21197660-c92c-4812-a0d1-f7e75ce7e9ef}" record_key="CND_MIN_NAVAL_MEDIUM_CATEGORY_RATIO">
+<option_key>CND_MIN_NAVAL_MEDIUM_CATEGORY_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c1e77437-4994-4b83-a4a1-ec7b45d1df40}" record_key="CND_MIN_NAVAL_UNIT_COUNT">
+<option_key>CND_MIN_NAVAL_UNIT_COUNT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{84b88dd7-5f3d-4492-a546-9352bfc831f3}" record_key="CND_MIN_NEUTRAL">
+<option_key>CND_MIN_NEUTRAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0b627c1c-d2fd-4442-ab95-bf7975a12409}" record_key="CND_MIN_PROTECTORATES">
+<option_key>CND_MIN_PROTECTORATES</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{1910d0bc-344f-4957-93fa-8c3e82ebf61e}" record_timestamp="1375976238541" record_key="CND_MIN_PROVINCES_FULLY_OWNED">
+<option_key>CND_MIN_PROVINCES_FULLY_OWNED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{da22c5b2-8725-4792-b7e6-407e52901132}" record_key="CND_MIN_REGIONS_OWNED">
+<option_key>CND_MIN_REGIONS_OWNED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{02b11564-544b-4ff1-ade7-c13b44591c60}" record_key="CND_MIN_REGION_NEIGHBOUR_ALLIED">
+<option_key>CND_MIN_REGION_NEIGHBOUR_ALLIED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{64e88d0a-fc41-4d3b-b01b-78f3dc86cfde}" record_key="CND_MIN_REGION_NEIGHBOUR_MILITARY_ACCESS_GIVEN">
+<option_key>CND_MIN_REGION_NEIGHBOUR_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{11d3dd82-a8bc-43a8-a5b5-26721b962d67}" record_key="CND_MIN_REGION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED">
+<option_key>CND_MIN_REGION_NEIGHBOUR_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a50d2176-41be-4c67-8e24-1166d2abfe5d}" record_key="CND_MIN_REGION_NEIGHBOUR_NEUTRAL">
+<option_key>CND_MIN_REGION_NEIGHBOUR_NEUTRAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{68295ce9-c868-461a-aa00-2940de08de5b}" record_key="CND_MIN_REGION_NEIGHBOUR_PROTECTORATES">
+<option_key>CND_MIN_REGION_NEIGHBOUR_PROTECTORATES</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{acc3973c-9358-42de-9aec-9322b85135b4}" record_key="CND_MIN_REGION_NEIGHBOUR_TRADE">
+<option_key>CND_MIN_REGION_NEIGHBOUR_TRADE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c213be6c-d786-4ab9-8987-35a22c0f5606}" record_key="CND_MIN_REGION_NEIGHBOUR_WAR">
+<option_key>CND_MIN_REGION_NEIGHBOUR_WAR</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{364081cf-6ae2-43d9-b643-b77a0ab7f768}" record_key="CND_MIN_REGULAR_EXPENDITURE">
+<option_key>CND_MIN_REGULAR_EXPENDITURE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0d66f207-2446-4c4b-bf41-ebb1cfba8be9}" record_key="CND_MIN_REGULAR_EXPENDITURE_DIPLOMACY">
+<option_key>CND_MIN_REGULAR_EXPENDITURE_DIPLOMACY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{827b066a-3246-4733-8155-69b15cdd6504}" record_key="CND_MIN_REGULAR_EXPENDITURE_POLICING">
+<option_key>CND_MIN_REGULAR_EXPENDITURE_POLICING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{2a45da86-e2fb-4480-a5c0-ab48fba93e8f}" record_key="CND_MIN_REGULAR_EXPENDITURE_PROTECTORATE">
+<option_key>CND_MIN_REGULAR_EXPENDITURE_PROTECTORATE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d0c35060-7e16-4b2b-a879-e81d2041ec69}" record_key="CND_MIN_REGULAR_EXPENDITURE_UPKEEP">
+<option_key>CND_MIN_REGULAR_EXPENDITURE_UPKEEP</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{807cf943-15e6-46cf-a930-8b3118cef089}" record_key="CND_MIN_REGULAR_EXPENDITURE_UPKEEP_ARMY">
+<option_key>CND_MIN_REGULAR_EXPENDITURE_UPKEEP_ARMY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e65226a3-4fb0-45ac-a6e6-a5bd4398a9d3}" record_key="CND_MIN_REGULAR_EXPENDITURE_UPKEEP_NAVY">
+<option_key>CND_MIN_REGULAR_EXPENDITURE_UPKEEP_NAVY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4c0388d9-769b-419a-a4a3-acdfe8bbf4bc}" record_key="CND_MIN_REGULAR_INCOME">
+<option_key>CND_MIN_REGULAR_INCOME</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{8cdc0f73-590c-4104-852f-c295bac9e35b}" record_key="CND_MIN_REGULAR_INCOME_DIPLOMACY">
+<option_key>CND_MIN_REGULAR_INCOME_DIPLOMACY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d32e3381-6dd5-4b6e-8c99-78ca6ed20132}" record_key="CND_MIN_REGULAR_INCOME_PROTECTORATE">
+<option_key>CND_MIN_REGULAR_INCOME_PROTECTORATE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f6c2f658-3c20-4ce1-9170-29f8a07ce649}" record_key="CND_MIN_REGULAR_INCOME_RAIDING">
+<option_key>CND_MIN_REGULAR_INCOME_RAIDING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0858c71c-65a4-49c9-82eb-75d153ff4021}" record_key="CND_MIN_REGULAR_INCOME_TAXES">
+<option_key>CND_MIN_REGULAR_INCOME_TAXES</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f41bc132-1826-465e-b0b6-05ebf90b010c}" record_key="CND_MIN_REGULAR_INCOME_TRADE">
+<option_key>CND_MIN_REGULAR_INCOME_TRADE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{003b9b8c-55f7-4349-a019-aec8331f64a1}" record_key="CND_MIN_TRADE">
+<option_key>CND_MIN_TRADE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{47641be1-594f-42d7-81be-47040c092266}" record_key="CND_MIN_TRADE_NODE_OCCUPIED">
+<option_key>CND_MIN_TRADE_NODE_OCCUPIED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{6eb3e2ac-5e64-4c7c-989d-1a1861cdf209}" record_key="CND_MIN_TREASURY">
+<option_key>CND_MIN_TREASURY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{3c7927af-17d9-4cdc-8652-8a9e4e0e7208}" record_key="CND_MIN_WAR">
+<option_key>CND_MIN_WAR</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e08cd686-3763-495d-933b-e4d9cb8d30f6}" record_key="CND_MISSION_ACTIVE">
+<option_key>CND_MISSION_ACTIVE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{915a3606-1982-4516-9b95-6c66b1851794}" record_key="CND_MISSION_FAILED">
+<option_key>CND_MISSION_FAILED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0a7d313b-6383-431c-acba-f3fa790e07fd}" record_key="CND_MISSION_GENERATED">
+<option_key>CND_MISSION_GENERATED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{736740db-a7cc-4c9e-86c3-5e1253141752}" record_key="CND_MISSION_NOT_ACTIVE">
+<option_key>CND_MISSION_NOT_ACTIVE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{32f2a437-0ecf-43c6-91f8-8903f5518f8d}" record_key="CND_MISSION_NOT_GENERATED">
+<option_key>CND_MISSION_NOT_GENERATED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{2d58d27f-f797-49ab-b85f-ffd9d3358d6e}" record_key="CND_MISSION_SUCCEEDED">
+<option_key>CND_MISSION_SUCCEEDED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{eb8b1448-21fc-4dc8-84b2-a69ff6f80a7e}" record_key="CND_MULTIPLAYER">
+<option_key>CND_MULTIPLAYER</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{8f97bee2-6da1-432b-9bbb-4172295b3799}" record_timestamp="1376421282798" record_key="CND_NAVY_CAP_FREE">
+<option_key>CND_NAVY_CAP_FREE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{1cb9fd55-475d-48ac-8a0a-a01addf8c599}" record_key="CND_NEUTRAL_WITH">
+<option_key>CND_NEUTRAL_WITH</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d1f40de1-7a28-489b-8465-6ef32291cead}" record_key="CND_NOT_ALLIED_WITH">
+<option_key>CND_NOT_ALLIED_WITH</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0589089a-ab8c-4112-b8f6-167ab22cdc46}" record_timestamp="1375976237870" record_key="CND_NOT_ALLIED_WITH_SUBCULTURE">
+<option_key>CND_NOT_ALLIED_WITH_SUBCULTURE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4f58f071-ea1d-4038-b3f4-60c5dd33766b}" record_key="CND_NOT_ALLY_SHOGUN">
+<option_key>CND_NOT_ALLY_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{1b155773-f137-42a0-ab8f-a039e6297348}" record_timestamp="1376421282891" record_key="CND_NOT_ARMY_CAP_FREE">
+<option_key>CND_NOT_ARMY_CAP_FREE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{82ba9698-eac3-4f3a-a3eb-4c3faddfc9cc}" record_key="CND_NOT_ARMY_IN_ENEMY_REGION">
+<option_key>CND_NOT_ARMY_IN_ENEMY_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{dada733b-f0f9-403e-8f8d-af01a94d08d0}" record_key="CND_NOT_ASHIKAGA_SHOGUN">
+<option_key>CND_NOT_ASHIKAGA_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e12970f0-6bd2-424b-af04-8fd93ef059c1}" record_key="CND_NOT_BUILDING_CHAIN">
+<option_key>CND_NOT_BUILDING_CHAIN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d3e4ea24-cc8e-40fa-83ee-218eb0fb5661}" record_key="CND_NOT_BUILDING_CHAIN_AVAILABLE">
+<option_key>CND_NOT_BUILDING_CHAIN_AVAILABLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{7e424bb4-202d-4a94-824f-bca715e23c2a}" record_key="CND_NOT_BUILDING_LEVEL">
+<option_key>CND_NOT_BUILDING_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d0b6e5a4-b4d4-4659-8c41-836eec39cd08}" record_key="CND_NOT_BUILDING_LEVEL_AVAILABLE">
+<option_key>CND_NOT_BUILDING_LEVEL_AVAILABLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{96726559-55a0-4338-bd10-d0b174736a68}" record_key="CND_NOT_CAN_RECRUIT_UNIT">
+<option_key>CND_NOT_CAN_RECRUIT_UNIT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0457e622-46b9-41b2-a749-386dd885e4f9}" record_key="CND_NOT_CAN_RECRUIT_UNIT_CASTE">
+<option_key>CND_NOT_CAN_RECRUIT_UNIT_CASTE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{eeae8e77-7b29-4030-bd8e-4c0f33d3db24}" record_key="CND_NOT_CAN_RECRUIT_UNIT_CATEGORY">
+<option_key>CND_NOT_CAN_RECRUIT_UNIT_CATEGORY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{610c0984-b9f4-4887-abab-358296a5df17}" record_key="CND_NOT_CAN_RECRUIT_UNIT_CLASS">
+<option_key>CND_NOT_CAN_RECRUIT_UNIT_CLASS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{750ab5a6-af40-4b2b-b5c1-9580e82e1a92}" record_key="CND_NOT_ENEMY_ARMY_IN_REGION">
+<option_key>CND_NOT_ENEMY_ARMY_IN_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{66846a7a-fa9a-4d59-aa85-c0ba2ce64bb4}" record_key="CND_NOT_HAS_AGENT">
+<option_key>CND_NOT_HAS_AGENT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d8f02fd1-83d7-44f2-b4bd-8e150d474161}" record_key="CND_NOT_HAS_ARMY">
+<option_key>CND_NOT_HAS_ARMY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{cd1af57c-85d5-49ee-87d8-d49f181b2ca6}" record_key="CND_NOT_HAS_NAVY">
+<option_key>CND_NOT_HAS_NAVY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a769e1d1-ff13-4179-8402-1d620ad5e09f}" record_key="CND_NOT_IS_BECOMING_SHOGUN">
+<option_key>CND_NOT_IS_BECOMING_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e65aa195-d06e-4853-8861-ede146002395}" record_key="CND_NOT_IS_SHOGUN">
+<option_key>CND_NOT_IS_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{491fcf66-58d2-4cf8-ac43-ff11e8edad95}" record_key="CND_NOT_MULTIPLAYER">
+<option_key>CND_NOT_MULTIPLAYER</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{99456215-5ef0-4614-971d-404640a59399}" record_timestamp="1376421282832" record_key="CND_NOT_NAVY_CAP_FREE">
+<option_key>CND_NOT_NAVY_CAP_FREE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{87e58547-0b34-420f-93df-b03c86dbbd49}" record_key="CND_NOT_NEUTRAL_WITH">
+<option_key>CND_NOT_NEUTRAL_WITH</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e7077d08-3199-4201-a119-8bcba1cdfd0f}" record_key="CND_NOT_OWNS_HOME_REGION">
+<option_key>CND_NOT_OWNS_HOME_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{fe50d710-6c4c-4933-82ae-b8ab73137741}" record_key="CND_NOT_OWNS_REGION">
+<option_key>CND_NOT_OWNS_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{9655aad1-d63d-4c82-bca8-34bd30bd0c22}" record_timestamp="1375976238615" record_key="CND_NOT_POLITICAL_PARTY">
+<option_key>CND_NOT_POLITICAL_PARTY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{7af26f82-90fc-41eb-bba5-a9e523f422fe}" record_key="CND_NOT_PORT_BLOCKADED">
+<option_key>CND_NOT_PORT_BLOCKADED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{2a3c61cd-1a80-4a15-9f9c-5cfcc6f1e75c}" record_key="CND_NOT_REALM_DIVIDE">
+<option_key>CND_NOT_REALM_DIVIDE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{5e5ccda5-f4b3-4bd3-ab4a-fe5b67f4fa95}" record_key="CND_NOT_REBELLION">
+<option_key>CND_NOT_REBELLION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{231d8beb-057d-4ca1-8a0a-3f0ab934056d}" record_key="CND_NOT_RELIGION">
+<option_key>CND_NOT_RELIGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{1bc81e54-d472-4351-97c6-d8fcae97facc}" record_key="CND_NOT_RESEARCHING_TECHNOLOGY_CIVIL">
+<option_key>CND_NOT_RESEARCHING_TECHNOLOGY_CIVIL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{82273f0a-2642-4a7b-8052-db3c029fb1f5}" record_key="CND_NOT_RESEARCHING_TECHNOLOGY_ENGINEERING">
+<option_key>CND_NOT_RESEARCHING_TECHNOLOGY_ENGINEERING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{25a753b3-5fa6-45d0-8548-337ad328b394}" record_key="CND_NOT_RESEARCHING_TECHNOLOGY_MILITARY">
+<option_key>CND_NOT_RESEARCHING_TECHNOLOGY_MILITARY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{45fa35e2-4a48-49a6-99c4-a9626ce8a411}" record_key="CND_NOT_SEASON">
+<option_key>CND_NOT_SEASON</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4086a4ba-be99-49a6-a2f9-a22f32e088a4}" record_key="CND_NOT_SLOT_TYPE">
+<option_key>CND_NOT_SLOT_TYPE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{de4801f1-a7da-44f8-aace-7c79d777f2d9}" record_key="CND_NOT_TECHNOLOGY_RESEARCHED">
+<option_key>CND_NOT_TECHNOLOGY_RESEARCHED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{9d8cfbe3-0419-4e36-982f-a92d6ead0002}" record_key="CND_NOT_TRADE_NODE_GROUP_OCCUPIED">
+<option_key>CND_NOT_TRADE_NODE_GROUP_OCCUPIED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{44a9a7c8-74d2-477e-9f77-52ccb8c5a41b}" record_key="CND_NOT_TRADE_NODE_OCCUPIED">
+<option_key>CND_NOT_TRADE_NODE_OCCUPIED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{aadee005-febc-4a72-a45f-e7395f552096}" record_key="CND_NOT_TRADE_WITH">
+<option_key>CND_NOT_TRADE_WITH</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b3f382be-30a8-4dca-bef7-7f158b021a86}" record_key="CND_NOT_WAR_SHOGUN">
+<option_key>CND_NOT_WAR_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e47d8af4-afff-457f-9c29-f685da58406d}" record_key="CND_NOT_WAR_WITH">
+<option_key>CND_NOT_WAR_WITH</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{30ac2b71-7fe2-42a4-a157-5addef16c617}" record_key="CND_OWNS_HOME_REGION">
+<option_key>CND_OWNS_HOME_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{835ee876-5b01-4cac-b273-18d8be1cbac1}" record_key="CND_OWNS_REGION">
+<option_key>CND_OWNS_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{9ac74343-65bf-4261-89b4-8f9ccf7dad4a}" record_timestamp="1375976238590" record_key="CND_POLITICAL_PARTY">
+<option_key>CND_POLITICAL_PARTY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{bf501761-02df-448d-b561-25a8251d240b}" record_key="CND_PORT_BLOCKADED">
+<option_key>CND_PORT_BLOCKADED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0bee4a97-551a-4ba8-b563-02a0f67bfb87}" record_key="CND_PROTECTED">
+<option_key>CND_PROTECTED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ae305261-d4a7-4c51-9bd5-2ce86ab74ffa}" record_key="CND_RANDOM">
+<option_key>CND_RANDOM</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{94f5886a-5373-4dbe-b6bb-3b56b5511624}" record_key="CND_REALM_DIVIDE">
+<option_key>CND_REALM_DIVIDE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4f388e3f-5fdb-4e87-8439-aac74e576d1b}" record_key="CND_REBELLION">
+<option_key>CND_REBELLION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0cab4531-f614-46db-80af-db02b9763f87}" record_key="CND_RELIGION">
+<option_key>CND_RELIGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{2dc961f8-5446-4c2d-aa68-f8247b59d6fe}" record_key="CND_RESEARCHING_TECHNOLOGY_CIVIL">
+<option_key>CND_RESEARCHING_TECHNOLOGY_CIVIL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{44fe5ccd-0808-41cf-9de3-7d928da8c035}" record_key="CND_RESEARCHING_TECHNOLOGY_ENGINEERING">
+<option_key>CND_RESEARCHING_TECHNOLOGY_ENGINEERING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{783fb6d0-1160-4f6e-bf5d-6b40ef3fa8cc}" record_key="CND_RESEARCHING_TECHNOLOGY_MILITARY">
+<option_key>CND_RESEARCHING_TECHNOLOGY_MILITARY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c11185a7-1d73-4119-bce7-975e2fc759da}" record_key="CND_ROUNDS_UNTIL_NEXT">
+<option_key>CND_ROUNDS_UNTIL_NEXT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{94b17e70-398f-4f27-90d4-ddf505a2b789}" record_key="CND_SEASON">
+<option_key>CND_SEASON</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{85695581-f9a1-4c57-8509-6a97b683dede}" record_key="CND_SLOT_TYPE">
+<option_key>CND_SLOT_TYPE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{17aa088c-4435-475e-8e27-97e3c56777e4}" record_key="CND_TECHNOLOGY_RESEARCHED">
+<option_key>CND_TECHNOLOGY_RESEARCHED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{65bb3f6c-ca93-47e4-9348-14727e020b8f}" record_key="CND_TRADE_NODE_GROUP_OCCUPIED">
+<option_key>CND_TRADE_NODE_GROUP_OCCUPIED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{5a19d6bf-ff70-441b-883c-0bcd35f6240f}" record_key="CND_TRADE_NODE_OCCUPIED">
+<option_key>CND_TRADE_NODE_OCCUPIED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f6b1ded6-2d03-40cf-b265-ded2bd5b9ce8}" record_key="CND_TRADE_WITH">
+<option_key>CND_TRADE_WITH</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{95ebf1c1-d667-4ed2-b533-07b692f3ff90}" record_key="CND_UNIQUE">
+<option_key>CND_UNIQUE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b88b0d80-e721-4e08-8e33-92813dde6cc5}" record_key="CND_WAR_SHOGUN">
+<option_key>CND_WAR_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{df5e28d1-94b1-4176-8df1-c4aa99ffe653}" record_key="CND_WAR_WITH">
+<option_key>CND_WAR_WITH</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{43cfefcf-2cc5-4883-bde6-386062c5026f}" record_key="GEN_CND_AGENT">
+<option_key>GEN_CND_AGENT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{20c113b1-5513-49eb-9432-0a1017bffa69}" record_key="GEN_CND_AGENT_GEISHA">
+<option_key>GEN_CND_AGENT_GEISHA</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{04467ad5-fa9f-44d7-b063-30aba2a21df2}" record_key="GEN_CND_AGENT_METSUKE">
+<option_key>GEN_CND_AGENT_METSUKE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4e1f8553-1ba6-4c8f-b1ba-780f8b636df6}" record_key="GEN_CND_AGENT_MONK">
+<option_key>GEN_CND_AGENT_MONK</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{633d3a96-f983-412b-b882-5a07f45523b0}" record_key="GEN_CND_AGENT_NINJA">
+<option_key>GEN_CND_AGENT_NINJA</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f2e93922-96c5-4b65-9849-fbbb94f51d2d}" record_key="GEN_CND_AGENT_NOT_GEISHA">
+<option_key>GEN_CND_AGENT_NOT_GEISHA</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{de3c0599-21c3-4716-aef0-60c23e431831}" record_key="GEN_CND_AGENT_NOT_METSUKE">
+<option_key>GEN_CND_AGENT_NOT_METSUKE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d8156696-b64f-4cd3-adce-5161dd28420e}" record_key="GEN_CND_AGENT_NOT_MONK">
+<option_key>GEN_CND_AGENT_NOT_MONK</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{29be434d-f425-41d0-b3c0-ed51a2673950}" record_key="GEN_CND_AGENT_NOT_NINJA">
+<option_key>GEN_CND_AGENT_NOT_NINJA</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c68cba9b-c8c3-4fe2-aaec-1eb85ffefdfe}" record_key="GEN_CND_AGENT_NOT_missionARY">
+<option_key>GEN_CND_AGENT_NOT_missionARY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{55642454-8c7b-4cd3-9750-463d9268db7f}" record_key="GEN_CND_AGENT_missionARY">
+<option_key>GEN_CND_AGENT_missionARY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b9b06af8-33b2-4a45-a7a2-b257c4101e64}" record_key="GEN_CND_ALLIED">
+<option_key>GEN_CND_ALLIED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e907733d-d4c6-496e-b667-c6fa756b0cbc}" record_key="GEN_CND_ALLIED_WITH_ALLY">
+<option_key>GEN_CND_ALLIED_WITH_ALLY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{036e85b8-87c9-491c-8442-b3c8a370a20d}" record_key="GEN_CND_ALLIED_WITH_ENEMY">
+<option_key>GEN_CND_ALLIED_WITH_ENEMY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{8339673a-9ef7-4f1a-a70d-235e66dc700f}" record_key="GEN_CND_ALLY_SHOGUN">
+<option_key>GEN_CND_ALLY_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{655dc59b-ba51-4bb3-99c7-455d3ce43047}" record_key="GEN_CND_ARMY">
+<option_key>GEN_CND_ARMY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{8ab70448-0de7-4f6a-986d-8618635d53b8}" record_key="GEN_CND_ARMY_IN_REGION">
+<option_key>GEN_CND_ARMY_IN_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{20474625-45f4-4eed-a223-257ad65aed0c}" record_key="GEN_CND_BECOMING_SHOGUN">
+<option_key>GEN_CND_BECOMING_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d2648289-5adb-45df-90db-184274ce9e0a}" record_key="GEN_CND_CAPITAL_REGION">
+<option_key>GEN_CND_CAPITAL_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0f23803a-224f-4d53-8cb4-819fc60aef0b}" record_timestamp="1375091816436" record_key="GEN_CND_CHARACTER_BATTLE_VICTORY_PERCENT">
+<option_key>GEN_CND_CHARACTER_BATTLE_VICTORY_PERCENT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b958c796-1322-45a4-a413-8c7360407472}" record_timestamp="1375709937945" record_key="GEN_CND_CHARACTER_NOT_TRAIT">
+<option_key>GEN_CND_CHARACTER_NOT_TRAIT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{9a2bafba-c07c-480f-abbf-f429eff8fd02}" record_timestamp="1375091816451" record_key="GEN_CND_CHARACTER_TRAIT">
+<option_key>GEN_CND_CHARACTER_TRAIT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4ac95333-eff3-48b2-9317-b0519f53975b}" record_key="GEN_CND_DAIMYO">
+<option_key>GEN_CND_DAIMYO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{19c12bb9-b6b2-47f5-bec9-626d6e25efc3}" record_key="GEN_CND_DIPLOMACY_AVAILABLE">
+<option_key>GEN_CND_DIPLOMACY_AVAILABLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{82cc2cfa-cbef-4c4a-b1cc-e3ee4cf27796}" record_timestamp="1375976238152" record_key="GEN_CND_EMBARKED">
+<option_key>GEN_CND_EMBARKED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{bb53b8f0-bf60-44c5-968b-66013c3a53de}" record_timestamp="1375976238492" record_key="GEN_CND_ENEMY_OF_YOUR_ALLY_WITH_SUBCULTURE">
+<option_key>GEN_CND_ENEMY_OF_YOUR_ALLY_WITH_SUBCULTURE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{fb832353-9406-43e9-8fa4-12fe1cff8984}" record_key="GEN_CND_FACTION_BUILDING_CHAIN">
+<option_key>GEN_CND_FACTION_BUILDING_CHAIN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{5d728d71-1c87-473e-961f-40afcc29acd3}" record_key="GEN_CND_FACTION_BUILDING_CHAIN_AVAILABLE">
+<option_key>GEN_CND_FACTION_BUILDING_CHAIN_AVAILABLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e2d2aa7b-273c-404f-9850-00ce3f071119}" record_key="GEN_CND_FACTION_BUILDING_LEVEL">
+<option_key>GEN_CND_FACTION_BUILDING_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{088d154d-4cae-48b9-944e-ec08755fbcb7}" record_key="GEN_CND_FACTION_COASTAL">
+<option_key>GEN_CND_FACTION_COASTAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{6275f3ab-7e6b-482b-b464-cdbabaa7f646}" record_key="GEN_CND_FACTION_CONSTRUCTING">
+<option_key>GEN_CND_FACTION_CONSTRUCTING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{27fac755-e9a1-448c-9b5a-c167f3b2d685}" record_key="GEN_CND_FACTION_HAS_ARMY">
+<option_key>GEN_CND_FACTION_HAS_ARMY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{cad17509-cf29-40d6-8f09-39eca3c1b0ad}" record_key="GEN_CND_FACTION_HAS_NAVY">
+<option_key>GEN_CND_FACTION_HAS_NAVY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{bb22a320-2b23-4f80-ba4b-de4def039c02}" record_timestamp="1376564412167" record_key="GEN_CND_FACTION_LEADER">
+<option_key>GEN_CND_FACTION_LEADER</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a3af9d21-01c0-4600-9a68-04df37a0a2d0}" record_key="GEN_CND_FACTION_MAXED_BUILDING_CHAIN">
+<option_key>GEN_CND_FACTION_MAXED_BUILDING_CHAIN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{9be11fb2-9218-4af0-aa02-e01271846518}" record_key="GEN_CND_FACTION_NEIGHBOURS">
+<option_key>GEN_CND_FACTION_NEIGHBOURS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{17d5db8a-74ff-4c61-b7d6-9bc2f9292beb}" record_key="GEN_CND_FACTION_NOT_BUILDING_CHAIN">
+<option_key>GEN_CND_FACTION_NOT_BUILDING_CHAIN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{24ae10b9-731a-4292-b8bc-b5e0efa829e2}" record_key="GEN_CND_FACTION_NOT_BUILDING_CHAIN_AVAILABLE">
+<option_key>GEN_CND_FACTION_NOT_BUILDING_CHAIN_AVAILABLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b25d2e43-8d72-4a37-b966-ad0a7d2af808}" record_key="GEN_CND_FACTION_NOT_BUILDING_LEVEL">
+<option_key>GEN_CND_FACTION_NOT_BUILDING_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{7b795f1a-c1f1-45d6-a2d8-3cb28e7c4466}" record_key="GEN_CND_FACTION_NOT_COASTAL">
+<option_key>GEN_CND_FACTION_NOT_COASTAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{1c37a6c2-c129-41fe-92f6-094679719d36}" record_key="GEN_CND_FACTION_NOT_CONSTRUCTING">
+<option_key>GEN_CND_FACTION_NOT_CONSTRUCTING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{20066726-2599-4215-8620-bd796c8f284c}" record_key="GEN_CND_FACTION_NOT_HAS_ARMY">
+<option_key>GEN_CND_FACTION_NOT_HAS_ARMY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0adad272-3739-4540-b79c-dbcf53b506f0}" record_key="GEN_CND_FACTION_NOT_HAS_NAVY">
+<option_key>GEN_CND_FACTION_NOT_HAS_NAVY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{50d821de-fd1a-46df-8e41-bb5e43824d21}" record_key="GEN_CND_FACTION_NOT_MAXED_BUILDING_CHAIN">
+<option_key>GEN_CND_FACTION_NOT_MAXED_BUILDING_CHAIN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f9c8b2b7-4421-4af4-8d7a-f79319c7a0d6}" record_key="GEN_CND_FACTION_NOT_NEIGHBOURS">
+<option_key>GEN_CND_FACTION_NOT_NEIGHBOURS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a0a24da4-2cf4-4516-b110-efe284669117}" record_key="GEN_CND_FACTION_NOT_REBELLION">
+<option_key>GEN_CND_FACTION_NOT_REBELLION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b89bf8b7-d686-40a6-9f39-7b72eb1fce38}" record_key="GEN_CND_FACTION_NOT_RECRUITING">
+<option_key>GEN_CND_FACTION_NOT_RECRUITING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0333c57b-7a5e-49f7-8797-838796664981}" record_key="GEN_CND_FACTION_NOT_RELIGION">
+<option_key>GEN_CND_FACTION_NOT_RELIGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f0f6ba3e-97ff-49c5-acd9-4f5177d47287}" record_key="GEN_CND_FACTION_NOT_SAME_RELIGION">
+<option_key>GEN_CND_FACTION_NOT_SAME_RELIGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{acc20ea6-a985-44ad-b414-026d811ada8f}" record_key="GEN_CND_FACTION_NOT_SLOT_TYPE">
+<option_key>GEN_CND_FACTION_NOT_SLOT_TYPE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{9302b5b3-b706-4c91-b64a-54be695f2062}" record_key="GEN_CND_FACTION_REBELLION">
+<option_key>GEN_CND_FACTION_REBELLION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{3b127ea8-9854-4284-ba5f-33749e63c8cb}" record_key="GEN_CND_FACTION_RECRUITING">
+<option_key>GEN_CND_FACTION_RECRUITING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{75702c17-30a4-43e2-9560-9c1c1142753c}" record_key="GEN_CND_FACTION_RELIGION">
+<option_key>GEN_CND_FACTION_RELIGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{073e3e8e-7c6b-45e3-bf57-0f0684ba443f}" record_key="GEN_CND_FACTION_SAME_RELIGION">
+<option_key>GEN_CND_FACTION_SAME_RELIGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{7034e1d0-db18-47a7-b056-2c013456b66b}" record_key="GEN_CND_FACTION_SLOT_TYPE">
+<option_key>GEN_CND_FACTION_SLOT_TYPE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0c7f9eb6-c24c-407d-ac34-65cd47d0a933}" record_timestamp="1375976238468" record_key="GEN_CND_FEMALE">
+<option_key>GEN_CND_FEMALE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{1674bdfd-1c6c-488d-a89a-434fe2eddddc}" record_timestamp="1376575560854" record_key="GEN_CND_FORCE_HAS_EFFECT_BUNDLE">
+<option_key>GEN_CND_FORCE_HAS_EFFECT_BUNDLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{8d1c2646-c827-4deb-8378-7a87c45d8106}" record_timestamp="1375976238394" record_key="GEN_CND_FORCE_IN_PROVINCE">
+<option_key>GEN_CND_FORCE_IN_PROVINCE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b0d763cd-54aa-49b1-a38b-b8d03324c666}" record_key="GEN_CND_GENERAL">
+<option_key>GEN_CND_GENERAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{7c1b3967-ca25-4335-a624-f55b31bbbe34}" record_key="GEN_CND_HOME_REGION">
+<option_key>GEN_CND_HOME_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{17f9c84d-4934-43e1-a9c3-171dcb0bffba}" record_key="GEN_CND_HUMAN">
+<option_key>GEN_CND_HUMAN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{8356f0ec-a2c7-4d53-87d5-7b6ff89fb650}" record_timestamp="1375976238734" record_key="GEN_CND_IN_ENEMY_REGION">
+<option_key>GEN_CND_IN_ENEMY_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d145c931-019c-44b2-9eba-31a50957ee89}" record_timestamp="1375976238442" record_key="GEN_CND_MALE">
+<option_key>GEN_CND_MALE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a70bf037-bb5a-431c-a0e9-295c6cc4cc8f}" record_key="GEN_CND_MAX_BATTLES">
+<option_key>GEN_CND_MAX_BATTLES</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{548ce09b-81bf-4d69-ae82-3b4d77466cd6}" record_key="GEN_CND_MAX_BATTLES_LOST">
+<option_key>GEN_CND_MAX_BATTLES_LOST</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e66ac872-7fe0-4b58-a3b2-a84e756d1948}" record_key="GEN_CND_MAX_BATTLES_WON">
+<option_key>GEN_CND_MAX_BATTLES_WON</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{37dbc46d-8e24-4638-8484-033c0a7c93e7}" record_timestamp="1375976237981" record_key="GEN_CND_MAX_CHARACTER_AMBITION">
+<option_key>GEN_CND_MAX_CHARACTER_AMBITION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b889f75d-3835-441e-b382-3e7e07417b78}" record_timestamp="1375976237933" record_key="GEN_CND_MAX_CHARACTER_GRAVITAS">
+<option_key>GEN_CND_MAX_CHARACTER_GRAVITAS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c3f518a1-c405-4225-bb04-84c591c05e47}" record_key="GEN_CND_MAX_CHARACTER_LEVEL">
+<option_key>GEN_CND_MAX_CHARACTER_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{17eb6d73-e1d1-488e-a2ed-1fd58fc31060}" record_key="GEN_CND_MAX_CHARACTER_LOYALTY">
+<option_key>GEN_CND_MAX_CHARACTER_LOYALTY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{427aedc5-2e13-46f4-ab8b-bf7e91a48800}" record_timestamp="1375976238081" record_key="GEN_CND_MAX_CHARACTER_PARTY_POWER_PERCENTAGE">
+<option_key>GEN_CND_MAX_CHARACTER_PARTY_POWER_PERCENTAGE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b9ba8599-3f03-4efe-a15c-61a6d83797cc}" record_key="GEN_CND_MAX_DAIMYO_HONOUR">
+<option_key>GEN_CND_MAX_DAIMYO_HONOUR</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0ba1aeb4-ebde-4d5b-b44e-3c258cff017a}" record_key="GEN_CND_MAX_DIPLOMATIC_RELATION">
+<option_key>GEN_CND_MAX_DIPLOMATIC_RELATION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{2cbbb86a-7014-4134-a49a-fca20d898c8c}" record_key="GEN_CND_MAX_FAME">
+<option_key>GEN_CND_MAX_FAME</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b1b19153-d952-4b83-8023-9b386d8c9f73}" record_key="GEN_CND_MAX_FAME_LEVEL">
+<option_key>GEN_CND_MAX_FAME_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ed99e7ee-8f0f-4fb1-94cf-ac1d90e6d5b8}" record_key="GEN_CND_MAX_FAME_RANK">
+<option_key>GEN_CND_MAX_FAME_RANK</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{9f34c50f-9555-4ca0-a19e-b7586c10b7bf}" record_key="GEN_CND_MAX_HIGHEST_FAME_LEVEL">
+<option_key>GEN_CND_MAX_HIGHEST_FAME_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{612d1883-9614-4c4f-bbb5-cf61859fa781}" record_timestamp="1375976238225" record_key="GEN_CND_MAX_ORIGINAL_HOME_REGION_DISTANCE">
+<option_key>GEN_CND_MAX_ORIGINAL_HOME_REGION_DISTANCE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{176fd17a-dc2f-4c62-9a1b-87554b76b156}" record_key="GEN_CND_MAX_PLAYER_BATTLES">
+<option_key>GEN_CND_MAX_PLAYER_BATTLES</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c02a5553-492d-40c4-b7c4-719b7a765971}" record_key="GEN_CND_MAX_PLAYER_BATTLES_LOST">
+<option_key>GEN_CND_MAX_PLAYER_BATTLES_LOST</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{1d6bd00d-0fea-4683-a64d-87fc39a50a0f}" record_key="GEN_CND_MAX_PLAYER_BATTLES_WON">
+<option_key>GEN_CND_MAX_PLAYER_BATTLES_WON</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{cf5eaa62-be62-4656-b367-fa8449c32615}" record_timestamp="1375976238273" record_key="GEN_CND_MAX_PROVINCE_SLAVE_PERCENTAGE">
+<option_key>GEN_CND_MAX_PROVINCE_SLAVE_PERCENTAGE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{9c10a50e-6d50-4cb6-aa2f-7888d72eaf0a}" record_key="GEN_CND_MAX_REGIONS_OWNED">
+<option_key>GEN_CND_MAX_REGIONS_OWNED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{36e25135-1bde-4dab-8739-138201ec0208}" record_key="GEN_CND_MAX_REGION_DISTANCE">
+<option_key>GEN_CND_MAX_REGION_DISTANCE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{aebfb428-57b2-4cee-8616-9b61ecaa35de}" record_key="GEN_CND_MAX_REGION_PUBLIC_ORDER">
+<option_key>GEN_CND_MAX_REGION_PUBLIC_ORDER</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c1109fc8-4bcf-416c-994b-da2635b26663}" record_key="GEN_CND_MAX_SETTLEMENT_UNITS">
+<option_key>GEN_CND_MAX_SETTLEMENT_UNITS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{8c94bce6-5b7a-41f3-ab28-d27d2f6713f1}" record_key="GEN_CND_MAX_UNITS_IN_REGION">
+<option_key>GEN_CND_MAX_UNITS_IN_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{25df26e0-1c43-417c-a382-03332dbb5793}" record_key="GEN_CND_MILITARY_ACCESS_GIVEN">
+<option_key>GEN_CND_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{02b43d8b-79ce-4e4e-b5a5-ea153d800d71}" record_key="GEN_CND_MILITARY_ACCESS_RECEIVED">
+<option_key>GEN_CND_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e0042f8e-94e5-475a-aead-c38fb693e021}" record_key="GEN_CND_MIN_BATTLES">
+<option_key>GEN_CND_MIN_BATTLES</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a36a7fbe-5473-4117-b7d8-70241ecebc7f}" record_key="GEN_CND_MIN_BATTLES_LOST">
+<option_key>GEN_CND_MIN_BATTLES_LOST</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{bdb59b76-f23a-424f-bbc0-33e8f3c205c7}" record_key="GEN_CND_MIN_BATTLES_WON">
+<option_key>GEN_CND_MIN_BATTLES_WON</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c095ac98-e91e-4bd9-b6be-1712d576c545}" record_timestamp="1375976237957" record_key="GEN_CND_MIN_CHARACTER_AMBITION">
+<option_key>GEN_CND_MIN_CHARACTER_AMBITION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{1c87a14c-3195-434b-9d87-1d14ed20edff}" record_timestamp="1375976237907" record_key="GEN_CND_MIN_CHARACTER_GRAVITAS">
+<option_key>GEN_CND_MIN_CHARACTER_GRAVITAS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{fa07f8ee-78dd-4138-b8b9-47aee3d43b43}" record_key="GEN_CND_MIN_CHARACTER_LEVEL">
+<option_key>GEN_CND_MIN_CHARACTER_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4764ab06-1989-4de5-9a0d-0041857c5a9d}" record_key="GEN_CND_MIN_CHARACTER_LOYALTY">
+<option_key>GEN_CND_MIN_CHARACTER_LOYALTY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d5268324-11a5-4fda-af03-7a6b2c3ae9b9}" record_timestamp="1375976238055" record_key="GEN_CND_MIN_CHARACTER_PARTY_POWER_PERCENTAGE">
+<option_key>GEN_CND_MIN_CHARACTER_PARTY_POWER_PERCENTAGE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ec261261-dfa8-4535-8dc7-49ac8ed88bb1}" record_key="GEN_CND_MIN_DAIMYO_HONOUR">
+<option_key>GEN_CND_MIN_DAIMYO_HONOUR</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{cc4fa65b-6794-487d-8619-bdf5c4c70b05}" record_key="GEN_CND_MIN_DIPLOMATIC_RELATION">
+<option_key>GEN_CND_MIN_DIPLOMATIC_RELATION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{2f205f2f-a555-406a-9ee2-19223dc3d41d}" record_key="GEN_CND_MIN_FAME">
+<option_key>GEN_CND_MIN_FAME</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{7a032e40-e7b6-47bb-b7ff-b6d5e8b628d0}" record_key="GEN_CND_MIN_FAME_LEVEL">
+<option_key>GEN_CND_MIN_FAME_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c013d010-d4d2-4d2b-ab4e-6f75a3e5687b}" record_key="GEN_CND_MIN_FAME_RANK">
+<option_key>GEN_CND_MIN_FAME_RANK</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{eb8c8633-30e0-4293-b9e4-f073a4ec8f07}" record_key="GEN_CND_MIN_HIGHEST_FAME_LEVEL">
+<option_key>GEN_CND_MIN_HIGHEST_FAME_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c54d1b83-6c05-4b04-8712-5e573858ac26}" record_timestamp="1375976238201" record_key="GEN_CND_MIN_ORIGINAL_HOME_REGION_DISTANCE">
+<option_key>GEN_CND_MIN_ORIGINAL_HOME_REGION_DISTANCE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{238c97ee-2d69-46fa-aa10-49e927e6577b}" record_key="GEN_CND_MIN_PLAYER_BATTLES">
+<option_key>GEN_CND_MIN_PLAYER_BATTLES</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ece2023e-211d-4bff-b6e5-104430f0b8c7}" record_key="GEN_CND_MIN_PLAYER_BATTLES_LOST">
+<option_key>GEN_CND_MIN_PLAYER_BATTLES_LOST</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{34d3d18a-5342-47ab-8f93-ba028f788044}" record_key="GEN_CND_MIN_PLAYER_BATTLES_WON">
+<option_key>GEN_CND_MIN_PLAYER_BATTLES_WON</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{972d0090-2d69-41a7-afab-14e0dd8ae424}" record_timestamp="1375976238250" record_key="GEN_CND_MIN_PROVINCE_SLAVE_PERCENTAGE">
+<option_key>GEN_CND_MIN_PROVINCE_SLAVE_PERCENTAGE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c16d6c70-7833-4ead-9b15-a9f63a3c1ee3}" record_key="GEN_CND_MIN_REGIONS_OWNED">
+<option_key>GEN_CND_MIN_REGIONS_OWNED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ee089442-dad7-4460-a1c0-f972d35f5871}" record_key="GEN_CND_MIN_REGION_DISTANCE">
+<option_key>GEN_CND_MIN_REGION_DISTANCE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ef8dbd02-fc81-4d92-92fe-d799f93c737e}" record_key="GEN_CND_MIN_REGION_PUBLIC_ORDER">
+<option_key>GEN_CND_MIN_REGION_PUBLIC_ORDER</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4232c672-6fa8-4c74-ba63-2be57833e682}" record_key="GEN_CND_MIN_SETTLEMENT_UNITS">
+<option_key>GEN_CND_MIN_SETTLEMENT_UNITS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f73af220-81ef-4896-9a71-2cceccb35fa6}" record_key="GEN_CND_MIN_UNITS_IN_REGION">
+<option_key>GEN_CND_MIN_UNITS_IN_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d33a0dc4-6708-4438-b125-895aa894088d}" record_key="GEN_CND_NAVY">
+<option_key>GEN_CND_NAVY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ed5c9545-4fad-44b1-8d79-c74459254fbf}" record_key="GEN_CND_NEUTRAL">
+<option_key>GEN_CND_NEUTRAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{8b252955-4093-4a11-a94a-fbea0dc1a43d}" record_key="GEN_CND_NOT_ALLIED">
+<option_key>GEN_CND_NOT_ALLIED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{04e69b02-616a-44b1-bb16-b8d8ee7fa48c}" record_key="GEN_CND_NOT_ALLIED_WITH_ALLY">
+<option_key>GEN_CND_NOT_ALLIED_WITH_ALLY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{9d8a5618-8d08-4c4b-a4b8-89daa94a255e}" record_key="GEN_CND_NOT_ALLIED_WITH_ENEMY">
+<option_key>GEN_CND_NOT_ALLIED_WITH_ENEMY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c3a42061-bcec-4360-8be8-74ccbfb7ab18}" record_key="GEN_CND_NOT_ALLY_SHOGUN">
+<option_key>GEN_CND_NOT_ALLY_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{18e4cf8a-d204-43bd-abf1-f8ba46863c13}" record_key="GEN_CND_NOT_ARMY_IN_REGION">
+<option_key>GEN_CND_NOT_ARMY_IN_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b181926e-16b9-4435-b92e-7590147be261}" record_key="GEN_CND_NOT_BECOMING_SHOGUN">
+<option_key>GEN_CND_NOT_BECOMING_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ccce211b-6880-477e-8e3d-e055d3d94f17}" record_key="GEN_CND_NOT_CAPITAL_REGION">
+<option_key>GEN_CND_NOT_CAPITAL_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{22a42179-e086-4538-96fc-844f0d1294a7}" record_key="GEN_CND_NOT_DAIMYO">
+<option_key>GEN_CND_NOT_DAIMYO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{243ba580-5fa8-4665-ac6e-5fd750061a05}" record_key="GEN_CND_NOT_DIPLOMACY_AVAILABLE">
+<option_key>GEN_CND_NOT_DIPLOMACY_AVAILABLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ff89556c-5e57-4985-9bf1-bdac0babe93a}" record_timestamp="1375976238178" record_key="GEN_CND_NOT_EMBARKED">
+<option_key>GEN_CND_NOT_EMBARKED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{2bf19d43-8eae-4974-ba34-0a9c3caecf03}" record_timestamp="1375976238517" record_key="GEN_CND_NOT_ENEMY_OF_YOUR_ALLY_WITH_SUBCULTURE">
+<option_key>GEN_CND_NOT_ENEMY_OF_YOUR_ALLY_WITH_SUBCULTURE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e773a8d3-c264-43ab-b746-22ba157b9985}" record_timestamp="1376564412185" record_key="GEN_CND_NOT_FACTION_LEADER">
+<option_key>GEN_CND_NOT_FACTION_LEADER</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{6c828d3a-7e5f-4bc2-affa-33d356efd079}" record_timestamp="1375976237715" record_key="GEN_CND_NOT_FORCE_HAS_EFFECT_BUNDLE">
+<option_key>GEN_CND_NOT_FORCE_HAS_EFFECT_BUNDLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{222bcd9b-1930-4d6b-a58e-92e8fdf3b7db}" record_timestamp="1375976238418" record_key="GEN_CND_NOT_FORCE_IN_PROVINCE">
+<option_key>GEN_CND_NOT_FORCE_IN_PROVINCE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{35cd8eee-bd1c-4aa6-98d3-52a7f2f92750}" record_key="GEN_CND_NOT_HOME_REGION">
+<option_key>GEN_CND_NOT_HOME_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{152bb350-0378-4128-a94d-656c675f9e9b}" record_key="GEN_CND_NOT_HUMAN">
+<option_key>GEN_CND_NOT_HUMAN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{2b7f9eeb-b548-4372-8ef6-72b64255a830}" record_timestamp="1375976238758" record_key="GEN_CND_NOT_IN_ENEMY_REGION">
+<option_key>GEN_CND_NOT_IN_ENEMY_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{fa94018b-e08e-4c26-ab0d-0f4c5e657c5e}" record_key="GEN_CND_NOT_MILITARY_ACCESS_GIVEN">
+<option_key>GEN_CND_NOT_MILITARY_ACCESS_GIVEN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{68d3006c-1740-48c9-8fdf-7af5a67f6081}" record_key="GEN_CND_NOT_MILITARY_ACCESS_RECEIVED">
+<option_key>GEN_CND_NOT_MILITARY_ACCESS_RECEIVED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{fab77355-609b-44ca-a39e-c87082300a37}" record_key="GEN_CND_NOT_NEUTRAL">
+<option_key>GEN_CND_NOT_NEUTRAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{aeb94be6-a188-4db7-91e6-d67977da4231}" record_key="GEN_CND_NOT_OWNS">
+<option_key>GEN_CND_NOT_OWNS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e17d2995-1c55-4d7a-becb-25d57adbf5d4}" record_key="GEN_CND_NOT_OWNS_HOME_REGION">
+<option_key>GEN_CND_NOT_OWNS_HOME_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{1c0b4dd2-0b21-4e2b-b98c-518a8595763b}" record_key="GEN_CND_NOT_OWNS_REGION">
+<option_key>GEN_CND_NOT_OWNS_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b6d777d1-52aa-411f-971b-733dae331295}" record_key="GEN_CND_NOT_PLAYER_ARMY_IN_ANY_REGION">
+<option_key>GEN_CND_NOT_PLAYER_ARMY_IN_ANY_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{6558c097-58b5-405a-b5f7-a1be680a9da4}" record_timestamp="1375976238030" record_key="GEN_CND_NOT_POLITICAL_PARTY">
+<option_key>GEN_CND_NOT_POLITICAL_PARTY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{6bc0e909-a931-4220-b9f4-385a1d8c7d1c}" record_key="GEN_CND_NOT_PORT_BLOCKADED">
+<option_key>GEN_CND_NOT_PORT_BLOCKADED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{58fb7a89-ebaa-46eb-a57e-5e1626465aaf}" record_key="GEN_CND_NOT_PROTECTED">
+<option_key>GEN_CND_NOT_PROTECTED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{2fa9412e-6656-4457-9b48-d06bd7ea7893}" record_key="GEN_CND_NOT_PROTECTOR">
+<option_key>GEN_CND_NOT_PROTECTOR</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{33727b04-b104-4b96-960a-4b824bac0275}" record_timestamp="1375976238129" record_key="GEN_CND_NOT_PROVINCE_COMPLETE">
+<option_key>GEN_CND_NOT_PROVINCE_COMPLETE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f147b620-51de-44d3-843b-5e3b00aac581}" record_key="GEN_CND_NOT_REGION">
+<option_key>GEN_CND_NOT_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ce79ddea-4240-4a2e-ba8c-e51d07544b66}" record_timestamp="1375976238321" record_key="GEN_CND_NOT_REGION_HAS_EFFECT_BUNDLE">
+<option_key>GEN_CND_NOT_REGION_HAS_EFFECT_BUNDLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{14b4b13b-9ae4-4bfa-a3cf-d877aa7c5495}" record_timestamp="1375976238369" record_key="GEN_CND_NOT_REGION_NEIGHBOURING_HAS_EFFECT_BUNDLE">
+<option_key>GEN_CND_NOT_REGION_NEIGHBOURING_HAS_EFFECT_BUNDLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a4a4a45e-6875-41f1-bfca-e8a5a4e6db79}" record_key="GEN_CND_NOT_RESEARCHABLE">
+<option_key>GEN_CND_NOT_RESEARCHABLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d36bd40f-10eb-4fb4-85f4-637908971817}" record_key="GEN_CND_NOT_RESEARCHED">
+<option_key>GEN_CND_NOT_RESEARCHED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{03cadc1d-6809-4563-b83a-0c046e86318c}" record_key="GEN_CND_NOT_RESEARCHING">
+<option_key>GEN_CND_NOT_RESEARCHING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{78d793c7-fd68-4250-b9a8-a2d0c6de5b62}" record_key="GEN_CND_NOT_SHOGUN">
+<option_key>GEN_CND_NOT_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{54c86721-5941-4f55-9e83-d662ae7626bb}" record_key="GEN_CND_NOT_SLOT_TYPE">
+<option_key>GEN_CND_NOT_SLOT_TYPE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{03c7d5c8-13c1-423a-a4cc-128c8f78be92}" record_timestamp="1375976237818" record_key="GEN_CND_NOT_STANCE">
+<option_key>GEN_CND_NOT_STANCE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{6401ae09-7f84-4dbe-af6b-4a25a9b6caf8}" record_key="GEN_CND_NOT_TARGET_ARMY_IN_ANY_REGION">
+<option_key>GEN_CND_NOT_TARGET_ARMY_IN_ANY_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{05e73d26-faae-43f1-8eb1-232e1fba5be0}" record_timestamp="1376575560418" record_key="GEN_CND_NOT_TARGET_ARMY_NEAR_ORIGINAL_HOME_REGION">
+<option_key>GEN_CND_NOT_TARGET_ARMY_NEAR_ORIGINAL_HOME_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{9dba570f-0c4a-4eac-9b5e-6f6f2f215e2a}" record_key="GEN_CND_NOT_TRADE">
+<option_key>GEN_CND_NOT_TRADE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d8fc266c-4328-41c5-88b7-de552e1954c9}" record_key="GEN_CND_NOT_VISIBLE">
+<option_key>GEN_CND_NOT_VISIBLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b3efe57a-f696-4d87-a740-b12507c57156}" record_key="GEN_CND_NOT_WAR">
+<option_key>GEN_CND_NOT_WAR</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{396a47ff-4bb7-4ab4-9eb1-a7a82e2059cd}" record_key="GEN_CND_NOT_WAR_SHOGUN">
+<option_key>GEN_CND_NOT_WAR_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{6445169f-87a5-4ed6-8685-f535a0c3a157}" record_key="GEN_CND_NOT_WAR_WITH_ALLY">
+<option_key>GEN_CND_NOT_WAR_WITH_ALLY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0d7ae6f0-fe42-4eba-a7a3-cc0e6a11fa43}" record_key="GEN_CND_NOT_WAR_WITH_ENEMY">
+<option_key>GEN_CND_NOT_WAR_WITH_ENEMY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b62aa680-5667-41d1-a330-298867833da2}" record_key="GEN_CND_OWNS">
+<option_key>GEN_CND_OWNS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{576eceb2-4cef-44df-b72d-8dc15f6d0378}" record_key="GEN_CND_OWNS_HOME_REGION">
+<option_key>GEN_CND_OWNS_HOME_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{34497f5e-7a0e-4499-997b-62dc26ce6b8b}" record_key="GEN_CND_OWNS_REGION">
+<option_key>GEN_CND_OWNS_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4283c0db-d3d2-4405-91f4-832f18d1c35c}" record_key="GEN_CND_PLAYER_ARMY_IN_ANY_REGION">
+<option_key>GEN_CND_PLAYER_ARMY_IN_ANY_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d1bc1b59-84f2-4840-8933-d859e2d621de}" record_timestamp="1375976238006" record_key="GEN_CND_POLITICAL_PARTY">
+<option_key>GEN_CND_POLITICAL_PARTY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d337bd6b-8a90-48f1-9338-e0ca46368bf3}" record_key="GEN_CND_PORT_BLOCKADED">
+<option_key>GEN_CND_PORT_BLOCKADED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{62091097-737c-470e-ac87-0fb6ab3cd0bf}" record_key="GEN_CND_PROTECTED">
+<option_key>GEN_CND_PROTECTED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{6d0d111d-a8af-4057-a887-7c8e9b723b32}" record_key="GEN_CND_PROTECTOR">
+<option_key>GEN_CND_PROTECTOR</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{06224e8f-cd80-40c9-a44d-c9c63703f7e7}" record_timestamp="1375976238105" record_key="GEN_CND_PROVINCE_COMPLETE">
+<option_key>GEN_CND_PROVINCE_COMPLETE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b7b69ba8-d5af-4cf8-9e42-cab47dcdbed9}" record_key="GEN_CND_REGION">
+<option_key>GEN_CND_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a3b032e0-54ff-4609-865f-298368303f64}" record_timestamp="1376580552037" record_key="GEN_CND_REGION_ANY_OF">
+<option_key>GEN_CND_REGION_ANY_OF</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ae7df8ff-a679-42a8-aebc-28127eba4939}" record_key="GEN_CND_REGION_BUILDING_CHAIN">
+<option_key>GEN_CND_REGION_BUILDING_CHAIN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{db1e6538-1350-49ec-946d-5732c430b736}" record_key="GEN_CND_REGION_BUILDING_CHAIN_AVAILABLE">
+<option_key>GEN_CND_REGION_BUILDING_CHAIN_AVAILABLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{320b19f9-e718-4605-ba38-b90843cfe50a}" record_key="GEN_CND_REGION_BUILDING_LEVEL">
+<option_key>GEN_CND_REGION_BUILDING_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{940b8923-153c-4893-aaa6-2b37f05ae966}" record_key="GEN_CND_REGION_COASTAL">
+<option_key>GEN_CND_REGION_COASTAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f7d69138-f9f7-4d63-bab5-7a9fb14201e3}" record_key="GEN_CND_REGION_CONSTRUCTING">
+<option_key>GEN_CND_REGION_CONSTRUCTING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{44878976-3298-4799-ab2b-39cade204afb}" record_key="GEN_CND_REGION_CONTAINS_OFFICIAL">
+<option_key>GEN_CND_REGION_CONTAINS_OFFICIAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4ada411b-ad90-4e2b-a03b-6120c8e0f519}" record_key="GEN_CND_REGION_ENEMY_NEIGHBOURS">
+<option_key>GEN_CND_REGION_ENEMY_NEIGHBOURS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{c941018a-6972-4470-be30-372f2f247939}" record_timestamp="1375976238298" record_key="GEN_CND_REGION_HAS_EFFECT_BUNDLE">
+<option_key>GEN_CND_REGION_HAS_EFFECT_BUNDLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{fd16f0d0-5428-483b-a9ad-664c3f220f1d}" record_key="GEN_CND_REGION_MAXED_BUILDING_CHAIN">
+<option_key>GEN_CND_REGION_MAXED_BUILDING_CHAIN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f37348ff-4e9f-4b0a-afc7-41ff63946669}" record_key="GEN_CND_REGION_MAX_FACTION_RELIGION_RATIO">
+<option_key>GEN_CND_REGION_MAX_FACTION_RELIGION_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{3e945dd7-cd53-4f8c-9467-1cac9ae4248d}" record_key="GEN_CND_REGION_MIN_FACTION_RELIGION_RATIO">
+<option_key>GEN_CND_REGION_MIN_FACTION_RELIGION_RATIO</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{70d46658-351a-4be9-8f1e-5ab44af4cf0d}" record_timestamp="1375976238346" record_key="GEN_CND_REGION_NEIGHBOURING_HAS_EFFECT_BUNDLE">
+<option_key>GEN_CND_REGION_NEIGHBOURING_HAS_EFFECT_BUNDLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{76e7f2af-0e40-44ee-a2d0-0b6465caed5e}" record_key="GEN_CND_REGION_NEIGHBOURS">
+<option_key>GEN_CND_REGION_NEIGHBOURS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{7f00051c-f8a9-4984-94ea-468bdae0197d}" record_timestamp="1376580552057" record_key="GEN_CND_REGION_NOT_ALL_OF">
+<option_key>GEN_CND_REGION_NOT_ALL_OF</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{08cbdc88-0507-48a4-878d-9b216328b810}" record_key="GEN_CND_REGION_NOT_BUILDING_CHAIN">
+<option_key>GEN_CND_REGION_NOT_BUILDING_CHAIN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{ef4147e8-c2c3-40c4-9895-b1ea8f95321d}" record_key="GEN_CND_REGION_NOT_BUILDING_CHAIN_AVAILABLE">
+<option_key>GEN_CND_REGION_NOT_BUILDING_CHAIN_AVAILABLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{1911397f-03c7-4a1e-b23b-618ea8cfc021}" record_key="GEN_CND_REGION_NOT_BUILDING_LEVEL">
+<option_key>GEN_CND_REGION_NOT_BUILDING_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{dcdea184-2445-4f65-94ef-edd3b366b2a8}" record_key="GEN_CND_REGION_NOT_COASTAL">
+<option_key>GEN_CND_REGION_NOT_COASTAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{415c5bf7-800a-4f36-8321-8115f88c46e0}" record_key="GEN_CND_REGION_NOT_CONSTRUCTING">
+<option_key>GEN_CND_REGION_NOT_CONSTRUCTING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{78ac3111-cb87-4abe-a946-815d8655d982}" record_key="GEN_CND_REGION_NOT_CONTAINS_OFFICIAL">
+<option_key>GEN_CND_REGION_NOT_CONTAINS_OFFICIAL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e7dce22b-b58b-4640-9521-cb6fac7218e1}" record_key="GEN_CND_REGION_NOT_ENEMY_NEIGHBOURS">
+<option_key>GEN_CND_REGION_NOT_ENEMY_NEIGHBOURS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{300bdc9f-0b71-4995-a78c-fe35a84af615}" record_key="GEN_CND_REGION_NOT_MAXED_BUILDING_CHAIN">
+<option_key>GEN_CND_REGION_NOT_MAXED_BUILDING_CHAIN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{519d645a-1c4b-422c-a76a-98e862558ec5}" record_key="GEN_CND_REGION_NOT_NEIGHBOURS">
+<option_key>GEN_CND_REGION_NOT_NEIGHBOURS</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{af9d9f68-bcee-4e92-ba1d-be204e3b12ef}" record_key="GEN_CND_REGION_NOT_REBELLION">
+<option_key>GEN_CND_REGION_NOT_REBELLION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4b221ef3-3e62-467c-bc9c-c9796557482d}" record_key="GEN_CND_REGION_NOT_RECRUITING">
+<option_key>GEN_CND_REGION_NOT_RECRUITING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d4a3a93a-7e71-437c-a54d-e526333d0d04}" record_key="GEN_CND_REGION_NOT_RELIGION">
+<option_key>GEN_CND_REGION_NOT_RELIGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{7b8801c5-4eaf-4022-82f0-1f323bcfa340}" record_key="GEN_CND_REGION_NOT_SAME_RELIGION">
+<option_key>GEN_CND_REGION_NOT_SAME_RELIGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d0512ef1-f7c9-4c51-8188-00ea51118688}" record_key="GEN_CND_REGION_NOT_SLOT_TYPE">
+<option_key>GEN_CND_REGION_NOT_SLOT_TYPE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f76983da-a389-4f28-bf55-a16facc34ff2}" record_key="GEN_CND_REGION_REBELLION">
+<option_key>GEN_CND_REGION_REBELLION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b7d45372-1d51-4561-90bf-9c987234c8dc}" record_key="GEN_CND_REGION_RECRUITING">
+<option_key>GEN_CND_REGION_RECRUITING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{2f146eaf-5ff2-4756-9e2e-2f003e653176}" record_key="GEN_CND_REGION_RELIGION">
+<option_key>GEN_CND_REGION_RELIGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{710dc2e1-f6d8-41d0-87bd-2ea51ebfe0e1}" record_key="GEN_CND_REGION_SAME_RELIGION">
+<option_key>GEN_CND_REGION_SAME_RELIGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{eae9ef0e-bb0b-4e5d-a7d9-359f17503f9c}" record_key="GEN_CND_REGION_SLOT_TYPE">
+<option_key>GEN_CND_REGION_SLOT_TYPE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{00fce88b-38f9-4771-a7a3-060bf7cfda07}" record_key="GEN_CND_RESEARCHABLE">
+<option_key>GEN_CND_RESEARCHABLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{3d839a7a-c67d-422c-a12d-cf98bafd7b39}" record_key="GEN_CND_RESEARCHED">
+<option_key>GEN_CND_RESEARCHED</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d18d757d-e1ea-4cce-9020-b48e37f5a8e9}" record_key="GEN_CND_RESEARCHING">
+<option_key>GEN_CND_RESEARCHING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{df8b273e-0b6f-4b06-bb24-fe6a770a5147}" record_key="GEN_CND_SHOGUN">
+<option_key>GEN_CND_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a80aba4c-6f29-42da-bf79-2f31a2a7e62d}" record_key="GEN_CND_SLOT_TYPE">
+<option_key>GEN_CND_SLOT_TYPE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{5383c769-aa10-4175-b3b1-7aa3ba682eb1}" record_timestamp="1375976237792" record_key="GEN_CND_STANCE">
+<option_key>GEN_CND_STANCE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{fec69a60-f726-4d4a-9e59-a6aef93b7c9f}" record_key="GEN_CND_TARGET_ARMY_IN_ANY_REGION">
+<option_key>GEN_CND_TARGET_ARMY_IN_ANY_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b69917d9-5f3a-46dd-b1f1-dc7a4b115d96}" record_timestamp="1376575560463" record_key="GEN_CND_TARGET_ARMY_NEAR_ORIGINAL_HOME_REGION">
+<option_key>GEN_CND_TARGET_ARMY_NEAR_ORIGINAL_HOME_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a09582dd-859f-40e5-a541-b43599579a99}" record_key="GEN_CND_TECHNOLOGY_CIVIL">
+<option_key>GEN_CND_TECHNOLOGY_CIVIL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{fdab06b0-ec49-42c4-83d8-561551b20698}" record_key="GEN_CND_TECHNOLOGY_ENGINEERING">
+<option_key>GEN_CND_TECHNOLOGY_ENGINEERING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b13cc00b-80e2-49a6-8dd0-ae5912630529}" record_key="GEN_CND_TECHNOLOGY_MILITARY">
+<option_key>GEN_CND_TECHNOLOGY_MILITARY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{911844f0-0d93-4d27-a121-942f86c849c3}" record_key="GEN_CND_TECHNOLOGY_NOT_CIVIL">
+<option_key>GEN_CND_TECHNOLOGY_NOT_CIVIL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{295920cd-3376-4934-9fab-0e496cd94b4c}" record_key="GEN_CND_TECHNOLOGY_NOT_ENGINEERING">
+<option_key>GEN_CND_TECHNOLOGY_NOT_ENGINEERING</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0799f047-21ab-4f27-8a17-f07ba9bdec8c}" record_key="GEN_CND_TECHNOLOGY_NOT_MILITARY">
+<option_key>GEN_CND_TECHNOLOGY_NOT_MILITARY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4568f4c9-e853-41a8-9e54-a5df9fc4b22a}" record_key="GEN_CND_TRADE">
+<option_key>GEN_CND_TRADE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{0801445e-ba3d-4418-8704-a16e885be083}" record_key="GEN_CND_VISIBLE">
+<option_key>GEN_CND_VISIBLE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{f638afda-5fa8-493f-a9ab-d763f1e27d0b}" record_key="GEN_CND_WAR">
+<option_key>GEN_CND_WAR</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{cc248f96-6f21-43be-88c4-67f4ae1c4b07}" record_key="GEN_CND_WAR_SHOGUN">
+<option_key>GEN_CND_WAR_SHOGUN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{8998cc27-0d83-4ce4-8a61-5abe65b451ba}" record_key="GEN_CND_WAR_WITH_ALLY">
+<option_key>GEN_CND_WAR_WITH_ALLY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{715c5a90-e307-4dfb-9696-5672f1c4b184}" record_key="GEN_CND_WAR_WITH_ENEMY">
+<option_key>GEN_CND_WAR_WITH_ENEMY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{996b232d-378f-4ec9-a406-cb29645d70a2}" record_key="GEN_TARGET_CHARACTER">
+<option_key>GEN_TARGET_CHARACTER</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{7ebf8dbf-d4d3-4b7a-9835-124de4eace85}" record_key="GEN_TARGET_FACTION">
+<option_key>GEN_TARGET_FACTION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{7cfbc7b0-b08a-4974-9191-739ce74944e2}" record_key="GEN_TARGET_MILITARY_FORCE">
+<option_key>GEN_TARGET_MILITARY_FORCE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{eeaa61ee-5023-4749-b941-b267577dbf62}" record_key="GEN_TARGET_NONE">
+<option_key>GEN_TARGET_NONE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{146bf56e-65be-4db8-920b-d2eba6ae8e63}" record_key="GEN_TARGET_PARENT">
+<option_key>GEN_TARGET_PARENT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e62c21be-3f35-4241-8aed-2e40a358b8fe}" record_key="GEN_TARGET_REGION">
+<option_key>GEN_TARGET_REGION</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{68275e88-dc4f-4ee5-9c04-22f8f26beaaf}" record_key="GEN_TARGET_SETTLEMENT">
+<option_key>GEN_TARGET_SETTLEMENT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{19e53e79-3e8a-4484-8baa-40214833f832}" record_key="GEN_TARGET_SLOT">
+<option_key>GEN_TARGET_SLOT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e2ded995-e22c-450b-a7aa-3cd24fc613f2}" record_key="GEN_TARGET_TECHNOLOGY">
+<option_key>GEN_TARGET_TECHNOLOGY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b53ddccc-396d-4a4e-8846-0ce06f0717c9}" record_key="VAR_CHANCE">
+<option_key>VAR_CHANCE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{a80fa840-5872-426e-8f76-a7268c894c69}" record_key="VAR_DELAY_MAX">
+<option_key>VAR_DELAY_MAX</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{8d204142-5ee9-48bf-8d08-223e05f0c460}" record_key="VAR_DELAY_MIN">
+<option_key>VAR_DELAY_MIN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{5b0d950b-976f-44aa-8bf0-3531c20e699d}" record_key="VAR_FOLLOWUP_CHANCE">
+<option_key>VAR_FOLLOWUP_CHANCE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{827ad316-d2f8-412e-ab6b-4faa5a49462e}" record_key="VAR_OBJECTIVE_AGENT">
+<option_key>VAR_OBJECTIVE_AGENT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{746210a7-984c-4246-a3ae-b806bcc37256}" record_key="VAR_OBJECTIVE_ARMIES_ONLY">
+<option_key>VAR_OBJECTIVE_ARMIES_ONLY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{18cd2cca-526e-462c-9c15-0d1ecbfd0fe6}" record_key="VAR_OBJECTIVE_BUILDING_CHAIN">
+<option_key>VAR_OBJECTIVE_BUILDING_CHAIN</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{5cad5dde-5e15-4076-85f0-1e015b7d3e9c}" record_key="VAR_OBJECTIVE_BUILDING_LEVEL">
+<option_key>VAR_OBJECTIVE_BUILDING_LEVEL</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d03d8e7f-aafb-4045-8a96-8373ed4ece8e}" record_key="VAR_OBJECTIVE_INVADING_ONLY">
+<option_key>VAR_OBJECTIVE_INVADING_ONLY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{75f882df-ab5c-40f2-8076-5b49d52731bf}" record_key="VAR_OBJECTIVE_NAVIES_ONLY">
+<option_key>VAR_OBJECTIVE_NAVIES_ONLY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{3d432a2d-d400-4e9a-8308-11bd52f54f43}" record_key="VAR_OBJECTIVE_RELIGION_PCT">
+<option_key>VAR_OBJECTIVE_RELIGION_PCT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{2bff97aa-d833-473c-8864-c1168663c18d}" record_key="VAR_OBJECTIVE_REQUIRES_VICTORY">
+<option_key>VAR_OBJECTIVE_REQUIRES_VICTORY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e5a8d878-4971-4f20-9d70-d42d427ecbd0}" record_key="VAR_OBJECTIVE_TECH_CATEGORY">
+<option_key>VAR_OBJECTIVE_TECH_CATEGORY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{4907aa33-5667-47a1-8d2c-443084d5e0c5}" record_key="VAR_OBJECTIVE_UNIT">
+<option_key>VAR_OBJECTIVE_UNIT</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{e4158445-d49f-484e-9888-83d65bae3a1e}" record_key="VAR_OBJECTIVE_UNIT_CASTE">
+<option_key>VAR_OBJECTIVE_UNIT_CASTE</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{d8de9fad-fe27-4a9b-b80a-37c2a94c1d17}" record_key="VAR_OBJECTIVE_UNIT_CATEGORY">
+<option_key>VAR_OBJECTIVE_UNIT_CATEGORY</option_key>
+</cdir_events_incident_options>
+<cdir_events_incident_options record_uuid="{b7989762-63c2-4a7d-b916-45c73538ed1c}" record_key="VAR_OBJECTIVE_UNIT_CLASS">
+<option_key>VAR_OBJECTIVE_UNIT_CLASS</option_key>
+</cdir_events_incident_options>
+</dataroot>

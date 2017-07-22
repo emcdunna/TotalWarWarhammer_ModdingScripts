@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_campaign_autoresolver_mod_group_targets>
+<root>
+<edit_uuid>e2346236-8a8a-43b7-b38b-92357fa5988e</edit_uuid>
+<field>
+<field_uuid>{14391139-0145-4786-a10d-82c16b422622}</field_uuid>
+<primary_key>1</primary_key>
+<name>id</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+</field>
+<field>
+<field_uuid>{04986f5e-ccd9-4fd5-b9f3-c3cf6df92031}</field_uuid>
+<primary_key>0</primary_key>
+<name>mechanic_target</name>
+<field_type>text</field_type>
+<required>0</required>
+<max_length>255</max_length>
+</field>
+<field>
+<field_uuid>{c45d25f3-4182-4d2b-bed7-6e1545fcc980}</field_uuid>
+<primary_key>0</primary_key>
+<name>alliance_target</name>
+<field_type>text</field_type>
+<required>0</required>
+<max_length>255</max_length>
+</field>
+<field>
+<field_uuid>{12513fcd-79e4-4f35-9bdd-8835ed418458}</field_uuid>
+<primary_key>0</primary_key>
+<name>player_target</name>
+<field_type>text</field_type>
+<required>0</required>
+<max_length>255</max_length>
+</field>
+</root>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personality_cultural_components.xsd" export_time="Wed Nov 16 19:38:46 2016" revision="14" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>c3269c8b-b384-495d-9348-f5aee067872f</edit_uuid>
+<cai_personality_cultural_components record_uuid="{c76a729d-d1c5-4361-bbca-ae742fd4aeb0}" record_timestamp="1449250862553" record_key="anti_chaos">
+<base_bonus_multiplier>0</base_bonus_multiplier>
+<base_penalty_multiplier>0</base_penalty_multiplier>
+<event_bonus_multiplier>1</event_bonus_multiplier>
+<event_penalty_multiplier>1</event_penalty_multiplier>
+<id>anti_chaos</id>
+<long_description>personality_desc_long_shield_of_civilisation</long_description>
+<short_description>personality_desc_short_shield_of_civilisation</short_description>
+</cai_personality_cultural_components>
+<cai_personality_cultural_components record_uuid="{82b98f40-bd25-414b-8262-9f35c720f8be}" record_timestamp="1428920234478" record_key="default">
+<base_bonus_multiplier>0</base_bonus_multiplier>
+<base_penalty_multiplier>0</base_penalty_multiplier>
+<event_bonus_multiplier>1</event_bonus_multiplier>
+<event_penalty_multiplier>1</event_penalty_multiplier>
+<id>default</id>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personality_cultural_components>
+<cai_personality_cultural_components record_uuid="{f3d4b152-5520-4580-8607-d425f797937f}" record_timestamp="1479325110254" record_key="dislikes_beastmen">
+<base_bonus_multiplier>1</base_bonus_multiplier>
+<base_penalty_multiplier>1</base_penalty_multiplier>
+<event_bonus_multiplier>1</event_bonus_multiplier>
+<event_penalty_multiplier>1</event_penalty_multiplier>
+<id>dislikes_beastmen</id>
+<long_description>dlc05_personality_desc_long_dislikes_beastmen</long_description>
+<short_description>dlc05_personality_desc_short_dislikes_beastmen</short_description>
+</cai_personality_cultural_components>
+<cai_personality_cultural_components record_uuid="{a3e91f40-83d5-400d-bf55-27b8673c7ba7}" record_timestamp="1449489810545" record_key="dislikes_bretonnia">
+<base_bonus_multiplier>0</base_bonus_multiplier>
+<base_penalty_multiplier>0</base_penalty_multiplier>
+<event_bonus_multiplier>1</event_bonus_multiplier>
+<event_penalty_multiplier>1</event_penalty_multiplier>
+<id>dislikes_bretonnia</id>
+<long_description>personality_desc_long_dislikes_bretonnia</long_description>
+<short_description>personality_desc_short_dislikes_bretonnia</short_description>
+</cai_personality_cultural_components>
+<cai_personality_cultural_components record_uuid="{e0dde7f4-962c-478f-be16-da834c2583cf}" record_timestamp="1449489810481" record_key="dislikes_dwarfs">
+<base_bonus_multiplier>0</base_bonus_multiplier>
+<base_penalty_multiplier>0</base_penalty_multiplier>
+<event_bonus_multiplier>1</event_bonus_multiplier>
+<event_penalty_multiplier>1</event_penalty_multiplier>
+<id>dislikes_dwarfs</id>
+<long_description>personality_desc_long_dislikes_dwarfs</long_description>
+<short_description>personality_desc_short_dislikes_dwarfs</short_description>
+</cai_personality_cultural_components>
+<cai_personality_cultural_components record_uuid="{c108a840-403a-492f-9a55-83b6c3a26840}" record_timestamp="1449489810411" record_key="dislikes_empire">
+<base_bonus_multiplier>0</base_bonus_multiplier>
+<base_penalty_multiplier>0</base_penalty_multiplier>
+<event_bonus_multiplier>1</event_bonus_multiplier>
+<event_penalty_multiplier>1</event_penalty_multiplier>
+<id>dislikes_empire</id>
+<long_description>personality_desc_long_dislikes_empire</long_description>
+<short_description>personality_desc_short_dislikes_empire</short_description>
+</cai_personality_cultural_components>
+<cai_personality_cultural_components record_uuid="{81d8fa66-bf13-4a03-b81f-4c68dee5cf45}" record_timestamp="1454089983324" record_key="likes_vampires">
+<base_bonus_multiplier>0</base_bonus_multiplier>
+<base_penalty_multiplier>0</base_penalty_multiplier>
+<event_bonus_multiplier>1</event_bonus_multiplier>
+<event_penalty_multiplier>1</event_penalty_multiplier>
+<id>likes_vampires</id>
+<long_description>personality_desc_long_likes_vampires</long_description>
+<short_description>personality_desc_short_likes_vampires</short_description>
+</cai_personality_cultural_components>
+</dataroot>

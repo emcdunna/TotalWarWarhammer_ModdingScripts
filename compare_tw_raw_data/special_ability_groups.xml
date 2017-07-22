@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="special_ability_groups.xsd" export_time="Tue Dec 6 16:04:44 2016" revision="49" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>231e3aa3-cc5d-4eae-9a22-6a38e2dc35b1</edit_uuid>
+<special_ability_groups record_uuid="{63ca419b-ffe4-42c0-867e-793bbb7d9ed2}" record_timestamp="1481040284485" record_key="wh_dlc03_lore_beasts">
+<ability_group>wh_dlc03_lore_beasts</ability_group>
+<button_name>lore_beasts</button_name>
+<colour_b>0</colour_b>
+<colour_g>183</colour_g>
+<colour_r>255</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_dlc03_lore_passive_wild_heart.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Lore of Beasts" last_edit_user="bob">Lore of Beasts</name>
+<sort_order>10</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Beasts</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Lore of Beasts" last_edit_user="bob">Lore of Beasts</tooltip>
+</special_ability_groups>
+<special_ability_groups record_uuid="{4b12372d-20b6-4077-bf61-a6d54afff57c}" record_timestamp="1481040284495" record_key="wh_dlc03_lore_wild">
+<ability_group>wh_dlc03_lore_wild</ability_group>
+<button_name>lore_wild</button_name>
+<colour_b>92</colour_b>
+<colour_g>181</colour_g>
+<colour_r>134</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_dlc03_lore_passive_bestial_surge.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Lore of the Wild" last_edit_user="bob">Lore of the Wild</name>
+<sort_order>9</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Wild</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Lore of the Wild" last_edit_user="bob">Lore of the Wild</tooltip>
+</special_ability_groups>
+<special_ability_groups record_uuid="{b0f4b354-a4aa-40dc-b417-cfd2f7b37d9f}" record_timestamp="1481040284510" record_key="wh_dlc04_lore_helman_ghorst">
+<ability_group>wh_dlc04_lore_helman_ghorst</ability_group>
+<button_name>lore_vampire</button_name>
+<colour_b>1</colour_b>
+<colour_g>1</colour_g>
+<colour_r>119</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_main_lore_passive_the_curse_of_undeath.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Lore of Vampires" last_edit_user="bob">Lore of Vampires</name>
+<sort_order>12</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Vampire</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Lore of Vampires" last_edit_user="bob">Lore of Vampires</tooltip>
+</special_ability_groups>
+<special_ability_groups record_uuid="{75423282-4ca3-4001-8296-97d65df37685}" record_timestamp="1481040284517" record_key="wh_dlc04_lore_strigoi">
+<ability_group>wh_dlc04_lore_strigoi</ability_group>
+<button_name>lore_vampire</button_name>
+<colour_b>1</colour_b>
+<colour_g>1</colour_g>
+<colour_r>119</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_main_lore_passive_the_curse_of_undeath.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Lore of Vampires" last_edit_user="bob">Lore of Vampires</name>
+<sort_order>13</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Vampire</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Lore of Vampires" last_edit_user="bob">Lore of Vampires</tooltip>
+</special_ability_groups>
+<special_ability_groups record_uuid="{b9648288-0c8a-43a2-aa28-ceba5cf3c24c}" record_timestamp="1481040284525" record_key="wh_dlc05_lore_branchwraith">
+<ability_group>wh_dlc05_lore_branchwraith</ability_group>
+<button_name>lore_shadow</button_name>
+<colour_b>139</colour_b>
+<colour_g>81</colour_g>
+<colour_r>71</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_dlc05_lore_passive_smoke_and_mirrors.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Lore of Shadows" last_edit_user="bob">Lore of Shadows</name>
+<sort_order>14</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Shadow</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Lore of Shadows" last_edit_user="bob">Lore of Shadows</tooltip>
+</special_ability_groups>
+<special_ability_groups record_uuid="{d33a06a2-85e2-43f4-9224-2139e3dad604}" record_timestamp="1481040284526" record_key="wh_dlc05_lore_life">
+<ability_group>wh_dlc05_lore_life</ability_group>
+<button_name>lore_life</button_name>
+<colour_b>87</colour_b>
+<colour_g>165</colour_g>
+<colour_r>112</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_dlc05_spell_life_life_bloom.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Lore of Life" last_edit_user="bob">Lore of Life</name>
+<sort_order>11</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Life</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Lore of Life" last_edit_user="bob">Lore of Life</tooltip>
+</special_ability_groups>
+<special_ability_groups record_uuid="{ce803b6c-cea5-4998-be68-22933cacca18}" record_timestamp="1481040284548" record_key="wh_dlc05_lore_shadows">
+<ability_group>wh_dlc05_lore_shadows</ability_group>
+<button_name>lore_shadow</button_name>
+<colour_b>139</colour_b>
+<colour_g>81</colour_g>
+<colour_r>71</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_dlc05_lore_passive_smoke_and_mirrors.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Lore of Shadows" last_edit_user="bob">Lore of Shadows</name>
+<sort_order>8</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Shadow</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Lore of Shadows" last_edit_user="bob">Lore of Shadows</tooltip>
+</special_ability_groups>
+<special_ability_groups record_uuid="{90f8ef90-4259-4530-9f5c-c85ed236a301}" record_timestamp="1481040284557" record_key="wh_main_lore_big_waaagh">
+<ability_group>wh_main_lore_big_waaagh</ability_group>
+<button_name>lore_big_waaagh</button_name>
+<colour_b>0</colour_b>
+<colour_g>108</colour_g>
+<colour_r>52</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_main_lore_passive_power_of_da_waaagh.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Big Waaagh!" last_edit_user="bob">Big Waaagh!</name>
+<sort_order>1</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Big_Waaagh</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Big Waaagh!" last_edit_user="bob">Big Waaagh!</tooltip>
+</special_ability_groups>
+<special_ability_groups record_uuid="{496304e1-41c9-42b3-963a-d1ed9117eb35}" record_timestamp="1481040284570" record_key="wh_main_lore_death">
+<ability_group>wh_main_lore_death</ability_group>
+<button_name>lore_death</button_name>
+<colour_b>59</colour_b>
+<colour_g>0</colour_g>
+<colour_r>70</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_main_lore_passive_life_leeching.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Lore of Death" last_edit_user="bob">Lore of Death</name>
+<sort_order>5</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Death</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Lore of Death" last_edit_user="bob">Lore of Death</tooltip>
+</special_ability_groups>
+<special_ability_groups record_uuid="{855f992d-5e81-4bde-8c63-25e50baed8fe}" record_timestamp="1481040284590" record_key="wh_main_lore_fire">
+<ability_group>wh_main_lore_fire</ability_group>
+<button_name>lore_fire</button_name>
+<colour_b>18</colour_b>
+<colour_g>95</colour_g>
+<colour_r>211</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_main_lore_passive_kindleflame.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Lore of Fire" last_edit_user="bob">Lore of Fire</name>
+<sort_order>4</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Fire</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Lore of Fire" last_edit_user="bob">Lore of Fire</tooltip>
+</special_ability_groups>
+<special_ability_groups record_uuid="{b94355bb-f10b-49b8-9b22-f36550a04552}" record_timestamp="1481040284591" record_key="wh_main_lore_heavens">
+<ability_group>wh_main_lore_heavens</ability_group>
+<button_name>lore_heavens</button_name>
+<colour_b>178</colour_b>
+<colour_g>134</colour_g>
+<colour_r>29</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_main_lore_passive_roiling_skies.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Lore of Heavens" last_edit_user="bob">Lore of Heavens</name>
+<sort_order>3</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Heavens</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Lore of Heavens" last_edit_user="bob">Lore of Heavens</tooltip>
+</special_ability_groups>
+<special_ability_groups record_uuid="{972117fc-fc7f-4eb4-8629-9f7175f4e791}" record_timestamp="1481040284592" record_key="wh_main_lore_light">
+<ability_group>wh_main_lore_light</ability_group>
+<button_name>lore_light</button_name>
+<colour_b>229</colour_b>
+<colour_g>232</colour_g>
+<colour_r>230</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_main_lore_passive_exorcism.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Lore of Light" last_edit_user="bob">Lore of Light</name>
+<sort_order>2</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Light</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Lore of Light" last_edit_user="bob">Lore of Light</tooltip>
+</special_ability_groups>
+<special_ability_groups record_uuid="{fe236610-c6e4-40a4-aa63-d6927cb92017}" record_timestamp="1481040284592" record_key="wh_main_lore_lil_waaagh">
+<ability_group>wh_main_lore_lil_waaagh</ability_group>
+<button_name>lore_lil_waaagh</button_name>
+<colour_b>79</colour_b>
+<colour_g>139</colour_g>
+<colour_r>108</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_main_lore_passive_sneaky_stealin.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Little Waaagh!" last_edit_user="bob">Little Waaagh!</name>
+<sort_order>0</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Lil_Waaagh</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Little Waaagh!" last_edit_user="bob">Little Waaagh!</tooltip>
+</special_ability_groups>
+<special_ability_groups record_uuid="{ad9d0034-c5e0-4be7-b8f1-d1afb2fd6b9d}" record_timestamp="1481040284600" record_key="wh_main_lore_metal">
+<ability_group>wh_main_lore_metal</ability_group>
+<button_name>lore_metal</button_name>
+<colour_b>0</colour_b>
+<colour_g>41</colour_g>
+<colour_r>146</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_main_lore_passive_metalshifting.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Lore of Metal" last_edit_user="bob">Lore of Metal</name>
+<sort_order>7</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Metal</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Lore of Metal" last_edit_user="bob">Lore of Metal</tooltip>
+</special_ability_groups>
+<special_ability_groups record_uuid="{73ae5f65-e13f-4e94-973e-f997208e3f39}" record_timestamp="1481040284601" record_key="wh_main_lore_vampires">
+<ability_group>wh_main_lore_vampires</ability_group>
+<button_name>lore_vampire</button_name>
+<colour_b>1</colour_b>
+<colour_g>1</colour_g>
+<colour_r>119</colour_r>
+<icon_path>UI\Battle UI\ability_icons\wh_main_lore_passive_the_curse_of_undeath.png</icon_path>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Lore of Vampires" last_edit_user="bob">Lore of Vampires</name>
+<sort_order>6</sort_order>
+<sound_event>Play_WH_UI_Ability_Click_Generic_Vampire</sound_event>
+<special_edition_mask>0</special_edition_mask>
+<tooltip state="APPROVED" last_approved_text="Lore of Vampires" last_edit_user="bob">Lore of Vampires</tooltip>
+</special_ability_groups>
+</dataroot>

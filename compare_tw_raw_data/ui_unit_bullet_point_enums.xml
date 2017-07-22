@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ui_unit_bullet_point_enums.xsd" export_time="Thu Dec 22 09:04:18 2016" revision="80" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>ec8bcb81-6cec-4ec2-b54d-4ecc9994e762</edit_uuid>
+<ui_unit_bullet_point_enums record_uuid="{93b6feed-3a7a-4a35-928a-4989e91efab4}" record_timestamp="1464176218337" record_key="anti_infantry">
+<key>anti_infantry</key>
+<onscreen_name state="APPROVED" last_approved_text="Anti-Infantry" last_edit_user="bob">Anti-Infantry</onscreen_name>
+<sort_order>4</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Anti-infantry units have an advantage against targets that are smaller than a horse. This advantage can be a [[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]]damage bonus against small targets, superior weight used to smash through lighter enemies, or an explosive attack from range that effects a large area." last_edit_user="bob">Anti-infantry units have an advantage against targets that are smaller than a horse. This advantage can be a [[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]]damage bonus against small targets, superior weight used to smash through lighter enemies, or an explosive attack from range that effects a large area.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{83a2c8b3-74e8-4582-8096-58131d39415e}" record_timestamp="1464176218338" record_key="anti_large">
+<key>anti_large</key>
+<onscreen_name state="APPROVED" last_approved_text="Anti-Large" last_edit_user="bob">Anti-Large</onscreen_name>
+<sort_order>5</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Anti-large units have an advantage against targets that are at least as large as a horse. This advantage can be a [[img:ui/skins/default/modifier_icon_bonus_vs_large.png]][[/img]]damage bonus against large targets or an attack that focuses on a very small area. However, some units are simply better against large targets because their attacks are slow and easy to dodge by skilled melee combatants." last_edit_user="bob">Anti-large units have an advantage against targets that are at least as large as a horse. This advantage can be a [[img:ui/skins/default/modifier_icon_bonus_vs_large.png]][[/img]]damage bonus against large targets or an attack that focuses on a very small area. However, some units are simply better against large targets because their attacks are slow and easy to dodge by skilled melee combatants.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{071782a8-0d05-486b-8ae0-7f57bdd4e30b}" record_timestamp="1477035609216" record_key="armed_to_da_teef">
+<key>armed_to_da_teef</key>
+<onscreen_name state="APPROVED" last_approved_text="Armed to da Teef" last_edit_user="bob">Armed to da Teef</onscreen_name>
+<sort_order>5</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Wielding an ‘eavy choppa in each hand, the Krimson Killerz cleave through several foes with each swing." last_edit_user="bob">Wielding an ‘eavy choppa in each hand, the Krimson Killerz cleave through several foes with each swing.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{8b053488-c889-46ed-87e3-0869eb7665ed}" record_timestamp="1464176218340" record_key="armour_piercing">
+<key>armour_piercing</key>
+<onscreen_name state="APPROVED" last_approved_text="Armour-Piercing" last_edit_user="bob">Armour-Piercing</onscreen_name>
+<sort_order>3</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="The damage of [[img:icon_ap]][[/img]]armour-piercing weapons mostly ignores the armour of the target, making them the ideal choice against heavily-armoured enemies. They are often heavier and attack at a slower rate though, making them less efficient against poorly-armoured targets." last_edit_user="bob">The damage of [[img:icon_ap]][[/img]]armour-piercing weapons mostly ignores the armour of the target, making them the ideal choice against heavily-armoured enemies. They are often heavier and attack at a slower rate though, making them less efficient against poorly-armoured targets.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{bbe4336b-b409-4025-8bc8-ad2ae0eae240}" record_timestamp="1464176218341" record_key="armour_piercing_melee">
+<key>armour_piercing_melee</key>
+<onscreen_name state="APPROVED" last_approved_text="Armour-Piercing Melee" last_edit_user="bob">Armour-Piercing Melee</onscreen_name>
+<sort_order>3</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="The damage of [[img:icon_ap]][[/img]]armour-piercing weapons mostly ignores the armour of the target, making them the ideal choice against heavily-armoured enemies. They are often heavier and attack at a slower rate though, making them less efficient against poorly-armoured targets." last_edit_user="bob">The damage of [[img:icon_ap]][[/img]]armour-piercing weapons mostly ignores the armour of the target, making them the ideal choice against heavily-armoured enemies. They are often heavier and attack at a slower rate though, making them less efficient against poorly-armoured targets.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{e20b955f-1e12-47e7-a1bb-e2707f783182}" record_timestamp="1464176218336" record_key="armour_piercing_ranged">
+<key>armour_piercing_ranged</key>
+<onscreen_name state="APPROVED" last_approved_text="Armour-Piercing Missiles" last_edit_user="bob">Armour-Piercing Missiles</onscreen_name>
+<sort_order>3</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="The damage of [[img:icon_ap]][[/img]]armour-piercing weapons mostly ignores the armour of the target, making them the ideal choice against heavily-armoured enemies. They are often heavier and attack at a slower rate though, making them less efficient against poorly-armoured targets." last_edit_user="bob">The damage of [[img:icon_ap]][[/img]]armour-piercing weapons mostly ignores the armour of the target, making them the ideal choice against heavily-armoured enemies. They are often heavier and attack at a slower rate though, making them less efficient against poorly-armoured targets.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{730a0709-657f-41e4-a292-f0774830b6f4}" record_timestamp="1477035597815" record_key="armour_sundering">
+<key>armour_sundering</key>
+<onscreen_name state="APPROVED" last_approved_text="Armour-Sundering" last_edit_user="bob">Armour-Sundering</onscreen_name>
+<sort_order>20</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="The [[img:ui/battle ui/ability_icons/wh_dlc06_unit_contact_sundered_armour.png]][[/img]]armour-splitting attacks of this unit can significantly weaken the target's armour." last_edit_user="bob">The [[img:ui/battle ui/ability_icons/wh_dlc06_unit_contact_sundered_armour.png]][[/img]]armour-splitting attacks of this unit can significantly weaken the target's armour.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{779c80a8-4282-45cc-bdc7-c910ea3079fb}" record_timestamp="1464176218316" record_key="armoured">
+<key>armoured</key>
+<onscreen_name state="APPROVED" last_approved_text="Armoured" last_edit_user="bob">Armoured</onscreen_name>
+<sort_order>1</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Armoured units can block damage from any source apart from [[img:icon_ap]][[/img]]Armour-Piercing damage." last_edit_user="bob">Armoured units can block damage from any source apart from [[img:icon_ap]][[/img]]Armour-Piercing damage.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{f34d77c4-16c4-47b9-bed1-c2fbf42dd4a4}" record_timestamp="1464176218317" record_key="armoured_and_shielded">
+<key>armoured_and_shielded</key>
+<onscreen_name state="APPROVED" last_approved_text="Armoured &amp; Shielded" last_edit_user="bob">Armoured &amp; Shielded</onscreen_name>
+<sort_order>1</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Armoured units can block damage from any source apart from [[img:icon_ap]][[/img]]Armour-Piercing damage. [[img:icon_shield]][[/img]]Shields have a chance of blocking arrows, bolts, rifle shots and similar small arms fire - but only in a forward facing arc." last_edit_user="bob">Armoured units can block damage from any source apart from [[img:icon_ap]][[/img]]Armour-Piercing damage. [[img:icon_shield]][[/img]]Shields have a chance of blocking arrows, bolts, rifle shots and similar small arms fire - but only in a forward facing arc.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{9ffe05f0-1f49-485e-ac69-58df9a6c381b}" record_timestamp="1406101359428" record_key="att_average_negative">
+<key>att_average_negative</key>
+<onscreen_name state="APPROVED" last_approved_text="Average" last_edit_user="bob">Average</onscreen_name>
+<sort_order>2</sort_order>
+<state>positive</state>
+<tooltip></tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{c56190e8-7d63-4866-93a2-c5983392f85c}" record_timestamp="1406101359167" record_key="att_average_positive">
+<key>att_average_positive</key>
+<onscreen_name state="APPROVED" last_approved_text="Average" last_edit_user="bob">Average</onscreen_name>
+<sort_order>2</sort_order>
+<state>positive</state>
+<tooltip></tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{e23d5d62-6ece-400f-b7e9-42189c9ef18a}" record_timestamp="1406101358120" record_key="att_charge_strong">
+<key>att_charge_strong</key>
+<onscreen_name state="APPROVED" last_approved_text="Devastating Charge" last_edit_user="bob">Devastating Charge</onscreen_name>
+<sort_order>0</sort_order>
+<state>very_positive</state>
+<tooltip></tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{d874915b-5487-42e7-9ca2-6b8fad713054}" record_timestamp="1406101357083" record_key="att_excellent">
+<key>att_excellent</key>
+<onscreen_name state="APPROVED" last_approved_text="Excellent" last_edit_user="bob">Excellent</onscreen_name>
+<sort_order>0</sort_order>
+<state>very_positive</state>
+<tooltip></tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{652526e0-17ef-4918-8ad0-fcb8430893d8}" record_timestamp="1406101358643" record_key="att_good">
+<key>att_good</key>
+<onscreen_name state="APPROVED" last_approved_text="Good" last_edit_user="bob">Good</onscreen_name>
+<sort_order>1</sort_order>
+<state>positive</state>
+<tooltip></tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{5d815cfc-0f49-4e97-a28b-9811a59d3276}" record_timestamp="1406101358382" record_key="att_high">
+<key>att_high</key>
+<onscreen_name state="APPROVED" last_approved_text="High" last_edit_user="bob">High</onscreen_name>
+<sort_order>1</sort_order>
+<state>positive</state>
+<tooltip></tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{0f32335e-7b61-4f9f-8162-cf9d8584dd89}" record_timestamp="1406101359687" record_key="att_low">
+<key>att_low</key>
+<onscreen_name state="APPROVED" last_approved_text="Low" last_edit_user="bob">Low</onscreen_name>
+<sort_order>3</sort_order>
+<state>negative</state>
+<tooltip></tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{2ea89d1a-708b-4ceb-a5e1-a661a8bd88b6}" record_timestamp="1406101359952" record_key="att_poor">
+<key>att_poor</key>
+<onscreen_name state="APPROVED" last_approved_text="Poor" last_edit_user="bob">Poor</onscreen_name>
+<sort_order>3</sort_order>
+<state>negative</state>
+<tooltip></tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{0885cd27-d827-40ed-ae18-c0e1f8174c86}" record_timestamp="1406101360203" record_key="att_very_poor">
+<key>att_very_poor</key>
+<onscreen_name state="APPROVED" last_approved_text="Very Poor" last_edit_user="bob">Very Poor</onscreen_name>
+<sort_order>4</sort_order>
+<state>very_negative</state>
+<tooltip></tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{2bfd9ba6-0bb8-4ed0-bc55-5cb5f310d747}" record_timestamp="1481889378070" record_key="aura_of_transmutation">
+<key>aura_of_transmutation</key>
+<onscreen_name state="APPROVED" last_approved_text="Aura of Transmutation" last_edit_user="bob">Aura of Transmutation</onscreen_name>
+<sort_order>0</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Morghur's Ruinous, transformative aura protects him from damage most of the time, but he is vulnerable whilst it recharges." last_edit_user="bob">Morghur's Ruinous, transformative aura protects him from damage most of the time, but he is vulnerable whilst it recharges.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{6e248da3-eafa-41e2-8bc7-889fa323b240}" record_timestamp="1460468874771" record_key="ballistics_expert">
+<key>ballistics_expert</key>
+<onscreen_name state="APPROVED" last_approved_text="Ballistics Expert" last_edit_user="bob">Ballistics Expert</onscreen_name>
+<sort_order>0</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit improves all nearby friendly missile units." last_edit_user="bob">This unit improves all nearby friendly missile units.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{47878ccf-8566-4408-9232-d6715beb5964}" record_timestamp="1449248738004" record_key="battle_prayers">
+<key>battle_prayers</key>
+<onscreen_name state="APPROVED" last_approved_text="Battle Prayers" last_edit_user="bob">Battle Prayers</onscreen_name>
+<sort_order>0</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit can learn prayers to support allies and defeat foes in battle." last_edit_user="bob">This unit can learn prayers to support allies and defeat foes in battle.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{c4c4c8e6-f894-425b-804e-067c510c3bcd}" record_timestamp="1474282561087" record_key="berserk">
+<key>berserk</key>
+<onscreen_name state="APPROVED" last_approved_text="Uncontrollable Rage" last_edit_user="bob">Uncontrollable Rage</onscreen_name>
+<sort_order>133</sort_order>
+<state>negative</state>
+<tooltip state="APPROVED" last_approved_text="When in combat this unit can lose control and go berserk, attacking random enemies around it." last_edit_user="bob">When in combat this unit can lose control and go berserk, attacking random enemies around it.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{4839b680-7607-4d19-8b30-d4ca4eeebc1b}" record_timestamp="1444740188548" record_key="bigger_harder">
+<key>bigger_harder</key>
+<onscreen_name state="APPROVED" last_approved_text="Bigger &amp; 'Arder" last_edit_user="bob">Bigger &amp; 'Arder</onscreen_name>
+<sort_order>41</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="The heaviest, strongest and meanest of Orcs, Big 'Uns are eager to prove it against enemies of all sizes." last_edit_user="bob">The heaviest, strongest and meanest of Orcs, Big 'Uns are eager to prove it against enemies of all sizes.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{9ad77a40-0262-43a6-bbdd-87c7e2854009}" record_timestamp="1437472464939" record_key="can_attack_buildings">
+<key>can_attack_buildings</key>
+<onscreen_name state="APPROVED" last_approved_text="Can Attack Buildings" last_edit_user="bob">Can Attack Buildings</onscreen_name>
+<sort_order>15</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit can attack walls, towers and gates." last_edit_user="bob">This unit can attack walls, towers and gates.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{481ce401-1730-4f97-8d6b-2d8088aed376}" record_timestamp="1437472464975" record_key="can_attack_gates">
+<key>can_attack_gates</key>
+<onscreen_name state="APPROVED" last_approved_text="Can attack Gates" last_edit_user="bob">Can attack Gates</onscreen_name>
+<sort_order>16</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit can attack gates." last_edit_user="bob">This unit can attack gates.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{949fd31a-4eaa-44e9-a947-5acebf2d8139}" record_timestamp="1474282561086" record_key="cant_attack_air">
+<key>cant_attack_air</key>
+<onscreen_name state="APPROVED" last_approved_text="Can't Attack Air" last_edit_user="bob">Can't Attack Air</onscreen_name>
+<sort_order>153</sort_order>
+<state>negative</state>
+<tooltip state="APPROVED" last_approved_text="Some ranged weapons, like grenade launchers, bombs or blasting charges, can't target airborne units." last_edit_user="bob">Some ranged weapons, like grenade launchers, bombs or blasting charges, can't target airborne units.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{e6882f87-22e7-4bb4-9e14-a7d16b4eca4f}" record_timestamp="1464176218342" record_key="charge_reflector">
+<key>charge_reflector</key>
+<onscreen_name state="APPROVED" last_approved_text="Charge Defence Against All" last_edit_user="bob">Charge Defence Against All</onscreen_name>
+<sort_order>42</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="When standing and bracing against a charge this unit will negate the enemy's [[img:icon_charge]][[/img]]charge bonus." last_edit_user="bob">When standing and bracing against a charge this unit will negate the enemy's [[img:icon_charge]][[/img]]charge bonus.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{7e07e0ba-f42b-48e9-8e46-7e8ba355e319}" record_timestamp="1464176218343" record_key="charge_reflector_vs_large">
+<key>charge_reflector_vs_large</key>
+<onscreen_name state="APPROVED" last_approved_text="Charge Defence Against Large Foes" last_edit_user="bob">Charge Defence Against Large Foes</onscreen_name>
+<sort_order>42</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="When standing and bracing against a charge of large enemies (such as cavalry or monsters) this unit will negate the enemy's [[img:icon_charge]][[/img]]charge bonus." last_edit_user="bob">When standing and bracing against a charge of large enemies (such as cavalry or monsters) this unit will negate the enemy's [[img:icon_charge]][[/img]]charge bonus.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{2b9efc85-7d84-408d-8b3f-e467f943b7a7}" record_timestamp="1477035609532" record_key="da_great_green_wallop">
+<key>da_great_green_wallop</key>
+<onscreen_name state="APPROVED" last_approved_text="Da Great Green Wallop" last_edit_user="bob">Da Great Green Wallop</onscreen_name>
+<sort_order>20</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="As if smote by mighty Gork himself, this unit’s projectile blinds its target on impact, reducing accuracy, melee attack and melee defence capabilities" last_edit_user="bob">As if smote by mighty Gork himself, this unit’s projectile blinds its target on impact, reducing accuracy, melee attack and melee defence capabilities</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{a455d065-cb95-4a5c-ba1d-38ebe670be94}" record_timestamp="1454525976586" record_key="damage_dealer">
+<key>damage_dealer</key>
+<onscreen_name state="APPROVED" last_approved_text="Damage Dealer" last_edit_user="bob">Damage Dealer</onscreen_name>
+<sort_order>6</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit has a strong emphasis on dealing damage. If fighting it, make sure to take it out before it can get into firing or melee range." last_edit_user="bob">This unit has a strong emphasis on dealing damage. If fighting it, make sure to take it out before it can get into firing or melee range.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{480bd129-cc65-4ce6-bf71-88e3a1c6dba2}" record_timestamp="1462358690911" record_key="deathblow">
+<key>deathblow</key>
+<onscreen_name state="APPROVED" last_approved_text="Deathblow" last_edit_user="bob">Deathblow</onscreen_name>
+<sort_order>62</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Slayers are unbreakable and always fight to the bitter end – sometimes even beyond that! Imminent death only makes them fight harder. When killed in melee, Slayers launch a final attack with their dying breaths." last_edit_user="bob">Slayers are unbreakable and always fight to the bitter end – sometimes even beyond that! Imminent death only makes them fight harder. When killed in melee, Slayers launch a final attack with their dying breaths.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{f9285490-6e9e-4ecc-9e8e-d74d1a2f54de}" record_timestamp="1459950652707" record_key="decent_melee">
+<key>decent_melee</key>
+<onscreen_name state="APPROVED" last_approved_text="Decent Melee Combatant" last_edit_user="bob">Decent Melee Combatant</onscreen_name>
+<sort_order>11</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Despite being primarily a missile unit or spellcaster, this unit can also hold its own ground when fighting in melee." last_edit_user="bob">Despite being primarily a missile unit or spellcaster, this unit can also hold its own ground when fighting in melee.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{ebf0934f-7401-405f-b153-fd34fcb7f62a}" record_timestamp="1454409517528" record_key="doomfire">
+<key>doomfire</key>
+<onscreen_name state="APPROVED" last_approved_text="Doomfire" last_edit_user="bob">Doomfire</onscreen_name>
+<sort_order>43</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="The Hellcannon transforms the souls of former victims into crackling bolts of energy. Targets hit by this projectile receive a [[img:icon_morale]][[/img]]leadership penalty. The daemonic bond between the Hellcannon and its shot also allows minor corrections of the latter's flightpath. When fired in first-person mode, you can control the projectile yourself." last_edit_user="bob">The Hellcannon transforms the souls of former victims into crackling bolts of energy. Targets hit by this projectile receive a [[img:icon_morale]][[/img]]leadership penalty. The daemonic bond between the Hellcannon and its shot also allows minor corrections of the latter's flightpath. When fired in first-person mode, you can control the projectile yourself.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{0927e9a6-8661-4fa5-aa3c-8a6568029b1c}" record_timestamp="1464176218336" record_key="duellist">
+<key>duellist</key>
+<onscreen_name state="APPROVED" last_approved_text="Duellist" last_edit_user="bob">Duellist</onscreen_name>
+<sort_order>46</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit is best used to attack individual targets such as [[img:icon_general]][[/img]]Lords or [[img:icon_hero]][[/img]]Heroes. As it can only damage very few individuals at a time, it is not suitable against hordes of weak enemies." last_edit_user="bob">This unit is best used to attack individual targets such as [[img:icon_general]][[/img]]Lords or [[img:icon_hero]][[/img]]Heroes. As it can only damage very few individuals at a time, it is not suitable against hordes of weak enemies.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{59440f56-0fe8-4b61-a978-f904cf3cd991}" record_timestamp="1471865772071" record_key="dying_corruption">
+<key>dying_corruption</key>
+<onscreen_name state="APPROVED" last_approved_text="Dying Corruption" last_edit_user="bob">Dying Corruption</onscreen_name>
+<sort_order>0</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Uses Dark Magic to damage nearby enemy units over time. " last_edit_user="bob">Uses Dark Magic to damage nearby enemy units over time. </tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{fea23e0b-e4fe-4f68-a671-19ac1ee2673b}" record_timestamp="1451996991227" record_key="elite_unit">
+<key>elite_unit</key>
+<onscreen_name state="APPROVED" last_approved_text="Unit of Renown" last_edit_user="bob">Unit of Renown</onscreen_name>
+<sort_order>0</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Elite unit with stats greatly improved over those of its standard counterpart." last_edit_user="bob">Elite unit with stats greatly improved over those of its standard counterpart.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{f41bbdff-5e0f-4b16-a613-fc0dea99a9a0}" record_timestamp="1455539054653" record_key="ethereal">
+<key>ethereal</key>
+<onscreen_name state="APPROVED" last_approved_text="Ethereal" last_edit_user="bob">Ethereal</onscreen_name>
+<sort_order>7</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Ethereal units ignore most damage done by non-magical weapons. As they have shed most of their physical form, they are not slowed by terrain-based movement penalties either." last_edit_user="bob">Ethereal units ignore most damage done by non-magical weapons. As they have shed most of their physical form, they are not slowed by terrain-based movement penalties either.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{34fb3d43-710e-4ec2-82ce-c3db89c21f16}" record_timestamp="1460466699808" record_key="evocation_of_death">
+<key>evocation_of_death</key>
+<onscreen_name state="APPROVED" last_approved_text="Evocation of Death" last_edit_user="bob">Evocation of Death</onscreen_name>
+<sort_order>0</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="The Black Coach feeds on magical energy that bolsters its resistance and strengthens its charge." last_edit_user="bob">The Black Coach feeds on magical energy that bolsters its resistance and strengthens its charge.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{3d57121a-5073-45b1-b0e4-882816de36cb}" record_timestamp="1437666100332" record_key="expendable">
+<key>expendable</key>
+<onscreen_name state="APPROVED" last_approved_text="Expendable" last_edit_user="bob">Expendable</onscreen_name>
+<sort_order>50</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit is comparably cheap to recruit, maintain and replenish." last_edit_user="bob">This unit is comparably cheap to recruit, maintain and replenish.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{19bd8660-a26a-48fd-878a-23241990f0fd}" record_timestamp="1437472465124" record_key="fast_dwarf">
+<key>fast_dwarf</key>
+<onscreen_name state="APPROVED" last_approved_text="Fast (for a Dwarf)" last_edit_user="bob">Fast (for a Dwarf)</onscreen_name>
+<sort_order>40</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="While Dwarfs are generally not the most nimble inhabitants of the Old World, they can move surprisingly fast when not slowed by heavy armour." last_edit_user="bob">While Dwarfs are generally not the most nimble inhabitants of the Old World, they can move surprisingly fast when not slowed by heavy armour.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{b5fe83b0-bcd4-47cb-9d5a-b1bdc5c6534a}" record_timestamp="1481887318363" record_key="forest_spirit">
+<key>forest_spirit</key>
+<onscreen_name state="APPROVED" last_approved_text="Forest Spirit" last_edit_user="bob">Forest Spirit</onscreen_name>
+<sort_order>1</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="The spirits of Athel Loren are able to shrug off most mundane attacks, causing magical damage in turn before melting into the forest from whence they came." last_edit_user="bob">The spirits of Athel Loren are able to shrug off most mundane attacks, causing magical damage in turn before melting into the forest from whence they came.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{9fc499c8-8818-45f5-bbb4-7c15f579c0f1}" record_timestamp="1481887318362" record_key="forest_stalker">
+<key>forest_stalker</key>
+<onscreen_name state="APPROVED" last_approved_text="Forest Stalker" last_edit_user="bob">Forest Stalker</onscreen_name>
+<sort_order>1</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="The Elves of Athel Loren move faster and aim more precisely within the forest." last_edit_user="bob">The Elves of Athel Loren move faster and aim more precisely within the forest.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{ff2c2910-656f-42c7-b8fe-859a7f1033ce}" record_timestamp="1465232441674" record_key="frenzy">
+<key>frenzy</key>
+<onscreen_name state="APPROVED" last_approved_text="Frenzy" last_edit_user="bob">Frenzy</onscreen_name>
+<sort_order>21</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Units with [[img:ui/battle ui/ability_icons/wh_main_unit_passive_frenzy.png]][[/img]]frenzy cause more damage while their [[img:icon_morale]][[/img]]leadership is high." last_edit_user="bob">Units with [[img:ui/battle ui/ability_icons/wh_main_unit_passive_frenzy.png]][[/img]]frenzy cause more damage while their [[img:icon_morale]][[/img]]leadership is high.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{31e68908-2f8a-44e4-8023-11d7bef1154e}" record_timestamp="1477035609533" record_key="goblin_mangonel">
+<key>goblin_mangonel</key>
+<onscreen_name state="APPROVED" last_approved_text="Goblin Mangonel" last_edit_user="bob">Goblin Mangonel</onscreen_name>
+<sort_order>19</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="A particularly stupid and otherwise useless Goblin prisoner is tied to a boulder and is then fired - screaming all the way - until he smashes into the target. Those hit by this projectile receive a [[img:icon_morale]][[/img]]leadership penalty." last_edit_user="bob">A particularly stupid and otherwise useless Goblin prisoner is tied to a boulder and is then fired - screaming all the way - until he smashes into the target. Those hit by this projectile receive a [[img:icon_morale]][[/img]]leadership penalty.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{7a818d72-35ec-42f5-8f58-80a845166831}" record_timestamp="1455103350383" record_key="good_against_gates">
+<key>good_against_gates</key>
+<onscreen_name state="APPROVED" last_approved_text="Good Against Gates" last_edit_user="bob">Good Against Gates</onscreen_name>
+<sort_order>45</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit is quicker than most when it comes to smashing through gates with their melee weapons." last_edit_user="bob">This unit is quicker than most when it comes to smashing through gates with their melee weapons.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{f6406606-9b77-43b5-958c-84392ef8629b}" record_timestamp="1464176218335" record_key="good_range">
+<key>good_range</key>
+<onscreen_name state="APPROVED" last_approved_text="Good Range" last_edit_user="bob">Good Range</onscreen_name>
+<sort_order>10</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit has a larger [[img:icon_range]][[/img]]range than most other units of the same class. This allows it to take out hostile missile units before they can come into firing range." last_edit_user="bob">This unit has a larger [[img:icon_range]][[/img]]range than most other units of the same class. This allows it to take out hostile missile units before they can come into firing range.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{b8fdd935-4a6d-4b47-9e41-5f5286a6cdae}" record_timestamp="1437472465283" record_key="guided_projectile">
+<key>guided_projectile</key>
+<onscreen_name state="APPROVED" last_approved_text="Guided Projectile" last_edit_user="bob">Guided Projectile</onscreen_name>
+<sort_order>19</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="The projectile fired by this unit can home in on its target. When fired in first-person mode, you can control the projectile yourself." last_edit_user="bob">The projectile fired by this unit can home in on its target. When fired in first-person mode, you can control the projectile yourself.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{a23f0259-dab5-49aa-8301-7af75922457b}" record_timestamp="1477035612207" record_key="improved_bombing">
+<key>improved_bombing</key>
+<onscreen_name state="APPROVED" last_approved_text="Improved Bombing" last_edit_user="bob">Improved Bombing</onscreen_name>
+<sort_order>21</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Like a rain of mighty hammer-blows from above, this unit drops more than one bomb at the same time." last_edit_user="bob">Like a rain of mighty hammer-blows from above, this unit drops more than one bomb at the same time.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{46cd9111-0a8b-4e75-aa3d-2fd985994c7c}" record_timestamp="1471865779688" record_key="inspiring_attack">
+<key>inspiring_attack</key>
+<onscreen_name state="APPROVED" last_approved_text="Inspiring Attack" last_edit_user="bob">Inspiring Attack</onscreen_name>
+<sort_order>0</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Improves [[img:icon_melee_attack]][[/img]]melee attack and [[img:icon_ap]][[/img]]armour-piercing potential of nearby friendly units." last_edit_user="bob">Improves [[img:icon_melee_attack]][[/img]]melee attack and [[img:icon_ap]][[/img]]armour-piercing potential of nearby friendly units.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{7df0cd50-2ac2-4507-85c8-7019d77a48e1}" record_timestamp="1468499538145" record_key="large_bst">
+<key>large_bst</key>
+<onscreen_name state="APPROVED" last_approved_text="No Forest Penalty" last_edit_user="bob">No Forest Penalty</onscreen_name>
+<sort_order>72</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Large units do not suffer penalties when moving through forest, simply smashing through the undergrowth instead." last_edit_user="bob">Large units do not suffer penalties when moving through forest, simply smashing through the undergrowth instead.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{8eb14638-87b5-493c-964f-a286077d7bad}" record_timestamp="1482324015484" record_key="living_saints">
+<key>living_saints</key>
+<onscreen_name state="APPROVED" last_approved_text="Living Saints" last_edit_user="bob">Living Saints</onscreen_name>
+<sort_order>2</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Knights who have sipped from the Grail are elevated above mere mortals; they truly are what is best in men." last_edit_user="bob">Knights who have sipped from the Grail are elevated above mere mortals; they truly are what is best in men.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{0a3a71e9-89c9-4bc9-a168-3bdcd935737d}" record_timestamp="1474282561086" record_key="low_rate_of_fire">
+<key>low_rate_of_fire</key>
+<onscreen_name state="APPROVED" last_approved_text="Low Rate of Fire" last_edit_user="bob">Low Rate of Fire</onscreen_name>
+<sort_order>171</sort_order>
+<state>negative</state>
+<tooltip state="APPROVED" last_approved_text="This unit has a very low rate of missile fire." last_edit_user="bob">This unit has a very low rate of missile fire.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{002cd1dc-904d-4e74-a7a4-ea17547bbf07}" record_timestamp="1479321730514" record_key="magic_disruption">
+<key>magic_disruption</key>
+<onscreen_name state="APPROVED" last_approved_text="Magic Disruption" last_edit_user="bob">Magic Disruption</onscreen_name>
+<sort_order>0</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Increases the chance of enemy Wizards miscasting in close vicinity to a Corpse Cart." last_edit_user="bob">Increases the chance of enemy Wizards miscasting in close vicinity to a Corpse Cart.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{e0bc7c2b-ced0-4815-a57b-07fb9843a9ff}" record_timestamp="1471865779676" record_key="magic_harvester">
+<key>magic_harvester</key>
+<onscreen_name state="APPROVED" last_approved_text="Magic Harvester" last_edit_user="bob">Magic Harvester</onscreen_name>
+<sort_order>0</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Increases the level of magic [[img:icon_wom_power]][[/img]]power reserves." last_edit_user="bob">Increases the level of magic [[img:icon_wom_power]][[/img]]power reserves.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{ff7d18aa-45e5-4e57-8b83-85d14a032dc3}" record_timestamp="1460470801680" record_key="magical_aura">
+<key>magical_aura</key>
+<onscreen_name state="APPROVED" last_approved_text="Magical Aura" last_edit_user="bob">Magical Aura</onscreen_name>
+<sort_order>47</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit is surrounded by one or more magical auras that either support nearby friends or harm its foes." last_edit_user="bob">This unit is surrounded by one or more magical auras that either support nearby friends or harm its foes.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{799483cb-00aa-424c-83fe-e15161421c6a}" record_timestamp="1471865779676" record_key="mass_regeneration">
+<key>mass_regeneration</key>
+<onscreen_name state="APPROVED" last_approved_text="Mass Regeneration" last_edit_user="bob">Mass Regeneration</onscreen_name>
+<sort_order>0</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Regenerates nearby friendly units’ [[img:icon_hp]][[/img]]hit points." last_edit_user="bob">Regenerates nearby friendly units’ [[img:icon_hp]][[/img]]hit points.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{3930c440-372e-4015-96ab-76467a2dd587}" record_timestamp="1481890024285" record_key="master_ambusher">
+<key>master_ambusher</key>
+<onscreen_name state="APPROVED" last_approved_text="Master Ambusher" last_edit_user="bob">Master Ambusher</onscreen_name>
+<sort_order>49</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit can move whilst hidden in any terrain, firing in any direction even whilst running!" last_edit_user="bob">This unit can move whilst hidden in any terrain, firing in any direction even whilst running!</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{f7ccf1bb-fab2-4a4f-a986-2cbf3efdefa8}" record_timestamp="1464176218327" record_key="melee_expert">
+<key>melee_expert</key>
+<onscreen_name state="APPROVED" last_approved_text="Melee Expert" last_edit_user="bob">Melee Expert</onscreen_name>
+<sort_order>6</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Melee Experts might have a very strong [[img:icon_melee_attack]][[/img]]melee attack or [[img:icon_melee_defence]][[/img]]melee defence, or high values in both. Some also have melee-focused skills like [[img:ui/battle ui/ability_icons/charge_reflector.png]][[/img]]Charge Defence. Use them to counter other strong melee units. When facing them, it is best to take them out before they can enter melee." last_edit_user="bob">Melee Experts might have a very strong [[img:icon_melee_attack]][[/img]]melee attack or [[img:icon_melee_defence]][[/img]]melee defence, or high values in both. Some also have melee-focused skills like [[img:ui/battle ui/ability_icons/charge_reflector.png]][[/img]]Charge Defence. Use them to counter other strong melee units. When facing them, it is best to take them out before they can enter melee.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{0f0012b6-be26-4b75-81d1-926c1b321ea5}" record_timestamp="1464176217332" record_key="old_grumblers">
+<key>old_grumblers</key>
+<onscreen_name state="APPROVED" last_approved_text="Old Grumblers" last_edit_user="bob">Old Grumblers</onscreen_name>
+<sort_order>61</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Respected for their great age, superior courage and the length of their facial hair, Longbeards have an encouraging effect on their allies' [[img:icon_morale]][[/img]]leadership should the [[img:icon_general]][[/img]]Lord be absent. " last_edit_user="bob">Respected for their great age, superior courage and the length of their facial hair, Longbeards have an encouraging effect on their allies' [[img:icon_morale]][[/img]]leadership should the [[img:icon_general]][[/img]]Lord be absent. </tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{64209cfd-270d-4b7b-a14f-7511df8737ab}" record_timestamp="1450708416549" record_key="placeholder">
+<key>placeholder</key>
+<onscreen_name state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</onscreen_name>
+<sort_order>0</sort_order>
+<state>positive</state>
+<tooltip></tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{9384c630-2364-4d03-9e34-16eca9e359e6}" record_timestamp="1464176218341" record_key="poison">
+<key>poison</key>
+<onscreen_name state="APPROVED" last_approved_text="Poison Attacks" last_edit_user="bob">Poison Attacks</onscreen_name>
+<sort_order>20</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="The [[img:ui/battle ui/ability_icons/wh_main_unit_contact_poison.png]][[/img]]poisonous attacks of this unit weaken the target's speed and damage, whilst reducing its vigour." last_edit_user="bob">The [[img:ui/battle ui/ability_icons/wh_main_unit_contact_poison.png]][[/img]]poisonous attacks of this unit weaken the target's speed and damage, whilst reducing its vigour.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{19f5baa3-9a28-44be-b846-d71431424776}" record_timestamp="1474282561088" record_key="poor_accuracy">
+<key>poor_accuracy</key>
+<onscreen_name state="APPROVED" last_approved_text="Poor Accuracy" last_edit_user="bob">Poor Accuracy</onscreen_name>
+<sort_order>132</sort_order>
+<state>negative</state>
+<tooltip state="APPROVED" last_approved_text="This unit's attacks are prone to go stray." last_edit_user="bob">This unit's attacks are prone to go stray.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{8e47cc5d-516e-449a-b569-cb7bd6836384}" record_timestamp="1474282561087" record_key="poor_morale">
+<key>poor_morale</key>
+<onscreen_name state="APPROVED" last_approved_text="Poor Leadership" last_edit_user="bob">Poor Leadership</onscreen_name>
+<sort_order>152</sort_order>
+<state>negative</state>
+<tooltip state="APPROVED" last_approved_text="This unit suffers from poor [[img:icon_morale]][[/img]]leadership and will easily rout. Keep its flanks secure and your [[img:icon_general]][[/img]]Lord or other encouraging units nearby." last_edit_user="bob">This unit suffers from poor [[img:icon_morale]][[/img]]leadership and will easily rout. Keep its flanks secure and your [[img:icon_general]][[/img]]Lord or other encouraging units nearby.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{3028abe8-ac76-4b20-a32b-2ba3571d49e2}" record_timestamp="1468499538142" record_key="primal_fury">
+<key>primal_fury</key>
+<onscreen_name state="APPROVED" last_approved_text="Primal Fury" last_edit_user="bob">Primal Fury</onscreen_name>
+<sort_order>0</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Units possessed of primal fury move faster and charge harder, causing more damage when they connect with their targets." last_edit_user="bob">Units possessed of primal fury move faster and charge harder, causing more damage when they connect with their targets.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{2adcd033-1554-4589-8ea7-1220389ece37}" record_timestamp="1464176218343" record_key="ranged_attack">
+<key>ranged_attack</key>
+<onscreen_name state="APPROVED" last_approved_text="Special Ranged Weapon" last_edit_user="bob">Special Ranged Weapon</onscreen_name>
+<sort_order>13</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit has a special missile attack with limited [[img:icon_ammo]][[/img]]ammunition, which can be very useful when initiating attacks." last_edit_user="bob">This unit has a special missile attack with limited [[img:icon_ammo]][[/img]]ammunition, which can be very useful when initiating attacks.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{070eec62-aede-4991-8986-1110bc6f0613}" record_timestamp="1464176218344" record_key="regeneration">
+<key>regeneration</key>
+<onscreen_name state="APPROVED" last_approved_text="Regeneration" last_edit_user="bob">Regeneration</onscreen_name>
+<sort_order>34</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/wh_main_unit_passive_regeneration.png]][[/img]]Regeneration allows a unit to heal while in battle. Fire is known to harm this healing process, so be warned that [[img:ui/skins/default/modifier_icon_flaming.png]][[/img]]flaming attacks will cause more damage to units with Regeneration." last_edit_user="bob">[[img:ui/battle ui/ability_icons/wh_main_unit_passive_regeneration.png]][[/img]]Regeneration allows a unit to heal while in battle. Fire is known to harm this healing process, so be warned that [[img:ui/skins/default/modifier_icon_flaming.png]][[/img]]flaming attacks will cause more damage to units with Regeneration.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{7c9d4374-4c22-4da0-aa18-70d6820910cf}" record_timestamp="1477038877746" record_key="runic_magic">
+<key>runic_magic</key>
+<onscreen_name state="APPROVED" last_approved_text="Runic Magic" last_edit_user="bob">Runic Magic</onscreen_name>
+<sort_order>0</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit can bind magic into powerful runes which can be activated during battle." last_edit_user="bob">This unit can bind magic into powerful runes which can be activated during battle.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{fb1c6abd-6a8f-4b6e-94d5-b2f5dedd9675}" record_timestamp="1464176218340" record_key="scaly_skin">
+<key>scaly_skin</key>
+<onscreen_name state="APPROVED" last_approved_text="Scaly Skin" last_edit_user="bob">Scaly Skin</onscreen_name>
+<sort_order>22</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Scaly skin or hides help to dampen or deflect the damage caused by missile weapons, increasing this unit's [[img:ui/battle ui/ability_icons/resistance_missile.png]][[/img]]Missile Resistance." last_edit_user="bob">Scaly skin or hides help to dampen or deflect the damage caused by missile weapons, increasing this unit's [[img:ui/battle ui/ability_icons/resistance_missile.png]][[/img]]Missile Resistance.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{2d8cb871-d430-4194-afca-e0c6139d323c}" record_timestamp="1464176218328" record_key="shielded">
+<key>shielded</key>
+<onscreen_name state="APPROVED" last_approved_text="Shielded" last_edit_user="bob">Shielded</onscreen_name>
+<sort_order>1</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="[[img:icon_shield]][[/img]]Shields have a chance of blocking arrows, bolts, rifle shots and similar small arms fire - but only in a forward facing arc." last_edit_user="bob">[[img:icon_shield]][[/img]]Shields have a chance of blocking arrows, bolts, rifle shots and similar small arms fire - but only in a forward facing arc.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{52936189-ec5d-4f0b-a8ee-cc1036dcad9d}" record_timestamp="1479315876659" record_key="sniping">
+<key>sniping</key>
+<onscreen_name state="APPROVED" last_approved_text="Sniping" last_edit_user="bob">Sniping</onscreen_name>
+<sort_order>74</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Masters of stealth, concealment, and the precision shot, this unit stays hidden while firing." last_edit_user="bob">Masters of stealth, concealment, and the precision shot, this unit stays hidden while firing.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{597bb105-c0d1-4098-8f23-df7cec6027c4}" record_timestamp="1460470801727" record_key="solheims_bolt">
+<key>solheims_bolt</key>
+<onscreen_name state="APPROVED" last_approved_text="Solheim's Bolt of Illumination" last_edit_user="bob">Solheim's Bolt of Illumination</onscreen_name>
+<sort_order>43</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="The Luminark fires a highly-accurate beam over large distances, causing tremendous damage to its target but with a small area of effect, making it a poor choice against weak infantry." last_edit_user="bob">The Luminark fires a highly-accurate beam over large distances, causing tremendous damage to its target but with a small area of effect, making it a poor choice against weak infantry.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{5c4b7367-0b89-4832-830c-5860d4c7c175}" record_timestamp="1441796565769" record_key="spellcaster">
+<key>spellcaster</key>
+<onscreen_name state="APPROVED" last_approved_text="Spellcaster" last_edit_user="bob">Spellcaster</onscreen_name>
+<sort_order>0</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit can cast spells." last_edit_user="bob">This unit can cast spells.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{1421bc9f-5069-4229-9a08-2cf6124db70b}" record_timestamp="1469108798703" record_key="stalk">
+<key>stalk</key>
+<onscreen_name state="APPROVED" last_approved_text="Stalk" last_edit_user="bob">Stalk</onscreen_name>
+<sort_order>48</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit can move hidden in any terrain." last_edit_user="bob">This unit can move hidden in any terrain.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{a157c41c-e367-410d-b7fa-615d957557ba}" record_timestamp="1479327397812" record_key="swiftshiver_shards">
+<key>swiftshiver_shards</key>
+<onscreen_name state="APPROVED" last_approved_text="Swift Shiver Shards" last_edit_user="bob">Swift Shiver Shards</onscreen_name>
+<sort_order>75</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="As their enchanted arrows are both light and strong this unit can fire two at a time, but at the cost of range." last_edit_user="bob">As their enchanted arrows are both light and strong this unit can fire two at a time, but at the cost of range.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{a871346f-c55f-45f5-8843-326faec81a1d}" record_timestamp="1464176218342" record_key="terror">
+<key>terror</key>
+<onscreen_name state="APPROVED" last_approved_text="Causes Terror" last_edit_user="bob">Causes Terror</onscreen_name>
+<sort_order>18</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit can [[img:ui/battle ui/ability_icons/causes_terror.png]][[/img]]cause terror, making its melee target rout for a short time. Units that cause terror are immune to terror and [[img:ui/battle ui/ability_icons/causes_fear.png]][[/img]]fear themselves." last_edit_user="bob">This unit can [[img:ui/battle ui/ability_icons/causes_terror.png]][[/img]]cause terror, making its melee target rout for a short time. Units that cause terror are immune to terror and [[img:ui/battle ui/ability_icons/causes_fear.png]][[/img]]fear themselves.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{260af54a-a690-441f-8809-a93b6c64f65a}" record_timestamp="1454409517562" record_key="unbreakable">
+<key>unbreakable</key>
+<onscreen_name state="APPROVED" last_approved_text="Unbreakable" last_edit_user="bob">Unbreakable</onscreen_name>
+<sort_order>51</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit does not suffer any form of [[img:icon_morale]][[/img]]leadership loss and will never rout." last_edit_user="bob">This unit does not suffer any form of [[img:icon_morale]][[/img]]leadership loss and will never rout.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{5715f96b-3d6f-4f66-908f-6e007510a76f}" record_timestamp="1437472465767" record_key="vanguard_deployment">
+<key>vanguard_deployment</key>
+<onscreen_name state="APPROVED" last_approved_text="Vanguard Deployment" last_edit_user="bob">Vanguard Deployment</onscreen_name>
+<sort_order>14</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit can deploy in an expanded deployment area, allowing it to start the battle within striking distance of the enemy - or somewhere unexpected." last_edit_user="bob">This unit can deploy in an expanded deployment area, allowing it to start the battle within striking distance of the enemy - or somewhere unexpected.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{c3f5e876-0c8c-4572-859f-9d9f7a9a48c6}" record_timestamp="1437472465842" record_key="very_fast">
+<key>very_fast</key>
+<onscreen_name state="APPROVED" last_approved_text="Very Fast" last_edit_user="bob">Very Fast</onscreen_name>
+<sort_order>12</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="This unit can run circles around most other units, taunting and harrassing the enemy or evading its missile fire." last_edit_user="bob">This unit can run circles around most other units, taunting and harrassing the enemy or evading its missile fire.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{ba85c2d8-0d0e-4523-817e-13c59c3694f5}" record_timestamp="1464176218339" record_key="ward_physical">
+<key>ward_physical</key>
+<onscreen_name state="APPROVED" last_approved_text="Physical Resistance" last_edit_user="bob">Physical Resistance</onscreen_name>
+<sort_order>17</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="[[img:ui/battle ui/ability_icons/resistance_physical.png]][[/img]]Physical Resistance will reduce the damage from any attack that is not [[img:ui/skins/default/modifier_icon_magical.png]][[/img]]magical." last_edit_user="bob">[[img:ui/battle ui/ability_icons/resistance_physical.png]][[/img]]Physical Resistance will reduce the damage from any attack that is not [[img:ui/skins/default/modifier_icon_magical.png]][[/img]]magical.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{edeba9a4-dfb8-4bf1-9e1d-48457c1683b6}" record_timestamp="1479315876658" record_key="wardance">
+<key>wardance</key>
+<onscreen_name state="APPROVED" last_approved_text="Shadow Dances of Loec" last_edit_user="bob">Shadow Dances of Loec</onscreen_name>
+<sort_order>73</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="The servants and worshippers of Loec perform many intricate, swirling, lethal dances in his name." last_edit_user="bob">The servants and worshippers of Loec perform many intricate, swirling, lethal dances in his name.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{de39fa81-4ad5-4799-81fd-256e1ec85f44}" record_timestamp="1464176218340" record_key="warpaint">
+<key>warpaint</key>
+<onscreen_name state="APPROVED" last_approved_text="Warpaint" last_edit_user="bob">Warpaint</onscreen_name>
+<sort_order>44</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="The colourful tattoos on their bare skin grant Savage Orcs [[img:ui/battle ui/ability_icons/resistance_physical.png]][[/img]]Physical Resistance, which reduces the damage from any non-magical attack." last_edit_user="bob">The colourful tattoos on their bare skin grant Savage Orcs [[img:ui/battle ui/ability_icons/resistance_physical.png]][[/img]]Physical Resistance, which reduces the damage from any non-magical attack.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{ba2c8c23-6d45-4561-a7e0-10b3bdc31b2b}" record_timestamp="1474282561088" record_key="weak_anti_armour">
+<key>weak_anti_armour</key>
+<onscreen_name state="APPROVED" last_approved_text="Weak Against Armour" last_edit_user="bob">Weak Against Armour</onscreen_name>
+<sort_order>130</sort_order>
+<state>negative</state>
+<tooltip state="APPROVED" last_approved_text="This unit's attack can hardly punch through armour and is thus wasted on heavily armoured enemies." last_edit_user="bob">This unit's attack can hardly punch through armour and is thus wasted on heavily armoured enemies.</tooltip>
+</ui_unit_bullet_point_enums>
+<ui_unit_bullet_point_enums record_uuid="{ba122311-bb9d-463d-88bc-c69c1d5738c1}" record_timestamp="1461152305676" record_key="whirling_axes">
+<key>whirling_axes</key>
+<onscreen_name state="APPROVED" last_approved_text="Whirling Axes" last_edit_user="bob">Whirling Axes</onscreen_name>
+<sort_order>63</sort_order>
+<state>positive</state>
+<tooltip state="APPROVED" last_approved_text="Slayers are armed with two axes, deftly whirling them at high speed to deflect incoming missile fire." last_edit_user="bob">Slayers are armed with two axes, deftly whirling them at high speed to deflect incoming missile fire.</tooltip>
+</ui_unit_bullet_point_enums>
+</dataroot>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="message_event_layout_types.xsd" export_time="Thu Aug 4 13:53:22 2016" revision="14" export_branch="T:/" export_user="bob">
+<edit_uuid>333200fc-2dc9-4369-a6a3-f8516af5e5f3</edit_uuid>
+<message_event_layout_types record_uuid="{1b4e8a92-4e39-46ae-95f9-cfc9d793b42f}" record_key="ally_attacked">
+<Type>ally_attacked</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{43305cb8-e183-4d3f-8cdf-eadd8e21257b}" record_timestamp="1363794026443" record_key="appoint_new_general">
+<Type>appoint_new_general</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{3be5bf7a-a06a-4cbc-82a2-37b36b6013a1}" record_key="building_constructed">
+<Type>building_constructed</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{80c35d0c-49fb-4222-bd45-c2f69a67ab8c}" record_key="capital_lost">
+<Type>capital_lost</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{d1bef70d-8087-4f8c-8aee-6f28fb4a8db2}" record_timestamp="1365763522204" record_key="custom_list">
+<Type>custom_list</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{e256ff56-e54b-40ee-836a-8dd836ef46fa}" record_timestamp="1429715259864" record_key="dilemma">
+<Type>dilemma</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{fe98042f-13c9-4d58-9571-13684e36c1a4}" record_timestamp="1371893355890" record_key="diplomacy_notification">
+<Type>diplomacy_notification</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{2b99a4c0-90aa-45f9-bfe4-8893cda6f176}" record_key="fame">
+<Type>fame</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{5f68828c-47d1-4fe9-8960-04002ad6a8bd}" record_timestamp="1365763522256" record_key="incident">
+<Type>incident</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{3e12779d-72d4-4361-8f05-ee1eddfac375}" record_timestamp="1470315202902" record_key="mercenary_unit_unlock">
+<Type>mercenary_unit_unlock</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{863f0017-3a6c-48ca-8578-a686ac960a77}" record_timestamp="1363794026484" record_key="mission">
+<Type>mission</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{7a1c9808-dccc-4b55-ab96-8c202883ffac}" record_timestamp="1363794026279" record_key="recruitment">
+<Type>recruitment</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{c1f61534-b00c-466f-a931-b6928d20537f}" record_key="standard">
+<Type>standard</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{0845cc9b-8b28-45e2-889c-dc2ecb9bd52b}" record_timestamp="1365763522471" record_key="technology_advances">
+<Type>technology_advances</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{14ec04cf-4b2d-4f9a-b9c8-8969f29b2452}" record_timestamp="1374073864172" record_key="trait_ancillary_gained">
+<Type>trait_ancillary_gained</Type>
+</message_event_layout_types>
+<message_event_layout_types record_uuid="{5ca1bd54-87c7-4f71-8eac-549161cc2c5b}" record_timestamp="1453392560467" record_key="winds_of_magic">
+<Type>winds_of_magic</Type>
+</message_event_layout_types>
+</dataroot>

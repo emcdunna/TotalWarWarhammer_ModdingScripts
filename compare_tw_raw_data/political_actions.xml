@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="political_actions.xsd" export_time="Thu Feb 18 13:41:29 2016" revision="24" export_branch="T:/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>2ea398a1-f51c-4198-a898-a6730142dde7</edit_uuid>
+<political_actions record_uuid="{d9a4ae94-482b-4282-aef7-97f4c430aa51}" record_timestamp="1437132538595" record_key="assassinate">
+<base_cost_percentage>25</base_cost_percentage>
+<icon>icons_politics_assassinate</icon>
+<minimum_cost>25</minimum_cost>
+<onscreen_description state="APPROVED" last_approved_text="Plot to have this character assassinated, ensuring that they are no longer a threat to your faction." last_edit_user="bob">Plot to have this character assassinated, ensuring that they are no longer a threat to your faction.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="[[col:yellow]]Assassinate[[/col]]" last_edit_user="bob">[[col:yellow]]Assassinate[[/col]]</onscreen_name>
+<political_action_key>assassinate</political_action_key>
+<rank_multiplier>5</rank_multiplier>
+</political_actions>
+<political_actions record_uuid="{db62556d-6572-4bd1-9351-a3cef32710fb}" record_timestamp="1436871225855" record_key="become_retainer">
+<base_cost_percentage>5</base_cost_percentage>
+<icon>icons_politics_make_retainer</icon>
+<minimum_cost>15</minimum_cost>
+<onscreen_description state="APPROVED" last_approved_text="Request the privilege of accompanying another, more experienced character so that you may gain experience from their exploits." last_edit_user="bob">Request the privilege of accompanying another, more experienced character so that you may gain experience from their exploits.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="[[col:yellow]]Become Retainer[[/col]]" last_edit_user="bob">[[col:yellow]]Become Retainer[[/col]]</onscreen_name>
+<political_action_key>become_retainer</political_action_key>
+<rank_multiplier>2</rank_multiplier>
+</political_actions>
+<political_actions record_uuid="{b07e6f86-d793-428c-982e-74ac1f2929cd}" record_timestamp="1427357591491" record_key="default">
+<base_cost_percentage>0</base_cost_percentage>
+<icon>[PH]</icon>
+<minimum_cost>1</minimum_cost>
+<onscreen_description state="IGNORED" last_approved_text="" last_edit_user="bob">[PH]</onscreen_description>
+<onscreen_name state="IGNORED" last_approved_text="" last_edit_user="bob">[PH]</onscreen_name>
+<political_action_key>default</political_action_key>
+<rank_multiplier>1</rank_multiplier>
+</political_actions>
+<political_actions record_uuid="{26b5cff0-bdcc-405f-a31c-f551e16185c4}" record_timestamp="1442575152958" record_key="diminish_popularity">
+<base_cost_percentage>20</base_cost_percentage>
+<icon>icons_politics_diminish_pop</icon>
+<minimum_cost>30</minimum_cost>
+<onscreen_description state="APPROVED" last_approved_text="Plot to discredit this character, thereby reducing their [[img:icon_reputation]][[/img]]reputation." last_edit_user="bob">Plot to discredit this character, thereby reducing their [[img:icon_reputation]][[/img]]reputation.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="[[col:yellow]]Tarnish Reputation[[/col]]" last_edit_user="bob">[[col:yellow]]Tarnish Reputation[[/col]]</onscreen_name>
+<political_action_key>diminish_popularity</political_action_key>
+<rank_multiplier>3</rank_multiplier>
+</political_actions>
+<political_actions record_uuid="{92a779d1-0b62-473f-a72c-3edc97e801c0}" record_timestamp="1443087271292" record_key="embezzle_funds">
+<base_cost_percentage>25</base_cost_percentage>
+<icon>icons_politics_embezzle</icon>
+<minimum_cost>25</minimum_cost>
+<onscreen_description state="APPROVED" last_approved_text="Attempt to misappropriate money or resources through theft, dishonesty or creative accounting." last_edit_user="bob">Attempt to misappropriate money or resources through theft, dishonesty or creative accounting.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="[[col:yellow]]Embezzle Funds[[/col]]" last_edit_user="bob">[[col:yellow]]Embezzle Funds[[/col]]</onscreen_name>
+<political_action_key>embezzle_funds</political_action_key>
+<rank_multiplier>3</rank_multiplier>
+</political_actions>
+<political_actions record_uuid="{d678fbcd-88ca-4b1d-8c07-84c03cb23830}" record_timestamp="1443536977557" record_key="form_confederation">
+<base_cost_percentage>30</base_cost_percentage>
+<icon>icons_politics_form_confederation</icon>
+<minimum_cost>35</minimum_cost>
+<onscreen_description state="APPROVED" last_approved_text="Request this faction leader to join your faction and form a confederation." last_edit_user="bob">Request this faction leader to join your faction and form a confederation.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="[[col:yellow]]Form Confederation[[/col]]" last_edit_user="bob">[[col:yellow]]Form Confederation[[/col]]</onscreen_name>
+<political_action_key>form_confederation</political_action_key>
+<rank_multiplier>3</rank_multiplier>
+</political_actions>
+<political_actions record_uuid="{dc45add5-95d6-4557-a919-7ff09e3a2c03}" record_timestamp="1443087271527" record_key="gather_support">
+<base_cost_percentage>0</base_cost_percentage>
+<icon>icons_politics_gather_support</icon>
+<minimum_cost>0</minimum_cost>
+<onscreen_description state="APPROVED" last_approved_text="Spread positive messages about this character in an attempt to bolster their [[img:icon_reputation]][[/img]]reputation." last_edit_user="bob">Spread positive messages about this character in an attempt to bolster their [[img:icon_reputation]][[/img]]reputation.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="[[col:yellow]]Gather Support[[/col]]" last_edit_user="bob">[[col:yellow]]Gather Support[[/col]]</onscreen_name>
+<political_action_key>gather_support</political_action_key>
+<rank_multiplier>3</rank_multiplier>
+</political_actions>
+<political_actions record_uuid="{e95de99e-797a-4004-a0b5-da5577ff1fe8}" record_timestamp="1443087271645" record_key="secure_loyalty">
+<base_cost_percentage>25</base_cost_percentage>
+<icon>icons_politics_secure_loyalty</icon>
+<minimum_cost>25</minimum_cost>
+<onscreen_description state="APPROVED" last_approved_text="Attempt to improve this character's [[img:icon_fealty]][[/img]]fealty, making them more well-disposed toward you and your aims." last_edit_user="bob">Attempt to improve this character's [[img:icon_fealty]][[/img]]fealty, making them more well-disposed toward you and your aims.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="[[col:yellow]]Secure Fealty[[/col]]" last_edit_user="bob">[[col:yellow]]Secure Fealty[[/col]]</onscreen_name>
+<political_action_key>secure_loyalty</political_action_key>
+<rank_multiplier>5</rank_multiplier>
+</political_actions>
+<political_actions record_uuid="{01ce8d21-7f87-4994-9141-c4ed85368318}" record_timestamp="1443087271764" record_key="seek_office">
+<base_cost_percentage>20</base_cost_percentage>
+<icon>icons_politics_seek_office</icon>
+<minimum_cost>20</minimum_cost>
+<onscreen_description state="APPROVED" last_approved_text="Seek a title, with all the attendant powers and privileges it confers." last_edit_user="bob">Seek a title, with all the attendant powers and privileges it confers.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="[[col:yellow]]Seek Title[[/col]]" last_edit_user="bob">[[col:yellow]]Seek Title[[/col]]</onscreen_name>
+<political_action_key>seek_office</political_action_key>
+<rank_multiplier>5</rank_multiplier>
+</political_actions>
+</dataroot>

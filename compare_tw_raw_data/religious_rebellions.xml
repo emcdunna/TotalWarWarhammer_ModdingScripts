@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="religious_rebellions.xsd" export_time="Thu Apr 14 14:27:29 2016" revision="7" export_branch="E:/TotalWar/branches/warhammer/beastmen/warhammer/src" export_user="bob">
+<edit_uuid>d6050876-a08b-4002-a748-e12b153ffaf0</edit_uuid>
+<religious_rebellions record_uuid="{8837fb90-c80c-4f56-91d9-1153e63ad4b7}" record_timestamp="1432051266967" record_key="wh_main_religion_chaosmain_warhammer">
+<campaign>main_warhammer</campaign>
+<percentage_for_rebellion>30</percentage_for_rebellion>
+<rebel_shadowed_faction>wh_main_chs_chaos_rebels</rebel_shadowed_faction>
+<religion>wh_main_religion_chaos</religion>
+</religious_rebellions>
+<religious_rebellions record_uuid="{23448aac-2f9d-448c-ad27-2910ccb502d9}" record_timestamp="1460639810532" record_key="wh_main_religion_chaoswh_dlc03_beastmen">
+<campaign>wh_dlc03_beastmen</campaign>
+<percentage_for_rebellion>50</percentage_for_rebellion>
+<rebel_shadowed_faction>wh_main_chs_chaos_rebels</rebel_shadowed_faction>
+<religion>wh_main_religion_chaos</religion>
+</religious_rebellions>
+<religious_rebellions record_uuid="{dc10dfc7-1609-4e03-b02f-590c0895473a}" record_timestamp="1432051266966" record_key="wh_main_religion_undeathmain_warhammer">
+<campaign>main_warhammer</campaign>
+<percentage_for_rebellion>30</percentage_for_rebellion>
+<rebel_shadowed_faction>wh_main_vmp_vampire_rebels</rebel_shadowed_faction>
+<religion>wh_main_religion_undeath</religion>
+</religious_rebellions>
+<religious_rebellions record_uuid="{bbbec4e3-de94-4203-ad2e-aa91e540b99e}" record_timestamp="1460640449841" record_key="wh_main_religion_undeathwh_dlc03_beastmen">
+<campaign>wh_dlc03_beastmen</campaign>
+<percentage_for_rebellion>50</percentage_for_rebellion>
+<rebel_shadowed_faction>wh_main_vmp_vampire_rebels</rebel_shadowed_faction>
+<religion>wh_main_religion_undeath</religion>
+</religious_rebellions>
+</dataroot>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="projectile_homing_params.xsd" export_time="Tue Dec 6 16:04:42 2016" revision="33" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e44526b6-7d12-4ffd-a47f-052c43cc570f</edit_uuid>
+<projectile_homing_params record_uuid="{f1dcc8f2-8e02-42de-9f77-35da960890d4}" record_timestamp="1463569446093" record_key="wh_chs_hellcannon">
+<key>wh_chs_hellcannon</key>
+<lookahead_time>0.25</lookahead_time>
+<max_target_angle_delta>180</max_target_angle_delta>
+<start_time>1.8</start_time>
+<steering_coefficient>0.14</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{2b338896-92ed-4e5e-9581-8959696af250}" record_timestamp="1466158815715" record_key="wh_dlc03_spell_beasts_amber_spear">
+<key>wh_dlc03_spell_beasts_amber_spear</key>
+<lookahead_time>0.3</lookahead_time>
+<max_target_angle_delta>60</max_target_angle_delta>
+<start_time>1</start_time>
+<steering_coefficient>0.15</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{3d586c91-ebb2-4ad8-bb22-8ba8c79256b7}" record_timestamp="1453285510457" record_key="wh_dlc03_spell_wild_viletide">
+<key>wh_dlc03_spell_wild_viletide</key>
+<lookahead_time>1</lookahead_time>
+<max_target_angle_delta>90</max_target_angle_delta>
+<start_time>1</start_time>
+<steering_coefficient>0.1</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{529b1bb4-8165-438a-b51f-aeb2461ed75f}" record_timestamp="1481035135155" record_key="wh_dlc05_spell_arrow_of_kurnous">
+<key>wh_dlc05_spell_arrow_of_kurnous</key>
+<lookahead_time>0.4</lookahead_time>
+<max_target_angle_delta>180</max_target_angle_delta>
+<start_time>0.5</start_time>
+<steering_coefficient>0.35</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{28d19549-e318-474d-9422-53f7557ad374}" record_timestamp="1479325040776" record_key="wh_dlc05_wef_orion_spear">
+<key>wh_dlc05_wef_orion_spear</key>
+<lookahead_time>0.3</lookahead_time>
+<max_target_angle_delta>60</max_target_angle_delta>
+<start_time>0.2</start_time>
+<steering_coefficient>0.15</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{b8d914a8-0f52-4797-bf16-5db1b4cc9c33}" record_timestamp="1481040282277" record_key="wh_dlc05_wef_trueflight_arrow">
+<key>wh_dlc05_wef_trueflight_arrow</key>
+<lookahead_time>0.2</lookahead_time>
+<max_target_angle_delta>90</max_target_angle_delta>
+<start_time>0.2</start_time>
+<steering_coefficient>0.35</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{6f48eb0e-21dd-4cb1-8132-37b11db125e7}" record_timestamp="1457373169136" record_key="wh_grn_doomdiver_goblin">
+<key>wh_grn_doomdiver_goblin</key>
+<lookahead_time>0.5</lookahead_time>
+<max_target_angle_delta>180</max_target_angle_delta>
+<start_time>1.5</start_time>
+<steering_coefficient>0.15</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{91fbe2f8-8a15-4afe-a144-0a89f27d8f56}" record_timestamp="1461152306458" record_key="wh_main_bound_spell_solheims_bolt_of_illumination">
+<key>wh_main_bound_spell_solheims_bolt_of_illumination</key>
+<lookahead_time>0.5</lookahead_time>
+<max_target_angle_delta>90</max_target_angle_delta>
+<start_time>0.3</start_time>
+<steering_coefficient>0.05</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{da3c715b-f18d-4fb9-9ec1-4fcbb3fb9d2c}" record_timestamp="1431935255697" record_key="wh_main_generic">
+<key>wh_main_generic</key>
+<lookahead_time>0.5</lookahead_time>
+<max_target_angle_delta>60</max_target_angle_delta>
+<start_time>1</start_time>
+<steering_coefficient>0.1</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{fcede98e-4de9-43fe-8e5f-554f97fba59c}" record_timestamp="1474282560215" record_key="wh_main_spell_big_waaagh_gaze_of_mork">
+<key>wh_main_spell_big_waaagh_gaze_of_mork</key>
+<lookahead_time>0.3</lookahead_time>
+<max_target_angle_delta>90</max_target_angle_delta>
+<start_time>0.6</start_time>
+<steering_coefficient>0.25</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{2243bf76-2dc3-4b0d-a375-9c6a1ee76ea7}" record_timestamp="1462358734137" record_key="wh_main_spell_fire_fireball">
+<key>wh_main_spell_fire_fireball</key>
+<lookahead_time>0.3</lookahead_time>
+<max_target_angle_delta>90</max_target_angle_delta>
+<start_time>0.2</start_time>
+<steering_coefficient>0.15</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{2d363680-0e66-48a6-8bfa-ec97fac0b922}" record_timestamp="1474282560216" record_key="wh_main_spell_lil_waaagh_vindictive_glare">
+<key>wh_main_spell_lil_waaagh_vindictive_glare</key>
+<lookahead_time>0.3</lookahead_time>
+<max_target_angle_delta>90</max_target_angle_delta>
+<start_time>0.6</start_time>
+<steering_coefficient>0.25</steering_coefficient>
+</projectile_homing_params>
+</dataroot>

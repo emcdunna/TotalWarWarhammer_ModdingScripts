@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personality_diplomatic_treaty_values.xsd" export_time="Thu Feb 18 12:48:00 2016" revision="25" export_branch="T:/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>c874271f-b5bd-4881-8382-b9ca7b14288d</edit_uuid>
+<cai_personality_diplomatic_treaty_values record_uuid="{bcf21d91-2beb-4a07-b2b7-1fd2b65b13ad}" record_timestamp="1427126117551" record_key="defaultCLIENT_STATE_CLIENT">
+<component_id>default</component_id>
+<initial_value>40</initial_value>
+<treaty>CLIENT_STATE_CLIENT</treaty>
+<turn1>1</turn1>
+<turn2>50</turn2>
+<value1>40</value1>
+<value2>25</value2>
+</cai_personality_diplomatic_treaty_values>
+<cai_personality_diplomatic_treaty_values record_uuid="{c9743af7-a7ff-495b-a135-c1c2520218fa}" record_timestamp="1427126117571" record_key="defaultCLIENT_STATE_PROTECTOR">
+<component_id>default</component_id>
+<initial_value>40</initial_value>
+<treaty>CLIENT_STATE_PROTECTOR</treaty>
+<turn1>1</turn1>
+<turn2>50</turn2>
+<value1>40</value1>
+<value2>25</value2>
+</cai_personality_diplomatic_treaty_values>
+<cai_personality_diplomatic_treaty_values record_uuid="{55eeb142-98f7-47e5-89e9-336900f71a9d}" record_timestamp="1427126117591" record_key="defaultDEFENSIVE_ALLIANCE">
+<component_id>default</component_id>
+<initial_value>15</initial_value>
+<treaty>DEFENSIVE_ALLIANCE</treaty>
+<turn1>25</turn1>
+<turn2>50</turn2>
+<value1>35</value1>
+<value2>20</value2>
+</cai_personality_diplomatic_treaty_values>
+<cai_personality_diplomatic_treaty_values record_uuid="{7a48e6c4-999a-4914-b9ab-66b2efc30956}" record_timestamp="1427126117601" record_key="defaultMILITARY_ACCESS">
+<component_id>default</component_id>
+<initial_value>10</initial_value>
+<treaty>MILITARY_ACCESS</treaty>
+<turn1>25</turn1>
+<turn2>50</turn2>
+<value1>17.5</value1>
+<value2>10</value2>
+</cai_personality_diplomatic_treaty_values>
+<cai_personality_diplomatic_treaty_values record_uuid="{7d268a67-7f04-418c-a9c1-acdc96d4e019}" record_timestamp="1427126117621" record_key="defaultMILITARY_ALLIANCE">
+<component_id>default</component_id>
+<initial_value>20</initial_value>
+<treaty>MILITARY_ALLIANCE</treaty>
+<turn1>25</turn1>
+<turn2>50</turn2>
+<value1>42.5</value1>
+<value2>30</value2>
+</cai_personality_diplomatic_treaty_values>
+<cai_personality_diplomatic_treaty_values record_uuid="{c6b815f6-ebc2-4505-a641-2423cef23e16}" record_timestamp="1427126117631" record_key="defaultNON_AGGRESSION_PACT">
+<component_id>default</component_id>
+<initial_value>10</initial_value>
+<treaty>NON_AGGRESSION_PACT</treaty>
+<turn1>25</turn1>
+<turn2>50</turn2>
+<value1>17.5</value1>
+<value2>10</value2>
+</cai_personality_diplomatic_treaty_values>
+<cai_personality_diplomatic_treaty_values record_uuid="{364a84c8-85ea-4c60-bf47-693cf5e17689}" record_timestamp="1427126117651" record_key="defaultTRADE_AGREEMENT">
+<component_id>default</component_id>
+<initial_value>10</initial_value>
+<treaty>TRADE_AGREEMENT</treaty>
+<turn1>25</turn1>
+<turn2>50</turn2>
+<value1>17.5</value1>
+<value2>10</value2>
+</cai_personality_diplomatic_treaty_values>
+<cai_personality_diplomatic_treaty_values record_uuid="{aad2c96f-18f4-46b2-a32a-d5d4ada09d41}" record_timestamp="1455799680629" record_key="defaultVASSALAGE_MASTER">
+<component_id>default</component_id>
+<initial_value>100</initial_value>
+<treaty>VASSALAGE_MASTER</treaty>
+<turn1>1</turn1>
+<turn2>50</turn2>
+<value1>100</value1>
+<value2>25</value2>
+</cai_personality_diplomatic_treaty_values>
+<cai_personality_diplomatic_treaty_values record_uuid="{6ea93cd5-719b-4246-b34b-ee6c2fd48924}" record_timestamp="1455799680629" record_key="defaultVASSALAGE_VASSAL">
+<component_id>default</component_id>
+<initial_value>100</initial_value>
+<treaty>VASSALAGE_VASSAL</treaty>
+<turn1>1</turn1>
+<turn2>50</turn2>
+<value1>100</value1>
+<value2>15</value2>
+</cai_personality_diplomatic_treaty_values>
+<cai_personality_diplomatic_treaty_values record_uuid="{bac392f3-37dc-439d-87c2-3b584df5f4ab}" record_timestamp="1439305067585" record_key="defaultWAR">
+<component_id>default</component_id>
+<initial_value>-30</initial_value>
+<treaty>WAR</treaty>
+<turn1>1</turn1>
+<turn2>50</turn2>
+<value1>-30</value1>
+<value2>-10</value2>
+</cai_personality_diplomatic_treaty_values>
+</dataroot>

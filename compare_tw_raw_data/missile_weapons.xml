@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="missile_weapons.xsd" export_time="Fri Dec 16 11:21:58 2016" revision="169" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>63f6e2b3-d993-42ae-8233-25b77a202d61</edit_uuid>
+<missile_weapons record_uuid="{be69eb3b-c9c7-460a-ba3b-d27cf53f14cc}" record_timestamp="1462546765958" record_key="wh_dlc03_bst_centigor_throwing_axe">
+<audio_type>none</audio_type>
+<default_projectile>wh_dlc03_bst_centigor_throwing_axe</default_projectile>
+<key>wh_dlc03_bst_centigor_throwing_axe</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{b6814035-1b9c-4e33-b156-241d58caca25}" record_timestamp="1429095264446" record_key="wh_dlc03_bst_cygor_rock">
+<audio_type>none</audio_type>
+<default_projectile>wh_dlc03_bst_cygor_boulder</default_projectile>
+<key>wh_dlc03_bst_cygor_rock</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{e0dbe622-1664-4119-9ed5-fde0417d3df6}" record_timestamp="1448639126939" record_key="wh_dlc03_bst_ungor_bow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_dlc03_bst_ungor_arrow</default_projectile>
+<key>wh_dlc03_bst_ungor_bow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{f2c41fbb-9a22-4218-bb08-7932d6fbaf4f}" record_timestamp="1470392776683" record_key="wh_dlc04_emp_cannon_hammer_witches">
+<audio_type>great_cannon</audio_type>
+<default_projectile>wh_dlc04_emp_great_cannon_ball_hammer_witches</default_projectile>
+<key>wh_dlc04_emp_cannon_hammer_witches</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{bd6fa3de-3654-4ba2-a7b0-9039dc844c77}" record_timestamp="1471865779725" record_key="wh_dlc04_emp_free_company_pistol">
+<audio_type>pistol</audio_type>
+<default_projectile>wh_dlc04_emp_free_company_pistol_bullet</default_projectile>
+<key>wh_dlc04_emp_free_company_pistol</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{6506719c-e14e-4f6e-ae24-039689967507}" record_timestamp="1471865772009" record_key="wh_dlc04_emp_rifle_silver_bullets">
+<audio_type>repeater_gun</audio_type>
+<default_projectile>wh_dlc04_emp_rifle_bullet_silver_bullets</default_projectile>
+<key>wh_dlc04_emp_rifle_silver_bullets</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{c48acbef-5185-49d4-aec3-2b87b52b8e0c}" record_timestamp="1471865779725" record_key="wh_dlc04_emp_stirlands_pistol">
+<audio_type>pistol</audio_type>
+<default_projectile>wh_dlc04_emp_stirlands_pistol_bullet</default_projectile>
+<key>wh_dlc04_emp_stirlands_pistol</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{a97ac4dd-678f-4452-8053-e2ae384f4374}" record_timestamp="1462372985074" record_key="wh_dlc04_emp_sunmaker_rocket">
+<audio_type>rocket_battery</audio_type>
+<default_projectile>wh_dlc04_emp_sunmaker_rocket</default_projectile>
+<key>wh_dlc04_emp_sunmaker_rocket</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{3176c69a-fe31-42c7-b42e-a3dc01f570dc}" record_timestamp="1460728329084" record_key="wh_dlc05_wef_durthu_arrow">
+<audio_type>none</audio_type>
+<default_projectile>wh_dlc05_wef_treemen_arrow</default_projectile>
+<key>wh_dlc05_wef_durthu_arrow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{f361882d-b041-4ac1-b51c-8a0ef1d4b1da}" record_timestamp="1479327361824" record_key="wh_dlc05_wef_glade_lord_bow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_dlc05_wef_cha_trueflight_arrow</default_projectile>
+<key>wh_dlc05_wef_glade_lord_bow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{8235e912-e281-48e8-a926-0fcc5ac3ebb9}" record_timestamp="1479307734474" record_key="wh_dlc05_wef_hagbane_bow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_dlc05_wef_hagbane_arrow</default_projectile>
+<key>wh_dlc05_wef_hagbane_bow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{2b5f47d8-e8d7-4f2f-8f5e-9ef7143b35d6}" record_timestamp="1479327361835" record_key="wh_dlc05_wef_hagbane_bow_mounted">
+<audio_type>bow</audio_type>
+<default_projectile>wh_dlc05_wef_hagbane_arrow_mounted</default_projectile>
+<key>wh_dlc05_wef_hagbane_bow_mounted</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{8e32cd4c-6d52-4e2f-8b70-ff4fc194e0f5}" record_timestamp="1479327361869" record_key="wh_dlc05_wef_hawk_rider_bow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_dlc05_wef_hawk_rider_arrow</default_projectile>
+<key>wh_dlc05_wef_hawk_rider_bow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{86357cdf-4883-4dca-8b7a-f6c3ee5d406e}" record_timestamp="1479307784983" record_key="wh_dlc05_wef_javelin">
+<audio_type>none</audio_type>
+<default_projectile>wh_dlc05_wef_javelin</default_projectile>
+<key>wh_dlc05_wef_javelin</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{578a5e84-86c4-400b-be30-0f8ddba60a3e}" record_timestamp="1449745192906" record_key="wh_dlc05_wef_orion_spear">
+<audio_type>none</audio_type>
+<default_projectile>wh_dlc05_wef_orion_spear</default_projectile>
+<key>wh_dlc05_wef_orion_spear</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{b4df32be-3bfa-4a38-98ed-4ad416be0d7b}" record_timestamp="1481887318490" record_key="wh_dlc05_wef_scout_bow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_dlc05_wef_scout_arrow</default_projectile>
+<key>wh_dlc05_wef_scout_bow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{707a7e55-a3b2-4fd7-a4b0-052b7e5d6d4c}" record_timestamp="1479327361770" record_key="wh_dlc05_wef_standard_bow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_dlc05_wef_standard_arrow</default_projectile>
+<key>wh_dlc05_wef_standard_bow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{64429973-f75f-43e0-a023-cf8a5546cac5}" record_timestamp="1479327361837" record_key="wh_dlc05_wef_standard_bow_mounted">
+<audio_type>bow</audio_type>
+<default_projectile>wh_dlc05_wef_standard_arrow_mounted</default_projectile>
+<key>wh_dlc05_wef_standard_bow_mounted</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{629dac9e-1ba9-4c47-9262-edd37cd70c48}" record_timestamp="1479307734471" record_key="wh_dlc05_wef_starfire_bow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_dlc05_wef_starfire_arrow</default_projectile>
+<key>wh_dlc05_wef_starfire_bow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{6482f25a-12cf-49de-8e49-1c91933179da}" record_timestamp="1479327361836" record_key="wh_dlc05_wef_starfire_bow_mounted">
+<audio_type>bow</audio_type>
+<default_projectile>wh_dlc05_wef_starfire_arrow_mounted</default_projectile>
+<key>wh_dlc05_wef_starfire_bow_mounted</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{afd2a177-95a9-40cd-8e2a-d545ff012761}" record_timestamp="1479308698471" record_key="wh_dlc05_wef_swift_shiver_bow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_dlc05_wef_swiftshiver_arrow</default_projectile>
+<key>wh_dlc05_wef_swift_shiver_bow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{917ef74d-9c30-4978-acbe-abe97bdbcabb}" record_timestamp="1479327361834" record_key="wh_dlc05_wef_swift_shiver_bow_mounted">
+<audio_type>bow</audio_type>
+<default_projectile>wh_dlc05_wef_swiftshiver_arrow_mounted</default_projectile>
+<key>wh_dlc05_wef_swift_shiver_bow_mounted</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{4ac77055-ec38-4f7d-a357-a586e88490b2}" record_timestamp="1460728329088" record_key="wh_dlc05_wef_treemen_arrow">
+<audio_type>none</audio_type>
+<default_projectile>wh_dlc05_wef_treemen_arrow</default_projectile>
+<key>wh_dlc05_wef_treemen_arrow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{ff3d64b8-c4c8-4aa3-9b11-93f7fa2439bd}" record_timestamp="1479307734448" record_key="wh_dlc05_wef_waywatchers_bow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_dlc05_wef_waywatchers_arrow</default_projectile>
+<key>wh_dlc05_wef_waywatchers_bow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{e65a8aa1-ef28-4319-ad1d-a389c55b9fc3}" record_timestamp="1477038878740" record_key="wh_dlc06_dwf_blasting_charges_ekrund">
+<audio_type>none</audio_type>
+<default_projectile>wh_dlc06_blasting_charge_ekrund</default_projectile>
+<key>wh_dlc06_dwf_blasting_charges_ekrund</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{555fcb6c-f431-4adc-ad9c-f8b36f1e4994}" record_timestamp="1474289277245" record_key="wh_dlc06_dwf_bolt_thrower_bolt">
+<audio_type>bolt_large</audio_type>
+<default_projectile>wh_dwf_bolt_thrower_bolt</default_projectile>
+<key>wh_dlc06_dwf_bolt_thrower_bolt</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{56abc19a-897c-4bf5-97af-ea8baa72d532}" record_timestamp="1477038878745" record_key="wh_dlc06_dwf_cinderblast_bomb">
+<audio_type>none</audio_type>
+<default_projectile>wh_dlc06_norgrimlings_cinder_bomb</default_projectile>
+<key>wh_dlc06_dwf_cinderblast_bomb</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{d01e5886-6e2c-4aba-84b8-845f7c7f7aeb}" record_timestamp="1477035590379" record_key="wh_dlc06_dwf_drakegun_skolder">
+<audio_type>drakegun</audio_type>
+<default_projectile>wh_dwf_drakegun_skolder</default_projectile>
+<key>wh_dlc06_dwf_drakegun_skolder</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{3742281f-2c16-4cfb-924a-0f4ea8b69d37}" record_timestamp="1477038878749" record_key="wh_dlc06_dwf_raiders_throwing_axe">
+<audio_type>none</audio_type>
+<default_projectile>wh_dlc06_dwf_rangers_throwing_axe</default_projectile>
+<key>wh_dlc06_dwf_raiders_throwing_axe</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{bcc6a162-2752-47cd-950e-9b628b4c8b2d}" record_timestamp="1474283983612" record_key="wh_dlc06_dwf_rangers_throwing_axe">
+<audio_type>none</audio_type>
+<default_projectile>wh_dlc06_dwf_rangers_throwing_axe</default_projectile>
+<key>wh_dlc06_dwf_rangers_throwing_axe</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{7e953963-3158-4c51-83e1-cc22bb68a746}" record_timestamp="1474285852308" record_key="wh_dlc06_emp_witchhunter_boss_pistol">
+<audio_type>pistol</audio_type>
+<default_projectile>wh_emp_witchhunter_boss_pistol</default_projectile>
+<key>wh_dlc06_emp_witchhunter_boss_pistol</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{8b334fee-58ca-490d-8632-d518b2662cfd}" record_timestamp="1477038878713" record_key="wh_dlc06_grn_goblin_bow_mogrubb">
+<audio_type>bow</audio_type>
+<default_projectile>wh_dlc06_grn_goblin_arrow_mogrubb</default_projectile>
+<key>wh_dlc06_grn_goblin_bow_mogrubb</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{7e52540c-df0d-45d9-b1f2-f4a0ce3a4d78}" record_timestamp="1477035609358" record_key="wh_dlc06_grn_goblin_rock_lobber_rock_gork">
+<audio_type>none</audio_type>
+<default_projectile>wh_dlc06_grn_goblin_rock_lobber_rock_blinded</default_projectile>
+<key>wh_dlc06_grn_goblin_rock_lobber_rock_gork</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{1cc41a18-a723-44b7-825b-1f13d9ddd593}" record_timestamp="1470307359684" record_key="wh_dlc06_grn_grudge_thrower_goblin">
+<audio_type>none</audio_type>
+<default_projectile>wh_dwf_grudge_stone_goblin</default_projectile>
+<key>wh_dlc06_grn_grudge_thrower_goblin</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{1d041813-280e-4db6-abe8-5479a719a9d8}" record_timestamp="1473261994359" record_key="wh_dlc07_brt_blessed_trebuchet">
+<audio_type>none</audio_type>
+<default_projectile>wh_dlc07_brt_trebuchet_blessed_stone</default_projectile>
+<key>wh_dlc07_brt_blessed_trebuchet</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{fe77b63b-0463-4507-934e-7d9aa357b97d}" record_timestamp="1481738525072" record_key="wh_dlc07_brt_longbow_fire">
+<audio_type>bow</audio_type>
+<default_projectile>wh_brt_longbow_arrow_fire</default_projectile>
+<key>wh_dlc07_brt_longbow_fire</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{7411c407-5db1-4a12-8918-8fd5534a0903}" record_timestamp="1481738525007" record_key="wh_dlc07_brt_longbow_pox">
+<audio_type>bow</audio_type>
+<default_projectile>wh_brt_longbow_arrow_pox</default_projectile>
+<key>wh_dlc07_brt_longbow_pox</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{bf2f3ddc-4889-491f-ba00-11edb059eba5}" record_timestamp="1426767706727" record_key="wh_main_brt_horse_bow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_brt_arrow_horse</default_projectile>
+<key>wh_main_brt_horse_bow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{68661d84-abf8-4000-831b-70069f082b9e}" record_timestamp="1426767706728" record_key="wh_main_brt_longbow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_brt_longbow_arrow</default_projectile>
+<key>wh_main_brt_longbow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{e6f891d2-3a19-4b04-80b8-4225513bbb2f}" record_timestamp="1449566369573" record_key="wh_main_brt_trebuchet">
+<audio_type>none</audio_type>
+<default_projectile>wh_brt_trebuchet_stone</default_projectile>
+<key>wh_main_brt_trebuchet</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{694a0594-3e66-445e-84be-c45c8ece4234}" record_timestamp="1426767706733" record_key="wh_main_chs_hellcannon">
+<audio_type>hell_cannon</audio_type>
+<default_projectile>wh_chs_hellcannon_blast</default_projectile>
+<key>wh_main_chs_hellcannon</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{d86f7d7b-60bb-4518-8fe6-ad131b441e7e}" record_timestamp="1426767706720" record_key="wh_main_chs_javelin">
+<audio_type>none</audio_type>
+<default_projectile>wh_chs_javelin</default_projectile>
+<key>wh_main_chs_javelin</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{f83bcc80-c501-41ec-8dab-c041ee20af70}" record_timestamp="1474304272199" record_key="wh_main_chs_javelin_heavy">
+<audio_type>none</audio_type>
+<default_projectile>wh_chs_javelin_heavy</default_projectile>
+<key>wh_main_chs_javelin_heavy</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{6bdf92c6-03e5-4bdf-afd8-3cfb29bc4566}" record_timestamp="1426767706720" record_key="wh_main_chs_throwing_axe">
+<audio_type>none</audio_type>
+<default_projectile>wh_chs_throwing_axe</default_projectile>
+<key>wh_main_chs_throwing_axe</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{1352e776-f040-4b6f-b5ba-1aa4b2051250}" record_timestamp="1426767706721" record_key="wh_main_dwf_blasting_charges">
+<audio_type>none</audio_type>
+<default_projectile>wh_dwf_miners_blasting_charge</default_projectile>
+<key>wh_main_dwf_blasting_charges</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{0242099e-abdb-4906-8093-b0c77aa33738}" record_timestamp="1426767706733" record_key="wh_main_dwf_cannon">
+<audio_type>cannon</audio_type>
+<default_projectile>wh_dwf_cannon_ball</default_projectile>
+<key>wh_main_dwf_cannon</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{186cc449-ece7-4648-87dc-808ff05a5d4f}" record_timestamp="1441882978661" record_key="wh_main_dwf_cinderblast_bomb">
+<audio_type>none</audio_type>
+<default_projectile>wh_dwf_ironbreakers_cinderblast_bomb</default_projectile>
+<key>wh_main_dwf_cinderblast_bomb</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{235fe390-91af-4a9e-82f3-c8bef72c41a6}" record_timestamp="1468497866815" record_key="wh_main_dwf_clatter_gun">
+<audio_type>clattergun</audio_type>
+<default_projectile>wh_dwf_gyrobomber_clattergun_bullet</default_projectile>
+<key>wh_main_dwf_clatter_gun</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{4e066fe7-c900-404c-8ade-4a19dba27561}" record_timestamp="1426767706733" record_key="wh_main_dwf_copter_brimstone_gun">
+<audio_type>brinstone_gun</audio_type>
+<default_projectile>wh_dwf_copter_brimstone_shot</default_projectile>
+<key>wh_main_dwf_copter_brimstone_gun</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{e287eeab-b63e-446f-aa4c-3f5dd7f154ee}" record_timestamp="1438933330701" record_key="wh_main_dwf_copter_steam_gun">
+<audio_type>steamgun_copter</audio_type>
+<default_projectile>wh_dwf_gyrocopter_steam_shot</default_projectile>
+<key>wh_main_dwf_copter_steam_gun</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{b3530167-1f61-4ee7-863e-fda5e0a0337b}" record_timestamp="1426767706732" record_key="wh_main_dwf_crossbow">
+<audio_type>crossbow</audio_type>
+<default_projectile>wh_dwf_crossow_bolt</default_projectile>
+<key>wh_main_dwf_crossbow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{c8a943dc-07a5-43e1-b242-d54785b19f9d}" record_timestamp="1426767706732" record_key="wh_main_dwf_drakegun">
+<audio_type>drakegun</audio_type>
+<default_projectile>wh_dwf_drakegun_flame</default_projectile>
+<key>wh_main_dwf_drakegun</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{7cdf9d8b-531c-43e0-9458-ddb91ca98bde}" record_timestamp="1432310956105" record_key="wh_main_dwf_drakegun_trollhammer_torpedo">
+<audio_type>troll_hammer</audio_type>
+<default_projectile>wh_dwf_drakegun_trollhammer</default_projectile>
+<key>wh_main_dwf_drakegun_trollhammer_torpedo</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{a04adfc8-7843-4850-ab09-8e3021208fbe}" record_timestamp="1432310956105" record_key="wh_main_dwf_flame_cannon">
+<audio_type>flame_cannon</audio_type>
+<default_projectile>wh_dwf_flame_cannon_flame</default_projectile>
+<key>wh_main_dwf_flame_cannon</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{2f49c7ad-76c4-457c-aa64-78ae739a577a}" record_timestamp="1426767706723" record_key="wh_main_dwf_grudge_thrower">
+<audio_type>none</audio_type>
+<default_projectile>wh_dwf_grudge_stone</default_projectile>
+<key>wh_main_dwf_grudge_thrower</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{c8834ac0-7073-446b-aacf-5358a388268c}" record_timestamp="1435076406750" record_key="wh_main_dwf_master_engineer_rifle">
+<audio_type>repeater_gun</audio_type>
+<default_projectile>wh_dwf_master_engineer_rifle_bullet</default_projectile>
+<key>wh_main_dwf_master_engineer_rifle</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{56ba24c9-6c71-4eb2-9038-9c5ef556c99e}" record_timestamp="1431965864486" record_key="wh_main_dwf_organ_gun">
+<audio_type>orgun_gun</audio_type>
+<default_projectile>wh_dwf_organ_gun</default_projectile>
+<key>wh_main_dwf_organ_gun</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{5bcc699e-9c3d-426d-9a6e-0415da18fd90}" record_timestamp="1426767706731" record_key="wh_main_dwf_rifle">
+<audio_type>repeater_gun</audio_type>
+<default_projectile>wh_dwf_rifle_bullet</default_projectile>
+<key>wh_main_dwf_rifle</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{e34b8a79-8aac-4e96-b2b1-42591d4ff41e}" record_timestamp="1426767706723" record_key="wh_main_dwf_tower_freestanding">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_dwf_bullet</default_projectile>
+<key>wh_main_dwf_tower_freestanding</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{d01ddcba-4c0f-423b-8af6-906727afe5c7}" record_timestamp="1426767706723" record_key="wh_main_dwf_tower_main">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_dwf_fused_beer_keg</default_projectile>
+<key>wh_main_dwf_tower_main</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{e122b087-a323-428b-b40e-696a47726932}" record_timestamp="1432021573407" record_key="wh_main_emp_cannon">
+<audio_type>great_cannon</audio_type>
+<default_projectile>wh_emp_great_cannon_ball</default_projectile>
+<key>wh_main_emp_cannon</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{43b99988-0328-4dbd-b9a8-866420fe7cb5}" record_timestamp="1426767706730" record_key="wh_main_emp_crossbow">
+<audio_type>crossbow</audio_type>
+<default_projectile>wh_emp_crossbow_bolt</default_projectile>
+<key>wh_main_emp_crossbow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{5332f32d-0a7e-474c-bff3-154a849d5f28}" record_timestamp="1426767706730" record_key="wh_main_emp_grenade_launcher">
+<audio_type>grenade_launcher</audio_type>
+<default_projectile>wh_emp_grenade</default_projectile>
+<key>wh_main_emp_grenade_launcher</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{2acb8027-57a6-46ad-ae5c-156c0e89d9e2}" record_timestamp="1426767706730" record_key="wh_main_emp_mortar">
+<audio_type>mortar</audio_type>
+<default_projectile>wh_emp_mortar_shell</default_projectile>
+<key>wh_main_emp_mortar</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{57ba3bf9-dfd5-45b6-8265-14b8ca1e1329}" record_timestamp="1426767706729" record_key="wh_main_emp_pistol">
+<audio_type>pistol</audio_type>
+<default_projectile>wh_emp_pistol_bullet</default_projectile>
+<key>wh_main_emp_pistol</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{d67c689d-9869-4b03-b715-ff928661abae}" record_timestamp="1439969924770" record_key="wh_main_emp_rifle">
+<audio_type>repeater_gun</audio_type>
+<default_projectile>wh_emp_rifle_bullet</default_projectile>
+<key>wh_main_emp_rifle</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{b4dcdc75-3381-4e05-bee2-3be632e5d7a4}" record_timestamp="1426767706729" record_key="wh_main_emp_rifle_repeater">
+<audio_type>repeater_rifle</audio_type>
+<default_projectile>wh_emp_rifle_repeater_bullet</default_projectile>
+<key>wh_main_emp_rifle_repeater</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{15cc2459-5e38-4c26-81d4-65d73729918f}" record_timestamp="1430140390607" record_key="wh_main_emp_rocket_battery">
+<audio_type>rocket_battery</audio_type>
+<default_projectile>wh_emp_rocket</default_projectile>
+<key>wh_main_emp_rocket_battery</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{65cf8d07-217c-4f61-883c-8b9b6859b61a}" record_timestamp="1427384542045" record_key="wh_main_emp_steam_tank_cannon_ball">
+<audio_type>cannon</audio_type>
+<default_projectile>wh_emp_steam_tank_cannon_ball</default_projectile>
+<key>wh_main_emp_steam_tank_cannon_ball</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{c465ae28-03a1-4df3-a487-cdf19ec09260}" record_timestamp="1438933267460" record_key="wh_main_emp_steam_tank_steam_gun">
+<audio_type>steamgun_tank</audio_type>
+<default_projectile>wh_emp_steam_tank_steam_shot</default_projectile>
+<key>wh_main_emp_steam_tank_steam_gun</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>1</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{70b4f1d0-a3f2-4787-af1b-173109d4cd0b}" record_timestamp="1454951106721" record_key="wh_main_emp_volley_gun">
+<audio_type>gatling_gun</audio_type>
+<default_projectile>wh_emp_helblaster_bullet</default_projectile>
+<key>wh_main_emp_volley_gun</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{5a85ae0e-8892-402b-92ae-5960a38dcbf2}" record_timestamp="1427295454641" record_key="wh_main_emp_witchhunter_pistol">
+<audio_type>pistol</audio_type>
+<default_projectile>wh_emp_witchhunter_pistol</default_projectile>
+<key>wh_main_emp_witchhunter_pistol</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{a51b008b-273f-4b2f-9e86-5a96c18aa2c0}" record_timestamp="1453919925291" record_key="wh_main_grn_arachnarok_rider_bow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_grn_arachnarok_rider_arrow_poison</default_projectile>
+<key>wh_main_grn_arachnarok_rider_bow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{af20a8bf-d359-4216-a697-9d7f55ed209b}" record_timestamp="1426767706727" record_key="wh_main_grn_doom_diver_catapult">
+<audio_type>none</audio_type>
+<default_projectile>wh_grn_doomdiver_goblin</default_projectile>
+<key>wh_main_grn_doom_diver_catapult</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{562b904f-af7f-460c-82ba-2e9fcdf7a742}" record_timestamp="1426767706728" record_key="wh_main_grn_goblin_bow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_grn_goblin_arrow</default_projectile>
+<key>wh_main_grn_goblin_bow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{20426ef9-bf7c-4803-be88-f1d21e61c8ba}" record_timestamp="1453919927110" record_key="wh_main_grn_goblin_bow_poison">
+<audio_type>bow</audio_type>
+<default_projectile>wh_grn_goblin_arrow_poison_night_goblin</default_projectile>
+<key>wh_main_grn_goblin_bow_poison</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{6f47e734-a61c-4360-8afa-4aa1ecd845d4}" record_timestamp="1453919926065" record_key="wh_main_grn_goblin_bow_poison_spider_rider">
+<audio_type>bow</audio_type>
+<default_projectile>wh_grn_goblin_arrow_poison_spider_rider</default_projectile>
+<key>wh_main_grn_goblin_bow_poison_spider_rider</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{c4a37930-6807-4bc5-9b1d-7c6b7bac40e7}" record_timestamp="1477035605001" record_key="wh_main_grn_goblin_bow_sundered">
+<audio_type>bow</audio_type>
+<default_projectile>wh_grn_goblin_arrow_sundered_night_goblin</default_projectile>
+<key>wh_main_grn_goblin_bow_sundered</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{3a7df015-036f-43f7-b496-1819393061ce}" record_timestamp="1452783454749" record_key="wh_main_grn_goblin_bow_wolf_riders">
+<audio_type>bow</audio_type>
+<default_projectile>wh_grn_goblin_arrow_wolf_rider</default_projectile>
+<key>wh_main_grn_goblin_bow_wolf_riders</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{e73979e2-bd59-4ea4-92d4-02dabde23f8a}" record_timestamp="1432739537887" record_key="wh_main_grn_goblin_rock_lobber_rock">
+<audio_type>none</audio_type>
+<default_projectile>wh_main_grn_goblin_rock_lobber_rock</default_projectile>
+<key>wh_main_grn_goblin_rock_lobber_rock</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{2db76fb9-bbf3-45c8-ad42-3ce6d51abdff}" record_timestamp="1426767706728" record_key="wh_main_grn_orc_bow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_grn_orc_arrow</default_projectile>
+<key>wh_main_grn_orc_bow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{1b1dbc22-bec8-40e6-8ba3-a2f99101aac1}" record_timestamp="1435052347083" record_key="wh_main_grn_wolf_chariot_bow">
+<audio_type>bow</audio_type>
+<default_projectile>wh_grn_wolf_chariot_arrow</default_projectile>
+<key>wh_main_grn_wolf_chariot_bow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{aecbe14d-7024-4ead-a165-b6c88445944b}" record_timestamp="1453388775327" record_key="wh_main_solheims_bolt_of_illumination">
+<audio_type>repeater_rifle</audio_type>
+<default_projectile>wh_main_bound_spell_solheims_bolt_of_illumination</default_projectile>
+<key>wh_main_solheims_bolt_of_illumination</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{1a56237b-3d28-4c85-b9ea-370b665d8cb3}" record_timestamp="1448456274921" record_key="wh_test_templehof_luminark">
+<audio_type>repeater_rifle</audio_type>
+<default_projectile>wh_main_bound_spell_solheims_bolt_of_illumination</default_projectile>
+<key>wh_test_templehof_luminark</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{6d0e42fb-f8f6-4ecd-9ccd-38c793d21dee}" record_timestamp="1454954404187" record_key="wh_tower_brt_arrow">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_brt_arrow</default_projectile>
+<key>wh_tower_brt_arrow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{b00356b1-6edc-4673-9d41-1334117de1ff}" record_timestamp="1454954404188" record_key="wh_tower_brt_arrow_improved">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_brt_arrow_improved</default_projectile>
+<key>wh_tower_brt_arrow_improved</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{7e82e48f-c0c8-4987-99a7-0e270be0f4c6}" record_timestamp="1474299285034" record_key="wh_tower_brt_blessed_stone">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_brt_blessed_stone</default_projectile>
+<key>wh_tower_brt_blessed_stone</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{74cd080f-bb2b-4ec4-a238-93d194e7a63b}" record_timestamp="1454954404188" record_key="wh_tower_brt_carcass">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_brt_carcass</default_projectile>
+<key>wh_tower_brt_carcass</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{47c79f94-91a3-475a-87a7-4a7edd83a8ac}" record_timestamp="1454954404188" record_key="wh_tower_dwf_bullet">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_dwf_bullet</default_projectile>
+<key>wh_tower_dwf_bullet</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{fb72b35d-a93f-47c8-bbfc-4ff3be411bcb}" record_timestamp="1447174210340" record_key="wh_tower_dwf_bullet_improved">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_dwf_bullet_improved</default_projectile>
+<key>wh_tower_dwf_bullet_improved</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{565857d5-fb90-470d-a329-ae5c0a1eee0c}" record_timestamp="1454954404188" record_key="wh_tower_dwf_cannon_ball">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_dwf_cannon_ball</default_projectile>
+<key>wh_tower_dwf_cannon_ball</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{281eec2b-5eee-4e70-8fcc-f2136d124d91}" record_timestamp="1454954404188" record_key="wh_tower_dwf_fused_beer_keg">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_dwf_fused_beer_keg</default_projectile>
+<key>wh_tower_dwf_fused_beer_keg</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{7bbab72e-b346-48a5-a842-25c2ea5255b7}" record_timestamp="1454954404188" record_key="wh_tower_emp_bullet">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_emp_bullet</default_projectile>
+<key>wh_tower_emp_bullet</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{49f13641-d700-4212-94a1-13769ea725af}" record_timestamp="1454954404188" record_key="wh_tower_emp_bullet_improved">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_emp_bullet_improved</default_projectile>
+<key>wh_tower_emp_bullet_improved</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{addeeaf1-8eed-47b8-b230-85ad6d2a33e7}" record_timestamp="1454954404188" record_key="wh_tower_emp_cannon_ball">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_emp_cannon_ball</default_projectile>
+<key>wh_tower_emp_cannon_ball</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{9fef11f9-e7c6-46e6-b63f-98b870f190fe}" record_timestamp="1454954404188" record_key="wh_tower_emp_clockwork_bomb">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_emp_clockwork_bomb</default_projectile>
+<key>wh_tower_emp_clockwork_bomb</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{05bbcf6e-6fca-416b-8f29-1b8de379ab4b}" record_timestamp="1454954404188" record_key="wh_tower_grn_arrow">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_grn_arrow</default_projectile>
+<key>wh_tower_grn_arrow</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{91251140-e86e-4d84-9866-82139056da6d}" record_timestamp="1454954404188" record_key="wh_tower_grn_arrow_improved">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_grn_arrow_improved</default_projectile>
+<key>wh_tower_grn_arrow_improved</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{cf052c98-e456-45e4-9230-003cfc5b0172}" record_timestamp="1454954404188" record_key="wh_tower_grn_giant_dungball">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_grn_giant_dungball</default_projectile>
+<key>wh_tower_grn_giant_dungball</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{86feace8-75be-4d1f-a332-094266fa1c39}" record_timestamp="1454954404188" record_key="wh_tower_grn_rock_idol">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_grn_rock_idol</default_projectile>
+<key>wh_tower_grn_rock_idol</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{11bf4362-ffc4-4bd1-a85f-f8dc0bcdb783}" record_timestamp="1454954404188" record_key="wh_tower_vmp_bones">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_vmp_bones</default_projectile>
+<key>wh_tower_vmp_bones</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{192e1bd4-ce11-4b5a-b4b4-6fc3188f42a9}" record_timestamp="1454954404188" record_key="wh_tower_vmp_bones_improved">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_vmp_bones_improved</default_projectile>
+<key>wh_tower_vmp_bones_improved</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{5914594d-01b7-4262-bfce-f8d8b151086b}" record_timestamp="1454954404188" record_key="wh_tower_vmp_caged_bats">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_vmp_caged_bats</default_projectile>
+<key>wh_tower_vmp_caged_bats</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+<missile_weapons record_uuid="{5e65e5f0-92e4-4caa-9e3a-2678f45391a7}" record_timestamp="1454954404188" record_key="wh_tower_vmp_corpse_ball">
+<audio_type>none</audio_type>
+<default_projectile>wh_tower_vmp_corpse_ball</default_projectile>
+<key>wh_tower_vmp_corpse_ball</key>
+<precursor>0</precursor>
+<use_secondary_ammo_pool>0</use_secondary_ammo_pool>
+</missile_weapons>
+</dataroot>

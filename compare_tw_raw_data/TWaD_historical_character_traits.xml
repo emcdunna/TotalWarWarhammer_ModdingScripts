@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_historical_character_traits>
+<root>
+<edit_uuid>da74b174-d142-4a02-be79-40c86995b682</edit_uuid>
+<field>
+<field_uuid>{b1432046-1a8a-4695-8bc5-c29a947b2cff}</field_uuid>
+<primary_key>1</primary_key>
+<name>character</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>50</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>historical_characters</column_source_table>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>1</agf_link_to_dependents>
+<agf_done>1</agf_done>
+</field>
+<field>
+<field_uuid>{823a2694-1cff-42d8-b18b-7772564aa123}</field_uuid>
+<primary_key>1</primary_key>
+<name>trait</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>50</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>character_trait_levels</column_source_table>
+<agf_link_to_dependency>1</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+<agf_done>1</agf_done>
+</field>
+</root>

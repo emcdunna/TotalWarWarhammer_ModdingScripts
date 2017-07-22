@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="agent_actions_subculture_overrides.xsd" export_time="Thu Jun 2 15:14:04 2016" revision="13" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>d2e190e1-ec8c-4f74-af8c-00323aac8d99</edit_uuid>
+<agent_actions_subculture_overrides record_uuid="{56206c6c-67dc-4949-8f7a-dfe02f97070c}" record_timestamp="1464097621896" record_key="wh_main_agent_action_champion_passivewh_dlc03_sc_bst_beastmen">
+<agent_action>wh_main_agent_action_champion_passive</agent_action>
+<description state="APPROVED" last_approved_text="[[col:yellow]]Increases the amount of [[img:icon_corruption_chs]][[/img]]Chaos corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Increases the amount of [[img:icon_corruption_chs]][[/img]]Chaos corruption influence in the local province by 2 (constant passive effect).[[/col]]</description>
+<subculture>wh_dlc03_sc_bst_beastmen</subculture>
+<title state="APPROVED" last_approved_text="Corruption" last_edit_user="bob">Corruption</title>
+</agent_actions_subculture_overrides>
+<agent_actions_subculture_overrides record_uuid="{8e99d80f-ac16-4c1f-9868-620482a021fb}" record_timestamp="1450348980380" record_key="wh_main_agent_action_champion_passivewh_main_sc_chs_chaos">
+<agent_action>wh_main_agent_action_champion_passive</agent_action>
+<description state="APPROVED" last_approved_text="[[col:yellow]]Increases the amount of [[img:icon_corruption_chs]][[/img]]Chaos corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Increases the amount of [[img:icon_corruption_chs]][[/img]]Chaos corruption influence in the local province by 2 (constant passive effect).[[/col]]</description>
+<subculture>wh_main_sc_chs_chaos</subculture>
+<title state="APPROVED" last_approved_text="Corruption" last_edit_user="bob">Corruption</title>
+</agent_actions_subculture_overrides>
+<agent_actions_subculture_overrides record_uuid="{edab8eeb-5679-4626-91a1-b449cc608c27}" record_timestamp="1450348980094" record_key="wh_main_agent_action_champion_passivewh_main_sc_vmp_vampire_counts">
+<agent_action>wh_main_agent_action_champion_passive</agent_action>
+<description state="APPROVED" last_approved_text="[[col:yellow]]Increases the amount of [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Increases the amount of [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]</description>
+<subculture>wh_main_sc_vmp_vampire_counts</subculture>
+<title state="APPROVED" last_approved_text="Corruption" last_edit_user="bob">Corruption</title>
+</agent_actions_subculture_overrides>
+<agent_actions_subculture_overrides record_uuid="{2dea565b-1668-419b-94b3-dc6d830f88c5}" record_timestamp="1450348980021" record_key="wh_main_agent_action_dignitary_passivewh_main_sc_vmp_vampire_counts">
+<agent_action>wh_main_agent_action_dignitary_passive</agent_action>
+<description state="APPROVED" last_approved_text="[[col:yellow]]Increases the amount of [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Increases the amount of [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]</description>
+<subculture>wh_main_sc_vmp_vampire_counts</subculture>
+<title state="APPROVED" last_approved_text="Corruption" last_edit_user="bob">Corruption</title>
+</agent_actions_subculture_overrides>
+<agent_actions_subculture_overrides record_uuid="{d67930cc-7165-42f9-993f-825730b2fac1}" record_timestamp="1450348980237" record_key="wh_main_agent_action_spy_passivewh_main_sc_vmp_vampire_counts">
+<agent_action>wh_main_agent_action_spy_passive</agent_action>
+<description state="APPROVED" last_approved_text="[[col:yellow]]Increases the amount of [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Increases the amount of [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]</description>
+<subculture>wh_main_sc_vmp_vampire_counts</subculture>
+<title state="APPROVED" last_approved_text="Corruption" last_edit_user="bob">Corruption</title>
+</agent_actions_subculture_overrides>
+<agent_actions_subculture_overrides record_uuid="{7e497af1-250d-4ff5-8abe-2e86de1d5859}" record_timestamp="1464097621910" record_key="wh_main_agent_action_wizard_passivewh_dlc03_sc_bst_beastmen">
+<agent_action>wh_main_agent_action_wizard_passive</agent_action>
+<description state="APPROVED" last_approved_text="[[col:yellow]]Increases the amount of [[img:icon_corruption_chs]][[/img]]Chaos corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Increases the amount of [[img:icon_corruption_chs]][[/img]]Chaos corruption influence in the local province by 2 (constant passive effect).[[/col]]</description>
+<subculture>wh_dlc03_sc_bst_beastmen</subculture>
+<title state="APPROVED" last_approved_text="Corruption" last_edit_user="bob">Corruption</title>
+</agent_actions_subculture_overrides>
+<agent_actions_subculture_overrides record_uuid="{dd7507c0-9333-47a6-83af-0d5512f2d72a}" record_timestamp="1450348980308" record_key="wh_main_agent_action_wizard_passivewh_main_sc_chs_chaos">
+<agent_action>wh_main_agent_action_wizard_passive</agent_action>
+<description state="APPROVED" last_approved_text="[[col:yellow]]Increases the amount of [[img:icon_corruption_chs]][[/img]]Chaos corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Increases the amount of [[img:icon_corruption_chs]][[/img]]Chaos corruption influence in the local province by 2 (constant passive effect).[[/col]]</description>
+<subculture>wh_main_sc_chs_chaos</subculture>
+<title state="APPROVED" last_approved_text="Corruption" last_edit_user="bob">Corruption</title>
+</agent_actions_subculture_overrides>
+<agent_actions_subculture_overrides record_uuid="{84e5eb4f-af20-466f-8e96-d6edb6ff638f}" record_timestamp="1450348980453" record_key="wh_main_agent_action_wizard_passivewh_main_sc_nor_norsca">
+<agent_action>wh_main_agent_action_wizard_passive</agent_action>
+<description state="APPROVED" last_approved_text="[[col:yellow]]Increases the amount of [[img:icon_corruption_chs]][[/img]]Chaos corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Increases the amount of [[img:icon_corruption_chs]][[/img]]Chaos corruption influence in the local province by 2 (constant passive effect).[[/col]]</description>
+<subculture>wh_main_sc_nor_norsca</subculture>
+<title state="APPROVED" last_approved_text="Corruption" last_edit_user="bob">Corruption</title>
+</agent_actions_subculture_overrides>
+<agent_actions_subculture_overrides record_uuid="{295829e8-e0fe-45fb-96d5-adb503abb01b}" record_timestamp="1450348980165" record_key="wh_main_agent_action_wizard_passivewh_main_sc_vmp_vampire_counts">
+<agent_action>wh_main_agent_action_wizard_passive</agent_action>
+<description state="APPROVED" last_approved_text="[[col:yellow]]Increases the amount of [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Increases the amount of [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]</description>
+<subculture>wh_main_sc_vmp_vampire_counts</subculture>
+<title state="APPROVED" last_approved_text="Corruption" last_edit_user="bob">Corruption</title>
+</agent_actions_subculture_overrides>
+</dataroot>

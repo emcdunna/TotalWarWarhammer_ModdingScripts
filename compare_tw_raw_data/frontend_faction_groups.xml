@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="frontend_faction_groups.xsd" export_time="Mon Sep 19 15:10:34 2016" revision="1" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>0e8a20cc-2da6-4404-9605-e97a5439b262</edit_uuid>
+<frontend_faction_groups record_uuid="{0027e5ee-7b12-4c8e-8819-600e6db86bd4}" record_timestamp="1474293385340" record_key="destruction">
+<icon_path>ui/flags/faction_group_destruction/mon_64.png</icon_path>
+<key>destruction</key>
+<localised_description state="APPROVED" last_approved_text="Those who revel in wanton destruction exalt ruin, desolation, and madness as virtues above all else and to the bitter, blood-spattered end." last_edit_user="bob">Those who revel in wanton destruction exalt ruin, desolation, and madness as virtues above all else and to the bitter, blood-spattered end.</localised_description>
+<localised_name state="APPROVED" last_approved_text="Forces of Destruction" last_edit_user="bob">Forces of Destruction</localised_name>
+<sort_order>1</sort_order>
+</frontend_faction_groups>
+<frontend_faction_groups record_uuid="{282716e2-46ea-416b-b06a-4a6ec12f0915}" record_timestamp="1474293544733" record_key="order">
+<icon_path>ui/flags/faction_group_order/mon_64.png</icon_path>
+<key>order</key>
+<localised_description state="APPROVED" last_approved_text="There are those whose very existence brings balance to and sheds light upon an otherwise grim, miserable, shadow-filled world." last_edit_user="bob">There are those whose very existence brings balance to and sheds light upon an otherwise grim, miserable, shadow-filled world.</localised_description>
+<localised_name state="APPROVED" last_approved_text="Forces of Order" last_edit_user="bob">Forces of Order</localised_name>
+<sort_order>0</sort_order>
+</frontend_faction_groups>
+</dataroot>

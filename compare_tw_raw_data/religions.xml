@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="religions.xsd" export_time="Tue Apr 12 15:27:57 2016" revision="34" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>8b4ec1b3-5827-41a0-b4ec-5ee6cfa14f64</edit_uuid>
+<religions record_uuid="{2a1a98e9-a856-4138-b51a-d39ca29f1229}" record_timestamp="1442919703570" record_key="wh_main_religion_chaos">
+<col_blue>0</col_blue>
+<col_green>0</col_green>
+<col_red>255</col_red>
+<destruction_mask_type>chaos</destruction_mask_type>
+<onscreen state="APPROVED" last_approved_text="[[img:icon_corruption_chs]][[/img]]Chaos Corruption" last_edit_user="bob">[[img:icon_corruption_chs]][[/img]]Chaos Corruption</onscreen>
+<religion_key>wh_main_religion_chaos</religion_key>
+<sort_order>1</sort_order>
+<ui_icon_path>icon_corruption_chs.png</ui_icon_path>
+</religions>
+<religions record_uuid="{89b11c2c-846d-4805-8f33-a6f2d7b811d1}" record_timestamp="1442919703586" record_key="wh_main_religion_undeath">
+<col_blue>255</col_blue>
+<col_green>0</col_green>
+<col_red>0</col_red>
+<destruction_mask_type>vampire</destruction_mask_type>
+<onscreen state="APPROVED" last_approved_text="[[img:icon_corruption_vmp]][[/img]]Vampiric Corruption" last_edit_user="bob">[[img:icon_corruption_vmp]][[/img]]Vampiric Corruption</onscreen>
+<religion_key>wh_main_religion_undeath</religion_key>
+<sort_order>7</sort_order>
+<ui_icon_path>icon_corruption_vmp.png</ui_icon_path>
+</religions>
+<religions record_uuid="{b21071b1-9eef-4ee9-9d65-05ebab946748}" record_timestamp="1460470711629" record_key="wh_main_religion_untainted">
+<col_blue>0</col_blue>
+<col_green>255</col_green>
+<col_red>0</col_red>
+<destruction_mask_type></destruction_mask_type>
+<onscreen state="APPROVED" last_approved_text="[[img:icon_corruption_untainted]][[/img]]Untainted" last_edit_user="bob">[[img:icon_corruption_untainted]][[/img]]Untainted</onscreen>
+<religion_key>wh_main_religion_untainted</religion_key>
+<sort_order>0</sort_order>
+<ui_icon_path>placeholder.png</ui_icon_path>
+</religions>
+</dataroot>

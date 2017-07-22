@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_religion_junction.xsd" export_time="Wed Nov 16 21:57:55 2016" revision="54" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>da6cf51a-5d6e-48cd-8b57-a0d19f44e4ee</edit_uuid>
+<effect_bonus_value_religion_junction record_uuid="{abcfb9cc-cfa4-4b9f-86f4-0acdadd7413c}" record_timestamp="1469720031119" record_key="wh_dlc04_effect_religion_conversion_undeath_not_shownconversionwh_main_religion_undeath">
+<bonus_value_id>conversion</bonus_value_id>
+<effect>wh_dlc04_effect_religion_conversion_undeath_not_shown</effect>
+<religion>wh_main_religion_undeath</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{5f99d1b5-251e-4f34-b1a5-c9e1dfb7eb11}" record_timestamp="1462899332348" record_key="wh_dlc05_faction_diplomacy_mod_buildingdiplomatic_modwh_main_religion_chaos">
+<bonus_value_id>diplomatic_mod</bonus_value_id>
+<effect>wh_dlc05_faction_diplomacy_mod_building</effect>
+<religion>wh_main_religion_chaos</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{07b44433-4f04-4d92-b1d0-25e4ffc0906c}" record_timestamp="1462899332433" record_key="wh_dlc05_faction_diplomacy_mod_buildingdiplomatic_modwh_main_religion_undeath">
+<bonus_value_id>diplomatic_mod</bonus_value_id>
+<effect>wh_dlc05_faction_diplomacy_mod_building</effect>
+<religion>wh_main_religion_undeath</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{3e604e2d-74cb-4580-a314-db0bd5600f4c}" record_timestamp="1462899332392" record_key="wh_dlc05_faction_diplomacy_mod_buildingdiplomatic_modwh_main_religion_untainted">
+<bonus_value_id>diplomatic_mod</bonus_value_id>
+<effect>wh_dlc05_faction_diplomacy_mod_building</effect>
+<religion>wh_main_religion_untainted</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{7f2c6ddf-891a-4c31-96e9-89854c22ad0b}" record_timestamp="1448620507457" record_key="wh_main_effect_commandment_dwarfs_ancestor_worship_untainted_baseconversionwh_main_religion_untainted">
+<bonus_value_id>conversion</bonus_value_id>
+<effect>wh_main_effect_commandment_dwarfs_ancestor_worship_untainted_base</effect>
+<religion>wh_main_religion_untainted</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{5341fc24-2371-4fcd-9d7a-9b05067d76a3}" record_timestamp="1456830957705" record_key="wh_main_effect_faction_imperium_diplomacy_penalty_majordiplomatic_mod_imperiumwh_main_religion_chaos">
+<bonus_value_id>diplomatic_mod_imperium</bonus_value_id>
+<effect>wh_main_effect_faction_imperium_diplomacy_penalty_major</effect>
+<religion>wh_main_religion_chaos</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{092c3c76-7ab1-462b-90fa-f73d5a996265}" record_timestamp="1456830957701" record_key="wh_main_effect_faction_imperium_diplomacy_penalty_majordiplomatic_mod_imperiumwh_main_religion_undeath">
+<bonus_value_id>diplomatic_mod_imperium</bonus_value_id>
+<effect>wh_main_effect_faction_imperium_diplomacy_penalty_major</effect>
+<religion>wh_main_religion_undeath</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{3ca2bb7a-7f8b-46ea-90a7-22267ba79b5a}" record_timestamp="1456830957704" record_key="wh_main_effect_faction_imperium_diplomacy_penalty_majordiplomatic_mod_imperiumwh_main_religion_untainted">
+<bonus_value_id>diplomatic_mod_imperium</bonus_value_id>
+<effect>wh_main_effect_faction_imperium_diplomacy_penalty_major</effect>
+<religion>wh_main_religion_untainted</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{2d9ba2fc-0e8b-4875-99f0-807f2cc5dfc7}" record_timestamp="1456830957703" record_key="wh_main_effect_faction_imperium_diplomacy_penalty_minordiplomatic_mod_imperiumwh_main_religion_chaos">
+<bonus_value_id>diplomatic_mod_imperium</bonus_value_id>
+<effect>wh_main_effect_faction_imperium_diplomacy_penalty_minor</effect>
+<religion>wh_main_religion_chaos</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{3395de16-35a4-4b3a-b9a7-26c74c74dc8c}" record_timestamp="1456830957702" record_key="wh_main_effect_faction_imperium_diplomacy_penalty_minordiplomatic_mod_imperiumwh_main_religion_undeath">
+<bonus_value_id>diplomatic_mod_imperium</bonus_value_id>
+<effect>wh_main_effect_faction_imperium_diplomacy_penalty_minor</effect>
+<religion>wh_main_religion_undeath</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{85c81342-e14d-41d7-b9f7-0e737f7329be}" record_timestamp="1456830957702" record_key="wh_main_effect_faction_imperium_diplomacy_penalty_minordiplomatic_mod_imperiumwh_main_religion_untainted">
+<bonus_value_id>diplomatic_mod_imperium</bonus_value_id>
+<effect>wh_main_effect_faction_imperium_diplomacy_penalty_minor</effect>
+<religion>wh_main_religion_untainted</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{6b94f44b-4321-4a8c-b6de-cb7dcbee50fc}" record_timestamp="1456830957705" record_key="wh_main_effect_faction_imperium_diplomacy_penalty_severediplomatic_mod_imperiumwh_main_religion_chaos">
+<bonus_value_id>diplomatic_mod_imperium</bonus_value_id>
+<effect>wh_main_effect_faction_imperium_diplomacy_penalty_severe</effect>
+<religion>wh_main_religion_chaos</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{035258af-a9a2-468a-a7e7-fa9b05747461}" record_timestamp="1456830957703" record_key="wh_main_effect_faction_imperium_diplomacy_penalty_severediplomatic_mod_imperiumwh_main_religion_undeath">
+<bonus_value_id>diplomatic_mod_imperium</bonus_value_id>
+<effect>wh_main_effect_faction_imperium_diplomacy_penalty_severe</effect>
+<religion>wh_main_religion_undeath</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{aeea4b92-4e79-46b3-8fab-24cf90c3f7ff}" record_timestamp="1456830957704" record_key="wh_main_effect_faction_imperium_diplomacy_penalty_severediplomatic_mod_imperiumwh_main_religion_untainted">
+<bonus_value_id>diplomatic_mod_imperium</bonus_value_id>
+<effect>wh_main_effect_faction_imperium_diplomacy_penalty_severe</effect>
+<religion>wh_main_religion_untainted</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{fa69b9d1-0c25-438a-977d-8e07e5b083a5}" record_timestamp="1474283904003" record_key="wh_main_effect_religion_conversion_chaos_badconversionwh_main_religion_chaos">
+<bonus_value_id>conversion</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_chaos_bad</effect>
+<religion>wh_main_religion_chaos</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{d52c34c5-3f02-44eb-a3a3-11362c8b01c2}" record_timestamp="1453825963007" record_key="wh_main_effect_religion_conversion_chaos_events_badconversion_eventswh_main_religion_chaos">
+<bonus_value_id>conversion_events</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_chaos_events_bad</effect>
+<religion>wh_main_religion_chaos</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{4aed9baf-f1f3-4dbd-a1cd-bcb38f442143}" record_timestamp="1448971062726" record_key="wh_main_effect_religion_conversion_chaos_eventsconversion_eventswh_main_religion_chaos">
+<bonus_value_id>conversion_events</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_chaos_events</effect>
+<religion>wh_main_religion_chaos</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{8a28c373-01e6-4628-b539-decc1ea951da}" record_timestamp="1433321589721" record_key="wh_main_effect_religion_conversion_chaosconversionwh_main_religion_chaos">
+<bonus_value_id>conversion</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_chaos</effect>
+<religion>wh_main_religion_chaos</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{ec4ae362-785c-4e90-a530-f4cb75fa280b}" record_timestamp="1462358738464" record_key="wh_main_effect_religion_conversion_undeath_events_badconversion_eventswh_main_religion_undeath">
+<bonus_value_id>conversion_events</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_undeath_events_bad</effect>
+<religion>wh_main_religion_undeath</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{ce3238f6-adb0-4af6-94eb-9ac1daa37296}" record_timestamp="1448971062678" record_key="wh_main_effect_religion_conversion_undeath_eventsconversion_eventswh_main_religion_undeath">
+<bonus_value_id>conversion_events</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_undeath_events</effect>
+<religion>wh_main_religion_undeath</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{61a0b485-6d21-4d7b-adb3-57511ffca7cb}" record_timestamp="1433321589748" record_key="wh_main_effect_religion_conversion_undeathconversionwh_main_religion_undeath">
+<bonus_value_id>conversion</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_undeath</effect>
+<religion>wh_main_religion_undeath</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{3dcf0e44-4f0c-4986-96c7-137207b7f209}" record_timestamp="1479333466586" record_key="wh_main_effect_religion_conversion_untainted_all_regionsconversionwh_main_religion_untainted">
+<bonus_value_id>conversion</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_untainted_all_regions</effect>
+<religion>wh_main_religion_untainted</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{40f10b5e-bf13-4abe-81de-18aaaad9e8a9}" record_timestamp="1468496760443" record_key="wh_main_effect_religion_conversion_untainted_events_badconversion_eventswh_main_religion_untainted">
+<bonus_value_id>conversion_events</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_untainted_events_bad</effect>
+<religion>wh_main_religion_untainted</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{2fd0f542-63c9-4faf-8635-557de5e75a6c}" record_timestamp="1448971184528" record_key="wh_main_effect_religion_conversion_untainted_eventsconversion_eventswh_main_religion_untainted">
+<bonus_value_id>conversion_events</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_untainted_events</effect>
+<religion>wh_main_religion_untainted</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{b4366e32-eb3b-4742-9d4d-d73478c4cdbb}" record_timestamp="1429871811655" record_key="wh_main_effect_religion_conversion_untaintedconversionwh_main_religion_untainted">
+<bonus_value_id>conversion</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_untainted</effect>
+<religion>wh_main_religion_untainted</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{6f7f11cf-c0d5-445f-abf1-0759e64e30b4}" record_timestamp="1429871811933" record_key="wh_main_effect_religion_osmosis_chaososmotic_conversionwh_main_religion_chaos">
+<bonus_value_id>osmotic_conversion</bonus_value_id>
+<effect>wh_main_effect_religion_osmosis_chaos</effect>
+<religion>wh_main_religion_chaos</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{93c2603b-0224-4493-a7d9-e3f433ddf6f9}" record_timestamp="1429871811841" record_key="wh_main_effect_religion_osmosis_undeathosmotic_conversionwh_main_religion_undeath">
+<bonus_value_id>osmotic_conversion</bonus_value_id>
+<effect>wh_main_effect_religion_osmosis_undeath</effect>
+<religion>wh_main_religion_undeath</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{5a52e8e5-74dc-4c39-a430-eef964bd7e8d}" record_timestamp="1429871811747" record_key="wh_main_effect_religion_osmosis_untaintedosmotic_conversionwh_main_religion_untainted">
+<bonus_value_id>osmotic_conversion</bonus_value_id>
+<effect>wh_main_effect_religion_osmosis_untainted</effect>
+<religion>wh_main_religion_untainted</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{c1b4e590-929d-4d1a-8023-4ae308e3233f}" record_timestamp="1446573226691" record_key="wh_main_effect_religion_undeath_public_orderpublic_orderwh_main_religion_undeath">
+<bonus_value_id>public_order</bonus_value_id>
+<effect>wh_main_effect_religion_undeath_public_order</effect>
+<religion>wh_main_religion_undeath</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{1449c062-212c-4263-91be-abb97d30e368}" record_timestamp="1456497709127" record_key="wh_main_faction_political_diplomacy_moddiplomatic_mod_techwh_main_religion_chaos">
+<bonus_value_id>diplomatic_mod_tech</bonus_value_id>
+<effect>wh_main_faction_political_diplomacy_mod</effect>
+<religion>wh_main_religion_chaos</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{3cb822a1-5d2c-4b41-aed9-87b9bb09bb11}" record_timestamp="1456497709168" record_key="wh_main_faction_political_diplomacy_moddiplomatic_mod_techwh_main_religion_undeath">
+<bonus_value_id>diplomatic_mod_tech</bonus_value_id>
+<effect>wh_main_faction_political_diplomacy_mod</effect>
+<religion>wh_main_religion_undeath</religion>
+</effect_bonus_value_religion_junction>
+<effect_bonus_value_religion_junction record_uuid="{2cafa226-c967-4e2d-8d87-fc4def80e9b8}" record_timestamp="1456497709198" record_key="wh_main_faction_political_diplomacy_moddiplomatic_mod_techwh_main_religion_untainted">
+<bonus_value_id>diplomatic_mod_tech</bonus_value_id>
+<effect>wh_main_faction_political_diplomacy_mod</effect>
+<religion>wh_main_religion_untainted</religion>
+</effect_bonus_value_religion_junction>
+</dataroot>

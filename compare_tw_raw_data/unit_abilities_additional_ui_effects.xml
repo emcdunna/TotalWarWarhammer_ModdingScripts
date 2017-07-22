@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_abilities_additional_ui_effects.xsd" export_time="Tue Jan 31 12:19:54 2017" revision="92" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>1f024803-e695-472d-aa3c-57862612217d</edit_uuid>
+<unit_abilities_additional_ui_effects record_uuid="{1b16ba8b-471b-4d1f-87df-4ea64c0ab178}" record_timestamp="1479308422359" record_key="wh_dlc01_all_summon_spawn">
+<key>wh_dlc01_all_summon_spawn</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a unit of Chaos Spawn[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a unit of Chaos Spawn[[/col]]</localised_text>
+<sort_order>103</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{f42adccf-7fcf-4dbe-9e25-c2cd4e375c32}" record_timestamp="1479313226201" record_key="wh_dlc03_all_reduce_accuracy">
+<key>wh_dlc03_all_reduce_accuracy</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Reduced accuracy for affected combatants[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Reduced accuracy for affected combatants[[/col]]</localised_text>
+<sort_order>201</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{44f7d9db-ae75-4220-ba55-cc26fdb157df}" record_timestamp="1479308422360" record_key="wh_dlc03_all_summon_cygor">
+<key>wh_dlc03_all_summon_cygor</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a Cygor[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a Cygor[[/col]]</localised_text>
+<sort_order>103</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{29fef38c-34b5-4e6e-882e-650039039a8b}" record_timestamp="1479308422360" record_key="wh_dlc03_all_summon_giant">
+<key>wh_dlc03_all_summon_giant</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a Giant[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a Giant[[/col]]</localised_text>
+<sort_order>103</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{cba3cc61-6e29-48c5-bd7e-6badb6a173a6}" record_timestamp="1479308422361" record_key="wh_dlc03_all_summon_manticore">
+<key>wh_dlc03_all_summon_manticore</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a Manticore[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a Manticore[[/col]]</localised_text>
+<sort_order>103</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{8a363530-d360-4bbd-b5ba-1f711eaeb8ac}" record_timestamp="1479308422361" record_key="wh_dlc03_spell_upgraded_speed_reduction">
+<key>wh_dlc03_spell_upgraded_speed_reduction</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_speed]][[/img]]speed[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_speed]][[/img]]speed[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{d0542840-9379-4655-aa72-79d0dcef7e54}" record_timestamp="1479308422362" record_key="wh_dlc04_all_increases_with_enemies_in_range">
+<key>wh_dlc04_all_increases_with_enemies_in_range</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Effect increases proportional to the number of enemy units in range.[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Effect increases proportional to the number of enemy units in range.[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{2d80c494-6db1-46c6-b26d-0ec233941e6e}" record_timestamp="1479308422362" record_key="wh_dlc04_all_summon_crypt_ghouls">
+<key>wh_dlc04_all_summon_crypt_ghouls</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a unit of Crypt Ghouls[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a unit of Crypt Ghouls[[/col]]</localised_text>
+<sort_order>103</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{92ff8196-9536-412c-a7e5-6d88bf07420f}" record_timestamp="1479308422363" record_key="wh_dlc04_all_summon_crypt_horrors">
+<key>wh_dlc04_all_summon_crypt_horrors</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Spawns a unit of Crypt Horrors[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Spawns a unit of Crypt Horrors[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{5fffc66a-43c5-409b-8354-aa867372723d}" record_timestamp="1479308422363" record_key="wh_dlc04_all_summon_flanker">
+<key>wh_dlc04_all_summon_flanker</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Good at flanking enemies[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Good at flanking enemies[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{e7769acd-ffd8-48fa-8dff-5c4fe5fbe372}" record_timestamp="1479308422364" record_key="wh_dlc04_all_summon_graveguard">
+<key>wh_dlc04_all_summon_graveguard</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a unit of Grave Guards[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a unit of Grave Guards[[/col]]</localised_text>
+<sort_order>103</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{96c65da1-ace3-49c9-901f-c21f5295d717}" record_timestamp="1479308422364" record_key="wh_dlc04_all_summon_melee_expert">
+<key>wh_dlc04_all_summon_melee_expert</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Good at melee combat[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Good at melee combat[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{298b46c2-83d1-45ef-ae58-5197513e2a54}" record_timestamp="1479308422364" record_key="wh_dlc04_all_summon_wight_king">
+<key>wh_dlc04_all_summon_wight_king</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Spawns a Wight King[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Spawns a Wight King[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{2dec1f6d-fb70-4c76-94f2-487a9b956aed}" record_timestamp="1479308422366" record_key="wh_dlc04_lord_passive_the_power_of_sigmar">
+<key>wh_dlc04_lord_passive_the_power_of_sigmar</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]]Grants larger range to all prayers[[/col]]" last_edit_user="bob">[[col:green]]Grants larger range to all prayers[[/col]]</localised_text>
+<sort_order>102</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{504614d2-49df-4dc5-8c22-de76cf53e403}" record_timestamp="1479308422367" record_key="wh_dlc04_spell_battle_prayer">
+<key>wh_dlc04_spell_battle_prayer</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]]Battle Prayer[[/col]]" last_edit_user="bob">[[col:green]]Battle Prayer[[/col]]</localised_text>
+<sort_order>101</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{06cc844b-5dd7-4cc3-8768-6b62844b4424}" record_timestamp="1481046322067" record_key="wh_dlc05_ability_range">
+<key>wh_dlc05_ability_range</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Ability range 70m[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Ability range 70m[[/col]]</localised_text>
+<sort_order>101</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{d46405fe-d19b-404e-a590-ac9af80bbdcc}" record_timestamp="1479317337156" record_key="wh_dlc05_effect_increase_with_time">
+<key>wh_dlc05_effect_increase_with_time</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] This effect increases over time[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] This effect increases over time[[/col]]</localised_text>
+<sort_order>10</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{18de3cd7-f69d-439a-8f45-956030c2cefa}" record_timestamp="1481031189819" record_key="wh_dlc05_projectile_strikes_ahead">
+<key>wh_dlc05_projectile_strikes_ahead</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Strikes any combatants in its path[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Strikes any combatants in its path[[/col]]</localised_text>
+<sort_order>207</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{7948dbdb-0eaa-411b-986b-f7561bf69b2b}" record_timestamp="1479313209572" record_key="wh_dlc05_spell_trigger_when_casting">
+<key>wh_dlc05_spell_trigger_when_casting</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Triggers when casting spell[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Triggers when casting spell[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{bc20f1dc-732b-4915-ab99-bb8c610916e8}" record_timestamp="1479308422371" record_key="wh_dlc05_spell_upgraded_missile_block_chance">
+<key>wh_dlc05_spell_upgraded_missile_block_chance</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_melee_defence]][[/img]]missile parry[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_melee_defence]][[/img]]missile parry[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{9028dae4-9845-4799-809c-4e25fa60bd49}" record_timestamp="1479333486161" record_key="wh_dlc05_spell_upgraded_replenish">
+<key>wh_dlc05_spell_upgraded_replenish</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_hp]][[/img]]replenishment [[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_hp]][[/img]]replenishment [[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{faaa3035-6957-4dbd-b51d-afe1df1567e4}" record_timestamp="1481892538404" record_key="wh_dlc05_spell_upgraded_resistance_all">
+<key>wh_dlc05_spell_upgraded_resistance_all</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_resistance_all]][[/img]]ward save[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_resistance_all]][[/img]]ward save[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{35870e5d-bdb3-4963-a06f-1b80526580c6}" record_timestamp="1481892538404" record_key="wh_dlc05_spell_upgraded_resistance_fire">
+<key>wh_dlc05_spell_upgraded_resistance_fire</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_resistance_fire]][[/img]]fire resistance[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_resistance_fire]][[/img]]fire resistance[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{b2dbc5d2-9d17-4afc-b40e-d40b53a6614c}" record_timestamp="1481892538403" record_key="wh_dlc05_spell_upgraded_resistance_magic">
+<key>wh_dlc05_spell_upgraded_resistance_magic</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_resistance_magic]][[/img]]magic resistance[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_resistance_magic]][[/img]]magic resistance[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{3e517b7d-bdec-4b17-827f-82f1af38cae5}" record_timestamp="1481892538402" record_key="wh_dlc05_spell_upgraded_resistance_missile">
+<key>wh_dlc05_spell_upgraded_resistance_missile</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_resistance_missile]][[/img]]missile resistance[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_resistance_missile]][[/img]]missile resistance[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{bcfd6555-bce6-40be-9de0-bb722c5ffb11}" record_timestamp="1481892538403" record_key="wh_dlc05_spell_upgraded_resistance_physical">
+<key>wh_dlc05_spell_upgraded_resistance_physical</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_resistance_physical]][[/img]]physical resistance[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_resistance_physical]][[/img]]physical resistance[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{61a1e068-47aa-4ca0-b201-fecf2ab6f36f}" record_timestamp="1479308422372" record_key="wh_dlc06_all_defend_vs_charge">
+<key>wh_dlc06_all_defend_vs_charge</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Good at defending the summoner[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Good at defending the summoner[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{418c3314-74e3-410a-af56-4caf60df6d83}" record_timestamp="1479308422373" record_key="wh_dlc06_all_summon_spider_hatchlings">
+<key>wh_dlc06_all_summon_spider_hatchlings</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a unit of Spider Hatchlings[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a unit of Spider Hatchlings[[/col]]</localised_text>
+<sort_order>103</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{bff9b540-077c-46e9-8fc1-e4f5b501ebb5}" record_timestamp="1479308422373" record_key="wh_dlc06_automatic_fire">
+<key>wh_dlc06_automatic_fire</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Automatically fire at enemies in range. [[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Automatically fire at enemies in range. [[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{aeebdf23-1637-4bfd-93af-5f9fa19d0436}" record_timestamp="1479308422374" record_key="wh_dlc06_projectile_cause_explosion">
+<key>wh_dlc06_projectile_cause_explosion</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Shoot explosive rounds[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Shoot explosive rounds[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{6eea61ad-bb5e-41bf-b0ef-091104912adb}" record_timestamp="1479308422374" record_key="wh_dlc06_projectile_shrapnels">
+<key>wh_dlc06_projectile_shrapnels</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Shoots shrapnel on impact[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Shoots shrapnel on impact[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{2bd9bfa1-ff39-422c-8cff-a150963d7b30}" record_timestamp="1485791824750" record_key="wh_dlc07_spell_ignores_ap">
+<key>wh_dlc07_spell_ignores_ap</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Good against AP damage[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Good against AP damage[[/col]]</localised_text>
+<sort_order>0</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{f67adce9-e084-46a6-a8c4-3afe5546536b}" record_timestamp="1479308422375" record_key="wh_main_all_armour_piercing">
+<key>wh_main_all_armour_piercing</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Causes [[img:icon_ap]][[/img]]armour-piercing damage[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Causes [[img:icon_ap]][[/img]]armour-piercing damage[[/col]]</localised_text>
+<sort_order>104</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{2b4b3bba-3691-4473-8da1-f9d8d0b236c6}" record_timestamp="1479308422375" record_key="wh_main_all_armour_piercing_ranged">
+<key>wh_main_all_armour_piercing_ranged</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Causes [[img:icon_ap_ranged]][[/img]]armour-piercing damage[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Causes [[img:icon_ap_ranged]][[/img]]armour-piercing damage[[/col]]</localised_text>
+<sort_order>104</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{8fbaecd2-dc90-44a5-8408-6636dce05eda}" record_timestamp="1479308422375" record_key="wh_main_all_can_disrupt_formation">
+<key>wh_main_all_can_disrupt_formation</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Can disrupt unit formation[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Can disrupt unit formation[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{54d4205d-206f-4c8b-b369-abac2fab0f2b}" record_timestamp="1479308422376" record_key="wh_main_all_defend_vs_charge">
+<key>wh_main_all_defend_vs_charge</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Good at defending spellcaster[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Good at defending spellcaster[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{dbef4119-91ad-4f50-a71f-f712edb4db40}" record_timestamp="1479308422376" record_key="wh_main_all_direct_damage">
+<key>wh_main_all_direct_damage</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Causes damage to combatants[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Causes damage to combatants[[/col]]</localised_text>
+<sort_order>104</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{cd94e5e1-4ac4-4100-bb0a-891205c0990c}" record_timestamp="1479308422377" record_key="wh_main_all_direct_damage_high">
+<key>wh_main_all_direct_damage_high</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Causes severe damage to combatants[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Causes severe damage to combatants[[/col]]</localised_text>
+<sort_order>104</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{7e0462f4-f0cc-46d1-b11f-2257c03afe73}" record_timestamp="1479308422377" record_key="wh_main_all_direct_damage_high_negative">
+<key>wh_main_all_direct_damage_high_negative</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Causes severe damage to combatants[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Causes severe damage to combatants[[/col]]</localised_text>
+<sort_order>201</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{8a192a86-a5fb-42b4-b500-650ff8253017}" record_timestamp="1479308422378" record_key="wh_main_all_direct_damage_negative">
+<key>wh_main_all_direct_damage_negative</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Causes damage to combatants[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Causes damage to combatants[[/col]]</localised_text>
+<sort_order>201</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{0cd20aec-c913-4a00-823b-6c2e3db3606f}" record_timestamp="1479308422378" record_key="wh_main_all_direct_damage_resist">
+<key>wh_main_all_direct_damage_resist</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Chance opponent will resist damage[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Chance opponent will resist damage[[/col]]</localised_text>
+<sort_order>201</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{cad26a24-f559-4674-a912-4cd7572f58d9}" record_timestamp="1479308422379" record_key="wh_main_all_direct_damage_resist_high">
+<key>wh_main_all_direct_damage_resist_high</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] High chance opponent will resist damage[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] High chance opponent will resist damage[[/col]]</localised_text>
+<sort_order>201</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{cfa7ba39-8097-426b-8691-dc6eb3e37464}" record_timestamp="1479308422379" record_key="wh_main_all_direct_damage_resist_self">
+<key>wh_main_all_direct_damage_resist_self</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Chance damage will be resisted[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Chance damage will be resisted[[/col]]</localised_text>
+<sort_order>201</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{3fcd7fec-7fe4-4afc-940c-2a07d4800bd9}" record_timestamp="1479308422380" record_key="wh_main_all_direct_damage_self">
+<key>wh_main_all_direct_damage_self</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Causes damage to self[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Causes damage to self[[/col]]</localised_text>
+<sort_order>201</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{20be89c7-8fda-4097-8cca-3e93b2a77291}" record_timestamp="1479308422380" record_key="wh_main_all_direct_damage_self_high">
+<key>wh_main_all_direct_damage_self_high</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Causes severe damage to self[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Causes severe damage to self[[/col]]</localised_text>
+<sort_order>201</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{aed6ed15-c526-4444-a14d-d9e52294bbd2}" record_timestamp="1479308724524" record_key="wh_main_all_direct_damage_unbinding">
+<key>wh_main_all_direct_damage_unbinding</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Summoned units degrade over time[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Summoned units degrade over time[[/col]]</localised_text>
+<sort_order>203</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{22bc42cd-c1fd-4b3d-b002-9030ec1a143f}" record_timestamp="1479308422380" record_key="wh_main_all_good_against_flying">
+<key>wh_main_all_good_against_flying</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Good against flying[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Good against flying[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{a8a335ed-3c0e-4a34-a563-14b575d766c3}" record_timestamp="1479308422381" record_key="wh_main_all_good_vs_artillery">
+<key>wh_main_all_good_vs_artillery</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Good against artillery pieces[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Good against artillery pieces[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{c1eff4ee-cc00-47ca-a7c9-958340feef2a}" record_timestamp="1479308422381" record_key="wh_main_all_good_vs_large">
+<key>wh_main_all_good_vs_large</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Good against large combatants[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Good against large combatants[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{4286c348-6e79-49e9-98fc-6660785669ff}" record_timestamp="1479308422382" record_key="wh_main_all_improved_recharge_rate">
+<key>wh_main_all_improved_recharge_rate</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Improved [[img:icon_wom_recharge]][[/img]]power recharge rate[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Improved [[img:icon_wom_recharge]][[/img]]power recharge rate[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{fb75f919-1e96-4664-8782-743dfcc8f197}" record_timestamp="1479308422382" record_key="wh_main_all_improved_recharge_rate_high">
+<key>wh_main_all_improved_recharge_rate_high</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Greatly improved [[img:icon_wom_recharge]][[/img]]power recharge rate[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Greatly improved [[img:icon_wom_recharge]][[/img]]power recharge rate[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{c7fb6c2f-1bdd-4594-a72e-b183a9e27e27}" record_timestamp="1479308422383" record_key="wh_main_all_increased_max_power">
+<key>wh_main_all_increased_max_power</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Increase to [[img:icon_wom_power]][[/img]]power reserves[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Increase to [[img:icon_wom_power]][[/img]]power reserves[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{d4863883-931d-4b4e-b656-0e52ec7aa245}" record_timestamp="1479308422383" record_key="wh_main_all_increased_max_power_high">
+<key>wh_main_all_increased_max_power_high</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Great increase to [[img:icon_wom_power]][[/img]]power reserves[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Great increase to [[img:icon_wom_power]][[/img]]power reserves[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{0df37832-3abc-4b83-8e48-920abdcd6832}" record_timestamp="1479308422384" record_key="wh_main_all_large_aoe">
+<key>wh_main_all_large_aoe</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Large area of effect[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Large area of effect[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{ffbd07f5-0cd4-486d-a47d-20d9d44fc987}" record_timestamp="1479308422384" record_key="wh_main_all_magical">
+<key>wh_main_all_magical</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Causes [[img:icon_dmg_magical]][[/img]]magical damage[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Causes [[img:icon_dmg_magical]][[/img]]magical damage[[/col]]</localised_text>
+<sort_order>104</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{96d13bf9-8982-4b32-9af9-16db8a8ea2e6}" record_timestamp="1479308422385" record_key="wh_main_all_magical_and_flaming">
+<key>wh_main_all_magical_and_flaming</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Causes [[img:icon_dmg_magical]][[/img]]magical &amp; [[img:icon_dmg_flaming]][[/img]]fire damage[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Causes [[img:icon_dmg_magical]][[/img]]magical &amp; [[img:icon_dmg_flaming]][[/img]]fire damage[[/col]]</localised_text>
+<sort_order>104</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{ab2b8c23-bb95-4334-ac75-9dc077940521}" record_timestamp="1479308422385" record_key="wh_main_all_reduced_max_power">
+<key>wh_main_all_reduced_max_power</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Decrease to [[img:icon_wom_power]][[/img]]power reserves[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Decrease to [[img:icon_wom_power]][[/img]]power reserves[[/col]]</localised_text>
+<sort_order>202</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{352d6b5e-690e-4288-892e-fa331c840f8f}" record_timestamp="1479308422386" record_key="wh_main_all_reduced_recharge_rate">
+<key>wh_main_all_reduced_recharge_rate</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Reduced [[img:icon_wom_recharge]][[/img]]power recharge rate[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Reduced [[img:icon_wom_recharge]][[/img]]power recharge rate[[/col]]</localised_text>
+<sort_order>202</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{174a150f-be25-48fa-b0ba-536bfea00161}" record_timestamp="1479308422386" record_key="wh_main_all_reduced_recharge_rate_high">
+<key>wh_main_all_reduced_recharge_rate_high</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Greatly reduced [[img:icon_wom_recharge]][[/img]]power recharge rate[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Greatly reduced [[img:icon_wom_recharge]][[/img]]power recharge rate[[/col]]</localised_text>
+<sort_order>202</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{996c41ef-25bb-4dec-84b4-207b5e292736}" record_timestamp="1479308422386" record_key="wh_main_all_replenish">
+<key>wh_main_all_replenish</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Replenishes [[img:icon_hp]][[/img]]hit points of combatants[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Replenishes [[img:icon_hp]][[/img]]hit points of combatants[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{f38a406b-9550-4549-9d02-e813add2460d}" record_timestamp="1479308422387" record_key="wh_main_all_replenish_high">
+<key>wh_main_all_replenish_high</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Greatly replenishes [[img:icon_hp]][[/img]]hit points of combatants[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Greatly replenishes [[img:icon_hp]][[/img]]hit points of combatants[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{acb1c975-826d-4ab6-b8af-0e3fab556aca}" record_timestamp="1479308422387" record_key="wh_main_all_resurrect">
+<key>wh_main_all_resurrect</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Resurrects dead combatants[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Resurrects dead combatants[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{c30b5551-1358-461f-8842-000549087592}" record_timestamp="1479308422388" record_key="wh_main_all_resurrect_hp">
+<key>wh_main_all_resurrect_hp</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Heals injured before resurrecting[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Heals injured before resurrecting[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{d41d4f6d-1617-4426-acdc-c3c92179bf00}" record_timestamp="1479308422388" record_key="wh_main_all_small_aoe">
+<key>wh_main_all_small_aoe</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Small moving area of effect[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Small moving area of effect[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{d89396c1-a039-4e68-afd6-525ce5f0c2fc}" record_timestamp="1479308422389" record_key="wh_main_all_strong_against_multiple">
+<key>wh_main_all_strong_against_multiple</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Strong vs. multiple combatants[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Strong vs. multiple combatants[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{f23b44f5-61fb-496a-ad37-69dd29ab87be}" record_timestamp="1479308422389" record_key="wh_main_all_strong_against_single">
+<key>wh_main_all_strong_against_single</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Strong vs. a single combatant[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Strong vs. a single combatant[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{f2dde8de-2791-4fef-8465-7e7f3976c67b}" record_timestamp="1479308422390" record_key="wh_main_all_strong_against_unit">
+<key>wh_main_all_strong_against_unit</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Strong vs. a unit[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Strong vs. a unit[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{7874681e-d473-4718-9535-681db49ccdc8}" record_timestamp="1479308422390" record_key="wh_main_all_strong_against_units">
+<key>wh_main_all_strong_against_units</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Strong vs. multiple units[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Strong vs. multiple units[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{b73a8c31-7b13-4cd4-bcef-390f41669783}" record_timestamp="1479308422391" record_key="wh_main_all_summon_zombies">
+<key>wh_main_all_summon_zombies</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a unit of Zombies[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Spawns a unit of Zombies[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{8b07def7-2476-4d15-a0f2-3a1ec174fa59}" record_timestamp="1479308422391" record_key="wh_main_all_summoned_unit">
+<key>wh_main_all_summoned_unit</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Powerful unit that can be used throughout this battle[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Powerful unit that can be used throughout this battle[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{c929473f-dfce-4e1d-92a5-d873087e5973}" record_timestamp="1479308422392" record_key="wh_main_all_weak_against_multiple">
+<key>wh_main_all_weak_against_multiple</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Weak vs. multiple combatants[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Weak vs. multiple combatants[[/col]]</localised_text>
+<sort_order>203</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{be60f578-c9cf-4c17-830a-48db1b79264e}" record_timestamp="1479308422392" record_key="wh_main_all_weak_against_single">
+<key>wh_main_all_weak_against_single</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Weak vs. a single combatant[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Weak vs. a single combatant[[/col]]</localised_text>
+<sort_order>203</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{80efab4b-5662-4a50-8721-2253a490d237}" record_timestamp="1479308422392" record_key="wh_main_all_weak_against_unit">
+<key>wh_main_all_weak_against_unit</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Weak vs. a single unit[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Weak vs. a single unit[[/col]]</localised_text>
+<sort_order>203</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{e526e5de-0148-4344-b48c-f2c4cf3729ec}" record_timestamp="1479308422393" record_key="wh_main_all_weak_against_units">
+<key>wh_main_all_weak_against_units</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Weak vs. multiple units[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Weak vs. multiple units[[/col]]</localised_text>
+<sort_order>203</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{3ac5a32f-765f-4f8c-8a6e-ce6f8abd6ff2}" record_timestamp="1479308422393" record_key="wh_main_bombardment_large_strike_aoe">
+<key>wh_main_bombardment_large_strike_aoe</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Large strike area[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Large strike area[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{770e3fd1-1fe1-4509-9fd5-49421946d01e}" record_timestamp="1479308422394" record_key="wh_main_bombardment_small_strike_aoe">
+<key>wh_main_bombardment_small_strike_aoe</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Small strike area[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Small strike area[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{d6263a91-bcfe-46de-af5e-aabfb2d3c2a5}" record_timestamp="1479308422394" record_key="wh_main_projectile_effective_all_ranges">
+<key>wh_main_projectile_effective_all_ranges</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Effective at all ranges[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Effective at all ranges[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{54757ebc-1fdf-4eb8-a928-b217fd547e3c}" record_timestamp="1479308422395" record_key="wh_main_projectile_effective_close_range">
+<key>wh_main_projectile_effective_close_range</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Effective at close range[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Effective at close range[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{6f54791f-5897-42ff-a2b3-6ff444ec5f63}" record_timestamp="1479308422395" record_key="wh_main_projectile_effective_long_range">
+<key>wh_main_projectile_effective_long_range</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Effective at long range[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Effective at long range[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{7bd08631-573e-40b0-b937-eb6f517039a2}" record_timestamp="1479308422396" record_key="wh_main_projectile_friendly_fire">
+<key>wh_main_projectile_friendly_fire</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Can cause damage to friendly combatants[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Can cause damage to friendly combatants[[/col]]</localised_text>
+<sort_order>203</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{6e8b049e-8813-4054-9a35-b2d5b4aefbfc}" record_timestamp="1479308422396" record_key="wh_main_projectile_good_high_angle">
+<key>wh_main_projectile_good_high_angle</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Good from a high angle[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Good from a high angle[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{80a873c5-955e-4bcd-816c-b6d5bb2bcbea}" record_timestamp="1479308422397" record_key="wh_main_projectile_high_penetration">
+<key>wh_main_projectile_high_penetration</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Good penetration[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Good penetration[[/col]]</localised_text>
+<sort_order>106</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{4bf962f9-aec4-4187-acba-5a88e32fcbbf}" record_timestamp="1479308422397" record_key="wh_main_projectile_poor_low_angle">
+<key>wh_main_projectile_poor_low_angle</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Poor from a low angle[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Poor from a low angle[[/col]]</localised_text>
+<sort_order>203</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{d6332de6-1064-4549-9512-992868041919}" record_timestamp="1479308422398" record_key="wh_main_projectile_poor_penetration">
+<key>wh_main_projectile_poor_penetration</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Poor penetration[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Poor penetration[[/col]]</localised_text>
+<sort_order>203</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{f097364d-42e8-40b1-84ef-c62b610b8519}" record_timestamp="1479308422398" record_key="wh_main_projectile_powerful_explosion">
+<key>wh_main_projectile_powerful_explosion</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Powerful explosion[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Powerful explosion[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{131841ba-6ecf-4c40-b7fa-5f96018b8306}" record_timestamp="1479308422399" record_key="wh_main_spell_upgraded_added_armour">
+<key>wh_main_spell_upgraded_added_armour</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Additional effect on [[img:icon_armour]][[/img]]armour[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Additional effect on [[img:icon_armour]][[/img]]armour[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{d9603713-b982-461b-8bae-696a3a174b39}" record_timestamp="1479308422399" record_key="wh_main_spell_upgraded_added_effect_range">
+<key>wh_main_spell_upgraded_added_effect_range</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Added effect area[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Added effect area[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{893e956d-95e8-4a8e-b85e-09f5ad71f4ba}" record_timestamp="1479308422399" record_key="wh_main_spell_upgraded_ap_damage">
+<key>wh_main_spell_upgraded_ap_damage</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Increased [[img:icon_ap]][[/img]]armour-piercing damage[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Increased [[img:icon_ap]][[/img]]armour-piercing damage[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{244c052b-cea7-4291-b096-1dff3582fecf}" record_timestamp="1479312603895" record_key="wh_main_spell_upgraded_ap_damage_explosion">
+<key>wh_main_spell_upgraded_ap_damage_explosion</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater [[img:icon_ap]][[/img]]armour-piercing explosion damage[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater [[img:icon_ap]][[/img]]armour-piercing explosion damage[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{58103a38-f4e7-4cfe-b4a1-2b96ccedaff2}" record_timestamp="1479312603896" record_key="wh_main_spell_upgraded_ap_damage_explosion_ranged">
+<key>wh_main_spell_upgraded_ap_damage_explosion_ranged</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater [[img:icon_ap_ranged]][[/img]]armour-piercing explosion damage[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater [[img:icon_ap_ranged]][[/img]]armour-piercing explosion damage[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{8fb8957d-6a57-46ed-8124-120f53204836}" record_timestamp="1479308422401" record_key="wh_main_spell_upgraded_ap_damage_ranged">
+<key>wh_main_spell_upgraded_ap_damage_ranged</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Increased [[img:icon_ap_ranged]][[/img]]armour-piercing damage[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Increased [[img:icon_ap_ranged]][[/img]]armour-piercing damage[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{f38d5993-734d-4f8a-9761-a28a6b85123e}" record_timestamp="1479308422401" record_key="wh_main_spell_upgraded_area">
+<key>wh_main_spell_upgraded_area</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Increased effect area[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Increased effect area[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{ab0b7e38-2247-4242-ba95-e271f769625e}" record_timestamp="1479308422402" record_key="wh_main_spell_upgraded_armour">
+<key>wh_main_spell_upgraded_armour</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_armour]][[/img]]armour[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_armour]][[/img]]armour[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{c25620eb-8f89-4129-9c97-15df136e27d2}" record_timestamp="1479308422402" record_key="wh_main_spell_upgraded_cast_range">
+<key>wh_main_spell_upgraded_cast_range</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Extended cast range[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Extended cast range[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{c20b2da3-3690-4c9b-9b9c-10942e6149da}" record_timestamp="1479308422403" record_key="wh_main_spell_upgraded_damage">
+<key>wh_main_spell_upgraded_damage</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Increased damage[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Increased damage[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{20769d91-def7-4f0d-bd8f-0d0095de900c}" record_timestamp="1479308422403" record_key="wh_main_spell_upgraded_damage_explosion">
+<key>wh_main_spell_upgraded_damage_explosion</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Increased explosion damage[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Increased explosion damage[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{491b5aef-c164-4f1e-b5d1-c84c5acb4236}" record_timestamp="1479308422404" record_key="wh_main_spell_upgraded_duration">
+<key>wh_main_spell_upgraded_duration</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Extended effect duration[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Extended effect duration[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{5e909409-2aa4-44c0-b8e7-ba49fdd1316e}" record_timestamp="1479308422404" record_key="wh_main_spell_upgraded_fire_damage">
+<key>wh_main_spell_upgraded_fire_damage</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Increased fire damage[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Increased fire damage[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{4635dae5-9912-4293-921b-b165473300ef}" record_timestamp="1479308422404" record_key="wh_main_spell_upgraded_magic_and_fire_damage">
+<key>wh_main_spell_upgraded_magic_and_fire_damage</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Causes [[img:icon_dmg_magical]][[/img]]magical &amp; [[img:icon_dmg_flaming]][[/img]]fire damage[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Causes [[img:icon_dmg_magical]][[/img]]magical &amp; [[img:icon_dmg_flaming]][[/img]]fire damage[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{d5b8bc7d-21a8-470c-85cb-a5098db4a205}" record_timestamp="1479308422405" record_key="wh_main_spell_upgraded_melee_attack">
+<key>wh_main_spell_upgraded_melee_attack</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_melee_attack]][[/img]]melee attack[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_melee_attack]][[/img]]melee attack[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{fe6db34c-b048-41b9-9155-3ec0a3c0fee7}" record_timestamp="1479308422405" record_key="wh_main_spell_upgraded_melee_damage">
+<key>wh_main_spell_upgraded_melee_damage</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_melee_damage]][[/img]]melee damage[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Greater effect on [[img:icon_melee_damage]][[/img]]melee damage[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{c1974a87-117a-46e9-9f15-5cf65c0716c2}" record_timestamp="1479308422406" record_key="wh_main_spell_upgraded_projectiles">
+<key>wh_main_spell_upgraded_projectiles</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Increased number of missiles[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Increased number of missiles[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{7f5d78e0-f2eb-4d9c-be92-811f6667c69b}" record_timestamp="1479308422406" record_key="wh_main_spell_upgraded_strike_area">
+<key>wh_main_spell_upgraded_strike_area</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Wider strike area[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Wider strike area[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{292ac6c9-ac85-4ffc-8a83-611d851cbf48}" record_timestamp="1479308422407" record_key="wh_main_spell_upgraded_summon_skeletons">
+<key>wh_main_spell_upgraded_summon_skeletons</key>
+<localised_text state="APPROVED" last_approved_text="[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Spawns a unit of Skeleton Warriors[[/col]]" last_edit_user="bob">[[col:magic]][[img:icon_arrow_upgrade]][[/img]] Spawns a unit of Skeleton Warriors[[/col]]</localised_text>
+<sort_order>1</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{1fbc2077-489f-4007-923e-f8943326b9b9}" record_timestamp="1479308422407" record_key="wh_main_vortex_large_breath">
+<key>wh_main_vortex_large_breath</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Expanding tear-shaped attack[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Expanding tear-shaped attack[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{6ed6bb63-1f81-41cf-93ff-059d26080f56}" record_timestamp="1479308422408" record_key="wh_main_vortex_large_moving_aoe">
+<key>wh_main_vortex_large_moving_aoe</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Large, moving area of effect[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Large, moving area of effect[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{b56d7ae3-4719-49fa-b1af-768d2631d5d9}" record_timestamp="1479308422408" record_key="wh_main_vortex_large_static_aoe">
+<key>wh_main_vortex_large_static_aoe</key>
+<localised_text state="APPROVED" last_approved_text="[[col:green]][[img:icon_arrow_up]][[/img]] Large explosion area[[/col]]" last_edit_user="bob">[[col:green]][[img:icon_arrow_up]][[/img]] Large explosion area[[/col]]</localised_text>
+<sort_order>105</sort_order>
+</unit_abilities_additional_ui_effects>
+<unit_abilities_additional_ui_effects record_uuid="{3ed4faa3-fa30-4644-86ba-ac4ee5d943ae}" record_timestamp="1479308422409" record_key="wh_main_vortex_unpredictable">
+<key>wh_main_vortex_unpredictable</key>
+<localised_text state="APPROVED" last_approved_text="[[col:red]][[img:icon_arrow_down]][[/img]] Unpredictable release from unit[[/col]]" last_edit_user="bob">[[col:red]][[img:icon_arrow_down]][[/img]] Unpredictable release from unit[[/col]]</localised_text>
+<sort_order>203</sort_order>
+</unit_abilities_additional_ui_effects>
+</dataroot>

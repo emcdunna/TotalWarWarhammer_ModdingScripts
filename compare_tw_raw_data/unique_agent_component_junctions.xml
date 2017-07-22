@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unique_agent_component_junctions.xsd" export_time="Mon Feb 13 18:45:31 2017" revision="4" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>daafa0f6-0d06-4f9f-9445-fb24204d36b0</edit_uuid>
+<unique_agent_component_junctions record_uuid="{47f82c66-08e4-471d-9b05-be5efd475090}" record_timestamp="1484840648331" record_key="dlc07_brt_green_knightFOOD_CHARGES">
+<component>FOOD_CHARGES</component>
+<unique_agent>dlc07_brt_green_knight</unique_agent>
+<value>0</value>
+</unique_agent_component_junctions>
+<unique_agent_component_junctions record_uuid="{3e00b73b-cab8-417e-b1f7-b7bd6b5ef3d3}" record_timestamp="1484840648331" record_key="dlc07_brt_green_knightINDIVIDUALLY_UNIQUE">
+<component>INDIVIDUALLY_UNIQUE</component>
+<unique_agent>dlc07_brt_green_knight</unique_agent>
+<value>0</value>
+</unique_agent_component_junctions>
+<unique_agent_component_junctions record_uuid="{d4b6a5ae-02a2-4d19-a650-9b4fbaa09933}" record_timestamp="1487011528629" record_key="dlc07_brt_green_knightLIMITED_LIFE_SPAN">
+<component>LIMITED_LIFE_SPAN</component>
+<unique_agent>dlc07_brt_green_knight</unique_agent>
+<value>15</value>
+</unique_agent_component_junctions>
+<unique_agent_component_junctions record_uuid="{fdfaa97a-793b-4446-9002-e696e1ce5328}" record_timestamp="1485943925275" record_key="dlc07_brt_green_knightSPAWN_COOLDOWN">
+<component>SPAWN_COOLDOWN</component>
+<unique_agent>dlc07_brt_green_knight</unique_agent>
+<value>5</value>
+</unique_agent_component_junctions>
+</dataroot>

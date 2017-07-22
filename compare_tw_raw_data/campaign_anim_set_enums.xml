@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_anim_set_enums.xsd" export_time="Fri Feb 3 14:46:05 2017" revision="44" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>54092345-e284-4c18-ad77-61fb78766bab</edit_uuid>
+<campaign_anim_set_enums record_uuid="{2d8f5317-dcb0-4ef4-9282-cda04944e2dc}" record_timestamp="1449074253253" record_key="cam_agent_ship_01">
+<name>cam_agent_ship_01</name>
+<skeleton>animations/skeletons/agentship01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{cc6549b7-7571-4a3a-b0dc-522b5c3168c5}" record_timestamp="1449074258895" record_key="cam_agent_ship_02">
+<name>cam_agent_ship_02</name>
+<skeleton>animations/skeletons/agentship02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{7c783131-a4a3-449d-9489-620024ed52e1}" record_timestamp="1434382491038" record_key="cam_bc2_griffon">
+<name>cam_bc2_griffon</name>
+<skeleton>animations/skeletons/bigcat02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{cb77e0e6-5952-47d6-a282-fdbcbb907a31}" record_timestamp="1434382491087" record_key="cam_bc2b_hippogryph">
+<name>cam_bc2b_hippogryph</name>
+<skeleton>animations/skeletons/bigcat02b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{541d28ea-01eb-494f-908c-df5fea054a83}" record_timestamp="1434382491171" record_key="cam_bc3_manticore">
+<name>cam_bc3_manticore</name>
+<skeleton>animations/skeletons/bigcat03.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{6758d16e-04f0-42df-aa7f-2f235981b0f8}" record_timestamp="1449155688809" record_key="cam_bch1_grn_warboss_boar_chariot">
+<name>cam_bch1_grn_warboss_boar_chariot</name>
+<skeleton>animations/skeletons/campaignboarchariot01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{660cc52b-b0cb-467b-bfd2-40f209be3fdd}" record_timestamp="1465917044656" record_key="cam_beastmen_ship01">
+<name>cam_beastmen_ship01</name>
+<skeleton>animations\skeletons\beastmenship01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{278a78e2-feac-44c4-92e3-7b48668ca6bf}" record_timestamp="1481037348448" record_key="cam_bi1_eagle">
+<name>cam_bi1_eagle</name>
+<skeleton>animations/skeletons/bird01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{38960f39-26f0-4d41-a3a5-0706014b277f}" record_timestamp="1434382491188" record_key="cam_bi2_wyvern">
+<name>cam_bi2_wyvern</name>
+<skeleton>animations/skeletons/bird02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{3688da70-8726-401f-a382-d8c5e35cccd2}" record_timestamp="1434382491021" record_key="cam_bo1_warboar">
+<name>cam_bo1_warboar</name>
+<skeleton>animations/skeletons/boar01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{b0a270ba-f197-4345-b22d-219ef72cce5f}" record_timestamp="1436193051859" record_key="cam_ce02_dragon_orgre_2handed_axe">
+<name>cam_ce02_dragon_orgre_2handed_axe</name>
+<skeleton>animations/skeletons/centaur02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{63a25a7a-0daf-4bf7-ae41-7015ff7a911d}" record_timestamp="1459940557753" record_key="cam_dr1_dragon">
+<name>cam_dr1_dragon</name>
+<skeleton>animations/skeletons/dragon01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{0ace8403-49aa-4245-ace7-3bdd7f19fc7c}" record_timestamp="1447697979212" record_key="cam_dr1b_chaos_dragon">
+<name>cam_dr1b_chaos_dragon</name>
+<skeleton>animations/skeletons/dragon01b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{f8dfc561-2c4b-4323-bb92-6ef065f37334}" record_timestamp="1426167846096" record_key="cam_gh1_ghost">
+<name>cam_gh1_ghost</name>
+<skeleton>animations/skeletons/ghost01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{93c7c1ed-95b6-4924-9072-b9f31ebc9a34}" record_timestamp="1449074258806" record_key="cam_heavy_ship_01">
+<name>cam_heavy_ship_01</name>
+<skeleton>animations/skeletons/heavyship01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{e4d6dec7-8778-46f4-8905-a1d3dd155783}" record_timestamp="1449074259252" record_key="cam_heavy_ship_02">
+<name>cam_heavy_ship_02</name>
+<skeleton>animations/skeletons/heavyship02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{3cee096a-3d98-4352-95a5-4fa9361839f5}" record_timestamp="1449074259295" record_key="cam_heavy_ship_03">
+<name>cam_heavy_ship_03</name>
+<skeleton>animations/skeletons/heavyship03.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{7734380d-279d-415c-8bc5-f4456b00b0ec}" record_timestamp="1449074258850" record_key="cam_heavy_ship_04">
+<name>cam_heavy_ship_04</name>
+<skeleton>animations/skeletons/heavyship04.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{d3849214-5ff4-43aa-b4f6-c2d206c2dcbe}" record_timestamp="1434382491055" record_key="cam_hr1_pegasus">
+<name>cam_hr1_pegasus</name>
+<skeleton>animations/skeletons/horse01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{fa8b28c5-dbb5-4f02-bb79-ad754c4af4f9}" record_timestamp="1434382491104" record_key="cam_hr1_warhorse">
+<name>cam_hr1_warhorse</name>
+<skeleton>animations/skeletons/horse01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{216d6558-32d3-4d39-b0df-e57f22e5b9d1}" record_timestamp="1449765978858" record_key="cam_hu12_minotaur_2handed_axe">
+<name>cam_hu12_minotaur_2handed_axe</name>
+<skeleton>animations/skeletons/humanoid12.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{7bc1ac8d-2368-4f2b-b733-415767c1d971}" record_timestamp="1471865790493" record_key="cam_hu1_arch_lector_dual_hammer">
+<name>cam_hu1_arch_lector_dual_hammer</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{2c115a36-0ef3-4f19-abbe-418d505f81c7}" record_timestamp="1435150669775" record_key="cam_hu1_bretonnian_bc2b_hippogryph_wb_lance_sword_shield">
+<name>cam_hu1_bretonnian_bc2b_hippogryph_wb_lance_sword_shield</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{f58412ec-a00c-40e7-9ba6-06f68fd39e87}" record_timestamp="1435150669775" record_key="cam_hu1_bretonnian_bc2b_hippogryph_wb_sword_shield">
+<name>cam_hu1_bretonnian_bc2b_hippogryph_wb_sword_shield</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{4b4234ad-a439-4f4b-8887-fd0745c9f3ee}" record_timestamp="1435150669775" record_key="cam_hu1_bretonnian_hr1_pegasus_lancer">
+<name>cam_hu1_bretonnian_hr1_pegasus_lancer</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{1f936cdc-fc04-4e02-9631-a22dd513e63d}" record_timestamp="1435150669775" record_key="cam_hu1_empire_bc2_griffon_wb_lance_sword_shield">
+<name>cam_hu1_empire_bc2_griffon_wb_lance_sword_shield</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{ae4a91bd-59ba-40f1-956d-928ca3e8eb45}" record_timestamp="1435150669775" record_key="cam_hu1_empire_bc2_wb_griffon_hammer">
+<name>cam_hu1_empire_bc2_wb_griffon_hammer</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{5c56ee26-19e7-45e3-a06c-f4ef58437280}" record_timestamp="1459940557758" record_key="cam_hu1_empire_dr1_dragon_wb_sword_and_shield">
+<name>cam_hu1_empire_dr1_dragon_wb_sword_and_shield</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{47572fca-ce41-4f6b-b529-9077470f0ca2}" record_timestamp="1426167846004" record_key="cam_hu1_empire_hammer">
+<name>cam_hu1_empire_hammer</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{712f91ff-5890-4793-ad89-08de745a0645}" record_timestamp="1426167846004" record_key="cam_hu1_empire_hammer_and_book">
+<name>cam_hu1_empire_hammer_and_book</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{2a8d87e0-c67e-4223-a1de-5f2acab1218f}" record_timestamp="1449842962902" record_key="cam_hu1_empire_hr1_pegasus_sword_and_shield">
+<name>cam_hu1_empire_hr1_pegasus_sword_and_shield</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{06585a07-9524-4817-9796-892b837a1d3e}" record_timestamp="1435150669774" record_key="cam_hu1_empire_hr1_warhorse_hammer">
+<name>cam_hu1_empire_hr1_warhorse_hammer</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{b9695df3-3069-43f1-b354-1644bb1763c8}" record_timestamp="1435150669775" record_key="cam_hu1_empire_hr1_warhorse_hammer_and_book">
+<name>cam_hu1_empire_hr1_warhorse_hammer_and_book</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{2a9dcea1-66e6-4b02-b0b0-349b4bd9ef06}" record_timestamp="1435150669775" record_key="cam_hu1_empire_hr1_warhorse_lance_sword_shield">
+<name>cam_hu1_empire_hr1_warhorse_lance_sword_shield</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{58faea01-621c-4486-a12c-01f9e022131e}" record_timestamp="1435150669775" record_key="cam_hu1_empire_hr1_warhorse_staff_and_sword">
+<name>cam_hu1_empire_hr1_warhorse_staff_and_sword</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{3ba4adc6-a0a1-4568-b1ce-ad0fd081cbcd}" record_timestamp="1435150669775" record_key="cam_hu1_empire_hr1_warhorse_sword">
+<name>cam_hu1_empire_hr1_warhorse_sword</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{44f14653-4334-4d29-a5d3-0e465407f57a}" record_timestamp="1426167846004" record_key="cam_hu1_empire_staff_and_sword">
+<name>cam_hu1_empire_staff_and_sword</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{bd02106b-f031-40b9-bb86-591b3a316dee}" record_timestamp="1426167846096" record_key="cam_hu1_empire_sword">
+<name>cam_hu1_empire_sword</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{f055ab2f-cd09-408c-894f-31639ba3cb07}" record_timestamp="1426167846004" record_key="cam_hu1_empire_sword_and_pistol">
+<name>cam_hu1_empire_sword_and_pistol</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{39a04083-2e87-4349-b87e-c6791576eb0d}" record_timestamp="1426167846004" record_key="cam_hu1_empire_sword_and_shield">
+<name>cam_hu1_empire_sword_and_shield</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{fb1bef1d-1a0c-41e4-8e48-23ced88c05f7}" record_timestamp="1471865780128" record_key="cam_hu1_empire_war_altar_staff_and_sword">
+<name>cam_hu1_empire_war_altar_staff_and_sword</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{36c2c5c4-aa80-469f-b217-9e316e15de14}" record_timestamp="1471865779625" record_key="cam_hu1_empire_wm_corpsecart01_staff_and_sword">
+<name>cam_hu1_empire_wm_corpsecart01_staff_and_sword</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{df21825c-14d4-4e9f-9a0b-e780ca505a5b}" record_timestamp="1485958362838" record_key="cam_hu1_leoncoeur_bc2b_hippogryph_wb_sword_shield">
+<name>cam_hu1_leoncoeur_bc2b_hippogryph_wb_sword_shield</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{1f1347e9-2920-4564-a773-5d24dc47bf58}" record_timestamp="1485958362838" record_key="cam_hu1_leoncoeur_hr1_pegasus_sword_and_shield">
+<name>cam_hu1_leoncoeur_hr1_pegasus_sword_and_shield</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{9f69d069-49cb-48f4-abff-3ed229dde591}" record_timestamp="1485958362838" record_key="cam_hu1_leoncoeur_hr1_warhorse_lance_sword_shield">
+<name>cam_hu1_leoncoeur_hr1_warhorse_lance_sword_shield</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{705eefee-a4e5-4f16-8d4b-be6a7f114036}" record_timestamp="1485958362838" record_key="cam_hu1_leoncoeur_sword_and_shield">
+<name>cam_hu1_leoncoeur_sword_and_shield</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{f6ff48ec-ed15-4692-9a45-6c16cc7c26da}" record_timestamp="1474282559801" record_key="cam_hu1_vlad_sword">
+<name>cam_hu1_vlad_sword</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{18c39f33-0f5a-4594-8e94-776a44696957}" record_timestamp="1471865790494" record_key="cam_hu1_volkmar_staff_and_hammer">
+<name>cam_hu1_volkmar_staff_and_hammer</name>
+<skeleton>animations/skeletons/humanoid01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{373e0b3c-09ee-4b8b-87c4-e260621307c6}" record_timestamp="1435150669775" record_key="cam_hu1b_bretonnian_hr1_warhorse_staff_and_sword">
+<name>cam_hu1b_bretonnian_hr1_warhorse_staff_and_sword</name>
+<skeleton>animations/skeletons/humanoid01b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{6ecfab97-5388-404e-8fc3-ff1c8beb69f0}" record_timestamp="1427361026424" record_key="cam_hu1b_bretonnian_staff_and_sword">
+<name>cam_hu1b_bretonnian_staff_and_sword</name>
+<skeleton>animations/skeletons/humanoid01b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{060661cd-9235-4260-a570-065b5360cc45}" record_timestamp="1486133164663" record_key="cam_hu1b_bretonnian_sword_and_chalice">
+<name>cam_hu1b_bretonnian_sword_and_chalice</name>
+<skeleton>animations/skeletons/humanoid01b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{f118614c-e7d1-4271-b775-13a74618dcf0}" record_timestamp="1479326265004" record_key="cam_hu1b_elf_spellsinger">
+<name>cam_hu1b_elf_spellsinger</name>
+<skeleton>animations/skeletons/humanoid01b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{af461e08-e10a-440e-b23e-d136f5f60250}" record_timestamp="1479326264777" record_key="cam_hu1b_elf_spellsinger_bi1_eagle">
+<name>cam_hu1b_elf_spellsinger_bi1_eagle</name>
+<skeleton>animations/skeletons/humanoid01b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{58347380-a08f-4d21-9625-8245bce13b38}" record_timestamp="1479326264774" record_key="cam_hu1b_elf_spellsinger_hr1_warhorse">
+<name>cam_hu1b_elf_spellsinger_hr1_warhorse</name>
+<skeleton>animations/skeletons/humanoid01b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{bd72710c-0c8d-400c-8a72-0dc0346d3c2f}" record_timestamp="1479313176949" record_key="cam_hu1b_elf_sword_and_bow">
+<name>cam_hu1b_elf_sword_and_bow</name>
+<skeleton>animations/skeletons/humanoid01b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{8751773f-3491-4e07-99fb-b62793bb045b}" record_timestamp="1479326264723" record_key="cam_hu1b_elf_sword_and_bow_bi1_eagle_sword_and_bow">
+<name>cam_hu1b_elf_sword_and_bow_bi1_eagle_sword_and_bow</name>
+<skeleton>animations/skeletons/humanoid01b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{3b034a92-30c7-4bf1-bc6d-72d3c4406002}" record_timestamp="1479326264768" record_key="cam_hu1b_elf_sword_and_bow_dr1_dragon_sword_and_bow">
+<name>cam_hu1b_elf_sword_and_bow_dr1_dragon_sword_and_bow</name>
+<skeleton>animations/skeletons/humanoid01b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{6d070545-2bc7-406e-afae-8fbabee7c74d}" record_timestamp="1479326264706" record_key="cam_hu1b_elf_sword_and_bow_hr1_warhorse_sword_and_bow">
+<name>cam_hu1b_elf_sword_and_bow_hr1_warhorse_sword_and_bow</name>
+<skeleton>animations/skeletons/humanoid01b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{8fe2342d-5622-48a6-a570-a54720d1f43f}" record_timestamp="1435150669775" record_key="cam_hu1b_vampire_hr1_pegasus_sword">
+<name>cam_hu1b_vampire_hr1_pegasus_sword</name>
+<skeleton>animations/skeletons/humanoid01b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{bddccaa6-979c-4dfd-b4dc-035700295571}" record_timestamp="1435150669775" record_key="cam_hu1b_vampire_hr1_warhorse_sword">
+<name>cam_hu1b_vampire_hr1_warhorse_sword</name>
+<skeleton>animations/skeletons/humanoid01b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{fd4de2a5-cf2e-4cde-8b49-b3a444ff4a1d}" record_timestamp="1426167846096" record_key="cam_hu1b_vampire_sword">
+<name>cam_hu1b_vampire_sword</name>
+<skeleton>animations/skeletons/humanoid01b.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{ba827cab-6013-4897-a080-9416727c6b3a}" record_timestamp="1426167846096" record_key="cam_hu1c_chaos_axe_and_shield">
+<name>cam_hu1c_chaos_axe_and_shield</name>
+<skeleton>animations/skeletons/humanoid01c.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{f64b0223-d003-4502-8ad3-6d4a73df1f0e}" record_timestamp="1435150669775" record_key="cam_hu1c_chaos_bc3_manticore_wb_axe_and_shield">
+<name>cam_hu1c_chaos_bc3_manticore_wb_axe_and_shield</name>
+<skeleton>animations/skeletons/humanoid01c.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{375e3438-f6a3-446b-bb17-06f768aa47af}" record_timestamp="1435150669775" record_key="cam_hu1c_chaos_bc3_manticore_wb_staff_and_sword">
+<name>cam_hu1c_chaos_bc3_manticore_wb_staff_and_sword</name>
+<skeleton>animations/skeletons/humanoid01c.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{efdc5df4-9848-456a-bf3b-db3756a6ba66}" record_timestamp="1435150669775" record_key="cam_hu1c_chaos_bc3_manticore_wb_sword_and_shield">
+<name>cam_hu1c_chaos_bc3_manticore_wb_sword_and_shield</name>
+<skeleton>animations/skeletons/humanoid01c.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{c92c02a7-3477-4430-8983-56b5c6c31214}" record_timestamp="1435150669775" record_key="cam_hu1c_chaos_dr1_chaos_dragon_wb_sword_and_shield">
+<name>cam_hu1c_chaos_dr1_chaos_dragon_wb_sword_and_shield</name>
+<skeleton>animations/skeletons/humanoid01c.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{15bcfb5c-8f94-4449-93fa-9a8aaba9979c}" record_timestamp="1435150669775" record_key="cam_hu1c_chaos_hr1_warhorse_axe_and_shield">
+<name>cam_hu1c_chaos_hr1_warhorse_axe_and_shield</name>
+<skeleton>animations/skeletons/humanoid01c.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{9ca37564-1072-4a17-b89f-eb3a2daa7edb}" record_timestamp="1435150669775" record_key="cam_hu1c_chaos_hr1_warhorse_staff_and_sword">
+<name>cam_hu1c_chaos_hr1_warhorse_staff_and_sword</name>
+<skeleton>animations/skeletons/humanoid01c.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{df9fbb8e-cec5-4fd2-a72e-3ac020d6a50e}" record_timestamp="1435150669775" record_key="cam_hu1c_chaos_hr1_warhorse_sword_and_shield">
+<name>cam_hu1c_chaos_hr1_warhorse_sword_and_shield</name>
+<skeleton>animations/skeletons/humanoid01c.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{4396d281-8bff-46d2-9bba-10ea100af53e}" record_timestamp="1427361065636" record_key="cam_hu1c_chaos_staff_and_sword">
+<name>cam_hu1c_chaos_staff_and_sword</name>
+<skeleton>animations/skeletons/humanoid01c.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{ba270cbb-b43e-49eb-8d9c-f6ec6c992e24}" record_timestamp="1426167846096" record_key="cam_hu1c_chaos_sword_and_shield">
+<name>cam_hu1c_chaos_sword_and_shield</name>
+<skeleton>animations/skeletons/humanoid01c.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{70c263d9-1c04-4d0e-8dfc-11f3d5a2091f}" record_timestamp="1450277923240" record_key="cam_hu1d_elf_sword_and_bow">
+<name>cam_hu1d_elf_sword_and_bow</name>
+<skeleton>animations/skeletons/humanoid01d.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{5d875bea-b84b-4ea7-a323-fd6fff7ac213}" record_timestamp="1479326264766" record_key="cam_hu1d_elf_sword_and_bow_bi1_eagle_sword_and_bow">
+<name>cam_hu1d_elf_sword_and_bow_bi1_eagle_sword_and_bow</name>
+<skeleton>animations/skeletons/humanoid01d.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{670952e1-fe19-4a97-a941-fa7ac2ed5ed2}" record_timestamp="1479326264771" record_key="cam_hu1d_elf_sword_and_bow_dr1_dragon_sword_and_bow">
+<name>cam_hu1d_elf_sword_and_bow_dr1_dragon_sword_and_bow</name>
+<skeleton>animations/skeletons/humanoid01d.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{eb0cf577-c7f9-48c4-8933-49c362d4fc79}" record_timestamp="1479326264704" record_key="cam_hu1d_elf_sword_and_bow_hr1_warhorse_sword_and_bow">
+<name>cam_hu1d_elf_sword_and_bow_hr1_warhorse_sword_and_bow</name>
+<skeleton>animations/skeletons/humanoid01d.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{6ee0eb37-da05-477c-b20c-953233b227b7}" record_timestamp="1479330177211" record_key="cam_hu20_dryads">
+<name>cam_hu20_dryads</name>
+<skeleton>animations/skeletons/humanoid20.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{2da1405b-89f6-45dd-84dc-0b8ea99cfa14}" record_timestamp="1479307727380" record_key="cam_hu21_treeman">
+<name>cam_hu21_treeman</name>
+<skeleton>animations\skeletons\humanoid21.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{36fcb1b7-0a04-49d2-bd60-030bd344b984}" record_timestamp="1477035412338" record_key="cam_hu21_treeman_sword">
+<name>cam_hu21_treeman_sword</name>
+<skeleton>animations\skeletons\humanoid21.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{605a0b55-51d5-4b2f-891b-e8eec6179f7a}" record_timestamp="1426167846065" record_key="cam_hu2_orc_2handed_axe">
+<name>cam_hu2_orc_2handed_axe</name>
+<skeleton>animations/skeletons/humanoid02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{756aceab-8477-4c11-831b-1b1daecb9de4}" record_timestamp="1435150669775" record_key="cam_hu2_orc_bi2_wyvern_wb_sword_and_axe">
+<name>cam_hu2_orc_bi2_wyvern_wb_sword_and_axe</name>
+<skeleton>animations/skeletons/humanoid02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{c553a5eb-a42b-4e05-8984-bb716ffab6f3}" record_timestamp="1435071851870" record_key="cam_hu2_orc_bi2_wyvern_wb_sword_and_shield">
+<name>cam_hu2_orc_bi2_wyvern_wb_sword_and_shield</name>
+<skeleton>animations/skeletons/humanoid02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{4c801b9c-5b4b-4692-a4fc-224113365ef2}" record_timestamp="1435150669775" record_key="cam_hu2_orc_bo1_warboar_staff_and_sword">
+<name>cam_hu2_orc_bo1_warboar_staff_and_sword</name>
+<skeleton>animations/skeletons/humanoid02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{17538846-acaf-4b38-a632-c20e09d4bd1a}" record_timestamp="1435150669775" record_key="cam_hu2_orc_bo1_warboar_sword_and_shield">
+<name>cam_hu2_orc_bo1_warboar_sword_and_shield</name>
+<skeleton>animations/skeletons/humanoid02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{aae51b74-3e0e-48cf-84ab-9748473d5cfe}" record_timestamp="1427361110318" record_key="cam_hu2_orc_staff_and_sword">
+<name>cam_hu2_orc_staff_and_sword</name>
+<skeleton>animations/skeletons/humanoid02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{ba426abf-2124-456e-b2d0-370bb6c02281}" record_timestamp="1428477110730" record_key="cam_hu2_orc_sword_and_axe">
+<name>cam_hu2_orc_sword_and_axe</name>
+<skeleton>animations/skeletons/humanoid02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{0a2f3448-49e5-4284-8619-5b9218c69643}" record_timestamp="1426167846096" record_key="cam_hu2_orc_sword_and_shield">
+<name>cam_hu2_orc_sword_and_shield</name>
+<skeleton>animations/skeletons/humanoid02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{c3850f76-3325-40c2-9220-aa4f0cfe8cfa}" record_timestamp="1428477110730" record_key="cam_hu3_dwarf_2handed_axe_ungrim">
+<name>cam_hu3_dwarf_2handed_axe_ungrim</name>
+<skeleton>animations/skeletons/humanoid03.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{25d96835-9f79-4ddf-a8c0-6bf1c4471587}" record_timestamp="1427189988949" record_key="cam_hu3_dwarf_2handed_hammer_and_rifle">
+<name>cam_hu3_dwarf_2handed_hammer_and_rifle</name>
+<skeleton>animations/skeletons/humanoid03.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{760ca2c7-e865-47aa-94d9-a480d8390ecc}" record_timestamp="1426167846096" record_key="cam_hu3_dwarf_axe_and_shield">
+<name>cam_hu3_dwarf_axe_and_shield</name>
+<skeleton>animations/skeletons/humanoid03.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{fdf3b834-5f07-4c9c-b267-5c3b4e99420b}" record_timestamp="1426167846096" record_key="cam_hu3_dwarf_axe_shield_and_crossbow">
+<name>cam_hu3_dwarf_axe_shield_and_crossbow</name>
+<skeleton>animations/skeletons/humanoid03.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{1d7c68a7-2700-4213-b738-ae0a8c1eac4f}" record_timestamp="1427189989074" record_key="cam_hu3_dwarf_hammer">
+<name>cam_hu3_dwarf_hammer</name>
+<skeleton>animations/skeletons/humanoid03.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{630fc1e6-a83b-4ae2-b8a8-f166a57c67ee}" record_timestamp="1444658126813" record_key="cam_hu3_dwarf_wm_throne_of_power01_axe">
+<name>cam_hu3_dwarf_wm_throne_of_power01_axe</name>
+<skeleton>animations/skeletons/humanoid03.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{f1129eab-0a00-405d-9d37-d473352aa9e9}" record_timestamp="1474305233461" record_key="cam_hu5_goblin_rp2_squig_spear_and_shield">
+<name>cam_hu5_goblin_rp2_squig_spear_and_shield</name>
+<skeleton>animations/skeletons/humanoid05.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{d3d994ce-ba7b-4978-ac5e-ea2c8766eaeb}" record_timestamp="1435150669776" record_key="cam_hu5_goblin_sp1_giant_spider_spear_and_shield">
+<name>cam_hu5_goblin_sp1_giant_spider_spear_and_shield</name>
+<skeleton>animations/skeletons/humanoid05.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{c68c89fc-5137-4c3c-8993-5dd922d56e54}" record_timestamp="1459936815580" record_key="cam_hu5_goblin_spear_and_shield">
+<name>cam_hu5_goblin_spear_and_shield</name>
+<skeleton>animations/skeletons/humanoid05.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{0c64ee14-e32b-4a2d-8a5c-9f6ca6cab995}" record_timestamp="1435150670020" record_key="cam_hu5_goblin_staff_and_sword">
+<name>cam_hu5_goblin_staff_and_sword</name>
+<skeleton>animations/skeletons/humanoid05.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{c0563220-e92e-41f7-8783-f9153fd13d23}" record_timestamp="1426167846096" record_key="cam_hu5_goblin_sword_and_shield">
+<name>cam_hu5_goblin_sword_and_shield</name>
+<skeleton>animations/skeletons/humanoid05.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{982a94e7-9473-4bf6-a9d5-6fc7e1ffe1f7}" record_timestamp="1435150669776" record_key="cam_hu5_goblin_wf1_wolf_spear_and_shield">
+<name>cam_hu5_goblin_wf1_wolf_spear_and_shield</name>
+<skeleton>animations/skeletons/humanoid05.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{fbb0f1ae-d101-46cb-80ac-34b9d8bd9539}" record_timestamp="1435150669775" record_key="cam_hu5_goblin_wf1_wolf_staff_and_sword">
+<name>cam_hu5_goblin_wf1_wolf_staff_and_sword</name>
+<skeleton>animations/skeletons/humanoid05.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{b80cd270-5f7e-4366-b643-6f77513fd4c4}" record_timestamp="1449765979220" record_key="cam_hu6_gor_axe">
+<name>cam_hu6_gor_axe</name>
+<skeleton>animations/skeletons/humanoid06.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{d6edac4a-754f-4a89-a0b7-7de3615d8d90}" record_timestamp="1449765979232" record_key="cam_hu6_gor_staff_and_sword">
+<name>cam_hu6_gor_staff_and_sword</name>
+<skeleton>animations/skeletons/humanoid06.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{bf40c735-f00b-4b72-921c-cbcca178d425}" record_timestamp="1467715682818" record_key="cam_hu6_gor_staff_and_sword_wm_razorgor_chariot">
+<name>cam_hu6_gor_staff_and_sword_wm_razorgor_chariot</name>
+<skeleton>animations/skeletons/humanoid06.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{fdbef02c-fbca-4b07-b1f6-a2f7e4b7cfcd}" record_timestamp="1449765979259" record_key="cam_hu6_gor_sword_and_whip">
+<name>cam_hu6_gor_sword_and_whip</name>
+<skeleton>animations/skeletons/humanoid06.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{9956c2ba-658b-4e9e-a72f-00ede16882fa}" record_timestamp="1479313857974" record_key="cam_hu6_gor_sword_and_whip_morghur">
+<name>cam_hu6_gor_sword_and_whip_morghur</name>
+<skeleton>animations/skeletons/humanoid06.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{9b0e45e6-0e8c-49f1-a6cf-16731ed110d6}" record_timestamp="1450778101113" record_key="cam_hu6c_orion_2handed_spear">
+<name>cam_hu6c_orion_2handed_spear</name>
+<skeleton>animations/skeletons/humanoid06c.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{ba7f7d60-2fff-4791-824e-543466a7a2a1}" record_timestamp="1467101128770" record_key="cam_hu8_strigoi">
+<name>cam_hu8_strigoi</name>
+<skeleton>animations/skeletons/humanoid08.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{a21432ee-799e-4b5e-b974-2055dfb46921}" record_timestamp="1471865779624" record_key="cam_hu8_strigoi_bi2_terrorgheist_wb">
+<name>cam_hu8_strigoi_bi2_terrorgheist_wb</name>
+<skeleton>animations/skeletons/humanoid08.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{45f087a1-2905-4736-9563-84d9dd1a126c}" record_timestamp="1428392298741" record_key="cam_huc10c_lord_of_change_staff">
+<name>cam_huc10c_lord_of_change_staff</name>
+<skeleton>animations/skeletons/humanoid10c.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{c61277c1-fc15-46aa-b089-8b105298dc2d}" record_timestamp="1449074255431" record_key="cam_light_ship_01">
+<name>cam_light_ship_01</name>
+<skeleton>animations/skeletons/lightship01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{a775e8b1-4345-4762-ae2a-9bef0e98c1e9}" record_timestamp="1449074258985" record_key="cam_light_ship_02">
+<name>cam_light_ship_02</name>
+<skeleton>animations/skeletons/lightship02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{54d3d810-eb74-45e3-be82-c9851270d7ed}" record_timestamp="1449074259029" record_key="cam_light_ship_03">
+<name>cam_light_ship_03</name>
+<skeleton>animations/skeletons/lightship03.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{f4fa143d-085c-4415-81c3-f0364342fef5}" record_timestamp="1449074259073" record_key="cam_light_ship_04">
+<name>cam_light_ship_04</name>
+<skeleton>animations/skeletons/lightship04.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{00d052a0-a156-4c6b-bf64-55364abcbdd5}" record_timestamp="1449074255523" record_key="cam_medium_ship_01">
+<name>cam_medium_ship_01</name>
+<skeleton>animations/skeletons/mediumship01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{105b4934-6a37-4de3-8760-cbb465b56a39}" record_timestamp="1449074259118" record_key="cam_medium_ship_02">
+<name>cam_medium_ship_02</name>
+<skeleton>animations/skeletons/mediumship02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{a93ca622-a34a-4866-90da-0159dccfd36d}" record_timestamp="1449074259162" record_key="cam_medium_ship_03">
+<name>cam_medium_ship_03</name>
+<skeleton>animations/skeletons/mediumship03.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{312a59f4-f66b-4702-80ba-e089b16dcff2}" record_timestamp="1449074259208" record_key="cam_medium_ship_04">
+<name>cam_medium_ship_04</name>
+<skeleton>animations/skeletons/mediumship04.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{a3ab8019-009a-45f9-ac0e-d08e39f9ea39}" record_timestamp="1474287836526" record_key="cam_rp2_great_cave_squig">
+<name>cam_rp2_great_cave_squig</name>
+<skeleton>animations/skeletons/raptor02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{6704f8a8-e399-41c1-acd7-745c11804b84}" record_timestamp="1474281920598" record_key="cam_sk1_skarsnik_and_gobbla">
+<name>cam_sk1_skarsnik_and_gobbla</name>
+<skeleton>animations/skeletons/skarsnik01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{98248486-2256-40d5-826a-7da15ebddfd1}" record_timestamp="1434382491120" record_key="cam_sp1_giant_spider">
+<name>cam_sp1_giant_spider</name>
+<skeleton>animations/skeletons/spider01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{b15ed320-5e8d-430e-b0c0-f0dc2b358962}" record_timestamp="1435649107311" record_key="cam_th1_throne_of_power">
+<name>cam_th1_throne_of_power</name>
+<skeleton>animations/skeletons/throne01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{54cd2045-ac7f-445d-aaff-bbfe3c081c58}" record_timestamp="1449074255339" record_key="cam_transport_ship_01">
+<name>cam_transport_ship_01</name>
+<skeleton>animations/skeletons/transportship01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{a87e585b-dabe-4653-8ba9-84058d2571fd}" record_timestamp="1449074258940" record_key="cam_transport_ship_02">
+<name>cam_transport_ship_02</name>
+<skeleton>animations/skeletons/transportship02.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{118ad0ab-d3e3-46ad-a28c-0f78ce46ddd8}" record_timestamp="1481044727083" record_key="cam_transport_ship_03">
+<name>cam_transport_ship_03</name>
+<skeleton>animations\skeletons\transportship03.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{f9d06086-c792-445c-bfd1-2b2425b57e58}" record_timestamp="1434382491137" record_key="cam_wf1_giant_wolf">
+<name>cam_wf1_giant_wolf</name>
+<skeleton>animations/skeletons/wolf01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{57aafd1c-57fd-4223-8c20-12a369810616}" record_timestamp="1471865764357" record_key="cam_wm_corpse_cart">
+<name>cam_wm_corpse_cart</name>
+<skeleton>animations\skeletons\campaigncorpsecart01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{e659edf7-56a2-4a7c-8c62-c203be20ffbf}" record_timestamp="1471865790493" record_key="cam_wm_corpsecart01_balefire">
+<name>cam_wm_corpsecart01_balefire</name>
+<skeleton>animations\skeletons\campaigncorpsecart01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{6af33baa-37c8-4fd2-93f5-6fc4eeef54fe}" record_timestamp="1471865790492" record_key="cam_wm_corpsecart01_helman">
+<name>cam_wm_corpsecart01_helman</name>
+<skeleton>animations\skeletons\campaigncorpsecart01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{dc48fb2d-9514-4bd0-8a7b-3d9ba2449f57}" record_timestamp="1471865790493" record_key="cam_wm_corpsecart01_lodestone">
+<name>cam_wm_corpsecart01_lodestone</name>
+<skeleton>animations\skeletons\campaigncorpsecart01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{8fbc69ba-f253-4f9c-af8d-351665d3be27}" record_timestamp="1467715682818" record_key="cam_wm_razorgor_chariot">
+<name>cam_wm_razorgor_chariot</name>
+<skeleton>animations\skeletons\campaignrazorgorchariot01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{8e2dfbfa-2a84-4e90-97f3-389f5f84d735}" record_timestamp="1470308477212" record_key="cam_wm_war_altar">
+<name>cam_wm_war_altar</name>
+<skeleton>animations\skeletons\campaignwaraltar01.anim</skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{ab8c83ba-1143-4083-979d-b94b53deda5f}" record_timestamp="1443791236830" record_key="default">
+<name>default</name>
+<skeleton></skeleton>
+</campaign_anim_set_enums>
+<campaign_anim_set_enums record_uuid="{f3ec3536-93a1-483e-903a-32a2e9c6fe19}" record_timestamp="1443791236834" record_key="settlement">
+<name>settlement</name>
+<skeleton></skeleton>
+</campaign_anim_set_enums>
+</dataroot>

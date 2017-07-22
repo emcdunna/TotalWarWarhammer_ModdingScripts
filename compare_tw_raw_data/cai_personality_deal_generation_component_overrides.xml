@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personality_deal_generation_component_overrides.xsd" export_time="Wed Sep 9 15:03:26 2015" revision="10" export_branch="E:/TW/warhammer/src" export_user="bob">
+<edit_uuid>7f434a74-0aae-4f54-9dad-33c0ddd3c492</edit_uuid>
+<cai_personality_deal_generation_component_overrides record_uuid="{a8a4f483-1887-41f7-8038-9d26fa0800fa}" record_timestamp="1436885884171" record_key="default">
+<component>default</component>
+<parent>dummy</parent>
+</cai_personality_deal_generation_component_overrides>
+<cai_personality_deal_generation_component_overrides record_uuid="{ea87e57e-e586-47b2-ba6a-8e9bfd3c405c}" record_timestamp="1439918575328" record_key="passive">
+<component>passive</component>
+<parent>default</parent>
+</cai_personality_deal_generation_component_overrides>
+<cai_personality_deal_generation_component_overrides record_uuid="{5eda5bef-0aff-484d-bef6-be02d137a9ad}" record_timestamp="1439891688087" record_key="schemer">
+<component>schemer</component>
+<parent>default</parent>
+</cai_personality_deal_generation_component_overrides>
+<cai_personality_deal_generation_component_overrides record_uuid="{4f3357bf-9dc6-48f7-9cad-b2b6b0144b05}" record_timestamp="1439976194473" record_key="subjugator">
+<component>subjugator</component>
+<parent>default</parent>
+</cai_personality_deal_generation_component_overrides>
+</dataroot>

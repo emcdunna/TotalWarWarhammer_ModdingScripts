@@ -1,0 +1,2380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="trigger_effects.xsd" export_time="Wed Nov 16 19:52:58 2016" revision="98" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>10db8243-1fed-4dc4-ac36-fd8f9692f845</edit_uuid>
+<trigger_effects record_uuid="{54391303-2152-4f5d-a0ec-d0f3057307da}" record_timestamp="1448892610055" record_key="4689">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4689</id>
+<trait>wh_main_trait_all_personality_all_drink</trait>
+<trigger>wh_main_trig_character_long_time_in_lands_and_in_city</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c0743bcd-873e-45e9-aa56-17bc66dff861}" record_timestamp="1448892610055" record_key="4755">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4755</id>
+<trait>wh_main_trait_all_personality_all_lucky</trait>
+<trigger>wh_main_trig_agent_success</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{e8966203-a38e-4e86-b3fa-90e0b0551453}" record_timestamp="1459940118291" record_key="4783">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4783</id>
+<trait>wh_main_trait_all_personality_all_sober</trait>
+<trigger>wh_main_trig_general_land_lost_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{cebc8261-34e8-488a-8f0b-adbda9b1c49c}" record_timestamp="1448892610055" record_key="4790">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4790</id>
+<trait>wh_main_trait_all_personality_all_unlucky</trait>
+<trigger>wh_main_trig_agent_critical_failure</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{af56da82-7d5a-45d3-b21d-60d48033f766}" record_timestamp="1448892610055" record_key="4833">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4833</id>
+<trait>wh_main_trait_general_government_all_admin_bad</trait>
+<trigger>wh_main_trig_governor_rank_up_poor_region_empire</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{16c5dc0f-130b-4c89-a13a-9f4eba2380b6}" record_timestamp="1448892610055" record_key="4843">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4843</id>
+<trait>wh_main_trait_general_government_all_admin_good</trait>
+<trigger>wh_main_trig_governor_rank_up_rich_region_empire</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{ab26eb33-4116-47f3-9b9f-53183cc2f7db}" record_timestamp="1457437479861" record_key="4850">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4850</id>
+<trait>wh_main_trait_general_government_all_architect</trait>
+<trigger>wh_main_trig_character_enters_garrison_high_buildings</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{0b83275a-fbfd-48e0-94dc-b6f5e2d37960}" record_timestamp="1454417193716" record_key="4858">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4858</id>
+<trait>wh_main_trait_general_government_all_authoritarian</trait>
+<trigger>wh_main_trig_character_rank_up_high_public_order_player_only_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{546ca28d-2aa1-4295-9dcc-850e13ab0da0}" record_timestamp="1457437478925" record_key="4861">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4861</id>
+<trait>wh_main_trait_general_government_all_farmer</trait>
+<trigger>wh_main_trig_general_constructed_building_sch_agriculture_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{81e9270a-e7ba-4a98-a0e2-4d107ff253c4}" record_timestamp="1457437480958" record_key="4881">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4881</id>
+<trait>wh_main_trait_general_government_all_pacifist</trait>
+<trigger>wh_main_trig_character_rank_up_at_peace_not_greenskins</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c370ef2f-d68a-408f-b69a-45f2bca738d9}" record_timestamp="1462358692739" record_key="4887">
+<chance>13</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4887</id>
+<trait>wh_main_trait_general_government_all_trader</trait>
+<trigger>wh_main_trig_general_constructed_building_sch_port_empire</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{8abe2181-7812-4008-bc71-117b35db28ef}" record_timestamp="1457437479534" record_key="4897">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4897</id>
+<trait>wh_main_trait_general_government_all_warmonger</trait>
+<trigger>wh_main_trig_character_rank_up_at_war_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{a70270de-9e8d-4b49-946c-7f1d7f63ac7b}" record_timestamp="1457437479908" record_key="4905">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4905</id>
+<trait>wh_main_trait_general_government_civilised_politician</trait>
+<trigger>wh_main_trig_character_enters_garrison_high_public_order</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{142aa18b-417b-4a9d-afa9-5dbe5e68d2cf}" record_timestamp="1448892610055" record_key="4912">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4912</id>
+<trait>wh_main_trait_general_military_all_disciplinarian_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_land_attacking_close_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{ae728015-3698-4d02-9211-6fc3359d0f99}" record_timestamp="1448892610055" record_key="4917">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4917</id>
+<trait>wh_main_trait_general_military_all_disciplinarian_good</trait>
+<trigger>wh_main_trig_general_won_battle_land_attacking_close_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{64b572da-7dab-48c3-8193-38a9ab30be5b}" record_timestamp="1448892610055" record_key="4924">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4924</id>
+<trait>wh_main_trait_general_military_all_fighter</trait>
+<trigger>wh_main_trig_general_lost_battle_land_defending_valiant_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{cd44fcbc-d092-4c97-bf6f-ad141134c29e}" record_timestamp="1448892610055" record_key="4932">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4932</id>
+<trait>wh_main_trait_general_military_all_high_casualties</trait>
+<trigger>wh_main_trig_general_won_battle_enemy_decimated</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{5adac89e-6766-4a71-8452-391e92418cdf}" record_timestamp="1448892610055" record_key="4933">
+<chance>20</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4933</id>
+<trait>wh_main_trait_general_military_all_looter</trait>
+<trigger>wh_main_trig_general_won_battle_siege_looted_settlement</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{a78e8bbf-d956-4d93-ba17-a860c4c86e65}" record_timestamp="1457437481293" record_key="4941">
+<chance>20</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4941</id>
+<trait>wh_main_trait_general_military_all_noctophilia</trait>
+<trigger>wh_main_trig_general_won_battle_night_attacking</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{9e9377f8-08ea-4e3d-a009-3fed095ecc8e}" record_timestamp="1457437481356" record_key="4944">
+<chance>12</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4944</id>
+<trait>wh_main_trait_general_military_all_noctophobia</trait>
+<trigger>wh_main_trig_general_lost_battle_night_attacking</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{dd45d733-ee91-4c5c-a385-14be1a2a619e}" record_timestamp="1448892610055" record_key="4948">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4948</id>
+<trait>wh_main_trait_general_military_all_strategist</trait>
+<trigger>wh_main_trig_general_won_battle_naval_defending_close_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{e1d5a4ad-db03-44a8-8450-bc031ff13b31}" record_timestamp="1448892610055" record_key="4951">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4951</id>
+<trait>wh_main_trait_general_military_all_survivor</trait>
+<trigger>wh_main_trig_general_lost_battle_naval_attacking_valiant_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{ba8b919e-3e01-4e9b-8808-295259662ce7}" record_timestamp="1448892610055" record_key="4960">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4960</id>
+<trait>wh_main_trait_general_military_all_tactician</trait>
+<trigger>wh_main_trig_general_won_battle_naval_defending_pyrrhic_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{8062d1fa-33b0-4bfa-b297-6e469d76890a}" record_timestamp="1457437481418" record_key="4970">
+<chance>75</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4970</id>
+<trait>wh_main_trait_general_military_army_all_ambusher_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_ambush_attacking</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{ed0099b1-dd3d-48f2-bbf8-c849a920b591}" record_timestamp="1457437481465" record_key="4973">
+<chance>75</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4973</id>
+<trait>wh_main_trait_general_military_army_all_ambusher_good</trait>
+<trigger>wh_main_trig_general_won_battle_ambush_attacking</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{3b978b1c-0901-4a07-a45d-5a86e43707fc}" record_timestamp="1448892610056" record_key="4979">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4979</id>
+<trait>wh_main_trait_general_military_army_all_attacker_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_land_attacking_decisive_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{439425e3-56fd-4326-83db-0a057f4db145}" record_timestamp="1448892610056" record_key="4981">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4981</id>
+<trait>wh_main_trait_general_military_army_all_attacker_good</trait>
+<trigger>wh_main_trig_general_won_battle_land_attacking_decisive_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{a0b27ae2-048f-40ff-9080-b7f2631ba461}" record_timestamp="1448892610056" record_key="4985">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4985</id>
+<trait>wh_main_trait_general_military_army_all_besieger_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_siege_attacking</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{e0329d59-87ec-433f-98bd-a444afc4aeff}" record_timestamp="1448892610056" record_key="4994">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4994</id>
+<trait>wh_main_trait_general_military_army_all_besieger_good</trait>
+<trigger>wh_main_trig_general_won_battle_siege_attacking</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{d51a3c67-2580-44b1-804f-f78bb87c235b}" record_timestamp="1448892610056" record_key="4997">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>4997</id>
+<trait>wh_main_trait_general_military_army_all_defender_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_land_defending_crushing_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{bbd30a8c-08a5-4dd8-a58e-9794fd59c45c}" record_timestamp="1448892610056" record_key="5005">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5005</id>
+<trait>wh_main_trait_general_military_army_all_defender_good</trait>
+<trigger>wh_main_trig_general_won_battle_land_defending_decisive_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{6c3813db-fc39-4569-8e91-a6238fccbe8c}" record_timestamp="1448892610056" record_key="5015">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5015</id>
+<trait>wh_main_trait_general_military_army_all_siege_defender_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_siege_defending</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{09fe8932-1fad-4293-a206-1424d18ebe6f}" record_timestamp="1448892610056" record_key="5024">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5024</id>
+<trait>wh_main_trait_general_military_army_all_siege_defender_good</trait>
+<trigger>wh_main_trig_general_won_battle_siege_defending</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{8f5037b1-4b2d-4acb-a4d2-f056b9b5d8d1}" record_timestamp="1448892610056" record_key="5029">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5029</id>
+<trait>wh_main_trait_general_military_barbarian_berserker</trait>
+<trigger>wh_main_trig_general_fought_in_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{91d4a529-7da3-4890-a78e-61eb67729a87}" record_timestamp="1448892610056" record_key="5035">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5035</id>
+<trait>wh_main_trait_general_military_navy_all_attacker_sea_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_naval_attacking_crushing_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{b3f5ded9-a84c-410c-8747-1d89708135f8}" record_timestamp="1448892610056" record_key="5041">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5041</id>
+<trait>wh_main_trait_general_military_navy_all_attacker_sea_good</trait>
+<trigger>wh_main_trig_general_won_battle_naval_attacking_decisive_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{34a38c3b-cbbc-4a31-b147-35e2cc031096}" record_timestamp="1448892610056" record_key="5045">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5045</id>
+<trait>wh_main_trait_general_military_navy_all_blockade_defender_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_blockade_defending</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{d345ae23-1683-4a8d-b444-e2ebcbacc0cc}" record_timestamp="1448892610056" record_key="5050">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5050</id>
+<trait>wh_main_trait_general_military_navy_all_blockade_defender_good</trait>
+<trigger>wh_main_trig_general_won_battle_blockade_defending</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{aa484233-9e70-4bec-acf4-18bdf1f0be34}" record_timestamp="1448892610056" record_key="5057">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5057</id>
+<trait>wh_main_trait_general_military_navy_all_blockader_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_blockade_attacking</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c78ecff2-9e25-49b7-8816-32f57b11784d}" record_timestamp="1448892610056" record_key="5062">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5062</id>
+<trait>wh_main_trait_general_military_navy_all_blockader_good</trait>
+<trigger>wh_main_trig_general_won_battle_blockade_attacking</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{d82146a0-9134-4967-811e-e5516d9d823d}" record_timestamp="1448892610056" record_key="5072">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5072</id>
+<trait>wh_main_trait_general_military_navy_all_defender_sea_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_naval_defending_crushing_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{004d8479-6ad2-4784-8e73-1fe168992ec5}" record_timestamp="1448892610056" record_key="5082">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5082</id>
+<trait>wh_main_trait_general_military_navy_all_defender_sea_good</trait>
+<trigger>wh_main_trig_general_won_battle_naval_defending_decisive_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c68ec894-5aa3-4760-83ff-851f6bc1aeb1}" record_timestamp="1448892610056" record_key="5089">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5089</id>
+<trait>wh_main_trait_general_military_navy_all_escort_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_naval_transporting</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{09c6677c-4124-45ba-b3c9-a0231dccd0b8}" record_timestamp="1448892610056" record_key="5092">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5092</id>
+<trait>wh_main_trait_general_military_navy_all_escort_good</trait>
+<trigger>wh_main_trig_general_won_battle_naval_transporting</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{b62bd0a4-18c7-4dd7-ac85-b79a5309c592}" record_timestamp="1448892610056" record_key="5102">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5102</id>
+<trait>wh_main_trait_general_personality_all_bereaved</trait>
+<trigger>wh_main_trig_general_won_battle_enemy_decimated</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{a099cf19-e2d3-4abf-a4ff-2040e262a10a}" record_timestamp="1448892610056" record_key="5112">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5112</id>
+<trait>wh_main_trait_general_personality_all_bravery</trait>
+<trigger>wh_main_trig_general_fought_in_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{eb30543b-e296-4680-bcf8-377b9cbe8e48}" record_timestamp="1448892610056" record_key="5118">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5118</id>
+<trait>wh_main_trait_general_personality_all_cowardice</trait>
+<trigger>wh_main_trig_general_not_fought_in_battle_player_only</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c1b01bcc-a662-4008-ab5d-784aa0ae17e7}" record_timestamp="1448892610056" record_key="5142">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5142</id>
+<trait>wh_main_trait_general_personality_all_gambling</trait>
+<trigger>wh_main_trig_general_long_time_in_lands_and_in_city_not_horde_not_leader</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{a8267908-73c8-4346-b956-54b1a70d87d9}" record_timestamp="1448892610056" record_key="5148">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5148</id>
+<trait>wh_main_trait_general_personality_all_girls</trait>
+<trigger>wh_main_trig_character_long_time_in_lands_and_in_city</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{7addf51a-ef79-47fa-91c2-52ca6d67b31c}" record_timestamp="1448892610056" record_key="5313">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5313</id>
+<trait>wh_main_trait_general_status_all_popular</trait>
+<trigger>wh_main_trig_general_won_battle_land_defending_heroic_victory_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{9cbdb874-2dec-4e56-a140-3f04662f3b2f}" record_timestamp="1454417193950" record_key="5382">
+<chance>2</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5382</id>
+<trait>wh_main_trait_ruler_government_all_negotiator</trait>
+<trigger>wh_main_trig_character_faction_has_many_allies_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{96cc7cc4-eae4-4309-9ee5-72a000a36d34}" record_timestamp="1454417193794" record_key="5385">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5385</id>
+<trait>wh_main_trait_ruler_government_all_spymaster</trait>
+<trigger>wh_main_trig_general_many_spies_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{40c31cde-6809-4c82-823e-8497c9ce04e4}" record_timestamp="1454417193685" record_key="5395">
+<chance>1</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5395</id>
+<trait>wh_main_trait_ruler_government_all_taxman</trait>
+<trigger>wh_main_trig_character_rank_up_low_public_order_player_only_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{d6af50f4-6afb-4f5f-811b-a8075538d474}" record_timestamp="1454417193404" record_key="5412">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5412</id>
+<trait>wh_main_trait_ruler_personality_all_miser</trait>
+<trigger>wh_main_trig_general_faction_is_rich_player_only_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c57898cd-0eb0-44c3-ad99-570504f48b9b}" record_timestamp="1454417193326" record_key="5422">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5422</id>
+<trait>wh_main_trait_ruler_personality_all_spender</trait>
+<trigger>wh_main_trig_general_faction_is_losing_money_player_only_not_horde_not_vmp_not_grn</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{676ff095-ebe4-477b-bce1-133d30dae038}" record_timestamp="1457437481527" record_key="5543">
+<chance>20</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5543</id>
+<trait>wh_main_trait_general_military_all_noctophilia</trait>
+<trigger>wh_main_trig_general_won_battle_night_defending</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{d286f082-c760-484a-a1e7-794a665edf03}" record_timestamp="1457437481574" record_key="5553">
+<chance>12</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5553</id>
+<trait>wh_main_trait_general_military_all_noctophobia</trait>
+<trigger>wh_main_trig_general_lost_battle_night_defending</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{64a9c13f-b378-4a33-b871-4ca7fdcfa583}" record_timestamp="1448892610057" record_key="5556">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5556</id>
+<trait>wh_main_trait_all_personality_all_lazy</trait>
+<trigger>wh_main_trig_character_long_time_in_lands_and_in_city</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{95e49695-ee44-42c9-a900-b0c5c7a931a9}" record_timestamp="1454417193186" record_key="5596">
+<chance>25</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5596</id>
+<trait>wh_main_trait_general_personality_all_honest</trait>
+<trigger>wh_main_trig_general_post_battle_release_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{9754740f-36eb-43d6-bb7d-dd1659682f56}" record_timestamp="1454417194028" record_key="5605">
+<chance>2</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5605</id>
+<trait>wh_main_trait_ruler_government_all_negotiator</trait>
+<trigger>wh_main_trig_character_faction_is_trade_empire</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{4b991866-28ab-4375-806c-da7508d4aebd}" record_timestamp="1449135280001" record_key="5612">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>5612</id>
+<trait>wh_main_trait_ruler_personality_all_paranoid</trait>
+<trigger>wh_main_trig_general_lost_battle_army_decimated_not_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{4b9bd1a9-6f5f-4707-8bb1-adfc911180af}" record_timestamp="1454417193248" record_key="6390">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6390</id>
+<trait>wh_main_trait_ruler_personality_all_unjust</trait>
+<trigger>wh_main_trig_general_post_battle_slaughter_player_only_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{01c663f0-fe53-4c22-9965-3086a8ca29ac}" record_timestamp="1454417193513" record_key="6396">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6396</id>
+<trait>wh_main_trait_ruler_personality_all_kind</trait>
+<trigger>wh_main_trig_general_post_battle_release_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{8c7e74ff-4010-4eb2-be6f-87f7eb602e61}" record_timestamp="1454417193576" record_key="6397">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6397</id>
+<trait>wh_main_trait_ruler_personality_all_harsh</trait>
+<trigger>wh_main_trig_general_post_battle_enslave_player_only_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{ab010e2c-c21d-49e5-9da6-07c7d6b1c641}" record_timestamp="1454417193123" record_key="6419">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6419</id>
+<trait>wh_main_trait_general_personality_all_fervour</trait>
+<trigger>wh_main_trig_general_won_battle_land_attacking_decisive_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{def290fd-45dd-40c7-809a-92770e1b2aa5}" record_timestamp="1457437481122" record_key="6423">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6423</id>
+<trait>wh_main_trait_general_personality_all_feck</trait>
+<trigger>wh_main_trig_general_long_time_in_lands_and_in_port_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{bbede14b-40cf-4f19-9b7a-208d7a09add8}" record_timestamp="1448892610057" record_key="6431">
+<chance>2</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6431</id>
+<trait>wh_main_trait_general_personality_all_mad</trait>
+<trigger>wh_main_trig_general_has_trait_mad</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{129e1073-9603-494b-b399-b7de3e4d9df9}" record_timestamp="1448892610057" record_key="6453">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6453</id>
+<trait>wh_main_trait_general_military_all_survivor</trait>
+<trigger>wh_main_trig_general_lost_battle_land_attacking_valiant_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c765561b-a30b-4808-99a8-89fd6a5814b8}" record_timestamp="1448892610057" record_key="6454">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6454</id>
+<trait>wh_main_trait_general_military_all_fighter</trait>
+<trigger>wh_main_trig_general_fought_in_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{92543338-7835-494a-92c7-ed1afe5bb563}" record_timestamp="1448892610057" record_key="6471">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6471</id>
+<trait>wh_main_trait_general_government_all_authoritarian</trait>
+<trigger>wh_main_trig_general_10_turns_enemy_territory_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{6b4f8acc-cb32-44a3-81fd-aa076d99720b}" record_timestamp="1448892610057" record_key="6481">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6481</id>
+<trait>wh_main_trait_agent_personality_all_mad</trait>
+<trigger>wh_main_trig_agent_has_trait_mad</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c85c815b-d57a-411c-a507-6c23d79eff8b}" record_timestamp="1459940118292" record_key="6593">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6593</id>
+<trait>wh_main_trait_all_personality_all_sober</trait>
+<trigger>wh_main_trig_hero_land_lost_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{a9f8f2ba-6822-4ede-b9bb-71da07977d09}" record_timestamp="1448892610057" record_key="6748">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6748</id>
+<trait>wh_main_trait_all_personality_all_energetic</trait>
+<trigger>wh_main_trig_general_fought_in_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{30222fbc-d9e6-46ca-a4df-a90486bf66fb}" record_timestamp="1448892610057" record_key="6751">
+<chance>85</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6751</id>
+<trait>wh_main_trait_all_personality_all_energetic</trait>
+<trigger>wh_main_trig_general_fought_in_battle_has_trait_lazy</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{65479af2-9e6a-44be-b51b-12995a1db850}" record_timestamp="1457697587214" record_key="6760">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6760</id>
+<trait>wh_main_trait_general_status_all_popular</trait>
+<trigger>wh_main_trig_character_rank_up_low_public_order_player_only_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{1ffa227a-f27d-4c34-9e81-5d33e02452b1}" record_timestamp="1448892610057" record_key="6765">
+<chance>25</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6765</id>
+<trait>wh_main_trait_general_personality_all_dishonest</trait>
+<trigger>wh_main_trig_general_post_battle_slaughter_player_only_not_horde_not_leader</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{b0b70b7e-b746-437a-8353-af241041f73e}" record_timestamp="1448892610057" record_key="6819">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6819</id>
+<trait>wh_main_trait_all_personality_all_drink</trait>
+<trigger>wh_main_trig_general_lost_battle_land_defending_close_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{65946394-ecb1-48c3-8ff8-3c8255c3fd2b}" record_timestamp="1448892610057" record_key="6825">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6825</id>
+<trait>wh_main_trait_all_personality_all_drink</trait>
+<trigger>wh_main_trig_general_lost_battle_naval_defending_close_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{8bb30849-b363-4006-9376-bfdca1c13fed}" record_timestamp="1448892610058" record_key="6838">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6838</id>
+<trait>wh_main_trait_general_military_all_disciplinarian_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_naval_attacking_close_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{8a25fe06-a96a-4c74-aba2-aeb2d3e9644f}" record_timestamp="1448892610058" record_key="6841">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6841</id>
+<trait>wh_main_trait_general_military_all_fighter</trait>
+<trigger>wh_main_trig_general_lost_battle_naval_defending_valiant_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{67ddb3f5-f1e5-4216-8650-85368dd5d133}" record_timestamp="1448892610058" record_key="6852">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6852</id>
+<trait>wh_main_trait_general_military_all_strategist</trait>
+<trigger>wh_main_trig_general_won_battle_land_defending_close_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{48bdc257-ad62-43b7-b3a3-1d8d67d35178}" record_timestamp="1448892610058" record_key="6853">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6853</id>
+<trait>wh_main_trait_general_military_all_tactician</trait>
+<trigger>wh_main_trig_general_won_battle_land_defending_pyrrhic_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{63a9ead1-8129-4889-81a7-ef7a6ec75b1a}" record_timestamp="1448892610058" record_key="6859">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6859</id>
+<trait>wh_main_trait_general_status_all_popular</trait>
+<trigger>wh_main_trig_general_won_battle_land_attacking_heroic_victory_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{bfc96c2a-21d6-404a-96a8-9ac33be779f3}" record_timestamp="1448892610058" record_key="6874">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6874</id>
+<trait>wh_main_trait_general_status_all_unpopular</trait>
+<trigger>wh_main_trig_general_lost_battle_land_attacking_crushing_defeat_player_only_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{4f2074c1-725a-4706-b27c-8fdb7a47354d}" record_timestamp="1448892610058" record_key="6890">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6890</id>
+<trait>wh_main_trait_general_status_all_unpopular</trait>
+<trigger>wh_main_trig_general_lost_battle_land_defending_crushing_defeat_player_only_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{80488d6f-fea7-41bd-9b3f-d489d47a4290}" record_timestamp="1448892610058" record_key="6891">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6891</id>
+<trait>wh_main_trait_general_military_army_all_attacker_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_land_attacking_crushing_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{bdf3a1a8-4a48-4400-9c0d-7550b8418d30}" record_timestamp="1448892610058" record_key="6895">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6895</id>
+<trait>wh_main_trait_general_military_all_disciplinarian_good</trait>
+<trigger>wh_main_trig_general_won_battle_naval_attacking_close_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{1862ba1f-a663-4acd-a554-a868f4bb6ce7}" record_timestamp="1448892610058" record_key="6901">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6901</id>
+<trait>wh_main_trait_general_military_army_all_attacker_good</trait>
+<trigger>wh_main_trig_general_won_battle_land_attacking_heroic_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{e868bc0b-3494-49a5-9b81-ecf49877fbb7}" record_timestamp="1448892610058" record_key="6908">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6908</id>
+<trait>wh_main_trait_general_military_army_all_defender_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_land_defending_decisive_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{0869ffd1-40e2-4cfd-b9a9-8688d37dc413}" record_timestamp="1448892610058" record_key="6916">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6916</id>
+<trait>wh_main_trait_general_military_army_all_defender_good</trait>
+<trigger>wh_main_trig_general_won_battle_land_defending_heroic_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{bc22968b-c79f-4ef9-b7f5-950b9ac44fcd}" record_timestamp="1448892610058" record_key="6920">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6920</id>
+<trait>wh_main_trait_general_military_navy_all_attacker_sea_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_naval_attacking_decisive_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{7993dfa0-03a9-4574-b287-50af3f86db3a}" record_timestamp="1448892610058" record_key="6928">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6928</id>
+<trait>wh_main_trait_general_military_navy_all_attacker_sea_good</trait>
+<trigger>wh_main_trig_general_won_battle_naval_attacking_heroic_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{b3611184-218e-48de-8c02-ba1755d4f643}" record_timestamp="1448892610058" record_key="6934">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6934</id>
+<trait>wh_main_trait_general_military_navy_all_defender_sea_bad</trait>
+<trigger>wh_main_trig_general_lost_battle_naval_defending_decisive_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{55060ed9-51ec-4e8e-a447-34b0c97013e1}" record_timestamp="1448892610058" record_key="6944">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6944</id>
+<trait>wh_main_trait_general_military_navy_all_defender_sea_good</trait>
+<trigger>wh_main_trig_general_won_battle_naval_defending_heroic_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{38f4750a-4122-48c5-ba7e-e0e6822790f5}" record_timestamp="1448892610058" record_key="6963">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6963</id>
+<trait>wh_main_trait_general_status_all_popular</trait>
+<trigger>wh_main_trig_general_won_battle_naval_attacking_heroic_victory_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{6b071bcd-b87b-44aa-b629-bf131cc3cecc}" record_timestamp="1448892610058" record_key="6967">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6967</id>
+<trait>wh_main_trait_general_status_all_popular</trait>
+<trigger>wh_main_trig_general_won_battle_naval_defending_heroic_victory_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{9f238bf2-5ce6-46ef-9f0d-178ce047ac30}" record_timestamp="1448892610058" record_key="6976">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6976</id>
+<trait>wh_main_trait_general_status_all_unpopular</trait>
+<trigger>wh_main_trig_general_lost_battle_naval_attacking_crushing_defeat_player_only_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{1d5197cf-d140-4030-874a-dba67ff35df6}" record_timestamp="1448892610058" record_key="6980">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6980</id>
+<trait>wh_main_trait_general_status_all_unpopular</trait>
+<trigger>wh_main_trig_general_lost_battle_naval_defending_crushing_defeat_player_only_not_horde</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{712e27db-40e1-427a-89bf-5bfb538af78d}" record_timestamp="1459949677406" record_key="6984">
+<chance>4</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6984</id>
+<trait>wh_main_trait_not_priest_personality_monotheist_religious</trait>
+<trigger>wh_main_trig_general_won_battle_land_attacking_close_victory_emp</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{eeeadc59-f269-45cb-af35-651dfba2c5b1}" record_timestamp="1459949678127" record_key="6988">
+<chance>4</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6988</id>
+<trait>wh_main_trait_not_priest_personality_polytheist_religious</trait>
+<trigger>wh_main_trig_general_won_battle_land_attacking_close_victory_not_vmp_chs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{8041f70c-f3da-41b5-b1c2-3560c47a3e8b}" record_timestamp="1459940118274" record_key="6992">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6992</id>
+<trait>wh_main_trait_not_priest_personality_monotheist_religious</trait>
+<trigger>wh_main_trig_character_rank_up_region_high_corruption_emp</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{7e61b310-def5-41fb-98c3-6017a1be5ba4}" record_timestamp="1459949678237" record_key="6995">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>6995</id>
+<trait>wh_main_trait_not_priest_personality_polytheist_religious</trait>
+<trigger>wh_main_trig_character_rank_up_region_high_corruption_not_vmp_chs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{1d030fe5-0e8c-4bdd-8821-0442777c60b7}" record_timestamp="1451907913370" record_key="7004">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7004</id>
+<trait>wh_main_trait_all_personality_all_fears_chaos</trait>
+<trigger>wh_main_trig_general_lost_battle_against_chaos_not_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{2af931f0-f69c-4e63-bcb2-c7b79533cd1b}" record_timestamp="1451907913525" record_key="7014">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7014</id>
+<trait>wh_main_trait_all_personality_all_fears_dwarfs</trait>
+<trigger>wh_main_trig_general_lost_battle_against_dwarfs_not_dwarfs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{0b40d25c-64e4-493c-a2c9-cbced3710261}" record_timestamp="1451907913154" record_key="7021">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7021</id>
+<trait>wh_main_trait_all_personality_all_fears_greenskins</trait>
+<trigger>wh_main_trig_general_lost_battle_against_greenskins_not_greenskins</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{fbc69a65-b5d9-4c62-b10d-cf16b55633c1}" record_timestamp="1451907913862" record_key="7030">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7030</id>
+<trait>wh_main_trait_all_personality_all_fears_men</trait>
+<trigger>wh_main_trig_general_lost_battle_against_men_not_men</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{7db97b2c-8bd6-4339-a0ff-d32669091d65}" record_timestamp="1451907914042" record_key="7036">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7036</id>
+<trait>wh_main_trait_all_personality_all_fears_vampire_counts</trait>
+<trigger>wh_main_trig_general_lost_battle_against_vampire_counts_not_vampire_counts</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{4fa36725-905a-466d-9270-934b1f75a9d8}" record_timestamp="1448892610059" record_key="7040">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7040</id>
+<trait>wh_main_trait_all_personality_all_hates_chaos</trait>
+<trigger>wh_main_trig_general_fought_battle_against_chaos_not_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{212ea995-5b70-46d3-bf4a-43d35821bb50}" record_timestamp="1448892610059" record_key="7046">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7046</id>
+<trait>wh_main_trait_all_personality_all_hates_dwarfs</trait>
+<trigger>wh_main_trig_general_fought_battle_against_dwarfs_not_dwarfs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{2d1bb377-6891-4b1d-b08f-792895a908be}" record_timestamp="1448892610059" record_key="7052">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7052</id>
+<trait>wh_main_trait_all_personality_all_hates_greenskins</trait>
+<trigger>wh_main_trig_general_fought_battle_against_greenskins_not_greenskins</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{6ab63cd5-82f4-4db1-93d3-9f791ce98e7a}" record_timestamp="1448892610059" record_key="7055">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7055</id>
+<trait>wh_main_trait_all_personality_all_hates_men</trait>
+<trigger>wh_main_trig_general_fought_battle_against_men_not_men</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{ba51d19f-4fb4-420b-b74b-19407a7af5c4}" record_timestamp="1448892610059" record_key="7062">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7062</id>
+<trait>wh_main_trait_all_personality_all_hates_vampire_counts</trait>
+<trigger>wh_main_trig_general_fought_battle_against_vampire_counts_not_vampire_counts</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{f7ad9cc4-a5c8-4c47-86fb-87b90146261b}" record_timestamp="1451907916621" record_key="7068">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7068</id>
+<trait>wh_main_trait_all_personality_all_likes_chaos</trait>
+<trigger>wh_main_trig_general_fought_battle_against_chaos_not_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{ada0a863-2341-4a65-ba00-194d487d29ea}" record_timestamp="1452603373694" record_key="7070">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7070</id>
+<trait>wh_main_trait_all_personality_all_likes_dwarfs</trait>
+<trigger>wh_main_trig_general_fought_battle_against_dwarfs_not_dwarfs_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{43ac85a9-bdc7-4f3f-a959-e2460fe638a9}" record_timestamp="1463569372098" record_key="7076">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7076</id>
+<trait>wh_main_trait_all_personality_all_likes_greenskins</trait>
+<trigger>wh_main_trig_general_fought_battle_against_greenskins_not_greenskins_chaos_dwarfs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{8a2cf6f3-728e-47c7-bd4a-4f49881c0813}" record_timestamp="1452603373710" record_key="7086">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7086</id>
+<trait>wh_main_trait_all_personality_all_likes_men</trait>
+<trigger>wh_main_trig_general_fought_battle_against_men_not_men_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{92ec6494-2a63-43de-9b60-b6bc7f07a2f0}" record_timestamp="1452603373725" record_key="7094">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7094</id>
+<trait>wh_main_trait_all_personality_all_likes_vampire_counts</trait>
+<trigger>wh_main_trig_general_fought_battle_against_vampire_counts_not_vampire_counts_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{86bdf928-ff82-4c7f-b7fa-d76e892072df}" record_timestamp="1448892610059" record_key="7117">
+<chance>1</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7117</id>
+<trait>wh_main_trait_all_personality_all_lewd</trait>
+<trigger>wh_main_trig_general_land_lost_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{fe492f62-5689-4b11-b116-d401684cd71d}" record_timestamp="1457437481637" record_key="7154">
+<chance>20</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7154</id>
+<trait>wh_main_trait_night_goblin_shaman_personality_grn_goblin_mushrooms</trait>
+<trigger>wh_main_trig_unit_completed_battle_night_goblin_shaman</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{37708125-c68e-4b8a-8f44-fcea4e8a1667}" record_timestamp="1457437481699" record_key="7160">
+<chance>20</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7160</id>
+<trait>wh_main_trait_orc_shaman_personality_grn_dance</trait>
+<trigger>wh_main_trig_unit_completed_battle_orc_shaman</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{be69ae52-e551-46be-bb63-f1a1d4c90a82}" record_timestamp="1457437478370" record_key="7187">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7187</id>
+<trait>wh_main_trait_all_personality_dwf_grumbler</trait>
+<trigger>wh_main_trig_general_land_lost_battle_as_dwarfs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{3698c0e3-be8a-4ebf-afc1-2609f8bf22d5}" record_timestamp="1448892610059" record_key="7190">
+<chance>25</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7190</id>
+<trait>wh_main_trait_all_personality_vmp_insane</trait>
+<trigger>wh_main_trig_has_trait_vmp_insane</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{f172c3f1-e193-4227-8f9c-7becbef04c67}" record_timestamp="1457437478660" record_key="7205">
+<chance>12</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7205</id>
+<trait>wh_main_trait_all_personality_vmp_insane</trait>
+<trigger>wh_main_trig_general_land_lost_battle_as_vampire_counts</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{41e2c540-db3c-45b2-a666-804952bde1ab}" record_timestamp="1457437478520" record_key="7210">
+<chance>12</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7210</id>
+<trait>wh_main_trait_all_personality_grn_gloomy</trait>
+<trigger>wh_main_trig_general_land_lost_battle_as_greenskins</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{fe67329e-d753-417a-a390-a16cc8e5e87f}" record_timestamp="1457437482229" record_key="7225">
+<chance>20</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7225</id>
+<trait>wh_main_trait_wizard_personality_vmp_lore</trait>
+<trigger>wh_main_trig_wizard_won_battle_vampire_counts</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{cbbe9b6b-68a4-4a6a-b928-814aaa64070a}" record_timestamp="1448892610059" record_key="7247">
+<chance>3</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7247</id>
+<trait>wh_main_trait_all_personality_chs_dread</trait>
+<trigger>wh_main_trig_general_won_battle_siege_looted_settlement_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{cc54f762-1929-4c35-8b1c-dc14a0c83ece}" record_timestamp="1457437478089" record_key="7268">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7268</id>
+<trait>wh_main_trait_all_personality_chs_fury</trait>
+<trigger>wh_main_trig_general_won_battle_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{77e1a073-e90f-4684-ab39-63f1392955e0}" record_timestamp="1448892610059" record_key="7288">
+<chance>3</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7288</id>
+<trait>wh_main_trait_all_personality_chs_mantle</trait>
+<trigger>wh_main_trig_general_won_battle_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{dcd12b41-12bc-424b-93cb-49d249025370}" record_timestamp="1448892610059" record_key="7310">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7310</id>
+<trait>wh_main_trait_all_personality_chs_schemer</trait>
+<trigger>wh_main_trig_general_10_turns_enemy_territory_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{961afc04-bf25-4242-a04b-097ae059ee71}" record_timestamp="1448892610059" record_key="7335">
+<chance>3</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7335</id>
+<trait>wh_main_trait_all_personality_chs_stench</trait>
+<trigger>wh_main_trig_general_won_battle_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{f17b7347-61dc-4f5e-be25-58f8a7f1e32b}" record_timestamp="1448892610059" record_key="7355">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7355</id>
+<trait>wh_main_trait_all_personality_chs_tempter</trait>
+<trigger>wh_main_trig_character_post_battle_release_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{8406ee5c-3293-432e-adb8-edc8d416eda8}" record_timestamp="1466175097972" record_key="7362">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7362</id>
+<trait>wh_main_trait_all_personality_chs_touched</trait>
+<trigger>wh_main_trig_general_won_battle_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{0f4f7617-ccd3-41b5-9160-74d0178222ea}" record_timestamp="1448892610060" record_key="7383">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7383</id>
+<trait>wh_main_trait_all_personality_chs_words</trait>
+<trigger>wh_main_trig_general_10_turns_enemy_territory_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{eed33439-2777-4104-b7e6-2451e22f3868}" record_timestamp="1466175098717" record_key="7423">
+<chance>4</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7423</id>
+<trait>wh_main_trait_all_personality_grn_bragger</trait>
+<trigger>wh_main_trig_general_won_battle_greenskins</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{d75f8d33-9f2c-47db-a8d1-ad18f5729a20}" record_timestamp="1457437481808" record_key="7432">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7432</id>
+<trait>wh_main_trait_general_government_dwf_lord</trait>
+<trigger>wh_main_trig_character_enters_garrison_high_public_order_dwarfs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{90f6d523-42df-4918-a087-943e18f2a230}" record_timestamp="1457437482167" record_key="7437">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7437</id>
+<trait>wh_main_trait_general_government_grn_warboss</trait>
+<trigger>wh_main_trig_character_enters_garrison_high_public_order_greenskins</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{5ba23d46-04bc-4af1-a9e9-9406d076e03f}" record_timestamp="1448892610060" record_key="7460">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7460</id>
+<trait>wh_main_trait_all_personality_vmp_dark_majesty</trait>
+<trigger>wh_main_trig_general_10_turns_enemy_territory_vampire_counts</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{d90bbac0-1b44-49d2-9711-4d003710e9d1}" record_timestamp="1448892610060" record_key="7476">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7476</id>
+<trait>wh_main_trait_wizard_personality_vmp_conniving</trait>
+<trigger>wh_main_trig_general_10_turns_enemy_territory_vampire_counts</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{1a6b2cf8-6520-4928-ae8f-7bdf2003902c}" record_timestamp="1448892610060" record_key="7485">
+<chance>4</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7485</id>
+<trait>wh_main_trait_general_personality_grn_bully</trait>
+<trigger>wh_main_trig_general_land_lost_battle_as_greenskins</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{64f10059-e87e-4032-ae08-172b26b15647}" record_timestamp="1460468869280" record_key="7502">
+<chance>75</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7502</id>
+<trait>wh_main_trait_general_personality_grn_hates_goblins</trait>
+<trigger>wh_main_trig_greenskin_general_lost_battle_against_goblin_great_shaman</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{e2efbe1d-683d-4ab3-80e1-e3f422f0c341}" record_timestamp="1448892610060" record_key="7522">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7522</id>
+<trait>wh_main_trait_all_personality_vmp_fear_incarnate</trait>
+<trigger>wh_main_trig_character_won_battle_vampire_counts</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{01deaee6-9ea9-4ead-8c53-4951719fcac4}" record_timestamp="1448892610060" record_key="7546">
+<chance>3</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7546</id>
+<trait>wh_main_trait_general_personality_vmp_beast_master</trait>
+<trigger>wh_main_trig_general_won_battle_vampire_counts</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{f6183a35-b37f-4baf-80aa-3d2e308e5f80}" record_timestamp="1457437482105" record_key="7557">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7557</id>
+<trait>wh_main_trait_general_personality_vmp_black_arts</trait>
+<trigger>wh_main_trig_general_won_battle_vampire_counts</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{9938fb7e-1d29-476f-b5e4-990266f4715f}" record_timestamp="1448892610060" record_key="7570">
+<chance>2</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7570</id>
+<trait>wh_main_trait_general_personality_vmp_summon_creatures</trait>
+<trigger>wh_main_trig_general_won_battle_vampire_counts</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{b25e15e4-e423-42ca-883c-a2ffa031743d}" record_timestamp="1465974618290" record_key="7575">
+<chance>7</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7575</id>
+<trait>wh_main_trait_ruler_personality_dwf_gold_sickness</trait>
+<trigger>wh_main_trig_governor_rank_up_rich_region_dwarfs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c836b987-e16d-4bc7-b960-54000a6ebfbf}" record_timestamp="1457437480173" record_key="7609">
+<chance>4</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7609</id>
+<trait>wh_main_trait_ruler_personality_dwf_clan</trait>
+<trigger>wh_main_trig_character_enters_garrison_high_public_order_dwarfs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{042ffaa1-9616-4b16-a9e5-cc367c03bef5}" record_timestamp="1448892610060" record_key="7610">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7610</id>
+<trait>wh_main_trait_ruler_personality_dwf_grudge</trait>
+<trigger>wh_main_trig_general_land_lost_battle_as_dwarfs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{593e5003-ffcc-4178-97e6-a80bd4aeaa2a}" record_timestamp="1448892610060" record_key="7619">
+<chance>7</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7619</id>
+<trait>wh_main_trait_general_government_all_ruler</trait>
+<trigger>wh_main_trig_governor_rank_up_rich_region_not_greenskins</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{178ce4c3-158d-427d-be88-5fe36b414395}" record_timestamp="1457437480673" record_key="7621">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7621</id>
+<trait>wh_main_trait_general_government_emp_noble</trait>
+<trigger>wh_main_trig_character_enters_garrison_high_public_order_empire_or_bretonnia</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{efb77517-403a-4454-bb3a-bbeba55fc3e6}" record_timestamp="1448892610060" record_key="7629">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7629</id>
+<trait>wh_main_trait_general_government_all_corrupt</trait>
+<trigger>wh_main_trig_governor_rank_up_poor_region</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c514e65e-ff58-4684-84e1-b59270e23c02}" record_timestamp="1448892610060" record_key="7630">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7630</id>
+<trait>wh_main_trait_general_government_all_meek</trait>
+<trigger>wh_main_trig_governor_rank_up_poor_region</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{d438febb-e556-40c4-b3f0-d428e5e40104}" record_timestamp="1448892610060" record_key="7637">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7637</id>
+<trait>wh_main_trait_action_champion_assist_army</trait>
+<trigger>wh_main_trig_champion_action_success_assist_army</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{331152b9-38bc-4966-aea5-2c797ecec8e6}" record_timestamp="1448892610060" record_key="7645">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7645</id>
+<trait>wh_main_trait_action_champion_assist_province</trait>
+<trigger>wh_main_trig_champion_action_success_assist_province</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{192b6cff-2ae3-4d89-8f5e-0c172b0d95f5}" record_timestamp="1449227676100" record_key="7654">
+<chance>15</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7654</id>
+<trait>wh_main_trait_action_champion_hinder_army</trait>
+<trigger>wh_main_trig_champion_action_success_hinder_army</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{ff48e2e4-5d4f-48db-9f16-ca8ff31d74e0}" record_timestamp="1459940118288" record_key="7657">
+<chance>25</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7657</id>
+<trait>wh_main_trait_action_champion_hinder_character</trait>
+<trigger>wh_main_trig_champion_action_success_hinder_character</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{77e366ab-d471-42bc-9162-5fc33e290866}" record_timestamp="1448892610060" record_key="7665">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7665</id>
+<trait>wh_main_trait_action_champion_hinder_province</trait>
+<trigger>wh_main_trig_champion_action_success_hinder_province</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{f2047268-f83c-4ad2-95da-9e0e1bd452e5}" record_timestamp="1449227676140" record_key="7670">
+<chance>15</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7670</id>
+<trait>wh_main_trait_action_champion_hinder_settlement</trait>
+<trigger>wh_main_trig_champion_action_success_hinder_settlement</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{fcf0d0bc-da66-4c7d-990c-e17f6a1dd04f}" record_timestamp="1448892610060" record_key="7675">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7675</id>
+<trait>wh_main_trait_action_dignitary_assist_army</trait>
+<trigger>wh_main_trig_dignitary_action_success_assist_army</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{e754f05d-bdeb-4ddc-b449-a0aeb2f13cd6}" record_timestamp="1448892610060" record_key="7682">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7682</id>
+<trait>wh_main_trait_action_dignitary_assist_province</trait>
+<trigger>wh_main_trig_dignitary_action_success_assist_province</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{b56c0df1-1f45-4c29-a392-ced313b5e9ab}" record_timestamp="1449227676160" record_key="7690">
+<chance>15</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7690</id>
+<trait>wh_main_trait_action_dignitary_hinder_army</trait>
+<trigger>wh_main_trig_dignitary_action_success_hinder_army</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c1169f9c-8760-43b9-b1ea-b0d997c5e95a}" record_timestamp="1459940118288" record_key="7700">
+<chance>25</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7700</id>
+<trait>wh_main_trait_action_dignitary_hinder_character</trait>
+<trigger>wh_main_trig_dignitary_action_success_hinder_character</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{b254c330-3146-42b0-b434-f0722e7100e4}" record_timestamp="1448892610061" record_key="7703">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7703</id>
+<trait>wh_main_trait_action_dignitary_hinder_province</trait>
+<trigger>wh_main_trig_dignitary_action_success_hinder_province</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{141a12ab-5e40-4312-94db-ef4e45bb8d06}" record_timestamp="1449227676200" record_key="7704">
+<chance>15</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7704</id>
+<trait>wh_main_trait_action_dignitary_hinder_settlement</trait>
+<trigger>wh_main_trig_dignitary_action_success_hinder_settlement</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{58fd3ca9-b5ae-4efd-8bf1-149da871ed6e}" record_timestamp="1448892610061" record_key="7706">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7706</id>
+<trait>wh_main_trait_action_engineer_assist_army</trait>
+<trigger>wh_main_trig_engineer_action_success_assist_army</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{682021ca-3a16-4c13-9ff3-4fb825cc7934}" record_timestamp="1448892610061" record_key="7716">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7716</id>
+<trait>wh_main_trait_action_engineer_assist_province</trait>
+<trigger>wh_main_trig_engineer_action_success_assist_province</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{849fc386-81ac-48fa-8395-85eccf9de93f}" record_timestamp="1449227676220" record_key="7725">
+<chance>15</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7725</id>
+<trait>wh_main_trait_action_engineer_hinder_army</trait>
+<trigger>wh_main_trig_engineer_action_success_hinder_army</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{9a0cd5c1-b387-4024-be8d-36a19a8b2aaf}" record_timestamp="1459940118288" record_key="7735">
+<chance>25</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7735</id>
+<trait>wh_main_trait_action_engineer_hinder_character</trait>
+<trigger>wh_main_trig_engineer_action_success_hinder_character</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{63f322b2-7d5d-4309-b382-04676665030c}" record_timestamp="1448892610061" record_key="7737">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7737</id>
+<trait>wh_main_trait_action_engineer_hinder_province</trait>
+<trigger>wh_main_trig_engineer_action_success_hinder_province</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{ba750017-bd70-4d17-8d12-3c3804912e71}" record_timestamp="1449227676260" record_key="7738">
+<chance>15</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7738</id>
+<trait>wh_main_trait_action_engineer_hinder_settlement</trait>
+<trigger>wh_main_trig_engineer_action_success_hinder_settlement</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{7482d7d3-490c-4603-8d94-2851252103b8}" record_timestamp="1448892610061" record_key="7748">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7748</id>
+<trait>wh_main_trait_action_runesmith_assist_army</trait>
+<trigger>wh_main_trig_runesmith_action_success_assist_army</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{03313c21-1e73-45ba-82f6-711e0718c850}" record_timestamp="1448892610061" record_key="7754">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7754</id>
+<trait>wh_main_trait_action_runesmith_assist_province</trait>
+<trigger>wh_main_trig_runesmith_action_success_assist_province</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{60f7a517-8a85-4490-b281-9058c8a4132e}" record_timestamp="1449227676280" record_key="7762">
+<chance>15</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7762</id>
+<trait>wh_main_trait_action_runesmith_hinder_army</trait>
+<trigger>wh_main_trig_runesmith_action_success_hinder_army</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{63455cf0-f264-4d79-a767-b7ed4463465a}" record_timestamp="1459940118289" record_key="7768">
+<chance>25</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7768</id>
+<trait>wh_main_trait_action_runesmith_hinder_character</trait>
+<trigger>wh_main_trig_runesmith_action_success_hinder_character</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{fcd7f77e-0b24-477e-b6d7-2d5c76faf150}" record_timestamp="1448892610061" record_key="7778">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7778</id>
+<trait>wh_main_trait_action_runesmith_hinder_province</trait>
+<trigger>wh_main_trig_runesmith_action_success_hinder_province</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{7af24dda-cd8e-42fe-b147-ce8ca648d426}" record_timestamp="1449227676320" record_key="7785">
+<chance>15</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7785</id>
+<trait>wh_main_trait_action_runesmith_hinder_settlement</trait>
+<trigger>wh_main_trig_runesmith_action_success_hinder_settlement</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{7c8d4958-d092-441f-b890-b03640f6f86a}" record_timestamp="1448892610061" record_key="7793">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7793</id>
+<trait>wh_main_trait_action_spy_assist_army</trait>
+<trigger>wh_main_trig_spy_action_success_assist_army</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{690ff0d0-fd8d-42cf-a893-94672cab3d29}" record_timestamp="1448892610061" record_key="7799">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7799</id>
+<trait>wh_main_trait_action_spy_assist_province</trait>
+<trigger>wh_main_trig_spy_action_success_assist_province</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{abc27436-f6f8-4514-9bd5-88054571dc8a}" record_timestamp="1449227676330" record_key="7806">
+<chance>15</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7806</id>
+<trait>wh_main_trait_action_spy_hinder_army</trait>
+<trigger>wh_main_trig_spy_action_success_hinder_army</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{4bd68e52-d3f8-474e-992f-6caada051b5f}" record_timestamp="1459940118289" record_key="7810">
+<chance>25</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7810</id>
+<trait>wh_main_trait_action_spy_hinder_character</trait>
+<trigger>wh_main_trig_spy_action_success_hinder_character</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{d7e4fa9a-f4eb-46c5-8026-6276ec345ce8}" record_timestamp="1448892610061" record_key="7813">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7813</id>
+<trait>wh_main_trait_action_spy_hinder_province</trait>
+<trigger>wh_main_trig_spy_action_success_hinder_province</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{5f6f6d4c-8c8a-4ee1-bb10-90aaebee6a0a}" record_timestamp="1449227676370" record_key="7820">
+<chance>15</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7820</id>
+<trait>wh_main_trait_action_spy_hinder_settlement</trait>
+<trigger>wh_main_trig_spy_action_success_hinder_settlement</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{3e04dc57-83d8-4197-95b4-d7bf734d3d19}" record_timestamp="1449227676780" record_key="7829">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7829</id>
+<trait>wh_main_trait_action_spy_passive_ability</trait>
+<trigger>wh_main_trig_spy_action_success_hinder_army</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{0c76c291-f5ff-4c03-9b91-7e86f1482f1b}" record_timestamp="1448892610061" record_key="7833">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7833</id>
+<trait>wh_main_trait_action_wizard_assist_army</trait>
+<trigger>wh_main_trig_wizard_action_success_assist_army</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{435c03e0-49e5-44eb-b334-c52cc3931ca4}" record_timestamp="1449227676430" record_key="7841">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7841</id>
+<trait>wh_main_trait_action_wizard_assist_province</trait>
+<trigger>wh_main_trig_wizard_action_success_assist_province</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c197f0b6-8e65-4129-9071-c1c3aadea6a9}" record_timestamp="1449227676400" record_key="7845">
+<chance>15</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7845</id>
+<trait>wh_main_trait_action_wizard_hinder_army</trait>
+<trigger>wh_main_trig_wizard_action_success_hinder_army</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{765406eb-f591-4527-ae33-c8b82a3253e4}" record_timestamp="1459940118290" record_key="7849">
+<chance>25</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7849</id>
+<trait>wh_main_trait_action_wizard_hinder_character</trait>
+<trigger>wh_main_trig_wizard_action_success_hinder_character</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{baf21777-5441-4c50-baed-c933ae469d0d}" record_timestamp="1449227676470" record_key="7854">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7854</id>
+<trait>wh_main_trait_action_wizard_hinder_province</trait>
+<trigger>wh_main_trig_wizard_action_success_hinder_province</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{b6f4a4aa-fe51-4140-9ca3-c0649ffac0b2}" record_timestamp="1449227676480" record_key="7860">
+<chance>15</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7860</id>
+<trait>wh_main_trait_action_wizard_hinder_settlement</trait>
+<trigger>wh_main_trig_wizard_action_success_hinder_settlement</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{f48a5391-71f3-4bf7-8231-0c5f9e00d1da}" record_timestamp="1448892610061" record_key="7864">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7864</id>
+<trait>wh_main_trait_ruler_personality_dwf_grudge</trait>
+<trigger>wh_main_trig_hero_land_lost_battle_as_dwarfs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{79bfcf41-13e3-43c4-af1e-ef44f9fd2514}" record_timestamp="1457437478417" record_key="7870">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7870</id>
+<trait>wh_main_trait_all_personality_dwf_grumbler</trait>
+<trigger>wh_main_trig_hero_land_lost_battle_as_dwarfs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{26c69886-affc-4e47-84a0-326850c42469}" record_timestamp="1466175098220" record_key="7876">
+<chance>13</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7876</id>
+<trait>wh_main_trait_all_personality_chs_touched</trait>
+<trigger>wh_main_trig_hero_won_battle_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{957b5f33-e6a2-44a7-9c2b-3b1b0f877821}" record_timestamp="1457437478136" record_key="7882">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7882</id>
+<trait>wh_main_trait_all_personality_chs_fury</trait>
+<trigger>wh_main_trig_hero_won_battle_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{0f8aabcc-7265-48eb-bf31-65f872c72f32}" record_timestamp="1448892610062" record_key="7892">
+<chance>3</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7892</id>
+<trait>wh_main_trait_all_personality_chs_mantle</trait>
+<trigger>wh_main_trig_hero_won_battle_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c2064f87-deec-4264-b632-a7e43d15b62b}" record_timestamp="1448892610062" record_key="7902">
+<chance>3</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7902</id>
+<trait>wh_main_trait_all_personality_chs_stench</trait>
+<trigger>wh_main_trig_hero_won_battle_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{7445bfd3-c930-44d3-82fa-47a3d084efb8}" record_timestamp="1448892610062" record_key="7907">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7907</id>
+<trait>wh_main_trait_all_personality_vmp_fear_incarnate</trait>
+<trigger>wh_main_trig_hero_won_battle_vampire_counts</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{10e96b2f-f2b0-4834-abfc-50799be91d8a}" record_timestamp="1448892610062" record_key="7919">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7919</id>
+<trait>wh_main_trait_all_personality_all_hates_chaos</trait>
+<trigger>wh_main_trig_hero_fought_battle_against_chaos_not_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{e807a5fb-0b3d-47be-9d16-aa2082eb427f}" record_timestamp="1451907916743" record_key="7923">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7923</id>
+<trait>wh_main_trait_all_personality_all_likes_chaos</trait>
+<trigger>wh_main_trig_hero_fought_battle_against_chaos_not_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{764d6826-fad8-4973-86b8-6bc76de8106e}" record_timestamp="1448892610062" record_key="7930">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7930</id>
+<trait>wh_main_trait_all_personality_all_hates_dwarfs</trait>
+<trigger>wh_main_trig_hero_fought_battle_against_dwarfs_not_dwarfs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{28e09c6d-fc37-4fb9-b3e6-dfe2de5d9e62}" record_timestamp="1452603373741" record_key="7940">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7940</id>
+<trait>wh_main_trait_all_personality_all_likes_dwarfs</trait>
+<trigger>wh_main_trig_hero_fought_battle_against_dwarfs_not_dwarfs_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{6e22e2a1-a415-42ba-9730-5e8c67e92122}" record_timestamp="1448892610062" record_key="7950">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7950</id>
+<trait>wh_main_trait_all_personality_all_hates_greenskins</trait>
+<trigger>wh_main_trig_hero_fought_battle_against_greenskins_not_greenskins</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c02e2c5b-84b8-41e4-acd3-ec32e9be0967}" record_timestamp="1463569372102" record_key="7957">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7957</id>
+<trait>wh_main_trait_all_personality_all_likes_greenskins</trait>
+<trigger>wh_main_trig_hero_fought_battle_against_greenskins_not_greenskins_chaos_dwarfs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{46d6044b-1600-4c57-8f32-8e4beb5f4aee}" record_timestamp="1448892610062" record_key="7964">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7964</id>
+<trait>wh_main_trait_all_personality_all_hates_men</trait>
+<trigger>wh_main_trig_hero_fought_battle_against_men_not_men</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{8e6ac49d-4875-4312-9672-d711a3a2e993}" record_timestamp="1452603373756" record_key="7969">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7969</id>
+<trait>wh_main_trait_all_personality_all_likes_men</trait>
+<trigger>wh_main_trig_hero_fought_battle_against_men_not_men_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{412bbe8b-3218-4384-b8e9-abf4c92cd46e}" record_timestamp="1448892610062" record_key="7974">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7974</id>
+<trait>wh_main_trait_all_personality_all_hates_vampire_counts</trait>
+<trigger>wh_main_trig_hero_fought_battle_against_vampire_counts_not_vampire_counts</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{e3dd2ffc-8239-408c-abf7-6c04261082b7}" record_timestamp="1452603373772" record_key="7983">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7983</id>
+<trait>wh_main_trait_all_personality_all_likes_vampire_counts</trait>
+<trigger>wh_main_trig_hero_fought_battle_against_vampire_counts_not_vampire_counts_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{cb941241-9c10-4f62-8643-79013efc41ee}" record_timestamp="1448892610062" record_key="7989">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7989</id>
+<trait>wh_main_trait_all_personality_all_energetic</trait>
+<trigger>wh_main_trig_hero_fought_in_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{5d7ba14a-52d6-4761-bdb4-1fbb2ec000a6}" record_timestamp="1448892610062" record_key="7990">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7990</id>
+<trait>wh_main_trait_general_military_all_fighter</trait>
+<trigger>wh_main_trig_hero_fought_in_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{e19c8c04-1bf6-4800-a71e-26499f07ad0d}" record_timestamp="1448892610062" record_key="7992">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>7992</id>
+<trait>wh_main_trait_general_military_barbarian_berserker</trait>
+<trigger>wh_main_trig_hero_fought_in_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{7c9758a4-ee13-4f62-9707-e5418e8bb5b9}" record_timestamp="1448892610062" record_key="8000">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8000</id>
+<trait>wh_main_trait_general_personality_all_bravery</trait>
+<trigger>wh_main_trig_hero_fought_in_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{30d3a274-906a-4f4a-958e-b06b64cfac15}" record_timestamp="1448892610062" record_key="8034">
+<chance>85</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8034</id>
+<trait>wh_main_trait_all_personality_all_energetic</trait>
+<trigger>wh_main_trig_hero_fought_in_battle_has_trait_lazy</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{44ed8261-a4eb-4919-bef7-0dcd893841ad}" record_timestamp="1448892610062" record_key="8038">
+<chance>1</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8038</id>
+<trait>wh_main_trait_all_personality_all_lewd</trait>
+<trigger>wh_main_trig_hero_land_lost_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{b206391f-c947-4190-8a4e-5b973635e039}" record_timestamp="1466175098468" record_key="8040">
+<chance>4</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8040</id>
+<trait>wh_main_trait_all_personality_grn_bragger</trait>
+<trigger>wh_main_trig_hero_won_battle_greenskins</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{dea631be-6b52-450a-ab27-334711a5d497}" record_timestamp="1457437478567" record_key="8047">
+<chance>12</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8047</id>
+<trait>wh_main_trait_all_personality_grn_gloomy</trait>
+<trigger>wh_main_trig_hero_land_lost_battle_as_greenskins</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{b70dbc0f-9d72-4e6b-b562-d954cdd6d71e}" record_timestamp="1457437478707" record_key="8050">
+<chance>12</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8050</id>
+<trait>wh_main_trait_all_personality_vmp_insane</trait>
+<trigger>wh_main_trig_hero_land_lost_battle_as_vampire_counts</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{d1795133-a4d5-4de3-adbd-2e3265556d21}" record_timestamp="1451907914416" record_key="8123">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8123</id>
+<trait>wh_main_trait_all_personality_all_fears_chaos</trait>
+<trigger>wh_main_trig_hero_lost_battle_against_chaos_not_chaos</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{38651c02-b72b-463d-bc2e-096e9a4b5e86}" record_timestamp="1451907914611" record_key="8124">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8124</id>
+<trait>wh_main_trait_all_personality_all_fears_dwarfs</trait>
+<trigger>wh_main_trig_hero_lost_battle_against_dwarfs_not_dwarfs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{aed3a7a3-df38-4201-8292-306f22bff0bb}" record_timestamp="1451907914796" record_key="8130">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8130</id>
+<trait>wh_main_trait_all_personality_all_fears_greenskins</trait>
+<trigger>wh_main_trig_hero_lost_battle_against_greenskins_not_greenskins</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{dd619a13-9301-4456-875f-46e0b556b31d}" record_timestamp="1451907914980" record_key="8133">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8133</id>
+<trait>wh_main_trait_all_personality_all_fears_men</trait>
+<trigger>wh_main_trig_hero_lost_battle_against_men_not_men</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{a1f37c28-38e1-44dd-972f-af139f8d67d6}" record_timestamp="1451907915164" record_key="8142">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8142</id>
+<trait>wh_main_trait_all_personality_all_fears_vampire_counts</trait>
+<trigger>wh_main_trig_hero_lost_battle_against_vampire_counts_not_vampire_counts</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{8bcd102a-161b-4d2a-978b-c2f448983e25}" record_timestamp="1448892610063" record_key="8146">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8146</id>
+<trait>wh_main_trait_general_personality_all_cowardice</trait>
+<trigger>wh_main_trig_hero_not_fought_in_battle_player_only</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{fcf12a04-1cb4-4468-8a0e-c68bc67f8587}" record_timestamp="1448892610063" record_key="8152">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8152</id>
+<trait>wh_main_trait_general_military_all_survivor</trait>
+<trigger>wh_main_trig_hero_lost_battle_land_attacking_valiant_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{6873bc73-6b9d-40c3-9977-f88dce5e605f}" record_timestamp="1448892610063" record_key="8153">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8153</id>
+<trait>wh_main_trait_all_personality_all_drink</trait>
+<trigger>wh_main_trig_hero_lost_battle_land_defending_close_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{dab92a90-2573-489e-84b4-66c8b994cd38}" record_timestamp="1448892610063" record_key="8159">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8159</id>
+<trait>wh_main_trait_general_military_all_fighter</trait>
+<trigger>wh_main_trig_hero_lost_battle_land_defending_valiant_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{76628837-6052-43c8-9e1f-a8709c419ed2}" record_timestamp="1448892610063" record_key="8165">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8165</id>
+<trait>wh_main_trait_general_military_all_tactician</trait>
+<trigger>wh_main_trig_hero_won_battle_land_defending_pyrrhic_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{676040b2-01d8-4595-b3af-ba8db1c47abb}" record_timestamp="1448892610063" record_key="8167">
+<chance>15</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8167</id>
+<trait>wh_trait_general_personality_emp_monster</trait>
+<trigger>wh_main_trig_general_won_battle_enemy_decimated_empire</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{806052cd-3e65-4d5d-b886-52ccd30a25b7}" record_timestamp="1448892610063" record_key="8172">
+<chance>15</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8172</id>
+<trait>wh_trait_general_personality_emp_monster</trait>
+<trigger>wh_main_trig_hero_won_battle_enemy_decimated_empire</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{1346e98f-9385-4132-9122-7878652fc217}" record_timestamp="1448892610063" record_key="8173">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8173</id>
+<trait>wh_trait_general_personality_all_sick</trait>
+<trigger>wh_main_trig_general_land_lost_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{a1805c81-3589-400b-b18d-fed330ede116}" record_timestamp="1448892610063" record_key="8174">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8174</id>
+<trait>wh_trait_general_personality_all_sick</trait>
+<trigger>wh_main_trig_hero_land_lost_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{3fcbdffd-e89b-4de0-b1a7-0bbabd27a462}" record_timestamp="1448892610063" record_key="8178">
+<chance>2</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8178</id>
+<trait>wh_main_trait_general_personality_all_mad</trait>
+<trigger>wh_main_trig_general_lost_battle_land_attacking_close_defeat</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{b7b7065f-1129-437e-8ebb-815411de169d}" record_timestamp="1448892610063" record_key="8182">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8182</id>
+<trait>wh_main_trait_agent_personality_all_mad</trait>
+<trigger>wh_main_trig_agent_critical_failure</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{0bf47706-d12a-4936-8162-63f68001c9f5}" record_timestamp="1459940118290" record_key="8184">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8184</id>
+<trait>wh_main_trait_action_spy_passive_ability</trait>
+<trigger>wh_main_trig_spy_action_success_hinder_character</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{7b38eeea-ca46-436b-8c3c-e5cd38f73104}" record_timestamp="1449227676800" record_key="8192">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8192</id>
+<trait>wh_main_trait_action_spy_passive_ability</trait>
+<trigger>wh_main_trig_spy_action_success_hinder_settlement</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{e5d9c45b-e1d9-4f7d-a0c3-c8d94a91cc47}" record_timestamp="1454417193139" record_key="8198">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8198</id>
+<trait>wh_main_trait_general_personality_all_fervour</trait>
+<trigger>wh_main_trig_hero_won_battle_land_attacking_decisive_victory</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{73f9b4d7-ffaa-448a-ae0f-4bb3ce3e0f5c}" record_timestamp="1454508060449" record_key="8200">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8200</id>
+<trait>wh_main_trait_grn_orc_warboss_character_killer</trait>
+<trigger>wh_main_trig_grn_orc_warboss_character_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{28dea0f3-7dfa-46ec-8fd2-902d4d8f962c}" record_timestamp="1454508063484" record_key="8208">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8208</id>
+<trait>wh_main_trait_brt_damsel_caster</trait>
+<trigger>wh_main_trig_brt_damsel_caster</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{78d1c0a5-c67e-46b0-8b6f-0c0ecae0b259}" record_timestamp="1454508063604" record_key="8209">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8209</id>
+<trait>wh_main_trait_brt_lord_character_killer</trait>
+<trigger>wh_main_trig_brt_lord_character_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{e808e81a-af07-442f-8ced-27e801ed93fd}" record_timestamp="1454508063034" record_key="8213">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8213</id>
+<trait>wh_main_trait_brt_paladin_unit_killer</trait>
+<trigger>wh_main_trig_brt_paladin_unit_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{d1606982-552b-4a10-8169-e295558509ee}" record_timestamp="1454508063094" record_key="8223">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8223</id>
+<trait>wh_main_trait_chs_exalted_hero_unit_killer</trait>
+<trigger>wh_main_trig_chs_exalted_hero_unit_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c7c4b57f-3f3e-41e0-975b-9188b30ec85f}" record_timestamp="1454508063154" record_key="8227">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8227</id>
+<trait>wh_main_trait_chs_lord_character_killer</trait>
+<trigger>wh_main_trig_chs_lord_character_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{4a03b86f-9a46-4ef0-8c7a-a49fb26be362}" record_timestamp="1454508063224" record_key="8235">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8235</id>
+<trait>wh_main_trait_chs_sorcerer_caster</trait>
+<trigger>wh_main_trig_chs_sorcerer_caster</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{b598ed1c-f292-4f05-8d80-ce9df7642df1}" record_timestamp="1454508062754" record_key="8238">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8238</id>
+<trait>wh_main_trait_chs_sorcerer_lord_caster</trait>
+<trigger>wh_main_trig_chs_sorcerer_lord_caster</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{8e7d7ed8-d09e-44b4-9541-d945a365847e}" record_timestamp="1454508062824" record_key="8247">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8247</id>
+<trait>wh_main_trait_dwf_engineer_caster</trait>
+<trigger>wh_main_trig_dwf_engineer_caster</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{9ad9f372-39ce-4f6e-be23-c20d064bca48}" record_timestamp="1454508062894" record_key="8250">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8250</id>
+<trait>wh_main_trait_dwf_lord_tank</trait>
+<trigger>wh_main_trig_dwf_lord_tank</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{3bd47030-371d-42b3-b157-a7c083ff08d5}" record_timestamp="1454508062964" record_key="8256">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8256</id>
+<trait>wh_main_trait_dwf_runesmith_caster</trait>
+<trigger>wh_main_trig_dwf_runesmith_caster</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{38e4d044-c5fc-4fca-8493-2566faac3d25}" record_timestamp="1454508062504" record_key="8257">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8257</id>
+<trait>wh_main_trait_dwf_thane_unit_killer</trait>
+<trigger>wh_main_trig_dwf_thane_unit_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{900fa96e-d192-499d-ae70-257d14c347bc}" record_timestamp="1454508062574" record_key="8267">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8267</id>
+<trait>wh_main_trait_emp_battle_wizard_caster</trait>
+<trigger>wh_main_trig_emp_battle_wizard_caster</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{25d1066f-dab3-46b2-af85-38355b28de62}" record_timestamp="1454508062634" record_key="8275">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8275</id>
+<trait>wh_main_trait_emp_captain_unit_killer</trait>
+<trigger>wh_main_trig_emp_captain_unit_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{98799cfd-2bff-4270-a3ac-2765f0f52550}" record_timestamp="1454508062694" record_key="8283">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8283</id>
+<trait>wh_main_trait_emp_general_tank</trait>
+<trigger>wh_main_trig_emp_general_tank</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{47a5a6e7-6869-4978-86ad-dbda58fb2c0a}" record_timestamp="1454508062246" record_key="8290">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8290</id>
+<trait>wh_main_trait_emp_warrior_priest_caster</trait>
+<trigger>wh_main_trig_emp_warrior_priest_caster</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{53453878-5477-4fe3-ab44-3b8ebe148d25}" record_timestamp="1454508062306" record_key="8295">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8295</id>
+<trait>wh_main_trait_emp_witch_hunter_character_killer</trait>
+<trigger>wh_main_trig_emp_witch_hunter_character_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{029dad08-fc4c-409c-8716-0ea1b8426422}" record_timestamp="1454508062366" record_key="8302">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8302</id>
+<trait>wh_main_trait_grn_goblin_big_boss_character_killer</trait>
+<trigger>wh_main_trig_grn_goblin_big_boss_character_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{6e303993-8b1d-43e5-af80-0a0406d024ad}" record_timestamp="1454508062422" record_key="8303">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8303</id>
+<trait>wh_main_trait_grn_goblin_great_shaman_caster</trait>
+<trigger>wh_main_trig_grn_goblin_great_shaman_caster</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{2fd12d03-2ae4-4cda-b86b-2ee81adb0211}" record_timestamp="1454508063674" record_key="8307">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8307</id>
+<trait>wh_main_trait_grn_night_goblin_shaman_caster</trait>
+<trigger>wh_main_trig_grn_night_goblin_shaman_caster</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{ea62ba07-e7c2-4d0e-9577-76eee63d324b}" record_timestamp="1454508063734" record_key="8309">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8309</id>
+<trait>wh_main_trait_grn_orc_shaman_caster</trait>
+<trigger>wh_main_trig_grn_orc_shaman_caster</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{39d90d29-944e-4150-a3b4-cdb8a862e4eb}" record_timestamp="1454508063794" record_key="8310">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8310</id>
+<trait>wh_main_trait_vmp_banshee_character_killer</trait>
+<trigger>wh_main_trig_vmp_banshee_character_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{a38d6cb2-3e8b-469a-bf28-dbdcb8794086}" record_timestamp="1454508063864" record_key="8318">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8318</id>
+<trait>wh_main_trait_vmp_lord_character_killer</trait>
+<trigger>wh_main_trig_vmp_lord_character_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{568a87f5-aa64-4c57-a663-d7ddd799228c}" record_timestamp="1454508063284" record_key="8320">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8320</id>
+<trait>wh_main_trait_vmp_master_necromancer_caster</trait>
+<trigger>wh_main_trig_vmp_master_necromancer_caster</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{f5376b23-0b77-4d08-9bd0-f066535bf437}" record_timestamp="1454508063354" record_key="8329">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8329</id>
+<trait>wh_main_trait_vmp_necromancer_caster</trait>
+<trigger>wh_main_trig_vmp_necromancer_caster</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{2b3b2e22-0de7-44bb-bc24-53d59abcd9f9}" record_timestamp="1454508063414" record_key="8339">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8339</id>
+<trait>wh_main_trait_vmp_vampire_unit_killer</trait>
+<trigger>wh_main_trig_vmp_vampire_unit_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{381dcc42-3d7e-48e0-abaf-aa394f306fac}" record_timestamp="1454508063544" record_key="8342">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8342</id>
+<trait>wh_main_trait_vmp_wight_king_tank</trait>
+<trigger>wh_main_trig_vmp_wight_king_tank</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{a896b3c5-01bd-4fe6-9fa5-ca60de486d76}" record_timestamp="1457520931235" record_key="8344">
+<chance>3</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8344</id>
+<trait>wh_main_trait_all_personality_all_sober</trait>
+<trigger>wh_main_trig_has_trait_sober</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{984d6c7b-a28c-4139-8f1a-42f63be41cfd}" record_timestamp="1459940118292" record_key="8346">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8346</id>
+<trait>wh_main_trait_all_personality_all_lucky</trait>
+<trigger>wh_main_trig_general_land_lost_battle</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{e2529021-d6cc-4bea-a91f-6bacf7f181d0}" record_timestamp="1463569372108" record_key="8354">
+<chance>3</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8354</id>
+<trait>wh_main_trait_all_personality_all_likes_greenskins</trait>
+<trigger>wh_main_trig_general_fought_battle_against_greenskins_dwarfs_not_faction_leader</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{9d37f9e2-f3c1-4f29-82e0-bd8d79fe742a}" record_timestamp="1463569372108" record_key="8364">
+<chance>3</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8364</id>
+<trait>wh_main_trait_all_personality_all_likes_greenskins</trait>
+<trigger>wh_main_trig_hero_fought_battle_against_greenskins_dwarfs</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{7805ba46-a243-4fc1-9a53-b6126e06d5ed}" record_timestamp="1468497311706" record_key="8554">
+<chance>3</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8554</id>
+<trait>wh_dlc03_trait_bst_personality_dread</trait>
+<trigger>wh_dlc03_trig_general_won_battle_siege_looted_settlement_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{1cb03784-d4d8-43e9-a726-dcee4bf5e994}" record_timestamp="1468497311706" record_key="8564">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8564</id>
+<trait>wh_dlc03_trait_bst_personality_fury</trait>
+<trigger>wh_dlc03_trig_general_won_battle_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{2118375f-f12a-4aa2-bb6e-11059e2d4751}" record_timestamp="1468497311707" record_key="8573">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8573</id>
+<trait>wh_dlc03_trait_bst_personality_fury</trait>
+<trigger>wh_dlc03_trig_hero_won_battle_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{f4a3780f-2006-48c4-b3a9-db717b2780fa}" record_timestamp="1468497311707" record_key="8583">
+<chance>3</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8583</id>
+<trait>wh_dlc03_trait_bst_personality_mantle</trait>
+<trigger>wh_dlc03_trig_general_won_battle_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{036839bf-b55f-499f-811a-7e88215f0aff}" record_timestamp="1468497311708" record_key="8592">
+<chance>3</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8592</id>
+<trait>wh_dlc03_trait_bst_personality_mantle</trait>
+<trigger>wh_dlc03_trig_hero_won_battle_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{d42174df-c1b4-4814-8b0c-b4ccb3e3dad4}" record_timestamp="1468497311708" record_key="8602">
+<chance>6</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8602</id>
+<trait>wh_dlc03_trait_bst_personality_schemer</trait>
+<trigger>wh_dlc03_trig_general_10_turns_enemy_territory_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{4ad72485-419c-466b-a1b2-30e3a126d50c}" record_timestamp="1468497311709" record_key="8611">
+<chance>3</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8611</id>
+<trait>wh_dlc03_trait_bst_personality_stench</trait>
+<trigger>wh_dlc03_trig_general_won_battle_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{f67b19ce-71b9-4cf0-9d7c-c39a8d1b8c8b}" record_timestamp="1468497311709" record_key="8620">
+<chance>3</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8620</id>
+<trait>wh_dlc03_trait_bst_personality_stench</trait>
+<trigger>wh_dlc03_trig_hero_won_battle_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{80d7789c-3378-4e60-98f5-2431e6c6388e}" record_timestamp="1468497311710" record_key="8627">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8627</id>
+<trait>wh_dlc03_trait_bst_personality_tempter</trait>
+<trigger>wh_dlc03_trig_character_post_battle_release_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{d36dc898-4fa6-4e41-b5a6-9f1346db2c8a}" record_timestamp="1468497311710" record_key="8630">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8630</id>
+<trait>wh_dlc03_trait_bst_personality_touched</trait>
+<trigger>wh_dlc03_trig_general_won_battle_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{abd3b2a6-34da-432b-899a-7b36d7002d41}" record_timestamp="1468497311710" record_key="8639">
+<chance>13</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8639</id>
+<trait>wh_dlc03_trait_bst_personality_touched</trait>
+<trigger>wh_dlc03_trig_hero_won_battle_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{7800d31b-15c8-4f33-a704-863f70e5908f}" record_timestamp="1468497311711" record_key="8645">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8645</id>
+<trait>wh_dlc03_trait_bst_personality_words</trait>
+<trigger>wh_dlc03_trig_general_10_turns_enemy_territory_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{94d35c40-dd7a-471f-85a2-5a6ed2711bb9}" record_timestamp="1468497311711" record_key="8654">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8654</id>
+<trait>wh_dlc03_trait_bst_sorcerer_caster</trait>
+<trigger>wh_dlc03_trig_bst_sorcerer_caster</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{252d0179-c9c4-45aa-b0b1-89c9c11d33e1}" record_timestamp="1468497311712" record_key="8655">
+<chance>4</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8655</id>
+<trait>wh_dlc03_trait_bst_personality_bragger</trait>
+<trigger>wh_dlc03_trig_general_won_battle_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{75b1aad4-7ec5-4257-af9c-77c0f78d4d98}" record_timestamp="1468497311712" record_key="8665">
+<chance>4</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8665</id>
+<trait>wh_dlc03_trait_bst_personality_bragger</trait>
+<trigger>wh_dlc03_trig_hero_won_battle_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{2cc867d1-9418-48e0-8c0c-a0e8003f81c5}" record_timestamp="1468497311713" record_key="8666">
+<chance>12</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8666</id>
+<trait>wh_dlc03_trait_bst_personality_gloomy</trait>
+<trigger>wh_dlc03_trig_general_land_lost_battle_as_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{df876e20-1e4b-4fc1-b438-a56cd9168211}" record_timestamp="1468497311713" record_key="8674">
+<chance>12</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8674</id>
+<trait>wh_dlc03_trait_bst_personality_gloomy</trait>
+<trigger>wh_dlc03_trig_hero_land_lost_battle_as_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{c4391d27-c418-49fa-933c-5415523ca44d}" record_timestamp="1468497311713" record_key="8683">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8683</id>
+<trait>wh_dlc03_trait_bst_government_beastlord</trait>
+<trigger>wh_dlc03_trig_character_enters_garrison_high_public_order_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{dacded40-3a8b-42c3-a932-c9454ce28561}" record_timestamp="1468497311714" record_key="8690">
+<chance>4</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8690</id>
+<trait>wh_dlc03_trait_bst_personality_bully</trait>
+<trigger>wh_dlc03_trig_general_land_lost_battle_as_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{cbbfd993-54ef-4f15-acff-8ab1ef88c3c1}" record_timestamp="1468497311714" record_key="8695">
+<chance>4</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8695</id>
+<trait>wh_dlc03_trait_bst_personality_bully</trait>
+<trigger>wh_dlc03_trig_hero_land_lost_battle_as_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{87310b7b-bfe0-4c4a-b3db-91ca2d8f7d81}" record_timestamp="1468497311715" record_key="8698">
+<chance>75</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8698</id>
+<trait>wh_dlc03_trait_bst_personality_hates_ungors</trait>
+<trigger>wh_dlc03_trig_bst_personality_hates_ungors</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{d01742d0-bac9-412f-96e8-673593ee1b71}" record_timestamp="1468502522988" record_key="8703">
+<chance>20</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8703</id>
+<trait>wh_dlc03_trait_bst_personality_boozer</trait>
+<trigger>wh_dlc03_trig_bst_sorcerer_caster</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{1381dbbb-1183-487c-ae94-f677cdf3e858}" record_timestamp="1468497311716" record_key="8711">
+<chance>20</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8711</id>
+<trait>wh_dlc03_trait_bst_personality_rutter</trait>
+<trigger>wh_dlc03_trig_general_won_battles_beastmen</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{e79ab8d7-cfd0-416e-a3be-d366bcd65826}" record_timestamp="1468497311716" record_key="8720">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8720</id>
+<trait>wh_dlc03_trait_bst_hero_unit_killer</trait>
+<trigger>wh_dlc03_trig_bst_hero_unit_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{f0296e4c-970c-46c1-895c-b192bb94e8fd}" record_timestamp="1468497311717" record_key="8730">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8730</id>
+<trait>wh_dlc03_trait_bst_hero_character_killer</trait>
+<trigger>wh_dlc03_trig_bst_hero_character_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{867a0e4d-493d-4c9a-8724-fce2946abf7f}" record_timestamp="1468497311717" record_key="8740">
+<chance>100</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8740</id>
+<trait>wh_dlc03_trait_bst_lord_character_serial_killer</trait>
+<trigger>wh_dlc03_trig_bst_lord_character_serial_killer</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{5519452e-df99-4264-bccf-63ff2df55c0f}" record_timestamp="1479325971179" record_key="8743">
+<chance>50</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8743</id>
+<trait>wh_dlc05_trait_wef_general_stealth</trait>
+<trigger>wh_dlc05_trig_general_won_battle_ambush_attacking_wood_elves</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{9d0ef167-91ad-4bb5-81e7-87369a484c3b}" record_timestamp="1479325971177" record_key="8751">
+<chance>25</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8751</id>
+<trait>wh_dlc05_trait_wef_general_animal_mastery</trait>
+<trigger>wh_dlc05_trig_general_won_battle_with_animals</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{ed52aae3-dca6-43c1-b031-700b9ce1db77}" record_timestamp="1479325971183" record_key="8754">
+<chance>25</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8754</id>
+<trait>wh_dlc05_trait_wef_general_plant_mastery</trait>
+<trigger>wh_dlc05_trig_general_won_battle_with_trees</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{2c9c5ece-64cb-4efc-be73-9f752d52d1aa}" record_timestamp="1479325971181" record_key="8764">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8764</id>
+<trait>wh_dlc05_trait_wef_general_wardancer</trait>
+<trigger>wh_dlc05_trig_general_won_battle_wood_elves</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{8ea98f3f-53a7-434d-80e8-f7d4961e4517}" record_timestamp="1479325971186" record_key="8774">
+<chance>10</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8774</id>
+<trait>wh_dlc05_trait_wef_general_spellsinger</trait>
+<trigger>wh_dlc05_trig_character_rank_up_wood_elves_wizard</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{22ce4b6a-120f-4656-bbcc-98fbda1b3c5d}" record_timestamp="1479325971184" record_key="8778">
+<chance>50</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8778</id>
+<trait>wh_dlc05_trait_wef_general_stealth</trait>
+<trigger>wh_dlc05_trig_character_rank_up_in_worldroots_stance</trigger>
+<value>1</value>
+</trigger_effects>
+<trigger_effects record_uuid="{65b74163-6de6-45a7-b0d8-fdd603f4797c}" record_timestamp="1479325971188" record_key="8788">
+<chance>5</chance>
+<game_expansion_key>tentpole</game_expansion_key>
+<id>8788</id>
+<trait>wh_dlc05_trait_wef_general_wardancer</trait>
+<trigger>wh_dlc05_trig_hero_won_battle_wood_elves</trigger>
+<value>1</value>
+</trigger_effects>
+</dataroot>

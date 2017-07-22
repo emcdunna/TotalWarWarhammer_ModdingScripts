@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="audio_projectile_bombardments.xsd" export_time="Thu Feb 2 17:44:32 2017" revision="12" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>cc26e801-2efa-4f14-bca9-5061b852b848</edit_uuid>
+<audio_projectile_bombardments record_uuid="{2adce9c0-89f1-4e5e-9fae-d5f691bebf57}" record_timestamp="1481042443345" record_key="wh_dlc05_ability_the_bow_of_loren_bombardment">
+<event>Battle_IND_Magic_The_Bow_Of_Loren_Conjure_Oneshot</event>
+<key>wh_dlc05_ability_the_bow_of_loren_bombardment</key>
+<max_attenuation>1000</max_attenuation>
+<obstruction_size>70</obstruction_size>
+<use_reverb>1</use_reverb>
+</audio_projectile_bombardments>
+<audio_projectile_bombardments record_uuid="{5496d276-bc31-4ce2-b0b1-92b8b34abb44}" record_timestamp="1486057472256" record_key="wh_dlc07_ability_chalice_of_potions">
+<event>Battle_IND_Magic_Bretonnia_Chalice_of_Potions_Conjure</event>
+<key>wh_dlc07_ability_chalice_of_potions</key>
+<max_attenuation>1000</max_attenuation>
+<obstruction_size>70</obstruction_size>
+<use_reverb>1</use_reverb>
+</audio_projectile_bombardments>
+<audio_projectile_bombardments record_uuid="{8fa6feff-b508-40ed-9311-6a8b90aecc1b}" record_timestamp="1459932328411" record_key="wh_main_spell_fire_piercing_bolts_of_burning">
+<event>Battle_IND_Magic_Fire_Piercing_Bolts_of_Burning_Conjure_Oneshot</event>
+<key>wh_main_spell_fire_piercing_bolts_of_burning</key>
+<max_attenuation>1000</max_attenuation>
+<obstruction_size>70</obstruction_size>
+<use_reverb>1</use_reverb>
+</audio_projectile_bombardments>
+<audio_projectile_bombardments record_uuid="{21d1016d-504d-40c5-b4b4-91d369d17db7}" record_timestamp="1459937692222" record_key="wh_main_spell_heavens_comet_of_casandora">
+<event>Battle_IND_Magic_Heavens_Comet_Conjure</event>
+<key>wh_main_spell_heavens_comet_of_casandora</key>
+<max_attenuation>1000</max_attenuation>
+<obstruction_size>70</obstruction_size>
+<use_reverb>1</use_reverb>
+</audio_projectile_bombardments>
+<audio_projectile_bombardments record_uuid="{3b03184b-3be4-4925-9343-814f50156997}" record_timestamp="1459932328412" record_key="wh_main_spell_heavens_urannons_thunderbolt">
+<event>Battle_IND_Magic_Heavens_Urannons_Thunderbolt_Conjure_Oneshot</event>
+<key>wh_main_spell_heavens_urannons_thunderbolt</key>
+<max_attenuation>1000</max_attenuation>
+<obstruction_size>70</obstruction_size>
+<use_reverb>1</use_reverb>
+</audio_projectile_bombardments>
+<audio_projectile_bombardments record_uuid="{2d17b2da-472e-4203-a785-e305ffce2924}" record_timestamp="1459932328411" record_key="wh_main_spell_metal_searing_doom">
+<event>Battle_IND_Magic_Metal_Searing_Doom_Conjure_Oneshot</event>
+<key>wh_main_spell_metal_searing_doom</key>
+<max_attenuation>1000</max_attenuation>
+<obstruction_size>70</obstruction_size>
+<use_reverb>1</use_reverb>
+</audio_projectile_bombardments>
+</dataroot>

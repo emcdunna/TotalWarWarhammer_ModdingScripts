@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texc_expansions.xsd" export_time="Fri Jan 6 09:15:37 2017" revision="21" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>3fc7ad8d-b58b-426f-965e-8f6c3f7a85c4</edit_uuid>
+<texc_expansions record_uuid="{fe72fe67-2770-4ea7-990e-73ae0913d46a}" record_timestamp="1468497311964" record_key="beastmen">
+<autodetected_tables></autodetected_tables>
+<description>Beastmen DLC</description>
+<expansion>beastmen</expansion>
+<key_substring></key_substring>
+<pack_filename_extension>bm</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{59a67b5b-9bea-4de1-8596-c2deee4dba90}" record_timestamp="1468497311988" record_key="blood_pack">
+<autodetected_tables>incidents,effects,effect_bundles,particle_effects</autodetected_tables>
+<description>Blood Pack DLC</description>
+<expansion>blood_pack</expansion>
+<key_substring>dlc02_</key_substring>
+<pack_filename_extension>bl</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{9eac2291-5563-46e9-bfa6-e4bb2ec7767d}" record_timestamp="1460468870275" record_key="bretonnia_everyone">
+<autodetected_tables></autodetected_tables>
+<description>Bretonnia DLC records that everyone will get</description>
+<expansion>bretonnia_everyone</expansion>
+<key_substring>dlc07_</key_substring>
+<pack_filename_extension>br_</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{fe95d839-cb75-4a8e-bfdb-002966543ba7}" record_timestamp="1460468870227" record_key="bretonnia_owners">
+<autodetected_tables></autodetected_tables>
+<description>Bretonnia DLC</description>
+<expansion>bretonnia_owners</expansion>
+<key_substring></key_substring>
+<pack_filename_extension>br</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{d4efa208-0b8f-4fcc-b78a-254220b84726}" record_timestamp="1468497312013" record_key="chaos">
+<autodetected_tables></autodetected_tables>
+<description>Chaos DLC</description>
+<expansion>chaos</expansion>
+<key_substring></key_substring>
+<pack_filename_extension>ch</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{4c5a9829-4104-4867-9528-2980d17b8799}" record_timestamp="1479307764087" record_key="lord_and_units_1_everyone">
+<autodetected_tables></autodetected_tables>
+<description>Lord &amp; Units 1 records that everyone will get</description>
+<expansion>lord_and_units_1_everyone</expansion>
+<key_substring></key_substring>
+<pack_filename_extension>lu_</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{9e715eee-c812-43d9-a6d2-bc0effc5101b}" record_timestamp="1454494646656" record_key="lord_and_units_1_owners">
+<autodetected_tables></autodetected_tables>
+<description>Lord &amp; Units 1 DLC</description>
+<expansion>lord_and_units_1_owners</expansion>
+<key_substring></key_substring>
+<pack_filename_extension>lu</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{99c5145f-bdcf-4b90-aeb8-6d926b1f9929}" record_timestamp="1460467167593" record_key="lord_and_units_2_everyone">
+<autodetected_tables></autodetected_tables>
+<description>Lord &amp; Units 2 DLC records that everyone will get</description>
+<expansion>lord_and_units_2_everyone</expansion>
+<key_substring>dlc06_</key_substring>
+<pack_filename_extension>lu2_</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{af254644-e700-460a-9c65-154bd3a83c4c}" record_timestamp="1454494646681" record_key="lord_and_units_2_owners">
+<autodetected_tables></autodetected_tables>
+<description>Lord &amp; Units 2</description>
+<expansion>lord_and_units_2_owners</expansion>
+<key_substring></key_substring>
+<pack_filename_extension>lu2</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{5fccc3a5-6899-4f53-902a-d331ba24a419}" record_timestamp="1465231561353" record_key="promo_1_everyone">
+<autodetected_tables></autodetected_tables>
+<description>Promo 1 records that everyone will get</description>
+<expansion>promo_1_everyone</expansion>
+<key_substring>pro01_</key_substring>
+<pack_filename_extension>pro01</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{c6a89c31-c908-4005-af8d-86a172a36dbb}" record_timestamp="1465231561352" record_key="promo_1_owners">
+<autodetected_tables></autodetected_tables>
+<description>Promo 1</description>
+<expansion>promo_1_owners</expansion>
+<key_substring></key_substring>
+<pack_filename_extension>pro01_</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{cf0cd7a5-a704-4f78-85ee-450a5c61a114}" record_timestamp="1465231561353" record_key="promo_2_everyone">
+<autodetected_tables></autodetected_tables>
+<description>Promo 1 records that everyone will get</description>
+<expansion>promo_2_everyone</expansion>
+<key_substring>pro02_</key_substring>
+<pack_filename_extension>pro02</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{c0b77268-3303-4550-a769-ed46ece57ddc}" record_timestamp="1465231561352" record_key="promo_2_owners">
+<autodetected_tables></autodetected_tables>
+<description>Promo 2</description>
+<expansion>promo_2_owners</expansion>
+<key_substring></key_substring>
+<pack_filename_extension>pro02_</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{816b6698-8621-45aa-8efb-9d3a07d5e6ed}" record_timestamp="1468499498996" record_key="tentpole">
+<autodetected_tables></autodetected_tables>
+<description>First release</description>
+<expansion>tentpole</expansion>
+<key_substring></key_substring>
+<pack_filename_extension>1</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{31921807-435f-4e84-84bd-fc77b8cc262b}" record_timestamp="1479307764087" record_key="wood_elves_everyone">
+<autodetected_tables></autodetected_tables>
+<description>Wood Elves DLC records that everyone will get</description>
+<expansion>wood_elves_everyone</expansion>
+<key_substring></key_substring>
+<pack_filename_extension>we_</pack_filename_extension>
+</texc_expansions>
+<texc_expansions record_uuid="{0f5ffa3d-66e5-4347-8285-bb1f076a25a5}" record_timestamp="1454494646768" record_key="wood_elves_owners">
+<autodetected_tables></autodetected_tables>
+<description>Wood Elves DLC</description>
+<expansion>wood_elves_owners</expansion>
+<key_substring></key_substring>
+<pack_filename_extension>we</pack_filename_extension>
+</texc_expansions>
+</dataroot>

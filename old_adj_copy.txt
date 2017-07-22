@@ -1,0 +1,41 @@
+from total_war_module import *
+
+def copy_and_rename_dds(filename):
+	pass
+
+for line in sys.stdin:
+	lnlst = read_line_as_tsv(line)
+	
+	if "END OF" in lnlst[0]:
+		# process the stack
+		pass
+		
+	if len(lnlst) < 3:
+		pass
+	else:
+		if lnlst[2] != "") and ("ile not found" not in lnlst[2]):
+			repchar == lnlst[2][0]
+			filetype = lnlst[0]
+			usage_flag = None
+			if lnlst[0] == "dds_file":
+				filename = variant_mesh_root_dir + model_subdir + lnlst[1] + dds_f_ext
+				usage_flag = "dds"
+			elif lnlst[0] == "rigidmodel":
+				filename = variant_mesh_root_dir + model_subdir + lnlst[1] + rm_f_ext
+				usage_flag = "rm"
+			elif lnlst[0] == "variantmesh":
+				filename = variant_mesh_root_dir + mesh_subdir + lnlst[1] + vm_f_ext
+				usage_flag = "vm"
+			else:
+				filename = None			
+				
+			if usage_flag == "dds":
+				# create new dds and rename
+				pass
+			elif usage flag == "rm":
+				# find and replace the references to dds files, save as a new name
+				pass
+			elif 
+
+			
+			

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_cdir_events_options>
+<root>
+<edit_uuid>b8aa836d-d67c-4052-82a2-1d57be520e7f</edit_uuid>
+<field>
+<field_uuid>{5d00589a-c9f1-48f4-b652-80ebd5b211e4}</field_uuid>
+<primary_key>1</primary_key>
+<name>option_key</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+</field>
+<field>
+<field_uuid>{a8e82028-a22d-4536-8d98-c53097bf7038}</field_uuid>
+<primary_key>0</primary_key>
+<name>notes</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+</field>
+</root>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="resources.xsd" export_time="Fri Jan 13 12:55:25 2017" revision="58" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>fd6c4ea9-7023-4349-89c7-77542ef23d70</edit_uuid>
+<resources record_uuid="{d4ffa88d-d201-45d4-ba29-129945327e98}" record_timestamp="1457606547037" record_key="res_dyes">
+<description state="APPROVED" last_approved_text="The creation of dyes to feed the burgeoning fashions of the courts of the Old World is a vibrant industry indeed." last_edit_user="bob">The creation of dyes to feed the burgeoning fashions of the courts of the Old World is a vibrant industry indeed.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_dyes.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_dyes</key>
+<long_description state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Dyes" last_edit_user="bob">Dyes</onscreen_text>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>ounce</unit>
+</resources>
+<resources record_uuid="{6ae83150-d6a8-4775-a147-a83efed8a684}" record_timestamp="1459936820438" record_key="res_gems">
+<description state="APPROVED" last_approved_text="Gems hold great value for they are precious and prized, with only the occasional Daemon imprisoned within." last_edit_user="bob">Gems hold great value for they are precious and prized, with only the occasional Daemon imprisoned within.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_gemstones.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_gems</key>
+<long_description state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Gemstones" last_edit_user="bob">Gemstones</onscreen_text>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>sacks</unit>
+</resources>
+<resources record_uuid="{c07eaaee-fa99-4f94-ab6d-dab50d4d7659}" record_timestamp="1452785481214" record_key="res_gold">
+<description state="APPROVED" last_approved_text="The presence of gold is a sign that a mine can be placed and the wealth it brings harvested." last_edit_user="bob">The presence of gold is a sign that a mine can be placed and the wealth it brings harvested.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_gold.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_gold</key>
+<long_description state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Gold" last_edit_user="bob">Gold</onscreen_text>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit>chests</unit>
+</resources>
+<resources record_uuid="{975b7d41-ab12-46e3-85c3-6f633760fc4c}" record_timestamp="1456481693227" record_key="res_location_dwf">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Dwarf realms." last_edit_user="bob">This location is of special importance to the Dwarf realms.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_dwf</key>
+<long_description state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{ca53bbdc-afa4-4058-8ffd-e3cc5895c6e4}" record_timestamp="1474283900107" record_key="res_location_dwf_grn">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Dwarf realms and the Greenskin Tribes." last_edit_user="bob">This location is of special importance to the Dwarf realms and the Greenskin Tribes.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_dwf_grn</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{d4ac8505-b2ee-467e-a398-fdc1245983fa}" record_timestamp="1456481693227" record_key="res_location_emp">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Empire provinces." last_edit_user="bob">This location is of special importance to the Empire provinces.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_emp</key>
+<long_description state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{584c2645-6947-413b-83a0-9bda6eb87d5d}" record_timestamp="1456481693227" record_key="res_location_emp_brt">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Empire provinces and Bretonnian kingdoms." last_edit_user="bob">This location is of special importance to the Empire provinces and Bretonnian kingdoms.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_emp_brt</key>
+<long_description state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{c66ed2d3-22eb-4ddc-b942-1eda3512148e}" record_timestamp="1456481693227" record_key="res_location_emp_vmp">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Empire provinces and the Undead." last_edit_user="bob">This location is of special importance to the Empire provinces and the Undead.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_emp_vmp</key>
+<long_description state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{d3b4c99b-b48c-49a3-b583-d625c61640d6}" record_timestamp="1456481693227" record_key="res_location_emp_vmp_brt">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Empire provinces, Bretonnian kingdoms, and the Undead." last_edit_user="bob">This location is of special importance to the Empire provinces, Bretonnian kingdoms, and the Undead.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_emp_vmp_brt</key>
+<long_description state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{fbc44e12-e929-4ac0-8647-b58c8fc04166}" record_timestamp="1456481693227" record_key="res_location_grn">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Greenskin Tribes." last_edit_user="bob">This location is of special importance to the Greenskin Tribes.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_grn</key>
+<long_description state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{d89f3d3a-6008-4cc6-adf3-050ce8a78278}" record_timestamp="1456481693227" record_key="res_location_teb">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Southern realms." last_edit_user="bob">This location is of special importance to the Southern realms.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_teb</key>
+<long_description state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{3b60c06f-e1ad-4cf6-b808-70b90a3ec902}" record_timestamp="1456481693227" record_key="res_location_vmp">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Undead." last_edit_user="bob">This location is of special importance to the Undead.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_vmp</key>
+<long_description state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{07ef6c1d-d3a4-4b3f-91b0-7e672d5520ac}" record_timestamp="1459936820437" record_key="res_rom_furs">
+<description state="APPROVED" last_approved_text="Fauna and game are worth hunting for both food and furs. Of course, in the Old World's forests, a hunter must be wary of becoming the hunted." last_edit_user="bob">Fauna and game are worth hunting for both food and furs. Of course, in the Old World's forests, a hunter must be wary of becoming the hunted.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_furs.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_furs</key>
+<long_description state="IGNORED" last_approved_text="People have been using hides to protect and clothe themselves ever since they could trap and kill animals. Archaeological evidence for this goes back to the Palaeolithic period. As animal husbandry was developed, the use and availability of hides increased. Tanning evolved to make more durable and versatile leather instead of rawhide. Documentary evidence of tanning goes back, as is so often the case, to the Egyptians. All manner of fairly repulsive substances were used to tan leather, from tannins in tree bark to faeces and animal brains. Tanning was a smelly, dirty and even lethally poisonous trade, and it was usually banished to the outskirts of towns. The leather produced was extremely useful, and this compensated for the foul process. Waterskins, bags, boats, armour, sandals, boots, scabbards, harnesses, and much else besides." last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Furs" last_edit_user="bob">Furs</onscreen_text>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>bundle</unit>
+</resources>
+<resources record_uuid="{0bd514c4-c8b2-4688-a575-b1a758b4b9a2}" record_timestamp="1459936820444" record_key="res_rom_glass">
+<description state="APPROVED" last_approved_text="Beer is incredibly important to Dwarfs and men alike, although the watery brews of the umgi are rightly shunned by thirsty Dawi." last_edit_user="bob">Beer is incredibly important to Dwarfs and men alike, although the watery brews of the umgi are rightly shunned by thirsty Dawi.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_dwarf_beer.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_glass</key>
+<long_description state="IGNORED" last_approved_text="Glass does occur naturally, but the first man-made glass was probably Egyptian from 3500BC. As with many ideas, the Romans took an earlier traditions, expanded on it and spread the making and use of glass across the Empire. Along with pottery, glass was a material for the middle and lower social classes; the wealthy used gold and silver instead. Glass was made by melting silica sand. The technique of blowing glass was discovered in the 1st Century BC and, after the Roman conquest of Egypt in 27BC, glass-making techniques spread throughout the Roman world. It is estimated that over 13 billion items of glassware were produced during the seven centuries that Rome controlled the Mediterranean. It was used primarily for containers for everything from lamp oil lamps to perfume, but it was also made into decorative objects and plates." last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Dwarf Beer" last_edit_user="bob">Dwarf Beer</onscreen_text>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>kegs</unit>
+</resources>
+<resources record_uuid="{b89a390e-1e85-46a8-8afb-782c7ea58df0}" record_timestamp="1452785481215" record_key="res_rom_iron">
+<description state="APPROVED" last_approved_text="Iron ore can be fashioned into many things, but in these lands it is mainly used for weapons. Of course, some races are better at metallurgy than others." last_edit_user="bob">Iron ore can be fashioned into many things, but in these lands it is mainly used for weapons. Of course, some races are better at metallurgy than others.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_iron.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_iron</key>
+<long_description state="IGNORED" last_approved_text="It seems it was the Hittites who first used iron weapons while fighting the Egyptians, even though iron was not as resilient as bronze. Early iron was of variable quality, and more brittle than bronze, but it was cheaper and abundant; iron, after all, is an elemental material, not an alloy like bronze. Moulds were rarely used in the ancient world to create the weapons. Instead smiths laboriously smelted the ore at high temperature, breaking the iron free from the slag before shaping it during a hard process of firing and hammering. Iron was used for spear and arrow heads, swords and armour. A well-made iron weapon, however, would cut through bronze. " last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Iron" last_edit_user="bob">Iron</onscreen_text>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>ingot</unit>
+</resources>
+<resources record_uuid="{1dd4b13f-929a-47f3-9511-066966d12152}" record_timestamp="1452785481216" record_key="res_rom_lead">
+<description state="APPROVED" last_approved_text="Salt can be taken from the sea or the mines. It is a useful commodity and not just a way for Halfling cooks to season meat." last_edit_user="bob">Salt can be taken from the sea or the mines. It is a useful commodity and not just a way for Halfling cooks to season meat.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_salt.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_lead</key>
+<long_description state="IGNORED" last_approved_text="Lead has been used for thousands of years in all sorts of ways as it is easy to smelt, and easy to work either by casting or hammering into shape. The Romans were great users of lead, with some estimates going as high as 80,000 tonnes per year. Lead was extracted from galena ore that was a by-product of mining for silver. The Romans used this lead, or plumbum, to line baths and make their water pipes, and this use for water pipes gave English the word &quot;plumber&quot;, literally a worker in lead. The Romans and Greeks also produced lead coins and used it in construction. Some boxing gladiators used lead as knuckle covers. The Egyptians used lead to glaze pottery while the Babylonians and Assyrians used lead sheets in buildings. However, lead is a rather toxic material, and some even believe lead pollution contributed to the downfall of the Roman Empire. Roman atmospheric lead pollution can be measured today in ancient ice core samples." last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Salt" last_edit_user="bob">Salt</onscreen_text>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>barrels</unit>
+</resources>
+<resources record_uuid="{3bcf4390-c46a-4b27-b38c-4b19186d2964}" record_timestamp="1459936820443" record_key="res_rom_marble">
+<description state="APPROVED" last_approved_text="Marble is a valuable and exotic material mainly used in grandstanding buildings, having great value within the nations of man." last_edit_user="bob">Marble is a valuable and exotic material mainly used in grandstanding buildings, having great value within the nations of man.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_marble.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_marble</key>
+<long_description state="IGNORED" last_approved_text="Stone is the most readily-available building material for humans after wood. Even bricks require more effort and energy than stoneworking. Granite, marble and limestone were quarried and used for construction and decorative art by all the classical cultures of Greece, Egypt, Persia, Rome and beyond. The toughness and durability of granite, for example, made it perfect for the Pharaohs' burial tombs that were supposed to last for eternity. The granite King’s Chamber inside the Great Pyramid of Cheops, the only Wonder to have survived to the present day, is still virtually airtight nearly five thousand years after it was constructed. The Egyptians used limestone for the cladding on the outside of the pyramids because of its beauty. Limestone was a sensible choice given the dry Egyptian climate, but elsewhere rain and time have done terrible damage to limestone buildings and carvings. The Greeks and Romans preferred to use marble for their ornamental buildings and statues, at least as far as decoration was concerned. Augustus boasted that he turned Rome from a city of brick to a city of marble. Granite was often used for columns, city walls and, as chippings, for the famous Roman Roads." last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Marble" last_edit_user="bob">Marble</onscreen_text>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>slabs</unit>
+</resources>
+<resources record_uuid="{da16f764-690e-4e87-9cf7-6ddef46bd4cb}" record_timestamp="1452785481215" record_key="res_rom_oil">
+<description state="APPROVED" last_approved_text="Pastures are rare places of peace for animals to graze, where farmers can tend to their herds and flocks." last_edit_user="bob">Pastures are rare places of peace for animals to graze, where farmers can tend to their herds and flocks.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_grain.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_oil</key>
+<long_description state="IGNORED" last_approved_text="The wild olive tree originated in Asia Minor and Greece; the first cultivation may have been on Crete around 2500BC. In Greek legend, Athena bestowed the gift of the olive tree on the people who named their city, Athens, after her; Poseidon, her competitor, had offered the city fathers a well of saltwater. The olive became hugely important in Hellenistic culture with leaves used to crown athletes and champions, and Spartans and Greeks rubbing the oil on themselves before exercise and competition. Olive oil was exported to Egypt and Rome and then across the Mediterranean. The olive tree and its branches became a symbol of peace given to colonies to mark their surrender. With Rome’s expansion the trees spread further across the becoming, like wine and gold, a symbol of civilisation." last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Pastures" last_edit_user="bob">Pastures</onscreen_text>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{c8cc4c82-336b-452c-a0a6-855d709288f7}" record_timestamp="1452785481216" record_key="res_rom_textiles">
+<description state="APPROVED" last_approved_text="From clay comes ceramics that range from basic bowls to more delicate and extravagant items." last_edit_user="bob">From clay comes ceramics that range from basic bowls to more delicate and extravagant items.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_pottery.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_textiles</key>
+<long_description state="IGNORED" last_approved_text="The luxury textiles trade was extremely lucrative because clothing and decorative fabrics were an obvious sign of status and prestige. Silk, for example, was a jealously guarded Chinese secret for over two thousand years, and highly valued whenever it was traded in Europe. Once the Silk Road was opened up in the 1st Century BC silk became highly desirable and, although considered by some to be immoral and decadent, it was always very profitable. Another cloth related product was Tyrian, or Imperial, purple. This dye was used for royal and ceremonial robes and produced from the Murex, a mollusc. It was a beautiful colour but, more importantly, it did not fade. It took thousands of shellfish to extract even small quantities of dye. The Phoenicians, whose name derives from the Greek word for purple, and their colony at Carthage, traded the dye across the Mediterranean." last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Pottery" last_edit_user="bob">Pottery</onscreen_text>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>kilnful</unit>
+</resources>
+<resources record_uuid="{cdf31148-2ea6-43e3-948d-094b669acd7a}" record_timestamp="1452785481218" record_key="res_rom_timber">
+<description state="APPROVED" last_approved_text="Wood is a flexible resource, used in anything from buildings to hand weapons. Just be careful which trees you take it from, as some won't take kindly to being felled." last_edit_user="bob">Wood is a flexible resource, used in anything from buildings to hand weapons. Just be careful which trees you take it from, as some won't take kindly to being felled.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_timber.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_timber</key>
+<long_description state="IGNORED" last_approved_text="Wood has been a vital resource for as long as people could cut trees down. Wood was the both fuel and a material for construction, transport, warfare, furniture making and even the arts. Timber framing as a technique for constructing large buildings started in Rome and other cultures used wooden roofing. The early design of mortice-and-tenon joint was found in Egyptian furniture from 2500BC and its use spread throughout Europe and the Middle East. Although stone was used in many advanced cultures for construction, wood remained the basic building material for many peoples. And there was nothing else but wood if a people wanted to go to sea. Boat- and ship-building developed throughout the ages and secure timber supplies were crucial to establishing a navy. Egypt in particular fought many campaigns to secure good supplies of ship-worthy timber." last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Timber" last_edit_user="bob">Timber</onscreen_text>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>logs</unit>
+</resources>
+<resources record_uuid="{72af667c-7baa-48c4-b3e3-52e643a4a11e}" record_timestamp="1452785481218" record_key="res_rom_wine">
+<description state="APPROVED" last_approved_text="While a High Elf would turn his nose up at it, Bretonnian wine is said to be the best - although the southern wineries of the Empire are now challenging its prominence." last_edit_user="bob">While a High Elf would turn his nose up at it, Bretonnian wine is said to be the best - although the southern wineries of the Empire are now challenging its prominence.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_wine.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_wine</key>
+<long_description state="IGNORED" last_approved_text="Wine-making has been a part of the diet and culture of western civilisations for thousands of years. The growing and fermenting of grapes began as early 7000BC in what is now the Caucasus. Wine was transported across the Ancient world in the very-recognisable amphorae. To the ancient peoples it was not so much a pleasant drink or a pastime but more a religion. Wine deities are found in every pantheon: Shezmu in Egypt, Bachus in Rome and Dionysus in Greece all looked after the products of fermented grapes. It played an important role in the ceremonial lives of the Egyptians and Greeks. Wherever the Romans conquered they also traded, settled and drank wine. This accounts for the spread of viticulture throughout the Empire years. The major wine regions and grape varieties of France, Italy and Spain we know today can all be traced back to the Romans' love of wine. However, the Romans would have thought modern drinkers were barbaric for drinking wine undiluted. A civilised man always drank one part wine to at least two parts water!" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Wine" last_edit_user="bob">Wine</onscreen_text>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>barrels</unit>
+</resources>
+<resources record_uuid="{5b99c4ad-2de1-41f2-bb69-3c1b802aa414}" record_timestamp="1452785481217" record_key="res_savage">
+<description state="APPROVED" last_approved_text="This area is sacred to the Savage Orcs; at some point the Greenskins' tribal migration will bring them to this area." last_edit_user="bob">This area is sacred to the Savage Orcs; at some point the Greenskins' tribal migration will bring them to this area.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_savage_orcs.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_savage</key>
+<long_description state="IGNORED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Savage Orcs" last_edit_user="bob">Savage Orcs</onscreen_text>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+</dataroot>

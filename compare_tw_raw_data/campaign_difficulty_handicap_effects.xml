@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_difficulty_handicap_effects.xsd" export_time="Thu Nov 24 16:49:31 2016" revision="107" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e9188fc4-3ca7-4f50-b595-9dde994afb51</edit_uuid>
+<campaign_difficulty_handicap_effects record_uuid="{a89a3f11-f4b9-472a-b5fc-f1556fb13359}" record_timestamp="1465229859386" record_key="-1falsewh_main_effect_agent_action_success_chance">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_agent_action_success_chance</effect>
+<effect_scope>faction_to_character_own</effect_scope>
+<effect_value>-10</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{79cd2d5a-2a42-4754-89fa-641331d8a430}" record_timestamp="1454681821956" record_key="-1falsewh_main_effect_building_construction_cost_mod">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_construction_cost_mod</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>0</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{ab8df946-d323-40b3-82f9-feab0fca92b0}" record_timestamp="1425557314656" record_key="-1falsewh_main_effect_building_trade_route_sea_hidden">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_trade_route_sea_hidden</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>500</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{130816e3-fbdf-4f70-bb29-58df9430f593}" record_timestamp="1425557325518" record_key="-1falsewh_main_effect_conquest_resistance_to_occupation_mod">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_conquest_resistance_to_occupation_mod</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>10</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{7ae3ce92-bec0-43e8-ba66-801c881e8967}" record_timestamp="1455626138860" record_key="-1falsewh_main_effect_economy_tax_mod">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_economy_tax_mod</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>-20</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{9cc1f56d-3981-40cd-950d-c60b7b6b32da}" record_timestamp="1459933528713" record_key="-1falsewh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>0</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{7edb4172-635b-4484-a397-75c31785670d}" record_timestamp="1459933528714" record_key="-1falsewh_main_effect_faction_mercenary_levy_units_per_region_mod">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_units_per_region_mod</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>-1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{45c640da-cf1d-4025-8c88-c1b5b7583e4a}" record_timestamp="1480006171047" record_key="-1falsewh_main_effect_force_all_campaign_recruitment_cost_all">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_recruitment_cost_all</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>0</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{3c119595-dc52-451c-8e61-caf5398f6597}" record_timestamp="1425557415071" record_key="-1falsewh_main_effect_force_all_campaign_replenishment_rate">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_replenishment_rate</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>5</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{b87e6842-90f8-4895-b544-54fd04da286a}" record_timestamp="1454083989038" record_key="-1falsewh_main_effect_force_army_campaign_attrition_chaos_territory">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_chaos_territory</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-30</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{66e92106-45fb-4d93-9648-64ab5fde8e02}" record_timestamp="1425557448818" record_key="-1falsewh_main_effect_force_army_campaign_attrition_desert_resistance">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_desert_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-30</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{b3232d28-cd3b-42f8-9d01-224a1427a938}" record_timestamp="1453129697614" record_key="-1falsewh_main_effect_force_army_campaign_attrition_infighting_immunity">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_infighting_immunity</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{69f7bbee-4ffd-48c0-9884-77509988ab6f}" record_timestamp="1445603857399" record_key="-1falsewh_main_effect_force_army_campaign_attrition_non_vampire_count_territory">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_non_vampire_count_territory</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-30</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{ea1c9dde-ac83-4abc-babe-53b2ddcc59db}" record_timestamp="1425557449926" record_key="-1falsewh_main_effect_force_army_campaign_attrition_snow_resistance">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_snow_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-30</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{61d2d59d-bb95-40c4-86b4-ac3161937afb}" record_timestamp="1425557451269" record_key="-1falsewh_main_effect_force_army_campaign_attrition_swamp_resistance">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_swamp_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-30</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{528941a9-495c-4a89-b916-c741184bac75}" record_timestamp="1432639812301" record_key="-1falsewh_main_effect_force_army_campaign_recruitment_points">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_recruitment_points</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>3</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{a304c37d-78ad-4028-bf2f-26422007cb31}" record_timestamp="1425557485546" record_key="-1falsewh_main_effect_force_navy_campaign_attrition_high_seas_resistance">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_navy_campaign_attrition_high_seas_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-30</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{d53d4560-08a0-4a09-89a4-439a8651f08b}" record_timestamp="1425557530542" record_key="-1falsewh_main_effect_growth_all">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_growth_all</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>0</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{69a719fe-d4da-4577-97ca-850c7274c558}" record_timestamp="1425557532461" record_key="-1falsewh_main_effect_hordebuilding_growth_core">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_hordebuilding_growth_core</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{86ab00fb-bd20-4ed5-aad4-484087412d4a}" record_timestamp="1425557536298" record_key="-1falsewh_main_effect_occupation_decision_colonise_cost_zero">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_occupation_decision_colonise_cost_zero</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>-1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{4f003809-2dfb-45e2-95dd-75d32cb45864}" record_timestamp="1425557567018" record_key="-1falsewh_main_effect_public_order_difficulty_level">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_public_order_difficulty_level</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>2</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{9474b7f2-0f3a-4d79-8873-08e897d4e9e3}" record_timestamp="1445536185597" record_key="-1falsewh_main_effect_unit_recruitment_points">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>2</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{208bdb40-83a8-4a7e-a195-a2bf0384565f}" record_timestamp="1445536185733" record_key="-1falsewh_main_effect_unit_recruitment_points_naval">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>faction_to_sea_region_own</effect_scope>
+<effect_value>2</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{7724984c-fb55-4201-94e5-bf4d61b7a29f}" record_timestamp="1425557314734" record_key="-1truewh_main_effect_building_trade_route_sea_hidden">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_trade_route_sea_hidden</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>500</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{bb59764e-7067-4209-8958-bb5123097074}" record_timestamp="1459933528706" record_key="-1truewh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>0</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{19ce0471-3167-4418-95cc-8ecc317e6a7d}" record_timestamp="1459933528705" record_key="-1truewh_main_effect_faction_mercenary_levy_units_per_region_mod">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_units_per_region_mod</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>-1</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{811091df-7a69-4aae-a53c-fc8b73447cd9}" record_timestamp="1432639804061" record_key="-1truewh_main_effect_force_army_campaign_recruitment_points">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_recruitment_points</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>3</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{7fd8f5e4-3e99-4e40-99dd-1192670145db}" record_timestamp="1425557566525" record_key="-1truewh_main_effect_public_order_difficulty_level">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_public_order_difficulty_level</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>-2</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{c94826a0-9647-4dd4-ba5d-503bf9a2ebf0}" record_timestamp="1445536185870" record_key="-1truewh_main_effect_unit_recruitment_points">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>2</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{5bbe12f9-beba-4716-9f54-6205d4ac389f}" record_timestamp="1445536186005" record_key="-1truewh_main_effect_unit_recruitment_points_naval">
+<campaign_difficulty_handicap>-1</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>faction_to_sea_region_own</effect_scope>
+<effect_value>2</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{059cc699-6a47-4105-a928-b24623fc7703}" record_timestamp="1425557314812" record_key="-2truewh_main_effect_building_trade_route_sea_hidden">
+<campaign_difficulty_handicap>-2</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_trade_route_sea_hidden</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>500</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{eb65e579-8ce0-4876-856b-65640168277b}" record_timestamp="1459933528709" record_key="-2truewh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes">
+<campaign_difficulty_handicap>-2</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>0</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{05937186-8c5c-4416-979d-29fe4bc25884}" record_timestamp="1459933528723" record_key="-2truewh_main_effect_faction_mercenary_levy_units_per_region_mod">
+<campaign_difficulty_handicap>-2</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_units_per_region_mod</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>-1</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{3fb7ab34-6a78-450d-8ffa-ff0dd3109726}" record_timestamp="1432639803991" record_key="-2truewh_main_effect_force_army_campaign_recruitment_points">
+<campaign_difficulty_handicap>-2</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_recruitment_points</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>3</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{31e28ff0-b830-4781-b138-24964728e738}" record_timestamp="1425557567101" record_key="-2truewh_main_effect_public_order_difficulty_level">
+<campaign_difficulty_handicap>-2</campaign_difficulty_handicap>
+<effect>wh_main_effect_public_order_difficulty_level</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>-4</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{f57978b7-b7e3-46fd-9b89-aa8ff40f3b99}" record_timestamp="1445536185324" record_key="-2truewh_main_effect_unit_recruitment_points">
+<campaign_difficulty_handicap>-2</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>2</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{2250af19-8d94-42ca-b374-b29de4e3926f}" record_timestamp="1445536185460" record_key="-2truewh_main_effect_unit_recruitment_points_naval">
+<campaign_difficulty_handicap>-2</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>faction_to_sea_region_own</effect_scope>
+<effect_value>2</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{e032b673-88b2-4be9-a0e0-69af5727efa7}" record_timestamp="1425557314126" record_key="-3truewh_main_effect_building_trade_route_sea_hidden">
+<campaign_difficulty_handicap>-3</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_trade_route_sea_hidden</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>500</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{9106f259-2f60-42c7-85ed-0b080b463840}" record_timestamp="1459933528708" record_key="-3truewh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes">
+<campaign_difficulty_handicap>-3</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>0</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{1523d129-394c-4425-bbae-1b5a8f1b4776}" record_timestamp="1459933528718" record_key="-3truewh_main_effect_faction_mercenary_levy_units_per_region_mod">
+<campaign_difficulty_handicap>-3</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_units_per_region_mod</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>-1</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{f01ae806-50eb-44d8-98d7-2ed59efe1d77}" record_timestamp="1432639803916" record_key="-3truewh_main_effect_force_army_campaign_recruitment_points">
+<campaign_difficulty_handicap>-3</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_recruitment_points</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>3</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{0b6f1fbb-58ec-4e91-8a2f-337f8f239ac3}" record_timestamp="1425557566935" record_key="-3truewh_main_effect_public_order_difficulty_level">
+<campaign_difficulty_handicap>-3</campaign_difficulty_handicap>
+<effect>wh_main_effect_public_order_difficulty_level</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>-8</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{4e2ac2bd-1fe0-4e95-8b17-90a40a21484e}" record_timestamp="1445536185052" record_key="-3truewh_main_effect_unit_recruitment_points">
+<campaign_difficulty_handicap>-3</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>2</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{88f83a9e-8b1b-43d4-ae4b-ebc8970d358e}" record_timestamp="1445536185188" record_key="-3truewh_main_effect_unit_recruitment_points_naval">
+<campaign_difficulty_handicap>-3</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>faction_to_sea_region_own</effect_scope>
+<effect_value>2</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{cc669071-2a75-4000-be94-2bfb7e6a11a1}" record_timestamp="1465229859387" record_key="0falsewh_main_effect_agent_action_success_chance">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_agent_action_success_chance</effect>
+<effect_scope>faction_to_character_own</effect_scope>
+<effect_value>-5</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{4e641873-c650-47e5-8341-3f96bd8abdae}" record_timestamp="1454681822027" record_key="0falsewh_main_effect_building_construction_cost_mod">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_construction_cost_mod</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>-15</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{a1d40240-acd4-472c-88ed-7280c194253b}" record_timestamp="1425557314282" record_key="0falsewh_main_effect_building_trade_route_sea_hidden">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_trade_route_sea_hidden</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>500</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{41fb2bf6-70cb-49c4-a537-b2b7877916f1}" record_timestamp="1425557325658" record_key="0falsewh_main_effect_conquest_resistance_to_occupation_mod">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_conquest_resistance_to_occupation_mod</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>40</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{feee094f-40cc-4cc3-90b6-7908823b1d95}" record_timestamp="1455626138933" record_key="0falsewh_main_effect_economy_tax_mod">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_economy_tax_mod</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>0</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{defa55b6-aee5-4870-9baa-d108d055b2f0}" record_timestamp="1459933528711" record_key="0falsewh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>0</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{ba268d2b-b342-47bf-8320-7e28071432e4}" record_timestamp="1459933528712" record_key="0falsewh_main_effect_faction_mercenary_levy_units_per_region_mod">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_units_per_region_mod</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>-1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{e99b65a1-4fb3-47b0-9be6-799d64cd3240}" record_timestamp="1456409549908" record_key="0falsewh_main_effect_force_all_campaign_recruitment_cost_all">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_recruitment_cost_all</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-15</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{7d634cfd-e19a-4677-a6f0-b1457ad3deb9}" record_timestamp="1425557415243" record_key="0falsewh_main_effect_force_all_campaign_replenishment_rate">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_replenishment_rate</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>5</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{77dd8dcc-b4a4-4e00-9561-bdbf25d3d4f0}" record_timestamp="1454083989038" record_key="0falsewh_main_effect_force_army_campaign_attrition_chaos_territory">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_chaos_territory</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-50</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{223662cc-3973-4164-a104-f25a8e7a7669}" record_timestamp="1425557448990" record_key="0falsewh_main_effect_force_army_campaign_attrition_desert_resistance">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_desert_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-50</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{ff645e6a-1ff7-4338-8c38-0d8acce374c7}" record_timestamp="1453129697621" record_key="0falsewh_main_effect_force_army_campaign_attrition_infighting_immunity">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_infighting_immunity</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{6cab2310-c81b-4118-a3f7-6ba596017a54}" record_timestamp="1445603857430" record_key="0falsewh_main_effect_force_army_campaign_attrition_non_vampire_count_territory">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_non_vampire_count_territory</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-50</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{852b76ae-68b4-4d14-80ac-88bd9956e6ce}" record_timestamp="1425557449848" record_key="0falsewh_main_effect_force_army_campaign_attrition_snow_resistance">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_snow_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-50</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{a2b82d3c-8dd4-4287-a9f6-7ac3b5e0cbf4}" record_timestamp="1425557450988" record_key="0falsewh_main_effect_force_army_campaign_attrition_swamp_resistance">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_swamp_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-50</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{206ce86e-ae59-483c-b1d2-b66617974667}" record_timestamp="1432639812368" record_key="0falsewh_main_effect_force_army_campaign_recruitment_points">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_recruitment_points</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>3</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{84f32d24-5c78-41af-b04e-456dff2c7603}" record_timestamp="1425557485166" record_key="0falsewh_main_effect_force_navy_campaign_attrition_high_seas_resistance">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_navy_campaign_attrition_high_seas_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-50</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{163a2431-1a10-40e7-a396-fa98029d7155}" record_timestamp="1425557530698" record_key="0falsewh_main_effect_growth_all">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_growth_all</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>5</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{0308273b-10c4-4bc8-8b05-3e3f0d254bcf}" record_timestamp="1425557532539" record_key="0falsewh_main_effect_hordebuilding_growth_core">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_hordebuilding_growth_core</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>3</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{937f1db2-92ab-49f9-8757-ffa56368ace6}" record_timestamp="1425557536142" record_key="0falsewh_main_effect_occupation_decision_colonise_cost_zero">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_occupation_decision_colonise_cost_zero</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>-1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{d2e76b1b-fff9-4fd5-b46f-26b12d964abc}" record_timestamp="1425557567264" record_key="0falsewh_main_effect_public_order_difficulty_level">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_public_order_difficulty_level</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>4</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{b4e61a7d-de0b-46cd-b624-a00fd7b4aba7}" record_timestamp="1445536186141" record_key="0falsewh_main_effect_unit_recruitment_points">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>2</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{5ae9080c-028e-41d6-810d-90905ea883e0}" record_timestamp="1445536186278" record_key="0falsewh_main_effect_unit_recruitment_points_naval">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>faction_to_sea_region_own</effect_scope>
+<effect_value>2</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{33d61b06-e0a0-4d00-8c93-6fe6fa87fbec}" record_timestamp="1425557314578" record_key="0truewh_main_effect_building_trade_route_sea_hidden">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_trade_route_sea_hidden</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>500</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{64e40d13-91a9-4482-8fad-f0d06598e435}" record_timestamp="1459933528707" record_key="0truewh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>0</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{fa7d5954-01cf-41c9-98f0-1c3d58756f2d}" record_timestamp="1459933528721" record_key="0truewh_main_effect_faction_mercenary_levy_units_per_region_mod">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_units_per_region_mod</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>-1</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{34a73009-fa4d-45c6-8166-944ec418d5fc}" record_timestamp="1456918281157" record_key="0truewh_main_effect_force_all_campaign_upkeep">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_upkeep</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-10</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{7039d2e9-82dd-4bd7-bfeb-c8139494aeb9}" record_timestamp="1432639804134" record_key="0truewh_main_effect_force_army_campaign_recruitment_points">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_recruitment_points</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>3</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{0d039106-e9f5-4f1a-8133-818246ff8a64}" record_timestamp="1425557566853" record_key="0truewh_main_effect_public_order_difficulty_level">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_public_order_difficulty_level</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>0</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{30602a35-b77b-4cc0-aca5-44c95dd2c8c0}" record_timestamp="1445536186414" record_key="0truewh_main_effect_unit_recruitment_points">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>2</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{fa17de6f-2d8c-4542-98fa-7e0b3a891651}" record_timestamp="1445536186550" record_key="0truewh_main_effect_unit_recruitment_points_naval">
+<campaign_difficulty_handicap>0</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>faction_to_sea_region_own</effect_scope>
+<effect_value>2</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{fb3815ed-4fe5-4a3b-bac7-840db9d6e8fd}" record_timestamp="1454681822098" record_key="1falsewh_main_effect_building_construction_cost_mod">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_construction_cost_mod</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>-20</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{da98c5fe-3aaa-43e4-be62-6516ffba3f17}" record_timestamp="1425557314500" record_key="1falsewh_main_effect_building_trade_route_sea_hidden">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_trade_route_sea_hidden</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>500</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{d87d7cc8-309f-4cf4-90f3-b867a6ceb30c}" record_timestamp="1425557325362" record_key="1falsewh_main_effect_conquest_resistance_to_occupation_mod">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_conquest_resistance_to_occupation_mod</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>50</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{6e2ea0fc-1899-44cc-a81f-40476ef46bc8}" record_timestamp="1454681820583" record_key="1falsewh_main_effect_economy_tax_mod">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_economy_tax_mod</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>25</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{a2970251-517c-4529-8ec1-cf8709ab85c3}" record_timestamp="1459933528716" record_key="1falsewh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>0</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{4d1639ad-f11d-4c7b-9228-7ae92cc37a2a}" record_timestamp="1459933528717" record_key="1falsewh_main_effect_faction_mercenary_levy_units_per_region_mod">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_units_per_region_mod</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>-1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{d83fd755-3cdd-4557-9a4d-4d7a97cec35f}" record_timestamp="1480006171050" record_key="1falsewh_main_effect_force_all_campaign_recruitment_cost_all">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_recruitment_cost_all</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-30</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{412d3924-bbf2-42a0-87de-e615f82b0eda}" record_timestamp="1425557415149" record_key="1falsewh_main_effect_force_all_campaign_replenishment_rate">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_replenishment_rate</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>5</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{5525aa79-55c6-4a9f-8435-544ac67be076}" record_timestamp="1441993265910" record_key="1falsewh_main_effect_force_all_campaign_upkeep">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_upkeep</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-10</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{47a42cfa-d1bd-4299-9c39-376ca6d1e7ce}" record_timestamp="1454083989038" record_key="1falsewh_main_effect_force_army_campaign_attrition_chaos_territory">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_chaos_territory</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-60</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{ad32b1ff-a6fb-48fc-b760-bb5c03f7c2fa}" record_timestamp="1425557448631" record_key="1falsewh_main_effect_force_army_campaign_attrition_desert_resistance">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_desert_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-60</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{ff9c51f0-7e89-4345-a173-ae7a01f24f7b}" record_timestamp="1453129697631" record_key="1falsewh_main_effect_force_army_campaign_attrition_infighting_immunity">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_infighting_immunity</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{6bf00bc9-3942-4929-b0b5-f6aab13a59c3}" record_timestamp="1445603857430" record_key="1falsewh_main_effect_force_army_campaign_attrition_non_vampire_count_territory">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_non_vampire_count_territory</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-60</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{6a770b2e-b025-49a2-b536-69c6c9909277}" record_timestamp="1425557450176" record_key="1falsewh_main_effect_force_army_campaign_attrition_snow_resistance">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_snow_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-60</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{6040e0fc-2094-4f68-b877-08d182441c43}" record_timestamp="1425557451070" record_key="1falsewh_main_effect_force_army_campaign_attrition_swamp_resistance">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_swamp_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-60</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{9a589108-48e0-4a68-adb0-175a812c9656}" record_timestamp="1432639812435" record_key="1falsewh_main_effect_force_army_campaign_recruitment_points">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_recruitment_points</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>3</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{af6df028-3b6b-42fa-a3b1-d5ddf3ba0ac1}" record_timestamp="1425557485451" record_key="1falsewh_main_effect_force_navy_campaign_attrition_high_seas_resistance">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_navy_campaign_attrition_high_seas_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-60</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{1ea9a5b3-70ed-432c-baaa-b552d647ba17}" record_timestamp="1425557530620" record_key="1falsewh_main_effect_growth_all">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_growth_all</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>10</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{b6e3d97f-a9d7-4ef2-8c37-f34fa11a8d7c}" record_timestamp="1425557532695" record_key="1falsewh_main_effect_hordebuilding_growth_core">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_hordebuilding_growth_core</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>5</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{abf0c1b1-5f6b-4b91-b852-20a8fa103fc3}" record_timestamp="1425557536220" record_key="1falsewh_main_effect_occupation_decision_colonise_cost_zero">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_occupation_decision_colonise_cost_zero</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>-1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{50df81ad-7c5c-44c9-8fd0-906441750f59}" record_timestamp="1425557566607" record_key="1falsewh_main_effect_public_order_difficulty_level">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_public_order_difficulty_level</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>6</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{38a167d5-6a94-43e4-bff3-94d6ca2caf17}" record_timestamp="1445536186687" record_key="1falsewh_main_effect_unit_recruitment_points">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>2</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{cf24505e-766c-4f3e-9e04-0313ce8eced9}" record_timestamp="1445536186823" record_key="1falsewh_main_effect_unit_recruitment_points_naval">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>faction_to_sea_region_own</effect_scope>
+<effect_value>2</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{409457b6-37b7-4494-ae94-4a10a9fe6ee2}" record_timestamp="1425557314360" record_key="1truewh_main_effect_building_trade_route_sea_hidden">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_trade_route_sea_hidden</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>500</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{ad5bb97a-39da-4407-a8a2-0f50faddc9f2}" record_timestamp="1425557325284" record_key="1truewh_main_effect_conquest_resistance_to_occupation_mod">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_conquest_resistance_to_occupation_mod</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>10</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{20dc11b7-5167-460a-9261-ae1171f5d9fc}" record_timestamp="1459933528710" record_key="1truewh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>0</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{c7dc55bc-a4c8-48b3-9cb9-d50367c20702}" record_timestamp="1459933528722" record_key="1truewh_main_effect_faction_mercenary_levy_units_per_region_mod">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_units_per_region_mod</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>-1</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{2d221f69-af92-442c-a396-12a04224d3db}" record_timestamp="1456918281155" record_key="1truewh_main_effect_force_all_campaign_upkeep">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_upkeep</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-25</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{c0dfe4dc-869f-4fe6-84a5-149eb087d460}" record_timestamp="1432639804209" record_key="1truewh_main_effect_force_army_campaign_recruitment_points">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_recruitment_points</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>3</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{f7021fad-390b-470a-bc55-0d8d08c2f213}" record_timestamp="1425557566771" record_key="1truewh_main_effect_public_order_difficulty_level">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_public_order_difficulty_level</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>1</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{e173e0a3-50ef-4935-982b-439188263268}" record_timestamp="1445536186959" record_key="1truewh_main_effect_unit_recruitment_points">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>2</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{0962cbac-60c3-4e73-8c60-0917f554d2c5}" record_timestamp="1445536187096" record_key="1truewh_main_effect_unit_recruitment_points_naval">
+<campaign_difficulty_handicap>1</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>faction_to_sea_region_own</effect_scope>
+<effect_value>2</effect_value>
+<human>1</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{1d7b43f9-0196-4574-9d12-bfca6c265187}" record_timestamp="1454681822169" record_key="2falsewh_main_effect_building_construction_cost_mod">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_construction_cost_mod</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>-25</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{6f431807-acbe-4328-8927-516e93cb004d}" record_timestamp="1425557314422" record_key="2falsewh_main_effect_building_trade_route_sea_hidden">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_trade_route_sea_hidden</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>500</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{cf745092-f7e1-4956-a2f3-284fcee25f25}" record_timestamp="1425557325596" record_key="2falsewh_main_effect_conquest_resistance_to_occupation_mod">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_conquest_resistance_to_occupation_mod</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>60</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{7a5439a0-1b3c-4f22-b02f-3a873dae312e}" record_timestamp="1454681820655" record_key="2falsewh_main_effect_economy_tax_mod">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_economy_tax_mod</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>40</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{eef2d6af-21a3-4a26-8204-701d68104395}" record_timestamp="1459933528714" record_key="2falsewh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>0</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{40809e2b-1603-4e6b-84b6-094aefd78ef3}" record_timestamp="1459933528716" record_key="2falsewh_main_effect_faction_mercenary_levy_units_per_region_mod">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_units_per_region_mod</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>-1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{e6618be5-8df6-47de-bc15-d402fa0bf6a7}" record_timestamp="1456409549923" record_key="2falsewh_main_effect_force_all_campaign_recruitment_cost_all">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_recruitment_cost_all</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-45</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{e6201510-f480-4b12-a4e9-42140903834b}" record_timestamp="1425557415321" record_key="2falsewh_main_effect_force_all_campaign_replenishment_rate">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_replenishment_rate</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>7</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{a9e3b46a-0029-4040-a041-e4b933f2d1a6}" record_timestamp="1441993266073" record_key="2falsewh_main_effect_force_all_campaign_upkeep">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_upkeep</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-20</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{1e713a05-7f56-4b2d-9101-6df1284c50e5}" record_timestamp="1454083989037" record_key="2falsewh_main_effect_force_army_campaign_attrition_chaos_territory">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_chaos_territory</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-70</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{2090c559-2592-42c4-97c2-35782c91e198}" record_timestamp="1425557448912" record_key="2falsewh_main_effect_force_army_campaign_attrition_desert_resistance">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_desert_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-70</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{5a5f6cde-467f-49e2-93a0-996099de404c}" record_timestamp="1453129697641" record_key="2falsewh_main_effect_force_army_campaign_attrition_infighting_immunity">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_infighting_immunity</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{846ed163-f98c-4ecd-8651-8ff3cb41053e}" record_timestamp="1445603857415" record_key="2falsewh_main_effect_force_army_campaign_attrition_non_vampire_count_territory">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_non_vampire_count_territory</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-70</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{b6bc2cd9-bf79-43c3-8fc3-7165a6996b85}" record_timestamp="1425557450004" record_key="2falsewh_main_effect_force_army_campaign_attrition_snow_resistance">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_snow_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-70</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{f5de7782-5772-44e7-ac37-1641d9b56d33}" record_timestamp="1425557451158" record_key="2falsewh_main_effect_force_army_campaign_attrition_swamp_resistance">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_swamp_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-70</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{3863cdec-8950-4ce5-9b27-f58ca3b96c44}" record_timestamp="1432639812503" record_key="2falsewh_main_effect_force_army_campaign_recruitment_points">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_recruitment_points</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>3</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{3a2172d5-03e1-413e-a864-b86c7b4ce4d0}" record_timestamp="1425557485259" record_key="2falsewh_main_effect_force_navy_campaign_attrition_high_seas_resistance">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_navy_campaign_attrition_high_seas_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-70</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{e6fdecb6-3e3c-43c7-89ab-0094dc743060}" record_timestamp="1425557530448" record_key="2falsewh_main_effect_growth_all">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_growth_all</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>15</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{6d170781-4f07-4efd-b71c-54fbe7b46829}" record_timestamp="1425557532617" record_key="2falsewh_main_effect_hordebuilding_growth_core">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_hordebuilding_growth_core</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>7</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{005b574b-abf4-412a-804f-bc7d028dc844}" record_timestamp="1425557536064" record_key="2falsewh_main_effect_occupation_decision_colonise_cost_zero">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_occupation_decision_colonise_cost_zero</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>-1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{132659ab-86f1-4744-bc1c-aca456377298}" record_timestamp="1425557566689" record_key="2falsewh_main_effect_public_order_difficulty_level">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_public_order_difficulty_level</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>8</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{7f8f435e-1656-46c5-8967-0a5edc1dcca4}" record_timestamp="1445536132965" record_key="2falsewh_main_effect_unit_recruitment_points">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>2</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{aff2b354-0474-4ea5-b1e9-5bc5b0d65c3e}" record_timestamp="1445536133961" record_key="2falsewh_main_effect_unit_recruitment_points_naval">
+<campaign_difficulty_handicap>2</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>faction_to_sea_region_own</effect_scope>
+<effect_value>2</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{1cdb7bac-baf7-45db-bcd8-5735582b7cee}" record_timestamp="1454681822239" record_key="3falsewh_main_effect_building_construction_cost_mod">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_construction_cost_mod</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>-30</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{929cf55d-1acb-4f06-95a6-079a3b02c275}" record_timestamp="1425557314204" record_key="3falsewh_main_effect_building_trade_route_sea_hidden">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_building_trade_route_sea_hidden</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>500</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{cb52cfe4-9a21-403f-bfe2-84dda6640b33}" record_timestamp="1425557325440" record_key="3falsewh_main_effect_conquest_resistance_to_occupation_mod">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_conquest_resistance_to_occupation_mod</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>70</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{b33818ed-5a1d-486a-8a1d-d7353a0de0c2}" record_timestamp="1454681820799" record_key="3falsewh_main_effect_economy_tax_mod">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_economy_tax_mod</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>60</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{02c77a8f-4326-46e2-8559-517f0c601d1c}" record_timestamp="1459933528719" record_key="3falsewh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>0</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{4c90e588-7b1b-4a00-9b49-cee5f7ce26de}" record_timestamp="1459933528720" record_key="3falsewh_main_effect_faction_mercenary_levy_units_per_region_mod">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_faction_mercenary_levy_units_per_region_mod</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>-1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{2bcbf595-d117-4912-91c2-8291c9e6ef16}" record_timestamp="1456409549923" record_key="3falsewh_main_effect_force_all_campaign_recruitment_cost_all">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_recruitment_cost_all</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-60</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{1d31193f-9de3-4754-a98d-050d0c8ae96e}" record_timestamp="1425557415414" record_key="3falsewh_main_effect_force_all_campaign_replenishment_rate">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_replenishment_rate</effect>
+<effect_scope>faction_to_region_own</effect_scope>
+<effect_value>9</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{fd56e951-375b-41ab-8b6e-afcf81aff60f}" record_timestamp="1441993266154" record_key="3falsewh_main_effect_force_all_campaign_upkeep">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_all_campaign_upkeep</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-25</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{7fcf8035-40ce-47f5-bed1-3ebd9f844a90}" record_timestamp="1454083989037" record_key="3falsewh_main_effect_force_army_campaign_attrition_chaos_territory">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_chaos_territory</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-80</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{76f1a075-df0a-450c-a06f-639120866890}" record_timestamp="1425557448740" record_key="3falsewh_main_effect_force_army_campaign_attrition_desert_resistance">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_desert_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-80</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{37daa97a-4f95-44df-8f4b-9f0a62fe4ef5}" record_timestamp="1453129697649" record_key="3falsewh_main_effect_force_army_campaign_attrition_infighting_immunity">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_infighting_immunity</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{86ebe946-c85f-4d52-a23a-eb6fa4cca1ec}" record_timestamp="1445603857415" record_key="3falsewh_main_effect_force_army_campaign_attrition_non_vampire_count_territory">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_non_vampire_count_territory</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-80</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{f813d8c7-0163-4c4d-9b8e-e32b1ef82683}" record_timestamp="1425557450098" record_key="3falsewh_main_effect_force_army_campaign_attrition_snow_resistance">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_snow_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-80</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{4215a863-09cb-4ce8-81c0-6c31553cc964}" record_timestamp="1425557450909" record_key="3falsewh_main_effect_force_army_campaign_attrition_swamp_resistance">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_attrition_swamp_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-80</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{bfeec63a-3247-4ad1-b3e4-55c3518fc43c}" record_timestamp="1432639812234" record_key="3falsewh_main_effect_force_army_campaign_recruitment_points">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_army_campaign_recruitment_points</effect>
+<effect_scope>faction_to_faction_own_unseen</effect_scope>
+<effect_value>3</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{7ad80762-d7f1-457e-9ee9-b55be0d24ea6}" record_timestamp="1425557485355" record_key="3falsewh_main_effect_force_navy_campaign_attrition_high_seas_resistance">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_force_navy_campaign_attrition_high_seas_resistance</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>-80</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{83331919-4018-4cdc-af7c-212c0050ac7c}" record_timestamp="1425557530370" record_key="3falsewh_main_effect_growth_all">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_growth_all</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>20</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{6cd463ee-3a0c-49f5-ae48-692e05781227}" record_timestamp="1425557532383" record_key="3falsewh_main_effect_hordebuilding_growth_core">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_hordebuilding_growth_core</effect>
+<effect_scope>faction_to_force_own</effect_scope>
+<effect_value>9</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{a040ea42-9a19-4b38-8bde-e396dac620f3}" record_timestamp="1425557536376" record_key="3falsewh_main_effect_occupation_decision_colonise_cost_zero">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_occupation_decision_colonise_cost_zero</effect>
+<effect_scope>faction_to_faction_own</effect_scope>
+<effect_value>-1</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{193fe733-1a6d-4689-926e-b3c6c0cf6e68}" record_timestamp="1425557567183" record_key="3falsewh_main_effect_public_order_difficulty_level">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_public_order_difficulty_level</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>10</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{1e9bc3e1-abbb-4e4a-96f9-8556b9c9c0d4}" record_timestamp="1445536187231" record_key="3falsewh_main_effect_unit_recruitment_points">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+<effect_scope>faction_to_province_own</effect_scope>
+<effect_value>2</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+<campaign_difficulty_handicap_effects record_uuid="{8c1a0cc7-00d0-4ab3-9654-be19c5f55c86}" record_timestamp="1445536187367" record_key="3falsewh_main_effect_unit_recruitment_points_naval">
+<campaign_difficulty_handicap>3</campaign_difficulty_handicap>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+<effect_scope>faction_to_sea_region_own</effect_scope>
+<effect_value>2</effect_value>
+<human>0</human>
+<optional_campaign_key></optional_campaign_key>
+</campaign_difficulty_handicap_effects>
+</dataroot>

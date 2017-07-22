@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_ai_abilities_usage_template_names.xsd" export_time="Wed Apr 6 14:09:18 2016" revision="17" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>7c86f5c7-c6bc-45ba-9304-75583e2041e1</edit_uuid>
+<battle_ai_abilities_usage_template_names record_uuid="{813f138c-dc87-461a-b028-e723f91380ae}" record_timestamp="1459948157502" record_key="always_use_only_land">
+<ai_ability_usage_template_key>always_use_only_land</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{3ccd0109-2909-4dda-b950-09fe610e0135}" record_timestamp="1441712011505" record_key="aoe">
+<ai_ability_usage_template_key>aoe</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{c0067ae9-377c-40d0-80bf-50398fa3941e}" record_timestamp="1452527514878" record_key="aoe_small">
+<ai_ability_usage_template_key>aoe_small</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{c5c8eeb1-89a1-495a-80d3-d04f600c81ea}" record_timestamp="1441712011992" record_key="augment_defense">
+<ai_ability_usage_template_key>augment_defense</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{a51e9fb0-38ee-4a45-8290-cf9214a86895}" record_timestamp="1429010109377" record_key="augment_melee">
+<ai_ability_usage_template_key>augment_melee</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{2d321e90-acf2-4719-af69-86175c4471e4}" record_timestamp="1441712017186" record_key="augment_melee_area">
+<ai_ability_usage_template_key>augment_melee_area</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{c5b149a8-c599-4a95-8d19-cbbc83c9eae7}" record_timestamp="1434116818598" record_key="augment_morale">
+<ai_ability_usage_template_key>augment_morale</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{97263e2b-68b6-4f65-a5a9-6eacd6543cb2}" record_timestamp="1441712019377" record_key="augment_morale_area">
+<ai_ability_usage_template_key>augment_morale_area</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{eb9dd2d7-7665-404f-880d-8b02569bf02e}" record_timestamp="1429010109378" record_key="augment_ranged">
+<ai_ability_usage_template_key>augment_ranged</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{3b2afef3-f6ad-48d9-9a28-132e6ead5ba3}" record_timestamp="1441712017091" record_key="augment_self_area">
+<ai_ability_usage_template_key>augment_self_area</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{2e091026-bf20-4e60-b526-11affbeb140e}" record_timestamp="1452535401712" record_key="augment_spellcasting">
+<ai_ability_usage_template_key>augment_spellcasting</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{f28f9edc-864c-4094-b96a-881f69d9203e}" record_timestamp="1449242110238" record_key="being_charged">
+<ai_ability_usage_template_key>being_charged</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{a72ea089-d880-4519-9bfa-a6597f7f9e28}" record_timestamp="1430837727199" record_key="healing">
+<ai_ability_usage_template_key>healing</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{cd4cffc1-dded-4709-ab10-c3bfdace4395}" record_timestamp="1429010109377" record_key="hex_melee">
+<ai_ability_usage_template_key>hex_melee</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{5f67a9b8-b3c7-4ce3-941c-e95537cb414b}" record_timestamp="1441712017937" record_key="hex_melee_area">
+<ai_ability_usage_template_key>hex_melee_area</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{11750ffb-7432-43cc-9942-357390c7fdab}" record_timestamp="1429880268957" record_key="hex_morale">
+<ai_ability_usage_template_key>hex_morale</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{adeff166-3f64-41e0-bb43-dfedc8509788}" record_timestamp="1441712029298" record_key="hex_morale_area">
+<ai_ability_usage_template_key>hex_morale_area</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{726db67b-7afd-4086-b141-28dc29eddaed}" record_timestamp="1434116818628" record_key="hex_ranged">
+<ai_ability_usage_template_key>hex_ranged</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{e394ae39-f9b3-4b81-8e17-8bfb335e18f1}" record_timestamp="1441712020770" record_key="hex_ranged_area">
+<ai_ability_usage_template_key>hex_ranged_area</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{85a173ef-684b-40b1-aeeb-98bd454ad8f4}" record_timestamp="1441712027697" record_key="hex_spellcaster">
+<ai_ability_usage_template_key>hex_spellcaster</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{568f9bd8-33fb-49a4-af2c-0cc12a8c4890}" record_timestamp="1441712011388" record_key="projectile">
+<ai_ability_usage_template_key>projectile</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{46d478e2-f8f7-4974-9c2f-d8905e762fb0}" record_timestamp="1429010109385" record_key="projectile_large">
+<ai_ability_usage_template_key>projectile_large</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{af2f5888-f8f4-48d6-9822-ffa95e5443f9}" record_timestamp="1429178336442" record_key="projectile_large_explosive">
+<ai_ability_usage_template_key>projectile_large_explosive</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{d35409ff-1827-4cc9-89b8-cbafce630072}" record_timestamp="1429010109378" record_key="projectile_low_power">
+<ai_ability_usage_template_key>projectile_low_power</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{579c7b33-c04d-45cc-85b0-0650f071840a}" record_timestamp="1434116818576" record_key="projectile_low_power_explosive">
+<ai_ability_usage_template_key>projectile_low_power_explosive</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{d664fb52-c571-414c-9767-ca9e4c1869ab}" record_timestamp="1449578120586" record_key="threatened">
+<ai_ability_usage_template_key>threatened</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+<battle_ai_abilities_usage_template_names record_uuid="{79733b29-9bb6-4729-8dbf-a1f3913a6174}" record_timestamp="1430304700419" record_key="vortex">
+<ai_ability_usage_template_key>vortex</ai_ability_usage_template_key>
+<factor_bias>1</factor_bias>
+</battle_ai_abilities_usage_template_names>
+</dataroot>

@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="event_feed_events.xsd" export_time="Thu Feb 2 12:10:43 2017" revision="39" export_branch="E:/TW/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>7300500b-1344-4294-9110-36bec381a158</edit_uuid>
+<event_feed_events record_uuid="{b2c22f85-1834-4571-b0aa-94393ee0bd96}" record_timestamp="1430315047513" record_key="agent_action_vs_army">
+<event>agent_action_vs_army</event>
+<subcategory>wh_event_subcategory_agent_action</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{5c83f70a-5cc2-4deb-ad6e-3d532bd83962}" record_timestamp="1452095755606" record_key="agent_action_vs_army_with_immortal_general">
+<event>agent_action_vs_army_with_immortal_general</event>
+<subcategory>wh_event_subcategory_agent_action</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{73eaf055-6c93-4129-b71a-7bea67ac3bf3}" record_timestamp="1430315047582" record_key="agent_action_vs_character">
+<event>agent_action_vs_character</event>
+<subcategory>wh_event_subcategory_agent_action</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{7bd59183-6b2c-4b7c-b5e5-04bfa849602e}" record_timestamp="1452005211440" record_key="agent_action_vs_immortal_character">
+<event>agent_action_vs_immortal_character</event>
+<subcategory>wh_event_subcategory_agent_action</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{8dbb525e-47d0-49ef-b18b-da5a62545316}" record_timestamp="1430315047652" record_key="agent_action_vs_settlement">
+<event>agent_action_vs_settlement</event>
+<subcategory>wh_event_subcategory_agent_action</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{0a130cfe-eff8-4a3a-9c13-1834fb0e7514}" record_timestamp="1455712538960" record_key="agent_discovered">
+<event>agent_discovered</event>
+<subcategory>wh_event_subcategory_agent_action</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{df3819da-b41a-45d1-97a8-c15ea4434ab2}" record_timestamp="1455712538970" record_key="agent_discovered_yours">
+<event>agent_discovered_yours</event>
+<subcategory>wh_event_subcategory_agent_action</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{e4cbad3f-dd96-467a-b8f8-5c86c91c822f}" record_timestamp="1430315047872" record_key="agent_recruited">
+<event>agent_recruited</event>
+<subcategory>wh_event_subcategory_agent_recruited</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{11329064-2222-4bed-9d79-5b6c99e448cf}" record_timestamp="1430315036718" record_key="character_ancillary_gained">
+<event>character_ancillary_gained</event>
+<subcategory>wh_event_subcategory_character_ancillaries</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{70c89559-9176-4175-a5a2-1510b78f225c}" record_timestamp="1430315036785" record_key="character_ancillary_lost">
+<event>character_ancillary_lost</event>
+<subcategory>wh_event_subcategory_character_ancillaries</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{8bdddbb0-30e9-4137-ae16-80e7ad59719e}" record_timestamp="1447160664262" record_key="character_ancillary_lost_stolen">
+<event>character_ancillary_lost_stolen</event>
+<subcategory>wh_event_subcategory_character_ancillaries</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{5b38cf78-1039-4109-b054-32f386a39a91}" record_timestamp="1443784215863" record_key="character_born_illegitimate">
+<event>character_born_illegitimate</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{3200c85e-90f1-4079-ade9-e2b68d51b7a2}" record_timestamp="1443784215879" record_key="character_born_legitimate">
+<event>character_born_legitimate</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{36cb4008-9ce5-4d0c-ba11-274bbd29b457}" record_timestamp="1430315033819" record_key="character_dies_battle">
+<event>character_dies_battle</event>
+<subcategory>wh_event_subcategory_character_deaths</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{62bed957-61a3-4a14-b69e-09f69b607e61}" record_timestamp="1430315034153" record_key="character_dies_executed">
+<event>character_dies_executed</event>
+<subcategory>wh_event_subcategory_character_deaths</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{58df397a-a879-4acb-8bbd-3dff5099b37a}" record_timestamp="1430315033753" record_key="character_dies_hostile">
+<event>character_dies_hostile</event>
+<subcategory>wh_event_subcategory_character_deaths</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{a6b313fa-bf55-4087-8303-f02476c15d73}" record_timestamp="1430315034020" record_key="character_dies_in_action">
+<event>character_dies_in_action</event>
+<subcategory>wh_event_subcategory_character_deaths</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{bdee621a-9068-493e-a42b-beb2a7310bf5}" record_timestamp="1430315033687" record_key="character_dies_infant_mortality">
+<event>character_dies_infant_mortality</event>
+<subcategory>wh_event_subcategory_character_deaths</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{265f4643-49c1-4c34-9071-098cd0409004}" record_timestamp="1430315034087" record_key="character_dies_natural">
+<event>character_dies_natural</event>
+<subcategory>wh_event_subcategory_character_deaths</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{67841f28-91a4-4fa4-9a9f-f44788f1355f}" record_timestamp="1430315033951" record_key="character_dies_suspicious">
+<event>character_dies_suspicious</event>
+<subcategory>wh_event_subcategory_character_deaths</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{692e5577-91e7-49db-a4a7-fce605e7bbb1}" record_timestamp="1430315033071" record_key="character_loyalty_low">
+<event>character_loyalty_low</event>
+<subcategory>wh_event_subcategory_character_development</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{76f18734-25ad-463f-b1f8-ef4108ef42c8}" record_timestamp="1430315032933" record_key="character_rank_gained">
+<event>character_rank_gained</event>
+<subcategory>wh_event_subcategory_character_development</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{792bfdb7-848f-4b5e-8648-7be4f072cda3}" record_timestamp="1430315033002" record_key="character_ready_for_duty">
+<event>character_ready_for_duty</event>
+<subcategory>wh_event_subcategory_character_development</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{98b022fb-df14-486f-89cb-d23f1af2a666}" record_timestamp="1446652324159" record_key="character_ready_for_duty_starting_general">
+<event>character_ready_for_duty_starting_general</event>
+<subcategory>wh_event_subcategory_character_development</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{a5b1358b-56d8-46fd-8e83-898a5311f210}" record_timestamp="1430315040988" record_key="character_trait_gained">
+<event>character_trait_gained</event>
+<subcategory>wh_event_subcategory_character_traits</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{d50635ab-e765-4a21-bfbf-82243abf0409}" record_timestamp="1430315040914" record_key="character_trait_lost">
+<event>character_trait_lost</event>
+<subcategory>wh_event_subcategory_character_traits</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{dd664140-d00c-4429-884d-839821040d29}" record_timestamp="1430315033885" record_key="character_wounded">
+<event>character_wounded</event>
+<subcategory>wh_event_subcategory_character_deaths</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{81b3cfb1-191e-4198-aca8-596788248f76}" record_timestamp="1430315032251" record_key="conquest_battle">
+<event>conquest_battle</event>
+<subcategory>wh_event_subcategory_conquest_battle</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{bc20916a-4da4-4432-b987-942f379c17ce}" record_timestamp="1430315040250" record_key="conquest_blockade_established">
+<event>conquest_blockade_established</event>
+<subcategory>wh_event_subcategory_conquest_siege_blockade</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{60056dc1-1e8c-4d45-bf33-0bd5a5442ca8}" record_timestamp="1430315040399" record_key="conquest_blockade_lifted">
+<event>conquest_blockade_lifted</event>
+<subcategory>wh_event_subcategory_conquest_siege_blockade</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{d94b672f-90b5-4cc8-b933-24c1e28c1663}" record_timestamp="1430315039584" record_key="conquest_enemy_raid_settlement">
+<event>conquest_enemy_raid_settlement</event>
+<subcategory>wh_event_subcategory_conquest_enemy_raids</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{805dc5bf-b5f1-49a8-beec-6e36e74067eb}" record_timestamp="1430315039662" record_key="conquest_enemy_raid_trade_route">
+<event>conquest_enemy_raid_trade_route</event>
+<subcategory>wh_event_subcategory_conquest_enemy_raids</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{b20aff80-662d-46b5-8956-2b36e329049e}" record_timestamp="1430315040758" record_key="conquest_province_contested">
+<event>conquest_province_contested</event>
+<subcategory>wh_event_subcategory_conquest_territorial_disputes</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{e0d2644a-ce7f-4240-980e-7d66d2a5f122}" record_timestamp="1430315040616" record_key="conquest_province_secured">
+<event>conquest_province_secured</event>
+<subcategory>wh_event_subcategory_conquest_territorial_disputes</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{ba85e5f3-f95e-416f-8b69-88857365238c}" record_timestamp="1430315040543" record_key="conquest_sea_region_contested">
+<event>conquest_sea_region_contested</event>
+<subcategory>wh_event_subcategory_conquest_territorial_disputes</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{408e5247-e8e6-44b9-886f-f9cf804322fa}" record_timestamp="1430315040687" record_key="conquest_sea_region_controlled">
+<event>conquest_sea_region_controlled</event>
+<subcategory>wh_event_subcategory_conquest_territorial_disputes</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{5770969c-459a-4023-900e-3b822d461a27}" record_timestamp="1430315037998" record_key="conquest_settlement_capital_captured">
+<event>conquest_settlement_capital_captured</event>
+<subcategory>wh_event_subcategory_conquest_occupation</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{4a4af24a-4cf0-4b93-8523-de77d11a0d8a}" record_timestamp="1430315038356" record_key="conquest_settlement_captured">
+<event>conquest_settlement_captured</event>
+<subcategory>wh_event_subcategory_conquest_occupation</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{7d1775e8-93b7-4bc5-85c6-7e677208c456}" record_timestamp="1430315038285" record_key="conquest_settlement_surrender_warning">
+<event>conquest_settlement_surrender_warning</event>
+<subcategory>wh_event_subcategory_conquest_occupation</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{7e60ba70-65f5-46cc-a9f3-63d1b4529ee9}" record_timestamp="1430315040177" record_key="conquest_siege_established">
+<event>conquest_siege_established</event>
+<subcategory>wh_event_subcategory_conquest_siege_blockade</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{e3a046ad-1852-49ec-8b00-e812310a75ff}" record_timestamp="1430315040327" record_key="conquest_siege_lifted">
+<event>conquest_siege_lifted</event>
+<subcategory>wh_event_subcategory_conquest_siege_blockade</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{66519f17-cf1b-4525-903a-9248edeb1fa5}" record_timestamp="1430315042986" record_key="diplomacy_faction_destroyed">
+<event>diplomacy_faction_destroyed</event>
+<subcategory>wh_event_subcategory_diplomacy_war_peace</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{6689d979-41c1-4078-9c95-01cf2ef10409}" record_timestamp="1444744857818" record_key="diplomacy_faction_emerges">
+<event>diplomacy_faction_emerges</event>
+<subcategory>wh_event_subcategory_diplomacy_state_matters</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{5c42d25a-bc94-453c-91df-f1e85ca7fc97}" record_timestamp="1444744857800" record_key="diplomacy_faction_encountered">
+<event>diplomacy_faction_encountered</event>
+<subcategory>wh_event_subcategory_diplomacy_state_matters</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{f444f10c-59ac-4921-8eac-5e902542f5f2}" record_timestamp="1430315043349" record_key="diplomacy_faction_joins_war">
+<event>diplomacy_faction_joins_war</event>
+<subcategory>wh_event_subcategory_diplomacy_war_peace</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{542cb171-0a5f-48d3-8bc2-deea6b8be9b8}" record_timestamp="1430315041276" record_key="diplomacy_treaty_broken_client_state">
+<event>diplomacy_treaty_broken_client_state</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{eef97bb4-2bc2-4095-9869-ff4acb2c8822}" record_timestamp="1430315041932" record_key="diplomacy_treaty_broken_client_state_manipulated">
+<event>diplomacy_treaty_broken_client_state_manipulated</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken_manipulated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{68ef1367-31ad-4470-a072-81a39acf52f8}" record_timestamp="1430315041561" record_key="diplomacy_treaty_broken_defensive_alliance">
+<event>diplomacy_treaty_broken_defensive_alliance</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{598a5e3f-24b3-4020-96c9-4ee0ce696c0c}" record_timestamp="1430315042083" record_key="diplomacy_treaty_broken_defensive_alliance_manipulated">
+<event>diplomacy_treaty_broken_defensive_alliance_manipulated</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken_manipulated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{19188a97-e04a-409e-a278-5b8c087e4071}" record_timestamp="1430315041418" record_key="diplomacy_treaty_broken_military_alliance">
+<event>diplomacy_treaty_broken_military_alliance</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{d7ada316-47f0-4d28-be3a-8ff378fc1b2f}" record_timestamp="1430315041860" record_key="diplomacy_treaty_broken_military_alliance_manipulated">
+<event>diplomacy_treaty_broken_military_alliance_manipulated</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken_manipulated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{cef87f13-4805-44e5-b982-5b0f372ed1cb}" record_timestamp="1430315041489" record_key="diplomacy_treaty_broken_non_aggression_pact">
+<event>diplomacy_treaty_broken_non_aggression_pact</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{de5da310-0627-414f-ace8-90b7c7042181}" record_timestamp="1430315042006" record_key="diplomacy_treaty_broken_non_aggression_pact_manipulated">
+<event>diplomacy_treaty_broken_non_aggression_pact_manipulated</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken_manipulated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{c91859fd-abc5-403a-9a09-7436de239e76}" record_timestamp="1430315041136" record_key="diplomacy_treaty_broken_soft_military_access">
+<event>diplomacy_treaty_broken_soft_military_access</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{451f08ef-e673-4ca9-9bd4-df46570c4344}" record_timestamp="1430315041787" record_key="diplomacy_treaty_broken_soft_military_access_manipulated">
+<event>diplomacy_treaty_broken_soft_military_access_manipulated</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken_manipulated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{32460f34-ad02-4ac4-947c-6b0bd13a1ee5}" record_timestamp="1430315041632" record_key="diplomacy_treaty_broken_trade">
+<event>diplomacy_treaty_broken_trade</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{8d5eb505-61a6-495d-bcc3-cd25e869b4a6}" record_timestamp="1430315041347" record_key="diplomacy_treaty_broken_trade_dissolved">
+<event>diplomacy_treaty_broken_trade_dissolved</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{b3e275ca-4cff-4d74-b5ab-8c2d66cf82ca}" record_timestamp="1430315042237" record_key="diplomacy_treaty_broken_trade_manipulated">
+<event>diplomacy_treaty_broken_trade_manipulated</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken_manipulated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{48bd1bf1-f9d1-4b24-94e5-dcfbadf60cda}" record_timestamp="1430315041206" record_key="diplomacy_treaty_broken_vassal">
+<event>diplomacy_treaty_broken_vassal</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{aa95c23d-37e5-42b9-85c3-002b0d24c528}" record_timestamp="1430315042160" record_key="diplomacy_treaty_broken_vassal_manipulated">
+<event>diplomacy_treaty_broken_vassal_manipulated</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_broken_manipulated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{c4742445-be46-4554-80ef-c44d51a09ba6}" record_timestamp="1430315042387" record_key="diplomacy_treaty_negotiated_client_state">
+<event>diplomacy_treaty_negotiated_client_state</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_negotiated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{ee3c56e6-1da2-4268-a974-8bf3a217da38}" record_timestamp="1430315042688" record_key="diplomacy_treaty_negotiated_defensive_alliance">
+<event>diplomacy_treaty_negotiated_defensive_alliance</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_negotiated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{ad96544a-088f-43b8-abe4-06acf391a2c4}" record_timestamp="1430315042832" record_key="diplomacy_treaty_negotiated_military_alliance">
+<event>diplomacy_treaty_negotiated_military_alliance</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_negotiated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{db055133-3f6a-49f9-ae2a-2f586bfb8349}" record_timestamp="1430315042759" record_key="diplomacy_treaty_negotiated_non_aggression_pact">
+<event>diplomacy_treaty_negotiated_non_aggression_pact</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_negotiated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{52210f27-2c99-428b-aa58-a01001948c24}" record_timestamp="1430315043201" record_key="diplomacy_treaty_negotiated_peace">
+<event>diplomacy_treaty_negotiated_peace</event>
+<subcategory>wh_event_subcategory_diplomacy_war_peace</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{3f02464b-4b60-4b11-b6f2-538673c15bad}" record_timestamp="1430315042458" record_key="diplomacy_treaty_negotiated_soft_military_access">
+<event>diplomacy_treaty_negotiated_soft_military_access</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_negotiated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{511b1452-e7df-42f6-8d98-13c8da2dcd2c}" record_timestamp="1430315042536" record_key="diplomacy_treaty_negotiated_trade">
+<event>diplomacy_treaty_negotiated_trade</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_negotiated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{a26596d7-e311-445f-b93a-bdefe193ded4}" record_timestamp="1430315042615" record_key="diplomacy_treaty_negotiated_vassal">
+<event>diplomacy_treaty_negotiated_vassal</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_negotiated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{a382d60d-bd78-4843-a04f-b4e966a76105}" record_timestamp="1444744857809" record_key="diplomacy_trespassing">
+<event>diplomacy_trespassing</event>
+<subcategory>wh_event_subcategory_diplomacy_state_matters</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{2c30e1d6-10e6-4264-addc-8da86a700793}" record_timestamp="1430315043722" record_key="diplomacy_war_coordination_ally_mobilisation_vs_force">
+<event>diplomacy_war_coordination_ally_mobilisation_vs_force</event>
+<subcategory>wh_event_subcategory_diplomacy_war_coordination</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{ff467aa6-b552-42cf-9a9f-b589862e77a2}" record_timestamp="1430315043798" record_key="diplomacy_war_coordination_ally_mobilisation_vs_region">
+<event>diplomacy_war_coordination_ally_mobilisation_vs_region</event>
+<subcategory>wh_event_subcategory_diplomacy_war_coordination</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{6dedf346-0107-4649-af31-18dd88c0aadf}" record_timestamp="1430315043567" record_key="diplomacy_war_coordination_target_available">
+<event>diplomacy_war_coordination_target_available</event>
+<subcategory>wh_event_subcategory_diplomacy_war_coordination</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{9c7b13e9-a366-4188-b5ed-b71e7df5837c}" record_timestamp="1430315043647" record_key="diplomacy_war_coordination_target_not_available">
+<event>diplomacy_war_coordination_target_not_available</event>
+<subcategory>wh_event_subcategory_diplomacy_war_coordination</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{46416de6-241e-4979-bb91-1d945baf8f15}" record_timestamp="1430315043276" record_key="diplomacy_war_declared">
+<event>diplomacy_war_declared</event>
+<subcategory>wh_event_subcategory_diplomacy_war_peace</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{63c1a4b5-42e2-4eef-ba6c-57e7d44465df}" record_timestamp="1457606547010" record_key="faction_ancillary_gained">
+<event>faction_ancillary_gained</event>
+<subcategory>wh_event_subcategory_character_ancillaries</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{51680fb5-750d-4164-8181-520f34c8845d}" record_timestamp="1457606547023" record_key="faction_ancillary_gained_stolen">
+<event>faction_ancillary_gained_stolen</event>
+<subcategory>wh_event_subcategory_character_ancillaries</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{f6df8788-10c7-4eed-8bd2-977fd096481e}" record_timestamp="1430315035020" record_key="faction_bankruptcy">
+<event>faction_bankruptcy</event>
+<subcategory>wh_event_subcategory_faction_crises</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{c8309961-4a4b-412c-bbba-1a94d562aa96}" record_timestamp="1430315036920" record_key="faction_campaign_chapter_objective_complete">
+<event>faction_campaign_chapter_objective_complete</event>
+<subcategory>wh_event_subcategory_faction_missions_objectives</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{7622e160-76a5-4eb0-b3f5-8a9435e320ff}" record_timestamp="1430315037124" record_key="faction_campaign_lost">
+<event>faction_campaign_lost</event>
+<subcategory>wh_event_subcategory_faction_missions_objectives</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{5fc7855b-b31f-4221-8c50-a2f3366b4056}" record_timestamp="1430315037056" record_key="faction_campaign_victory_objective_complete">
+<event>faction_campaign_victory_objective_complete</event>
+<subcategory>wh_event_subcategory_faction_missions_objectives</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{34c44137-92af-41ad-8b72-c4e5d0c62300}" record_timestamp="1457606546956" record_key="faction_civil_war_character">
+<event>faction_civil_war_character</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{5fd3cdd1-a12e-4a5e-8c02-d270f71cb3a6}" record_timestamp="1457606546966" record_key="faction_civil_war_ends">
+<event>faction_civil_war_ends</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{81e509c5-2d32-4d2b-aa54-b95253f749c9}" record_timestamp="1457606546977" record_key="faction_civil_war_force">
+<event>faction_civil_war_force</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{5a48d1b4-cfa2-4bfc-bd12-8a02eaac8512}" record_timestamp="1457606546988" record_key="faction_civil_war_province">
+<event>faction_civil_war_province</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{fc7442b6-5e30-4e64-83b5-22a651d5297a}" record_timestamp="1430315034484" record_key="faction_event_dilemma">
+<event>faction_event_dilemma</event>
+<subcategory>wh_event_subcategory_faction_event_dilemma_incident</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{cdcb3e01-590b-4576-877d-e4b5e9869cb4}" record_timestamp="1430315034551" record_key="faction_event_incident">
+<event>faction_event_incident</event>
+<subcategory>wh_event_subcategory_faction_event_dilemma_incident</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{e3df9004-d186-486a-a8ea-6d5e7a1d907e}" record_timestamp="1430315037196" record_key="faction_event_mission_aborted">
+<event>faction_event_mission_aborted</event>
+<subcategory>wh_event_subcategory_faction_missions_objectives</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{14ba9a52-6ef5-4da4-bac8-ed1fd2ff168c}" record_timestamp="1430315037349" record_key="faction_event_mission_failed">
+<event>faction_event_mission_failed</event>
+<subcategory>wh_event_subcategory_faction_missions_objectives</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{26fac6cc-50ba-44c7-870a-8222578dc860}" record_timestamp="1430315036987" record_key="faction_event_mission_issued">
+<event>faction_event_mission_issued</event>
+<subcategory>wh_event_subcategory_faction_missions_objectives</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{1b1ba771-45ff-4f91-8c38-1d622dab178a}" record_timestamp="1430315037273" record_key="faction_event_mission_success">
+<event>faction_event_mission_success</event>
+<subcategory>wh_event_subcategory_faction_missions_objectives</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{623f4a34-7021-4998-a359-5d8f4934ab61}" record_timestamp="1430315034818" record_key="faction_famine">
+<event>faction_famine</event>
+<subcategory>wh_event_subcategory_faction_crises</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{cceaa802-f4f9-4d25-87a4-6c617e2c670c}" record_timestamp="1443784215832" record_key="faction_heir_nominated">
+<event>faction_heir_nominated</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{ed305224-93c9-488c-a866-2c6f8538205a}" record_timestamp="1430315035563" record_key="faction_horde_begins">
+<event>faction_horde_begins</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{85e0fc10-fba3-4749-adbf-ad888737f107}" record_timestamp="1430315036384" record_key="faction_horde_ends">
+<event>faction_horde_ends</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{85498c11-9593-469e-87d6-adbd4da94557}" record_timestamp="1452848955473" record_key="faction_imperium_level_increase">
+<event>faction_imperium_level_increase</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{7b20d28d-1c73-45a8-8952-2ea9344f8511}" record_timestamp="1455877315286" record_key="faction_joins_confederation">
+<event>faction_joins_confederation</event>
+<subcategory>wh_event_subcategory_diplomacy_treaty_negotiated</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{7c11efec-dd7b-43e5-aeb6-0619f9cf50fc}" record_timestamp="1430315034417" record_key="faction_political_dilemma">
+<event>faction_political_dilemma</event>
+<subcategory>wh_event_subcategory_faction_event_dilemma_incident</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{e1f0e478-e5b6-4fa7-b5a8-7352e358b2eb}" record_timestamp="1430315035291" record_key="faction_political_ministerial_term_ended">
+<event>faction_political_ministerial_term_ended</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{879a95d7-9760-4729-a31a-cedc1441dfa9}" record_timestamp="1430315035972" record_key="faction_political_party_power_change">
+<event>faction_political_party_power_change</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{b279894b-22ce-41de-ae19-9d8a5f57393a}" record_timestamp="1430315034751" record_key="faction_political_subject">
+<event>faction_political_subject</event>
+<subcategory>wh_event_subcategory_faction_crises</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{c2359ef4-3d29-4220-97dc-baa9a4b9d2bb}" record_timestamp="1443784215848" record_key="faction_religion_change">
+<event>faction_religion_change</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{45786617-8cc9-4be4-9f85-b173a268a159}" record_timestamp="1430315036177" record_key="faction_resource_gained">
+<event>faction_resource_gained</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{6119a075-0158-48f4-94f0-210db40a8f30}" record_timestamp="1430315035701" record_key="faction_resource_lost">
+<event>faction_resource_lost</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{20266d9b-40c6-4ec3-9e2d-c85a35472f65}" record_timestamp="1443784215848" record_key="faction_succession">
+<event>faction_succession</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{c9c6689e-9604-488c-911f-df580ce6984d}" record_timestamp="1443784215848" record_key="faction_succession_heir_comes_of_age">
+<event>faction_succession_heir_comes_of_age</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{d2d66b78-754c-4a8f-80cf-42a44b497583}" record_timestamp="1443784215863" record_key="faction_succession_regency">
+<event>faction_succession_regency</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{8f41362d-859c-4be4-bc57-590fefe02407}" record_timestamp="1430315036248" record_key="faction_technology_researched">
+<event>faction_technology_researched</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{3acd4a65-e6ac-43f8-a6a4-b8c0e81891b0}" record_timestamp="1430315032663" record_key="horde_building_constructed">
+<event>horde_building_constructed</event>
+<subcategory>wh_event_subcategory_provinces_buildings</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{7bb0bfe4-bf52-4aec-bbed-fbe5b4974ea6}" record_timestamp="1430315032730" record_key="horde_building_demolished">
+<event>horde_building_demolished</event>
+<subcategory>wh_event_subcategory_provinces_buildings</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{49da6aae-b6f1-4c5f-bb37-98e15342d400}" record_timestamp="1430315035426" record_key="horde_development_points_available">
+<event>horde_development_points_available</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{f4d87ff3-f252-4d86-81df-9548d072f638}" record_timestamp="1430315034951" record_key="horde_food_shortage">
+<event>horde_food_shortage</event>
+<subcategory>wh_event_subcategory_faction_crises</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{aaf6ed4f-1d5b-4aa7-abd4-1021a82e6d76}" record_timestamp="1430315034885" record_key="horde_food_shortage_ends">
+<event>horde_food_shortage_ends</event>
+<subcategory>wh_event_subcategory_faction_crises</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{13594434-f55a-4787-af98-dec1c4d5dfdc}" record_timestamp="1457017379987" record_key="horde_unrest_imminent_disband">
+<event>horde_unrest_imminent_disband</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{21f5edf6-853a-47e8-9c4a-053a09ffc483}" record_timestamp="1430315035089" record_key="horde_unrest_imminent_rebellion">
+<event>horde_unrest_imminent_rebellion</event>
+<subcategory>wh_event_subcategory_faction_crises</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{c5d65ffd-371c-4bea-8f43-0e1e66099380}" record_timestamp="1470051555706" record_key="mercenary_unit_character_level_restriction_lifted">
+<event>mercenary_unit_character_level_restriction_lifted</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{7e38b68d-ed46-41f0-af66-4e3946f06546}" record_timestamp="1430315031414" record_key="military_ambusher_discovered">
+<event>military_ambusher_discovered</event>
+<subcategory>wh_event_subcategory_military_ambushes</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{14143d6e-bcef-4294-8b76-c9be7b6c78f2}" record_timestamp="1430315031486" record_key="military_ambusher_discovered_yours">
+<event>military_ambusher_discovered_yours</event>
+<subcategory>wh_event_subcategory_military_ambushes</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{ab2eafc2-6a53-459e-81f0-86d4a371426c}" record_timestamp="1430315031976" record_key="military_army_destroyed">
+<event>military_army_destroyed</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{72d6c104-62c9-4999-8829-e32ba1caf023}" record_timestamp="1430315031766" record_key="military_army_disbanded">
+<event>military_army_disbanded</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{66385fe2-bc64-4bb1-ad5c-6b43e7b7e37f}" record_timestamp="1430315031907" record_key="military_army_founded">
+<event>military_army_founded</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{224e90c7-91a0-4479-b78e-bbccee8b6d10}" record_timestamp="1430315031837" record_key="military_army_raised">
+<event>military_army_raised</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{aa1ef612-4146-465b-96a4-bbd03644d5ca}" record_timestamp="1430315031697" record_key="military_army_rank_gained">
+<event>military_army_rank_gained</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{81d1dbe5-2b6b-40f6-a78e-0873ff4982ff}" record_timestamp="1430315031627" record_key="military_army_withdraws">
+<event>military_army_withdraws</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{d0bb8a10-c8e7-41be-9436-22cc77a40466}" record_timestamp="1430315032115" record_key="military_attrition">
+<event>military_attrition</event>
+<subcategory>wh_event_subcategory_military_attrition</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{9ebaca4f-f4f6-4606-a293-322fb855ccb9}" record_timestamp="1437038710878" record_key="military_companion_army">
+<event>military_companion_army</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{feb4ced6-e9ba-4fc2-9dcd-7957c8c033f1}" record_timestamp="1446108999290" record_key="military_companion_army_destroyed">
+<event>military_companion_army_destroyed</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{f672a67f-5aae-4bf1-98b7-d8914b728415}" record_timestamp="1438849597622" record_key="military_companion_army_dispands">
+<event>military_companion_army_dispands</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{112317da-ccd1-4180-be2d-9e9b3c57bd00}" record_timestamp="1455181069183" record_key="military_companion_army_ours">
+<event>military_companion_army_ours</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{fb302a07-0395-425a-90d8-6ead01c58e09}" record_timestamp="1443784215879" record_key="military_force_decimation">
+<event>military_force_decimation</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{5c8db9ca-5655-4b5d-b8b3-a9ae96288ba5}" record_timestamp="1451905493812" record_key="military_navy_destroyed">
+<event>military_navy_destroyed</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{f60ce564-1648-427b-9c0f-a7832e8c898e}" record_timestamp="1451905493843" record_key="military_navy_disbanded">
+<event>military_navy_disbanded</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{be3c0dd6-6eac-4495-ae0c-89031f355918}" record_timestamp="1451905493868" record_key="military_navy_founded">
+<event>military_navy_founded</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{401a4d03-44f7-44f5-addb-6d1657c53680}" record_timestamp="1451905493896" record_key="military_navy_raised">
+<event>military_navy_raised</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{06808eac-e2ba-4d27-b8c3-a916c4370012}" record_timestamp="1451905493926" record_key="military_navy_rank_gained">
+<event>military_navy_rank_gained</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{da9de3d0-d7c5-4244-b463-6efbee226381}" record_timestamp="1451905493959" record_key="military_navy_withdraws">
+<event>military_navy_withdraws</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{9a58b7d9-54e3-407f-a3e1-6a3801740255}" record_timestamp="1444726405747" record_key="military_path_blocked">
+<event>military_path_blocked</event>
+<subcategory>wh_event_subcategory_military_army_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{05060024-5d94-40ef-9942-221be8053b74}" record_timestamp="1430315039883" record_key="military_unit_recruited">
+<event>military_unit_recruited</event>
+<subcategory>wh_event_subcategory_military_unit_recruited</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{45d26392-d21d-43fd-9c26-78f9f8b019a7}" record_timestamp="1430315032797" record_key="provinces_building_constructed">
+<event>provinces_building_constructed</event>
+<subcategory>wh_event_subcategory_provinces_buildings</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{01fbdac9-2f24-45b5-ad7f-6372dcf0774e}" record_timestamp="1430315032595" record_key="provinces_building_demolished">
+<event>provinces_building_demolished</event>
+<subcategory>wh_event_subcategory_provinces_buildings</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{82b59660-efb0-4783-87b2-0900feaad012}" record_timestamp="1430315039379" record_key="provinces_cannot_abandon_settlement">
+<event>provinces_cannot_abandon_settlement</event>
+<subcategory>wh_event_subcategory_provinces_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{df8c7394-342a-4df8-a102-8842f149d38d}" record_timestamp="1430315039310" record_key="provinces_development_points_available">
+<event>provinces_development_points_available</event>
+<subcategory>wh_event_subcategory_provinces_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{859a94d7-8531-4c5c-b7fb-e2e4f5c77a02}" record_timestamp="1451905494027" record_key="provinces_edict_cancelled">
+<event>provinces_edict_cancelled</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{b7513754-8043-4801-b372-46f8c94e74db}" record_timestamp="1451905494061" record_key="provinces_edict_cancelled_no_governor">
+<event>provinces_edict_cancelled_no_governor</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{8f9fb446-da56-4401-80f9-94939d526bc2}" record_timestamp="1451905494096" record_key="provinces_edict_issued">
+<event>provinces_edict_issued</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{6724cdd5-fe10-49bc-8343-528cd36bfb03}" record_timestamp="1451905494133" record_key="provinces_edict_issued_no_governor">
+<event>provinces_edict_issued_no_governor</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{9ffb8984-f674-4590-8cc2-3782d6d878ed}" record_timestamp="1430315039106" record_key="provinces_food_shortage">
+<event>provinces_food_shortage</event>
+<subcategory>wh_event_subcategory_provinces_crises</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{cb26b145-58cd-4d63-9e87-ed9985533861}" record_timestamp="1430315038969" record_key="provinces_food_shortage_ends">
+<event>provinces_food_shortage_ends</event>
+<subcategory>wh_event_subcategory_provinces_crises</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{74137259-0188-4ba3-ab89-1921f9214571}" record_timestamp="1443784215894" record_key="provinces_plague_spreads_force_to_force">
+<event>provinces_plague_spreads_force_to_force</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{55aa24cf-5f5a-4841-b4a3-b9cf88c85d8d}" record_timestamp="1443784215894" record_key="provinces_plague_spreads_force_to_region">
+<event>provinces_plague_spreads_force_to_region</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{45d53877-c87a-499e-8b52-01f1aec8da65}" record_timestamp="1443784215910" record_key="provinces_plague_spreads_region_to_force">
+<event>provinces_plague_spreads_region_to_force</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{7e99c44e-ac1d-4240-a1f6-52e59010ba1a}" record_timestamp="1443784215785" record_key="provinces_plague_spreads_region_to_region">
+<event>provinces_plague_spreads_region_to_region</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{37c98436-d026-4909-a91f-70eab7014161}" record_timestamp="1443784215816" record_key="provinces_plague_starts">
+<event>provinces_plague_starts</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{c3582852-cde1-455e-8852-b679533d8446}" record_timestamp="1459938965288" record_key="provinces_settlement_abandoned">
+<event>provinces_settlement_abandoned</event>
+<subcategory>wh_event_subcategory_provinces_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{1dd2f3bc-2197-44d0-87ce-6d1338d5a887}" record_timestamp="1430315038143" record_key="provinces_settlement_looted">
+<event>provinces_settlement_looted</event>
+<subcategory>wh_event_subcategory_conquest_occupation</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{175e0fdc-e9df-46ed-81c9-3aa8a4f94703}" record_timestamp="1430315038069" record_key="provinces_settlement_razed">
+<event>provinces_settlement_razed</event>
+<subcategory>wh_event_subcategory_conquest_occupation</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{5199ae3a-08d6-41a8-9530-b54540ec1525}" record_timestamp="1430315038214" record_key="provinces_settlement_sacked">
+<event>provinces_settlement_sacked</event>
+<subcategory>wh_event_subcategory_conquest_occupation</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{e0018856-51c5-458a-990a-d7401c2e3420}" record_timestamp="1430315039037" record_key="provinces_slums">
+<event>provinces_slums</event>
+<subcategory>wh_event_subcategory_provinces_crises</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{7ed6d177-2a4f-4950-80a7-db1de706284e}" record_timestamp="1430315039174" record_key="provinces_unrest_imminent_rebellion">
+<event>provinces_unrest_imminent_rebellion</event>
+<subcategory>wh_event_subcategory_provinces_crises</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{99eb6692-6282-483c-9ea8-25d6d8f1e3ac}" record_timestamp="1430315038902" record_key="provinces_unrest_rebellion">
+<event>provinces_unrest_rebellion</event>
+<subcategory>wh_event_subcategory_provinces_crises</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{dfa924b4-3ca5-43b7-8f00-8f8c14a506e4}" record_timestamp="1430315039447" record_key="provinces_unseasonal_conditions">
+<event>provinces_unseasonal_conditions</event>
+<subcategory>wh_event_subcategory_provinces_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{dca44b67-8f2b-404c-a2c5-2197a9525938}" record_timestamp="1459936820441" record_key="scripted_persistent_event">
+<event>scripted_persistent_event</event>
+<subcategory>wh_event_subcategory_faction_event_dilemma_incident</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{bc9cc2a3-d3e6-400d-beeb-9c4e5d2614dc}" record_timestamp="1459936820441" record_key="scripted_persistent_located_event">
+<event>scripted_persistent_located_event</event>
+<subcategory>wh_event_subcategory_faction_event_dilemma_incident</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{1e33ada4-5938-4e02-8cb6-4f177b51e7ce}" record_timestamp="1459936820442" record_key="scripted_transient_event">
+<event>scripted_transient_event</event>
+<subcategory>wh_event_subcategory_faction_event_dilemma_incident</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{be05edbc-1f5d-4d6b-a25d-54603b6a5094}" record_timestamp="1459936820442" record_key="scripted_transient_located_event">
+<event>scripted_transient_located_event</event>
+<subcategory>wh_event_subcategory_faction_event_dilemma_incident</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{cb1fd469-4395-4822-a483-363e208161fe}" record_timestamp="1486037443285" record_key="unique_agent_despawned">
+<event>unique_agent_despawned</event>
+<subcategory>wh_event_subcategory_character_deaths</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{d0698cc7-185d-4e72-aac4-70a1cd9f5d7e}" record_timestamp="1486037443297" record_key="unique_agent_spawned">
+<event>unique_agent_spawned</event>
+<subcategory>wh_event_subcategory_agent_recruited</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{811b1620-dc55-450d-8033-6d2cae95613e}" record_timestamp="1443784215832" record_key="world_climate_change">
+<event>world_climate_change</event>
+<subcategory>wh_event_subcategory_faction_developments</subcategory>
+<suppress_in_startpos>0</suppress_in_startpos>
+</event_feed_events>
+<event_feed_events record_uuid="{3015c7cd-5b3f-4d60-b75b-344c63b44b5e}" record_timestamp="1442934909657" record_key="world_winds_of_magic_change">
+<event>world_winds_of_magic_change</event>
+<subcategory>wh_event_subcategory_world_climate</subcategory>
+<suppress_in_startpos>1</suppress_in_startpos>
+</event_feed_events>
+</dataroot>

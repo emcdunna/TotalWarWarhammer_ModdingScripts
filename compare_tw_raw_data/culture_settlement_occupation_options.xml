@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="culture_settlement_occupation_options.xsd" export_time="Fri Jan 20 10:05:15 2017" revision="58" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>197b4f17-6f5d-4526-83b8-89015be9e9be</edit_uuid>
+<culture_settlement_occupation_options record_uuid="{d9c7a8f6-7c80-47bc-9e24-cef3ed2af5c6}" record_timestamp="1465577683878" record_key="0">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>-100</base_loot>
+<building_loot_mod>0</building_loot_mod>
+<group>wh_occupation_decision_all</group>
+<icon>raze</icon>
+<id>0</id>
+<option>occupation_decision_raze_without_occupy</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Raze||All buildings are destroyed and the settlement is torched." last_edit_user="bob">Raze||All buildings are destroyed and the settlement is torched.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{c1b3d0b3-6817-4f9c-9f65-500939f761c5}" record_timestamp="1464268689060" record_key="100">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_vassal_chaos</group>
+<icon>enslave</icon>
+<id>100</id>
+<option>occupation_decision_vassal</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Subjugate||You will become the master of the conquered faction, and they will become your vassal, paying tribute each turn. All captives are enslaved." last_edit_user="bob">Subjugate||You will become the master of the conquered faction, and they will become your vassal, paying tribute each turn. All captives are enslaved.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{fe65406c-76ca-47a7-b62a-fe2934dedfa1}" record_timestamp="1464268689060" record_key="104">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_vassal_dwarfs</group>
+<icon>enslave</icon>
+<id>104</id>
+<option>occupation_decision_vassal</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Subjugate||You will become the master of the conquered faction, and they will become your vassal, paying tribute each turn. All captives are enslaved." last_edit_user="bob">Subjugate||You will become the master of the conquered faction, and they will become your vassal, paying tribute each turn. All captives are enslaved.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{67334e86-d0e3-4048-ab17-080ef449914d}" record_timestamp="1464268689060" record_key="114">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_vassal_empire</group>
+<icon>enslave</icon>
+<id>114</id>
+<option>occupation_decision_vassal</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Subjugate||You will become the master of the conquered faction, and they will become your vassal, paying tribute each turn. All captives are enslaved." last_edit_user="bob">Subjugate||You will become the master of the conquered faction, and they will become your vassal, paying tribute each turn. All captives are enslaved.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{0acdaddb-b143-4577-abb5-603ee046db47}" record_timestamp="1464268689060" record_key="120">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_vassal_greenskins</group>
+<icon>enslave</icon>
+<id>120</id>
+<option>occupation_decision_vassal</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Subjugate||You will become the master of the conquered faction, and they will become your vassal, paying tribute each turn. All captives are enslaved." last_edit_user="bob">Subjugate||You will become the master of the conquered faction, and they will become your vassal, paying tribute each turn. All captives are enslaved.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{6ebf4edc-905e-4e81-ad2f-9b103a33d924}" record_timestamp="1464268689060" record_key="121">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_vassal_vampire_counts</group>
+<icon>enslave</icon>
+<id>121</id>
+<option>occupation_decision_vassal</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Subjugate||You will become the master of the conquered faction, and they will become your vassal, paying tribute each turn. All captives are enslaved." last_edit_user="bob">Subjugate||You will become the master of the conquered faction, and they will become your vassal, paying tribute each turn. All captives are enslaved.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{1272e9db-4ca0-45a1-873d-3af623124e0d}" record_timestamp="1481045565142" record_key="126">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_dlc05_occupation_decision_vassal_wood_elves</group>
+<icon>enslave</icon>
+<id>126</id>
+<option>occupation_decision_vassal</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Subjugate||You will become the master of the conquered faction, and they will become your vassal, paying tribute each turn. All captives are enslaved." last_edit_user="bob">Subjugate||You will become the master of the conquered faction, and they will become your vassal, paying tribute each turn. All captives are enslaved.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{9bc5e35d-9bb6-4ed7-98c1-5acbd64595e2}" record_timestamp="1467714637689" record_key="13">
+<acting_army_effect_bundle>wh_dlc03_bundle_horde_raze</acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>1</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>0</building_loot_mod>
+<group>wh_dlc03_occupation_decision_beastmen</group>
+<icon>wh_dlc03_bst_beastmen_raze_a</icon>
+<id>13</id>
+<option>occupation_decision_raze_without_occupy</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Raze &amp; Defile||All buildings are destroyed, their shrines are defiled and the settlement is torched." last_edit_user="bob">Raze &amp; Defile||All buildings are destroyed, their shrines are defiled and the settlement is torched.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{e62fe29c-ade6-46b0-bc4c-f8a8100e2673}" record_timestamp="1464268689053" record_key="132">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_waaagh</group>
+<icon>placeholder</icon>
+<id>132</id>
+<option>occupation_decision_gift_to_another_faction</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Gift||The settlement is captured and gifted to another faction." last_edit_user="bob">Gift||The settlement is captured and gifted to another faction.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{3b703800-7b3e-4142-9e65-86b85e71b412}" record_timestamp="1481045565146" record_key="136">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle>wh_dlc05_occupation_wood_elves_dummy_gain_amber</acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_dlc05_occupation_decision_woodelves</group>
+<icon>colonise</icon>
+<id>136</id>
+<option>occupation_decision_colonise</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>-1</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Colonise||Settle your troops." last_edit_user="bob">Colonise||Settle your troops.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{86641329-d35d-4274-b656-edc4097d2a1f}" record_timestamp="1481029543996" record_key="14">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>100</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_dlc03_occupation_decision_beastmen</group>
+<icon>wh_dlc03_bst_beastmen_raze_b</icon>
+<id>14</id>
+<option>occupation_decision_raze_without_occupy</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Loot &amp; Raze||You do not occupy the settlement but instead steal its wealth and torch the place." last_edit_user="bob">Loot &amp; Raze||You do not occupy the settlement but instead steal its wealth and torch the place.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{30f2593d-819e-4fa1-85ba-58778136e024}" record_timestamp="1481045565138" record_key="143">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle>wh_dlc05_occupation_wood_elves_dummy_gain_amber</acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>-100</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_dlc05_occupation_decision_woodelves</group>
+<icon>occupy</icon>
+<id>143</id>
+<option>occupation_decision_occupy</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>-1</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Seeding||{{tr:occupation_decision_occupy}}" last_edit_user="bob">Seeding||{{tr:occupation_decision_occupy}}</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{a90c515a-f20e-4fae-8baa-0bcfcf63e55d}" record_timestamp="1481045565139" record_key="146">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle>wh_dlc05_occupation_wood_elves_dummy_gain_amber</acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_dlc05_occupation_decision_woodelves</group>
+<icon>occupy</icon>
+<id>146</id>
+<option>occupation_decision_resettle</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>-1</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Resettle||With no regions currently under your control, you have the option to settle your army here." last_edit_user="bob">Resettle||With no regions currently under your control, you have the option to settle your army here.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{b686c214-2167-426d-9e02-9252c8ae7919}" record_timestamp="1477035609214" record_key="159">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_all</group>
+<icon>desolation</icon>
+<id>159</id>
+<option>occupation_decision_do_nothing</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Do nothing||You take no action. This settlement has already been plundered." last_edit_user="bob">Do nothing||You take no action. This settlement has already been plundered.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{73695b28-ef00-4a09-bd94-4b1c8fb0ec59}" record_timestamp="1466172813534" record_key="307">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_dlc03_occupation_decision_beastmen_mini_campaign_humans_no_resettle</group>
+<icon>desolation</icon>
+<id>307</id>
+<option>occupation_decision_do_nothing</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Do nothing||Do nothing" last_edit_user="bob">Do nothing||Do nothing</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{4fc7b96e-87bd-48b9-8f4c-390bfa533d77}" record_timestamp="1467714637689" record_key="312">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_dlc03_occupation_decision_beastmen</group>
+<icon>desolation</icon>
+<id>312</id>
+<option>occupation_decision_do_nothing</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Do nothing||Do nothing" last_edit_user="bob">Do nothing||Do nothing</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{96494ba6-f09e-402f-a1ad-1886e9c65ad0}" record_timestamp="1467715792208" record_key="313">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>-100</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_dlc03_occupation_decision_beastmen_mini_campaign_humans_no_resettle</group>
+<icon>raze</icon>
+<id>313</id>
+<option>occupation_decision_raze_without_occupy</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Raze||All buildings are destroyed and the settlement is torched." last_edit_user="bob">Raze||All buildings are destroyed and the settlement is torched.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{3574b345-127e-44e2-97b5-41527c86dad7}" record_timestamp="1481028482759" record_key="315">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_dlc03_occupation_decision_beastmen_mini_campaign_humans_no_resettle</group>
+<icon>sack</icon>
+<id>315</id>
+<option>occupation_decision_sack</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Sack||You do not occupy the settlement but instead steal wealth and damage buildings. All captives are killed.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is reduced and the previous owners will like you a lot less." last_edit_user="bob">Sack||You do not occupy the settlement but instead steal wealth and damage buildings. All captives are killed.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is reduced and the previous owners will like you a lot less.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{99171717-54d4-4f92-a9a5-fd6189cc521b}" record_timestamp="1468497397596" record_key="320">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_dlc03_occupation_decision_beastmen_mini_campaign_savage_orcs</group>
+<icon>desolation</icon>
+<id>320</id>
+<option>occupation_decision_do_nothing</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Do nothing||Do nothing" last_edit_user="bob">Do nothing||Do nothing</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{98f35912-f20b-461e-9072-196be95fab3a}" record_timestamp="1481028482759" record_key="326">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_dlc03_occupation_decision_beastmen_mini_campaign_savage_orcs</group>
+<icon>sack</icon>
+<id>326</id>
+<option>occupation_decision_sack</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Sack||You do not occupy the settlement but instead steal wealth and damage buildings. All captives are killed.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is reduced and the previous owners will like you a lot less." last_edit_user="bob">Sack||You do not occupy the settlement but instead steal wealth and damage buildings. All captives are killed.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is reduced and the previous owners will like you a lot less.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{9081448e-cb9c-4573-82ff-6ec18f7b97d2}" record_timestamp="1469456405373" record_key="336">
+<acting_army_effect_bundle>wh_main_bundle_horde_raze</acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>1</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>-100</base_loot>
+<building_loot_mod>0</building_loot_mod>
+<group>wh_occupation_decision_chaos</group>
+<icon>raze</icon>
+<id>336</id>
+<option>occupation_decision_raze_without_occupy</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Raze||All buildings are destroyed and the settlement is torched." last_edit_user="bob">Raze||All buildings are destroyed and the settlement is torched.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{75494b91-ee0b-4773-aa36-20550a815727}" record_timestamp="1477035609214" record_key="341">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_chaos</group>
+<icon>desolation</icon>
+<id>341</id>
+<option>occupation_decision_do_nothing</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Do nothing||You take no action. This settlement has already been plundered." last_edit_user="bob">Do nothing||You take no action. This settlement has already been plundered.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{eb83c02b-df1b-4500-8044-316c68131df5}" record_timestamp="1481028482760" record_key="347">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_chaos</group>
+<icon>sack</icon>
+<id>347</id>
+<option>occupation_decision_sack</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Sack||You do not occupy the settlement but instead steal wealth and damage buildings. All captives are killed.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is reduced and the previous owners will like you a lot less." last_edit_user="bob">Sack||You do not occupy the settlement but instead steal wealth and damage buildings. All captives are killed.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is reduced and the previous owners will like you a lot less.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{4d3df0ec-39c7-4bda-b0d5-1e951e6a2990}" record_timestamp="1464268689057" record_key="35">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_dwarfs_and_greenskins_not_waaagh</group>
+<icon>colonise</icon>
+<id>35</id>
+<option>occupation_decision_colonise</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Colonise||Settle your troops." last_edit_user="bob">Colonise||Settle your troops.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{063b54e6-dc51-400e-8ac2-7889ee0012c3}" record_timestamp="1481045565148" record_key="353">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_dlc05_occupation_decision_woodelves</group>
+<icon>desolation</icon>
+<id>353</id>
+<option>occupation_decision_do_nothing</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Do nothing||You take no action. This settlement has already been plundered." last_edit_user="bob">Do nothing||You take no action. This settlement has already been plundered.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{c3217921-826d-46c7-b26e-259674090670}" record_timestamp="1481045565150" record_key="358">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>100</base_loot>
+<building_loot_mod>2</building_loot_mod>
+<group>wh_dlc05_occupation_decision_woodelves</group>
+<icon>wh_dlc05_wef_wood_elves_raze</icon>
+<id>358</id>
+<option>occupation_decision_raze_without_occupy</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Raze||All buildings are destroyed and the settlement is torched." last_edit_user="bob">Raze||All buildings are destroyed and the settlement is torched.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{ee6d79ce-6ee0-4b22-ac71-f28388ee5d96}" record_timestamp="1484842732247" record_key="367">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle>wh_dlc07_occupation_bretonnia_chivalry_dummy_razing_humans</acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>-100</base_loot>
+<building_loot_mod>0</building_loot_mod>
+<group>wh_occupation_decision_bretonnia_raze</group>
+<icon>raze</icon>
+<id>367</id>
+<option>occupation_decision_raze_without_occupy</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Raze||All buildings are destroyed and the settlement is torched." last_edit_user="bob">Raze||All buildings are destroyed and the settlement is torched.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{a35828be-3c95-4f86-a6fc-06f6c3047544}" record_timestamp="1484842732235" record_key="377">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_bretonnia</group>
+<icon>desolation</icon>
+<id>377</id>
+<option>occupation_decision_do_nothing</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Do nothing||Do nothing" last_edit_user="bob">Do nothing||Do nothing</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{7e6df648-dd54-48ec-ac98-8a4d1f8bdbc3}" record_timestamp="1484842732235" record_key="386">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle>wh_dlc07_occupation_bretonnia_chivalry_dummy_sacking_humans</acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_bretonnia_sack</group>
+<icon>sack</icon>
+<id>386</id>
+<option>occupation_decision_sack</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Sack||You do not occupy the settlement but instead steal wealth and damage buildings. All captives are killed.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is reduced and the previous owners will like you a lot less." last_edit_user="bob">Sack||You do not occupy the settlement but instead steal wealth and damage buildings. All captives are killed.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is reduced and the previous owners will like you a lot less.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{148bc14d-40cb-441c-9067-5e71d25f2e88}" record_timestamp="1484842732234" record_key="387">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_bretonnia_occupy</group>
+<icon>colonise</icon>
+<id>387</id>
+<option>occupation_decision_colonise</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Colonise||Settle your troops." last_edit_user="bob">Colonise||Settle your troops.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{177abbcd-ca22-4a6a-9423-b8ee21eb5770}" record_timestamp="1484842732233" record_key="395">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_bretonnia_occupy</group>
+<icon>occupy</icon>
+<id>395</id>
+<option>occupation_decision_occupy</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Occupy||{{tr:occupation_decision_occupy}}" last_edit_user="bob">Occupy||{{tr:occupation_decision_occupy}}</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{565edb2d-fbdd-42d8-9294-d2294389b5c9}" record_timestamp="1484842732232" record_key="398">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_bretonnia_occupy</group>
+<icon>colonise</icon>
+<id>398</id>
+<option>occupation_decision_resettle</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Resettle||With no regions currently under your control, you have the option to settle your army here." last_edit_user="bob">Resettle||With no regions currently under your control, you have the option to settle your army here.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{da6a907b-9c5d-48db-b8a6-699dafe175e0}" record_timestamp="1484842732247" record_key="404">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle>wh_dlc07_occupation_bretonnia_chivalry_dummy_razing_enemy</acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>-100</base_loot>
+<building_loot_mod>0</building_loot_mod>
+<group>wh_occupation_decision_bretonnia_raze_enemy</group>
+<icon>raze</icon>
+<id>404</id>
+<option>occupation_decision_raze_without_occupy</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Raze||All buildings are destroyed and the settlement is torched." last_edit_user="bob">Raze||All buildings are destroyed and the settlement is torched.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{bf0e6029-ac29-4be0-a53a-fbd7f98595a6}" record_timestamp="1484842732247" record_key="408">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>-100</base_loot>
+<building_loot_mod>0</building_loot_mod>
+<group>wh_occupation_decision_bretonnia_raze_neutrals</group>
+<icon>raze</icon>
+<id>408</id>
+<option>occupation_decision_raze_without_occupy</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Raze||All buildings are destroyed and the settlement is torched." last_edit_user="bob">Raze||All buildings are destroyed and the settlement is torched.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{a888888d-f1f8-4c42-81ec-4c757c8cd4ec}" record_timestamp="1464268689057" record_key="41">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_dwarfs_and_greenskins_not_waaagh</group>
+<icon>loot</icon>
+<id>41</id>
+<option>occupation_decision_loot</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Loot &amp; Occupy||You gain wealth from looting, but buildings in the settlement are damaged. All captives are enslaved.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is greatly reduced and your diplomatic relations with the previous owner also suffer greatly." last_edit_user="bob">Loot &amp; Occupy||You gain wealth from looting, but buildings in the settlement are damaged. All captives are enslaved.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is greatly reduced and your diplomatic relations with the previous owner also suffer greatly.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{38cd897c-2793-4368-b31d-e57fc55679e0}" record_timestamp="1484842732233" record_key="414">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle>wh_dlc07_occupation_bretonnia_chivalry_dummy_sacking_enemy</acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_bretonnia_sack_enemy</group>
+<icon>sack</icon>
+<id>414</id>
+<option>occupation_decision_sack</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Sack||You do not occupy the settlement but instead steal wealth and damage buildings. All captives are killed.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is reduced and the previous owners will like you a lot less." last_edit_user="bob">Sack||You do not occupy the settlement but instead steal wealth and damage buildings. All captives are killed.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is reduced and the previous owners will like you a lot less.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{6cfb1ce0-7744-4618-9b6b-d2c7029bdd24}" record_timestamp="1484842732237" record_key="422">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle>wh_dlc07_occupation_bretonnia_chivalry_dummy_sacking_neutral</acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_bretonnia_sack_neutrals</group>
+<icon>sack</icon>
+<id>422</id>
+<option>occupation_decision_sack</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Sack||You do not occupy the settlement but instead steal wealth and damage buildings. All captives are killed.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is reduced and the previous owners will like you a lot less." last_edit_user="bob">Sack||You do not occupy the settlement but instead steal wealth and damage buildings. All captives are killed.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is reduced and the previous owners will like you a lot less.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{c2fa2a41-4549-4a83-9c22-5fb91675c1a0}" record_timestamp="1464268689058" record_key="47">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_dwarfs_and_greenskins_not_waaagh</group>
+<icon>occupy</icon>
+<id>47</id>
+<option>occupation_decision_occupy</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Occupy||{{tr:occupation_decision_occupy}}" last_edit_user="bob">Occupy||{{tr:occupation_decision_occupy}}</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{20c68fe3-58d5-4f34-bd98-d360ef0e954d}" record_timestamp="1464268689059" record_key="55">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_dwarfs_and_greenskins_not_waaagh</group>
+<icon>colonise</icon>
+<id>55</id>
+<option>occupation_decision_resettle</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Resettle||With no regions currently under your control, you have the option to settle your army here." last_edit_user="bob">Resettle||With no regions currently under your control, you have the option to settle your army here.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{14871138-ea96-4012-afd9-22e85af0c44c}" record_timestamp="1464268689057" record_key="56">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_humans</group>
+<icon>colonise</icon>
+<id>56</id>
+<option>occupation_decision_colonise</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Colonise||Settle your troops." last_edit_user="bob">Colonise||Settle your troops.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{2096f8da-6399-4851-893e-ee06a59084bc}" record_timestamp="1464268689057" record_key="58">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_humans</group>
+<icon>loot</icon>
+<id>58</id>
+<option>occupation_decision_loot</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Loot &amp; Occupy||You gain wealth from looting, but buildings in the settlement are damaged. All captives are enslaved.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is greatly reduced and your diplomatic relations with the previous owner also suffer greatly." last_edit_user="bob">Loot &amp; Occupy||You gain wealth from looting, but buildings in the settlement are damaged. All captives are enslaved.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is greatly reduced and your diplomatic relations with the previous owner also suffer greatly.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{33d7769c-614a-4df9-ab58-74689972aede}" record_timestamp="1464268689058" record_key="62">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_humans</group>
+<icon>occupy</icon>
+<id>62</id>
+<option>occupation_decision_occupy</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Occupy||{{tr:occupation_decision_occupy}}" last_edit_user="bob">Occupy||{{tr:occupation_decision_occupy}}</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{2ac8f42a-af0a-40dc-b840-9066eabb90a9}" record_timestamp="1464268689059" record_key="69">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_humans</group>
+<icon>colonise</icon>
+<id>69</id>
+<option>occupation_decision_resettle</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Resettle||With no regions currently under your control, you have the option to settle your army here." last_edit_user="bob">Resettle||With no regions currently under your control, you have the option to settle your army here.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{040a1a16-c518-46ef-8dfa-87a783a98b39}" record_timestamp="1464268689057" record_key="75">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_liberate_chaos</group>
+<icon>enslave</icon>
+<id>75</id>
+<option>occupation_decision_liberate</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Awaken Tribe||You summon the original Norse tribe that once wandered this region, resurrecting their faction. All captives are released.\n\nThey will be immensely grateful for this, offering their services as a military ally." last_edit_user="bob">Awaken Tribe||You summon the original Norse tribe that once wandered this region, resurrecting their faction. All captives are released.\n\nThey will be immensely grateful for this, offering their services as a military ally.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{7910c8da-8c1e-4088-b7b7-4a883f23982c}" record_timestamp="1464268689057" record_key="80">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_norsca</group>
+<icon>colonise</icon>
+<id>80</id>
+<option>occupation_decision_colonise</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Colonise||Settle your troops." last_edit_user="bob">Colonise||Settle your troops.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{f41f20c7-7fdb-4788-a2b7-be00801da3f4}" record_timestamp="1464268689058" record_key="85">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_norsca</group>
+<icon>loot</icon>
+<id>85</id>
+<option>occupation_decision_loot</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Loot &amp; Occupy||You gain wealth from looting, but buildings in the settlement are damaged. All captives are enslaved.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is greatly reduced and your diplomatic relations with the previous owner also suffer greatly." last_edit_user="bob">Loot &amp; Occupy||You gain wealth from looting, but buildings in the settlement are damaged. All captives are enslaved.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is greatly reduced and your diplomatic relations with the previous owner also suffer greatly.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{d3937f5d-946e-4dc5-ad0f-4d0f10e49d4c}" record_timestamp="1464268689058" record_key="89">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_norsca</group>
+<icon>occupy</icon>
+<id>89</id>
+<option>occupation_decision_occupy</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Occupy||{{tr:occupation_decision_occupy}}" last_edit_user="bob">Occupy||{{tr:occupation_decision_occupy}}</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{d39c9957-cb35-4968-a7bb-449d30191498}" record_timestamp="1481028482759" record_key="9">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_all</group>
+<icon>sack</icon>
+<id>9</id>
+<option>occupation_decision_sack</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Sack||You do not occupy the settlement but instead steal wealth and damage buildings. All captives are killed.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is reduced and the previous owners will like you a lot less." last_edit_user="bob">Sack||You do not occupy the settlement but instead steal wealth and damage buildings. All captives are killed.||[[img:icon_public_order]][[/img]]{{tr:public_order}} is reduced and the previous owners will like you a lot less.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{a357ac73-6007-4d39-97f1-179b2eeb9e27}" record_timestamp="1464268689059" record_key="90">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_norsca</group>
+<icon>colonise</icon>
+<id>90</id>
+<option>occupation_decision_resettle</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Resettle||With no regions currently under your control, you have the option to settle your army here." last_edit_user="bob">Resettle||With no regions currently under your control, you have the option to settle your army here.</tooltip>
+</culture_settlement_occupation_options>
+<culture_settlement_occupation_options record_uuid="{68f8b55d-3285-4406-8186-d974900e5f9d}" record_timestamp="1464268689061" record_key="95">
+<acting_army_effect_bundle></acting_army_effect_bundle>
+<acting_army_effect_bundle_turns>0</acting_army_effect_bundle_turns>
+<acting_army_faction_effect_bundle></acting_army_faction_effect_bundle>
+<acting_army_faction_effect_bundle_turns>0</acting_army_faction_effect_bundle_turns>
+<base_loot>0</base_loot>
+<building_loot_mod>1</building_loot_mod>
+<group>wh_occupation_decision_vassal_bretonnia</group>
+<icon>enslave</icon>
+<id>95</id>
+<option>occupation_decision_vassal</option>
+<target_settlement_faction_effect_bundle></target_settlement_faction_effect_bundle>
+<target_settlement_faction_effect_bundle_turns>0</target_settlement_faction_effect_bundle_turns>
+<tooltip state="APPROVED" last_approved_text="Subjugate||You will become the master of the conquered faction, and they will become your vassal, paying tribute each turn. All captives are enslaved." last_edit_user="bob">Subjugate||You will become the master of the conquered faction, and they will become your vassal, paying tribute each turn. All captives are enslaved.</tooltip>
+</culture_settlement_occupation_options>
+</dataroot>

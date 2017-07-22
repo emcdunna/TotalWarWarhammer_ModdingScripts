@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_unit_attribute_junctions.xsd" export_time="Wed Aug 3 16:35:44 2016" revision="13" export_branch="T:/branches/warhammer/sigmar/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>71a4d121-5052-45d4-9749-948b272ca2a0</edit_uuid>
+<effect_bonus_value_unit_attribute_junctions record_uuid="{0cf687bc-a1e4-4687-99a0-1747793202fb}" record_timestamp="1470064849302" record_key="wh_dlc03_effect_unit_enable_attribute_unbreakableenableunbreakable">
+<bonus_value_id>enable</bonus_value_id>
+<effect>wh_dlc03_effect_unit_enable_attribute_unbreakable</effect>
+<unit_attribute>unbreakable</unit_attribute>
+</effect_bonus_value_unit_attribute_junctions>
+<effect_bonus_value_unit_attribute_junctions record_uuid="{03c15ab3-fa62-462f-ac63-24027b8f49ae}" record_timestamp="1462359686219" record_key="wh_main_effect_unit_enable_attribute_fearenablecauses_fear">
+<bonus_value_id>enable</bonus_value_id>
+<effect>wh_main_effect_unit_enable_attribute_fear</effect>
+<unit_attribute>causes_fear</unit_attribute>
+</effect_bonus_value_unit_attribute_junctions>
+<effect_bonus_value_unit_attribute_junctions record_uuid="{13af74c6-5dd7-479e-8efa-f0b834488485}" record_timestamp="1470238542590" record_key="wh_main_effect_unit_enable_attribute_guerrilla_deployment_hiddenenableguerrilla_deploy">
+<bonus_value_id>enable</bonus_value_id>
+<effect>wh_main_effect_unit_enable_attribute_guerrilla_deployment_hidden</effect>
+<unit_attribute>guerrilla_deploy</unit_attribute>
+</effect_bonus_value_unit_attribute_junctions>
+<effect_bonus_value_unit_attribute_junctions record_uuid="{2f60318f-2c32-44a1-9f35-3196ccd95434}" record_timestamp="1436195704823" record_key="wh_main_effect_unit_enable_attribute_guerrilla_deploymentenableguerrilla_deploy">
+<bonus_value_id>enable</bonus_value_id>
+<effect>wh_main_effect_unit_enable_attribute_guerrilla_deployment</effect>
+<unit_attribute>guerrilla_deploy</unit_attribute>
+</effect_bonus_value_unit_attribute_junctions>
+<effect_bonus_value_unit_attribute_junctions record_uuid="{d7771f46-adbc-4514-91f4-f22354a47230}" record_timestamp="1436195704833" record_key="wh_main_effect_unit_enable_attribute_immune_to_psychologyenableimmune_to_psychology">
+<bonus_value_id>enable</bonus_value_id>
+<effect>wh_main_effect_unit_enable_attribute_immune_to_psychology</effect>
+<unit_attribute>immune_to_psychology</unit_attribute>
+</effect_bonus_value_unit_attribute_junctions>
+<effect_bonus_value_unit_attribute_junctions record_uuid="{9033a88c-01ea-4b9f-8925-b0bf19f718eb}" record_timestamp="1445951975470" record_key="wh_main_effect_unit_enable_attribute_striderenableignore_forest_penalties">
+<bonus_value_id>enable</bonus_value_id>
+<effect>wh_main_effect_unit_enable_attribute_strider</effect>
+<unit_attribute>ignore_forest_penalties</unit_attribute>
+</effect_bonus_value_unit_attribute_junctions>
+<effect_bonus_value_unit_attribute_junctions record_uuid="{c093ada1-0837-4dec-bd8b-d02114708a52}" record_timestamp="1436195704841" record_key="wh_main_effect_unit_enable_attribute_terrorenablecauses_terror">
+<bonus_value_id>enable</bonus_value_id>
+<effect>wh_main_effect_unit_enable_attribute_terror</effect>
+<unit_attribute>causes_terror</unit_attribute>
+</effect_bonus_value_unit_attribute_junctions>
+<effect_bonus_value_unit_attribute_junctions record_uuid="{8dd7d562-5958-4432-8f96-d711d3a2aa30}" record_timestamp="1462359652939" record_key="wh_main_effect_unit_enable_attribute_unbreakableenableunbreakable">
+<bonus_value_id>enable</bonus_value_id>
+<effect>wh_main_effect_unit_enable_attribute_unbreakable</effect>
+<unit_attribute>unbreakable</unit_attribute>
+</effect_bonus_value_unit_attribute_junctions>
+</dataroot>

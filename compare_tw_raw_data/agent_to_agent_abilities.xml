@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="agent_to_agent_abilities.xsd" export_time="Wed Apr 6 10:04:53 2016" revision="40" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>034d5ff7-6142-4ec5-80ac-24798360a398</edit_uuid>
+<agent_to_agent_abilities record_uuid="{439efc2e-afdb-4051-ab8c-ceb4071e9715}" record_key="colonelcommand_force">
+<ability>command_force</ability>
+<agent>colonel</agent>
+</agent_to_agent_abilities>
+<agent_to_agent_abilities record_uuid="{4156140c-8f4c-456d-8e8d-d73465d3b9f1}" record_key="generalcommand_force">
+<ability>command_force</ability>
+<agent>general</agent>
+</agent_to_agent_abilities>
+</dataroot>

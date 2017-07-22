@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ui_unit_stat_to_classes.xsd" export_time="Fri Dec 16 12:38:30 2016" revision="66" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>9fa66f54-ddf3-4d8c-86b2-002a18ee8142</edit_uuid>
+<ui_unit_stat_to_classes record_uuid="{56a52d8a-5d82-4fb7-b22b-2527d0d25ca6}" record_timestamp="1438262787837" record_key="scalar_missile_rangeart_fixnone">
+<base_value>600</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_missile_range</stat_key>
+<unit_class>art_fix</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{a12639ad-a98d-4d12-b1e5-f34bb5fe4e7f}" record_timestamp="1438262787837" record_key="scalar_missile_rangeart_fldnone">
+<base_value>600</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_missile_range</stat_key>
+<unit_class>art_fld</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{2527e3b3-3c7a-4d5c-8f34-a08b3ea67639}" record_timestamp="1438262787837" record_key="scalar_missile_rangeart_siegenone">
+<base_value>600</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_missile_range</stat_key>
+<unit_class>art_siege</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{dc2a399c-db76-4bfe-b595-3d5d38545209}" record_timestamp="1438262787837" record_key="scalar_missile_rangecav_melnone">
+<base_value>600</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_missile_range</stat_key>
+<unit_class>cav_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{88618bba-dcbb-44ac-b2a2-d8aefb8d4cd5}" record_timestamp="1438262787837" record_key="scalar_missile_rangecav_misnone">
+<base_value>600</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_missile_range</stat_key>
+<unit_class>cav_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{98fcfa51-8136-4ea3-b70d-33135f4a60a3}" record_timestamp="1438262787836" record_key="scalar_missile_rangecav_shknone">
+<base_value>600</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_missile_range</stat_key>
+<unit_class>cav_shk</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{9c347cfe-6031-45a9-badf-6796487db228}" record_timestamp="1438262787837" record_key="scalar_missile_rangechariotnone">
+<base_value>600</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_missile_range</stat_key>
+<unit_class>chariot</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{799a8f99-a8d1-44d5-a97f-b2de05144993}" record_timestamp="1438262787838" record_key="scalar_missile_rangecomnone">
+<base_value>600</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_missile_range</stat_key>
+<unit_class>com</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{81c8d628-4c48-4c72-8220-aeff6513f605}" record_timestamp="1438262787836" record_key="scalar_missile_rangeinf_melnone">
+<base_value>600</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_missile_range</stat_key>
+<unit_class>inf_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{b400c003-aa65-4f2f-a3e4-f63c05d77a5e}" record_timestamp="1438262787838" record_key="scalar_missile_rangeinf_misnone">
+<base_value>600</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_missile_range</stat_key>
+<unit_class>inf_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{882d674b-cedf-49eb-a31b-c20580bde238}" record_timestamp="1438262787837" record_key="scalar_missile_rangeinf_sprnone">
+<base_value>600</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_missile_range</stat_key>
+<unit_class>inf_spr</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{87a4292e-ed0a-4616-a848-efe802525cdf}" record_timestamp="1438262787838" record_key="scalar_missile_rangespclnone">
+<base_value>600</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_missile_range</stat_key>
+<unit_class>spcl</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{cf57e0c0-b650-48b6-881b-850a691c350d}" record_timestamp="1436367844394" record_key="scalar_speedart_fixnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>4</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>art_fix</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{3d0d3053-6376-4eea-b202-24746bf37fcf}" record_timestamp="1436367844221" record_key="scalar_speedart_fldnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>4</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>art_fld</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{484f506e-6fee-488d-9b12-68dca86aee05}" record_timestamp="1436367844165" record_key="scalar_speedart_siegenone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>4</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>art_siege</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{b80f6a9e-c1cf-4cbd-a4ad-d1290dadbac2}" record_timestamp="1436367844544" record_key="scalar_speedcav_melnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>4</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>cav_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{192bec99-6b93-4d69-ba3e-b70984567a1b}" record_timestamp="1436367844453" record_key="scalar_speedcav_misnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>4</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>cav_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{024c8e31-34a1-4909-b582-84ce5d7a2bf2}" record_timestamp="1436367844424" record_key="scalar_speedcav_shknone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>4</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>cav_shk</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{c9d068c9-822d-4bf9-8006-f1d1c0c674a9}" record_timestamp="1436367844307" record_key="scalar_speedchariotnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>4</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>chariot</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{e72f2a49-4bde-4c02-81a6-58ec008fd388}" record_timestamp="1436367844250" record_key="scalar_speedcomnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>4</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>com</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{d75cc26b-6b61-42ab-97de-27c44ccc1585}" record_timestamp="1436367844278" record_key="scalar_speedinf_melnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>4</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>inf_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{69d12771-0b16-4f4d-968e-30f4044ea136}" record_timestamp="1436367844193" record_key="scalar_speedinf_misnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>4</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>inf_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{a66de258-d6e3-4148-9069-165bac7464b3}" record_timestamp="1436367844484" record_key="scalar_speedinf_sprnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>4</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>inf_spr</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{85529ccd-ca20-477a-8568-f5659b5ed5dc}" record_timestamp="1436367844137" record_key="scalar_speedshp_artnone">
+<base_value>5</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>shp_art</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{0dd77582-c4cd-4136-8e95-16c271b05ba6}" record_timestamp="1436367844365" record_key="scalar_speedshp_melnone">
+<base_value>5</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>shp_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{bd6bd931-a40c-4f0e-8fad-d1d8ed6b6a72}" record_timestamp="1436367844336" record_key="scalar_speedshp_misnone">
+<base_value>5</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>shp_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{f377fd2d-3b94-4408-864d-5601ce23c51b}" record_timestamp="1436367844514" record_key="scalar_speedshp_trnnone">
+<base_value>5</base_value>
+<filter>none</filter>
+<list_order>10</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>shp_trn</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{d1743383-c226-4958-8fc2-b9efba3cd965}" record_timestamp="1436367844109" record_key="scalar_speedspclnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>4</list_order>
+<stat_key>scalar_speed</stat_key>
+<unit_class>spcl</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{97aa01a1-b82d-4165-a548-4f20c6cba89f}" record_timestamp="1434986309291" record_key="stat_ammoart_fixnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>art_fix</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{155ac8de-76ac-4f1e-b77f-16d4bae0770f}" record_timestamp="1434986309468" record_key="stat_ammoart_fldnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>art_fld</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{0997bde3-b5f4-48cb-aaa2-2e27ebe61d06}" record_timestamp="1434986310092" record_key="stat_ammoart_siegenone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>art_siege</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{10378641-290d-419f-8074-ac8d1bea91f4}" record_timestamp="1481891909483" record_key="stat_ammocav_melnone">
+<base_value>50</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>cav_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{bab4b8bf-5d58-46f6-80e4-967f7922219c}" record_timestamp="1481891909489" record_key="stat_ammocav_misnone">
+<base_value>50</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>cav_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{219f1c08-4d1f-4767-812f-c56324df74a8}" record_timestamp="1481891909490" record_key="stat_ammocav_shknone">
+<base_value>50</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>cav_shk</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{c8b76913-8a7d-4a94-9637-317af2565d40}" record_timestamp="1481891909491" record_key="stat_ammochariotnone">
+<base_value>50</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>chariot</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{550513df-048b-4d8d-959a-aae2fd5c1258}" record_timestamp="1434986306225" record_key="stat_ammocomnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>com</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{d45e5cbb-a7a7-471b-a551-e7d36895b6cb}" record_timestamp="1481891909491" record_key="stat_ammoinf_melnone">
+<base_value>50</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>inf_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{37485ad8-43fe-4955-b377-d0ce75378eaa}" record_timestamp="1481891909492" record_key="stat_ammoinf_misnone">
+<base_value>50</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>inf_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{92c29e48-d70f-4a41-b6f1-58876d19719e}" record_timestamp="1481891909493" record_key="stat_ammoinf_sprnone">
+<base_value>50</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>inf_spr</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{3d66feff-c598-4835-a4be-00d046b2ff7a}" record_timestamp="1424945804716" record_key="stat_ammoshp_artnone">
+<base_value>14</base_value>
+<filter>none</filter>
+<list_order>13</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>shp_art</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{71aac4fd-cadb-4a04-8970-57408e25cfa9}" record_timestamp="1424945804749" record_key="stat_ammoshp_melnone">
+<base_value>2</base_value>
+<filter>none</filter>
+<list_order>13</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>shp_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{91d20a84-0f52-4312-b709-ca10deddd69d}" record_timestamp="1424945804781" record_key="stat_ammoshp_misnone">
+<base_value>14</base_value>
+<filter>none</filter>
+<list_order>13</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>shp_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{8183c8df-98f7-4a0d-8465-eca0c64c57fe}" record_timestamp="1424945804818" record_key="stat_ammoshp_trnnone">
+<base_value>2</base_value>
+<filter>none</filter>
+<list_order>13</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>shp_trn</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{c1e96793-49c0-4cbb-9dcb-6b3478530700}" record_timestamp="1434986308349" record_key="stat_ammospclnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_ammo</stat_key>
+<unit_class>spcl</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{5c31bc96-3a90-409d-8b45-7a18f73a403e}" record_timestamp="1434986308875" record_key="stat_armourart_fixnone">
+<base_value>200</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>art_fix</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{55fa8d54-9af6-4f04-85fa-9f65684ff1fa}" record_timestamp="1434986309053" record_key="stat_armourart_fldnone">
+<base_value>200</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>art_fld</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{4cf80891-2fd3-490f-a682-1e1ebcc6f3ea}" record_timestamp="1434986310149" record_key="stat_armourart_siegenone">
+<base_value>200</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>art_siege</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{55dd7878-222a-45c7-a933-5526fa5602a9}" record_timestamp="1435221144435" record_key="stat_armourcav_melnone">
+<base_value>200</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>cav_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{dd3f9976-913f-4650-a88b-39ffcd7d15d8}" record_timestamp="1434986303965" record_key="stat_armourcav_misnone">
+<base_value>200</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>cav_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{37f23801-961b-435d-b185-722c45737a28}" record_timestamp="1435221144435" record_key="stat_armourcav_shknone">
+<base_value>200</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>cav_shk</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{4c011756-e382-400f-8b51-3a5d37729c28}" record_timestamp="1434986305209" record_key="stat_armourchariotnone">
+<base_value>200</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>chariot</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{96f2d323-7950-45c6-a49c-b4a78f067bcd}" record_timestamp="1434986305833" record_key="stat_armourcomnone">
+<base_value>200</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>com</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{ac4f58ed-a837-4036-8275-b141038e744d}" record_timestamp="1434986306000" record_key="stat_armourinf_melnone">
+<base_value>200</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>inf_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{8ef83497-5d28-41bd-b15b-6c5e8d39fd3d}" record_timestamp="1434986307106" record_key="stat_armourinf_misnone">
+<base_value>200</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>inf_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{c0bef5fd-38a8-4463-aaed-6cdd4d729d22}" record_timestamp="1434986307288" record_key="stat_armourinf_sprnone">
+<base_value>200</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>inf_spr</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{382f6404-abe9-43b9-a172-1ea93b1cef79}" record_timestamp="1424945805082" record_key="stat_armourshp_artnone">
+<base_value>32</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>shp_art</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{5b56ddb7-2663-432e-af8b-1fc7b5976af4}" record_timestamp="1424945805115" record_key="stat_armourshp_melnone">
+<base_value>32</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>shp_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{101725a7-dfe0-4411-8635-f4b09f62bea7}" record_timestamp="1424945805156" record_key="stat_armourshp_misnone">
+<base_value>32</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>shp_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{110e557d-c75d-4167-b68e-33848dc38c82}" record_timestamp="1424945805193" record_key="stat_armourshp_trnnone">
+<base_value>32</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>shp_trn</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{2c1e62c2-48ec-4630-89ea-96ea8ce75e4d}" record_timestamp="1434986307941" record_key="stat_armourspclnone">
+<base_value>200</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_armour</stat_key>
+<unit_class>spcl</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{ef172870-711d-4225-9bee-94b9ed149f87}" record_timestamp="1434986309232" record_key="stat_charge_bonusart_fixnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_charge_bonus</stat_key>
+<unit_class>art_fix</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{ffb99720-f421-4785-992a-fb16b40da1ff}" record_timestamp="1434986309866" record_key="stat_charge_bonusart_fldnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_charge_bonus</stat_key>
+<unit_class>art_fld</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{3144ef3b-27d4-48c2-844d-25b9bdfe0ef3}" record_timestamp="1434986310035" record_key="stat_charge_bonusart_siegenone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_charge_bonus</stat_key>
+<unit_class>art_siege</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{bd90067e-d157-421a-a7bf-c240df40f761}" record_timestamp="1434986303250" record_key="stat_charge_bonuscav_melnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_charge_bonus</stat_key>
+<unit_class>cav_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{fecb756e-b408-42bb-ab52-e3470e93619d}" record_timestamp="1434986304301" record_key="stat_charge_bonuscav_misnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_charge_bonus</stat_key>
+<unit_class>cav_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{2e7a28e7-67d8-4ea3-bf9e-f19ae0450773}" record_timestamp="1435221144435" record_key="stat_charge_bonuscav_shknone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_charge_bonus</stat_key>
+<unit_class>cav_shk</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{06e6241c-412e-4c94-8612-0d63730e416f}" record_timestamp="1434986305098" record_key="stat_charge_bonuschariotnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_charge_bonus</stat_key>
+<unit_class>chariot</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{d5caec37-4503-45b8-93d2-87a98bdc9c19}" record_timestamp="1434986306169" record_key="stat_charge_bonuscomnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_charge_bonus</stat_key>
+<unit_class>com</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{424a1451-a36c-42ca-ae55-2a41ddeee44b}" record_timestamp="1434986306339" record_key="stat_charge_bonusinf_melnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_charge_bonus</stat_key>
+<unit_class>inf_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{ee734b5c-e0d6-461d-9c22-179c7bcc3e71}" record_timestamp="1434986306983" record_key="stat_charge_bonusinf_misnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_charge_bonus</stat_key>
+<unit_class>inf_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{8d5e5b0f-f74b-45e9-a974-4680704157fd}" record_timestamp="1434986308117" record_key="stat_charge_bonusinf_sprnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_charge_bonus</stat_key>
+<unit_class>inf_spr</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{7f8fc48c-9aab-45b0-84ba-579c1416c005}" record_timestamp="1434986308292" record_key="stat_charge_bonusspclnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_charge_bonus</stat_key>
+<unit_class>spcl</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{84e67687-362c-499f-aeb9-624e2598b028}" record_timestamp="1437666098821" record_key="stat_healthart_fixnone">
+<base_value>8000</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>art_fix</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{395cf5f6-c34f-4738-9718-1dc3affd9adf}" record_timestamp="1437666098854" record_key="stat_healthart_fldnone">
+<base_value>8000</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>art_fld</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{76daedb8-a53e-4500-ba01-01e6a2d6ce96}" record_timestamp="1437666098886" record_key="stat_healthart_siegenone">
+<base_value>8000</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>art_siege</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{e8d20e91-9e60-4c4b-a3c0-e30a72a20eb2}" record_timestamp="1437666098918" record_key="stat_healthcav_melnone">
+<base_value>8000</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>cav_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{26e29811-bc9a-43c0-ae1f-0a131a6cfa8e}" record_timestamp="1437666098951" record_key="stat_healthcav_misnone">
+<base_value>8000</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>cav_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{455f62b2-1fe0-4d74-972c-adc456506738}" record_timestamp="1437666098984" record_key="stat_healthcav_shknone">
+<base_value>8000</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>cav_shk</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{e36a042e-09d9-4401-b2bf-79349a8fb988}" record_timestamp="1437666099017" record_key="stat_healthchariotnone">
+<base_value>8000</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>chariot</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{8f0038ca-c71b-4f8d-8778-52b36a01b469}" record_timestamp="1437666099050" record_key="stat_healthcomnone">
+<base_value>8000</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>com</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{71d3beaa-98f2-425f-ab90-50eae1de5da3}" record_timestamp="1437666099084" record_key="stat_healthinf_melnone">
+<base_value>8000</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>inf_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{5aab7ec6-6cb2-4382-9676-53998766a174}" record_timestamp="1437666099117" record_key="stat_healthinf_misnone">
+<base_value>8000</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>inf_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{8331a75a-af44-40e5-be51-18bd1d2bb90a}" record_timestamp="1437666099151" record_key="stat_healthinf_sprnone">
+<base_value>8000</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>inf_spr</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{667a2204-cf7e-4fb9-9bd6-44418de8628d}" record_timestamp="1437666099185" record_key="stat_healthshp_artnone">
+<base_value>52</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>shp_art</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{6d2f89f3-72d4-4a3b-98bf-49479e33845d}" record_timestamp="1437666099218" record_key="stat_healthshp_melnone">
+<base_value>52</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>shp_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{b0a2e125-be11-4cef-b3f9-5ac5fff38649}" record_timestamp="1437666099253" record_key="stat_healthshp_misnone">
+<base_value>52</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>shp_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{abde2038-7e4d-4ef8-a1db-06894435d16f}" record_timestamp="1437666099288" record_key="stat_healthshp_trnnone">
+<base_value>52</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>shp_trn</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{ac83d9d8-dac3-460b-83e3-ff7e1f67aea5}" record_timestamp="1437666099322" record_key="stat_healthspclnone">
+<base_value>8000</base_value>
+<filter>none</filter>
+<list_order>0</list_order>
+<stat_key>stat_health</stat_key>
+<unit_class>spcl</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{ee5cf077-18b1-4cd2-a64b-e62abba3d0db}" record_timestamp="1434986310552" record_key="stat_melee_attackart_fixnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>5</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>art_fix</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{e3456053-1371-480b-86dc-3b2150622932}" record_timestamp="1434986309697" record_key="stat_melee_attackart_fldnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>5</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>art_fld</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{6c06da46-60a0-4311-bdac-42d39582765f}" record_timestamp="1434986310321" record_key="stat_melee_attackart_siegenone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>5</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>art_siege</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{8d60b692-d18b-4b5d-8c3d-29b5d11feea6}" record_timestamp="1434986303525" record_key="stat_melee_attackcav_melnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>5</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>cav_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{0385463a-5a81-4701-bc9f-fede2fc96aef}" record_timestamp="1434986303687" record_key="stat_melee_attackcav_misnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>5</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>cav_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{955a4cba-7b8d-4145-99f6-3efdc45e0c41}" record_timestamp="1435221144435" record_key="stat_melee_attackcav_shknone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>5</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>cav_shk</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{ec26fad8-cd6f-41ec-bb44-24e4c3f67d63}" record_timestamp="1434986305378" record_key="stat_melee_attackchariotnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>5</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>chariot</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{c87b0042-109e-4e82-ae25-5e1230f7d437}" record_timestamp="1434986305548" record_key="stat_melee_attackcomnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>5</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>com</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{ac1d30e2-67fd-4000-bd78-c001c1bc4d43}" record_timestamp="1434986306629" record_key="stat_melee_attackinf_melnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>5</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>inf_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{261e216d-69be-4990-a99d-7d87abff8813}" record_timestamp="1434986306806" record_key="stat_melee_attackinf_misnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>5</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>inf_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{d84125da-2bf4-4d65-a472-a1666ec88e11}" record_timestamp="1434986307466" record_key="stat_melee_attackinf_sprnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>5</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>inf_spr</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{b43e401c-eadf-4011-82c2-142c5355bccd}" record_timestamp="1402386903739" record_key="stat_melee_attackshp_artnone">
+<base_value>28</base_value>
+<filter>none</filter>
+<list_order>1</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>shp_art</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{fa166969-d4e6-4df5-9620-9b78830d0a94}" record_timestamp="1402386903776" record_key="stat_melee_attackshp_melnone">
+<base_value>28</base_value>
+<filter>none</filter>
+<list_order>1</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>shp_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{d35dcb8d-fde1-4a32-9fba-0a10f71f61da}" record_timestamp="1402386903814" record_key="stat_melee_attackshp_misnone">
+<base_value>28</base_value>
+<filter>none</filter>
+<list_order>1</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>shp_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{c820c7dc-c091-4e3d-9936-39616a269ffd}" record_timestamp="1402386903851" record_key="stat_melee_attackshp_trnnone">
+<base_value>28</base_value>
+<filter>none</filter>
+<list_order>1</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>shp_trn</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{f3e7e446-a858-4683-8d2d-44b1e454b91d}" record_timestamp="1434986308579" record_key="stat_melee_attackspclnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>5</list_order>
+<stat_key>stat_melee_attack</stat_key>
+<unit_class>spcl</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{f4761c03-6b01-4b1a-8b8b-4e6e42461b21}" record_timestamp="1434986310610" record_key="stat_melee_defenceart_fixnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>6</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>art_fix</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{f07cc92f-832e-4aea-8a35-cc195f62fe1f}" record_timestamp="1434986309753" record_key="stat_melee_defenceart_fldnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>6</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>art_fld</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{81d25f72-35bd-4504-be9c-aceb793f4f8b}" record_timestamp="1434986309923" record_key="stat_melee_defenceart_siegenone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>6</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>art_siege</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{ebf1c795-3d94-4988-8011-843c3c850347}" record_timestamp="1434986303578" record_key="stat_melee_defencecav_melnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>6</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>cav_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{c1eb9e2d-ca9a-434f-98ae-8644e152d831}" record_timestamp="1434986303742" record_key="stat_melee_defencecav_misnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>6</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>cav_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{5e988483-5fa4-4e01-8736-5b8d33f81cad}" record_timestamp="1435221144435" record_key="stat_melee_defencecav_shknone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>6</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>cav_shk</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{afadb4e4-53ef-46d3-8ded-4c75fbe50799}" record_timestamp="1434986304982" record_key="stat_melee_defencechariotnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>6</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>chariot</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{04f5fe67-d6a7-47be-95c1-87292a73e8fd}" record_timestamp="1434986305605" record_key="stat_melee_defencecomnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>6</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>com</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{4e6fa6d0-eebf-4dca-99c4-91158e507694}" record_timestamp="1434986306688" record_key="stat_melee_defenceinf_melnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>6</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>inf_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{eb64e4f5-5cbb-4e4d-89d1-cfacffdebdf4}" record_timestamp="1434986306865" record_key="stat_melee_defenceinf_misnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>6</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>inf_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{b9421245-37fe-4310-b64c-8da948538206}" record_timestamp="1434986307999" record_key="stat_melee_defenceinf_sprnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>6</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>inf_spr</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{575f0453-96c8-4f5d-8a09-305ab74655d1}" record_timestamp="1424945808580" record_key="stat_melee_defenceshp_artnone">
+<base_value>32</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>shp_art</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{37deb7ba-378f-48a7-8ebf-e7f9e0e8976d}" record_timestamp="1424945808645" record_key="stat_melee_defenceshp_melnone">
+<base_value>32</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>shp_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{02fc11b1-0f33-4f98-89f4-b91491df0575}" record_timestamp="1424945808705" record_key="stat_melee_defenceshp_misnone">
+<base_value>32</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>shp_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{fe1083fc-fd5d-4497-a047-9f85a3aa6024}" record_timestamp="1424945808768" record_key="stat_melee_defenceshp_trnnone">
+<base_value>32</base_value>
+<filter>none</filter>
+<list_order>2</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>shp_trn</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{88862f9a-3b8b-4974-91d6-8972d87ffe3d}" record_timestamp="1434986308636" record_key="stat_melee_defencespclnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>6</list_order>
+<stat_key>stat_melee_defence</stat_key>
+<unit_class>spcl</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{ebd2e5d0-0451-44f2-9323-3b34de8d61e0}" record_timestamp="1448985851437" record_key="stat_missile_damage_over_timeart_fixnone">
+<base_value>400</base_value>
+<filter>none</filter>
+<list_order>11</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>art_fix</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{00af4fcd-fbaf-499c-b6e7-14bdede1f40e}" record_timestamp="1448985851437" record_key="stat_missile_damage_over_timeart_fldnone">
+<base_value>400</base_value>
+<filter>none</filter>
+<list_order>11</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>art_fld</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{47ab973a-0437-4e01-b660-afedfd3b683e}" record_timestamp="1449489933264" record_key="stat_missile_damage_over_timeart_siegenone">
+<base_value>350</base_value>
+<filter>none</filter>
+<list_order>11</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>art_siege</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{d9429b97-af73-4d60-9261-ddbbf2dcd0e3}" record_timestamp="1449489933294" record_key="stat_missile_damage_over_timecav_melnone">
+<base_value>350</base_value>
+<filter>none</filter>
+<list_order>11</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>cav_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{aaa596b8-32ae-405f-85d9-4bd238b5af23}" record_timestamp="1449489933323" record_key="stat_missile_damage_over_timecav_misnone">
+<base_value>350</base_value>
+<filter>none</filter>
+<list_order>11</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>cav_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{1c825828-e01c-45d5-8f8f-6202f764998f}" record_timestamp="1449489933342" record_key="stat_missile_damage_over_timecav_shknone">
+<base_value>350</base_value>
+<filter>none</filter>
+<list_order>11</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>cav_shk</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{d9cd2506-0f24-4f4c-ac93-6d8aaa1638f1}" record_timestamp="1449489933363" record_key="stat_missile_damage_over_timechariotnone">
+<base_value>350</base_value>
+<filter>none</filter>
+<list_order>11</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>chariot</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{9e1f0c42-429f-4137-af9b-fd76bb533f00}" record_timestamp="1449489933407" record_key="stat_missile_damage_over_timecomnone">
+<base_value>350</base_value>
+<filter>none</filter>
+<list_order>11</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>com</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{1d53c52e-cbb9-483d-89f2-a935f6b5808c}" record_timestamp="1449489933436" record_key="stat_missile_damage_over_timeinf_melnone">
+<base_value>350</base_value>
+<filter>none</filter>
+<list_order>11</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>inf_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{edd6eadf-25ed-43f9-8671-102cadc8be1a}" record_timestamp="1448985851437" record_key="stat_missile_damage_over_timeinf_misnone">
+<base_value>400</base_value>
+<filter>none</filter>
+<list_order>11</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>inf_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{fd918be0-b4fb-49cc-a920-e1728fdc9a74}" record_timestamp="1449489933456" record_key="stat_missile_damage_over_timeinf_sprnone">
+<base_value>350</base_value>
+<filter>none</filter>
+<list_order>11</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>inf_spr</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{884d4329-1ca2-479c-ae5b-09c244e3d148}" record_timestamp="1449489933475" record_key="stat_missile_damage_over_timeshp_artnone">
+<base_value>350</base_value>
+<filter>none</filter>
+<list_order>12</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>shp_art</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{c5559608-c565-4df8-be0d-c3b161f1d791}" record_timestamp="1449489933516" record_key="stat_missile_damage_over_timeshp_melnone">
+<base_value>350</base_value>
+<filter>none</filter>
+<list_order>12</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>shp_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{90e83268-69f1-4088-a5d3-889609dd9b9c}" record_timestamp="1449489933538" record_key="stat_missile_damage_over_timeshp_misnone">
+<base_value>350</base_value>
+<filter>none</filter>
+<list_order>12</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>shp_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{fd3827ea-3ccd-4777-b593-fda89c6ecfc4}" record_timestamp="1449489933562" record_key="stat_missile_damage_over_timeshp_trnnone">
+<base_value>350</base_value>
+<filter>none</filter>
+<list_order>12</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>shp_trn</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{74a4ae79-dad9-4e6e-914a-48a0dd4bb589}" record_timestamp="1449489933496" record_key="stat_missile_damage_over_timespclnone">
+<base_value>350</base_value>
+<filter>none</filter>
+<list_order>11</list_order>
+<stat_key>stat_missile_damage_over_time</stat_key>
+<unit_class>spcl</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{97d708c8-7611-4ab0-a5a6-f5c85dba2b31}" record_timestamp="1434986308936" record_key="stat_moraleart_fixnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>art_fix</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{bfc6162f-dc52-42f6-9a25-8f97f117075f}" record_timestamp="1434986309113" record_key="stat_moraleart_fldnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>art_fld</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{76a34f8c-c905-4b46-b7a3-4e984d1b6e77}" record_timestamp="1434986310205" record_key="stat_moraleart_siegenone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>art_siege</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{8fdb4a80-7e3a-440c-a4b5-368254f0ba3e}" record_timestamp="1434986303415" record_key="stat_moralecav_melnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>cav_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{34b2cc56-90dd-4637-a618-0cc1acea0798}" record_timestamp="1434986304021" record_key="stat_moralecav_misnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>cav_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{f2ee82b6-117a-4fdd-b245-8224e9e1857a}" record_timestamp="1435221144435" record_key="stat_moralecav_shknone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>cav_shk</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{6a0cd391-75a4-4f72-a308-1b9a0e26fb1b}" record_timestamp="1434986305265" record_key="stat_moralechariotnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>chariot</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{85a728e8-7d93-4419-872b-7dcd3fff6538}" record_timestamp="1434986305434" record_key="stat_moralecomnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>com</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{575c39a6-98f6-4b55-970e-20da012d7229}" record_timestamp="1434986306057" record_key="stat_moraleinf_melnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>inf_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{9ed5e315-204c-4e7e-bad5-924053e17ba1}" record_timestamp="1434986307165" record_key="stat_moraleinf_misnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>inf_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{9465868b-4785-4da2-a219-9dc462f9fb90}" record_timestamp="1434986307347" record_key="stat_moraleinf_sprnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>inf_spr</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{3a47a551-b8ef-45ad-866e-ea9469328607}" record_timestamp="1424945805974" record_key="stat_moraleshp_artnone">
+<base_value>50</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>shp_art</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{528545a0-bb1b-4f54-9f05-a9825c7acd15}" record_timestamp="1424945806007" record_key="stat_moraleshp_melnone">
+<base_value>50</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>shp_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{c88d376e-be6a-47b2-bd82-f3243741ffb0}" record_timestamp="1424945806047" record_key="stat_moraleshp_misnone">
+<base_value>50</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>shp_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{d246590a-910f-4f3a-bd03-51c4ee85dfc1}" record_timestamp="1424945806082" record_key="stat_moraleshp_trnnone">
+<base_value>50</base_value>
+<filter>none</filter>
+<list_order>9</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>shp_trn</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{2cee51d6-d619-4838-b038-7a511df6e765}" record_timestamp="1434986308465" record_key="stat_moralespclnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_morale</stat_key>
+<unit_class>spcl</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{51db6f81-983d-45a9-98f2-942ff6b076ad}" record_timestamp="1424945806117" record_key="stat_ship_healthshp_artnone">
+<base_value>2500</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_ship_health</stat_key>
+<unit_class>shp_art</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{6043062b-1ee2-460b-a233-49637c9c65a9}" record_timestamp="1424945806160" record_key="stat_ship_healthshp_melnone">
+<base_value>2500</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_ship_health</stat_key>
+<unit_class>shp_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{673698b5-6879-4341-aeea-b167915a877f}" record_timestamp="1424945806198" record_key="stat_ship_healthshp_misnone">
+<base_value>2500</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_ship_health</stat_key>
+<unit_class>shp_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{b4d6e403-c008-44e7-8152-a55519a0bc6c}" record_timestamp="1424945806235" record_key="stat_ship_healthshp_trnnone">
+<base_value>2500</base_value>
+<filter>none</filter>
+<list_order>8</list_order>
+<stat_key>stat_ship_health</stat_key>
+<unit_class>shp_trn</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{f9ab79c2-fc3c-4576-a4c1-8986931d13fd}" record_timestamp="1434986310669" record_key="stat_weapon_damageart_fixnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>art_fix</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{a7a517ab-fe96-429a-bc35-8cb4112268bf}" record_timestamp="1434986309810" record_key="stat_weapon_damageart_fldnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>art_fld</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{e4583f1f-c070-4606-a3ae-e01363483e0d}" record_timestamp="1434986309979" record_key="stat_weapon_damageart_siegenone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>art_siege</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{2980fdce-3c66-4c22-8c3f-051772674492}" record_timestamp="1434986303195" record_key="stat_weapon_damagecav_melnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>cav_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{381ede9d-79c7-4122-b64e-1bbd5c83d18e}" record_timestamp="1434986303798" record_key="stat_weapon_damagecav_misnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>cav_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{abd1955f-6c83-4bad-a35b-d3345b21d30d}" record_timestamp="1435221144435" record_key="stat_weapon_damagecav_shknone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>cav_shk</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{3e140d3b-fcba-42fe-946f-7cf8addceead}" record_timestamp="1434986305041" record_key="stat_weapon_damagechariotnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>chariot</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{152a57eb-5020-4584-aed4-08e5524a91fb}" record_timestamp="1434986306113" record_key="stat_weapon_damagecomnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>com</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{425e9cd5-6ce0-4195-b700-db43d378a587}" record_timestamp="1434986306746" record_key="stat_weapon_damageinf_melnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>inf_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{460677eb-ed77-40be-b4a2-d0049d662a2f}" record_timestamp="1434986306924" record_key="stat_weapon_damageinf_misnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>inf_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{262a4ede-1584-4440-b027-091986d9dcef}" record_timestamp="1434986308058" record_key="stat_weapon_damageinf_sprnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>inf_spr</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{8aab90e3-c1e3-435a-86ec-436c3d2dfcb7}" record_timestamp="1424945807493" record_key="stat_weapon_damageshp_artnone">
+<base_value>31</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>shp_art</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{c6bb67ca-6b4c-4100-91a9-e8956f444934}" record_timestamp="1424945807557" record_key="stat_weapon_damageshp_melnone">
+<base_value>31</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>shp_mel</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{dee1e3b8-c394-4f42-b3c6-56875eaf4ee5}" record_timestamp="1424945807617" record_key="stat_weapon_damageshp_misnone">
+<base_value>31</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>shp_mis</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{acd9b1c6-8e6d-415c-9130-7bcbd9d443f7}" record_timestamp="1424945807682" record_key="stat_weapon_damageshp_trnnone">
+<base_value>31</base_value>
+<filter>none</filter>
+<list_order>3</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>shp_trn</unit_class>
+</ui_unit_stat_to_classes>
+<ui_unit_stat_to_classes record_uuid="{14fa77be-0b43-457b-9547-261dcaa31476}" record_timestamp="1434986308234" record_key="stat_weapon_damagespclnone">
+<base_value>100</base_value>
+<filter>none</filter>
+<list_order>7</list_order>
+<stat_key>stat_weapon_damage</stat_key>
+<unit_class>spcl</unit_class>
+</ui_unit_stat_to_classes>
+</dataroot>

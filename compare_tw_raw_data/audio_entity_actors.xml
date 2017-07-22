@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="audio_entity_actors.xsd" export_time="Wed Nov 16 18:26:45 2016" revision="17" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>408dca24-027c-4419-a54f-e1b126d8d2af</edit_uuid>
+<audio_entity_actors record_uuid="{7307821b-7d88-4884-ac06-e2cc4516ef6b}" record_timestamp="1432914503992" record_key="wh_chaos_default">
+<actor_switch>Generic_Actor_Chaos_Default</actor_switch>
+<key>wh_chaos_default</key>
+<number_of_actors>2</number_of_actors>
+</audio_entity_actors>
+<audio_entity_actors record_uuid="{955b1348-b62b-4ac3-8f42-f769857a2373}" record_timestamp="1432914503993" record_key="wh_chaos_marauder">
+<actor_switch>Generic_Actor_Chaos_Marauder</actor_switch>
+<key>wh_chaos_marauder</key>
+<number_of_actors>5</number_of_actors>
+</audio_entity_actors>
+<audio_entity_actors record_uuid="{2ad4dafd-e860-4bb0-a81e-61acee4cbd1d}" record_timestamp="1477035608953" record_key="wh_dwarf_default">
+<actor_switch>Generic_Actor_Dwarf_Default</actor_switch>
+<key>wh_dwarf_default</key>
+<number_of_actors>3</number_of_actors>
+</audio_entity_actors>
+<audio_entity_actors record_uuid="{d1819422-1284-4624-9cac-b39a8cb65131}" record_timestamp="1433841956141" record_key="wh_dwarf_runesmith">
+<actor_switch>Generic_Actor_Dwarf_Runesmith</actor_switch>
+<key>wh_dwarf_runesmith</key>
+<number_of_actors>2</number_of_actors>
+</audio_entity_actors>
+<audio_entity_actors record_uuid="{6ab7dea6-4ae1-46d2-857b-b6b6bb454083}" record_timestamp="1474283882302" record_key="wh_elf_female">
+<actor_switch>Generic_Actor_Elf_Female</actor_switch>
+<key>wh_elf_female</key>
+<number_of_actors>2</number_of_actors>
+</audio_entity_actors>
+<audio_entity_actors record_uuid="{c446cec0-5c8e-4d9e-b4c9-1fb63dc3b679}" record_timestamp="1479320805694" record_key="wh_elf_male">
+<actor_switch>Generic_Actor_Elf_Male</actor_switch>
+<key>wh_elf_male</key>
+<number_of_actors>5</number_of_actors>
+</audio_entity_actors>
+<audio_entity_actors record_uuid="{7cb57b3e-2bbd-4697-bbd8-55ccc44d4f8e}" record_timestamp="1432914503993" record_key="wh_goblin">
+<actor_switch>Generic_Actor_Goblin</actor_switch>
+<key>wh_goblin</key>
+<number_of_actors>5</number_of_actors>
+</audio_entity_actors>
+<audio_entity_actors record_uuid="{3f8d37c4-e95a-4628-8ecc-cc21e4160e05}" record_timestamp="1432914503992" record_key="wh_human_female">
+<actor_switch>Generic_Actor_Human_Female</actor_switch>
+<key>wh_human_female</key>
+<number_of_actors>2</number_of_actors>
+</audio_entity_actors>
+<audio_entity_actors record_uuid="{0d76d4c7-4ceb-4b9b-8142-c8bc7f33dc4a}" record_timestamp="1433844626407" record_key="wh_human_male">
+<actor_switch>Generic_Actor_Human_Male</actor_switch>
+<key>wh_human_male</key>
+<number_of_actors>16</number_of_actors>
+</audio_entity_actors>
+<audio_entity_actors record_uuid="{c56d6443-d0c7-4b83-9883-42b2cc1d531b}" record_timestamp="1440511642319" record_key="wh_necromancer_male">
+<actor_switch>Generic_Actor_Necromancer_Male</actor_switch>
+<key>wh_necromancer_male</key>
+<number_of_actors>3</number_of_actors>
+</audio_entity_actors>
+<audio_entity_actors record_uuid="{8a8f11d4-eeb0-4914-97b7-44c299376fc1}" record_timestamp="1432914503992" record_key="wh_orc">
+<actor_switch>Generic_Actor_Orc</actor_switch>
+<key>wh_orc</key>
+<number_of_actors>5</number_of_actors>
+</audio_entity_actors>
+<audio_entity_actors record_uuid="{5571f5c6-4ba9-4aae-83f0-3adf7f4a20a7}" record_timestamp="1433756984921" record_key="wh_vampire_female">
+<actor_switch>Generic_Actor_Vampire_Female</actor_switch>
+<key>wh_vampire_female</key>
+<number_of_actors>2</number_of_actors>
+</audio_entity_actors>
+<audio_entity_actors record_uuid="{ac392fee-ab36-4d74-98ec-87781292bacc}" record_timestamp="1433761692272" record_key="wh_vampire_male">
+<actor_switch>Generic_Actor_Vampire_Male</actor_switch>
+<key>wh_vampire_male</key>
+<number_of_actors>2</number_of_actors>
+</audio_entity_actors>
+<audio_entity_actors record_uuid="{14fafbb4-c4f6-4c03-b6a0-8af633dff063}" record_timestamp="1436865053264" record_key="wh_zombie">
+<actor_switch>Generic_Actor_Zombie</actor_switch>
+<key>wh_zombie</key>
+<number_of_actors>5</number_of_actors>
+</audio_entity_actors>
+</dataroot>

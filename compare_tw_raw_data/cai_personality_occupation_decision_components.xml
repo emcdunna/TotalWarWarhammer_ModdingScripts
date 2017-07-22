@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personality_occupation_decision_components.xsd" export_time="Tue Dec 6 15:49:41 2016" revision="10" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e943e792-3390-41dc-957c-76276640b143</edit_uuid>
+<cai_personality_occupation_decision_components record_uuid="{27a512f8-a3e9-49d2-bab7-d1d988606008}" record_timestamp="1443001180039" record_key="default">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>default</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{9cc6d015-6cf5-4e04-89d4-79160ff0ad23}" record_timestamp="1448364820311" record_key="default_early">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>default_early</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{878529a7-c341-4482-8ede-b9a331efd0d0}" record_timestamp="1440087140609" record_key="destroyer">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>destroyer</id>
+<min_attitude>0</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{5ee6df43-ff52-4301-bce1-bedd53069a9e}" record_timestamp="1481039381182" record_key="dlc05_wood_elves">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>dlc05_wood_elves</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{008ffaff-c60c-4c25-9d10-2b79712478a9}" record_timestamp="1448379814052" record_key="noraze">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>noraze</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_components>
+</dataroot>

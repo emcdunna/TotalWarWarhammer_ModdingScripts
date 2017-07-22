@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="encyclopedia_page_linkages.xsd" export_time="Mon Feb 20 10:18:06 2017" revision="69" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>83e1aca9-091c-4ea9-a660-961cfc5ee5b0</edit_uuid>
+<encyclopedia_page_linkages record_uuid="{00bed827-7d6e-447d-be08-f99a7b3a69df}" record_timestamp="1462358725847" record_key="2000_tw_game_guide_wh_introduction_wh">
+<next_key>3000_tw_game_guide_wh_introduction_tw</next_key>
+<page_key>2000_tw_game_guide_wh_introduction_wh</page_key>
+<parent_key>1000_tw_game_guide_wh_introduction_game_guide</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{574574ee-5f03-4b2d-85cc-fc0eb796fcd2}" record_timestamp="1462358725848" record_key="3000_tw_game_guide_wh_introduction_tw">
+<next_key>4000_tw_game_guide_wh_frontend_main_menu</next_key>
+<page_key>3000_tw_game_guide_wh_introduction_tw</page_key>
+<parent_key>1000_tw_game_guide_wh_introduction_game_guide</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{b7a5a4c2-4c38-45e0-91b3-8c4c59cbc55b}" record_timestamp="1463570071970" record_key="4000_tw_game_guide_wh_frontend_main_menu">
+<next_key>4500_tw_game_guide_wh_campaign_gameplay_survival_guide</next_key>
+<page_key>4000_tw_game_guide_wh_frontend_main_menu</page_key>
+<parent_key>1000_tw_game_guide_wh_introduction_game_guide</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{2f448286-c377-49b4-ae05-2f8a3da10537}" record_timestamp="1463570071969" record_key="4500_tw_game_guide_wh_campaign_gameplay_survival_guide">
+<next_key>5000_tw_game_guide_wh_campaign_gameplay</next_key>
+<page_key>4500_tw_game_guide_wh_campaign_gameplay_survival_guide</page_key>
+<parent_key>1000_tw_game_guide_wh_introduction_game_guide</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{95e0b54d-1c39-4d21-bfb1-1e8367975468}" record_timestamp="1462358725850" record_key="5000_tw_game_guide_wh_campaign_gameplay">
+<next_key>6000_tw_game_guide_wh_battle_gameplay</next_key>
+<page_key>5000_tw_game_guide_wh_campaign_gameplay</page_key>
+<parent_key>1000_tw_game_guide_wh_introduction_game_guide</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{56fc1006-6703-4091-924f-78545ec3e714}" record_timestamp="1481031188817" record_key="5000a_tw_game_guide_wh_campaign_gameplay_beastmen">
+<next_key>5000b_tw_game_guide_wh_campaign_gameplay_wood_elves</next_key>
+<page_key>5000a_tw_game_guide_wh_campaign_gameplay_beastmen</page_key>
+<parent_key>5000_tw_game_guide_wh_campaign_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{e07cbaf1-8c02-4f30-b4d3-9285b700c45b}" record_timestamp="1487585886060" record_key="5000b_tw_game_guide_wh_campaign_gameplay_wood_elves">
+<next_key>5000c_tw_game_guide_wh_campaign_gameplay_bretonnia</next_key>
+<page_key>5000b_tw_game_guide_wh_campaign_gameplay_wood_elves</page_key>
+<parent_key>5000_tw_game_guide_wh_campaign_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{da594af1-1354-4424-a40f-b149b5abf926}" record_timestamp="1487585886065" record_key="5000c_tw_game_guide_wh_campaign_gameplay_bretonnia">
+<next_key>5001_tw_game_guide_wh_campaign_gameplay_map</next_key>
+<page_key>5000c_tw_game_guide_wh_campaign_gameplay_bretonnia</page_key>
+<parent_key>5000_tw_game_guide_wh_campaign_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{c38e3dfc-7d98-4906-bb4b-561c14605dd0}" record_timestamp="1462358725893" record_key="5001_tw_game_guide_wh_campaign_gameplay_map">
+<next_key>5002_tw_game_guide_wh_campaign_gameplay_characters</next_key>
+<page_key>5001_tw_game_guide_wh_campaign_gameplay_map</page_key>
+<parent_key>5000_tw_game_guide_wh_campaign_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{2cb89acb-7830-40b0-a90a-f9bf41f76e6f}" record_timestamp="1462358725949" record_key="5002_tw_game_guide_wh_campaign_gameplay_characters">
+<next_key>5004_tw_game_guide_wh_campaign_gameplay_faction_management</next_key>
+<page_key>5002_tw_game_guide_wh_campaign_gameplay_characters</page_key>
+<parent_key>5000_tw_game_guide_wh_campaign_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{130838ff-5c43-4dac-b222-730c371794e2}" record_timestamp="1462358725883" record_key="5002a_tw_game_guide_wh_campaign_gameplay_characters_lords">
+<next_key>5002b_tw_game_guide_wh_campaign_gameplay_characters_heroes</next_key>
+<page_key>5002a_tw_game_guide_wh_campaign_gameplay_characters_lords</page_key>
+<parent_key>5002_tw_game_guide_wh_campaign_gameplay_characters</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{6d16f49e-8ace-4e84-af3b-6707e14a0aa7}" record_timestamp="1462358725950" record_key="5002b_tw_game_guide_wh_campaign_gameplay_characters_heroes">
+<next_key>1000_tw_game_guide_wh_introduction_game_guide</next_key>
+<page_key>5002b_tw_game_guide_wh_campaign_gameplay_characters_heroes</page_key>
+<parent_key>5002_tw_game_guide_wh_campaign_gameplay_characters</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{85808977-b3b1-4fa3-87b6-3041f7f67507}" record_timestamp="1462358725953" record_key="5003_tw_game_guide_wh_campaign_gameplay_warfare">
+<next_key>5005_tw_game_guide_wh_campaign_gameplay_provincial_management</next_key>
+<page_key>5003_tw_game_guide_wh_campaign_gameplay_warfare</page_key>
+<parent_key>5000_tw_game_guide_wh_campaign_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{dddf7085-5506-4df8-93bf-d727f690b2d4}" record_timestamp="1462358733542" record_key="5003a_tw_game_guide_wh_campaign_gameplay_warfare_armies">
+<next_key>5003b_tw_game_guide_wh_campaign_gameplay_warfare_units</next_key>
+<page_key>5003a_tw_game_guide_wh_campaign_gameplay_warfare_armies</page_key>
+<parent_key>5003_tw_game_guide_wh_campaign_gameplay_warfare</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{16d126fe-5a33-4c3b-9031-19114782e638}" record_timestamp="1462358733545" record_key="5003a_tw_game_guide_wh_campaign_gameplay_warfare_armies_stances">
+<next_key></next_key>
+<page_key>5003a_tw_game_guide_wh_campaign_gameplay_warfare_armies_stances</page_key>
+<parent_key>5003a_tw_game_guide_wh_campaign_gameplay_warfare_armies</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{87face7d-58f0-4969-af96-14e71e7a3516}" record_timestamp="1462358733544" record_key="5003b_tw_game_guide_wh_campaign_gameplay_warfare_units">
+<next_key>5003c_tw_game_guide_wh_campaign_gameplay_warfare_attacking</next_key>
+<page_key>5003b_tw_game_guide_wh_campaign_gameplay_warfare_units</page_key>
+<parent_key>5003_tw_game_guide_wh_campaign_gameplay_warfare</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{f13b46a4-c7c7-47b0-be98-e24a61397eb4}" record_timestamp="1462358726139" record_key="5003c_tw_game_guide_wh_campaign_gameplay_warfare_attacking">
+<next_key>5003d_tw_game_guide_wh_campaign_gameplay_warfare_sieges</next_key>
+<page_key>5003c_tw_game_guide_wh_campaign_gameplay_warfare_attacking</page_key>
+<parent_key>5003_tw_game_guide_wh_campaign_gameplay_warfare</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{a649fb7d-76f0-4646-8c4e-6f56e19ef69f}" record_timestamp="1463570069592" record_key="5003d_tw_game_guide_wh_campaign_gameplay_warfare_sieges">
+<next_key></next_key>
+<page_key>5003d_tw_game_guide_wh_campaign_gameplay_warfare_sieges</page_key>
+<parent_key>5003_tw_game_guide_wh_campaign_gameplay_warfare</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{82bd3630-b796-4588-b7cc-56ba128d51f8}" record_timestamp="1462358725952" record_key="5004_tw_game_guide_wh_campaign_gameplay_faction_management">
+<next_key>5003_tw_game_guide_wh_campaign_gameplay_warfare</next_key>
+<page_key>5004_tw_game_guide_wh_campaign_gameplay_faction_management</page_key>
+<parent_key>5000_tw_game_guide_wh_campaign_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{9a2a98aa-c1d7-4f75-8e58-443b2947bab5}" record_timestamp="1462358725874" record_key="5004a_tw_game_guide_wh_campaign_gameplay_faction_management_races">
+<next_key>5004b_tw_game_guide_wh_campaign_gameplay_faction_management_diplomacy</next_key>
+<page_key>5004a_tw_game_guide_wh_campaign_gameplay_faction_management_races</page_key>
+<parent_key>5004_tw_game_guide_wh_campaign_gameplay_faction_management</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{6f14259d-2a70-40f2-b814-43ddc86172f5}" record_timestamp="1462358726102" record_key="5004b_tw_game_guide_wh_campaign_gameplay_faction_management_diplomacy">
+<next_key>5004c_tw_game_guide_wh_campaign_gameplay_faction_management_construction</next_key>
+<page_key>5004b_tw_game_guide_wh_campaign_gameplay_faction_management_diplomacy</page_key>
+<parent_key>5004_tw_game_guide_wh_campaign_gameplay_faction_management</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{0110fa38-9dcb-4653-b979-19aafeb90e1a}" record_timestamp="1462358726103" record_key="5004c_tw_game_guide_wh_campaign_gameplay_faction_management_construction">
+<next_key>5004d_tw_game_guide_wh_campaign_gameplay_faction_management_tech</next_key>
+<page_key>5004c_tw_game_guide_wh_campaign_gameplay_faction_management_construction</page_key>
+<parent_key>5004_tw_game_guide_wh_campaign_gameplay_faction_management</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{ef2ac5a7-474f-4bf5-baab-deddc2a5f70c}" record_timestamp="1462358726092" record_key="5004d_tw_game_guide_wh_campaign_gameplay_faction_management_tech">
+<next_key>5004e_tw_game_guide_wh_campaign_gameplay_faction_management_missions</next_key>
+<page_key>5004d_tw_game_guide_wh_campaign_gameplay_faction_management_tech</page_key>
+<parent_key>5004_tw_game_guide_wh_campaign_gameplay_faction_management</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{9a39cf45-4928-4c94-91b4-94d8e639e304}" record_timestamp="1463570069600" record_key="5004e_tw_game_guide_wh_campaign_gameplay_faction_management_missions">
+<next_key>5004g_tw_game_guide_wh_campaign_gameplay_faction_management_hordes</next_key>
+<page_key>5004e_tw_game_guide_wh_campaign_gameplay_faction_management_missions</page_key>
+<parent_key>5004_tw_game_guide_wh_campaign_gameplay_faction_management</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{8259783d-6873-4a26-b146-1f5d78fd77b0}" record_timestamp="1462358726100" record_key="5004g_tw_game_guide_wh_campaign_gameplay_faction_management_hordes">
+<next_key></next_key>
+<page_key>5004g_tw_game_guide_wh_campaign_gameplay_faction_management_hordes</page_key>
+<parent_key>5004_tw_game_guide_wh_campaign_gameplay_faction_management</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{73cff150-acfa-45f2-b435-dbc3525a4743}" record_timestamp="1462358725898" record_key="5005_tw_game_guide_wh_campaign_gameplay_provincial_management">
+<next_key>5006_tw_game_guide_wh_campaign_gameplay_financial_management</next_key>
+<page_key>5005_tw_game_guide_wh_campaign_gameplay_provincial_management</page_key>
+<parent_key>5000_tw_game_guide_wh_campaign_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{6abcda4c-fbaa-4b9b-8caf-b5a06a02562e}" record_timestamp="1462358725843" record_key="5006_tw_game_guide_wh_campaign_gameplay_financial_management">
+<next_key>5007_tw_game_guide_wh_campaign_gameplay_ui</next_key>
+<page_key>5006_tw_game_guide_wh_campaign_gameplay_financial_management</page_key>
+<parent_key>5000_tw_game_guide_wh_campaign_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{84ccd3a3-4b1d-4c5d-b57b-3577d7548595}" record_timestamp="1462358740240" record_key="5007_tw_game_guide_wh_campaign_gameplay_ui">
+<next_key></next_key>
+<page_key>5007_tw_game_guide_wh_campaign_gameplay_ui</page_key>
+<parent_key>5000_tw_game_guide_wh_campaign_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{c29e62d9-1cc7-458a-be66-bf6b9b3472c0}" record_timestamp="1462358725852" record_key="6000_tw_game_guide_wh_battle_gameplay">
+<next_key>7000_tw_game_guide_wh_multiplayer</next_key>
+<page_key>6000_tw_game_guide_wh_battle_gameplay</page_key>
+<parent_key>1000_tw_game_guide_wh_introduction_game_guide</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{c9cd7e5e-4e8f-4f71-b1e9-b9a5c2930526}" record_timestamp="1463570069626" record_key="6001_tw_game_guide_wh_battle_gameplay_map">
+<next_key>6001a_tw_game_guide_wh_battle_gameplay_advanced_controls</next_key>
+<page_key>6001_tw_game_guide_wh_battle_gameplay_map</page_key>
+<parent_key>6000_tw_game_guide_wh_battle_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{6fbbf6ab-6a0a-40f7-8ce3-2160af0a5bb1}" record_timestamp="1463570069626" record_key="6001a_tw_game_guide_wh_battle_gameplay_advanced_controls">
+<next_key>6002_tw_game_guide_wh_battle_gameplay_armies</next_key>
+<page_key>6001a_tw_game_guide_wh_battle_gameplay_advanced_controls</page_key>
+<parent_key>6000_tw_game_guide_wh_battle_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{523b5397-8756-4152-b1c9-ec38e7d2960d}" record_timestamp="1462358725868" record_key="6002_tw_game_guide_wh_battle_gameplay_armies">
+<next_key>6003_tw_game_guide_wh_battle_gameplay_preparing_for_battle</next_key>
+<page_key>6002_tw_game_guide_wh_battle_gameplay_armies</page_key>
+<parent_key>6000_tw_game_guide_wh_battle_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{b1c4b1ee-eccc-4bcf-9d13-874e94fddde8}" record_timestamp="1462358725870" record_key="6003_tw_game_guide_wh_battle_gameplay_preparing_for_battle">
+<next_key>6004_tw_game_guide_wh_battle_gameplay_engaging_the_enemy</next_key>
+<page_key>6003_tw_game_guide_wh_battle_gameplay_preparing_for_battle</page_key>
+<parent_key>6000_tw_game_guide_wh_battle_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{6be546bb-b4c3-459d-9ed1-67f2b32f756d}" record_timestamp="1462358725871" record_key="6004_tw_game_guide_wh_battle_gameplay_engaging_the_enemy">
+<next_key>6005_tw_game_guide_wh_battle_gameplay_achieving_victory</next_key>
+<page_key>6004_tw_game_guide_wh_battle_gameplay_engaging_the_enemy</page_key>
+<parent_key>6000_tw_game_guide_wh_battle_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{36738929-0b0d-4f6b-861a-b458e5790633}" record_timestamp="1462358726343" record_key="6004a_tw_game_guide_wh_battle_gameplay_spells">
+<next_key>6004b_tw_game_guide_wh_battle_gameplay_abilities</next_key>
+<page_key>6004a_tw_game_guide_wh_battle_gameplay_spells</page_key>
+<parent_key>6004_tw_game_guide_wh_battle_gameplay_engaging_the_enemy</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{6b25c14a-7d3e-4197-84e0-aa844245f154}" record_timestamp="1481035208644" record_key="6004a_tw_game_guide_wh_battle_gameplay_spells_lore_beasts">
+<next_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_shadows</next_key>
+<page_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_beasts</page_key>
+<parent_key>6004a_tw_game_guide_wh_battle_gameplay_spells</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{0406f667-6634-4784-b64e-952fcabb5ac9}" record_timestamp="1462358726350" record_key="6004a_tw_game_guide_wh_battle_gameplay_spells_lore_death">
+<next_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_heavens</next_key>
+<page_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_death</page_key>
+<parent_key>6004a_tw_game_guide_wh_battle_gameplay_spells</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{2e9d0a47-ba66-45e1-a817-0505ec8a4f58}" record_timestamp="1470403961787" record_key="6004a_tw_game_guide_wh_battle_gameplay_spells_lore_fire">
+<next_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_wild</next_key>
+<page_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_fire</page_key>
+<parent_key>6004a_tw_game_guide_wh_battle_gameplay_spells</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{2f18b665-4719-4b8f-a31f-df591bbca224}" record_timestamp="1462358726346" record_key="6004a_tw_game_guide_wh_battle_gameplay_spells_lore_heavens">
+<next_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_vampires</next_key>
+<page_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_heavens</page_key>
+<parent_key>6004a_tw_game_guide_wh_battle_gameplay_spells</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{6d2ab604-066f-4f66-b525-ffc9ca2253cb}" record_timestamp="1481035208649" record_key="6004a_tw_game_guide_wh_battle_gameplay_spells_lore_life">
+<next_key>6004a_tw_game_guide_wh_battle_gameplay_spells_waaagh</next_key>
+<page_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_life</page_key>
+<parent_key>6004a_tw_game_guide_wh_battle_gameplay_spells</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{b59c4947-24cc-49d8-837a-090e93636696}" record_timestamp="1462358726344" record_key="6004a_tw_game_guide_wh_battle_gameplay_spells_lore_light">
+<next_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_metal</next_key>
+<page_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_light</page_key>
+<parent_key>6004a_tw_game_guide_wh_battle_gameplay_spells</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{c5fad968-20e6-44cd-8eb6-c07a19ce3337}" record_timestamp="1462358726348" record_key="6004a_tw_game_guide_wh_battle_gameplay_spells_lore_metal">
+<next_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_death</next_key>
+<page_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_metal</page_key>
+<parent_key>6004a_tw_game_guide_wh_battle_gameplay_spells</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{8acb7e24-0cd3-4982-a687-dd3640404105}" record_timestamp="1481035208650" record_key="6004a_tw_game_guide_wh_battle_gameplay_spells_lore_shadows">
+<next_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_life</next_key>
+<page_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_shadows</page_key>
+<parent_key>6004a_tw_game_guide_wh_battle_gameplay_spells</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{9d80eed2-cf25-4baf-a6f0-5144072dc913}" record_timestamp="1462358726347" record_key="6004a_tw_game_guide_wh_battle_gameplay_spells_lore_vampires">
+<next_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_fire</next_key>
+<page_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_vampires</page_key>
+<parent_key>6004a_tw_game_guide_wh_battle_gameplay_spells</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{8312aa81-66e0-4127-93e6-d0ac579854db}" record_timestamp="1470403961788" record_key="6004a_tw_game_guide_wh_battle_gameplay_spells_lore_wild">
+<next_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_beasts</next_key>
+<page_key>6004a_tw_game_guide_wh_battle_gameplay_spells_lore_wild</page_key>
+<parent_key>6004a_tw_game_guide_wh_battle_gameplay_spells</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{d8e1434c-eaa9-4ff8-a4b6-153668ca8a88}" record_timestamp="1462358726352" record_key="6004a_tw_game_guide_wh_battle_gameplay_spells_waaagh">
+<next_key></next_key>
+<page_key>6004a_tw_game_guide_wh_battle_gameplay_spells_waaagh</page_key>
+<parent_key>6004a_tw_game_guide_wh_battle_gameplay_spells</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{cee94cf5-34d8-4e17-91e7-ea935fcd86f9}" record_timestamp="1462358725861" record_key="6004b_tw_game_guide_wh_battle_gameplay_abilities">
+<next_key>6004c_tw_game_guide_wh_battle_gameplay_attributes</next_key>
+<page_key>6004b_tw_game_guide_wh_battle_gameplay_abilities</page_key>
+<parent_key>6004_tw_game_guide_wh_battle_gameplay_engaging_the_enemy</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{18c8583f-e0c8-4f06-92a7-ef6dc3183682}" record_timestamp="1462358725862" record_key="6004c_tw_game_guide_wh_battle_gameplay_attributes">
+<next_key></next_key>
+<page_key>6004c_tw_game_guide_wh_battle_gameplay_attributes</page_key>
+<parent_key>6004_tw_game_guide_wh_battle_gameplay_engaging_the_enemy</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{0898f9bc-afcd-4df5-90c8-cd68eb66d962}" record_timestamp="1462358725872" record_key="6005_tw_game_guide_wh_battle_gameplay_achieving_victory">
+<next_key>6006_tw_game_guide_wh_battle_gameplay_fighting_siege_battles</next_key>
+<page_key>6005_tw_game_guide_wh_battle_gameplay_achieving_victory</page_key>
+<parent_key>6000_tw_game_guide_wh_battle_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{ab83a409-2d42-437e-a2b7-001ca25168bb}" record_timestamp="1462358725856" record_key="6006_tw_game_guide_wh_battle_gameplay_fighting_siege_battles">
+<next_key>6007_tw_game_guide_wh_battle_gameplay_ui</next_key>
+<page_key>6006_tw_game_guide_wh_battle_gameplay_fighting_siege_battles</page_key>
+<parent_key>6000_tw_game_guide_wh_battle_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{a7624d06-e596-4f06-aa67-cd2fbf69fd48}" record_timestamp="1462358733547" record_key="6007_tw_game_guide_wh_battle_gameplay_ui">
+<next_key></next_key>
+<page_key>6007_tw_game_guide_wh_battle_gameplay_ui</page_key>
+<parent_key>6000_tw_game_guide_wh_battle_gameplay</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{c72544c2-ed7f-499d-8813-292b8835ac38}" record_timestamp="1465831922141" record_key="7000_tw_game_guide_wh_multiplayer">
+<next_key>8000_tw_game_guide_wh_tips</next_key>
+<page_key>7000_tw_game_guide_wh_multiplayer</page_key>
+<parent_key>1000_tw_game_guide_wh_introduction_game_guide</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{1d3fd02f-7a9c-4b99-b55a-a77fae83ac6b}" record_timestamp="1465831922141" record_key="8000_tw_game_guide_wh_tips">
+<next_key>9000_tw_game_guide_wh_introduction_additional</next_key>
+<page_key>8000_tw_game_guide_wh_tips</page_key>
+<parent_key>1000_tw_game_guide_wh_introduction_game_guide</parent_key>
+</encyclopedia_page_linkages>
+<encyclopedia_page_linkages record_uuid="{b9ebc97c-b1cd-46d7-95a8-dd5cfb1ea81d}" record_timestamp="1463570069644" record_key="9000_tw_game_guide_wh_introduction_additional">
+<next_key></next_key>
+<page_key>9000_tw_game_guide_wh_introduction_additional</page_key>
+<parent_key>1000_tw_game_guide_wh_introduction_game_guide</parent_key>
+</encyclopedia_page_linkages>
+</dataroot>

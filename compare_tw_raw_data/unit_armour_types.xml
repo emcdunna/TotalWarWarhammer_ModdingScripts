@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_armour_types.xsd" export_time="Mon Feb 13 17:54:49 2017" revision="96" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>71f8d3e5-702a-43f7-94e0-a3154510ceaf</edit_uuid>
+<unit_armour_types record_uuid="{3a907754-de72-4158-96fa-1da70f79b11b}" record_timestamp="1463569396972" record_key="wh_dlc01_chs_dragon">
+<armour_value>70</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc01_chs_dragon</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{f422a987-0e18-4aee-8e19-2355cffb9b8c}" record_timestamp="1477035609336" record_key="wh_dlc01_chs_dragon_ogre">
+<armour_value>40</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc01_chs_dragon_ogre</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{3844998e-f2b7-4e92-8d44-bb8f0f528a27}" record_timestamp="1450182100547" record_key="wh_dlc01_chs_gorebeast_chariot">
+<armour_value>100</armour_value>
+<audio_type>heavy_metal</audio_type>
+<key>wh_dlc01_chs_gorebeast_chariot</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{2ec5496f-9af4-4456-af78-554975087a6b}" record_timestamp="1461152302640" record_key="wh_dlc01_chs_manticore">
+<armour_value>80</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc01_chs_manticore</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{b401b915-af55-4cbf-9d13-06be8d465ef4}" record_timestamp="1461152302641" record_key="wh_dlc01_chs_prince_sigvald">
+<armour_value>100</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_dlc01_chs_prince_sigvald</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{ee5daf06-5a78-4983-874e-cd79891714b1}" record_timestamp="1477035609332" record_key="wh_dlc01_chs_shaggoth">
+<armour_value>50</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc01_chs_shaggoth</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{91a1e787-03c4-4d8a-822f-44d77859f6d1}" record_timestamp="1486139300586" record_key="wh_dlc01_chs_trolls_armoured">
+<armour_value>90</armour_value>
+<audio_type>heavy_metal</audio_type>
+<key>wh_dlc01_chs_trolls_armoured</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{897277dc-38df-473e-851b-9b4734553d57}" record_timestamp="1455796809793" record_key="wh_dlc03_bst_cloth">
+<armour_value>15</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_dlc03_bst_cloth</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{44acd8c2-69a0-4115-ae9a-9a4f2db16a76}" record_timestamp="1455796810084" record_key="wh_dlc03_bst_full_plate_armor">
+<armour_value>80</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_dlc03_bst_full_plate_armor</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{963362f8-7408-4fca-b4bb-2283b8b9191a}" record_timestamp="1469454102008" record_key="wh_dlc03_bst_heavy">
+<armour_value>100</armour_value>
+<audio_type>heavy_metal</audio_type>
+<key>wh_dlc03_bst_heavy</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{d685f73e-8512-4460-9609-0900f32dfec6}" record_timestamp="1468500754932" record_key="wh_dlc03_bst_leather">
+<armour_value>15</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_dlc03_bst_leather</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{07ebd51b-2283-4f85-a1a6-2a08edde49af}" record_timestamp="1455796810071" record_key="wh_dlc03_bst_light">
+<armour_value>35</armour_value>
+<audio_type>chainmail</audio_type>
+<key>wh_dlc03_bst_light</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{fbcd63fb-4e59-4e21-a28d-de3bbfa32164}" record_timestamp="1469108799578" record_key="wh_dlc03_bst_light_body">
+<armour_value>35</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc03_bst_light_body</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{1c1c52be-6081-4c06-ad11-6f8c61247925}" record_timestamp="1469109627746" record_key="wh_dlc03_bst_manticore">
+<armour_value>45</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc03_bst_manticore</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{b02ec0de-becf-483a-807c-dd78df8b949a}" record_timestamp="1469108799578" record_key="wh_dlc03_bst_minotaur_shield">
+<armour_value>45</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc03_bst_minotaur_shield</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{5fe34cea-9d21-44c9-9038-692f201ab58f}" record_timestamp="1455796810077" record_key="wh_dlc03_bst_none">
+<armour_value>10</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc03_bst_none</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{e5a337e8-1dbb-4cb3-8153-2e5299cfa13a}" record_timestamp="1487008489391" record_key="wh_dlc03_bst_partial_plate">
+<armour_value>70</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_dlc03_bst_partial_plate</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{bd6136aa-edf6-4d0d-b3ac-23ebdea0d9f7}" record_timestamp="1471865779714" record_key="wh_dlc04_emp_free_company_armour">
+<armour_value>25</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_dlc04_emp_free_company_armour</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{539bfb07-020e-4065-94a9-b7b1b7ad0bcd}" record_timestamp="1471865790623" record_key="wh_dlc04_emp_full_plate_barded_arch_lector">
+<armour_value>130</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_dlc04_emp_full_plate_barded_arch_lector</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{d8a0ff3f-892f-4188-8903-b893696d7be2}" record_timestamp="1474282559142" record_key="wh_dlc04_emp_volkmar_mounted_plate">
+<armour_value>80</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_dlc04_emp_volkmar_mounted_plate</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{b4923f24-ab87-4165-b193-f2032f9c7b97}" record_timestamp="1471865790484" record_key="wh_dlc04_vmp_partial_plate">
+<armour_value>60</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_dlc04_vmp_partial_plate</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{e99d0628-db79-49a6-b050-f50f9c419566}" record_timestamp="1479307752046" record_key="wh_dlc05_wef_bark_treeman">
+<armour_value>100</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc05_wef_bark_treeman</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{5959014d-fd06-4101-a982-420ce670b702}" record_timestamp="1456494892003" record_key="wh_dlc05_wef_cloth">
+<armour_value>15</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc05_wef_cloth</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{bd4ea5fa-2962-445a-b9c6-7319f519aec7}" record_timestamp="1479325089417" record_key="wh_dlc05_wef_forest_dragon">
+<armour_value>70</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc05_wef_forest_dragon</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{6abc4554-41a9-4071-880d-bd3f5edfea8b}" record_timestamp="1479321702003" record_key="wh_dlc05_wef_light">
+<armour_value>40</armour_value>
+<audio_type>chainmail</audio_type>
+<key>wh_dlc05_wef_light</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{494e0cf6-5077-4fbc-9a2b-92dd89471efb}" record_timestamp="1456494892041" record_key="wh_dlc05_wef_none">
+<armour_value>10</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc05_wef_none</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{90d813ef-5551-49a5-8fbb-11cc80588279}" record_timestamp="1479325089416" record_key="wh_dlc05_wef_partial_plate">
+<armour_value>50</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_dlc05_wef_partial_plate</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{609deaf2-ad74-4c34-b9a1-d9cc30934570}" record_timestamp="1479325040790" record_key="wh_dlc05_wef_tough_skin">
+<armour_value>30</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc05_wef_tough_skin</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{90202ddd-8658-48fb-9e87-3e7106586ae4}" record_timestamp="1481037396881" record_key="wh_dlc05_wef_treekin_bark">
+<armour_value>80</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc05_wef_treekin_bark</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{02a51061-9197-499c-8724-b1982cc52b83}" record_timestamp="1474304271725" record_key="wh_dlc06_chs_medium">
+<armour_value>50</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_dlc06_chs_medium</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{fb2ca0a0-49b5-462d-84a4-cf6e5b28ccc4}" record_timestamp="1477035614008" record_key="wh_dlc06_dwf_ghost">
+<armour_value>25</armour_value>
+<audio_type>chainmail</audio_type>
+<key>wh_dlc06_dwf_ghost</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{cf60088c-2d89-4afa-9abe-231f1c9ececd}" record_timestamp="1477035609743" record_key="wh_dlc06_grn_goblin_armoured_squig_hero">
+<armour_value>55</armour_value>
+<audio_type>heavy_metal</audio_type>
+<key>wh_dlc06_grn_goblin_armoured_squig_hero</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{2d961961-10f1-4d21-a907-b34ed7e05c7b}" record_timestamp="1477035605320" record_key="wh_dlc06_grn_goblin_gobbla">
+<armour_value>50</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_dlc06_grn_goblin_gobbla</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{b41e5211-94c7-4151-93ee-b58a94d4c39e}" record_timestamp="1474294405488" record_key="wh_dlc06_grn_orc_boar_heavy">
+<armour_value>90</armour_value>
+<audio_type>body</audio_type>
+<key>wh_dlc06_grn_orc_boar_heavy</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{a5b8f5bd-3a38-405b-8656-77a7197a5e47}" record_timestamp="1482324017786" record_key="wh_dlc07_brt_green_knight_ghostly_plate">
+<armour_value>40</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_dlc07_brt_green_knight_ghostly_plate</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{cf9e0e9a-287e-4fdb-99fa-9232600ecbde}" record_timestamp="1484126860730" record_key="wh_dlc07_brt_plate_errant">
+<armour_value>75</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_dlc07_brt_plate_errant</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{4b7fab56-2bbd-4995-a01f-a04f6854f333}" record_timestamp="1484126860730" record_key="wh_dlc07_brt_plate_full_guardian">
+<armour_value>120</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_dlc07_brt_plate_full_guardian</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{efbb00b2-b0d1-4ccf-beff-4f22163e7a44}" record_timestamp="1484126860730" record_key="wh_dlc07_brt_plate_squire">
+<armour_value>70</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_dlc07_brt_plate_squire</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{ed77c47b-ed8a-4876-bb44-7d28bdfbfeaa}" record_timestamp="1485256740854" record_key="wh_dlc07_partial_chainmail">
+<armour_value>40</armour_value>
+<audio_type>chainmail</audio_type>
+<key>wh_dlc07_partial_chainmail</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{b5f50a54-f199-417d-9b00-6b341ea412f1}" record_timestamp="1486658852827" record_key="wh_dlc07_vmp_partial_plate">
+<armour_value>60</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_dlc07_vmp_partial_plate</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{392ee7eb-447d-4c1e-b43f-fe7e362e986e}" record_timestamp="1452869333283" record_key="wh_main_bone">
+<armour_value>20</armour_value>
+<audio_type>bone</audio_type>
+<key>wh_main_bone</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{c04af9e5-d858-4ce6-9ffa-be18a7ff514c}" record_timestamp="1463570276703" record_key="wh_main_brt_leather">
+<armour_value>30</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_main_brt_leather</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{77c26eaa-3657-4935-8d3e-1ff3eedad445}" record_timestamp="1447348528820" record_key="wh_main_brt_plate_full">
+<armour_value>90</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_brt_plate_full</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{dc7aac28-560e-417a-b55d-811a08e0e319}" record_timestamp="1484126860729" record_key="wh_main_brt_plate_full_barded">
+<armour_value>80</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_brt_plate_full_barded</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{abf21775-4013-4558-a576-5c2e2c1e0948}" record_timestamp="1484126860730" record_key="wh_main_brt_plate_full_barded_knights_of_the_realm">
+<armour_value>80</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_brt_plate_full_barded_knights_of_the_realm</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{aecd3d5c-f3b3-4938-8908-44caf9f0bfb5}" record_timestamp="1447348528798" record_key="wh_main_brt_plate_full_mounted">
+<armour_value>80</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_brt_plate_full_mounted</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{d123fe8d-f6f1-4bf0-b2e0-e9f4af07884d}" record_timestamp="1447348528731" record_key="wh_main_brt_plate_partial">
+<armour_value>40</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_brt_plate_partial</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{c1a59715-37e3-4acd-8b5e-25d378472edb}" record_timestamp="1447348528753" record_key="wh_main_brt_plate_partial_barded">
+<armour_value>60</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_brt_plate_partial_barded</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{4fce8749-82df-4638-bc5b-b4bb774dd302}" record_timestamp="1420555892153" record_key="wh_main_chaos">
+<armour_value>65</armour_value>
+<audio_type>heavy_metal</audio_type>
+<key>wh_main_chaos</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{dcd6c328-a52c-48b0-b7a5-8ea6c6438eb8}" record_timestamp="1450182100529" record_key="wh_main_chs_chaos_armour">
+<armour_value>100</armour_value>
+<audio_type>heavy_metal</audio_type>
+<key>wh_main_chs_chaos_armour</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{829054ad-78d2-459d-9da2-ca61b9ca3c45}" record_timestamp="1464172899906" record_key="wh_main_chs_chaos_armour_barded">
+<armour_value>120</armour_value>
+<audio_type>heavy_metal</audio_type>
+<key>wh_main_chs_chaos_armour_barded</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{75f51eff-d0c3-47f1-85e6-b70a8f8f8fdf}" record_timestamp="1466522439722" record_key="wh_main_chs_chaos_armour_chosen">
+<armour_value>120</armour_value>
+<audio_type>heavy_metal</audio_type>
+<key>wh_main_chs_chaos_armour_chosen</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{5a94515d-8147-4f5b-b316-6e08602a6bec}" record_timestamp="1464172898697" record_key="wh_main_chs_chaos_armour_forsaken">
+<armour_value>75</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_chs_chaos_armour_forsaken</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{af3620cc-db75-4f81-aa16-fee76bcd6a79}" record_timestamp="1461152302584" record_key="wh_main_chs_chaos_armour_mounted">
+<armour_value>90</armour_value>
+<audio_type>heavy_metal</audio_type>
+<key>wh_main_chs_chaos_armour_mounted</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{9f3d73b1-ca9f-445a-a948-3384dad9f763}" record_timestamp="1446050971529" record_key="wh_main_chs_leather">
+<armour_value>15</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_main_chs_leather</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{4c9551d0-b72d-4f7b-9f47-8d80903086d3}" record_timestamp="1446050972274" record_key="wh_main_chs_light">
+<armour_value>30</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_main_chs_light</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{484d33e0-1ba9-4572-9e38-b5fced3d8126}" record_timestamp="1452869293482" record_key="wh_main_cloth">
+<armour_value>15</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_cloth</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{b6d335b7-6034-425b-8af6-63c046051150}" record_timestamp="1479317363711" record_key="wh_main_dwarf_heavy_dwarf_warrior">
+<armour_value>85</armour_value>
+<audio_type>chainmail</audio_type>
+<key>wh_main_dwarf_heavy_dwarf_warrior</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{c093a0e0-d1c9-405d-8559-c36186c988f5}" record_timestamp="1438932582342" record_key="wh_main_dwf_gromril">
+<armour_value>120</armour_value>
+<audio_type>chainmail</audio_type>
+<key>wh_main_dwf_gromril</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{8152343b-b3fe-464e-8839-2568d9959357}" record_timestamp="1446743483803" record_key="wh_main_dwf_gyrocopter">
+<armour_value>100</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_dwf_gyrocopter</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{de3cf846-94ef-41d9-a37b-4555cd9360a4}" record_timestamp="1438932582346" record_key="wh_main_dwf_heavy">
+<armour_value>80</armour_value>
+<audio_type>chainmail</audio_type>
+<key>wh_main_dwf_heavy</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{0c8f3795-e6dd-48e4-acb2-6d706caa0da9}" record_timestamp="1456938475878" record_key="wh_main_dwf_heavy_improved">
+<armour_value>95</armour_value>
+<audio_type>chainmail</audio_type>
+<key>wh_main_dwf_heavy_improved</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{6d38872b-b9f9-4856-bb38-cb13a320eb0a}" record_timestamp="1433236402281" record_key="wh_main_dwf_light">
+<armour_value>40</armour_value>
+<audio_type>chainmail</audio_type>
+<key>wh_main_dwf_light</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{60869049-e482-4787-9c42-88ae0d58b0d7}" record_timestamp="1433236402148" record_key="wh_main_dwf_none">
+<armour_value>10</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_dwf_none</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{7314e932-d9c0-46f1-930c-e972315c3b52}" record_timestamp="1433236402482" record_key="wh_main_emp_chariot">
+<armour_value>40</armour_value>
+<audio_type>heavy_metal</audio_type>
+<key>wh_main_emp_chariot</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{623a03e0-2015-4a0a-a6fb-e175618e7fb4}" record_timestamp="1474304271112" record_key="wh_main_emp_full_plate">
+<armour_value>95</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_emp_full_plate</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{be101b0d-1999-46eb-beb2-5eab421a582f}" record_timestamp="1456324478176" record_key="wh_main_emp_full_plate_barded">
+<armour_value>100</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_emp_full_plate_barded</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{b19496ff-c56b-4fd6-8664-cee3c3c161f4}" record_timestamp="1465231555184" record_key="wh_main_emp_full_plate_barded_demigryph">
+<armour_value>125</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_emp_full_plate_barded_demigryph</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{3dfb6f31-3ef1-49cd-9788-13a1c40a07bb}" record_timestamp="1456324478008" record_key="wh_main_emp_full_plate_barded_improved">
+<armour_value>120</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_emp_full_plate_barded_improved</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{ac96eb58-c299-4ab1-8df6-95ca62586874}" record_timestamp="1433236402080" record_key="wh_main_emp_leather">
+<armour_value>20</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_main_emp_leather</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{00ee029c-c0cb-448e-b207-cf01f6bf33f1}" record_timestamp="1433236409985" record_key="wh_main_emp_leather_barded">
+<armour_value>50</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_emp_leather_barded</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{24e34918-beaa-4345-b46d-3c108c4371aa}" record_timestamp="1433236402617" record_key="wh_main_emp_light">
+<armour_value>30</armour_value>
+<audio_type>chainmail</audio_type>
+<key>wh_main_emp_light</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{3242a966-2c17-4749-bcaa-5768eba8df9f}" record_timestamp="1433236410056" record_key="wh_main_emp_light_barded">
+<armour_value>60</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_emp_light_barded</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{615d0a26-0dc1-4d36-8d35-aba2cfc5c2ec}" record_timestamp="1459936836089" record_key="wh_main_emp_plate">
+<armour_value>85</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_emp_plate</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{3c805360-2fa0-417a-8cfc-9048c177d592}" record_timestamp="1433236402549" record_key="wh_main_emp_steamtank">
+<armour_value>160</armour_value>
+<audio_type>heavy_metal</audio_type>
+<key>wh_main_emp_steamtank</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{33f19119-0a03-4e40-bb7e-3359e048abc0}" record_timestamp="1455212473346" record_key="wh_main_full_plate">
+<armour_value>85</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_full_plate</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{ef014c5c-df98-4749-b605-f06a8ac68087}" record_timestamp="1455212473346" record_key="wh_main_full_plate_mounted">
+<armour_value>70</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_full_plate_mounted</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{959a49eb-a438-4530-9cf7-b7dd401c819b}" record_timestamp="1455212473346" record_key="wh_main_full_plate_mounted_barded">
+<armour_value>100</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_full_plate_mounted_barded</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{0c47f760-3081-4786-b254-bc7b156ab556}" record_timestamp="1462358729567" record_key="wh_main_giant">
+<armour_value>30</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_giant</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{2320dcbb-5aeb-4a56-8a99-69cd211af615}" record_timestamp="1462358729467" record_key="wh_main_grn_arachnarok">
+<armour_value>150</armour_value>
+<audio_type>bone</audio_type>
+<key>wh_main_grn_arachnarok</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{f3a733a8-aa58-4929-898b-e559a52e8494}" record_timestamp="1452869293315" record_key="wh_main_grn_cloth">
+<armour_value>15</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_main_grn_cloth</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{e4f8f9f6-a5c5-4d1d-942c-9502c1a7c538}" record_timestamp="1457544775292" record_key="wh_main_grn_forest_spider">
+<armour_value>45</armour_value>
+<audio_type>bone</audio_type>
+<key>wh_main_grn_forest_spider</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{d4923315-c265-4850-990c-c59c220af0c7}" record_timestamp="1454068412083" record_key="wh_main_grn_goblin_leather">
+<armour_value>25</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_main_grn_goblin_leather</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{aa080890-f1e1-4cbc-a415-1cf30d0f39f1}" record_timestamp="1465227993044" record_key="wh_main_grn_goblin_leather_hero">
+<armour_value>35</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_main_grn_goblin_leather_hero</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{bd11f39e-24cd-4214-a58d-2b4fdf567b3d}" record_timestamp="1443086214542" record_key="wh_main_grn_heavy">
+<armour_value>70</armour_value>
+<audio_type>heavy_metal</audio_type>
+<key>wh_main_grn_heavy</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{4442f623-a545-4ad7-8619-9e84f1e26519}" record_timestamp="1454068412126" record_key="wh_main_grn_orc_big_uns">
+<armour_value>50</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_grn_orc_big_uns</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{8bbf65ec-aea8-4dd1-a6a5-40794a78df7e}" record_timestamp="1455038677235" record_key="wh_main_grn_orc_boar">
+<armour_value>55</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_grn_orc_boar</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{0c86fa00-bcdc-42bc-b977-e7a8f3c16c5c}" record_timestamp="1433501843830" record_key="wh_main_grn_orc_leather">
+<armour_value>30</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_main_grn_orc_leather</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{e119e9ce-3664-43dc-b544-cb092e609bad}" record_timestamp="1455038677191" record_key="wh_main_grn_savage_orc_boar">
+<armour_value>25</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_grn_savage_orc_boar</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{cebc65d1-8969-4afb-aa29-96b34ebb48d5}" record_timestamp="1486139300607" record_key="wh_main_grn_troll">
+<armour_value>40</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_grn_troll</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{bb0f2b93-153c-498c-8c4c-29abb9c41a6d}" record_timestamp="1443086214514" record_key="wh_main_grn_very_heavy">
+<armour_value>110</armour_value>
+<audio_type>heavy_metal</audio_type>
+<key>wh_main_grn_very_heavy</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{104ff963-0146-4641-8753-aa90dfcb68b3}" record_timestamp="1433501846576" record_key="wh_main_grn_wyvern">
+<armour_value>70</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_grn_wyvern</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{e27ee998-3d31-4089-8d7b-ab413a83dae6}" record_timestamp="1420555892231" record_key="wh_main_leather">
+<armour_value>15</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_main_leather</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{3b2fa957-3b54-4663-9aea-a51900b51a2a}" record_timestamp="1433235052232" record_key="wh_main_none">
+<armour_value>0</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_none</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{4aa2f7c7-f1e8-4ecb-8aa4-894760270bcf}" record_timestamp="1420555891998" record_key="wh_main_scaly_skin">
+<armour_value>20</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_main_scaly_skin</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{4f8ad849-4dd2-4f5a-94b0-53733585b4b1}" record_timestamp="1421753751287" record_key="wh_main_tough_skin">
+<armour_value>50</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_main_tough_skin</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{160722ea-21c8-4a50-a252-db049644c3ad}" record_timestamp="1466522444896" record_key="wh_main_vmp_black_coach">
+<armour_value>60</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_vmp_black_coach</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{630aa4bf-cb44-4006-878c-9d5a6ecb0d6b}" record_timestamp="1455212473365" record_key="wh_main_vmp_cloth_barded">
+<armour_value>45</armour_value>
+<audio_type>leather</audio_type>
+<key>wh_main_vmp_cloth_barded</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{a6c79854-1658-41f9-a8a4-4ea4ca324c1e}" record_timestamp="1459947212026" record_key="wh_main_vmp_crypt_ghouls">
+<armour_value>10</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_vmp_crypt_ghouls</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{9fbce3b7-43ad-43ba-90a5-da7d37500585}" record_timestamp="1466522257529" record_key="wh_main_vmp_crypt_horror">
+<armour_value>30</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_vmp_crypt_horror</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{fce72584-5c1b-443e-b2fd-f8b40ff882cc}" record_timestamp="1444923422834" record_key="wh_main_vmp_heavy_plate">
+<armour_value>90</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_vmp_heavy_plate</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{1bb642c2-9bee-4537-b31b-d10d2892d6de}" record_timestamp="1444923423167" record_key="wh_main_vmp_heavy_plate_barding">
+<armour_value>110</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_vmp_heavy_plate_barding</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{1246531b-b19c-4647-aa57-5f19e06f40fb}" record_timestamp="1444923423063" record_key="wh_main_vmp_heavy_plate_mounted">
+<armour_value>80</armour_value>
+<audio_type>plate</audio_type>
+<key>wh_main_vmp_heavy_plate_mounted</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{4fc06eee-5604-4e02-a99c-ec11da1eca32}" record_timestamp="1433755557546" record_key="wh_main_vmp_none">
+<armour_value>0</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_vmp_none</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{012fb32f-db12-4d33-9870-71c8fb870e75}" record_timestamp="1433755557567" record_key="wh_main_vmp_steed_barded">
+<armour_value>110</armour_value>
+<audio_type>heavy_metal</audio_type>
+<key>wh_main_vmp_steed_barded</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{11fc1d08-6949-4137-a6bb-174e824087cb}" record_timestamp="1444303712613" record_key="wh_main_vmp_terrorgheist">
+<armour_value>80</armour_value>
+<audio_type>bone</audio_type>
+<key>wh_main_vmp_terrorgheist</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{a725bb28-49c6-46b2-90b8-0ab6fd22882c}" record_timestamp="1445615679841" record_key="wh_main_vmp_vargheist">
+<armour_value>10</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_vmp_vargheist</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{dabecabc-7356-4f6b-92f4-b7d9e71374fc}" record_timestamp="1445615679758" record_key="wh_main_vmp_varghulf">
+<armour_value>40</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_vmp_varghulf</key>
+</unit_armour_types>
+<unit_armour_types record_uuid="{1703627a-caf7-4f52-9943-4bac75abf62b}" record_timestamp="1444992700370" record_key="wh_main_vmp_zombie_dragon">
+<armour_value>70</armour_value>
+<audio_type>body</audio_type>
+<key>wh_main_vmp_zombie_dragon</key>
+</unit_armour_types>
+</dataroot>

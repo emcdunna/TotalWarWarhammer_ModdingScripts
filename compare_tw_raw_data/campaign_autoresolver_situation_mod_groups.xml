@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_autoresolver_situation_mod_groups.xsd" export_time="Wed Nov 16 18:24:18 2016" revision="14" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>944c11fc-4adc-4be8-8201-311b0865524e</edit_uuid>
+<campaign_autoresolver_situation_mod_groups record_uuid="{7e05473f-8379-4423-bd9d-28e898c9bbf7}" record_timestamp="1432112525533" record_key="822">
+<group_id>wh_strong_kps_multiplier_bonus</group_id>
+<group_target_id>attacker_target</group_target_id>
+<id>822</id>
+<situation_id>ambush_generic</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+<campaign_autoresolver_situation_mod_groups record_uuid="{b271d7aa-3fb7-4a7b-8e23-a8732964b15f}" record_timestamp="1432112525663" record_key="846">
+<group_id>wh_moderate_kps_multiplier_bonus</group_id>
+<group_target_id>defender_target</group_target_id>
+<id>846</id>
+<situation_id>fortify_battle</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+<campaign_autoresolver_situation_mod_groups record_uuid="{e99734fd-0283-4656-873a-47db5b6d02e5}" record_timestamp="1432112525689" record_key="855">
+<group_id>wh_no_retreat</group_id>
+<group_target_id>defender_target</group_target_id>
+<id>855</id>
+<situation_id>ambush_generic</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+<campaign_autoresolver_situation_mod_groups record_uuid="{db9193f7-0d0c-4d94-bc86-9cdc195a14b9}" record_timestamp="1432112525584" record_key="872">
+<group_id>wh_strong_kps_multiplier_bonus</group_id>
+<group_target_id>defender_target</group_target_id>
+<id>872</id>
+<situation_id>settlement_generic_land</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+<campaign_autoresolver_situation_mod_groups record_uuid="{587139ef-812d-44ea-b87c-a5b315339cce}" record_timestamp="1459951148892" record_key="899">
+<group_id>wh_global_ranged_kps_penalty</group_id>
+<group_target_id>none</group_target_id>
+<id>899</id>
+<situation_id>ambush_generic</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+<campaign_autoresolver_situation_mod_groups record_uuid="{1d0a4d4b-65a5-436b-b3c9-7455c5e56c61}" record_timestamp="1459951148893" record_key="908">
+<group_id>wh_global_ranged_kps_penalty</group_id>
+<group_target_id>none</group_target_id>
+<id>908</id>
+<situation_id>bridge_generic</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+<campaign_autoresolver_situation_mod_groups record_uuid="{66442252-469b-4fcb-84b2-3205ca970dff}" record_timestamp="1459951148889" record_key="912">
+<group_id>wh_global_ranged_kps_penalty</group_id>
+<group_target_id>none</group_target_id>
+<id>912</id>
+<situation_id>fortify_battle</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+<campaign_autoresolver_situation_mod_groups record_uuid="{39883559-2793-4cc1-b7c4-b52d103d3078}" record_timestamp="1459951148891" record_key="917">
+<group_id>wh_global_ranged_kps_penalty</group_id>
+<group_target_id>none</group_target_id>
+<id>917</id>
+<situation_id>generic_battle</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+<campaign_autoresolver_situation_mod_groups record_uuid="{2b8c38d8-17e8-474b-a48a-315c3f44641c}" record_timestamp="1459951148896" record_key="924">
+<group_id>wh_global_ranged_kps_penalty</group_id>
+<group_target_id>none</group_target_id>
+<id>924</id>
+<situation_id>minor_settlement_generic_land</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+<campaign_autoresolver_situation_mod_groups record_uuid="{ba13465f-dd36-4580-ac2d-8bd218ac7762}" record_timestamp="1459951148897" record_key="925">
+<group_id>wh_global_ranged_kps_penalty</group_id>
+<group_target_id>none</group_target_id>
+<id>925</id>
+<situation_id>minor_settlement_generic_naval</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+<campaign_autoresolver_situation_mod_groups record_uuid="{7c7b006a-3f80-4d37-af6f-2308b12645fa}" record_timestamp="1459951148894" record_key="930">
+<group_id>wh_global_ranged_kps_penalty</group_id>
+<group_target_id>none</group_target_id>
+<id>930</id>
+<situation_id>settlement_generic_land</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+<campaign_autoresolver_situation_mod_groups record_uuid="{4817b653-2d54-4194-bfec-cee3e77056e3}" record_timestamp="1459951148895" record_key="940">
+<group_id>wh_global_ranged_kps_penalty</group_id>
+<group_target_id>none</group_target_id>
+<id>940</id>
+<situation_id>settlement_generic_naval</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+<campaign_autoresolver_situation_mod_groups record_uuid="{b6611e4c-404d-4299-818b-4f68929cba2e}" record_timestamp="1479320658025" record_key="946">
+<group_id>wh_siege_eq_multiplier_bonus</group_id>
+<group_target_id>siege_eq_buff</group_target_id>
+<id>946</id>
+<situation_id>settlement_generic_land</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+<campaign_autoresolver_situation_mod_groups record_uuid="{3dc46857-b302-4cb9-9a4a-082164064d2a}" record_timestamp="1479320658046" record_key="954">
+<group_id>wh_settlement_human_v_ai_penalty</group_id>
+<group_target_id>defending_human_vs_ai</group_target_id>
+<id>954</id>
+<situation_id>settlement_generic_land</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+<campaign_autoresolver_situation_mod_groups record_uuid="{3c8297b3-18a2-45ae-9af6-efe35a3364ab}" record_timestamp="1479320658096" record_key="959">
+<group_id>wh_siege_eq_multiplier_ai_v_human_bonus</group_id>
+<group_target_id>siege_eq_buff_ai_vs_human</group_target_id>
+<id>959</id>
+<situation_id>settlement_generic_land</situation_id>
+</campaign_autoresolver_situation_mod_groups>
+</dataroot>

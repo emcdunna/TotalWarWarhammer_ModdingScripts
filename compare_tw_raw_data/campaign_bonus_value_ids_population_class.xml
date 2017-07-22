@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_population_class.xsd" export_time="Mon Aug 24 09:57:51 2015" revision="7" export_branch="C:/fetch_c/warhammer/binaries" export_user="bob">
+<edit_uuid>f13c9b3c-88fb-4726-944a-8e493f310be5</edit_uuid>
+<campaign_bonus_value_ids_population_class record_uuid="{4e3726f3-0aca-4546-a1ad-54c370392a4c}" record_key="happiness_character">
+<key>happiness_character</key>
+<notes>Adds to happiness factor for Characters in population class. Used from region bonuses.</notes>
+</campaign_bonus_value_ids_population_class>
+<campaign_bonus_value_ids_population_class record_uuid="{ece1f0a2-55b1-4268-9a83-208f4f4dd8ae}" record_key="happiness_clamour_for_reform">
+<key>happiness_clamour_for_reform</key>
+<notes>Adds to happiness factor for Reform in population class. Used from region bonuses. </notes>
+</campaign_bonus_value_ids_population_class>
+<campaign_bonus_value_ids_population_class record_uuid="{1b74e4fc-839e-40af-9aae-9b0505ae2507}" record_key="happiness_culture">
+<key>happiness_culture</key>
+<notes>Adds to happiness factor for Culture in population class. Used from region bonuses. </notes>
+</campaign_bonus_value_ids_population_class>
+<campaign_bonus_value_ids_population_class record_uuid="{9c7537cc-6329-4da9-bc84-02fa73833c9b}" record_key="happiness_industry">
+<key>happiness_industry</key>
+<notes>Adds to happiness factor for Industrialisation in population class. Used from region bonuses. </notes>
+</campaign_bonus_value_ids_population_class>
+</dataroot>

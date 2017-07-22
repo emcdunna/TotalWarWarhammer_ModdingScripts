@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_attrition_record_junctions.xsd" export_time="Mon Jan 30 18:55:58 2017" revision="34" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>30d072a0-1762-441b-80f7-f9252496d353</edit_uuid>
+<effect_bonus_value_attrition_record_junctions record_uuid="{279b82e8-cf3b-4f7b-b42f-17ba8c72dd33}" record_timestamp="1479317181936" record_key="wh_dlc03_effect_force_army_campaign_attrition_chaos_territorydamage_modchaos_territory">
+<attrition_record>chaos_territory</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_dlc03_effect_force_army_campaign_attrition_chaos_territory</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{cf4e4299-6c84-444e-9ce7-2ae4936ff3ba}" record_timestamp="1468495373194" record_key="wh_dlc03_low_morale_attrition_immunityimmunitylow_morale">
+<attrition_record>low_morale</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc03_low_morale_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{755ba834-4fb0-4272-bade-b345aa9864bf}" record_timestamp="1468495373195" record_key="wh_dlc03_low_morale_attrition_immunityimmunityvery_low_morale">
+<attrition_record>very_low_morale</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc03_low_morale_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{1aff414e-a81b-4a3f-865b-c3861329ced4}" record_timestamp="1481894382139" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunityathel_loren">
+<attrition_record>athel_loren</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{fb2fb016-9bf3-4de7-ad1b-12ef30d62103}" record_timestamp="1481894382144" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunitybesieged">
+<attrition_record>besieged</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{ec13a8ed-fabc-4b6f-94c8-1002430c0fa8}" record_timestamp="1481894382143" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunitybesieging">
+<attrition_record>besieging</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{f57b11de-a034-48ec-b43c-46fc018e40d4}" record_timestamp="1481894382142" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunityblockaded">
+<attrition_record>blockaded</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{113da063-ee13-47dd-8eb2-afd7762f0f79}" record_timestamp="1481894382140" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunityblockading">
+<attrition_record>blockading</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{82aaf1a2-e6a9-4f26-91fb-ad6ffa2c4c53}" record_timestamp="1481894382149" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunitychaos_territory">
+<attrition_record>chaos_territory</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{e25f7c0f-69c4-4dd7-bfa7-f822af132eeb}" record_timestamp="1481894382148" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunitychaos_wastes">
+<attrition_record>chaos_wastes</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{0c39331a-7987-4755-af1c-6740ff618329}" record_timestamp="1481894382147" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunitydeep_sea">
+<attrition_record>deep_sea</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{b56f0ec6-214c-46f2-b4f6-ee6b443751c5}" record_timestamp="1481894382145" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunitydesert">
+<attrition_record>desert</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{11caad37-a498-43a5-8600-391b5f7663c6}" record_timestamp="1481894382153" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunitydisease">
+<attrition_record>disease</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{57136a44-472e-40b4-b7eb-094631b6e713}" record_timestamp="1481894382152" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunitylow_morale">
+<attrition_record>low_morale</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{71045df6-da9e-4e23-b579-04213285f27f}" record_timestamp="1481894382150" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunitymountain">
+<attrition_record>mountain</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{1779fc76-f47f-473f-b46a-0eb64f11a8ae}" record_timestamp="1481894382122" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunitynon_vampire_territory">
+<attrition_record>non_vampire_territory</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{896145da-ce81-45e5-92da-926a7ef377e1}" record_timestamp="1481894382121" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunityregionless">
+<attrition_record>regionless</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{08a9cb5a-577f-45a8-8114-d0b2920d2fd4}" record_timestamp="1481894382120" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunitysabotage">
+<attrition_record>sabotage</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{d8af889b-1571-4e61-8985-35ea298f5160}" record_timestamp="1481894382119" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunitysnow">
+<attrition_record>snow</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{10a7dc4c-7a96-4251-8ff7-9971aeabf969}" record_timestamp="1481894382128" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunityswamp">
+<attrition_record>swamp</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{d3e84b12-4b83-49c3-a0a5-3f9c75fc6013}" record_timestamp="1481894382127" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunityvampire_territory">
+<attrition_record>vampire_territory</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{3e827d39-0124-4d5e-95ce-07af2940c916}" record_timestamp="1481894382125" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunityvery_low_morale">
+<attrition_record>very_low_morale</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{9ac44e10-450f-4bd4-87aa-8340d38e40ae}" record_timestamp="1481894382123" record_key="wh_dlc05_durthu_trait_effect_attrition_immunityimmunitywasteland">
+<attrition_record>wasteland</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_durthu_trait_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{9fcd3c6c-9daa-4edd-ad69-6b7e112ae3b9}" record_timestamp="1458669156024" record_key="wh_dlc05_effect_force_army_campaign_attrition_mountain_immunityimmunitymountain">
+<attrition_record>mountain</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_effect_force_army_campaign_attrition_mountain_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{274fb5b5-9eb0-4961-8678-0fd3949bce41}" record_timestamp="1459530120842" record_key="wh_dlc05_effect_force_army_campaign_attrition_swamp_immunityimmunityswamp">
+<attrition_record>swamp</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_effect_force_army_campaign_attrition_swamp_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{73224dbc-1f56-48cb-bafc-f78cb68455a9}" record_timestamp="1481894382132" record_key="wh_dlc05_technology_effect_attrition_immunityimmunityathel_loren">
+<attrition_record>athel_loren</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{3a2876c6-f9bc-45cd-bd6f-3d56aec51bee}" record_timestamp="1481894382131" record_key="wh_dlc05_technology_effect_attrition_immunityimmunitybesieged">
+<attrition_record>besieged</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{a8cc9831-ff04-4171-a084-cf73284c1180}" record_timestamp="1481894382130" record_key="wh_dlc05_technology_effect_attrition_immunityimmunitybesieging">
+<attrition_record>besieging</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{102f44cf-9a7f-49eb-9b8b-506da2c279d1}" record_timestamp="1481894382129" record_key="wh_dlc05_technology_effect_attrition_immunityimmunityblockaded">
+<attrition_record>blockaded</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{ab73200c-c7e1-459b-a568-b95e53b55517}" record_timestamp="1481894382138" record_key="wh_dlc05_technology_effect_attrition_immunityimmunityblockading">
+<attrition_record>blockading</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{9a617141-7432-4a88-926d-faa54ddff0a0}" record_timestamp="1481894382137" record_key="wh_dlc05_technology_effect_attrition_immunityimmunitychaos_territory">
+<attrition_record>chaos_territory</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{f36d5437-2486-4ad0-975a-02d1d8496d1e}" record_timestamp="1481894382135" record_key="wh_dlc05_technology_effect_attrition_immunityimmunitychaos_wastes">
+<attrition_record>chaos_wastes</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{25f5feb8-0d56-4af0-b74c-855bc7398c27}" record_timestamp="1481894382133" record_key="wh_dlc05_technology_effect_attrition_immunityimmunitydeep_sea">
+<attrition_record>deep_sea</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{42311ce6-fbb1-419b-bc47-c0310dbb7d53}" record_timestamp="1481894382106" record_key="wh_dlc05_technology_effect_attrition_immunityimmunitydesert">
+<attrition_record>desert</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{102a83e6-6a11-4816-8237-ddce87876449}" record_timestamp="1481894382105" record_key="wh_dlc05_technology_effect_attrition_immunityimmunitydisease">
+<attrition_record>disease</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{490abc5f-8306-4a2a-9c2d-3116d2f07092}" record_timestamp="1481894382103" record_key="wh_dlc05_technology_effect_attrition_immunityimmunitylow_morale">
+<attrition_record>low_morale</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{914aae56-9f7d-4694-881a-d32e8eab70bf}" record_timestamp="1481894382111" record_key="wh_dlc05_technology_effect_attrition_immunityimmunitymountain">
+<attrition_record>mountain</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{2ed4d5df-0c0a-43c8-b5b0-f752ec4eabcb}" record_timestamp="1481894382110" record_key="wh_dlc05_technology_effect_attrition_immunityimmunitynon_vampire_territory">
+<attrition_record>non_vampire_territory</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{63637b8f-2a51-487b-abcc-2e8cb6ee2ea2}" record_timestamp="1481894382109" record_key="wh_dlc05_technology_effect_attrition_immunityimmunityregionless">
+<attrition_record>regionless</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{e8f856cb-d397-4a6d-82e4-798f4773c34c}" record_timestamp="1481894382107" record_key="wh_dlc05_technology_effect_attrition_immunityimmunitysabotage">
+<attrition_record>sabotage</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{56270adf-73f4-44f4-a020-d65226d2546c}" record_timestamp="1481894382116" record_key="wh_dlc05_technology_effect_attrition_immunityimmunitysnow">
+<attrition_record>snow</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{75b9d9e3-0029-4efd-ab9b-bfee1c757fab}" record_timestamp="1481894382115" record_key="wh_dlc05_technology_effect_attrition_immunityimmunityswamp">
+<attrition_record>swamp</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{90336ce6-f303-4b8d-b7eb-a0124874a1ca}" record_timestamp="1481894382114" record_key="wh_dlc05_technology_effect_attrition_immunityimmunityvampire_territory">
+<attrition_record>vampire_territory</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{e1cb7a18-032a-46d9-9ee7-3160b0cfa1f4}" record_timestamp="1481894382112" record_key="wh_dlc05_technology_effect_attrition_immunityimmunityvery_low_morale">
+<attrition_record>very_low_morale</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{7be28316-43fe-4b82-a232-cec93b0a7daf}" record_timestamp="1481894382117" record_key="wh_dlc05_technology_effect_attrition_immunityimmunitywasteland">
+<attrition_record>wasteland</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc05_technology_effect_attrition_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{99020fae-b4b4-4895-9664-528c62ca4c3f}" record_timestamp="1485802556146" record_key="wh_dlc07_effect_attrition_immunity_badlandsimmunitywasteland">
+<attrition_record>wasteland</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc07_effect_attrition_immunity_badlands</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{269e4666-473a-4660-a7d1-52462082d368}" record_timestamp="1485802556147" record_key="wh_dlc07_effect_attrition_immunity_snowimmunitysnow">
+<attrition_record>snow</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_dlc07_effect_attrition_immunity_snow</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{69c8fbcd-4042-41c3-8669-4ddfa1f3f060}" record_timestamp="1470821043690" record_key="wh_dlc07_effect_campaign_attrition_vampiric_attrition_casualtiesdamage_modvampire_territory">
+<attrition_record>vampire_territory</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_dlc07_effect_campaign_attrition_vampiric_attrition_casualties</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{6a7fe036-949e-4b3c-a179-b61a57d5d9af}" record_timestamp="1479332170325" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunityathel_loren">
+<attrition_record>athel_loren</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{4e1b3d31-aef0-4866-ba3c-c4ae72c6445f}" record_timestamp="1450356916632" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunitybesieged">
+<attrition_record>besieged</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{ddd0a050-9543-46d9-b0d2-f8526f145abb}" record_timestamp="1450356916461" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunitybesieging">
+<attrition_record>besieging</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{409646ef-f6af-4ce6-87e2-d2bf5d2a840f}" record_timestamp="1450356916543" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunityblockaded">
+<attrition_record>blockaded</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{81a874d2-02e3-40b5-9d56-80226a1f7184}" record_timestamp="1450356916294" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunityblockading">
+<attrition_record>blockading</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{45be9514-c703-4f43-a5a2-638f42fd09cf}" record_timestamp="1454083989041" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunitychaos_territory">
+<attrition_record>chaos_territory</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{a8638381-ee42-4128-b0ff-a2be22f6986f}" record_timestamp="1454675170459" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunitychaos_wastes">
+<attrition_record>chaos_wastes</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{cb082bdd-6c24-404d-aa5c-c84f353aad27}" record_timestamp="1450356916114" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunitydeep_sea">
+<attrition_record>deep_sea</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{81658d7f-59df-412f-aadb-683cd853f436}" record_timestamp="1450356916208" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunitydesert">
+<attrition_record>desert</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{214baf41-229e-4cb0-b032-6e06644097ba}" record_timestamp="1450356915936" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunitydesertion">
+<attrition_record>desertion</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{ec9b3a75-d7c7-49d5-89ab-bccf2789bfc6}" record_timestamp="1450356916025" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunitydisease">
+<attrition_record>disease</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{b7ee98dc-59e9-4ec6-a54a-c4aa0d685418}" record_timestamp="1450356915743" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunitylow_morale">
+<attrition_record>low_morale</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{6567d8f3-7eb1-4d19-82cd-1e2c0e35be02}" record_timestamp="1450356915845" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunitymountain">
+<attrition_record>mountain</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{8c4b8664-9422-4c87-86a0-5bcff43a34d8}" record_timestamp="1450356917269" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunitynon_vampire_territory">
+<attrition_record>non_vampire_territory</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{aba829b7-8d8c-4ada-a4be-c23009388365}" record_timestamp="1450356915620" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunityregionless">
+<attrition_record>regionless</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{2192dcfe-0f79-4991-8090-d08c978a1150}" record_timestamp="1450356917105" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunitysabotage">
+<attrition_record>sabotage</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{07668b9c-aecc-43c5-86dc-8182d3a17018}" record_timestamp="1450356917186" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunitysnow">
+<attrition_record>snow</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{de8d2484-07a5-43f9-b02e-02c567689e2a}" record_timestamp="1450356916910" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunityswamp">
+<attrition_record>swamp</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{3f90cb19-0a42-41af-bef1-2e75f0d7ee25}" record_timestamp="1450356916994" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunityvampire_territory">
+<attrition_record>vampire_territory</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{a5eff152-ff7c-43ba-9e27-6c7d9be474df}" record_timestamp="1450356916729" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunityvery_low_morale">
+<attrition_record>very_low_morale</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{74ad82d8-6399-436f-b46e-daf99466cef8}" record_timestamp="1450356916826" record_key="wh_main_effect_force_army_campaign_attrition_all_immunity_hordeimmunitywasteland">
+<attrition_record>wasteland</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity_horde</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{7194329f-5c34-4273-986b-b106710784cb}" record_timestamp="1479332170380" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunityathel_loren">
+<attrition_record>athel_loren</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{c536ecec-f787-44dd-ac55-cbed4565f24c}" record_timestamp="1435758418038" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunitybesieged">
+<attrition_record>besieged</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{984a104f-15e6-4f87-aecd-474e5f30c94c}" record_timestamp="1435758417882" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunitybesieging">
+<attrition_record>besieging</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{38dd996f-a8d2-4532-95ac-94de78e71588}" record_timestamp="1435758417659" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunityblockaded">
+<attrition_record>blockaded</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{196411ba-9719-4738-a2f9-91f1f265953d}" record_timestamp="1435758417623" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunityblockading">
+<attrition_record>blockading</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{39d97e12-1f0a-4088-b2fb-691091e00d9c}" record_timestamp="1454083989041" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunitychaos_territory">
+<attrition_record>chaos_territory</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{9cc8ed21-4b3a-41af-9825-e507d2d2d553}" record_timestamp="1454675170429" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunitychaos_wastes">
+<attrition_record>chaos_wastes</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{823ae47c-83e5-40fe-9583-54af61df046e}" record_timestamp="1435758417805" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunitydeep_sea">
+<attrition_record>deep_sea</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{4a67c948-5b03-4cce-88ee-87880ac7fb86}" record_timestamp="1435758417554" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunitydesert">
+<attrition_record>desert</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{89da3fd2-256e-43db-a1cd-686ebff0138d}" record_timestamp="1435758417843" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunitydesertion">
+<attrition_record>desertion</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{3a2c7ae3-efe0-482d-82aa-f4b36ebacc4d}" record_timestamp="1435758417695" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunitydisease">
+<attrition_record>disease</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{04f5efbc-4718-46d9-b92f-15065b689b00}" record_timestamp="1448544502251" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunitylow_morale">
+<attrition_record>low_morale</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{b2d04941-f89d-46c9-a92f-cb6ee2f2d291}" record_timestamp="1435758417920" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunitymountain">
+<attrition_record>mountain</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{b778232a-bf55-4a55-80e5-10b5faad0602}" record_timestamp="1435758417999" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunitynon_vampire_territory">
+<attrition_record>non_vampire_territory</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{74ff0770-b2d7-4279-a096-8e6a3e7be953}" record_timestamp="1435758417768" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunityregionless">
+<attrition_record>regionless</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{b737eb76-3317-44ad-aa16-5962b18eaf11}" record_timestamp="1435758417960" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunitysabotage">
+<attrition_record>sabotage</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{ef7edcd3-b184-49a8-bbe2-53a8092b7bc1}" record_timestamp="1435758418078" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunitysnow">
+<attrition_record>snow</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{028986f8-0659-409f-b8bc-a4f0d0ad27ef}" record_timestamp="1435758417589" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunityswamp">
+<attrition_record>swamp</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{4df24b4d-812d-4d15-8331-1265b2ec7753}" record_timestamp="1435758417731" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunityvampire_territory">
+<attrition_record>vampire_territory</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{d6df4d9d-fab4-4114-ad9e-836aad42bf30}" record_timestamp="1448544502291" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunityvery_low_morale">
+<attrition_record>very_low_morale</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{3e5742f5-3bee-489d-96e2-dfab43ff65ca}" record_timestamp="1444814168110" record_key="wh_main_effect_force_army_campaign_attrition_all_immunityimmunitywasteland">
+<attrition_record>wasteland</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{1799670c-d68d-4305-93ca-5c91b9aea0f5}" record_timestamp="1479332170324" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modathel_loren">
+<attrition_record>athel_loren</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{9ab1a81a-04d6-403a-bed3-adfe43c96eb8}" record_timestamp="1426003218973" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modbesieged">
+<attrition_record>besieged</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{f8f5f81d-f84d-46c7-a14d-e0403fdb1a0f}" record_timestamp="1426003218973" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modbesieging">
+<attrition_record>besieging</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{68409850-b968-419c-89c5-ca3ca2e55baf}" record_timestamp="1426003218973" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modblockaded">
+<attrition_record>blockaded</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{924734ce-f158-40fd-9b9f-350e9cf8622b}" record_timestamp="1426003218973" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modblockading">
+<attrition_record>blockading</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{15276370-d9ac-4e80-9086-268559c0b26b}" record_timestamp="1454083989040" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modchaos_territory">
+<attrition_record>chaos_territory</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{fb894614-2b15-49d9-83df-5cf74ad4bb6d}" record_timestamp="1448459729794" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modchaos_wastes">
+<attrition_record>chaos_wastes</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{77d03b6a-4d8b-4284-9dee-0b3672f27b01}" record_timestamp="1426003218973" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_moddeep_sea">
+<attrition_record>deep_sea</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{b17708f1-3db4-4e91-80e3-a3831f5589ab}" record_timestamp="1426003218973" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_moddesert">
+<attrition_record>desert</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{ddf08e2f-2e92-4847-8255-f061a3a23cb7}" record_timestamp="1426003218958" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_moddesertion">
+<attrition_record>desertion</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{21fb1491-1d78-420e-93d6-2fa7abab2eef}" record_timestamp="1426003218958" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_moddisease">
+<attrition_record>disease</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{819fa82e-b4e5-4e05-8ac2-5c771ea9bd39}" record_timestamp="1448544502271" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modlow_morale">
+<attrition_record>low_morale</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{e491f67d-a7d3-41a1-85d8-a18bb881b88c}" record_timestamp="1426003218958" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modmountain">
+<attrition_record>mountain</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{31b94291-fe2d-41d5-98a5-1e1ef541c190}" record_timestamp="1426003218958" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modnon_vampire_territory">
+<attrition_record>non_vampire_territory</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{2c89e93f-6da3-4d22-b87f-690d8ef62f2f}" record_timestamp="1426003218958" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modregionless">
+<attrition_record>regionless</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{5f58de08-a111-40ce-b1d1-5ce4160c280b}" record_timestamp="1426003218958" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modsabotage">
+<attrition_record>sabotage</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{fde639cd-56a5-49cc-b1d0-1192e145112d}" record_timestamp="1426003218958" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modsnow">
+<attrition_record>snow</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{2a4d0928-67ae-49df-9f28-dd1aaf5e8bdf}" record_timestamp="1426003218958" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modswamp">
+<attrition_record>swamp</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{2834cb29-62a7-495f-bd55-4b0eeb90783b}" record_timestamp="1426003218973" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modvampire_territory">
+<attrition_record>vampire_territory</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{09e345bf-4ce1-44b6-b7bd-2ba353e4ad28}" record_timestamp="1448544502261" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modvery_low_morale">
+<attrition_record>very_low_morale</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{20e71ed0-4343-42ae-ab4e-1fbed83869a8}" record_timestamp="1444814168200" record_key="wh_main_effect_force_army_campaign_attrition_all_resistancedamage_modwasteland">
+<attrition_record>wasteland</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_all_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{4204fb6b-abfa-49e6-8dd1-18857ceca99f}" record_timestamp="1454083989040" record_key="wh_main_effect_force_army_campaign_attrition_chaos_territorydamage_modchaos_territory">
+<attrition_record>chaos_territory</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_chaos_territory</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{5b4562b6-71ff-4463-a3f6-ffb073e9dcd4}" record_timestamp="1426003218958" record_key="wh_main_effect_force_army_campaign_attrition_desert_resistancedamage_moddesert">
+<attrition_record>desert</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_desert_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{cc5fceb5-6622-470e-99f8-ac768473ae42}" record_timestamp="1453129697582" record_key="wh_main_effect_force_army_campaign_attrition_infighting_immunityimmunityhorde_infighting">
+<attrition_record>horde_infighting</attrition_record>
+<bonus_value_id>immunity</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_infighting_immunity</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{52755f1c-1e70-4312-8a65-e50813764d74}" record_timestamp="1457446866944" record_key="wh_main_effect_force_army_campaign_attrition_non_vampire_count_territory_visibledamage_modnon_vampire_territory">
+<attrition_record>non_vampire_territory</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_non_vampire_count_territory_visible</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{00ea7262-268e-4f24-b843-555fd872ccff}" record_timestamp="1445603790974" record_key="wh_main_effect_force_army_campaign_attrition_non_vampire_count_territorydamage_modnon_vampire_territory">
+<attrition_record>non_vampire_territory</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_non_vampire_count_territory</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{0e244d90-8923-4337-8bd4-244a948c1c66}" record_timestamp="1426003218958" record_key="wh_main_effect_force_army_campaign_attrition_snow_resistancedamage_modsnow">
+<attrition_record>snow</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_snow_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{6d16a9b5-d1d5-4f8a-8f20-f7d4a6dd91c8}" record_timestamp="1426003218958" record_key="wh_main_effect_force_army_campaign_attrition_swamp_resistancedamage_modswamp">
+<attrition_record>swamp</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_attrition_swamp_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{3e2b7ee9-394c-44d0-877d-158eee98e040}" record_timestamp="1477035600005" record_key="wh_main_effect_force_army_campaign_siege_attack_attritiondamage_modbesieged">
+<attrition_record>besieged</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_siege_attack_attrition</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{a948778b-c34d-43f4-9757-d396c76dd7fc}" record_timestamp="1426003218958" record_key="wh_main_effect_force_army_campaign_siege_defend_attritiondamage_modbesieged">
+<attrition_record>besieged</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_siege_defend_attrition</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{c0ab39f2-fcae-4b3f-8a23-1d141dbf664e}" record_timestamp="1426003218958" record_key="wh_main_effect_force_navy_campaign_attrition_high_seas_resistancedamage_moddeep_sea">
+<attrition_record>deep_sea</attrition_record>
+<bonus_value_id>damage_mod</bonus_value_id>
+<effect>wh_main_effect_force_navy_campaign_attrition_high_seas_resistance</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{feb7e816-827c-4cdf-8462-07b2b212c0ea}" record_timestamp="1454083989040" record_key="wh_main_effect_region_enable_chaos_attritionactivechaos_territory">
+<attrition_record>chaos_territory</attrition_record>
+<bonus_value_id>active</bonus_value_id>
+<effect>wh_main_effect_region_enable_chaos_attrition</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{431cd63a-63bc-4865-ade1-be1a019c83cc}" record_timestamp="1431601213884" record_key="wh_main_effect_region_enable_non_vampire_territory_attritionactivenon_vampire_territory">
+<attrition_record>non_vampire_territory</attrition_record>
+<bonus_value_id>active</bonus_value_id>
+<effect>wh_main_effect_region_enable_non_vampire_territory_attrition</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{3cc58173-3677-42a6-aab3-5e3e2a0108b3}" record_timestamp="1463569327375" record_key="wh_main_effect_region_enable_vampire_territory_attrition_badactivevampire_territory">
+<attrition_record>vampire_territory</attrition_record>
+<bonus_value_id>active</bonus_value_id>
+<effect>wh_main_effect_region_enable_vampire_territory_attrition_bad</effect>
+</effect_bonus_value_attrition_record_junctions>
+<effect_bonus_value_attrition_record_junctions record_uuid="{da1f9ba5-8838-485c-a425-04d59069b452}" record_timestamp="1431601213884" record_key="wh_main_effect_region_enable_vampire_territory_attritionactivevampire_territory">
+<attrition_record>vampire_territory</attrition_record>
+<bonus_value_id>active</bonus_value_id>
+<effect>wh_main_effect_region_enable_vampire_territory_attrition</effect>
+</effect_bonus_value_attrition_record_junctions>
+</dataroot>

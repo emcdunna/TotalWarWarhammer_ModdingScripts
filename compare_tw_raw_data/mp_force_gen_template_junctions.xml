@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mp_force_gen_template_junctions.xsd" export_time="Wed Nov 16 15:17:43 2016" revision="31" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>0d541a11-5bed-431b-89c8-ac891e2f5b0e</edit_uuid>
+<mp_force_gen_template_junctions record_uuid="{fe04f76f-2009-47dd-843d-6efe001ec3e8}" record_timestamp="1429538306712" record_key="defaultfalseland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>default</config_key>
+<is_defender>0</is_defender>
+<template_key>default</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{cd9977db-86eb-442e-9c24-691339350b6d}" record_timestamp="1429538306774" record_key="defaultfalseland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>default</config_key>
+<is_defender>0</is_defender>
+<template_key>default</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{24a2fd92-e351-42e1-ac18-6878e2d61c7f}" record_timestamp="1429538306838" record_key="defaultfalseland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>default</config_key>
+<is_defender>0</is_defender>
+<template_key>default</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{77461a00-584b-4c06-8fcd-4c29762ec288}" record_timestamp="1429538307038" record_key="defaultfalsesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>default</config_key>
+<is_defender>0</is_defender>
+<template_key>default</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{fc23c10b-5250-46c4-b2b2-346f9cf3ba69}" record_timestamp="1429538307104" record_key="defaultfalsesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>default</config_key>
+<is_defender>0</is_defender>
+<template_key>default</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{22e67de7-1ad5-423d-888b-d29aa3b7e51b}" record_timestamp="1444041959887" record_key="defaultfalseunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>default</config_key>
+<is_defender>0</is_defender>
+<template_key>default</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{87a1e84f-0a1f-4e6c-8324-631a903eaddb}" record_timestamp="1429538307299" record_key="defaulttrueland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>default</config_key>
+<is_defender>1</is_defender>
+<template_key>default</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{0b5db8a2-314a-4251-83c2-9e86e1c96eb3}" record_timestamp="1429538307362" record_key="defaulttrueland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>default</config_key>
+<is_defender>1</is_defender>
+<template_key>default</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{6830f563-66a5-4582-90db-dd2df96c3093}" record_timestamp="1429538307426" record_key="defaulttrueland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>default</config_key>
+<is_defender>1</is_defender>
+<template_key>default</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{065c9a69-b035-4ce1-b9fb-1f0f3e5bbbb4}" record_timestamp="1429538307614" record_key="defaulttruesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>default</config_key>
+<is_defender>1</is_defender>
+<template_key>default</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{73413e67-0b2b-46fb-ad8b-b723e0bae025}" record_timestamp="1429538307676" record_key="defaulttruesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>default</config_key>
+<is_defender>1</is_defender>
+<template_key>default</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{c9aa4201-5c6c-40cd-bc8d-d265095acf78}" record_timestamp="1444041959917" record_key="defaulttrueunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>default</config_key>
+<is_defender>1</is_defender>
+<template_key>default</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{804e107a-8d1e-4925-8c82-9f492f6e34bb}" record_timestamp="1470401475032" record_key="wh_mp_force_gen_beastmenfalseland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Beastmen_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_beastmen</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{6b2803f8-6c6f-4ae6-81bf-54c60b928ac7}" record_timestamp="1470401474972" record_key="wh_mp_force_gen_beastmenfalseland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Beastmen_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_beastmen</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{8eb46a70-65dd-4bd0-a94c-f7ad7e3cb2c5}" record_timestamp="1470401475153" record_key="wh_mp_force_gen_beastmenfalseland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Beastmen_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_beastmen</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{e4d70f19-8681-4416-9f09-8bfbeb1e7cab}" record_timestamp="1470401475093" record_key="wh_mp_force_gen_beastmenfalsesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Beastmen_siege_attack</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_beastmen</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{bf27f0ba-e400-427b-afd9-98cf138c5332}" record_timestamp="1470401475519" record_key="wh_mp_force_gen_beastmenfalsesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Beastmen_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_beastmen</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{115f1864-5785-41f6-aa3b-d4298b08e6bb}" record_timestamp="1470401475458" record_key="wh_mp_force_gen_beastmenfalseunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Beastmen_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_beastmen</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{6e3263ed-23b9-41dc-a19e-456385fe2d38}" record_timestamp="1470401474896" record_key="wh_mp_force_gen_beastmentrueland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Beastmen_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_beastmen</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{93aca457-818e-4490-86d7-e1698f03b361}" record_timestamp="1470401475581" record_key="wh_mp_force_gen_beastmentrueland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Beastmen_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_beastmen</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{8a75aa93-5d1e-4d53-b50e-ac01b5792d9d}" record_timestamp="1470401475275" record_key="wh_mp_force_gen_beastmentrueland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Beastmen_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_beastmen</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{a45b36b6-d7c4-4aa1-a2a4-5af163f3a469}" record_timestamp="1470401475214" record_key="wh_mp_force_gen_beastmentruesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Beastmen_siege_defence</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_beastmen</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{2028b44b-4f2d-4741-81b7-60b164c1f72e}" record_timestamp="1470401475396" record_key="wh_mp_force_gen_beastmentruesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Beastmen_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_beastmen</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{4f061313-b1d0-48b2-8d6a-59d5f2ef1218}" record_timestamp="1470401475335" record_key="wh_mp_force_gen_beastmentrueunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Beastmen_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_beastmen</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{8e073d7c-7643-4d1a-b99a-a8f10f3faf63}" record_timestamp="1438951620095" record_key="wh_mp_force_gen_border_princesfalseland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_border_princes</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{2c8854a2-7029-47ad-a6c8-cbcbe6f16b1a}" record_timestamp="1438951620095" record_key="wh_mp_force_gen_border_princesfalseland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_border_princes</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{2ad95dd9-2fcc-44a1-ab93-b4cdfb52218e}" record_timestamp="1438951620095" record_key="wh_mp_force_gen_border_princesfalseland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_border_princes</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{12d9c6f8-6680-4896-afaa-11c7d4930e02}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_border_princesfalsesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_siege_attack</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_border_princes</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{ab2c1590-1923-4eac-827b-32590ab287d3}" record_timestamp="1438951620097" record_key="wh_mp_force_gen_border_princesfalsesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_border_princes</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{6dfaf5e8-9c4c-4c1c-af15-f3a469cead19}" record_timestamp="1444041959827" record_key="wh_mp_force_gen_border_princesfalseunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_border_princes</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{597e68b7-d5a3-4f79-a06a-147cc506c61c}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_border_princestrueland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_border_princes</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{c55a210d-7ec3-47f3-bdd0-770d2ffe5d67}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_border_princestrueland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_border_princes</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{722fedae-1d77-4662-ad38-a8da019981d3}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_border_princestrueland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_border_princes</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{1fee3f06-d133-4154-a770-3a3cc27391e9}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_border_princestruesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_siege_defence</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_border_princes</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{80bda482-1675-4c9e-b0c3-e261d3cbb737}" record_timestamp="1438951620097" record_key="wh_mp_force_gen_border_princestruesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_border_princes</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{d9f4d5f3-5ebb-4ca7-b72c-178c40f66163}" record_timestamp="1444041959857" record_key="wh_mp_force_gen_border_princestrueunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_border_princes</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{d3233096-5c45-4751-9368-33f8f306b663}" record_timestamp="1438951620089" record_key="wh_mp_force_gen_bretonniafalseland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Bretonnia_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_bretonnia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{0262be31-56a1-4c67-85ca-8d0a8b774df9}" record_timestamp="1438951620089" record_key="wh_mp_force_gen_bretonniafalseland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Bretonnia_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_bretonnia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{48d55cbd-7164-4abc-9922-26fd11b1c355}" record_timestamp="1438951620089" record_key="wh_mp_force_gen_bretonniafalseland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Bretonnia_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_bretonnia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{8b8c780d-d0a0-45b1-a686-14cd380475dd}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_bretonniafalsesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Bretonnia_siege_attack</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_bretonnia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{ae6e3461-cf4a-4a77-bd5d-ebb30187add8}" record_timestamp="1438951620097" record_key="wh_mp_force_gen_bretonniafalsesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Bretonnia_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_bretonnia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{f9548993-f225-4e71-8bdc-0ce5fbaeb584}" record_timestamp="1444041959768" record_key="wh_mp_force_gen_bretonniafalseunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Bretonnia_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_bretonnia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{45dfa0dc-c61b-4705-8319-156b8834350b}" record_timestamp="1438951620090" record_key="wh_mp_force_gen_bretonniatrueland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Bretonnia_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_bretonnia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{aebc55aa-2b20-4d8d-95f9-e2d20c02b2f6}" record_timestamp="1438951620090" record_key="wh_mp_force_gen_bretonniatrueland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Bretonnia_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_bretonnia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{915b7691-1fad-432d-93ca-2c68e37a596b}" record_timestamp="1438951620088" record_key="wh_mp_force_gen_bretonniatrueland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Bretonnia_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_bretonnia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{f6c3d060-8038-4861-8bc3-8d88cf3b8020}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_bretonniatruesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Bretonnia_siege_defence</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_bretonnia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{7feeb89d-d053-4493-9d94-b97a3fb696f5}" record_timestamp="1438951620089" record_key="wh_mp_force_gen_bretonniatruesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Bretonnia_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_bretonnia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{6f80b366-0400-42cc-893b-f210920630de}" record_timestamp="1444041959798" record_key="wh_mp_force_gen_bretonniatrueunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Bretonnia_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_bretonnia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{3832dbc6-105f-436f-896e-037cb9d0d521}" record_timestamp="1438951620089" record_key="wh_mp_force_gen_chaosfalseland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Chaos_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_chaos</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{20abef4d-a8a3-40a2-8be0-b05a761ed066}" record_timestamp="1438951620089" record_key="wh_mp_force_gen_chaosfalseland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Chaos_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_chaos</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{fcdf0549-69eb-405e-8919-8c91c0d27244}" record_timestamp="1438951620089" record_key="wh_mp_force_gen_chaosfalseland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Chaos_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_chaos</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{cb430d86-184f-4c61-ac3a-33479701b417}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_chaosfalsesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Chaos_siege_attack</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_chaos</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{297ae445-411e-47d8-9af8-ea1394987c40}" record_timestamp="1438951620089" record_key="wh_mp_force_gen_chaosfalsesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Chaos_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_chaos</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{a7bf9135-bac8-4289-afec-cf0e0e176421}" record_timestamp="1444041959709" record_key="wh_mp_force_gen_chaosfalseunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Chaos_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_chaos</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{aa24923d-f8a4-43dd-a31a-6cac0784a5e1}" record_timestamp="1438951620093" record_key="wh_mp_force_gen_chaostrueland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Chaos_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_chaos</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{6c2ca0c1-b8ce-448c-8dbe-a4fdb8e22952}" record_timestamp="1438951620093" record_key="wh_mp_force_gen_chaostrueland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Chaos_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_chaos</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{ce1e37f0-19ce-4efe-aafd-7f52be89624c}" record_timestamp="1438951620093" record_key="wh_mp_force_gen_chaostrueland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Chaos_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_chaos</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{6ad32876-891b-4b83-a4e1-ac695d39ab0b}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_chaostruesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Chaos_siege_defence</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_chaos</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{0e57b0e5-662e-4c11-b73d-2aee78a52238}" record_timestamp="1438951620094" record_key="wh_mp_force_gen_chaostruesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Chaos_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_chaos</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{2f2c09c1-2fc5-4b95-9659-3a2aee6f3f00}" record_timestamp="1444041959738" record_key="wh_mp_force_gen_chaostrueunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Chaos_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_chaos</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{d4e6e504-610f-484f-ae92-c67ad3ed457a}" record_timestamp="1438951620094" record_key="wh_mp_force_gen_dwarfsfalseland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Dwarfs_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_dwarfs</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{dd643dc5-6dbf-4e18-bb69-612850c0df87}" record_timestamp="1438951620094" record_key="wh_mp_force_gen_dwarfsfalseland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Dwarfs_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_dwarfs</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{809c4d1b-4260-4840-b8da-f09f8e42257c}" record_timestamp="1438951620094" record_key="wh_mp_force_gen_dwarfsfalseland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Dwarfs_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_dwarfs</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{c0b4b15b-8846-437a-b90c-393930de327a}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_dwarfsfalsesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Dwarfs_siege_attack</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_dwarfs</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{42f117df-a141-4ff2-baf6-8e7023872a34}" record_timestamp="1438951620094" record_key="wh_mp_force_gen_dwarfsfalsesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Dwarfs_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_dwarfs</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{0d629286-d847-4d4f-bdc6-ca113010974e}" record_timestamp="1444041959649" record_key="wh_mp_force_gen_dwarfsfalseunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Dwarfs_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_dwarfs</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{d74ddf3d-7d0d-4716-9aa4-de88d3c6f38c}" record_timestamp="1438951620093" record_key="wh_mp_force_gen_dwarfstrueland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Dwarfs_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_dwarfs</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{0c0e1577-be1e-4608-8b76-4e6342f8570d}" record_timestamp="1438951620093" record_key="wh_mp_force_gen_dwarfstrueland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Dwarfs_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_dwarfs</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{d838e0a9-0d89-40a6-8915-aa65248381f2}" record_timestamp="1438951620093" record_key="wh_mp_force_gen_dwarfstrueland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Dwarfs_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_dwarfs</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{cee2a148-77f0-408a-a8f9-2a6a03ce3947}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_dwarfstruesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Dwarfs_siege_defence</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_dwarfs</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{9197eeba-6d50-4134-9647-e82809d3af60}" record_timestamp="1438951620093" record_key="wh_mp_force_gen_dwarfstruesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Dwarfs_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_dwarfs</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{5cad3ed2-e31a-47ec-add4-69908c734448}" record_timestamp="1444041959679" record_key="wh_mp_force_gen_dwarfstrueunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Dwarfs_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_dwarfs</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{97de0f80-0ec6-4578-9be8-0e8eecc13ab7}" record_timestamp="1438951620093" record_key="wh_mp_force_gen_empirefalseland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Empire_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_empire</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{22f1bb32-7247-4004-99ad-724389d5230d}" record_timestamp="1438951620093" record_key="wh_mp_force_gen_empirefalseland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Empire_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_empire</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{2558f889-d5cc-481a-a0dd-5b8384a17053}" record_timestamp="1438951620093" record_key="wh_mp_force_gen_empirefalseland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Empire_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_empire</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{26562a01-24b0-440f-a699-6a5b41c2059e}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_empirefalsesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Empire_siege_attack</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_empire</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{8181847b-bee1-4b27-8952-2df618118baa}" record_timestamp="1438951620095" record_key="wh_mp_force_gen_empirefalsesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Empire_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_empire</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{a1e7456e-79bc-486d-a1a7-907ff7b6fb5d}" record_timestamp="1444041959591" record_key="wh_mp_force_gen_empirefalseunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Empire_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_empire</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{8ea8b06b-fd5f-4061-a911-ffc2fc8ec58e}" record_timestamp="1438951620095" record_key="wh_mp_force_gen_empiretrueland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Empire_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_empire</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{1f88580a-293c-4ef4-9c55-bfb9197476f5}" record_timestamp="1438951620095" record_key="wh_mp_force_gen_empiretrueland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Empire_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_empire</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{22ff509d-7bca-433a-9b3e-b8b10bf40274}" record_timestamp="1438951620095" record_key="wh_mp_force_gen_empiretrueland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Empire_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_empire</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{e851fff2-fa64-4219-989b-db33e3e5bd3d}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_empiretruesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Empire_siege_defence</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_empire</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{46e0661c-2cfa-4386-bdae-9590228b9239}" record_timestamp="1438951620095" record_key="wh_mp_force_gen_empiretruesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Empire_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_empire</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{75fc560a-c06b-4290-960d-0196a8b359e5}" record_timestamp="1444041959620" record_key="wh_mp_force_gen_empiretrueunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Empire_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_empire</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{9b23ace0-398c-4e2d-9ccf-16a8edf04ee2}" record_timestamp="1438951620095" record_key="wh_mp_force_gen_estaliafalseland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_estalia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{2290fcb9-649e-41d4-bd30-937c66255bbf}" record_timestamp="1438951620095" record_key="wh_mp_force_gen_estaliafalseland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_estalia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{110a9f82-1a53-4100-ad00-7b6ff8c0ec33}" record_timestamp="1438951620095" record_key="wh_mp_force_gen_estaliafalseland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_estalia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{48fc3122-ab20-4f9e-a33e-c3bc2d868c41}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_estaliafalsesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_siege_attack</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_estalia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{9e5dc407-1b93-41ac-800f-beb3d13e8cb8}" record_timestamp="1438951620094" record_key="wh_mp_force_gen_estaliafalsesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_estalia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{d088ac53-2cdd-43bd-b641-48c3bb715f2b}" record_timestamp="1444041959533" record_key="wh_mp_force_gen_estaliafalseunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_estalia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{2cb5d7f5-9c1c-4bfa-8664-b32ccad84b9e}" record_timestamp="1438951620094" record_key="wh_mp_force_gen_estaliatrueland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_estalia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{d5615926-c788-4a2d-864c-2dbe0b31e20a}" record_timestamp="1438951620094" record_key="wh_mp_force_gen_estaliatrueland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_estalia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{506ce303-a91d-4e6b-b0cf-a337edb9dd96}" record_timestamp="1438951620094" record_key="wh_mp_force_gen_estaliatrueland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_estalia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{c4c95512-614a-4173-ae53-5daa83db7e9d}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_estaliatruesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_siege_defence</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_estalia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{a6940ccf-7b35-4e58-8541-2c350b47944f}" record_timestamp="1438951620095" record_key="wh_mp_force_gen_estaliatruesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_estalia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{5703b09f-1596-460d-bb15-1701cac5b960}" record_timestamp="1444041959562" record_key="wh_mp_force_gen_estaliatrueunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_estalia</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{c0c0a81b-c055-4026-9477-ea378f118784}" record_timestamp="1438951620095" record_key="wh_mp_force_gen_greenskinsfalseland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Greenskins_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_greenskins</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{b1a7a8a3-8d10-491f-b5cf-c74b9499d38e}" record_timestamp="1438951620091" record_key="wh_mp_force_gen_greenskinsfalseland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Greenskins_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_greenskins</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{2ceacf72-b7db-461f-994d-c94a0f95db58}" record_timestamp="1438951620091" record_key="wh_mp_force_gen_greenskinsfalseland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Greenskins_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_greenskins</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{a9481071-67a1-48c1-978a-d2aaf6564df5}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_greenskinsfalsesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Greenskins_siege_attack</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_greenskins</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{65e361b0-daf3-4aae-b22a-f914fb53c212}" record_timestamp="1438951620091" record_key="wh_mp_force_gen_greenskinsfalsesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Greenskins_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_greenskins</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{bacd757c-4dd9-4066-a901-d23cb6e07455}" record_timestamp="1444041959476" record_key="wh_mp_force_gen_greenskinsfalseunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Greenskins_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_greenskins</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{5e87652a-4ebf-4e35-b679-233c3760f36c}" record_timestamp="1438951620091" record_key="wh_mp_force_gen_greenskinstrueland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Greenskins_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_greenskins</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{e428dce7-55ca-4d52-b3d9-3e6436a1c3d6}" record_timestamp="1438951620091" record_key="wh_mp_force_gen_greenskinstrueland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Greenskins_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_greenskins</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{2310564a-b9cb-40ea-b50d-4f3ea70bd96a}" record_timestamp="1438951620091" record_key="wh_mp_force_gen_greenskinstrueland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Greenskins_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_greenskins</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{a9726eb7-ae12-4473-b354-1f82fdd2f904}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_greenskinstruesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Greenskins_siege_defence</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_greenskins</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{185f0cc1-e67f-498f-8cbd-2b81fb3fb956}" record_timestamp="1438951620091" record_key="wh_mp_force_gen_greenskinstruesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Greenskins_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_greenskins</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{1a094f02-ccc7-4c4b-b447-02aff0d7eb91}" record_timestamp="1444041959504" record_key="wh_mp_force_gen_greenskinstrueunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Greenskins_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_greenskins</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{06fb5844-47d4-4e35-905b-9c788f3309b2}" record_timestamp="1438951620090" record_key="wh_mp_force_gen_kislevfalseland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Kislev_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_kislev</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{8953075c-df6e-4cdb-b6bf-d748258bce82}" record_timestamp="1438951620091" record_key="wh_mp_force_gen_kislevfalseland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Kislev_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_kislev</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{23f17711-fc20-4a4c-8ab4-fbf6c4f9ee47}" record_timestamp="1438951620091" record_key="wh_mp_force_gen_kislevfalseland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Kislev_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_kislev</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{90eebfe1-00ba-4934-bb35-f2566a58500f}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_kislevfalsesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Kislev_siege_attack</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_kislev</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{4d7f8bdd-2100-4411-92ed-5882cc106c47}" record_timestamp="1438951620091" record_key="wh_mp_force_gen_kislevfalsesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Kislev_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_kislev</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{2d728252-160a-402c-9045-40fdee251ff8}" record_timestamp="1444041959419" record_key="wh_mp_force_gen_kislevfalseunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Kislev_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_kislev</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{a09532d0-a894-4eb2-b40a-900f9d11d592}" record_timestamp="1438951620091" record_key="wh_mp_force_gen_kislevtrueland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Kislev_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_kislev</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{9b3832d4-5705-457e-ae66-0959723d83b9}" record_timestamp="1438951620091" record_key="wh_mp_force_gen_kislevtrueland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Kislev_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_kislev</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{8272929b-d1f0-41b1-8308-b31b86df9acb}" record_timestamp="1438951620091" record_key="wh_mp_force_gen_kislevtrueland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Kislev_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_kislev</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{1e698e59-4203-45cd-bcce-1711d1b66264}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_kislevtruesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Kislev_siege_defence</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_kislev</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{4e46a722-8ce5-47a0-8b7c-3e9a27bc2a4e}" record_timestamp="1438951620092" record_key="wh_mp_force_gen_kislevtruesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Kislev_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_kislev</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{b86b30fe-d7ce-48c6-977c-ab77a1b7e027}" record_timestamp="1444041959448" record_key="wh_mp_force_gen_kislevtrueunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Kislev_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_kislev</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{300ac8a3-3f1a-48cc-b782-264b74388e2c}" record_timestamp="1438951620092" record_key="wh_mp_force_gen_tileafalseland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_tilea</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{79007fda-7f4b-41af-ab0d-06f343b49ac4}" record_timestamp="1438951620092" record_key="wh_mp_force_gen_tileafalseland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_tilea</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{eb937e2c-9208-4085-b794-d743a102de50}" record_timestamp="1438951620092" record_key="wh_mp_force_gen_tileafalseland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_tilea</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{b61d7336-bf2f-44bb-9b24-e2ec6f543681}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_tileafalsesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_siege_attack</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_tilea</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{8347969c-0745-4b4a-8e17-528acb302fee}" record_timestamp="1438951620093" record_key="wh_mp_force_gen_tileafalsesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_tilea</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{e416acc2-242d-4be3-9bc1-ba5527f686fe}" record_timestamp="1444041959356" record_key="wh_mp_force_gen_tileafalseunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_tilea</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{77343144-bb0a-44ef-bb44-b384299e794d}" record_timestamp="1438951620093" record_key="wh_mp_force_gen_tileatrueland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_tilea</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{f9863972-3889-49f1-8418-5d08cb430583}" record_timestamp="1438951620093" record_key="wh_mp_force_gen_tileatrueland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_tilea</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{a01e1fef-77f8-4608-9874-9ea5ffc2bf9c}" record_timestamp="1438951620093" record_key="wh_mp_force_gen_tileatrueland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_tilea</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{2d4ecac8-ed5f-421a-8752-3356f9db5f6e}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_tileatruesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_siege_defence</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_tilea</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{be8b0c0a-08a5-419b-abb1-f60aee0e0faf}" record_timestamp="1438951620092" record_key="wh_mp_force_gen_tileatruesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_tilea</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{15532f78-a841-4c7b-b32d-a97e1a79887b}" record_timestamp="1444041959391" record_key="wh_mp_force_gen_tileatrueunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_TEB_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_tilea</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{34b55676-35bc-46ab-affd-88fe5687de5e}" record_timestamp="1438951620092" record_key="wh_mp_force_gen_vampire_countsfalseland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Vampire_Counts_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_vampire_counts</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{cf54149f-df1b-44cb-ba44-33d90e9e3d61}" record_timestamp="1438951620092" record_key="wh_mp_force_gen_vampire_countsfalseland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Vampire_Counts_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_vampire_counts</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{313b6fe9-98f7-4009-9a3f-c0204f247ef7}" record_timestamp="1438951620092" record_key="wh_mp_force_gen_vampire_countsfalseland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Vampire_Counts_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_vampire_counts</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{fcb5072b-f382-4237-9bf0-d5e8879a55c1}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_vampire_countsfalsesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Vampire_Counts_siege_attack</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_vampire_counts</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{1584f83f-a642-44e5-bf04-2ffbece11f83}" record_timestamp="1438951620092" record_key="wh_mp_force_gen_vampire_countsfalsesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Vampire_Counts_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_vampire_counts</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{a4fc7283-279d-4cd8-b300-908fd719503e}" record_timestamp="1444041959299" record_key="wh_mp_force_gen_vampire_countsfalseunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Vampire_Counts_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_vampire_counts</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{06e5d3ff-c508-4c03-aaf1-cb6fcfd88fce}" record_timestamp="1438951620092" record_key="wh_mp_force_gen_vampire_countstrueland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Vampire_Counts_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_vampire_counts</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{60dc342a-eb76-4c15-8483-6282c79b7f54}" record_timestamp="1438951620092" record_key="wh_mp_force_gen_vampire_countstrueland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Vampire_Counts_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_vampire_counts</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{7999836a-e70a-4e9d-b738-b6ccea7b3b8e}" record_timestamp="1438951620090" record_key="wh_mp_force_gen_vampire_countstrueland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Vampire_Counts_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_vampire_counts</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{dd47eafe-83f0-46f5-aa0c-98979af30926}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_vampire_countstruesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Vampire_Counts_siege_defence</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_vampire_counts</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{d27171f4-3b41-453d-8919-c9534ff7613a}" record_timestamp="1438951620090" record_key="wh_mp_force_gen_vampire_countstruesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Vampire_Counts_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_vampire_counts</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{d6d2d505-be2f-4928-b27b-f7dd13e7587a}" record_timestamp="1444041959327" record_key="wh_mp_force_gen_vampire_countstrueunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Vampire_Counts_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_vampire_counts</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{dadbee6e-5677-49b7-9788-fc59ec90eba2}" record_timestamp="1438951620090" record_key="wh_mp_force_gen_vargfalseland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Norsca_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_varg</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{2d804982-7772-4e25-9c93-9ff7ce976888}" record_timestamp="1438951620090" record_key="wh_mp_force_gen_vargfalseland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Norsca_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_varg</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{cc41c0b8-b7c0-4b5e-9c05-7764eb258e11}" record_timestamp="1438951620090" record_key="wh_mp_force_gen_vargfalseland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Norsca_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_varg</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{bb3bb913-715d-412d-b62e-7ac369446636}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_vargfalsesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Norsca_siege_attack</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_varg</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{b0abd0a3-b782-48e7-8592-c0651b777fe4}" record_timestamp="1438951620090" record_key="wh_mp_force_gen_vargfalsesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Norsca_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_varg</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{f24b3395-27d3-4591-acd3-b8816e83f218}" record_timestamp="1444041959242" record_key="wh_mp_force_gen_vargfalseunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Norsca_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_varg</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{651ddb75-9cca-451f-a891-2fc941fc67a7}" record_timestamp="1438951620090" record_key="wh_mp_force_gen_vargtrueland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Norsca_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_varg</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{eb462127-50b8-4f3b-a123-4121861ffa0e}" record_timestamp="1438951620090" record_key="wh_mp_force_gen_vargtrueland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Norsca_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_varg</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{c8e118d7-0d5e-46fb-9eb9-54f0e39a7fcd}" record_timestamp="1438951620090" record_key="wh_mp_force_gen_vargtrueland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Norsca_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_varg</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{1ac0d431-7c36-467b-98c6-eb9e9b42fe2f}" record_timestamp="1438951620096" record_key="wh_mp_force_gen_vargtruesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Norsca_siege_defence</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_varg</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{a4e134d2-0a86-42bf-a8d1-2d9b91f0f019}" record_timestamp="1438951620090" record_key="wh_mp_force_gen_vargtruesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Norsca_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_varg</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{5b71d0d5-d749-44d4-a5ca-f35e1d3706ea}" record_timestamp="1444041959270" record_key="wh_mp_force_gen_vargtrueunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Norsca_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_varg</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{27982773-a7e3-4a8b-954f-461ac0c44f45}" record_timestamp="1479309460455" record_key="wh_mp_force_gen_wood_elvesfalseland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Wood_Elves_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_wood_elves</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{c6a38a5f-5843-4f4a-af55-885ea178de6b}" record_timestamp="1479309460454" record_key="wh_mp_force_gen_wood_elvesfalseland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Wood_Elves_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_wood_elves</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{dd14ce0d-f561-49ae-ab3a-5c73009ef3fd}" record_timestamp="1479309460456" record_key="wh_mp_force_gen_wood_elvesfalseland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Wood_Elves_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_wood_elves</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{2680cd5f-3046-491f-82fa-35458425fea0}" record_timestamp="1479309460456" record_key="wh_mp_force_gen_wood_elvesfalsesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Wood_Elves_siege_attack</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_wood_elves</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{61c9d6f5-bd0d-4680-a180-4d0bcb89eff5}" record_timestamp="1479309460458" record_key="wh_mp_force_gen_wood_elvesfalsesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Wood_Elves_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_wood_elves</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{b22ae4c7-0825-4efc-af33-1dc35fa75669}" record_timestamp="1479309460457" record_key="wh_mp_force_gen_wood_elvesfalseunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Wood_Elves_land</config_key>
+<is_defender>0</is_defender>
+<template_key>wh_mp_force_gen_wood_elves</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{8d02f94e-9d3f-4958-807d-13d73c577092}" record_timestamp="1479309460459" record_key="wh_mp_force_gen_wood_elvestrueland_ambush">
+<battle_type>land_ambush</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Wood_Elves_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_wood_elves</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{708d7eb1-140a-4f1b-b516-1d44a12ecbf3}" record_timestamp="1479309460459" record_key="wh_mp_force_gen_wood_elvestrueland_bridge">
+<battle_type>land_bridge</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Wood_Elves_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_wood_elves</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{bab5e89a-3801-4a83-99e5-c07e49a35405}" record_timestamp="1479309460452" record_key="wh_mp_force_gen_wood_elvestrueland_normal">
+<battle_type>land_normal</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Wood_Elves_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_wood_elves</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{cc847dd9-be99-4070-bbdb-a65f0c865c9e}" record_timestamp="1479309460460" record_key="wh_mp_force_gen_wood_elvestruesettlement_standard">
+<battle_type>settlement_standard</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Wood_Elves_siege_defence</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_wood_elves</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{92da79f2-66b8-45ba-8d9c-bc453507dc14}" record_timestamp="1479309460454" record_key="wh_mp_force_gen_wood_elvestruesettlement_unfortified">
+<battle_type>settlement_unfortified</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Wood_Elves_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_wood_elves</template_key>
+</mp_force_gen_template_junctions>
+<mp_force_gen_template_junctions record_uuid="{b9853d26-4b71-4fb4-9366-a951023948bc}" record_timestamp="1479309460453" record_key="wh_mp_force_gen_wood_elvestrueunderground_intercept">
+<battle_type>underground_intercept</battle_type>
+<composition>default</composition>
+<config_key>WH_mp_Wood_Elves_land</config_key>
+<is_defender>1</is_defender>
+<template_key>wh_mp_force_gen_wood_elves</template_key>
+</mp_force_gen_template_junctions>
+</dataroot>

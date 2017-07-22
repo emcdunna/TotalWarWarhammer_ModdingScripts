@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_result_types.xsd" export_time="Wed Feb 24 17:38:23 2016" revision="14" export_branch="T:/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>cfb0317b-4278-4bdc-b1f1-6c1cd879259c</edit_uuid>
+<battle_result_types record_uuid="{ecee9874-7aca-4863-bd13-f936457341a2}" record_timestamp="1444915395524" record_key="close_defeat">
+<battle_result_type>close_defeat</battle_result_type>
+<result_description state="APPROVED" last_approved_text="A near thing, but the enemy's superior tactics have brought low your army." last_edit_user="bob">A near thing, but the enemy's superior tactics have brought low your army.</result_description>
+<result_screen_name state="APPROVED" last_approved_text="Close Defeat" last_edit_user="bob">Close Defeat</result_screen_name>
+<unit_xp_gain>30</unit_xp_gain>
+</battle_result_types>
+<battle_result_types record_uuid="{4112c794-70ee-48a3-9ba1-71710f4c5b56}" record_timestamp="1444915395525" record_key="close_victory">
+<battle_result_type>close_victory</battle_result_type>
+<result_description state="APPROVED" last_approved_text="You have won the battle. But do not celebrate too much, for the gods will look ill upon he who came so near to defeat." last_edit_user="bob">You have won the battle. But do not celebrate too much, for the gods will look ill upon he who came so near to defeat.</result_description>
+<result_screen_name state="APPROVED" last_approved_text="Close Victory" last_edit_user="bob">Close Victory</result_screen_name>
+<unit_xp_gain>55</unit_xp_gain>
+</battle_result_types>
+<battle_result_types record_uuid="{299bd748-91de-4769-a624-0a3dfae428fb}" record_timestamp="1444915395525" record_key="crushing_defeat">
+<battle_result_type>crushing_defeat</battle_result_type>
+<result_description state="APPROVED" last_approved_text="The perfidious foe mocks you! Go and suffer in the ignominy of defeat, but don't linger, for the enemy is coming to finish the job." last_edit_user="bob">The perfidious foe mocks you! Go and suffer in the ignominy of defeat, but don't linger, for the enemy is coming to finish the job.</result_description>
+<result_screen_name state="APPROVED" last_approved_text="Crushing Defeat" last_edit_user="bob">Crushing Defeat</result_screen_name>
+<unit_xp_gain>5</unit_xp_gain>
+</battle_result_types>
+<battle_result_types record_uuid="{5338afa9-6119-4e59-8e69-782288d3dd17}" record_timestamp="1456146592755" record_key="decisive_defeat">
+<battle_result_type>decisive_defeat</battle_result_type>
+<result_description state="APPROVED" last_approved_text="You have been roundly beaten. Carrion-eaters already pick at your fallen; their shame is on you." last_edit_user="bob">You have been roundly beaten. Carrion-eaters already pick at your fallen; their shame is on you.</result_description>
+<result_screen_name state="APPROVED" last_approved_text="Decisive Defeat" last_edit_user="bob">Decisive Defeat</result_screen_name>
+<unit_xp_gain>10</unit_xp_gain>
+</battle_result_types>
+<battle_result_types record_uuid="{b5ce64b4-c9c8-4e8c-830d-fcd11dc6c5cd}" record_timestamp="1456335464030" record_key="decisive_victory">
+<battle_result_type>decisive_victory</battle_result_type>
+<result_description state="APPROVED" last_approved_text="You are victorious! The corpses of the enemy litter the ground and those still able to flee do so with the laughter of our gods ringing in their ears!" last_edit_user="bob">You are victorious! The corpses of the enemy litter the ground and those still able to flee do so with the laughter of our gods ringing in their ears!</result_description>
+<result_screen_name state="APPROVED" last_approved_text="Decisive Victory" last_edit_user="bob">Decisive Victory</result_screen_name>
+<unit_xp_gain>85</unit_xp_gain>
+</battle_result_types>
+<battle_result_types record_uuid="{e465fe71-1227-4592-871d-48e1a9c88437}" record_timestamp="1454422070889" record_key="draw">
+<battle_result_type>draw</battle_result_type>
+<result_description state="APPROVED" last_approved_text="The only winner here is the Blood God." last_edit_user="bob">The only winner here is the Blood God.</result_description>
+<result_screen_name state="APPROVED" last_approved_text="Draw" last_edit_user="bob">Draw</result_screen_name>
+<unit_xp_gain>45</unit_xp_gain>
+</battle_result_types>
+<battle_result_types record_uuid="{131e1729-b85d-408a-86b5-351887dc07f4}" record_timestamp="1444062405107" record_key="error_unknown">
+<battle_result_type>error_unknown</battle_result_type>
+<result_description state="APPROVED" last_approved_text="0" last_edit_user="bob">0</result_description>
+<result_screen_name state="APPROVED" last_approved_text="ERROR UNKNOWN" last_edit_user="bob">ERROR UNKNOWN</result_screen_name>
+<unit_xp_gain>0</unit_xp_gain>
+</battle_result_types>
+<battle_result_types record_uuid="{dcbfc757-a8ff-4ace-bd9a-bf82a50cddb8}" record_timestamp="1456335464030" record_key="heroic_victory">
+<battle_result_type>heroic_victory</battle_result_type>
+<result_description state="APPROVED" last_approved_text="Victory is yours! Revel in your might and bask in fleeting glory. The enemy will remember this defeat, scorched into their racial memory 'til the End Times and beyond." last_edit_user="bob">Victory is yours! Revel in your might and bask in fleeting glory. The enemy will remember this defeat, scorched into their racial memory 'til the End Times and beyond.</result_description>
+<result_screen_name state="APPROVED" last_approved_text="Heroic Victory" last_edit_user="bob">Heroic Victory</result_screen_name>
+<unit_xp_gain>100</unit_xp_gain>
+</battle_result_types>
+<battle_result_types record_uuid="{12f21bc4-635f-4545-bda4-d5831bd3d8f6}" record_timestamp="1444915395525" record_key="pyrrhic_victory">
+<battle_result_type>pyrrhic_victory</battle_result_type>
+<result_description state="APPROVED" last_approved_text="The enemy has cost you dearly. Do you even deserve to call it a victory?" last_edit_user="bob">The enemy has cost you dearly. Do you even deserve to call it a victory?</result_description>
+<result_screen_name state="APPROVED" last_approved_text="Pyrrhic Victory" last_edit_user="bob">Pyrrhic Victory</result_screen_name>
+<unit_xp_gain>50</unit_xp_gain>
+</battle_result_types>
+<battle_result_types record_uuid="{cef60c28-6496-4e17-90fd-1dddf55e8756}" record_timestamp="1444915395525" record_key="valiant_defeat">
+<battle_result_type>valiant_defeat</battle_result_type>
+<result_description state="APPROVED" last_approved_text="You have lost, but there is honour in this defeat… the enemy is as broken as you." last_edit_user="bob">You have lost, but there is honour in this defeat… the enemy is as broken as you.</result_description>
+<result_screen_name state="APPROVED" last_approved_text="Valiant Defeat" last_edit_user="bob">Valiant Defeat</result_screen_name>
+<unit_xp_gain>35</unit_xp_gain>
+</battle_result_types>
+</dataroot>

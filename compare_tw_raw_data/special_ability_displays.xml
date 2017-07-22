@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="special_ability_displays.xsd" export_time="Wed Sep 28 15:50:54 2016" revision="22" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>776bed56-ff10-48d5-a3cd-d2c499526cde</edit_uuid>
+<special_ability_displays record_uuid="{f0def04d-381a-445c-b76b-22fe8f6e9ba5}" record_timestamp="1460538316822" record_key="beasts_long">
+<sa_display_key>beasts_long</sa_display_key>
+<wind_up_aura_vfx>wh_dlc03_beasts_aura_casting_long</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_dlc03_beasts_cast_long</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{8f9d6fb2-f10f-427d-b856-6bd37d014fb1}" record_timestamp="1460538316860" record_key="beasts_medium">
+<sa_display_key>beasts_medium</sa_display_key>
+<wind_up_aura_vfx>wh_dlc03_beasts_aura_casting_medium</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_dlc03_beasts_cast_medium</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{8a745439-1704-4736-aa5d-2b3ea3b44c33}" record_timestamp="1460538316899" record_key="beasts_short">
+<sa_display_key>beasts_short</sa_display_key>
+<wind_up_aura_vfx>wh_dlc03_beasts_aura_casting_short</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_dlc03_beasts_cast_short</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{7eedc984-bef7-4ac0-bb46-69325a4d0589}" record_timestamp="1437407104561" record_key="big_waaagh_long">
+<sa_display_key>big_waaagh_long</sa_display_key>
+<wind_up_aura_vfx>wh_main_big_waaagh_aura_casting_long</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_big_waaagh_cast_long</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{01e45315-fe96-45cb-a072-e136bd31e547}" record_timestamp="1437407104602" record_key="big_waaagh_medium">
+<sa_display_key>big_waaagh_medium</sa_display_key>
+<wind_up_aura_vfx>wh_main_big_waaagh_aura_casting_medium</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_big_waaagh_cast_medium</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{ac929bca-4007-4d43-9c8e-cfe81f7406c0}" record_timestamp="1437407104537" record_key="big_waaagh_short">
+<sa_display_key>big_waaagh_short</sa_display_key>
+<wind_up_aura_vfx>wh_main_big_waaagh_aura_casting_short</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_big_waaagh_cast_short</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{107c69d3-3bba-4ad7-9919-e460de0641fa}" record_timestamp="1441717485876" record_key="death_long">
+<sa_display_key>death_long</sa_display_key>
+<wind_up_aura_vfx>wh_main_death_aura_casting_long</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_death_cast_long</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{a98e6585-2424-44b3-83a0-7db19a128aea}" record_timestamp="1441717485883" record_key="death_medium">
+<sa_display_key>death_medium</sa_display_key>
+<wind_up_aura_vfx>wh_main_death_aura_casting_medium</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_death_cast_medium</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{650b9249-0492-4c34-945b-bb233383445c}" record_timestamp="1441717485891" record_key="death_short">
+<sa_display_key>death_short</sa_display_key>
+<wind_up_aura_vfx>wh_main_death_aura_casting_short</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_death_cast_short</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{d3f70609-fccc-4708-9b96-800ca2b527a6}" record_timestamp="1441700977174" record_key="fire_long">
+<sa_display_key>fire_long</sa_display_key>
+<wind_up_aura_vfx>wh_main_fire_aura_casting_long</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_fire_cast_long</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{aa6e7ae1-9e0d-4abb-a334-68a60bef662b}" record_timestamp="1441700977174" record_key="fire_medium">
+<sa_display_key>fire_medium</sa_display_key>
+<wind_up_aura_vfx>wh_main_fire_aura_casting_medium</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_fire_cast_medium</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{a890ae43-6700-4874-892c-45188b28823b}" record_timestamp="1441700977175" record_key="fire_short">
+<sa_display_key>fire_short</sa_display_key>
+<wind_up_aura_vfx>wh_main_fire_aura_casting_short</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_fire_cast_short</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{49028dc6-5931-4b1d-9769-64964fedd03d}" record_timestamp="1437490252268" record_key="heavens_long">
+<sa_display_key>heavens_long</sa_display_key>
+<wind_up_aura_vfx>wh_main_heavens_aura_casting_long</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_heavens_cast_long</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{ec163e07-f0f2-4589-b11c-21bba6248aab}" record_timestamp="1437490252352" record_key="heavens_medium">
+<sa_display_key>heavens_medium</sa_display_key>
+<wind_up_aura_vfx>wh_main_heavens_aura_casting_medium</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_heavens_cast_medium</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{9ca35d15-6f9c-4538-91c4-aa0017395c16}" record_timestamp="1437490252434" record_key="heavens_short">
+<sa_display_key>heavens_short</sa_display_key>
+<wind_up_aura_vfx>wh_main_heavens_aura_casting_short</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_heavens_cast_short</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{8594cba4-7f4e-4527-a8ef-5aece18bf967}" record_timestamp="1475074248146" record_key="life_long">
+<sa_display_key>life_long</sa_display_key>
+<wind_up_aura_vfx>wh_dlc05_life_aura_casting_long</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_dlc05_life_cast_long</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{d845dd6c-a8a4-417e-bcf9-b816bcf8a172}" record_timestamp="1475074248214" record_key="life_medium">
+<sa_display_key>life_medium</sa_display_key>
+<wind_up_aura_vfx>wh_dlc05_life_aura_casting_medium</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_dlc05_life_cast_medium</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{8f154577-a706-44eb-af7e-be64dbe0902c}" record_timestamp="1475074248283" record_key="life_short">
+<sa_display_key>life_short</sa_display_key>
+<wind_up_aura_vfx>wh_dlc05_life_aura_casting_short</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_dlc05_life_cast_short</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{96d1e916-97ae-4f59-8a17-eb12ee7460d7}" record_timestamp="1441700977175" record_key="light_long">
+<sa_display_key>light_long</sa_display_key>
+<wind_up_aura_vfx>wh_main_light_aura_casting_long</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_light_cast_long</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{f3dde592-5eae-4477-931c-6b0291de5452}" record_timestamp="1441700977175" record_key="light_medium">
+<sa_display_key>light_medium</sa_display_key>
+<wind_up_aura_vfx>wh_main_light_aura_casting_medium</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_light_cast_medium</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{388c9097-868c-4af5-9be4-eb86303a2726}" record_timestamp="1441700977175" record_key="light_short">
+<sa_display_key>light_short</sa_display_key>
+<wind_up_aura_vfx>wh_main_light_aura_casting_short</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_light_cast_short</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{eff6f66f-ce7c-4abb-ac40-51033403d73a}" record_timestamp="1438684794021" record_key="lil_waaagh_long">
+<sa_display_key>lil_waaagh_long</sa_display_key>
+<wind_up_aura_vfx>wh_main_lil_waaagh_aura_casting_long</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_lil_waaagh_cast_long</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{d4c0f9c8-29e5-4900-8618-cb5df67fe214}" record_timestamp="1438684793992" record_key="lil_waaagh_medium">
+<sa_display_key>lil_waaagh_medium</sa_display_key>
+<wind_up_aura_vfx>wh_main_lil_waaagh_aura_casting_medium</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_lil_waaagh_cast_medium</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{db608048-63ff-4f2d-8711-aa43ef990633}" record_timestamp="1438684794007" record_key="lil_waaagh_short">
+<sa_display_key>lil_waaagh_short</sa_display_key>
+<wind_up_aura_vfx>wh_main_lil_waaagh_aura_casting_short</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_lil_waaagh_cast_short</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{57847cb4-1368-4d87-8871-8631ddcc9940}" record_timestamp="1441356926258" record_key="metal_long">
+<sa_display_key>metal_long</sa_display_key>
+<wind_up_aura_vfx>wh_main_metal_aura_casting_long</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_metal_cast_long</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{7728a3da-c4c0-4929-92c9-5b018cee0442}" record_timestamp="1441356926268" record_key="metal_medium">
+<sa_display_key>metal_medium</sa_display_key>
+<wind_up_aura_vfx>wh_main_metal_aura_casting_medium</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_metal_cast_medium</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{964eeabf-6fac-4125-87ba-ac71cc7a0573}" record_timestamp="1441356926290" record_key="metal_short">
+<sa_display_key>metal_short</sa_display_key>
+<wind_up_aura_vfx>wh_main_metal_aura_casting_short</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_metal_cast_short</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{cf5ce5c0-9cdc-4465-9123-492bcde65442}" record_timestamp="1469717480471" record_key="shadow_long">
+<sa_display_key>shadow_long</sa_display_key>
+<wind_up_aura_vfx>wh_dlc05_shadow_aura_casting_long</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_dlc05_shadow_cast_long</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{281ebbe0-78bf-4415-ac5d-532c8b4c5839}" record_timestamp="1469717480471" record_key="shadow_medium">
+<sa_display_key>shadow_medium</sa_display_key>
+<wind_up_aura_vfx>wh_dlc05_shadow_aura_casting_medium</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_dlc05_shadow_cast_medium</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{94b38fb3-3d93-4e13-90ea-6d7e3a571326}" record_timestamp="1469717480471" record_key="shadow_short">
+<sa_display_key>shadow_short</sa_display_key>
+<wind_up_aura_vfx>wh_dlc05_shadow_aura_casting_short</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_dlc05_shadow_cast_short</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{a653cb01-a85f-4bdb-bbf6-df8a9d95f51a}" record_timestamp="1440600789227" record_key="soulfire">
+<sa_display_key>soulfire</sa_display_key>
+<wind_up_aura_vfx></wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_generic_cast_short</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{3ae7769b-4bce-4bec-8f40-122c1fbb4fe5}" record_timestamp="1443789581967" record_key="vampires_long">
+<sa_display_key>vampires_long</sa_display_key>
+<wind_up_aura_vfx>wh_main_vampires_aura_casting_long</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_vampires_cast_long</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{f3a965b2-b2f1-42ab-9de8-76f2210665ff}" record_timestamp="1443789581988" record_key="vampires_medium">
+<sa_display_key>vampires_medium</sa_display_key>
+<wind_up_aura_vfx>wh_main_vampires_aura_casting_medium</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_vampires_cast_medium</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{efe2d5c0-4454-48a2-a076-052fe50027e9}" record_timestamp="1443789582008" record_key="vampires_short">
+<sa_display_key>vampires_short</sa_display_key>
+<wind_up_aura_vfx>wh_main_vampires_aura_casting_short</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_vampires_cast_short</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{ebac17b2-70c1-4c7b-b5d0-d6e7269b877e}" record_timestamp="1469795022859" record_key="war_altar_light_long">
+<sa_display_key>war_altar_light_long</sa_display_key>
+<wind_up_aura_vfx>wh_dlc04_light_ability_aura_casting_long</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_main_light_cast_long</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{74153251-0ef4-4a5f-b2c5-f720dc5fe17c}" record_timestamp="1460538316937" record_key="wild_long">
+<sa_display_key>wild_long</sa_display_key>
+<wind_up_aura_vfx>wh_dlc03_wild_aura_casting_long</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_dlc03_wild_cast_long</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{3bafecd4-6751-4b09-a5e2-5c77a83d559e}" record_timestamp="1460538316975" record_key="wild_medium">
+<sa_display_key>wild_medium</sa_display_key>
+<wind_up_aura_vfx>wh_dlc03_wild_aura_casting_medium</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_dlc03_wild_cast_medium</wind_up_weapon_vfx>
+</special_ability_displays>
+<special_ability_displays record_uuid="{42c66be5-201a-41f0-b941-80e21ffebfe0}" record_timestamp="1460538317016" record_key="wild_short">
+<sa_display_key>wild_short</sa_display_key>
+<wind_up_aura_vfx>wh_dlc03_wild_aura_casting_short</wind_up_aura_vfx>
+<wind_up_weapon_vfx>wh_dlc03_wild_cast_short</wind_up_weapon_vfx>
+</special_ability_displays>
+</dataroot>

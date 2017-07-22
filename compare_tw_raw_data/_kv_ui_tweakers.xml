@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="_kv_ui_tweakers.xsd" export_time="Wed Feb 1 10:27:42 2017" revision="41" export_branch="E:/TW/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>7670fc7a-5ae8-4016-9da7-27d84718a15b</edit_uuid>
+<_kv_ui_tweakers record_uuid="{3dfcaf3e-9351-45e1-9b49-52ab9d619d31}" record_timestamp="1441884493119" record_key="battle_capture_point_spline_wall_height">
+<description>Capture point splines in warhammer for garrisoned walls need to render on top of walls, this is the wall height for spline since wall not linked to capture point in anyway</description>
+<key>battle_capture_point_spline_wall_height</key>
+<value>15</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{0d098392-f632-457c-9e79-922207339070}" record_timestamp="1456310060569" record_key="battle_id_base_size">
+<description>Banners base scale</description>
+<key>battle_id_base_size</key>
+<value>0.6</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{6284b4d4-b5df-4ce9-86d9-9c4c3fe18f6a}" record_timestamp="1427289692978" record_key="battle_id_bob_height">
+<description>How high banners move up when bobbing when selected</description>
+<key>battle_id_bob_height</key>
+<value>0.5</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{f52266c2-d8e0-420e-8bd3-5268d1416c5f}" record_timestamp="1427289692974" record_key="battle_id_bob_speed">
+<description>How quickly banners bob when selected</description>
+<key>battle_id_bob_speed</key>
+<value>0.8</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{d1d6bf38-418e-4cdc-99dc-13b3b65b6a74}" record_timestamp="1433156183081" record_key="battle_id_fade_duration_ms">
+<description>Duration in ms for banner fade anim when too close</description>
+<key>battle_id_fade_duration_ms</key>
+<value>400</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{a59a6e8f-e6e9-41aa-ad6f-51939924e456}" record_timestamp="1457105301470" record_key="battle_id_fade_end">
+<description>Metres camera from banner when fully faded out (not used for warhammer, code commented out)</description>
+<key>battle_id_fade_end</key>
+<value>8</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{b8477a82-31bd-44a7-a63f-e98620a0b61d}" record_timestamp="1457105301470" record_key="battle_id_fade_start">
+<description>Metres camera from banner before fades out</description>
+<key>battle_id_fade_start</key>
+<value>12</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{a26058cb-541e-438d-85d0-49b67c14976c}" record_timestamp="1427289692983" record_key="battle_id_forest_height_offset">
+<description>Banners extra height when unit in forested area, if want to raise above trees</description>
+<key>battle_id_forest_height_offset</key>
+<value>0</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{d12d6761-a235-4f37-91ef-95cd3be87cfb}" record_timestamp="1427289692961" record_key="battle_id_height">
+<description>Banners height above entity</description>
+<key>battle_id_height</key>
+<value>0</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{45527850-09d5-402c-aca1-8cea8ec44c77}" record_timestamp="1441107965878" record_key="battle_id_highlight_unary_mouseover">
+<description>0-1 value that specifies how much to brighten banner on mouseover</description>
+<key>battle_id_highlight_unary_mouseover</key>
+<value>0.2</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{37100a76-5e66-4a4f-a7ec-314ffe394226}" record_timestamp="1441107965874" record_key="battle_id_highlight_unary_selected">
+<description>0-1 value that specifies how much to brighten banner on selection</description>
+<key>battle_id_highlight_unary_selected</key>
+<value>0.6</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{567a402a-7dab-4205-a35b-12d9ebd7b6b7}" record_timestamp="1457105301470" record_key="battle_id_max_size">
+<description>Banners maximum scale based on distance</description>
+<key>battle_id_max_size</key>
+<value>3</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{7effcc64-3f77-4a5e-b80d-1cca9c540026}" record_timestamp="1427293506898" record_key="battle_id_scale_weight">
+<description>How quickly banners scale based on distance</description>
+<key>battle_id_scale_weight</key>
+<value>0.015</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{54194577-a022-4d27-ab03-92df591777ac}" record_timestamp="1461152290834" record_key="battle_leaf_clip_proximity">
+<description>This is distance from the camera at which tree leaves will be clipped when leaf clipping option is enabled.</description>
+<key>battle_leaf_clip_proximity</key>
+<value>120</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{4b88e3dd-0ac1-4e76-bf5d-9538ad066f9f}" record_timestamp="1485944862503" record_key="campaign_agent_id_height">
+<description>Height of agent ids </description>
+<key>campaign_agent_id_height</key>
+<value>0.5</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{0ebe0ec8-fdb6-42ea-9a39-461d6aa1b897}" record_timestamp="1454070748864" record_key="campaign_battle_site_marker_height">
+<description>Height of battle site marker icons in campaign for indicating where can raise the dead</description>
+<key>campaign_battle_site_marker_height</key>
+<value>2</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{9bd19fad-196c-4f91-86d9-1d15138e6f00}" record_timestamp="1427455283249" record_key="campaign_citybar_fade_end">
+<description>Distance from city info bar when fully faded out</description>
+<key>campaign_citybar_fade_end</key>
+<value>64</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{499f2f51-5ccf-4a9b-bd45-dc3c1e81fadc}" record_timestamp="1433156183053" record_key="campaign_citybar_fade_start">
+<description>Distance from city info bar when starts to fade</description>
+<key>campaign_citybar_fade_start</key>
+<value>42</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{529f1f05-bec0-440e-b1ce-cc2676cd9267}" record_timestamp="1443014962601" record_key="campaign_citybar_height">
+<description>Determines city info bars height over city</description>
+<key>campaign_citybar_height</key>
+<value>1</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{8f614305-6e5a-48f9-9365-3da1fa817c44}" record_timestamp="1431940767568" record_key="campaign_flag_fade_duration_ms">
+<description>How long in ms flag takes to fade out/in in campaign</description>
+<key>campaign_flag_fade_duration_ms</key>
+<value>500</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{ae12b32f-cdfe-4bdb-93d5-e9cefcdd048c}" record_timestamp="1431940767571" record_key="campaign_flag_fade_start">
+<description>How close can get to flags in campaign before fade out</description>
+<key>campaign_flag_fade_start</key>
+<value>3</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{c9f697d6-db88-41b4-ae44-8e89f327ea1b}" record_timestamp="1444917615115" record_key="campaign_flag_settlement_height">
+<description>This is height offset of campaign flags when over settlements for garrisoned characters</description>
+<key>campaign_flag_settlement_height</key>
+<value>1</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{c4f877e0-ce5e-405d-91f7-78de674281da}" record_timestamp="1427455283213" record_key="campaign_tooltip_delay_ms">
+<description>How long cursor has to be still until campaign tooltip appears</description>
+<key>campaign_tooltip_delay_ms</key>
+<value>300</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{cf0dd1d1-17ad-4fc5-ae9d-ff818ddae069}" record_timestamp="1449050065439" record_key="missile_damage_over_this_much_time">
+<description>how much time do we want to display missile damage over i.e. 1.0 is DPS, 60.0 is damage per 60 seconds...per entity</description>
+<key>missile_damage_over_this_much_time</key>
+<value>10</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{9929ad01-4ba5-4e2a-8a77-3a991a4570bd}" record_timestamp="1427453489240" record_key="tacmap_dbl_click_threshold_ms">
+<description>determines time in ms as what counts as double press of shortcut for tactical toggle. If 0 will always toggle.</description>
+<key>tacmap_dbl_click_threshold_ms</key>
+<value>0</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{1fc05512-12cc-46f5-9587-ccd69cf7c241}" record_timestamp="1455731340185" record_key="tacmap_face_current_direction">
+<description>if true, camera direction will be in direction battle camera was in. Otherwise always faces 'north' so like radar</description>
+<key>tacmap_face_current_direction</key>
+<value>0</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{18e6e728-07d1-4917-adff-a585fc9c00d8}" record_timestamp="1427453489247" record_key="tacmap_hold_threshold_ms">
+<description>Only relevant if tacmap_dbl_click_threshold_ms != 0. determines time in ms as what counts as holding down tactical toggle (to avoid flicker when double tapping)</description>
+<key>tacmap_hold_threshold_ms</key>
+<value>100</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{ed6b5bc4-1816-4fd8-bc73-a32c3cc1e79d}" record_timestamp="1427453489278" record_key="tacmap_instant_transition">
+<description>if true, no camera pans, just instant</description>
+<key>tacmap_instant_transition</key>
+<value>0</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{0728482e-fa3a-416c-bf22-5922cbd0b489}" record_timestamp="1427453489271" record_key="tacmap_is_moveable">
+<description>if true, allows to control camera movement with wasd/mouse scroll</description>
+<key>tacmap_is_moveable</key>
+<value>1</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{ea11f5a6-47c5-41c5-867e-04f655e796ce}" record_timestamp="1427453489206" record_key="tacmap_light_change_duration_ms">
+<description>how long takes for lighting setting to change (fog to clear)</description>
+<key>tacmap_light_change_duration_ms</key>
+<value>1000</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{0e18803c-e15a-48b6-974e-c94b77c5e0bc}" record_timestamp="1457631941978" record_key="tacmap_max_height">
+<description>used to define max height can zoom out (lower if want to clamp max height can zoom out so cant see whole battlefield)</description>
+<key>tacmap_max_height</key>
+<value>175</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{6ecd1e4b-514e-4ce1-8446-3bbb7771eb18}" record_timestamp="1456843188151" record_key="tacmap_max_height_offset">
+<description>extra height added onto height calculated can see whole battlefield</description>
+<key>tacmap_max_height_offset</key>
+<value>0</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{4c566886-e9e7-4827-a337-c856b1be7af5}" record_timestamp="1457627799186" record_key="tacmap_min_height">
+<description>how much can zoom in when moveable, value is distance from highest point on map can zoom into</description>
+<key>tacmap_min_height</key>
+<value>90</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{24bbca46-461c-45e6-977e-4130887e26c2}" record_timestamp="1427453489306" record_key="tacmap_move_speed_multiplier">
+<description>how quick moves with wasd/drag in tac map</description>
+<key>tacmap_move_speed_multiplier</key>
+<value>4</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{fb5dc0f1-0a64-47d4-90b6-926cc4d4cb43}" record_timestamp="1457631942059" record_key="tacmap_near_clip_height_threshold">
+<description>If the tacmap camera height is greater than this, then tacmap_near_clip_max is used for near clip distance</description>
+<key>tacmap_near_clip_height_threshold</key>
+<value>140</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{eb385c57-a90d-4896-a780-aede7442d91c}" record_timestamp="1457631942043" record_key="tacmap_near_clip_max">
+<description>Near clip distance used for tacmap camera wheight height is above tacmap_near_clip_height_threshold</description>
+<key>tacmap_near_clip_max</key>
+<value>90</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{e20b1db0-2be0-4937-b7f2-7153efef90bb}" record_timestamp="1457631942025" record_key="tacmap_near_clip_min">
+<description>Near clip distance used for tacmap camera wheight height is below tacmap_near_clip_height_threshold</description>
+<key>tacmap_near_clip_min</key>
+<value>40</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{0e20f4e4-c078-4286-97e5-83095b7b9b3e}" record_timestamp="1455731340193" record_key="tacmap_rotate_speed_multiplier">
+<description>how fast tacmap rotates</description>
+<key>tacmap_rotate_speed_multiplier</key>
+<value>0</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{cc658862-3d21-442e-afd1-7b4171327d56}" record_timestamp="1427453489255" record_key="tacmap_smoothing_decay">
+<description>determines smoothing applied to tacmap movement</description>
+<key>tacmap_smoothing_decay</key>
+<value>-8</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{50c4c5ee-f339-495d-88ae-7ce616c062fb}" record_timestamp="1455731340169" record_key="tacmap_starts_low">
+<description>if true, camera starts at most zoomed in point</description>
+<key>tacmap_starts_low</key>
+<value>0</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{5277cff8-04c8-41ee-a86b-d66748d71a97}" record_timestamp="1427453489299" record_key="tacmap_transition_duration_s">
+<description>how long camera pan takes in secs</description>
+<key>tacmap_transition_duration_s</key>
+<value>0.5</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{73d069ab-6992-4293-9071-d510df64667d}" record_timestamp="1452760328666" record_key="tacmap_unit_draw_dist">
+<description>Distance tacmap camera is from highest point on map before render units</description>
+<key>tacmap_unit_draw_dist</key>
+<value>150</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{e3a201e6-cf2e-4234-a03e-1c814de4eb4a}" record_timestamp="1455731340177" record_key="tacmap_zoom_speed_multiplier">
+<description>how much scroll changes height when zoom</description>
+<key>tacmap_zoom_speed_multiplier</key>
+<value>60</value>
+</_kv_ui_tweakers>
+<_kv_ui_tweakers record_uuid="{f5a26f2c-6092-4a6b-a5ba-d63ba49e9880}" record_timestamp="1427453489263" record_key="tacmap_zoom_to_cursor">
+<description>if true, camera zooms towards cursor, otherwise zooms straight dow</description>
+<key>tacmap_zoom_to_cursor</key>
+<value>1</value>
+</_kv_ui_tweakers>
+</dataroot>

@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_basic_junction.xsd" export_time="Wed Jan 25 17:48:02 2017" revision="288" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>77faacf1-0a05-46a2-af55-1d24bf9abc6b</edit_uuid>
+<effect_bonus_value_basic_junction record_uuid="{9869cad5-b7e0-46f6-89f3-8d3d37d3647e}" record_timestamp="1458755961641" record_key="EMPTY_EFFECTunrestricted_replenishment_bonus">
+<bonus_value_id>unrestricted_replenishment_bonus</bonus_value_id>
+<effect>EMPTY_EFFECT</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{a0086d11-04ea-4ebf-bc36-e4437c81e7bb}" record_timestamp="1459336449828" record_key="wh_dlc03_effect_bloodlust_modifier_alliancemilitary_force_morale_modifier_faction">
+<bonus_value_id>military_force_morale_modifier_faction</bonus_value_id>
+<effect>wh_dlc03_effect_bloodlust_modifier_alliance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{2c1737ee-05fe-4d32-b5b8-55ece643be9e}" record_timestamp="1457114016142" record_key="wh_dlc03_effect_bloodlust_modifier_animositymilitary_force_morale_modifier_animosity">
+<bonus_value_id>military_force_morale_modifier_animosity</bonus_value_id>
+<effect>wh_dlc03_effect_bloodlust_modifier_animosity</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{4a7c4f8c-2b17-4646-9dc5-1c380e1f124e}" record_timestamp="1468500657652" record_key="wh_dlc03_effect_bloodlust_modifier_charactersmilitary_force_morale_modifier_characters">
+<bonus_value_id>military_force_morale_modifier_characters</bonus_value_id>
+<effect>wh_dlc03_effect_bloodlust_modifier_characters</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{ddac8050-4b53-4c21-a032-978d7852553a}" record_timestamp="1457114016590" record_key="wh_dlc03_effect_bloodlust_modifier_fortify_stancemilitary_force_morale_modifier_settle_stance">
+<bonus_value_id>military_force_morale_modifier_settle_stance</bonus_value_id>
+<effect>wh_dlc03_effect_bloodlust_modifier_fortify_stance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{88fd2a5a-33ee-4114-890d-408afdfd6222}" record_timestamp="1460998007866" record_key="wh_dlc03_effect_bloodlust_modifier_non_aggressionmilitary_force_morale_modifier_faction">
+<bonus_value_id>military_force_morale_modifier_faction</bonus_value_id>
+<effect>wh_dlc03_effect_bloodlust_modifier_non_aggression</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{88dfc98e-648d-4483-9d01-c9631c9b2018}" record_timestamp="1469456393825" record_key="wh_dlc03_effect_bloodlust_modifier_peacemilitary_force_morale_modifier_animosity">
+<bonus_value_id>military_force_morale_modifier_animosity</bonus_value_id>
+<effect>wh_dlc03_effect_bloodlust_modifier_peace</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{dd6cd01f-5b24-4fa9-bca7-1d537887fbdd}" record_timestamp="1457114016274" record_key="wh_dlc03_effect_bloodlust_modifier_raid_stancemilitary_force_morale_modifier_raid_stance">
+<bonus_value_id>military_force_morale_modifier_raid_stance</bonus_value_id>
+<effect>wh_dlc03_effect_bloodlust_modifier_raid_stance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{7a66da2b-4a1e-4a16-9cc8-b229c92bce5a}" record_timestamp="1465459048025" record_key="wh_dlc03_effect_bloodlust_modifier_siege_stancemilitary_force_morale_modifier_tax">
+<bonus_value_id>military_force_morale_modifier_tax</bonus_value_id>
+<effect>wh_dlc03_effect_bloodlust_modifier_siege_stance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{1ad2e8a6-7345-4311-84f0-fb0de0b13222}" record_timestamp="1457114016375" record_key="wh_dlc03_effect_bloodlust_modifiermilitary_force_morale_modifier_faction">
+<bonus_value_id>military_force_morale_modifier_faction</bonus_value_id>
+<effect>wh_dlc03_effect_bloodlust_modifier</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{a4c84e9d-8722-45b9-a751-bf29de95a99a}" record_timestamp="1467715833742" record_key="wh_dlc03_effect_force_all_campaign_replenishment_rate_hordeunrestricted_replenishment_bonus">
+<bonus_value_id>unrestricted_replenishment_bonus</bonus_value_id>
+<effect>wh_dlc03_effect_force_all_campaign_replenishment_rate_horde</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{da41f42b-d2ab-42f2-a2f6-3fe0c07efb78}" record_timestamp="1469455028057" record_key="wh_dlc03_effect_force_army_campaign_tunnelling_evasion_chancetunnel_interception_evasion_chance">
+<bonus_value_id>tunnel_interception_evasion_chance</bonus_value_id>
+<effect>wh_dlc03_effect_force_army_campaign_tunnelling_evasion_chance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{8eac3ba3-09f6-4b86-9320-36ad80527000}" record_timestamp="1467718242074" record_key="wh_dlc03_effect_replenishment_fullunrestricted_replenishment_bonus">
+<bonus_value_id>unrestricted_replenishment_bonus</bonus_value_id>
+<effect>wh_dlc03_effect_replenishment_full</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{cd800e50-4d43-4e15-9523-989c12c3ca97}" record_timestamp="1469107957663" record_key="wh_dlc03_effect_replenishment_removedunrestricted_replenishment_bonus">
+<bonus_value_id>unrestricted_replenishment_bonus</bonus_value_id>
+<effect>wh_dlc03_effect_replenishment_removed</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{666a040d-ebd4-4f22-98b4-bd3debcbcb01}" record_timestamp="1466437403450" record_key="wh_dlc03_effect_stance_ambush_removal_hiddenambush_chance_of_success_attack_bonus">
+<bonus_value_id>ambush_chance_of_success_attack_bonus</bonus_value_id>
+<effect>wh_dlc03_effect_stance_ambush_removal_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{9ad6365c-faa3-462d-9dd4-397a1e4f2395}" record_timestamp="1467718242075" record_key="wh_dlc03_effect_stealth_bonus_hiddenstealth_mod">
+<bonus_value_id>stealth_mod</bonus_value_id>
+<effect>wh_dlc03_effect_stealth_bonus_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{10fd8eee-5d9c-401f-ad96-d5cc7276e9b3}" record_timestamp="1453994636421" record_key="wh_dlc03_effect_tech_army_campaign_beastpath_evasion_chancetunnel_interception_evasion_chance">
+<bonus_value_id>tunnel_interception_evasion_chance</bonus_value_id>
+<effect>wh_dlc03_effect_tech_army_campaign_beastpath_evasion_chance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{85d664a0-5b10-485f-80b3-8de7345b9090}" record_timestamp="1466438655210" record_key="wh_dlc03_effect_technology_research_points_hiddenresearch_points">
+<bonus_value_id>research_points</bonus_value_id>
+<effect>wh_dlc03_effect_technology_research_points_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{a87708db-a2ef-40d1-b254-42ca33415a1a}" record_timestamp="1462550575462" record_key="wh_dlc03_effect_technology_research_pointsresearch_points">
+<bonus_value_id>research_points</bonus_value_id>
+<effect>wh_dlc03_effect_technology_research_points</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{11d95660-ddd9-4c8d-a6e9-0619c413a42d}" record_timestamp="1469720030267" record_key="wh_dlc04_effect_force_all_campaign_loot_income_not_shownlooting_mod">
+<bonus_value_id>looting_mod</bonus_value_id>
+<effect>wh_dlc04_effect_force_all_campaign_loot_income_not_shown</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e178de4e-4a1a-4112-bbe4-e04068d347dd}" record_timestamp="1469720030680" record_key="wh_dlc04_effect_force_all_campaign_razing_income_not_shownrazing_mod">
+<bonus_value_id>razing_mod</bonus_value_id>
+<effect>wh_dlc04_effect_force_all_campaign_razing_income_not_shown</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{0058fb1e-06ba-4df8-a643-1f9fdb50a144}" record_timestamp="1469720030844" record_key="wh_dlc04_effect_force_all_campaign_sacking_income_not_shownsacking_mod">
+<bonus_value_id>sacking_mod</bonus_value_id>
+<effect>wh_dlc04_effect_force_all_campaign_sacking_income_not_shown</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{46647c97-ea2f-4886-a8cb-ee249a146636}" record_timestamp="1481036715399" record_key="wh_dlc05_effect_amber_building_hiddenfood_production_buildings">
+<bonus_value_id>food_production_buildings</bonus_value_id>
+<effect>wh_dlc05_effect_amber_building_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{12ee9f60-9c82-411e-91cf-ddb7a7055fef}" record_timestamp="1479307772436" record_key="wh_dlc05_effect_amber_buildingfood_production_buildings">
+<bonus_value_id>food_production_buildings</bonus_value_id>
+<effect>wh_dlc05_effect_amber_building</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{c14ec0a9-ff02-4f05-bb81-18e96ae5d45b}" record_timestamp="1479333287302" record_key="wh_dlc05_effect_amber_eventsfood_production_events">
+<bonus_value_id>food_production_events</bonus_value_id>
+<effect>wh_dlc05_effect_amber_events</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{bb437ee7-6549-4697-be11-0f604639fecf}" record_timestamp="1481887364914" record_key="wh_dlc05_effect_amber_quest_events_hiddenfood_production_events">
+<bonus_value_id>food_production_events</bonus_value_id>
+<effect>wh_dlc05_effect_amber_quest_events_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{c46bbbe0-db0a-49b7-a02b-46f45fb1a136}" record_timestamp="1481887366944" record_key="wh_dlc05_effect_amber_quest_eventsfood_production_events">
+<bonus_value_id>food_production_events</bonus_value_id>
+<effect>wh_dlc05_effect_amber_quest_events</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{276143e8-fb1c-4f88-aa5e-bebd92369255}" record_timestamp="1481032621827" record_key="wh_dlc05_effect_building_army_xp_gainunit_xp_mod_training">
+<bonus_value_id>unit_xp_mod_training</bonus_value_id>
+<effect>wh_dlc05_effect_building_army_xp_gain</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e09c2be1-4f36-42cd-b197-570a5bdbb415}" record_timestamp="1481899795803" record_key="wh_dlc05_effect_building_global_recruitment_durationglobal_recruit_time_mod_land">
+<bonus_value_id>global_recruit_time_mod_land</bonus_value_id>
+<effect>wh_dlc05_effect_building_global_recruitment_duration</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{1443bd9d-8f52-49ca-8b27-beeecfba78a0}" record_timestamp="1479339067665" record_key="wh_dlc05_effect_economy_gdp_mod_winesgdp_mod_farming">
+<bonus_value_id>gdp_mod_farming</bonus_value_id>
+<effect>wh_dlc05_effect_economy_gdp_mod_wines</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e705081c-fbed-488a-8645-e4ad7fc1dcc6}" record_timestamp="1462899332494" record_key="wh_dlc05_effect_faction_global_recruitment_points_buildingrecruitment_points">
+<bonus_value_id>recruitment_points</bonus_value_id>
+<effect>wh_dlc05_effect_faction_global_recruitment_points_building</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{ae2cf694-2abb-4bac-8b06-5d0e65024518}" record_timestamp="1462899332885" record_key="wh_dlc05_effect_force_all_campaign_replenishment_rate_buildingreplenishment_percentage_bonus">
+<bonus_value_id>replenishment_percentage_bonus</bonus_value_id>
+<effect>wh_dlc05_effect_force_all_campaign_replenishment_rate_building</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{db858555-ed2f-4aec-8274-be2542ad7082}" record_timestamp="1481044679173" record_key="wh_dlc05_effect_global_recruitment_duration_allglobal_recruit_time_mod_land">
+<bonus_value_id>global_recruit_time_mod_land</bonus_value_id>
+<effect>wh_dlc05_effect_global_recruitment_duration_all</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{2d7cfd04-aa15-4355-9560-ea012d3d3dd6}" record_timestamp="1481038838018" record_key="wh_dlc05_effect_occupation_decision_colonise_cost_increase_hiddenoccupation_decision_colonise_cost_mod">
+<bonus_value_id>occupation_decision_colonise_cost_mod</bonus_value_id>
+<effect>wh_dlc05_effect_occupation_decision_colonise_cost_increase_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{ff103203-3f66-4dc8-a787-3b70b1e3154f}" record_timestamp="1462899332601" record_key="wh_dlc05_effect_public_order_global_buildingprovince_public_order_happiness_building_positive_factor">
+<bonus_value_id>province_public_order_happiness_building_positive_factor</bonus_value_id>
+<effect>wh_dlc05_effect_public_order_global_building</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{440e3ddc-48c6-4124-8bfd-bdb6988a846d}" record_timestamp="1459530114028" record_key="wh_dlc05_effect_tech_army_campaign_worldroot_evasion_chancetunnel_interception_evasion_chance">
+<bonus_value_id>tunnel_interception_evasion_chance</bonus_value_id>
+<effect>wh_dlc05_effect_tech_army_campaign_worldroot_evasion_chance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{09f5f592-2b06-46a3-a5ed-f7a3b776a66d}" record_timestamp="1481046305118" record_key="wh_dlc05_morghur_trait_immortalitiyrecuperation_time_mod">
+<bonus_value_id>recuperation_time_mod</bonus_value_id>
+<effect>wh_dlc05_morghur_trait_immortalitiy</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{24b8272b-5cc9-4efb-be1e-49800fa3a60b}" record_timestamp="1474283904697" record_key="wh_dlc06_effect_enable_magic_attacks_building_hiddenunit_is_magical">
+<bonus_value_id>unit_is_magical</bonus_value_id>
+<effect>wh_dlc06_effect_enable_magic_attacks_building_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{c2170d3a-9e3f-4427-b6c1-a2079a6d95da}" record_timestamp="1474283903897" record_key="wh_dlc06_effect_enable_magic_attacks_buildingunit_is_magical">
+<bonus_value_id>unit_is_magical</bonus_value_id>
+<effect>wh_dlc06_effect_enable_magic_attacks_building</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{ce6b27a0-a08c-4c21-8a91-ed9673525a42}" record_timestamp="1483637655894" record_key="wh_dlc07_effect_chivalry_buildingfood_production_buildings">
+<bonus_value_id>food_production_buildings</bonus_value_id>
+<effect>wh_dlc07_effect_chivalry_building</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{8e7c17db-ccd1-4f9c-a4ff-49b9c74db4d8}" record_timestamp="1483637656076" record_key="wh_dlc07_effect_chivalry_eventsfood_production_events">
+<bonus_value_id>food_production_events</bonus_value_id>
+<effect>wh_dlc07_effect_chivalry_events</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{fec94e3c-35a1-455b-9341-9055ab963ccc}" record_timestamp="1483637656138" record_key="wh_dlc07_effect_chivalry_technologyfood_production_technologies">
+<bonus_value_id>food_production_technologies</bonus_value_id>
+<effect>wh_dlc07_effect_chivalry_technology</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{2009d5d7-4a9d-411f-be12-dad88627d6cd}" record_timestamp="1485366467457" record_key="wh_dlc07_effect_economy_gdp_agriculture_farminggdp_farming">
+<bonus_value_id>gdp_farming</bonus_value_id>
+<effect>wh_dlc07_effect_economy_gdp_agriculture_farming</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{5725299d-7c32-4532-a9a8-002083bc3f4b}" record_timestamp="1470821043907" record_key="wh_dlc07_effect_economy_gdp_mod_farminggdp_mod_farming">
+<bonus_value_id>gdp_mod_farming</bonus_value_id>
+<effect>wh_dlc07_effect_economy_gdp_mod_farming</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e147710a-6324-4651-bdd0-b9805374ec98}" record_timestamp="1483637646550" record_key="wh_dlc07_effect_economy_gdp_mod_industrializationgdp_mod_farming">
+<bonus_value_id>gdp_mod_farming</bonus_value_id>
+<effect>wh_dlc07_effect_economy_gdp_mod_industrialization</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b968f517-3b3e-4314-ab99-1784c133caf7}" record_timestamp="1470850103221" record_key="wh_dlc07_effect_economy_gdp_mod_industrygdp_mod_manufacture">
+<bonus_value_id>gdp_mod_manufacture</bonus_value_id>
+<effect>wh_dlc07_effect_economy_gdp_mod_industry</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{1022171b-d069-4b06-a01f-00805da81e1a}" record_timestamp="1483971749434" record_key="wh_dlc07_effect_economy_gdp_mod_yield_of_the_seagdp_mod_sea_trade">
+<bonus_value_id>gdp_mod_sea_trade</bonus_value_id>
+<effect>wh_dlc07_effect_economy_gdp_mod_yield_of_the_sea</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{414d04b8-8a37-4201-979c-6659f3c8700c}" record_timestamp="1485366467496" record_key="wh_dlc07_effect_economy_gdp_trade_sea_brtgdp_sea_trade">
+<bonus_value_id>gdp_sea_trade</bonus_value_id>
+<effect>wh_dlc07_effect_economy_gdp_trade_sea_brt</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{c67f051f-ded5-473a-8268-beac3f536877}" record_timestamp="1425557251592" record_key="wh_main_effect_agent_action_outcome_local_province_recruitment_costrecruitment_mod_cost_land_all">
+<bonus_value_id>recruitment_mod_cost_land_all</bonus_value_id>
+<effect>wh_main_effect_agent_action_outcome_local_province_recruitment_cost</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b9baae18-3c75-4130-b76d-73755e99c122}" record_timestamp="1442324141948" record_key="wh_main_effect_agent_action_outcome_local_province_recruitment_costrecruitment_mod_cost_naval_all">
+<bonus_value_id>recruitment_mod_cost_naval_all</bonus_value_id>
+<effect>wh_main_effect_agent_action_outcome_local_province_recruitment_cost</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{ba5ef808-752b-4a21-be12-af70a3823e43}" record_timestamp="1425557252363" record_key="wh_main_effect_agent_action_outcome_parent_army_apmod_land_movement_campaign">
+<bonus_value_id>mod_land_movement_campaign</bonus_value_id>
+<effect>wh_main_effect_agent_action_outcome_parent_army_ap</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{fe8c3d6c-fddd-4473-baf8-c3a29d86c9ad}" record_timestamp="1470057684700" record_key="wh_main_effect_agent_action_outcome_parent_army_xp_gain_factionwideunit_xp_mod_training">
+<bonus_value_id>unit_xp_mod_training</bonus_value_id>
+<effect>wh_main_effect_agent_action_outcome_parent_army_xp_gain_factionwide</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{5b22561e-b771-4536-a19f-ce418778a2db}" record_timestamp="1425557253524" record_key="wh_main_effect_agent_action_outcome_parent_army_xp_gainunit_xp_mod_training">
+<bonus_value_id>unit_xp_mod_training</bonus_value_id>
+<effect>wh_main_effect_agent_action_outcome_parent_army_xp_gain</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{ccec1f8e-f1ef-4446-992f-0a5aa3c64cf6}" record_timestamp="1425557254764" record_key="wh_main_effect_agent_action_outcome_target_army_apgeneral_start_of_turn_action_point_penalty">
+<bonus_value_id>general_start_of_turn_action_point_penalty</bonus_value_id>
+<effect>wh_main_effect_agent_action_outcome_target_army_ap</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{fa96b098-68dc-46fa-9483-8d106bcbb198}" record_timestamp="1425557259612" record_key="wh_main_effect_agent_action_outcome_target_army_replenishment_increasereplenishment_percentage_bonus">
+<bonus_value_id>replenishment_percentage_bonus</bonus_value_id>
+<effect>wh_main_effect_agent_action_outcome_target_army_replenishment_increase</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{5d3390d3-0cef-4571-8965-f8ff47fb6a01}" record_timestamp="1425557300039" record_key="wh_main_effect_agent_field_line_of_sight_modline_of_sight_extension">
+<bonus_value_id>line_of_sight_extension</bonus_value_id>
+<effect>wh_main_effect_agent_field_line_of_sight_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e64fb7ec-38ac-4873-becc-41c9f9c80065}" record_timestamp="1425557301490" record_key="wh_main_effect_agent_movement_range_modgeneral_admiral_action_point_bonus">
+<bonus_value_id>general_admiral_action_point_bonus</bonus_value_id>
+<effect>wh_main_effect_agent_movement_range_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{85439210-640d-4608-af53-6b6acd0e8615}" record_timestamp="1430474814005" record_key="wh_main_effect_animosity_military_force_morale_modifier_animositymilitary_force_morale_modifier_animosity">
+<bonus_value_id>military_force_morale_modifier_animosity</bonus_value_id>
+<effect>wh_main_effect_animosity_military_force_morale_modifier_animosity</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{78872f03-87e2-46e7-8701-3ff01bc61c57}" record_timestamp="1425557311614" record_key="wh_main_effect_building_construction_cost_modbuilding_conversion_cost_mod">
+<bonus_value_id>building_conversion_cost_mod</bonus_value_id>
+<effect>wh_main_effect_building_construction_cost_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{ac8dcccb-bb3b-4709-a497-ecd83d7149be}" record_timestamp="1425557311536" record_key="wh_main_effect_building_construction_cost_modbuilding_cost_mod">
+<bonus_value_id>building_cost_mod</bonus_value_id>
+<effect>wh_main_effect_building_construction_cost_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{cd5df000-7e02-4053-b553-3c3d09d3807e}" record_timestamp="1425557313970" record_key="wh_main_effect_building_roadroads">
+<bonus_value_id>roads</bonus_value_id>
+<effect>wh_main_effect_building_road</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{3ab38535-32b8-4dac-9762-4540b275d0a1}" record_timestamp="1425557314890" record_key="wh_main_effect_building_trade_route_sea_hiddentrade_route_cap_sea">
+<bonus_value_id>trade_route_cap_sea</bonus_value_id>
+<effect>wh_main_effect_building_trade_route_sea_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{c449ca0f-89c4-4346-9647-47e586341756}" record_timestamp="1425557316343" record_key="wh_main_effect_character_campaign_spotting_chancepassive_detection">
+<bonus_value_id>passive_detection</bonus_value_id>
+<effect>wh_main_effect_character_campaign_spotting_chance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b8cf8fde-39bb-4542-a1f3-1540496ba071}" record_timestamp="1474283904365" record_key="wh_main_effect_character_line_of_sight_mod_hiddenline_of_sight_extension">
+<bonus_value_id>line_of_sight_extension</bonus_value_id>
+<effect>wh_main_effect_character_line_of_sight_mod_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{8c4ef4e4-099a-4829-b3de-3bcfbf1aab45}" record_timestamp="1437379556882" record_key="wh_main_effect_character_mod_ancillary_droppost_battle_ancillary_drop_chance_mod">
+<bonus_value_id>post_battle_ancillary_drop_chance_mod</bonus_value_id>
+<effect>wh_main_effect_character_mod_ancillary_drop</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{9d3c45b6-cd40-4796-aab5-c43f61b36e61}" record_timestamp="1448550911764" record_key="wh_main_effect_character_mod_ancillary_stealpost_battle_ancillary_steal_chance_mod">
+<bonus_value_id>post_battle_ancillary_steal_chance_mod</bonus_value_id>
+<effect>wh_main_effect_character_mod_ancillary_steal</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{68c9aab7-7c0e-4a0c-a491-9236f0fd186c}" record_timestamp="1437051070326" record_key="wh_main_effect_character_mod_unit_sizegeneral_bodyguard_size_mod">
+<bonus_value_id>general_bodyguard_size_mod</bonus_value_id>
+<effect>wh_main_effect_character_mod_unit_size</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{5d81a93a-65f4-45e8-8f4f-1fef326c5d3f}" record_timestamp="1449840620348" record_key="wh_main_effect_character_passive_religious_conversionagent_religion_conversion">
+<bonus_value_id>agent_religion_conversion</bonus_value_id>
+<effect>wh_main_effect_character_passive_religious_conversion</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{49678307-7c5a-4337-902d-88aaa9ab0b45}" record_timestamp="1459945058701" record_key="wh_main_effect_character_stat_enable_magic_attacks_hiddenunit_is_magical">
+<bonus_value_id>unit_is_magical</bonus_value_id>
+<effect>wh_main_effect_character_stat_enable_magic_attacks_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{8efa9e77-7981-4631-b45f-7f22da5de2c9}" record_timestamp="1438776909858" record_key="wh_main_effect_character_stat_enable_magic_attacksunit_is_magical">
+<bonus_value_id>unit_is_magical</bonus_value_id>
+<effect>wh_main_effect_character_stat_enable_magic_attacks</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{d253fbad-e921-4e88-ba51-416319aefce9}" record_timestamp="1437046755187" record_key="wh_main_effect_character_stat_mod_unit_healthgeneral_bodyguard_size_mod">
+<bonus_value_id>general_bodyguard_size_mod</bonus_value_id>
+<effect>wh_main_effect_character_stat_mod_unit_health</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b982da52-adc2-4c53-aa77-012993ffecfb}" record_timestamp="1425557324519" record_key="wh_main_effect_character_wound_recovery_time_modrecuperation_time_mod">
+<bonus_value_id>recuperation_time_mod</bonus_value_id>
+<effect>wh_main_effect_character_wound_recovery_time_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{92f01c60-1953-44d0-b2a8-4229d52cc35a}" record_timestamp="1448620508582" record_key="wh_main_effect_commandment_dwarfs_empower_the_guilds_growth_baseprovince_development_growth_added_province">
+<bonus_value_id>province_development_growth_added_province</bonus_value_id>
+<effect>wh_main_effect_commandment_dwarfs_empower_the_guilds_growth_base</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{00fd495c-9e58-46d2-80f9-b50517d02131}" record_timestamp="1448620507314" record_key="wh_main_effect_commandment_dwarfs_high_kings_tribute_tax_basetax_bonus_building">
+<bonus_value_id>tax_bonus_building</bonus_value_id>
+<effect>wh_main_effect_commandment_dwarfs_high_kings_tribute_tax_base</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{d5330fb6-9e31-480a-8f1f-a8e423f5af26}" record_timestamp="1448620507362" record_key="wh_main_effect_commandment_dwarfs_steel_and_stone_recruitment_cost_baserecruitment_mod_cost_land_all">
+<bonus_value_id>recruitment_mod_cost_land_all</bonus_value_id>
+<effect>wh_main_effect_commandment_dwarfs_steel_and_stone_recruitment_cost_base</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{3a0b0740-4d28-46a6-a5f9-f143736c2ed0}" record_timestamp="1448620507268" record_key="wh_main_effect_commandment_dwarfs_steel_and_stone_recruitment_cost_baserecruitment_mod_cost_naval_all">
+<bonus_value_id>recruitment_mod_cost_naval_all</bonus_value_id>
+<effect>wh_main_effect_commandment_dwarfs_steel_and_stone_recruitment_cost_base</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{6ff21dcd-ffe9-47c6-af45-0bb7287822d6}" record_timestamp="1425557325050" record_key="wh_main_effect_conquest_enable_night_battlescan_fight_night_battles">
+<bonus_value_id>can_fight_night_battles</bonus_value_id>
+<effect>wh_main_effect_conquest_enable_night_battles</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{d6cd8ed1-070c-4dfd-bb25-d34bba80a336}" record_timestamp="1425557325128" record_key="wh_main_effect_conquest_enable_night_battlescan_fight_night_battles_naval">
+<bonus_value_id>can_fight_night_battles_naval</bonus_value_id>
+<effect>wh_main_effect_conquest_enable_night_battles</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{8127d1ed-0af4-4ab4-8f32-a310e9e99b72}" record_timestamp="1425557325736" record_key="wh_main_effect_conquest_resistance_to_occupation_modregion_resistance_modifier">
+<bonus_value_id>region_resistance_modifier</bonus_value_id>
+<effect>wh_main_effect_conquest_resistance_to_occupation_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{6cbdda44-f0e9-4fe1-90c6-31262effa235}" record_timestamp="1462358734278" record_key="wh_main_effect_defence_tower_level_hiddenautoresolver_tower_level">
+<bonus_value_id>autoresolver_tower_level</bonus_value_id>
+<effect>wh_main_effect_defence_tower_level_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{dbc6e1de-972a-4b02-905a-8ebb8e0d98b4}" record_timestamp="1425557327439" record_key="wh_main_effect_economy_gdp_agriculture_animal_husbandrygdp_animal_husbandry">
+<bonus_value_id>gdp_animal_husbandry</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_agriculture_animal_husbandry</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{4ddf4b73-b812-4cb3-b4dc-d96338b7fa02}" record_timestamp="1425557327595" record_key="wh_main_effect_economy_gdp_agriculture_farminggdp_farming">
+<bonus_value_id>gdp_farming</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_agriculture_farming</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{572bae4f-eedc-4e36-9c99-1e8f8e960d56}" record_timestamp="1425557327751" record_key="wh_main_effect_economy_gdp_culturegdp_entertainment">
+<bonus_value_id>gdp_entertainment</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_culture</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{c63200e8-9849-43aa-98be-594c1135a242}" record_timestamp="1425557327907" record_key="wh_main_effect_economy_gdp_fertility_agriculturegdp_fertility_agriculture">
+<bonus_value_id>gdp_fertility_agriculture</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_fertility_agriculture</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{8fc370e7-198f-4221-9a9f-ba252d8991fa}" record_timestamp="1425557328078" record_key="wh_main_effect_economy_gdp_fertility_livestockgdp_fertility_livestock">
+<bonus_value_id>gdp_fertility_livestock</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_fertility_livestock</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{cb12418f-70df-4b7c-9173-ceaa1f4bca7f}" record_timestamp="1425557328234" record_key="wh_main_effect_economy_gdp_industrygdp_manufacture">
+<bonus_value_id>gdp_manufacture</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_industry</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{ae742acb-b9cf-49b9-a4a3-2c2a29ba4101}" record_timestamp="1440010548638" record_key="wh_main_effect_economy_gdp_manufacturegdp_manufacture">
+<bonus_value_id>gdp_manufacture</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_manufacture</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{dfa4d672-9f3d-4187-9ee8-006e9461bc71}" record_timestamp="1440010548743" record_key="wh_main_effect_economy_gdp_mininggdp_mining">
+<bonus_value_id>gdp_mining</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mining</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{5aa62b0d-5835-4030-bde4-2daf811268d2}" record_timestamp="1425557331963" record_key="wh_main_effect_economy_gdp_mod_agriculture_and_livestock_hordegdp_mod_animal_husbandry">
+<bonus_value_id>gdp_mod_animal_husbandry</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_agriculture_and_livestock_horde</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{764cf3bf-55ea-4d54-8c53-e8f8c8d406ae}" record_timestamp="1425557332041" record_key="wh_main_effect_economy_gdp_mod_agriculture_and_livestock_hordegdp_mod_farming">
+<bonus_value_id>gdp_mod_farming</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_agriculture_and_livestock_horde</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{032acaf5-e61e-48a8-aa2a-2e90f9a8500a}" record_timestamp="1425557331807" record_key="wh_main_effect_economy_gdp_mod_agriculture_and_livestock_hordegdp_mod_fertility_agriculture">
+<bonus_value_id>gdp_mod_fertility_agriculture</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_agriculture_and_livestock_horde</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{684ade8b-63bb-44e5-9c36-9fae59346e98}" record_timestamp="1425557331885" record_key="wh_main_effect_economy_gdp_mod_agriculture_and_livestock_hordegdp_mod_fertility_livestock">
+<bonus_value_id>gdp_mod_fertility_livestock</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_agriculture_and_livestock_horde</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{11ba2810-7b0a-4416-b260-2ce4a7f22084}" record_timestamp="1425557329685" record_key="wh_main_effect_economy_gdp_mod_agriculture_and_livestockgdp_mod_animal_husbandry">
+<bonus_value_id>gdp_mod_animal_husbandry</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_agriculture_and_livestock</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{1b4984e2-e6ed-4da2-8f22-f19aeb94e228}" record_timestamp="1425557329545" record_key="wh_main_effect_economy_gdp_mod_agriculture_and_livestockgdp_mod_farming">
+<bonus_value_id>gdp_mod_farming</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_agriculture_and_livestock</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{37d3dcf5-c29d-4de9-8ad0-d1a3d3ae4c01}" record_timestamp="1425557329607" record_key="wh_main_effect_economy_gdp_mod_agriculture_and_livestockgdp_mod_fertility_agriculture">
+<bonus_value_id>gdp_mod_fertility_agriculture</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_agriculture_and_livestock</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{8bb686b3-95c3-4cfb-94dc-9b253cd7f635}" record_timestamp="1425557329467" record_key="wh_main_effect_economy_gdp_mod_agriculture_and_livestockgdp_mod_fertility_livestock">
+<bonus_value_id>gdp_mod_fertility_livestock</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_agriculture_and_livestock</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{c985a07e-6bcd-42d9-9f7a-58aeca1b4e3d}" record_timestamp="1460466707361" record_key="wh_main_effect_economy_gdp_mod_agriculture_farming_vampiresgdp_mod_fertility_agriculture">
+<bonus_value_id>gdp_mod_fertility_agriculture</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_agriculture_farming_vampires</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{d5b0a3aa-0321-4294-be5c-6c63ab4000be}" record_timestamp="1425557332197" record_key="wh_main_effect_economy_gdp_mod_agriculture_farminggdp_mod_farming">
+<bonus_value_id>gdp_mod_farming</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_agriculture_farming</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{f590a46a-bd19-4c56-a094-0157562b6b89}" record_timestamp="1425557332275" record_key="wh_main_effect_economy_gdp_mod_agriculture_farminggdp_mod_fertility_agriculture">
+<bonus_value_id>gdp_mod_fertility_agriculture</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_agriculture_farming</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{73425435-dc49-4eff-a0f0-881b18f13183}" record_timestamp="1438190769219" record_key="wh_main_effect_economy_gdp_mod_all_adjacent_provincesgdp_mod_all">
+<bonus_value_id>gdp_mod_all</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_all_adjacent_provinces</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{7dc662aa-c1d2-45c1-a64e-8f7794aeca40}" record_timestamp="1449840682568" record_key="wh_main_effect_economy_gdp_mod_all_enemygdp_mod_all">
+<bonus_value_id>gdp_mod_all</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_all_enemy</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{a66aaa3c-6291-47a4-83b2-bc7025c9123f}" record_timestamp="1425557332524" record_key="wh_main_effect_economy_gdp_mod_allgdp_mod_all">
+<bonus_value_id>gdp_mod_all</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_all</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{419a1966-1603-49ad-9e95-6852fa6c7e95}" record_timestamp="1425557335488" record_key="wh_main_effect_economy_gdp_mod_commerce_allgdp_mod_land_trade">
+<bonus_value_id>gdp_mod_land_trade</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_commerce_all</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b63b17ef-68a4-4a8f-8296-2d8d8527b697}" record_timestamp="1425557335410" record_key="wh_main_effect_economy_gdp_mod_commerce_allgdp_mod_local_trade">
+<bonus_value_id>gdp_mod_local_trade</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_commerce_all</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{c301cb8d-38d1-4cb7-b1f9-ca8d94020845}" record_timestamp="1425557335566" record_key="wh_main_effect_economy_gdp_mod_commerce_allgdp_mod_sea_trade">
+<bonus_value_id>gdp_mod_sea_trade</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_commerce_all</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{ccfcc584-6ecf-43f4-8cab-c9e914bda887}" record_timestamp="1425557336346" record_key="wh_main_effect_economy_gdp_mod_commerce_landgdp_mod_local_trade">
+<bonus_value_id>gdp_mod_local_trade</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_commerce_land</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{c48557d1-a205-4c54-946c-c33de0f87445}" record_timestamp="1425557336502" record_key="wh_main_effect_economy_gdp_mod_commerce_seagdp_mod_sea_trade">
+<bonus_value_id>gdp_mod_sea_trade</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_commerce_sea</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b7778c51-6a50-4ec7-9323-99341f64a421}" record_timestamp="1425557338608" record_key="wh_main_effect_economy_gdp_mod_culture_hordegdp_mod_entertainment">
+<bonus_value_id>gdp_mod_entertainment</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_culture_horde</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e8b030f0-d5ed-409c-bb1f-0dc7715be06e}" record_timestamp="1425557338530" record_key="wh_main_effect_economy_gdp_mod_culture_hordegdp_mod_learning">
+<bonus_value_id>gdp_mod_learning</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_culture_horde</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{6fe6be6e-f161-452d-9180-886126fa2d8c}" record_timestamp="1438190759485" record_key="wh_main_effect_economy_gdp_mod_culture_vampiresgdp_mod_entertainment">
+<bonus_value_id>gdp_mod_entertainment</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_culture_vampires</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{07601f86-995c-4062-ba95-1b27809e27b0}" record_timestamp="1425557337594" record_key="wh_main_effect_economy_gdp_mod_culturegdp_mod_entertainment">
+<bonus_value_id>gdp_mod_entertainment</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_culture</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{35039660-fd13-40c5-8d79-284e1f371b54}" record_timestamp="1425557337672" record_key="wh_main_effect_economy_gdp_mod_culturegdp_mod_learning">
+<bonus_value_id>gdp_mod_learning</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_culture</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{3bdc8fe2-90ea-4f87-9484-a884d6b7fe45}" record_timestamp="1425557341604" record_key="wh_main_effect_economy_gdp_mod_industry_and_agriculturegdp_mod_animal_husbandry">
+<bonus_value_id>gdp_mod_animal_husbandry</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_industry_and_agriculture</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{4adc28b4-3871-4994-bf6f-94e92b9630e6}" record_timestamp="1425557341994" record_key="wh_main_effect_economy_gdp_mod_industry_and_agriculturegdp_mod_farming">
+<bonus_value_id>gdp_mod_farming</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_industry_and_agriculture</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{19d38f2a-ada7-4878-b6ad-0e995c1acf26}" record_timestamp="1425557341760" record_key="wh_main_effect_economy_gdp_mod_industry_and_agriculturegdp_mod_fertility_agriculture">
+<bonus_value_id>gdp_mod_fertility_agriculture</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_industry_and_agriculture</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e42779f5-a78e-43ac-b5e8-abcfeea8b90a}" record_timestamp="1425557341682" record_key="wh_main_effect_economy_gdp_mod_industry_and_agriculturegdp_mod_fertility_livestock">
+<bonus_value_id>gdp_mod_fertility_livestock</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_industry_and_agriculture</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{90c4cdcb-cf11-4afd-8b46-93c92dae15a1}" record_timestamp="1425557341838" record_key="wh_main_effect_economy_gdp_mod_industry_and_agriculturegdp_mod_manufacture">
+<bonus_value_id>gdp_mod_manufacture</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_industry_and_agriculture</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{7c0d79d1-518f-4712-b519-d4890a649b9f}" record_timestamp="1425557341916" record_key="wh_main_effect_economy_gdp_mod_industry_and_agriculturegdp_mod_mining">
+<bonus_value_id>gdp_mod_mining</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_industry_and_agriculture</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{5fbf34fa-e45d-49b4-8539-bf5d1a4bd071}" record_timestamp="1425557342555" record_key="wh_main_effect_economy_gdp_mod_industry_hordegdp_mod_manufacture">
+<bonus_value_id>gdp_mod_manufacture</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_industry_horde</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b794c201-35d6-44fd-a7d7-2f210e5b2a60}" record_timestamp="1425557342477" record_key="wh_main_effect_economy_gdp_mod_industry_hordegdp_mod_mining">
+<bonus_value_id>gdp_mod_mining</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_industry_horde</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{fe320b2b-e67a-42e3-b4e0-2cded548eeb4}" record_timestamp="1425557340028" record_key="wh_main_effect_economy_gdp_mod_industrygdp_mod_manufacture">
+<bonus_value_id>gdp_mod_manufacture</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_industry</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{24eaceb0-087a-4b25-9dd4-9cfa6a1e52f7}" record_timestamp="1425557340106" record_key="wh_main_effect_economy_gdp_mod_industrygdp_mod_mining">
+<bonus_value_id>gdp_mod_mining</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_industry</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{748dee17-9f8a-4000-b4ee-87652eb5c2ec}" record_timestamp="1456158983849" record_key="wh_main_effect_economy_gdp_mod_livestock_vampiresgdp_mod_animal_husbandry">
+<bonus_value_id>gdp_mod_animal_husbandry</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_livestock_vampires</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{579ba279-924c-4b16-8874-af2392e498bf}" record_timestamp="1425557342789" record_key="wh_main_effect_economy_gdp_mod_livestockgdp_mod_animal_husbandry">
+<bonus_value_id>gdp_mod_animal_husbandry</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_livestock</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{eea8ae9e-3d72-493a-b716-20abb6def4cc}" record_timestamp="1425557342711" record_key="wh_main_effect_economy_gdp_mod_livestockgdp_mod_fertility_livestock">
+<bonus_value_id>gdp_mod_fertility_livestock</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_livestock</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{715ddd11-22d7-466c-bbdd-bab1c8c46a01}" record_timestamp="1425557342945" record_key="wh_main_effect_economy_gdp_mod_subsistencegdp_mod_subsistence">
+<bonus_value_id>gdp_mod_subsistence</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_mod_subsistence</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{f6c824f0-f0e7-4cdc-8d87-2abd0f5ddfc8}" record_timestamp="1425557343335" record_key="wh_main_effect_economy_gdp_subsistancegdp_subsistence">
+<bonus_value_id>gdp_subsistence</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_subsistance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{9e5c1de0-f989-46da-abc2-bfe1c187f0d6}" record_timestamp="1425557343507" record_key="wh_main_effect_economy_gdp_trade_localgdp_local_trade">
+<bonus_value_id>gdp_local_trade</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_trade_local</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{52eb5b00-8c4c-4bc1-80c6-09812ebda5e3}" record_timestamp="1425557343663" record_key="wh_main_effect_economy_gdp_trade_seagdp_sea_trade">
+<bonus_value_id>gdp_sea_trade</bonus_value_id>
+<effect>wh_main_effect_economy_gdp_trade_sea</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{da9e0bb4-69cc-4f3a-b40f-6bf462f38d16}" record_timestamp="1425557344583" record_key="wh_main_effect_economy_tax_modtax_bonus_technology">
+<bonus_value_id>tax_bonus_technology</bonus_value_id>
+<effect>wh_main_effect_economy_tax_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{2266b02a-c550-49c2-9e82-505eb1523a87}" record_timestamp="1449152128641" record_key="wh_main_effect_economy_trade_good_commodity_modresource_production_mod">
+<bonus_value_id>resource_production_mod</bonus_value_id>
+<effect>wh_main_effect_economy_trade_good_commodity_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{431195c3-6eb8-47af-9666-9f80727fb7a7}" record_timestamp="1425557346176" record_key="wh_main_effect_economy_trade_tariff_modtrade_income_mod">
+<bonus_value_id>trade_income_mod</bonus_value_id>
+<effect>wh_main_effect_economy_trade_tariff_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{7894d77d-2e36-430a-9e01-4196a79f344a}" record_timestamp="1459933528674" record_key="wh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordesmercenary_levy_can_recruit_from_local_hordes">
+<bonus_value_id>mercenary_levy_can_recruit_from_local_hordes</bonus_value_id>
+<effect>wh_main_effect_faction_mercenary_levy_can_recruit_from_local_hordes</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{33dc2c50-aaa6-4210-a0d7-930af5fee5ac}" record_timestamp="1459933528635" record_key="wh_main_effect_faction_mercenary_levy_units_per_region_modmercenary_levy_units_per_region_mod">
+<bonus_value_id>mercenary_levy_units_per_region_mod</bonus_value_id>
+<effect>wh_main_effect_faction_mercenary_levy_units_per_region_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{8c142fd5-bf5b-43ed-bc9a-41a1613e24a4}" record_timestamp="1463569400224" record_key="wh_main_effect_force_all_campaign_captivescaptives_taken_mod">
+<bonus_value_id>captives_taken_mod</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_captives</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{d8a28ac1-08af-40b4-b0fd-e9313d274d3a}" record_timestamp="1425557392260" record_key="wh_main_effect_force_all_campaign_enable_disease_attritionenable_disease_attrition">
+<bonus_value_id>enable_disease_attrition</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_enable_disease_attrition</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{0b8fbb44-2529-4010-8942-089aa613375e}" record_timestamp="1448018170016" record_key="wh_main_effect_force_all_campaign_loot_incomelooting_mod">
+<bonus_value_id>looting_mod</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_loot_income</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{bc360a01-f50a-4754-ada4-694dc1541d0d}" record_timestamp="1442218940602" record_key="wh_main_effect_force_all_campaign_military_morale_factor_fortify_stancemilitary_force_morale_modifier_fortify_stance">
+<bonus_value_id>military_force_morale_modifier_fortify_stance</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_military_morale_factor_fortify_stance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{1c39335f-cae6-460b-b7cc-fc0cad900ff1}" record_timestamp="1455630111989" record_key="wh_main_effect_force_all_campaign_military_morale_factor_politicsmilitary_force_morale_modifier_politics">
+<bonus_value_id>military_force_morale_modifier_politics</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_military_morale_factor_politics</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{761697e8-a084-4a60-bcad-952146830cff}" record_timestamp="1456826376026" record_key="wh_main_effect_force_all_campaign_military_morale_factor_taxmilitary_force_morale_modifier_tax">
+<bonus_value_id>military_force_morale_modifier_tax</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_military_morale_factor_tax</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b534594c-2f48-4fa8-825e-7ed6e989ee4a}" record_timestamp="1425557407411" record_key="wh_main_effect_force_all_campaign_movement_rangemod_land_movement_campaign">
+<bonus_value_id>mod_land_movement_campaign</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_movement_range</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{3ef54f6a-0f9b-4a80-8f14-b8312bee33c2}" record_timestamp="1425557407318" record_key="wh_main_effect_force_all_campaign_movement_rangemod_ship_movement_campaign">
+<bonus_value_id>mod_ship_movement_campaign</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_movement_range</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{15bb410a-185d-4fd2-b029-41010c6c9c22}" record_timestamp="1474304370512" record_key="wh_main_effect_force_all_campaign_post_battle_loot_mod_hiddenpost_battle_loot_mod">
+<bonus_value_id>post_battle_loot_mod</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_post_battle_loot_mod_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{67964aab-ff45-4f83-9abf-fcedb8ffdb9f}" record_timestamp="1448550911746" record_key="wh_main_effect_force_all_campaign_post_battle_loot_modpost_battle_loot_mod">
+<bonus_value_id>post_battle_loot_mod</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_post_battle_loot_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{30ccc740-a471-4d97-ba91-ba6616708824}" record_timestamp="1425557409720" record_key="wh_main_effect_force_all_campaign_raid_incomeraid_income_mod">
+<bonus_value_id>raid_income_mod</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_raid_income</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{28e9f3d1-dc9c-4ec3-a0a2-a7aae0506b10}" record_timestamp="1425557409892" record_key="wh_main_effect_force_all_campaign_razing_incomerazing_mod">
+<bonus_value_id>razing_mod</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_razing_income</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{844d8b16-2f9c-422f-b945-ca3b769b2f67}" record_timestamp="1466003341616" record_key="wh_main_effect_force_all_campaign_recruitment_cost_all_not_shownrecruitment_mod_cost_land_all">
+<bonus_value_id>recruitment_mod_cost_land_all</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_recruitment_cost_all_not_shown</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e6de9a5e-c006-4a4e-ad60-bbe682396090}" record_timestamp="1466003341629" record_key="wh_main_effect_force_all_campaign_recruitment_cost_all_not_shownrecruitment_mod_cost_naval_all">
+<bonus_value_id>recruitment_mod_cost_naval_all</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_recruitment_cost_all_not_shown</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b9534119-bafe-4db7-a0d5-c942e20119f8}" record_timestamp="1425557411733" record_key="wh_main_effect_force_all_campaign_recruitment_cost_allrecruitment_mod_cost_land_all">
+<bonus_value_id>recruitment_mod_cost_land_all</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_recruitment_cost_all</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{5a02c9c1-a62b-4dca-bf90-ca05473d728a}" record_timestamp="1425557411639" record_key="wh_main_effect_force_all_campaign_recruitment_cost_allrecruitment_mod_cost_naval_all">
+<bonus_value_id>recruitment_mod_cost_naval_all</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_recruitment_cost_all</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{096e3b11-d7d4-4060-9c50-9e7090339f27}" record_timestamp="1425557414463" record_key="wh_main_effect_force_all_campaign_reinforcement_rangereinforcement_radius_bonus">
+<bonus_value_id>reinforcement_radius_bonus</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_reinforcement_range</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b44be981-f484-4105-aad3-73c796b24b6a}" record_timestamp="1458755961619" record_key="wh_main_effect_force_all_campaign_replenishment_ratereplenishment_percentage_bonus">
+<bonus_value_id>replenishment_percentage_bonus</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_replenishment_rate</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{07242944-703f-40fb-8176-7f4351385930}" record_timestamp="1445592975656" record_key="wh_main_effect_force_all_campaign_sacking_incomesacking_mod">
+<bonus_value_id>sacking_mod</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_sacking_income</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{dae2afd8-e217-4fda-8315-68c1254f7f1d}" record_timestamp="1425557420830" record_key="wh_main_effect_force_all_campaign_stance_ap_coststance_ap_cost_refundable_on_off">
+<bonus_value_id>stance_ap_cost_refundable_on_off</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_stance_ap_cost</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{2300cc7c-359c-4a21-96ff-8f17064247d3}" record_timestamp="1425557420736" record_key="wh_main_effect_force_all_campaign_stance_ap_coststance_ap_percentage_cost">
+<bonus_value_id>stance_ap_percentage_cost</bonus_value_id>
+<effect>wh_main_effect_force_all_campaign_stance_ap_cost</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{983702f7-5d88-4892-ae3f-1d538169ae6a}" record_timestamp="1425557427466" record_key="wh_main_effect_force_all_recruitment_pointsrecruitment_points">
+<bonus_value_id>recruitment_points</bonus_value_id>
+<effect>wh_main_effect_force_all_recruitment_points</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{16a57a39-6959-44d2-992c-18251e6c0910}" record_timestamp="1425557434999" record_key="wh_main_effect_force_army_battle_charge_bonuscharge_bonus_for_land_units">
+<bonus_value_id>charge_bonus_for_land_units</bonus_value_id>
+<effect>wh_main_effect_force_army_battle_charge_bonus</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e35c8ed4-b71a-4b39-ae81-765b50f8f6fc}" record_timestamp="1425557439765" record_key="wh_main_effect_force_army_battle_enemy_unit_moralemorale">
+<bonus_value_id>morale</bonus_value_id>
+<effect>wh_main_effect_force_army_battle_enemy_unit_morale</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{df816f65-a0fe-422e-91d5-36163b6a2dc7}" record_timestamp="1425557447732" record_key="wh_main_effect_force_army_campaign_ambush_attack_success_chanceambush_chance_of_success_attack_bonus">
+<bonus_value_id>ambush_chance_of_success_attack_bonus</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_ambush_attack_success_chance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{cc8ff012-7fbf-4dd5-858b-f29fe29d3d38}" record_timestamp="1425557447889" record_key="wh_main_effect_force_army_campaign_ambush_defence_success_chanceambush_chance_of_success_defence_bonus">
+<bonus_value_id>ambush_chance_of_success_defence_bonus</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_ambush_defence_success_chance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{8ad0d288-33aa-4652-987e-c7119495d384}" record_timestamp="1425557458705" record_key="wh_main_effect_force_army_campaign_local_happiness_repressionprovince_public_order_happiness_military_activity_factor">
+<bonus_value_id>province_public_order_happiness_military_activity_factor</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_local_happiness_repression</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e98ec64c-7e29-4911-b276-0c7f2fa07845}" record_timestamp="1425557459678" record_key="wh_main_effect_force_army_campaign_military_morale_add_enemy_territorymilitary_force_morale_modifier_foreign_territory">
+<bonus_value_id>military_force_morale_modifier_foreign_territory</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_military_morale_add_enemy_territory</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{309d0a43-81e3-4440-aeff-72a017ef45cf}" record_timestamp="1425557462848" record_key="wh_main_effect_force_army_campaign_movement_rangemod_land_movement_campaign">
+<bonus_value_id>mod_land_movement_campaign</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_movement_range</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b30ac93c-cf1f-4cdf-b83c-ac99400b2958}" record_timestamp="1425557463985" record_key="wh_main_effect_force_army_campaign_recruitment_cost_landrecruitment_mod_cost_land_all">
+<bonus_value_id>recruitment_mod_cost_land_all</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_recruitment_cost_land</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{57fd71d2-cf61-4506-bb85-e2daedbf3f42}" record_timestamp="1425557466198" record_key="wh_main_effect_force_army_campaign_recruitment_pointsrecruitment_points">
+<bonus_value_id>recruitment_points</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_recruitment_points</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{3d71a50b-5b6f-4c5a-9896-0b9390c7703b}" record_timestamp="1425557466487" record_key="wh_main_effect_force_army_campaign_siege_attack_holdout_timesiege_time_reduction_for_attacker">
+<bonus_value_id>siege_time_reduction_for_attacker</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_siege_attack_holdout_time</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{98de1efd-c308-437f-97cc-56a956c728bd}" record_timestamp="1448012636352" record_key="wh_main_effect_force_army_campaign_siege_defend_holdout_time_hiddensiege_time_mod">
+<bonus_value_id>siege_time_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_siege_defend_holdout_time_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{1f5729d3-d979-40ae-a145-6637ccc82cb5}" record_timestamp="1425557466769" record_key="wh_main_effect_force_army_campaign_siege_defend_holdout_timesiege_time_mod">
+<bonus_value_id>siege_time_mod</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_siege_defend_holdout_time</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{ee3ed2c9-5af2-475d-8f91-996ea856512c}" record_timestamp="1437050589716" record_key="wh_main_effect_force_army_campaign_tunnelling_evasion_chancetunnel_interception_evasion_chance">
+<bonus_value_id>tunnel_interception_evasion_chance</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_tunnelling_evasion_chance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{c1cd0421-6df6-454f-96f1-959bc80fb5b6}" record_timestamp="1425557470658" record_key="wh_main_effect_force_army_campaign_upkeep_landupkeep_cost_mod_land_all">
+<bonus_value_id>upkeep_cost_mod_land_all</bonus_value_id>
+<effect>wh_main_effect_force_army_campaign_upkeep_land</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{62bda4f1-61af-420d-866a-baca5b764f84}" record_timestamp="1425557472793" record_key="wh_main_effect_force_building_cost_modmilitary_force_building_cost_mod">
+<bonus_value_id>military_force_building_cost_mod</bonus_value_id>
+<effect>wh_main_effect_force_building_cost_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{6785bffb-482a-457c-90e1-5c8f1d518253}" record_timestamp="1425557476153" record_key="wh_main_effect_force_campaign_morale_neighbouring_warsmorale_bonus_for_concurrent_wars">
+<bonus_value_id>morale_bonus_for_concurrent_wars</bonus_value_id>
+<effect>wh_main_effect_force_campaign_morale_neighbouring_wars</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e5cd0144-4782-400e-85d9-e49390210f4f}" record_timestamp="1425557476349" record_key="wh_main_effect_force_campaign_stance_begin_fatigued_3_windedunit_starting_fatigue_state">
+<bonus_value_id>unit_starting_fatigue_state</bonus_value_id>
+<effect>wh_main_effect_force_campaign_stance_begin_fatigued_3_winded</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{dca92ae2-3542-4964-8337-90feee38d8fb}" record_timestamp="1425557476935" record_key="wh_main_effect_force_campaign_stance_begin_fatigued_4_tiredunit_starting_fatigue_state">
+<bonus_value_id>unit_starting_fatigue_state</bonus_value_id>
+<effect>wh_main_effect_force_campaign_stance_begin_fatigued_4_tired</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{0a3bef6e-12c9-494d-9bc5-6e7d1ff03c6c}" record_timestamp="1425557486994" record_key="wh_main_effect_force_navy_campaign_local_piracyregion_gdp_trade_piracy_effect_mod">
+<bonus_value_id>region_gdp_trade_piracy_effect_mod</bonus_value_id>
+<effect>wh_main_effect_force_navy_campaign_local_piracy</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{275b492b-636f-4824-98f0-ce122adf4139}" record_timestamp="1425557489489" record_key="wh_main_effect_force_navy_campaign_movement_rangemod_ship_movement_campaign">
+<bonus_value_id>mod_ship_movement_campaign</bonus_value_id>
+<effect>wh_main_effect_force_navy_campaign_movement_range</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{4c096948-9259-461f-8514-c05e55f50936}" record_timestamp="1425557490758" record_key="wh_main_effect_force_navy_campaign_recruitment_pointsnaval_recruitment_points">
+<bonus_value_id>naval_recruitment_points</bonus_value_id>
+<effect>wh_main_effect_force_navy_campaign_recruitment_points</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{30df826e-f4e5-4b7c-9abf-42b413d83e8b}" record_timestamp="1425557491541" record_key="wh_main_effect_force_navy_campaign_upkeep_navalupkeep_cost_mod_naval_all">
+<bonus_value_id>upkeep_cost_mod_naval_all</bonus_value_id>
+<effect>wh_main_effect_force_navy_campaign_upkeep_naval</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e8604a6f-9f28-4053-98ba-772a061063fa}" record_timestamp="1425557494290" record_key="wh_main_effect_force_unit_stat_ammunitionammo_mod">
+<bonus_value_id>ammo_mod</bonus_value_id>
+<effect>wh_main_effect_force_unit_stat_ammunition</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{f8ff8a61-ee02-4508-8a30-e59b89b176a0}" record_timestamp="1425557494857" record_key="wh_main_effect_force_unit_stat_armourarmour_mod">
+<bonus_value_id>armour_mod</bonus_value_id>
+<effect>wh_main_effect_force_unit_stat_armour</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{aa1af01a-20ce-4f3b-9b92-9ed88991dc06}" record_timestamp="1425557498034" record_key="wh_main_effect_force_unit_stat_melee_attackmelee_attack_mod">
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect>wh_main_effect_force_unit_stat_melee_attack</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e864a97c-307d-4514-95ed-d75e3b7caa5e}" record_timestamp="1425557501180" record_key="wh_main_effect_force_unit_stat_melee_defencemelee_defence_mod">
+<bonus_value_id>melee_defence_mod</bonus_value_id>
+<effect>wh_main_effect_force_unit_stat_melee_defence</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{c17cc61a-a354-427b-8bb5-e3fbfb56e046}" record_timestamp="1425557502749" record_key="wh_main_effect_force_unit_stat_missile_firing_ratemod_reload_land">
+<bonus_value_id>mod_reload_land</bonus_value_id>
+<effect>wh_main_effect_force_unit_stat_missile_firing_rate</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{cbc02f2d-852c-4b33-a57a-a79031c84b17}" record_timestamp="1425557502839" record_key="wh_main_effect_force_unit_stat_missile_firing_ratemod_reload_naval">
+<bonus_value_id>mod_reload_naval</bonus_value_id>
+<effect>wh_main_effect_force_unit_stat_missile_firing_rate</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{fa86a477-af87-4686-a322-83cab350a76e}" record_timestamp="1425557503489" record_key="wh_main_effect_force_unit_stat_moralemorale">
+<bonus_value_id>morale</bonus_value_id>
+<effect>wh_main_effect_force_unit_stat_morale</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{7a5161c9-721b-4dca-bccb-cf728152cca4}" record_timestamp="1428932018847" record_key="wh_main_effect_general_mod_tunnel_interception_chancetunnel_interception_chance">
+<bonus_value_id>tunnel_interception_chance</bonus_value_id>
+<effect>wh_main_effect_general_mod_tunnel_interception_chance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{4cd48773-f2a2-46d7-b9a0-c7f175ad8e3b}" record_timestamp="1425557530776" record_key="wh_main_effect_growth_allprovince_development_growth_added_building">
+<bonus_value_id>province_development_growth_added_building</bonus_value_id>
+<effect>wh_main_effect_growth_all</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{1ac3cea2-591d-4094-b08e-e30d5a42c48f}" record_timestamp="1425557530932" record_key="wh_main_effect_horde_building_gdp_mod_allgdp_mod_all">
+<bonus_value_id>gdp_mod_all</bonus_value_id>
+<effect>wh_main_effect_horde_building_gdp_mod_all</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{5cad3a03-6490-413c-b6b9-9e4af8a2c99f}" record_timestamp="1425557531665" record_key="wh_main_effect_horde_unit_replenishment_hiddenunrestricted_replenishment_bonus">
+<bonus_value_id>unrestricted_replenishment_bonus</bonus_value_id>
+<effect>wh_main_effect_horde_unit_replenishment_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{f15bae2b-f5a1-4ba3-a3a3-aa6f5173e0dd}" record_timestamp="1425557532227" record_key="wh_main_effect_hordebuilding_growth_charactersmilitary_force_development_growth_characters">
+<bonus_value_id>military_force_development_growth_characters</bonus_value_id>
+<effect>wh_main_effect_hordebuilding_growth_characters</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{daa560cc-350c-4845-86ee-378767ca0c78}" record_timestamp="1425557532788" record_key="wh_main_effect_hordebuilding_growth_coremilitary_force_development_growth_core">
+<bonus_value_id>military_force_development_growth_core</bonus_value_id>
+<effect>wh_main_effect_hordebuilding_growth_core</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b7d9def8-9f66-487d-add3-dfcb617a37d0}" record_timestamp="1425557533100" record_key="wh_main_effect_hordebuilding_growth_events_factionmilitary_force_development_growth_events">
+<bonus_value_id>military_force_development_growth_events</bonus_value_id>
+<effect>wh_main_effect_hordebuilding_growth_events_faction</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{d208ca0b-02c9-4d10-85c0-43ec8b95dc1f}" record_timestamp="1435153017113" record_key="wh_main_effect_hordebuilding_growth_if_settled_stance_variantmilitary_force_development_growth_stance_settled">
+<bonus_value_id>military_force_development_growth_stance_settled</bonus_value_id>
+<effect>wh_main_effect_hordebuilding_growth_if_settled_stance_variant</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{baf9580d-83db-449c-b1d5-3c3f07e89353}" record_timestamp="1425557533740" record_key="wh_main_effect_hordebuilding_growth_if_settledmilitary_force_development_growth_stance_settled">
+<bonus_value_id>military_force_development_growth_stance_settled</bonus_value_id>
+<effect>wh_main_effect_hordebuilding_growth_if_settled</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{9899019c-2ccb-4c57-a439-2db61d8316ba}" record_timestamp="1425557534223" record_key="wh_main_effect_hordebuilding_growth_stancemilitary_force_development_growth_stance">
+<bonus_value_id>military_force_development_growth_stance</bonus_value_id>
+<effect>wh_main_effect_hordebuilding_growth_stance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{9a230238-7df7-4b58-906b-9c66cd3a29fc}" record_timestamp="1425557534379" record_key="wh_main_effect_hordebuilding_growth_techmilitary_force_development_growth_tech">
+<bonus_value_id>military_force_development_growth_tech</bonus_value_id>
+<effect>wh_main_effect_hordebuilding_growth_tech</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{6dc5a998-d0af-443f-b0a1-b9b7781b1df3}" record_timestamp="1456995030101" record_key="wh_main_effect_military_force_winds_of_magic_depletion_mod_agent_actions_enemymax_winds_of_magic_depletion_mod_agent_actions">
+<bonus_value_id>max_winds_of_magic_depletion_mod_agent_actions</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_depletion_mod_agent_actions_enemy</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{89e1fb89-8d55-4136-bac7-0f5ed4cccd59}" record_timestamp="1456995030162" record_key="wh_main_effect_military_force_winds_of_magic_depletion_mod_agent_actionsmax_winds_of_magic_depletion_mod_agent_actions">
+<bonus_value_id>max_winds_of_magic_depletion_mod_agent_actions</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_depletion_mod_agent_actions</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{4982de38-6ce7-4a84-ad5d-2fe8d5a8def4}" record_timestamp="1456995030131" record_key="wh_main_effect_military_force_winds_of_magic_depletion_mod_character_enemymax_winds_of_magic_depletion_mod_character">
+<bonus_value_id>max_winds_of_magic_depletion_mod_character</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_depletion_mod_character_enemy</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b5b00b93-4445-49e8-be60-05080d3fa5d2}" record_timestamp="1456995030116" record_key="wh_main_effect_military_force_winds_of_magic_depletion_mod_charactermax_winds_of_magic_depletion_mod_character">
+<bonus_value_id>max_winds_of_magic_depletion_mod_character</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_depletion_mod_character</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b6b5a329-a15c-4aae-aa15-feaea2da97ee}" record_timestamp="1456995030229" record_key="wh_main_effect_military_force_winds_of_magic_depletion_mod_events_enemymax_winds_of_magic_depletion_mod_events">
+<bonus_value_id>max_winds_of_magic_depletion_mod_events</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_depletion_mod_events_enemy</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{5cdaa586-08ff-450b-b1d3-6e7ea3f29edb}" record_timestamp="1456995030147" record_key="wh_main_effect_military_force_winds_of_magic_depletion_mod_eventsmax_winds_of_magic_depletion_mod_events">
+<bonus_value_id>max_winds_of_magic_depletion_mod_events</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_depletion_mod_events</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{9e23df18-6017-4e40-8037-06e071bb003c}" record_timestamp="1456995030024" record_key="wh_main_effect_military_force_winds_of_magic_depletion_mod_items_enemymax_winds_of_magic_depletion_mod_items">
+<bonus_value_id>max_winds_of_magic_depletion_mod_items</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_depletion_mod_items_enemy</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{0d2fd775-307f-4cff-b849-378e165233a2}" record_timestamp="1456995030247" record_key="wh_main_effect_military_force_winds_of_magic_depletion_mod_itemsmax_winds_of_magic_depletion_mod_items">
+<bonus_value_id>max_winds_of_magic_depletion_mod_items</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_depletion_mod_items</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{76b4edc3-d1d5-4488-a3ab-13bf690c4499}" record_timestamp="1456994977247" record_key="wh_main_effect_military_force_winds_of_magic_depletion_mod_other_enemymax_winds_of_magic_depletion_mod">
+<bonus_value_id>max_winds_of_magic_depletion_mod</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_depletion_mod_other_enemy</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{eb28599e-a224-41ea-974c-1c2e53827d37}" record_timestamp="1456994976661" record_key="wh_main_effect_military_force_winds_of_magic_depletion_mod_othermax_winds_of_magic_depletion_mod">
+<bonus_value_id>max_winds_of_magic_depletion_mod</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_depletion_mod_other</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{47822b38-d7a7-4fb4-9713-430d9bb237a5}" record_timestamp="1456995030179" record_key="wh_main_effect_military_force_winds_of_magic_depletion_mod_region_enemymax_winds_of_magic_depletion_mod_region">
+<bonus_value_id>max_winds_of_magic_depletion_mod_region</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_depletion_mod_region_enemy</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{aa347a51-2c54-4b4e-8e0c-aebf5d14856c}" record_timestamp="1456995030077" record_key="wh_main_effect_military_force_winds_of_magic_depletion_mod_regionmax_winds_of_magic_depletion_mod_region">
+<bonus_value_id>max_winds_of_magic_depletion_mod_region</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_depletion_mod_region</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{44e887c6-b9d6-407c-a78d-ade8c6b290bc}" record_timestamp="1456995438660" record_key="wh_main_effect_military_force_winds_of_magic_depletion_mod_stance_enemymax_winds_of_magic_depletion_mod_stances">
+<bonus_value_id>max_winds_of_magic_depletion_mod_stances</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_depletion_mod_stance_enemy</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{48787eac-ccb6-4a66-aacf-adfc2169d545}" record_timestamp="1456995438593" record_key="wh_main_effect_military_force_winds_of_magic_depletion_mod_stancemax_winds_of_magic_depletion_mod_stances">
+<bonus_value_id>max_winds_of_magic_depletion_mod_stances</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_depletion_mod_stance</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{08b979a2-0555-4072-b697-4f9cb587c2f8}" record_timestamp="1435826820260" record_key="wh_main_effect_military_force_winds_of_magic_starting_mod_enemystarting_winds_of_magic_mod">
+<bonus_value_id>starting_winds_of_magic_mod</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_starting_mod_enemy</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{33c1281b-615d-4fd6-a911-5fcbf3892050}" record_timestamp="1434465120079" record_key="wh_main_effect_military_force_winds_of_magic_starting_modstarting_winds_of_magic_mod">
+<bonus_value_id>starting_winds_of_magic_mod</bonus_value_id>
+<effect>wh_main_effect_military_force_winds_of_magic_starting_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{5e6c9c69-5d53-43d6-a4c3-05e3048ae865}" record_timestamp="1445012109133" record_key="wh_main_effect_modify_vassal_incomeextra_income_from_vassals">
+<bonus_value_id>extra_income_from_vassals</bonus_value_id>
+<effect>wh_main_effect_modify_vassal_income</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{77169e7b-df53-4b26-ba95-d07feb8c29a2}" record_timestamp="1425557536454" record_key="wh_main_effect_occupation_decision_colonise_cost_zerooccupation_decision_colonise_cost_mod">
+<bonus_value_id>occupation_decision_colonise_cost_mod</bonus_value_id>
+<effect>wh_main_effect_occupation_decision_colonise_cost_zero</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{4bef0f14-a829-4448-943b-57bc9d9d0847}" record_timestamp="1425557537593" record_key="wh_main_effect_politics_political_action_political_support_cost_modpolitical_action_power_cost_mod">
+<bonus_value_id>political_action_power_cost_mod</bonus_value_id>
+<effect>wh_main_effect_politics_political_action_political_support_cost_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{288f1378-a554-4a47-abe3-319b8b5a3656}" record_timestamp="1425557537749" record_key="wh_main_effect_politics_political_event_occurence_modpolitical_event_chance_mod_overall">
+<bonus_value_id>political_event_chance_mod_overall</bonus_value_id>
+<effect>wh_main_effect_politics_political_event_occurence_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{406fd1a6-8275-42e3-a6d0-9c873e0cdba8}" record_timestamp="1425557550225" record_key="wh_main_effect_province_food_shortage_development_growth_penaltyprovince_development_growth_added_food">
+<bonus_value_id>province_development_growth_added_food</bonus_value_id>
+<effect>wh_main_effect_province_food_shortage_development_growth_penalty</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{79ba3736-0364-400b-8b85-34cfeb461063}" record_timestamp="1425557550483" record_key="wh_main_effect_province_food_shortage_disable_replenishmentcancel_all_replenishment_in_region">
+<bonus_value_id>cancel_all_replenishment_in_region</bonus_value_id>
+<effect>wh_main_effect_province_food_shortage_disable_replenishment</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{67142d52-8029-4450-8faf-8a46e5d63089}" record_timestamp="1425557550994" record_key="wh_main_effect_province_food_shortage_enable_desertion_attrition_for_own_forcesenable_desertion_attrition_for_own_forces_in_region">
+<bonus_value_id>enable_desertion_attrition_for_own_forces_in_region</bonus_value_id>
+<effect>wh_main_effect_province_food_shortage_enable_desertion_attrition_for_own_forces</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{77bed631-acf4-4573-b19f-dcaa879494dc}" record_timestamp="1425557551340" record_key="wh_main_effect_province_food_shortage_public_order_happinessprovince_public_order_happiness_food_factor">
+<bonus_value_id>province_public_order_happiness_food_factor</bonus_value_id>
+<effect>wh_main_effect_province_food_shortage_public_order_happiness</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{ca54ad93-744b-492e-8d30-c67b8921334c}" record_timestamp="1425557551688" record_key="wh_main_effect_province_food_shortage_remove_all_growthprovince_cancel_all_growth_in_province">
+<bonus_value_id>province_cancel_all_growth_in_province</bonus_value_id>
+<effect>wh_main_effect_province_food_shortage_remove_all_growth</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{6f0d3219-2c7e-4a45-8a89-ef2ffe8e3f55}" record_timestamp="1425557552119" record_key="wh_main_effect_province_food_surplus_development_growth_benefitprovince_development_growth_added_food">
+<bonus_value_id>province_development_growth_added_food</bonus_value_id>
+<effect>wh_main_effect_province_food_surplus_development_growth_benefit</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{2ed91e00-1012-479c-b3fc-133d5b1ca218}" record_timestamp="1425557552547" record_key="wh_main_effect_province_growth_armiesprovince_development_growth_added_armies">
+<bonus_value_id>province_development_growth_added_armies</bonus_value_id>
+<effect>wh_main_effect_province_growth_armies</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{db63dd1f-0a44-4527-865d-b30eb24216f8}" record_timestamp="1425557552723" record_key="wh_main_effect_province_growth_buildingprovince_development_growth_added_building">
+<bonus_value_id>province_development_growth_added_building</bonus_value_id>
+<effect>wh_main_effect_province_growth_building</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{577c651b-cf8f-487b-aabe-30ce441c8fee}" record_timestamp="1425557553074" record_key="wh_main_effect_province_growth_charactersprovince_development_growth_added_character">
+<bonus_value_id>province_development_growth_added_character</bonus_value_id>
+<effect>wh_main_effect_province_growth_characters</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{867b48b6-69c6-4bd3-8fd5-91f6d760076c}" record_timestamp="1425557553251" record_key="wh_main_effect_province_growth_foodprovince_development_growth_added_food">
+<bonus_value_id>province_development_growth_added_food</bonus_value_id>
+<effect>wh_main_effect_province_growth_food</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{6d7eabdc-40e2-4589-8cec-931a8b1868c0}" record_timestamp="1425557553426" record_key="wh_main_effect_province_growth_otherprovince_development_growth_added_other">
+<bonus_value_id>province_development_growth_added_other</bonus_value_id>
+<effect>wh_main_effect_province_growth_other</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{dc3c0cc7-fb02-4574-9b2e-5237d8c2c2dc}" record_timestamp="1425557553600" record_key="wh_main_effect_province_growth_provinceprovince_development_growth_added_province">
+<bonus_value_id>province_development_growth_added_province</bonus_value_id>
+<effect>wh_main_effect_province_growth_province</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{9b71a91b-1c8b-4f95-8ba6-88a66ca63404}" record_timestamp="1425557557429" record_key="wh_main_effect_province_growth_taxesprovince_development_growth_added_taxes">
+<bonus_value_id>province_development_growth_added_taxes</bonus_value_id>
+<effect>wh_main_effect_province_growth_taxes</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{21669a75-c448-4c9a-aaf1-b8273230b2cc}" record_timestamp="1425557558022" record_key="wh_main_effect_province_growth_techprovince_development_growth_added_technology">
+<bonus_value_id>province_development_growth_added_technology</bonus_value_id>
+<effect>wh_main_effect_province_growth_tech</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{f556790c-2df6-42e0-b0a5-cc0e330e0edc}" record_timestamp="1425557561177" record_key="wh_main_effect_province_tax_ratetax_bonus_building">
+<bonus_value_id>tax_bonus_building</bonus_value_id>
+<effect>wh_main_effect_province_tax_rate</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{aed555ff-8bd7-4ed5-985f-169e881a9f6d}" record_timestamp="1425557563197" record_key="wh_main_effect_public_order_baseprovince_public_order_happiness_building_positive_factor">
+<bonus_value_id>province_public_order_happiness_building_positive_factor</bonus_value_id>
+<effect>wh_main_effect_public_order_base</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{319def20-9c49-41c3-9979-9dcc1238a0f9}" record_timestamp="1457017608598" record_key="wh_main_effect_public_order_characters_negativeprovince_public_order_happiness_character_factor">
+<bonus_value_id>province_public_order_happiness_character_factor</bonus_value_id>
+<effect>wh_main_effect_public_order_characters_negative</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{65307b5f-7bd4-4b4d-8893-f43ac09af78a}" record_timestamp="1425557566355" record_key="wh_main_effect_public_order_charactersprovince_public_order_happiness_character_factor">
+<bonus_value_id>province_public_order_happiness_character_factor</bonus_value_id>
+<effect>wh_main_effect_public_order_characters</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{60a86a74-8c31-45d8-8026-982bc4422c92}" record_timestamp="1425557567348" record_key="wh_main_effect_public_order_difficulty_levelprovince_public_order_happiness_baseline_factor">
+<bonus_value_id>province_public_order_happiness_baseline_factor</bonus_value_id>
+<effect>wh_main_effect_public_order_difficulty_level</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{860ffbaa-cca6-4035-86c1-dab1f277c2c6}" record_timestamp="1447691498073" record_key="wh_main_effect_public_order_edictprovince_public_order_happiness_family_power">
+<bonus_value_id>province_public_order_happiness_family_power</bonus_value_id>
+<effect>wh_main_effect_public_order_edict</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{21fc685c-e0a3-4fde-8ebf-f79573ccb29e}" record_timestamp="1425557567517" record_key="wh_main_effect_public_order_eventsprovince_public_order_happiness_events_factor">
+<bonus_value_id>province_public_order_happiness_events_factor</bonus_value_id>
+<effect>wh_main_effect_public_order_events</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{598d92eb-4114-46cf-8df1-52bfccd58467}" record_timestamp="1449499589140" record_key="wh_main_effect_public_order_factionprovince_public_order_happiness_faction_factor">
+<bonus_value_id>province_public_order_happiness_faction_factor</bonus_value_id>
+<effect>wh_main_effect_public_order_faction</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{23d45918-912e-4f2c-b2da-ca0ddc5709b4}" record_timestamp="1425557569971" record_key="wh_main_effect_public_order_globalprovince_public_order_happiness_building_positive_factor">
+<bonus_value_id>province_public_order_happiness_building_positive_factor</bonus_value_id>
+<effect>wh_main_effect_public_order_global</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{38749f65-9c34-42c0-83bd-e028f3a8a74e}" record_timestamp="1425557571526" record_key="wh_main_effect_public_order_neighbouring_warsprovince_public_order_happiness_per_war_factor">
+<bonus_value_id>province_public_order_happiness_per_war_factor</bonus_value_id>
+<effect>wh_main_effect_public_order_neighbouring_wars</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{a718c37c-f87f-4493-a7b4-e0df2fb95f27}" record_timestamp="1433941347067" record_key="wh_main_effect_public_order_osmosisprovince_public_order_happiness_building_positive_factor">
+<bonus_value_id>province_public_order_happiness_building_positive_factor</bonus_value_id>
+<effect>wh_main_effect_public_order_osmosis</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{42d15f93-17a9-4169-b052-e1627b79b6a4}" record_timestamp="1425557572179" record_key="wh_main_effect_public_order_penalty_other_religionshappiness_mod_religious_unrest">
+<bonus_value_id>happiness_mod_religious_unrest</bonus_value_id>
+<effect>wh_main_effect_public_order_penalty_other_religions</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{0f52b59d-5aff-4c20-b5ba-65747e88f10d}" record_timestamp="1425557572507" record_key="wh_main_effect_public_order_plagueprovince_public_order_happiness_plague">
+<bonus_value_id>province_public_order_happiness_plague</bonus_value_id>
+<effect>wh_main_effect_public_order_plague</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{6d9cbac0-e912-417c-b72f-f8518490cccd}" record_timestamp="1425557573970" record_key="wh_main_effect_public_order_sanitationprovince_public_order_happiness_building_positive_factor">
+<bonus_value_id>province_public_order_happiness_building_positive_factor</bonus_value_id>
+<effect>wh_main_effect_public_order_sanitation</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{5e3b31a8-0797-4ad7-8f4c-45d0c263a769}" record_timestamp="1425557574135" record_key="wh_main_effect_public_order_tax_rateprovince_public_order_happiness_tax_factor">
+<bonus_value_id>province_public_order_happiness_tax_factor</bonus_value_id>
+<effect>wh_main_effect_public_order_tax_rate</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{53ab2cd3-fce2-40a5-8e0c-7c3f6d920f6c}" record_timestamp="1425557574696" record_key="wh_main_effect_public_order_techprovince_public_order_happiness_technology_factor">
+<bonus_value_id>province_public_order_happiness_technology_factor</bonus_value_id>
+<effect>wh_main_effect_public_order_tech</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{2eec1293-cf1b-4b54-bbc7-48fd881a871e}" record_timestamp="1446734267006" record_key="wh_main_effect_raise_dead_recruitment_cost_modmercenary_cost_mod">
+<bonus_value_id>mercenary_cost_mod</bonus_value_id>
+<effect>wh_main_effect_raise_dead_recruitment_cost_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{3667c3a7-df3a-4ab4-928b-01f726a0206b}" record_timestamp="1455626959774" record_key="wh_main_effect_religion_conversion_chaos_technologiesstate_conversion_from_technology">
+<bonus_value_id>state_conversion_from_technology</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_chaos_technologies</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e7281a97-914b-445f-9b9b-4e659f76ff55}" record_timestamp="1425557579632" record_key="wh_main_effect_religion_conversion_statestate_religion_conversion_bonus">
+<bonus_value_id>state_religion_conversion_bonus</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_state</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{8dfb487c-45b8-47f5-8499-33b990b7b3e0}" record_timestamp="1455626959835" record_key="wh_main_effect_religion_conversion_undeath_technologiesstate_conversion_from_technology">
+<bonus_value_id>state_conversion_from_technology</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_undeath_technologies</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{d1d02476-3016-4591-a705-024b216a7e22}" record_timestamp="1455626959804" record_key="wh_main_effect_religion_conversion_untainted_technologiesstate_conversion_from_technology">
+<bonus_value_id>state_conversion_from_technology</bonus_value_id>
+<effect>wh_main_effect_religion_conversion_untainted_technologies</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{e1898e32-363c-4383-8d5c-22673883216d}" record_timestamp="1477035608130" record_key="wh_main_effect_ror_lockfaction_mercenary_pool_cost_mod">
+<bonus_value_id>faction_mercenary_pool_cost_mod</bonus_value_id>
+<effect>wh_main_effect_ror_lock</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{cd5590fc-2f0f-4dcb-abfe-ab9a0a3a93d4}" record_timestamp="1425557589347" record_key="wh_main_effect_settlement_walls_hiddengarrison_walls_15m">
+<bonus_value_id>garrison_walls_15m</bonus_value_id>
+<effect>wh_main_effect_settlement_walls_hidden</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{60b98075-f1ef-4ca9-873a-d993e9b1eff9}" record_timestamp="1439284606593" record_key="wh_main_effect_siege_tower_missile_attack_rate_owntower_reload_mod">
+<bonus_value_id>tower_reload_mod</bonus_value_id>
+<effect>wh_main_effect_siege_tower_missile_attack_rate_own</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{b98a569c-a204-4c71-9792-6c4febed6d1d}" record_timestamp="1440010547600" record_key="wh_main_effect_technology_economy_gdp_mod_culture_dwarfsgdp_mod_entertainment">
+<bonus_value_id>gdp_mod_entertainment</bonus_value_id>
+<effect>wh_main_effect_technology_economy_gdp_mod_culture_dwarfs</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{971479a1-d5db-4939-8689-c9d10f443c16}" record_timestamp="1440010547704" record_key="wh_main_effect_technology_economy_gdp_mod_livestock_dwarfsgdp_mod_animal_husbandry">
+<bonus_value_id>gdp_mod_animal_husbandry</bonus_value_id>
+<effect>wh_main_effect_technology_economy_gdp_mod_livestock_dwarfs</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{5fd7b2d6-099f-4f03-9f3e-18b95c396c45}" record_timestamp="1440010547886" record_key="wh_main_effect_technology_economy_gdp_mod_manufacture_dwarfsgdp_mod_manufacture">
+<bonus_value_id>gdp_mod_manufacture</bonus_value_id>
+<effect>wh_main_effect_technology_economy_gdp_mod_manufacture_dwarfs</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{d662dcb3-de42-4591-a46c-47127f6e2cf1}" record_timestamp="1440010548219" record_key="wh_main_effect_technology_economy_gdp_mod_mining_dwarfsgdp_mod_mining">
+<bonus_value_id>gdp_mod_mining</bonus_value_id>
+<effect>wh_main_effect_technology_economy_gdp_mod_mining_dwarfs</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{c0562d24-0bc0-4d34-ab2f-94ac0c45774a}" record_timestamp="1440010547394" record_key="wh_main_effect_technology_economy_gdp_mod_subsistence_dwarfsgdp_mod_subsistence">
+<bonus_value_id>gdp_mod_subsistence</bonus_value_id>
+<effect>wh_main_effect_technology_economy_gdp_mod_subsistence_dwarfs</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{276c827b-e5b7-4b2e-98c5-ea247c71928a}" record_timestamp="1425557601773" record_key="wh_main_effect_technology_research_points_modresearch_rate_mod">
+<bonus_value_id>research_rate_mod</bonus_value_id>
+<effect>wh_main_effect_technology_research_points_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{af03a5ee-6863-4afc-a127-dfcce6e7acfc}" record_timestamp="1425557600369" record_key="wh_main_effect_technology_research_pointsresearch_points">
+<bonus_value_id>research_points</bonus_value_id>
+<effect>wh_main_effect_technology_research_points</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{24dfcdaf-61b1-4dd6-9a10-57e448afbde5}" record_timestamp="1425557606083" record_key="wh_main_effect_unit_recruitment_points_navalnaval_recruitment_points">
+<bonus_value_id>naval_recruitment_points</bonus_value_id>
+<effect>wh_main_effect_unit_recruitment_points_naval</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{c618594f-a5f6-42ab-8678-aa9d97fbe3bd}" record_timestamp="1425557605003" record_key="wh_main_effect_unit_recruitment_pointsrecruitment_points">
+<bonus_value_id>recruitment_points</bonus_value_id>
+<effect>wh_main_effect_unit_recruitment_points</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{26abb5df-b1ee-4c4d-8582-db7e3d672b53}" record_timestamp="1425557606484" record_key="wh_main_effect_unit_stat_army_all_shield_modunit_stat_bonus_shield">
+<bonus_value_id>unit_stat_bonus_shield</bonus_value_id>
+<effect>wh_main_effect_unit_stat_army_all_shield_mod</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{38962af8-e0bf-4259-af26-d8fe9bc56b54}" record_timestamp="1425557610528" record_key="wh_main_effects_province_growth_factionprovince_development_growth_added_faction">
+<bonus_value_id>province_development_growth_added_faction</bonus_value_id>
+<effect>wh_main_effects_province_growth_faction</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction record_uuid="{3a48317a-9250-4146-bda9-ac5dc060b360}" record_timestamp="1467718242076" record_key="wh_main_ignore_replenishment_capmax_replenishment_pct_override">
+<bonus_value_id>max_replenishment_pct_override</bonus_value_id>
+<effect>wh_main_ignore_replenishment_cap</effect>
+</effect_bonus_value_basic_junction>
+</dataroot>

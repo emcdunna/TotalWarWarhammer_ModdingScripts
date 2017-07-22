@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_agent_junction.xsd" export_time="Mon Jan 16 17:12:00 2017" revision="84" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>597980dc-064b-4341-8a38-446a15f97a01</edit_uuid>
+<effect_bonus_value_agent_junction record_uuid="{24736c46-d735-4760-bf80-7fc58dde1748}" record_timestamp="1467716957124" record_key="wh_dlc03_effect_agent_action_cost_mod_wizard_beastmenaction_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_dlc03_effect_agent_action_cost_mod_wizard_beastmen</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{0d3b9af1-4840-451b-9bf1-402ba22e4d51}" record_timestamp="1467716957203" record_key="wh_dlc03_effect_agent_action_success_chance_wizard_beastmensuccess_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_dlc03_effect_agent_action_success_chance_wizard_beastmen</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{1285a2bb-f24c-482b-9d2e-54aa30a1e9e1}" record_timestamp="1466160815409" record_key="wh_dlc03_effect_agent_cap_increase_champion_beastmencapchampion">
+<agent>champion</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_dlc03_effect_agent_cap_increase_champion_beastmen</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{c5df0f54-b170-4033-961c-a609fcac935b}" record_timestamp="1461688209355" record_key="wh_dlc03_effect_agent_cap_increase_wizard_beastmencapwizard">
+<agent>wizard</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_dlc03_effect_agent_cap_increase_wizard_beastmen</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{eb7da420-c4d2-491e-b560-053073e07b36}" record_timestamp="1462550605080" record_key="wh_dlc03_effect_agent_enable_recruitment_champion_beastmen_hiddenavailabilitychampion">
+<agent>champion</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_dlc03_effect_agent_enable_recruitment_champion_beastmen_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{90b1f8d8-332f-4b50-836d-9f6a1974f0de}" record_timestamp="1454607406098" record_key="wh_dlc03_effect_agent_enable_recruitment_champion_beastmenavailabilitychampion">
+<agent>champion</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_dlc03_effect_agent_enable_recruitment_champion_beastmen</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{0ffa7b27-92cd-4505-8b7d-f323ae22ef22}" record_timestamp="1462550605019" record_key="wh_dlc03_effect_agent_enable_recruitment_wizard_beastmen_beasts_hiddenavailabilitywizard">
+<agent>wizard</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_dlc03_effect_agent_enable_recruitment_wizard_beastmen_beasts_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{9ca57f2a-a089-4df2-b7ae-52c82b747208}" record_timestamp="1462550604959" record_key="wh_dlc03_effect_agent_enable_recruitment_wizard_beastmen_death_hiddenavailabilitywizard">
+<agent>wizard</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_dlc03_effect_agent_enable_recruitment_wizard_beastmen_death_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{691a74ad-8ae6-4bf1-a2e2-e3bc22606d79}" record_timestamp="1484586697663" record_key="wh_dlc03_effect_agent_enable_recruitment_wizard_beastmen_shadows_hiddenavailabilitywizard">
+<agent>wizard</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_dlc03_effect_agent_enable_recruitment_wizard_beastmen_shadows_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{29843eef-bbe5-4cb9-90bf-47606be38f80}" record_timestamp="1462550605140" record_key="wh_dlc03_effect_agent_enable_recruitment_wizard_beastmen_wild_hiddenavailabilitywizard">
+<agent>wizard</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_dlc03_effect_agent_enable_recruitment_wizard_beastmen_wild_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{e789903f-4522-4d43-b56a-8fc401101261}" record_timestamp="1467716957279" record_key="wh_dlc03_effect_agent_enable_recruitment_wizard_beastmenavailabilitywizard">
+<agent>wizard</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_dlc03_effect_agent_enable_recruitment_wizard_beastmen</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{43a6de49-2108-4e0b-b055-9f1dec2c974d}" record_timestamp="1467716957547" record_key="wh_dlc03_effect_agent_recruitment_cost_mod_wizard_beastmenrecruit_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_dlc03_effect_agent_recruitment_cost_mod_wizard_beastmen</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{b5eca98c-c55b-44e7-b422-dcc64738297a}" record_timestamp="1467716957548" record_key="wh_dlc03_effect_agent_recruitment_xp_wizard_beastmenrecruitment_levelwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_dlc03_effect_agent_recruitment_xp_wizard_beastmen</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{9764e21c-b38c-4635-999f-45c0b267ec5c}" record_timestamp="1479320692200" record_key="wh_dlc05_effect_agent_action_cost_mod_champion_wood_elvesaction_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_dlc05_effect_agent_action_cost_mod_champion_wood_elves</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{c9ee3fd3-dd36-4a92-b14d-5221f326310f}" record_timestamp="1479320692197" record_key="wh_dlc05_effect_agent_action_cost_mod_spy_wood_elvesaction_cost_modspy">
+<agent>spy</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_dlc05_effect_agent_action_cost_mod_spy_wood_elves</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{b8e3c2f3-5034-4ee9-9ef0-d6695c539bf9}" record_timestamp="1479320692202" record_key="wh_dlc05_effect_agent_action_cost_mod_wizard_wood_elvesaction_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_dlc05_effect_agent_action_cost_mod_wizard_wood_elves</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{3b8d6e15-14e4-4a02-b51a-2a29b4d5d3fc}" record_timestamp="1479320692201" record_key="wh_dlc05_effect_agent_action_success_chance_champion_wood_elvessuccess_modchampion">
+<agent>champion</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_dlc05_effect_agent_action_success_chance_champion_wood_elves</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{e00f0ceb-bc11-4671-aff8-0cce4f5d45fc}" record_timestamp="1479320692198" record_key="wh_dlc05_effect_agent_action_success_chance_spy_wood_elvessuccess_modspy">
+<agent>spy</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_dlc05_effect_agent_action_success_chance_spy_wood_elves</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{d431eb1d-332f-405c-a6d1-7f89f4a2d866}" record_timestamp="1479320692196" record_key="wh_dlc05_effect_agent_action_success_chance_wizard_wood_elvessuccess_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_dlc05_effect_agent_action_success_chance_wizard_wood_elves</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{ef222cd9-1093-48bd-a14e-4242f335a2de}" record_timestamp="1462899333723" record_key="wh_dlc05_effect_agent_cap_increase_championcapchampion">
+<agent>champion</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_dlc05_effect_agent_cap_increase_champion</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{2da62292-2ad6-47d9-9086-725f53cd85c0}" record_timestamp="1479317314046" record_key="wh_dlc05_effect_agent_cap_increase_spycapspy">
+<agent>spy</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_dlc05_effect_agent_cap_increase_spy</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{887f3795-9b38-4dfd-b10e-6ac60efd3095}" record_timestamp="1479317314048" record_key="wh_dlc05_effect_agent_cap_increase_wizardcapwizard">
+<agent>wizard</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_dlc05_effect_agent_cap_increase_wizard</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{5a1537c9-489f-4512-a04c-1661f10d1ed5}" record_timestamp="1479317314038" record_key="wh_dlc05_effect_agent_enable_recruitment_champion_woodelvesavailabilitychampion">
+<agent>champion</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_dlc05_effect_agent_enable_recruitment_champion_woodelves</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{3e7c0c4c-54ce-4007-8d88-0f69bf6a3ad2}" record_timestamp="1479317314039" record_key="wh_dlc05_effect_agent_enable_recruitment_spy_woodelvesavailabilityspy">
+<agent>spy</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_dlc05_effect_agent_enable_recruitment_spy_woodelves</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{36d92c0d-a33d-458a-b7ba-b114038fd9a7}" record_timestamp="1481030138552" record_key="wh_dlc05_effect_agent_enable_recruitment_wizard_woodelvesavailabilitywizard">
+<agent>wizard</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_dlc05_effect_agent_enable_recruitment_wizard_woodelves</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{4167a5bb-c764-4c00-a149-2aab96142cfb}" record_timestamp="1479326025764" record_key="wh_dlc05_effect_agent_recruitment_cost_mod_champion_wood_elvesrecruit_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_dlc05_effect_agent_recruitment_cost_mod_champion_wood_elves</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{ce3e70ff-563c-4f6f-a1e1-c3f4e1796de8}" record_timestamp="1459781317064" record_key="wh_dlc05_effect_agent_recruitment_xp_wizard_spy_woodelvesrecruitment_levelspy">
+<agent>spy</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_dlc05_effect_agent_recruitment_xp_wizard_spy_woodelves</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{0c5631e8-8e0c-4065-9fd2-2edd046e173a}" record_timestamp="1459781317106" record_key="wh_dlc05_effect_agent_recruitment_xp_wizard_spy_woodelvesrecruitment_levelwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_dlc05_effect_agent_recruitment_xp_wizard_spy_woodelves</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{294c1cc5-1cd7-4e54-9de6-1756e2a1b277}" record_timestamp="1481030141306" record_key="wh_dlc05_effect_agent_recruitment_xp_wizard_woodelvesrecruitment_levelwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_dlc05_effect_agent_recruitment_xp_wizard_woodelves</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{fe56c296-caa6-4f57-b45b-e213f4e106dc}" record_timestamp="1481031151801" record_key="wh_dlc05_effect_tech_hero_xp_levels_branchwraithsrecruitment_levelchampion">
+<agent>champion</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_dlc05_effect_tech_hero_xp_levels_branchwraiths</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{593a5540-d2da-436e-b0ea-098a911d532b}" record_timestamp="1481031151661" record_key="wh_dlc05_effect_tech_hero_xp_levels_spellsingersrecruitment_levelwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_dlc05_effect_tech_hero_xp_levels_spellsingers</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{80aa1b98-0984-4f21-892a-d418f0ec0413}" record_timestamp="1481031151757" record_key="wh_dlc05_effect_tech_hero_xp_levels_waystalkersrecruitment_levelspy">
+<agent>spy</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_dlc05_effect_tech_hero_xp_levels_waystalkers</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{ef42f3d8-6ab5-49fc-bfad-285402361191}" record_timestamp="1474294269002" record_key="wh_dlc06_effect_agent_action_cost_mod_hiddenaction_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_dlc06_effect_agent_action_cost_mod_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{920e23a1-99c8-4b8b-96cd-c3a4de1fe579}" record_timestamp="1474294269005" record_key="wh_dlc06_effect_agent_action_cost_mod_hiddenaction_cost_moddignitary">
+<agent>dignitary</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_dlc06_effect_agent_action_cost_mod_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{56704dfd-3b96-4ea0-9bf4-0aa8c8ac001d}" record_timestamp="1474294269003" record_key="wh_dlc06_effect_agent_action_cost_mod_hiddenaction_cost_modengineer">
+<agent>engineer</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_dlc06_effect_agent_action_cost_mod_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{ef8ed9c1-361c-42da-a433-01dab2977b4a}" record_timestamp="1474294269007" record_key="wh_dlc06_effect_agent_action_cost_mod_hiddenaction_cost_modrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_dlc06_effect_agent_action_cost_mod_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{3b4216e1-c96b-4318-909c-62aa62ba51dd}" record_timestamp="1474294269006" record_key="wh_dlc06_effect_agent_action_cost_mod_hiddenaction_cost_modspy">
+<agent>spy</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_dlc06_effect_agent_action_cost_mod_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{0b322b40-a13d-41a4-b92d-8aba223279c4}" record_timestamp="1474294269008" record_key="wh_dlc06_effect_agent_action_cost_mod_hiddenaction_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_dlc06_effect_agent_action_cost_mod_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{56bd2555-9f6e-4c1e-9732-0cdab08ee73d}" record_timestamp="1427193394129" record_key="wh_main_effect_agent_action_cost_mod_champion_bretonniaaction_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_champion_bretonnia</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{c7af2be7-9bec-40ab-8c90-a4f2a5dae68a}" record_timestamp="1427193394424" record_key="wh_main_effect_agent_action_cost_mod_champion_chaosaction_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_champion_chaos</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{4698bc7c-99c3-4f2a-a95a-420979a5f599}" record_timestamp="1427193393539" record_key="wh_main_effect_agent_action_cost_mod_champion_dwarfsaction_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_champion_dwarfs</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{a70e34af-f6c2-4e65-833b-d59f5cb963af}" record_timestamp="1427193389409" record_key="wh_main_effect_agent_action_cost_mod_champion_empireaction_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_champion_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{9153c1cf-d346-4a22-aff6-c6d09e91187d}" record_timestamp="1427193394714" record_key="wh_main_effect_agent_action_cost_mod_champion_ktebaction_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_champion_kteb</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{d9fbf099-5a5a-40bd-83bd-d43a6f3e2e74}" record_timestamp="1427193393829" record_key="wh_main_effect_agent_action_cost_mod_champion_vampire_countsaction_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_champion_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{07b56616-a00a-4fbf-af4d-67510b189187}" record_timestamp="1427193398504" record_key="wh_main_effect_agent_action_cost_mod_dignitary_empireaction_cost_moddignitary">
+<agent>dignitary</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_dignitary_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{dc2b3354-dfc7-4962-90d3-24db1f7da665}" record_timestamp="1427193400885" record_key="wh_main_effect_agent_action_cost_mod_dignitary_vampire_countsaction_cost_moddignitary">
+<agent>dignitary</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_dignitary_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{b08f1ee3-e16b-4a89-aaad-0bdc2cb06e51}" record_timestamp="1427186019702" record_key="wh_main_effect_agent_action_cost_mod_engineeraction_cost_modengineer">
+<agent>engineer</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_engineer</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{d4b21122-b843-4599-9464-5505cac4bcfb}" record_timestamp="1427186019662" record_key="wh_main_effect_agent_action_cost_mod_runesmithaction_cost_modrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_runesmith</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{e893e029-5e40-4c04-a0f9-15d4cc55e2d9}" record_timestamp="1427193395174" record_key="wh_main_effect_agent_action_cost_mod_spy_empireaction_cost_modspy">
+<agent>spy</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_spy_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{f20414b2-966b-4b96-a0ab-031147a056c7}" record_timestamp="1427193397854" record_key="wh_main_effect_agent_action_cost_mod_spy_greenskinsaction_cost_modspy">
+<agent>spy</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_spy_greenskins</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{faaf57c1-d74d-4037-9685-a1417e37bd40}" record_timestamp="1427193398149" record_key="wh_main_effect_agent_action_cost_mod_spy_vampire_countsaction_cost_modspy">
+<agent>spy</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_spy_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{4b5a5616-9623-4c1b-a11c-00ccf59402c3}" record_timestamp="1427193405940" record_key="wh_main_effect_agent_action_cost_mod_wizard_bretonniaaction_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_wizard_bretonnia</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{0cbd2ac6-29c7-4ab9-891a-db06eea614ad}" record_timestamp="1427193406250" record_key="wh_main_effect_agent_action_cost_mod_wizard_chaosaction_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_wizard_chaos</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{55ae9219-7c82-429f-9cfc-50975b44c177}" record_timestamp="1427193401260" record_key="wh_main_effect_agent_action_cost_mod_wizard_empireaction_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_wizard_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{dd8ad94b-e06d-4690-aaab-7811f4835d99}" record_timestamp="1427193405325" record_key="wh_main_effect_agent_action_cost_mod_wizard_greenskinsaction_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_wizard_greenskins</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{dac6e146-b400-4aee-a225-e4f108844e24}" record_timestamp="1427193406560" record_key="wh_main_effect_agent_action_cost_mod_wizard_kislevaction_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_wizard_kislev</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{ca3a177c-3bc2-4c51-bcfc-72a53433c368}" record_timestamp="1427193405020" record_key="wh_main_effect_agent_action_cost_mod_wizard_tebaction_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_wizard_teb</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{27ea5f3f-b85a-4554-b17f-418b9683e5b5}" record_timestamp="1427193405630" record_key="wh_main_effect_agent_action_cost_mod_wizard_vampire_countsaction_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod_wizard_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{feb84cdd-14c4-4e22-9c70-f50108968afe}" record_timestamp="1425557232054" record_key="wh_main_effect_agent_action_cost_modaction_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{0682494c-f3a1-43eb-a3ed-cb7b21368565}" record_timestamp="1425557232275" record_key="wh_main_effect_agent_action_cost_modaction_cost_moddignitary">
+<agent>dignitary</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{8997b3a6-0be4-4b92-b61c-9f10012cc7eb}" record_timestamp="1427186020176" record_key="wh_main_effect_agent_action_cost_modaction_cost_modengineer">
+<agent>engineer</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{8da00ffa-b655-47a2-a068-e95693ba78e0}" record_timestamp="1427186020211" record_key="wh_main_effect_agent_action_cost_modaction_cost_modrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{1ffd0434-2d74-45af-8d8e-ca727878903c}" record_timestamp="1425557232164" record_key="wh_main_effect_agent_action_cost_modaction_cost_modspy">
+<agent>spy</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{6d24b533-efac-489c-bb38-8532fb079370}" record_timestamp="1427186020142" record_key="wh_main_effect_agent_action_cost_modaction_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_cost_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{b8e0ce2f-05f9-43ab-a542-93d15c66e543}" record_timestamp="1455033885887" record_key="wh_main_effect_agent_action_outcome_target_defence_success_chance_enemy_hiddensuccess_mod_opponentchampion">
+<agent>champion</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_outcome_target_defence_success_chance_enemy_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{c7ac8e87-8bd7-4a39-9531-f2b03ea94cce}" record_timestamp="1455033885871" record_key="wh_main_effect_agent_action_outcome_target_defence_success_chance_enemy_hiddensuccess_mod_opponentdignitary">
+<agent>dignitary</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_outcome_target_defence_success_chance_enemy_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{faca2574-77f8-4c67-bcda-2099c649cee8}" record_timestamp="1455033885879" record_key="wh_main_effect_agent_action_outcome_target_defence_success_chance_enemy_hiddensuccess_mod_opponentengineer">
+<agent>engineer</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_outcome_target_defence_success_chance_enemy_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{a57bc0cb-e288-4bf8-aace-5e7cb5fc22b1}" record_timestamp="1455033885896" record_key="wh_main_effect_agent_action_outcome_target_defence_success_chance_enemy_hiddensuccess_mod_opponentrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_outcome_target_defence_success_chance_enemy_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{bd755917-0303-4325-92d7-e350404c60f1}" record_timestamp="1455033885906" record_key="wh_main_effect_agent_action_outcome_target_defence_success_chance_enemy_hiddensuccess_mod_opponentspy">
+<agent>spy</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_outcome_target_defence_success_chance_enemy_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{f3c7e8fc-f867-42a2-a6be-9fd79eb143b8}" record_timestamp="1455033885917" record_key="wh_main_effect_agent_action_outcome_target_defence_success_chance_enemy_hiddensuccess_mod_opponentwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_outcome_target_defence_success_chance_enemy_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{7f263358-5589-407e-b061-53bd4b7efa9f}" record_timestamp="1427193394184" record_key="wh_main_effect_agent_action_success_chance_champion_bretonniasuccess_modchampion">
+<agent>champion</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_champion_bretonnia</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{3b83da77-e12e-401e-b98f-1386aebb43ec}" record_timestamp="1427193394479" record_key="wh_main_effect_agent_action_success_chance_champion_chaossuccess_modchampion">
+<agent>champion</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_champion_chaos</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{7ae3fa7c-2568-4a44-89cc-4ae685a199d3}" record_timestamp="1427193393599" record_key="wh_main_effect_agent_action_success_chance_champion_dwarfssuccess_modchampion">
+<agent>champion</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_champion_dwarfs</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{b6383138-700a-4186-8861-f67cf1d370dd}" record_timestamp="1427193390024" record_key="wh_main_effect_agent_action_success_chance_champion_empiresuccess_modchampion">
+<agent>champion</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_champion_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{bb0ac3e9-f29b-425f-ac7b-ac976504efbb}" record_timestamp="1427193394774" record_key="wh_main_effect_agent_action_success_chance_champion_ktebsuccess_modchampion">
+<agent>champion</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_champion_kteb</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{18430a30-577c-4eaa-b891-9892c7e76684}" record_timestamp="1427193393889" record_key="wh_main_effect_agent_action_success_chance_champion_vampire_countssuccess_modchampion">
+<agent>champion</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_champion_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{355c3fb1-51be-4b93-aa78-ccfde4c9f6f6}" record_timestamp="1427193398744" record_key="wh_main_effect_agent_action_success_chance_dignitary_empiresuccess_moddignitary">
+<agent>dignitary</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_dignitary_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{0bc78fc5-8c00-4d6c-9d81-276f486e0d32}" record_timestamp="1427193400950" record_key="wh_main_effect_agent_action_success_chance_dignitary_vampire_countssuccess_moddignitary">
+<agent>dignitary</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_dignitary_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{d3ceaa05-bfdd-40c6-b36e-745a7b01f538}" record_timestamp="1481887435208" record_key="wh_main_effect_agent_action_success_chance_enemy_buildingsuccess_modchampion">
+<agent>champion</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_building</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{c7220d39-4c43-42a5-ac63-a26dec8d18bb}" record_timestamp="1481887435211" record_key="wh_main_effect_agent_action_success_chance_enemy_buildingsuccess_moddignitary">
+<agent>dignitary</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_building</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{017e0350-48ac-4151-abaa-bc59d0aa9ba9}" record_timestamp="1481887435212" record_key="wh_main_effect_agent_action_success_chance_enemy_buildingsuccess_modengineer">
+<agent>engineer</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_building</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{5a6a9de5-c614-40ab-9607-fd45357e1014}" record_timestamp="1481887435209" record_key="wh_main_effect_agent_action_success_chance_enemy_buildingsuccess_modrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_building</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{94eefac0-a2d3-4bb7-8fb0-1ae073b5e3ef}" record_timestamp="1481887435210" record_key="wh_main_effect_agent_action_success_chance_enemy_buildingsuccess_modspy">
+<agent>spy</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_building</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{21398c90-569e-414c-b42d-cfd0df7dbda3}" record_timestamp="1481887435213" record_key="wh_main_effect_agent_action_success_chance_enemy_buildingsuccess_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_building</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{fee00503-75c5-44f0-be94-a5dacea4c313}" record_timestamp="1481887435202" record_key="wh_main_effect_agent_action_success_chance_enemy_hiddensuccess_modchampion">
+<agent>champion</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{b93f243e-7fe9-4033-97b3-a06f0eb6a938}" record_timestamp="1481887435203" record_key="wh_main_effect_agent_action_success_chance_enemy_hiddensuccess_moddignitary">
+<agent>dignitary</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{07b95dd3-8516-4acf-b820-b219d4f43fe2}" record_timestamp="1481887435204" record_key="wh_main_effect_agent_action_success_chance_enemy_hiddensuccess_modengineer">
+<agent>engineer</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{fcf86ed7-d5d0-4cbd-9399-3202ee219f4b}" record_timestamp="1481887435204" record_key="wh_main_effect_agent_action_success_chance_enemy_hiddensuccess_modrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{0f7f4520-c653-48dc-8110-2064ef8ddf1f}" record_timestamp="1481887435205" record_key="wh_main_effect_agent_action_success_chance_enemy_hiddensuccess_modspy">
+<agent>spy</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{a773073e-d9f7-48e3-97b7-6abe9ab61bf0}" record_timestamp="1481887435205" record_key="wh_main_effect_agent_action_success_chance_enemy_hiddensuccess_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{709a5659-b585-482e-87ed-6786e86120c4}" record_timestamp="1446813974702" record_key="wh_main_effect_agent_action_success_chance_enemy_skillsuccess_mod_opponentchampion">
+<agent>champion</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_skill</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{89d66a3b-6b09-4a95-8909-7058964bc547}" record_timestamp="1446813974635" record_key="wh_main_effect_agent_action_success_chance_enemy_skillsuccess_mod_opponentdignitary">
+<agent>dignitary</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_skill</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{76f614a6-300c-4aa9-b668-119407bb67b5}" record_timestamp="1446813974566" record_key="wh_main_effect_agent_action_success_chance_enemy_skillsuccess_mod_opponentengineer">
+<agent>engineer</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_skill</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{91204825-bd1f-4696-884e-cd4c80e7abc3}" record_timestamp="1446813975384" record_key="wh_main_effect_agent_action_success_chance_enemy_skillsuccess_mod_opponentrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_skill</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{1316d2d9-4c81-4be6-9551-e273ad09ce57}" record_timestamp="1446813975315" record_key="wh_main_effect_agent_action_success_chance_enemy_skillsuccess_mod_opponentspy">
+<agent>spy</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_skill</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{212da874-9f68-481e-a168-6443f7dc7d3a}" record_timestamp="1446813975247" record_key="wh_main_effect_agent_action_success_chance_enemy_skillsuccess_mod_opponentwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy_skill</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{bebc2b9d-4854-407f-9765-9b1bef77c96b}" record_timestamp="1425557270904" record_key="wh_main_effect_agent_action_success_chance_enemysuccess_mod_opponentchampion">
+<agent>champion</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{01629b80-b4ca-4bad-b3f8-640e269fab4f}" record_timestamp="1425557271110" record_key="wh_main_effect_agent_action_success_chance_enemysuccess_mod_opponentdignitary">
+<agent>dignitary</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{c98b775b-3c40-44b3-8cc4-81706fdf0364}" record_timestamp="1427186020073" record_key="wh_main_effect_agent_action_success_chance_enemysuccess_mod_opponentengineer">
+<agent>engineer</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{ab028439-661c-4574-8304-7e11f46fe830}" record_timestamp="1427186020108" record_key="wh_main_effect_agent_action_success_chance_enemysuccess_mod_opponentrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{9c7a4e48-fb0f-43f7-a9b8-8f2b2d57ff04}" record_timestamp="1425557271006" record_key="wh_main_effect_agent_action_success_chance_enemysuccess_mod_opponentspy">
+<agent>spy</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{e6bddd82-c8dd-4e39-8be2-92fb5a79b6ad}" record_timestamp="1427186020038" record_key="wh_main_effect_agent_action_success_chance_enemysuccess_mod_opponentwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_enemy</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{d7e15aac-1cb4-42e2-b81d-1bcd45ff654a}" record_timestamp="1427186587421" record_key="wh_main_effect_agent_action_success_chance_engineersuccess_modengineer">
+<agent>engineer</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_engineer</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{dcb650a7-bf51-48d3-8533-26fcfa875a8a}" record_timestamp="1427186587363" record_key="wh_main_effect_agent_action_success_chance_runesmithsuccess_modrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_runesmith</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{368fd592-389d-483e-91b5-a46de561ecbd}" record_timestamp="1446813975180" record_key="wh_main_effect_agent_action_success_chance_skillsuccess_modchampion">
+<agent>champion</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_skill</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{0beb7544-9df0-4871-ba85-963a52c098e4}" record_timestamp="1446813975045" record_key="wh_main_effect_agent_action_success_chance_skillsuccess_moddignitary">
+<agent>dignitary</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_skill</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{15abaf35-c8ff-4d8d-a6ae-bb25bd13e8e9}" record_timestamp="1446813974977" record_key="wh_main_effect_agent_action_success_chance_skillsuccess_modengineer">
+<agent>engineer</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_skill</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{e1224c31-63cc-4e5b-b355-c075b0664714}" record_timestamp="1446813974907" record_key="wh_main_effect_agent_action_success_chance_skillsuccess_modrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_skill</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{604abaf2-0fc1-4e6f-86be-da92e6b85f4d}" record_timestamp="1446813974838" record_key="wh_main_effect_agent_action_success_chance_skillsuccess_modspy">
+<agent>spy</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_skill</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{9bd7ffee-b5dc-455f-95e0-dbdebb306fe9}" record_timestamp="1446813974769" record_key="wh_main_effect_agent_action_success_chance_skillsuccess_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_skill</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{22141322-4a70-4383-b41e-f024ac51e6e7}" record_timestamp="1427193395409" record_key="wh_main_effect_agent_action_success_chance_spy_empiresuccess_modspy">
+<agent>spy</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_spy_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{95a0da64-5421-43fa-98e1-b7ed2b881f86}" record_timestamp="1427193397909" record_key="wh_main_effect_agent_action_success_chance_spy_greenskinssuccess_modspy">
+<agent>spy</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_spy_greenskins</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{ce3bcdd4-d774-4425-a073-8c2baa8018c7}" record_timestamp="1427193398209" record_key="wh_main_effect_agent_action_success_chance_spy_vampire_countssuccess_modspy">
+<agent>spy</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_spy_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{811ecac4-f38c-4598-8a17-8581559edbcf}" record_timestamp="1427193406000" record_key="wh_main_effect_agent_action_success_chance_wizard_bretonniasuccess_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_wizard_bretonnia</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{1b13e889-f4cc-4444-b134-10add9beae0e}" record_timestamp="1427193406310" record_key="wh_main_effect_agent_action_success_chance_wizard_chaossuccess_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_wizard_chaos</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{68fc13fc-e0a4-4e42-a9f8-345b7557757e}" record_timestamp="1427193401445" record_key="wh_main_effect_agent_action_success_chance_wizard_empiresuccess_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_wizard_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{158fdf6c-e72c-4c35-a2e7-3618cbbb311a}" record_timestamp="1427193405385" record_key="wh_main_effect_agent_action_success_chance_wizard_greenskinssuccess_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_wizard_greenskins</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{27a08fdc-79bf-426f-b0d4-295405c6bbf9}" record_timestamp="1427193406620" record_key="wh_main_effect_agent_action_success_chance_wizard_kislevsuccess_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_wizard_kislev</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{4fa4a31f-eefd-47d6-87cf-4f34b743c635}" record_timestamp="1427193405080" record_key="wh_main_effect_agent_action_success_chance_wizard_tebsuccess_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_wizard_teb</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{28ce9c8f-f7ef-4639-bd0e-654cf4582f2c}" record_timestamp="1427193405690" record_key="wh_main_effect_agent_action_success_chance_wizard_vampire_countssuccess_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance_wizard_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{dc38c8a1-b412-4043-a7ce-dd929398c71c}" record_timestamp="1425557268336" record_key="wh_main_effect_agent_action_success_chancesuccess_modchampion">
+<agent>champion</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{7fadbccd-abdb-47fd-9b5c-d390ea6a8a58}" record_timestamp="1425557268234" record_key="wh_main_effect_agent_action_success_chancesuccess_moddignitary">
+<agent>dignitary</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{b52c44ff-91b0-45b9-8998-649a86c31f98}" record_timestamp="1427186019873" record_key="wh_main_effect_agent_action_success_chancesuccess_modengineer">
+<agent>engineer</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{69050f6f-fe42-4df5-b376-7da21559111d}" record_timestamp="1427186019906" record_key="wh_main_effect_agent_action_success_chancesuccess_modrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{30771ada-7fa7-40be-b7bd-f415e2d01d41}" record_timestamp="1425557268439" record_key="wh_main_effect_agent_action_success_chancesuccess_modspy">
+<agent>spy</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{1d312b04-864c-4082-a02f-a8c95f94423d}" record_timestamp="1427186019840" record_key="wh_main_effect_agent_action_success_chancesuccess_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>success_mod</bonus_value_id>
+<effect>wh_main_effect_agent_action_success_chance</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{8ba0e40c-5008-4bcb-b910-bed8da9111aa}" record_timestamp="1441300464621" record_key="wh_main_effect_agent_cap_increase_champion_captaincapchampion">
+<agent>champion</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_champion_captain</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{767cdc1c-45ee-4c6b-bb74-d9636f79a67b}" record_timestamp="1441300464348" record_key="wh_main_effect_agent_cap_increase_champion_exalted_herocapchampion">
+<agent>champion</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_champion_exalted_hero</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{8f15716d-9815-40be-bec5-9e55665dd206}" record_timestamp="1441300470916" record_key="wh_main_effect_agent_cap_increase_champion_paladincapchampion">
+<agent>champion</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_champion_paladin</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{f4262cb0-3469-4d7c-b33c-2d2e11a4ef71}" record_timestamp="1441300464483" record_key="wh_main_effect_agent_cap_increase_champion_thanecapchampion">
+<agent>champion</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_champion_thane</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{38560171-4be2-4cd6-a727-4a3fbc21a233}" record_timestamp="1441300464760" record_key="wh_main_effect_agent_cap_increase_champion_wight_kingscapchampion">
+<agent>champion</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_champion_wight_kings</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{6e6fdb8f-3e13-42eb-b927-c2b7e5dd296d}" record_timestamp="1441300463365" record_key="wh_main_effect_agent_cap_increase_dignitary_vampirecapdignitary">
+<agent>dignitary</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_dignitary_vampire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{6cbe30be-e349-4716-84bc-e3608e18ba66}" record_timestamp="1441300463095" record_key="wh_main_effect_agent_cap_increase_dignitary_warrior_priestcapdignitary">
+<agent>dignitary</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_dignitary_warrior_priest</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{0e8eeb5a-2d96-47a9-b6f5-033863941b7f}" record_timestamp="1441300463500" record_key="wh_main_effect_agent_cap_increase_engineercapengineer">
+<agent>engineer</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_engineer</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{507ad084-b4c3-4c46-a44e-7cf5dd59af6f}" record_timestamp="1441300463230" record_key="wh_main_effect_agent_cap_increase_runesmithcaprunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_runesmith</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{fbeb63ea-a421-4b02-948f-d40f57afb433}" record_timestamp="1441300464895" record_key="wh_main_effect_agent_cap_increase_spy_bansheecapspy">
+<agent>spy</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_spy_banshee</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{78778efb-5d9f-498d-bec5-40aac39784ba}" record_timestamp="1441300462822" record_key="wh_main_effect_agent_cap_increase_spy_goblin_big_bosscapspy">
+<agent>spy</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_spy_goblin_big_boss</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{8a2b76db-a6c8-4aa6-97df-379cb440f009}" record_timestamp="1441300463790" record_key="wh_main_effect_agent_cap_increase_spy_witch_huntercapspy">
+<agent>spy</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_spy_witch_hunter</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{d43ce75e-476a-404c-b118-9dd10287469e}" record_timestamp="1441300464076" record_key="wh_main_effect_agent_cap_increase_wizard_chaos_sorcerercapwizard">
+<agent>wizard</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_wizard_chaos_sorcerer</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{4cdfde58-80f2-43a1-a679-1a827154b1d8}" record_timestamp="1441300463939" record_key="wh_main_effect_agent_cap_increase_wizard_damselcapwizard">
+<agent>wizard</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_wizard_damsel</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{165bf620-3106-4b9d-b207-25a4ebaa6099}" record_timestamp="1441300463635" record_key="wh_main_effect_agent_cap_increase_wizard_empirecapwizard">
+<agent>wizard</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_wizard_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{3bd6ee14-40bf-4fbb-b97e-089fa9126751}" record_timestamp="1441300462959" record_key="wh_main_effect_agent_cap_increase_wizard_necromancercapwizard">
+<agent>wizard</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_wizard_necromancer</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{9838467b-cea2-42a6-ad25-0a46f74c53bf}" record_timestamp="1441300464211" record_key="wh_main_effect_agent_cap_increase_wizard_orc_shamancapwizard">
+<agent>wizard</agent>
+<bonus_value_id>cap</bonus_value_id>
+<effect>wh_main_effect_agent_cap_increase_wizard_orc_shaman</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{0120d621-c609-4439-a308-c7e5a633d6bf}" record_timestamp="1425557295561" record_key="wh_main_effect_agent_defence_wound_chance_modcritical_failure_mod_opponentchampion">
+<agent>champion</agent>
+<bonus_value_id>critical_failure_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_defence_wound_chance_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{e3cb6b6e-e650-43b1-ab59-eeea1b532028}" record_timestamp="1425557295483" record_key="wh_main_effect_agent_defence_wound_chance_modcritical_failure_mod_opponentdignitary">
+<agent>dignitary</agent>
+<bonus_value_id>critical_failure_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_defence_wound_chance_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{fb41c170-0885-4445-ab17-c4ee5ff5b9cb}" record_timestamp="1427186586490" record_key="wh_main_effect_agent_defence_wound_chance_modcritical_failure_mod_opponentengineer">
+<agent>engineer</agent>
+<bonus_value_id>critical_failure_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_defence_wound_chance_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{8848b034-e294-4908-ada9-6e8fdf93c75f}" record_timestamp="1427186586549" record_key="wh_main_effect_agent_defence_wound_chance_modcritical_failure_mod_opponentrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>critical_failure_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_defence_wound_chance_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{fd4282f8-4465-43f3-8fa5-cf58e7491087}" record_timestamp="1425557295639" record_key="wh_main_effect_agent_defence_wound_chance_modcritical_failure_mod_opponentspy">
+<agent>spy</agent>
+<bonus_value_id>critical_failure_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_defence_wound_chance_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{1b43a673-4cd5-42ee-bef6-c0c921d54c0a}" record_timestamp="1427186586432" record_key="wh_main_effect_agent_defence_wound_chance_modcritical_failure_mod_opponentwizard">
+<agent>wizard</agent>
+<bonus_value_id>critical_failure_mod_opponent</bonus_value_id>
+<effect>wh_main_effect_agent_defence_wound_chance_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{4209f08e-6f87-4b7a-8903-31b62d88b1dd}" record_timestamp="1427193394244" record_key="wh_main_effect_agent_enable_recruitment_champion_bretonniaavailabilitychampion">
+<agent>champion</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_champion_bretonnia</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{4e69183f-bd6e-421e-805c-4ea062d9da22}" record_timestamp="1427193394539" record_key="wh_main_effect_agent_enable_recruitment_champion_chaosavailabilitychampion">
+<agent>champion</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_champion_chaos</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{c52cdfc1-bf49-4d20-97fe-dbbb7edf162f}" record_timestamp="1427193393654" record_key="wh_main_effect_agent_enable_recruitment_champion_dwarfsavailabilitychampion">
+<agent>champion</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_champion_dwarfs</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{599814c6-7545-4c05-aa9f-731bb94e44dd}" record_timestamp="1427193391359" record_key="wh_main_effect_agent_enable_recruitment_champion_empireavailabilitychampion">
+<agent>champion</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_champion_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{8b71fdd0-39cb-4e9d-9db6-7a49a0ff7755}" record_timestamp="1427193394829" record_key="wh_main_effect_agent_enable_recruitment_champion_ktebavailabilitychampion">
+<agent>champion</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_champion_kteb</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{705bc2db-482e-43a5-93aa-4849314b13b1}" record_timestamp="1427193393949" record_key="wh_main_effect_agent_enable_recruitment_champion_vampire_countsavailabilitychampion">
+<agent>champion</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_champion_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{9b4dd6ec-5014-466f-a598-3caf9be675ec}" record_timestamp="1427193399955" record_key="wh_main_effect_agent_enable_recruitment_dignitary_empireavailabilitydignitary">
+<agent>dignitary</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_dignitary_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{e6e753ac-4d6a-432a-8ef7-cfdbb1966c00}" record_timestamp="1427193401010" record_key="wh_main_effect_agent_enable_recruitment_dignitary_vampire_countsavailabilitydignitary">
+<agent>dignitary</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_dignitary_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{213ef5d0-b1d6-46c3-b93f-3ee8983f1937}" record_timestamp="1427186587593" record_key="wh_main_effect_agent_enable_recruitment_engineeravailabilityengineer">
+<agent>engineer</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_engineer</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{7c46a25c-c229-4398-acbb-6947ea604478}" record_timestamp="1427186587534" record_key="wh_main_effect_agent_enable_recruitment_runesmithavailabilityrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_runesmith</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{f7f33edb-c456-412f-8c76-6f1c21b15c49}" record_timestamp="1427193396549" record_key="wh_main_effect_agent_enable_recruitment_spy_empireavailabilityspy">
+<agent>spy</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_spy_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{1871f3c8-917a-4f3e-8c5c-39a6a8851089}" record_timestamp="1427193397969" record_key="wh_main_effect_agent_enable_recruitment_spy_greenskinsavailabilityspy">
+<agent>spy</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_spy_greenskins</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{ecc7e727-5579-400f-adaf-3cb404d6c757}" record_timestamp="1427193398269" record_key="wh_main_effect_agent_enable_recruitment_spy_vampire_countsavailabilityspy">
+<agent>spy</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_spy_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{4211d897-3b41-4862-aff1-406f5e2848d7}" record_timestamp="1427193406065" record_key="wh_main_effect_agent_enable_recruitment_wizard_bretonniaavailabilitywizard">
+<agent>wizard</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_wizard_bretonnia</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{0eb2421f-4969-4fa4-8893-6d7f363a4fdf}" record_timestamp="1427193406375" record_key="wh_main_effect_agent_enable_recruitment_wizard_chaosavailabilitywizard">
+<agent>wizard</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_wizard_chaos</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{44189791-9279-47a3-8037-6b6fcae3ca0a}" record_timestamp="1472724805893" record_key="wh_main_effect_agent_enable_recruitment_wizard_empireavailabilitywizard">
+<agent>wizard</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_wizard_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{4be6a25f-cf9d-478b-9ace-84f9690d9be6}" record_timestamp="1444318508659" record_key="wh_main_effect_agent_enable_recruitment_wizard_greenskins_goblin_shamanavailabilitywizard">
+<agent>wizard</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_wizard_greenskins_goblin_shaman</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{01d3c304-f050-4173-a09b-e5e140252440}" record_timestamp="1432810834181" record_key="wh_main_effect_agent_enable_recruitment_wizard_greenskins_orc_shamanavailabilitywizard">
+<agent>wizard</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_wizard_greenskins_orc_shaman</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{53641d8f-5ee4-4905-956b-93d6b64e83ed}" record_timestamp="1427193406680" record_key="wh_main_effect_agent_enable_recruitment_wizard_kislevavailabilitywizard">
+<agent>wizard</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_wizard_kislev</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{bb83be5c-9337-4505-8d6e-51896e6bd5f9}" record_timestamp="1427193405140" record_key="wh_main_effect_agent_enable_recruitment_wizard_tebavailabilitywizard">
+<agent>wizard</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_wizard_teb</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{782ec675-60aa-403a-8e53-49b5c19863ee}" record_timestamp="1427193405755" record_key="wh_main_effect_agent_enable_recruitment_wizard_vampire_countsavailabilitywizard">
+<agent>wizard</agent>
+<bonus_value_id>availability</bonus_value_id>
+<effect>wh_main_effect_agent_enable_recruitment_wizard_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{70fdd492-234e-4564-bd9f-1c962b21a057}" record_timestamp="1425557298588" record_key="wh_main_effect_agent_failure_chance_criticalcritical_failure_modchampion">
+<agent>champion</agent>
+<bonus_value_id>critical_failure_mod</bonus_value_id>
+<effect>wh_main_effect_agent_failure_chance_critical</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{542f5c41-e57d-4024-a6b8-2227523ecf02}" record_timestamp="1425557298510" record_key="wh_main_effect_agent_failure_chance_criticalcritical_failure_moddignitary">
+<agent>dignitary</agent>
+<bonus_value_id>critical_failure_mod</bonus_value_id>
+<effect>wh_main_effect_agent_failure_chance_critical</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{4d55f928-db18-443f-a48a-6f4ec9110528}" record_timestamp="1427186587187" record_key="wh_main_effect_agent_failure_chance_criticalcritical_failure_modengineer">
+<agent>engineer</agent>
+<bonus_value_id>critical_failure_mod</bonus_value_id>
+<effect>wh_main_effect_agent_failure_chance_critical</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{aef19a62-a96c-457c-8c70-7d5e709152ca}" record_timestamp="1427186587245" record_key="wh_main_effect_agent_failure_chance_criticalcritical_failure_modrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>critical_failure_mod</bonus_value_id>
+<effect>wh_main_effect_agent_failure_chance_critical</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{f002282f-3993-4b3c-a136-122bed8d5749}" record_timestamp="1425557298666" record_key="wh_main_effect_agent_failure_chance_criticalcritical_failure_modspy">
+<agent>spy</agent>
+<bonus_value_id>critical_failure_mod</bonus_value_id>
+<effect>wh_main_effect_agent_failure_chance_critical</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{56178b88-141c-444c-81e7-6efff393a54e}" record_timestamp="1427186587127" record_key="wh_main_effect_agent_failure_chance_criticalcritical_failure_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>critical_failure_mod</bonus_value_id>
+<effect>wh_main_effect_agent_failure_chance_critical</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{7ebfee3a-ba5b-4bf1-be1b-2ab15323e59e}" record_timestamp="1427193394304" record_key="wh_main_effect_agent_recruitment_cost_mod_champion_bretonniarecruit_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_champion_bretonnia</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{9b43701c-ac7b-43ae-b501-80afd949183d}" record_timestamp="1427193394599" record_key="wh_main_effect_agent_recruitment_cost_mod_champion_chaosrecruit_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_champion_chaos</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{8b8e7c4a-b6f3-4456-8900-0d8820866bf2}" record_timestamp="1427193393714" record_key="wh_main_effect_agent_recruitment_cost_mod_champion_dwarfsrecruit_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_champion_dwarfs</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{4659fddb-c5a7-4a02-9ac2-caebce3ad320}" record_timestamp="1427193391554" record_key="wh_main_effect_agent_recruitment_cost_mod_champion_empirerecruit_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_champion_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{331cbc55-fd5a-4f6e-bc5b-5da405c007fd}" record_timestamp="1427193394889" record_key="wh_main_effect_agent_recruitment_cost_mod_champion_ktebrecruit_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_champion_kteb</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{e21f3b53-4d6d-4fab-a1e1-ff9f7405b232}" record_timestamp="1427193394009" record_key="wh_main_effect_agent_recruitment_cost_mod_champion_vampire_countsrecruit_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_champion_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{c1e1612e-f6a0-46c5-9437-30a74130b8ed}" record_timestamp="1427193400140" record_key="wh_main_effect_agent_recruitment_cost_mod_dignitary_empirerecruit_cost_moddignitary">
+<agent>dignitary</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_dignitary_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{3d4eb998-6eda-4437-9105-ab9b20da3bc2}" record_timestamp="1427193401070" record_key="wh_main_effect_agent_recruitment_cost_mod_dignitary_vampire_countsrecruit_cost_moddignitary">
+<agent>dignitary</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_dignitary_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{afbd4ac4-7810-4f1c-9642-40160e9a0fe3}" record_timestamp="1427186587943" record_key="wh_main_effect_agent_recruitment_cost_mod_engineerrecruit_cost_modengineer">
+<agent>engineer</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_engineer</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{920773cc-cda2-478a-8444-8b17beec1ff7}" record_timestamp="1427186587886" record_key="wh_main_effect_agent_recruitment_cost_mod_runesmithrecruit_cost_modrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_runesmith</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{64292a34-3ab6-44f5-b860-11bd0a987d53}" record_timestamp="1427193396729" record_key="wh_main_effect_agent_recruitment_cost_mod_spy_empirerecruit_cost_modspy">
+<agent>spy</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_spy_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{91e04495-87e2-4871-8bdd-de3e1c552c33}" record_timestamp="1427193398029" record_key="wh_main_effect_agent_recruitment_cost_mod_spy_greenskinsrecruit_cost_modspy">
+<agent>spy</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_spy_greenskins</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{76adc49e-affe-45bd-975b-90cc717ed44e}" record_timestamp="1427193397734" record_key="wh_main_effect_agent_recruitment_cost_mod_spy_vampire_countsrecruit_cost_modspy">
+<agent>spy</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_spy_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{57e5d951-81c6-4378-a6bd-cd75e7414c92}" record_timestamp="1427193406125" record_key="wh_main_effect_agent_recruitment_cost_mod_wizard_bretonniarecruit_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_wizard_bretonnia</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{6a8e6fab-eab7-4adc-aed6-be9ce4481b92}" record_timestamp="1427193406435" record_key="wh_main_effect_agent_recruitment_cost_mod_wizard_chaosrecruit_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_wizard_chaos</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{2f9a8288-513f-4545-818b-3e41f450ceec}" record_timestamp="1427193402810" record_key="wh_main_effect_agent_recruitment_cost_mod_wizard_empirerecruit_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_wizard_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{25e4b253-b7d9-43ac-908b-f74fcdc8dbc4}" record_timestamp="1427193405505" record_key="wh_main_effect_agent_recruitment_cost_mod_wizard_greenskinsrecruit_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_wizard_greenskins</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{cc4c2256-6dc9-492b-8ab0-16ec2eebc898}" record_timestamp="1427193406745" record_key="wh_main_effect_agent_recruitment_cost_mod_wizard_kislevrecruit_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_wizard_kislev</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{636b4f42-01ec-41d3-a261-b1d6bae5b632}" record_timestamp="1427193405200" record_key="wh_main_effect_agent_recruitment_cost_mod_wizard_tebrecruit_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_wizard_teb</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{9a1e7246-2e39-4c21-879e-bdfcf5356adc}" record_timestamp="1427193405815" record_key="wh_main_effect_agent_recruitment_cost_mod_wizard_vampire_countsrecruit_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod_wizard_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{85b17965-1c28-4f86-b510-6dc1fa5ea29a}" record_timestamp="1425557307418" record_key="wh_main_effect_agent_recruitment_cost_modrecruit_cost_modchampion">
+<agent>champion</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{4a861930-35a8-4f1d-af3d-40c6e75fabfd}" record_timestamp="1425557307355" record_key="wh_main_effect_agent_recruitment_cost_modrecruit_cost_moddignitary">
+<agent>dignitary</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{4b647533-9836-4aa7-9697-9b5af4ee6de0}" record_timestamp="1427186587012" record_key="wh_main_effect_agent_recruitment_cost_modrecruit_cost_modengineer">
+<agent>engineer</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{1ade3422-e532-481c-b150-400e972542c5}" record_timestamp="1427186587069" record_key="wh_main_effect_agent_recruitment_cost_modrecruit_cost_modrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{77afebea-8b71-411d-802c-c3209e6f3675}" record_timestamp="1425557307496" record_key="wh_main_effect_agent_recruitment_cost_modrecruit_cost_modspy">
+<agent>spy</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{7474b5f6-9925-41bd-ae6b-723f81caf8a4}" record_timestamp="1427186586954" record_key="wh_main_effect_agent_recruitment_cost_modrecruit_cost_modwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruit_cost_mod</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_cost_mod</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{c7aa6c74-7dbf-44c8-bb69-fdf84822ed12}" record_timestamp="1425557309149" record_key="wh_main_effect_agent_recruitment_xp_all_agentsrecruitment_levelchampion">
+<agent>champion</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_all_agents</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{effb861c-0df3-4e2c-91e8-70c6620fb9d4}" record_timestamp="1425557309071" record_key="wh_main_effect_agent_recruitment_xp_all_agentsrecruitment_leveldignitary">
+<agent>dignitary</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_all_agents</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{a6d6e732-e50a-492f-88cc-22266c7ecc0e}" record_timestamp="1427186586838" record_key="wh_main_effect_agent_recruitment_xp_all_agentsrecruitment_levelengineer">
+<agent>engineer</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_all_agents</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{7bf546da-48b6-46ed-953e-458fdf8d6b0f}" record_timestamp="1427186586896" record_key="wh_main_effect_agent_recruitment_xp_all_agentsrecruitment_levelrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_all_agents</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{5da1f5f4-2be5-4531-b6ae-4177a734f804}" record_timestamp="1425557308993" record_key="wh_main_effect_agent_recruitment_xp_all_agentsrecruitment_levelspy">
+<agent>spy</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_all_agents</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{cf61e277-c52c-405b-b8ae-7dcbe17923a7}" record_timestamp="1427186586781" record_key="wh_main_effect_agent_recruitment_xp_all_agentsrecruitment_levelwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_all_agents</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{6bab9462-a2b2-41c3-b860-cd248f241846}" record_timestamp="1427193394364" record_key="wh_main_effect_agent_recruitment_xp_champion_bretonniarecruitment_levelchampion">
+<agent>champion</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_champion_bretonnia</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{8f870056-9386-4e25-90d2-c1479e5c1472}" record_timestamp="1427193394654" record_key="wh_main_effect_agent_recruitment_xp_champion_chaosrecruitment_levelchampion">
+<agent>champion</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_champion_chaos</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{0fd447fc-e016-430b-bbca-d688fba52bf7}" record_timestamp="1427193393774" record_key="wh_main_effect_agent_recruitment_xp_champion_dwarfsrecruitment_levelchampion">
+<agent>champion</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_champion_dwarfs</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{2b9aec53-b887-47fa-b496-32b79d20cc9b}" record_timestamp="1427193391684" record_key="wh_main_effect_agent_recruitment_xp_champion_empirerecruitment_levelchampion">
+<agent>champion</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_champion_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{db926efe-a699-4b3b-8557-c4e6041a149a}" record_timestamp="1427193394944" record_key="wh_main_effect_agent_recruitment_xp_champion_ktebrecruitment_levelchampion">
+<agent>champion</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_champion_kteb</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{2658f4dd-b868-4064-a8da-b44bd36369d2}" record_timestamp="1427193394069" record_key="wh_main_effect_agent_recruitment_xp_champion_vampire_countsrecruitment_levelchampion">
+<agent>champion</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_champion_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{91ec8dcb-8a7e-49e3-a0a0-0abb1d11e6a6}" record_timestamp="1427193400330" record_key="wh_main_effect_agent_recruitment_xp_dignitary_empirerecruitment_leveldignitary">
+<agent>dignitary</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_dignitary_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{52bfe75f-1c6e-4724-907d-15c4b9fa606a}" record_timestamp="1427193401135" record_key="wh_main_effect_agent_recruitment_xp_dignitary_vampire_countsrecruitment_leveldignitary">
+<agent>dignitary</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_dignitary_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{2277fb60-2087-46f0-a0cd-8dc164caa907}" record_timestamp="1427186588110" record_key="wh_main_effect_agent_recruitment_xp_engineerrecruitment_levelengineer">
+<agent>engineer</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_engineer</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{0a105835-bb85-444c-9efd-10f3b8909baf}" record_timestamp="1427186588055" record_key="wh_main_effect_agent_recruitment_xp_runesmithrecruitment_levelrunesmith">
+<agent>runesmith</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_runesmith</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{b26b6203-b261-418b-a244-cd22f381e79b}" record_timestamp="1427193396909" record_key="wh_main_effect_agent_recruitment_xp_spy_empirerecruitment_levelspy">
+<agent>spy</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_spy_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{a59ff4ac-7d32-4d7e-bf6e-9914a0c8d373}" record_timestamp="1427193398089" record_key="wh_main_effect_agent_recruitment_xp_spy_greenskinsrecruitment_levelspy">
+<agent>spy</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_spy_greenskins</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{f7848984-bf07-4f95-8e22-882f47a5bce1}" record_timestamp="1427193397794" record_key="wh_main_effect_agent_recruitment_xp_spy_vampire_countsrecruitment_levelspy">
+<agent>spy</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_spy_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{1fe5650c-6535-4517-9846-143610a026da}" record_timestamp="1427193406185" record_key="wh_main_effect_agent_recruitment_xp_wizard_bretonniarecruitment_levelwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_wizard_bretonnia</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{9deb78d3-f73b-40b9-9dad-510ea024c27f}" record_timestamp="1427193406495" record_key="wh_main_effect_agent_recruitment_xp_wizard_chaosrecruitment_levelwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_wizard_chaos</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{b11b114b-0095-4d1d-878d-3c5e0c97ecc7}" record_timestamp="1427193403000" record_key="wh_main_effect_agent_recruitment_xp_wizard_empirerecruitment_levelwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_wizard_empire</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{296237ec-4c2a-4af9-aaa0-d33d0661a77c}" record_timestamp="1427193405570" record_key="wh_main_effect_agent_recruitment_xp_wizard_greenskinsrecruitment_levelwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_wizard_greenskins</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{abfaa76f-7667-4f80-8bd9-86e2928e46f4}" record_timestamp="1427193406805" record_key="wh_main_effect_agent_recruitment_xp_wizard_kislevrecruitment_levelwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_wizard_kislev</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{5c9d8244-2a70-4172-aa61-6ff583f69631}" record_timestamp="1427193405260" record_key="wh_main_effect_agent_recruitment_xp_wizard_tebrecruitment_levelwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_wizard_teb</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{df56f5f7-606f-461d-9764-28aff51bb123}" record_timestamp="1427193405875" record_key="wh_main_effect_agent_recruitment_xp_wizard_vampire_countsrecruitment_levelwizard">
+<agent>wizard</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_effect_agent_recruitment_xp_wizard_vampire_counts</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{a8653f75-07bc-4a0c-af20-9ac0d2ad69f5}" record_timestamp="1479320721819" record_key="wh_main_faction_xp_increase_generals_hiddenrecruitment_levelgeneral">
+<agent>general</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_faction_xp_increase_generals_hidden</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction record_uuid="{eb4e89a9-1199-4587-b832-b4939429827d}" record_timestamp="1462358714121" record_key="wh_main_faction_xp_increase_generalsrecruitment_levelgeneral">
+<agent>general</agent>
+<bonus_value_id>recruitment_level</bonus_value_id>
+<effect>wh_main_faction_xp_increase_generals</effect>
+</effect_bonus_value_agent_junction>
+</dataroot>

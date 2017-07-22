@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_construction_system_blocking_categories.xsd" export_time="Wed May 4 11:51:38 2016" revision="8" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>4dbf7833-153a-4d55-a0af-85b5c56eebc2</edit_uuid>
+<cai_construction_system_blocking_categories record_uuid="{4d2dead8-a0f0-4295-b812-0cd359d9b19d}" record_timestamp="1462358731707" record_key="basic_recruitment_unlocks">
+<absence_of_non_blocking_building_is_a_problem>1</absence_of_non_blocking_building_is_a_problem>
+<blocking_penalty>100</blocking_penalty>
+<key>basic_recruitment_unlocks</key>
+<non_blocking_bonus>500</non_blocking_bonus>
+<number_of_turns_before_enabling_conversion>1</number_of_turns_before_enabling_conversion>
+<number_of_turns_before_enabling_demolition>1</number_of_turns_before_enabling_demolition>
+<should_disable_recruitment_when_blocking>1</should_disable_recruitment_when_blocking>
+</cai_construction_system_blocking_categories>
+</dataroot>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_ai_abilities_usage_params.xsd" export_time="Wed Feb 17 09:43:57 2016" revision="29" export_branch="E:/TW/warhammer/src" export_user="bob">
+<edit_uuid>ef1a1422-5435-449d-9e8f-3b8df6bddbb4</edit_uuid>
+<battle_ai_abilities_usage_params record_uuid="{85cdb69b-cf6b-4598-be74-ac3994ee6350}" record_timestamp="1449242112314" record_key="bool_charged_at">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_charged_at</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{43a3d91e-ed51-42d2-bf7d-82223812962f}" record_timestamp="1437127536845" record_key="bool_charging">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_charging</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{5ae04892-1dfb-40b5-b504-0b5bfbbcfd44}" record_timestamp="1449242112308" record_key="bool_charging_at_me">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_charging_at_me</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{5169d426-aadd-4bdf-92d5-bec9f704c384}" record_timestamp="1437127536848" record_key="bool_contesting_victory_point">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_contesting_victory_point</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{fcfcb993-f533-4b94-8a32-7d3c5e13bcf5}" record_timestamp="1437127536846" record_key="bool_flying_currently">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_flying_currently</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{c6403501-3a00-480f-b31d-1c83b0d8a1a6}" record_timestamp="1455702237204" record_key="bool_flying_currently_inverse">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_flying_currently_inverse</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{58602b10-4910-42de-a8df-99f1346f328f}" record_timestamp="1437127536847" record_key="bool_has_abilities_costing_mana">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_has_abilities_costing_mana</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{ef83a2ce-7466-4c5f-a8f3-b6ff74bf39cb}" record_timestamp="1437127536846" record_key="bool_in_melee">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_in_melee</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{d2cc4376-0fa8-4ae9-bf57-489866db04e5}" record_timestamp="1437127536846" record_key="bool_missile_unit">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_missile_unit</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{63c6347c-8366-496a-8a85-db8f071e6278}" record_timestamp="1439212849447" record_key="bool_missile_unit_inverse">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_missile_unit_inverse</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{3ea3ed8f-a8ca-45a5-89a1-9e4a2b27d107}" record_timestamp="1437466218694" record_key="bool_on_wall_near_siege_attack_focus">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_on_wall_near_siege_attack_focus</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{675862b9-3270-4fe4-98d7-4a09806f3e1a}" record_timestamp="1437127536846" record_key="bool_out_of_melee">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_out_of_melee</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{e2cd98ac-fe1c-4754-a42f-7eacce1eba66}" record_timestamp="1437127536846" record_key="bool_shooting">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_shooting</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{5a90063c-052f-4eaa-ba35-4a3891f60b77}" record_timestamp="1449764555511" record_key="bool_shooting_at_me">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_shooting_at_me</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{139ed6b1-ea91-4f36-849b-a7f994175d0d}" record_timestamp="1437127536847" record_key="bool_standing_still">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_standing_still</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{a30878bb-569b-485c-89ba-92fe23e73ef5}" record_timestamp="1449578120583" record_key="bool_threatened">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_threatened</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{498ba2e0-ac39-4a75-aa26-64a2bd7418fd}" record_timestamp="1449578120584" record_key="bool_threatening_me">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_threatening_me</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{1680cb90-8e4f-4729-869a-de77b7c82fb1}" record_timestamp="1437127536847" record_key="bool_under_fire">
+<divisor_factor>1</divisor_factor>
+<usage_param>bool_under_fire</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{43e53875-5522-4bb4-8a9f-6d9f39f90eef}" record_timestamp="1430297134177" record_key="value_armour">
+<divisor_factor>100</divisor_factor>
+<usage_param>value_armour</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{841415d3-bd6e-4711-a7fe-9ee965b25ce2}" record_timestamp="1429880267846" record_key="value_armour_inverse">
+<divisor_factor>100</divisor_factor>
+<usage_param>value_armour_inverse</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{ed10b236-30ff-4343-a0f3-6ac9a3645761}" record_timestamp="1442224846583" record_key="value_damage_resist_all">
+<divisor_factor>100</divisor_factor>
+<usage_param>value_damage_resist_all</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{5faa84eb-1ee2-4829-bd66-a4c1c4a1252d}" record_timestamp="1442224846698" record_key="value_damage_resist_flame">
+<divisor_factor>100</divisor_factor>
+<usage_param>value_damage_resist_flame</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{22403e99-735a-464e-9bd2-daa253ab2b52}" record_timestamp="1442224846730" record_key="value_damage_resist_magic">
+<divisor_factor>100</divisor_factor>
+<usage_param>value_damage_resist_magic</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{ccc4734b-4a43-4bb5-b816-15c13133042a}" record_timestamp="1442224846628" record_key="value_damage_resist_missile">
+<divisor_factor>100</divisor_factor>
+<usage_param>value_damage_resist_missile</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{1ec80624-78c7-45e8-b893-eee0cb4de485}" record_timestamp="1442224846662" record_key="value_damage_resist_physical">
+<divisor_factor>100</divisor_factor>
+<usage_param>value_damage_resist_physical</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{5990ba5e-63ad-4d0a-8fd3-661cfd75ac93}" record_timestamp="1442224846770" record_key="value_damage_weak_flame">
+<divisor_factor>100</divisor_factor>
+<usage_param>value_damage_weak_flame</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{f2678b20-f420-4fd8-8760-7d234261d737}" record_timestamp="1438964201079" record_key="value_enemy_units_in_area">
+<divisor_factor>10</divisor_factor>
+<usage_param>value_enemy_units_in_area</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{bf01c70a-8124-4196-9991-b625c0699c3c}" record_timestamp="1429178336441" record_key="value_formation_rows">
+<divisor_factor>5</divisor_factor>
+<usage_param>value_formation_rows</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{dbe57c15-d011-4990-b928-dde97d917412}" record_timestamp="1441791560888" record_key="value_friendly_units_in_area">
+<divisor_factor>2</divisor_factor>
+<usage_param>value_friendly_units_in_area</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{3e299154-8a36-42a4-a677-7d6630a03cd2}" record_timestamp="1441977211231" record_key="value_friendly_units_in_area_inverse">
+<divisor_factor>1</divisor_factor>
+<usage_param>value_friendly_units_in_area_inverse</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{f9b31a24-6bc2-4e9a-b828-ba601816ccdf}" record_timestamp="1430837727295" record_key="value_hitpoint_damage_taken">
+<divisor_factor>10000</divisor_factor>
+<usage_param>value_hitpoint_damage_taken</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{d3445c33-7c8d-40a2-a71d-4009127579a4}" record_timestamp="1430837727198" record_key="value_hitpoint_total">
+<divisor_factor>100</divisor_factor>
+<usage_param>value_hitpoint_total</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{a6fd8bee-bd5d-472d-a663-69e6d7ed1cb6}" record_timestamp="1430221395166" record_key="value_melee_attack">
+<divisor_factor>100</divisor_factor>
+<usage_param>value_melee_attack</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{8858959f-e1fc-48ff-80ac-10fad40e1828}" record_timestamp="1430221395156" record_key="value_melee_attack_inverse">
+<divisor_factor>100</divisor_factor>
+<usage_param>value_melee_attack_inverse</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{3189ff42-5ca4-4bc5-967e-b3668a1a7b14}" record_timestamp="1429178336441" record_key="value_morale_score">
+<divisor_factor>100</divisor_factor>
+<usage_param>value_morale_score</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{1760126b-1407-4ea5-98c3-6671b37e7ad1}" record_timestamp="1429880267846" record_key="value_morale_score_inverse">
+<divisor_factor>100</divisor_factor>
+<usage_param>value_morale_score_inverse</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{f15fbbd7-a9ae-46fc-b612-93006b86131b}" record_timestamp="1429178336444" record_key="value_num_men">
+<divisor_factor>180</divisor_factor>
+<usage_param>value_num_men</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{62bba551-e861-4c1e-a1fc-e30cb49d8057}" record_timestamp="1429178336441" record_key="value_spacing_horizontal">
+<divisor_factor>5</divisor_factor>
+<usage_param>value_spacing_horizontal</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{5a36c291-9b60-4a9a-b9db-4224f4d3c02e}" record_timestamp="1429178336441" record_key="value_spacing_vertical">
+<divisor_factor>5</divisor_factor>
+<usage_param>value_spacing_vertical</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{dbe16728-70c9-4c87-aff7-1004cd5dcbf2}" record_timestamp="1453897348078" record_key="value_speed_current">
+<divisor_factor>10</divisor_factor>
+<usage_param>value_speed_current</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{34e2f4c7-3e55-497a-b5dc-e14d7a8877fa}" record_timestamp="1453897348105" record_key="value_speed_current_inverse">
+<divisor_factor>10</divisor_factor>
+<usage_param>value_speed_current_inverse</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{07d099d8-ea76-4eef-962f-1bf0ea3b6c8c}" record_timestamp="1453897348013" record_key="value_speed_max">
+<divisor_factor>10</divisor_factor>
+<usage_param>value_speed_max</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{ce8a9dcb-6a9f-487c-aaf8-30d2c0cad785}" record_timestamp="1453897348047" record_key="value_speed_max_inverse">
+<divisor_factor>10</divisor_factor>
+<usage_param>value_speed_max_inverse</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{90d48682-ddab-4523-9c5f-3cb1d397a5e3}" record_timestamp="1443453894655" record_key="value_winds_of_magic_amount">
+<divisor_factor>30</divisor_factor>
+<usage_param>value_winds_of_magic_amount</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{d169ba6c-f2a2-400c-89bb-16d219fb10ac}" record_timestamp="1443453894655" record_key="value_winds_of_magic_amount_inverse">
+<divisor_factor>30</divisor_factor>
+<usage_param>value_winds_of_magic_amount_inverse</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{a39ebd87-e02f-4f6a-87a0-0675822f9f8b}" record_timestamp="1452535402186" record_key="value_winds_of_magic_recharge">
+<divisor_factor>0.25</divisor_factor>
+<usage_param>value_winds_of_magic_recharge</usage_param>
+</battle_ai_abilities_usage_params>
+<battle_ai_abilities_usage_params record_uuid="{085f0b9d-f776-4555-9e54-9d72f739309d}" record_timestamp="1452535402173" record_key="value_winds_of_magic_recharge_inverse">
+<divisor_factor>0.25</divisor_factor>
+<usage_param>value_winds_of_magic_recharge_inverse</usage_param>
+</battle_ai_abilities_usage_params>
+</dataroot>

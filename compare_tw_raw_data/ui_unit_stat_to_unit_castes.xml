@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ui_unit_stat_to_unit_castes.xsd" export_time="Fri Dec 16 13:20:36 2016" revision="4" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>c9c1d203-108f-4c32-933c-f2ba75135a0a</edit_uuid>
+<ui_unit_stat_to_unit_castes record_uuid="{10b753a9-4b8f-4436-9f57-b2104da42086}" record_timestamp="1459940137932" record_key="scalar_missile_rangewarmachine">
+<max_value_override>600</max_value_override>
+<stat>scalar_missile_range</stat>
+<unit_caste>warmachine</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{e3e7e72c-7bb0-41f5-a6e3-1fb6d75661d5}" record_timestamp="1481894436188" record_key="stat_ammomissile_cavalry">
+<max_value_override>50</max_value_override>
+<stat>stat_ammo</stat>
+<unit_caste>missile_cavalry</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{f35c9010-df80-4d41-a3fe-87e4d126b1b3}" record_timestamp="1481894436187" record_key="stat_ammomissile_infantry">
+<max_value_override>50</max_value_override>
+<stat>stat_ammo</stat>
+<unit_caste>missile_infantry</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{82a78ba1-3f58-4aeb-9a33-29a4d631c75c}" record_timestamp="1468500675982" record_key="stat_charge_bonushero">
+<max_value_override>150</max_value_override>
+<stat>stat_charge_bonus</stat>
+<unit_caste>hero</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{326dcd4b-5855-4980-aad0-117d67b0a7b5}" record_timestamp="1468500675982" record_key="stat_charge_bonuslord">
+<max_value_override>150</max_value_override>
+<stat>stat_charge_bonus</stat>
+<unit_caste>lord</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{251b33de-3b1a-4384-a599-c7184bc9c098}" record_timestamp="1459940137937" record_key="stat_melee_damage_aphero">
+<max_value_override>800</max_value_override>
+<stat>stat_melee_damage_ap</stat>
+<unit_caste>hero</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{3a8b14a8-9e88-4cf3-8f53-b4d7b5af2002}" record_timestamp="1459940137936" record_key="stat_melee_damage_aplord">
+<max_value_override>800</max_value_override>
+<stat>stat_melee_damage_ap</stat>
+<unit_caste>lord</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{068e5fa1-f9f8-4600-915b-c90c7555937b}" record_timestamp="1459940137936" record_key="stat_melee_damage_basehero">
+<max_value_override>800</max_value_override>
+<stat>stat_melee_damage_base</stat>
+<unit_caste>hero</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{326615dc-1790-407b-9d13-b2efe80a68a3}" record_timestamp="1459940137936" record_key="stat_melee_damage_baselord">
+<max_value_override>800</max_value_override>
+<stat>stat_melee_damage_base</stat>
+<unit_caste>lord</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{11dad2aa-3418-4354-98fc-7f25ca9929a1}" record_timestamp="1459940137958" record_key="stat_missile_damage_over_timehero">
+<max_value_override>300</max_value_override>
+<stat>stat_missile_damage_over_time</stat>
+<unit_caste>hero</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{fdb578a9-4930-4489-849e-e16851a587cd}" record_timestamp="1459940137958" record_key="stat_missile_damage_over_timelord">
+<max_value_override>300</max_value_override>
+<stat>stat_missile_damage_over_time</stat>
+<unit_caste>lord</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{1655f960-bdb1-411a-99f7-b87cb7133621}" record_timestamp="1459940137956" record_key="stat_missile_damage_over_timewarmachine">
+<max_value_override>600</max_value_override>
+<stat>stat_missile_damage_over_time</stat>
+<unit_caste>warmachine</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{b44e1960-100d-47b1-a710-32ce316e84b1}" record_timestamp="1459940137935" record_key="stat_weapon_damagehero">
+<max_value_override>800</max_value_override>
+<stat>stat_weapon_damage</stat>
+<unit_caste>hero</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{05f8e446-352e-4741-b3c9-2d840d260d35}" record_timestamp="1459940137934" record_key="stat_weapon_damagelord">
+<max_value_override>800</max_value_override>
+<stat>stat_weapon_damage</stat>
+<unit_caste>lord</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{d8ec925e-ac9c-4787-bac2-266e58fea2f1}" record_timestamp="1459940137959" record_key="stat_weapon_damagemonster">
+<max_value_override>800</max_value_override>
+<stat>stat_weapon_damage</stat>
+<unit_caste>monster</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{fb44b2a8-4ddf-487f-a855-71d9ec6503db}" record_timestamp="1459940137959" record_key="stat_weapon_damagemonstrous_cavalry">
+<max_value_override>200</max_value_override>
+<stat>stat_weapon_damage</stat>
+<unit_caste>monstrous_cavalry</unit_caste>
+</ui_unit_stat_to_unit_castes>
+<ui_unit_stat_to_unit_castes record_uuid="{39e0c5dc-6fc3-4ea6-b090-58b701f7a4ee}" record_timestamp="1459940137959" record_key="stat_weapon_damagemonstrous_infantry">
+<max_value_override>200</max_value_override>
+<stat>stat_weapon_damage</stat>
+<unit_caste>monstrous_infantry</unit_caste>
+</ui_unit_stat_to_unit_castes>
+</dataroot>

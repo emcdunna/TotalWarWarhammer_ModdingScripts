@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personalities_income_allocation_policies.xsd" export_time="Fri Feb 10 15:26:58 2017" revision="10" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>5e3714a6-2c3e-456f-bf58-fd08ed4f6671</edit_uuid>
+<cai_personalities_income_allocation_policies record_uuid="{17526bee-46d3-4522-a3a5-9f04d093a349}" record_timestamp="1427457300312" record_key="default">
+<default_income_allocation>income_allocation_medium_spending</default_income_allocation>
+<key>default</key>
+</cai_personalities_income_allocation_policies>
+<cai_personalities_income_allocation_policies record_uuid="{443ced50-7764-491d-baa5-91fa22a62925}" record_timestamp="1427457300362" record_key="militarist">
+<default_income_allocation>income_allocation_high_spending</default_income_allocation>
+<key>militarist</key>
+</cai_personalities_income_allocation_policies>
+<cai_personalities_income_allocation_policies record_uuid="{cd3c0ead-f86e-4f9c-ab9d-ca052a867af7}" record_timestamp="1427457300402" record_key="peaceful">
+<default_income_allocation>income_allocation_low_spending</default_income_allocation>
+<key>peaceful</key>
+</cai_personalities_income_allocation_policies>
+<cai_personalities_income_allocation_policies record_uuid="{b909594a-728c-4339-b64e-1e5cfb8be805}" record_timestamp="1448364819555" record_key="small_military">
+<default_income_allocation>income_allocation_low_spending</default_income_allocation>
+<key>small_military</key>
+</cai_personalities_income_allocation_policies>
+<cai_personalities_income_allocation_policies record_uuid="{48d27e14-09b6-4ab7-87a2-3d0d8cc976b0}" record_timestamp="1486740417891" record_key="small_military_no_ovespend">
+<default_income_allocation>income_allocation_low_spending_no_overspend</default_income_allocation>
+<key>small_military_no_ovespend</key>
+</cai_personalities_income_allocation_policies>
+</dataroot>

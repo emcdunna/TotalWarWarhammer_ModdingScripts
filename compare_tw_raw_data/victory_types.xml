@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="victory_types.xsd" export_time="Fri Aug 5 16:46:30 2016" revision="19" export_branch="T:/branches/warhammer/sigmar/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>ba403bd9-83c9-490b-9e68-f3a083672177</edit_uuid>
+<victory_types record_uuid="{8cef185a-e2e6-4d97-b904-838041a7fdd2}" record_timestamp="1470402632529" record_key="wh_dlc03_victory_type_major">
+<display_name state="APPROVED" last_approved_text="Campaign Victory" last_edit_user="bob">Campaign Victory</display_name>
+<icon>long</icon>
+<length_type>long</length_type>
+<tree_x>0</tree_x>
+<tree_y>1</tree_y>
+<victory_type>wh_dlc03_victory_type_major</victory_type>
+</victory_types>
+<victory_types record_uuid="{da86610b-3b0a-4b42-b41a-979ca0266291}" record_timestamp="1456490547210" record_key="wh_dlc03_victory_type_minor">
+<display_name state="APPROVED" last_approved_text="Minor Campaign Victory" last_edit_user="bob">Minor Campaign Victory</display_name>
+<icon>short</icon>
+<length_type>short</length_type>
+<tree_x>0</tree_x>
+<tree_y>0</tree_y>
+<victory_type>wh_dlc03_victory_type_minor</victory_type>
+</victory_types>
+<victory_types record_uuid="{76157ace-5dc0-4779-bc30-873c763e9830}" record_timestamp="1468496401762" record_key="wh_dlc03_victory_type_ultimate">
+<display_name state="APPROVED" last_approved_text="Ultimate Campaign Victory" last_edit_user="bob">Ultimate Campaign Victory</display_name>
+<icon>ultimate</icon>
+<length_type>long</length_type>
+<tree_x>0</tree_x>
+<tree_y>2</tree_y>
+<victory_type>wh_dlc03_victory_type_ultimate</victory_type>
+</victory_types>
+<victory_types record_uuid="{286b0b0c-f6c2-4ffe-b88c-7134326bf8dd}" record_timestamp="1468496401763" record_key="wh_dlc05_victory_type_major">
+<display_name state="APPROVED" last_approved_text="Major Campaign Victory" last_edit_user="bob">Major Campaign Victory</display_name>
+<icon>long</icon>
+<length_type>long</length_type>
+<tree_x>0</tree_x>
+<tree_y>1</tree_y>
+<victory_type>wh_dlc05_victory_type_major</victory_type>
+</victory_types>
+<victory_types record_uuid="{c1ae17ea-1ddc-4d5a-87a8-27a6f88488dd}" record_timestamp="1468496401764" record_key="wh_dlc05_victory_type_minor">
+<display_name state="APPROVED" last_approved_text="Minor Campaign Victory" last_edit_user="bob">Minor Campaign Victory</display_name>
+<icon>short</icon>
+<length_type>short</length_type>
+<tree_x>0</tree_x>
+<tree_y>0</tree_y>
+<victory_type>wh_dlc05_victory_type_minor</victory_type>
+</victory_types>
+<victory_types record_uuid="{82ddb0c3-053b-4872-aee4-c2312931f146}" record_timestamp="1468496401765" record_key="wh_dlc05_victory_type_ultimate">
+<display_name state="APPROVED" last_approved_text="Ultimate Campaign Victory" last_edit_user="bob">Ultimate Campaign Victory</display_name>
+<icon>ultimate</icon>
+<length_type>long</length_type>
+<tree_x>0</tree_x>
+<tree_y>2</tree_y>
+<victory_type>wh_dlc05_victory_type_ultimate</victory_type>
+</victory_types>
+<victory_types record_uuid="{a92b4e63-b9c1-4575-8461-0ba437056bdd}" record_timestamp="1447066116410" record_key="wh_main_victory_type_long">
+<display_name state="APPROVED" last_approved_text="Long Campaign Victory" last_edit_user="bob">Long Campaign Victory</display_name>
+<icon>long</icon>
+<length_type>long</length_type>
+<tree_x>0</tree_x>
+<tree_y>1</tree_y>
+<victory_type>wh_main_victory_type_long</victory_type>
+</victory_types>
+<victory_types record_uuid="{aba7adb5-4bd5-497f-8a85-ec0bec1cf3ff}" record_timestamp="1447066116428" record_key="wh_main_victory_type_mp_coop">
+<display_name state="APPROVED" last_approved_text="Co-Operative" last_edit_user="bob">Co-Operative</display_name>
+<icon>short</icon>
+<length_type>short</length_type>
+<tree_x>0</tree_x>
+<tree_y>0</tree_y>
+<victory_type>wh_main_victory_type_mp_coop</victory_type>
+</victory_types>
+<victory_types record_uuid="{2e86d81d-22c7-44a5-9d2a-ca9da2d2b9b2}" record_timestamp="1447066116449" record_key="wh_main_victory_type_mp_versus">
+<display_name state="APPROVED" last_approved_text="Head to Head" last_edit_user="bob">Head to Head</display_name>
+<icon>short</icon>
+<length_type>short</length_type>
+<tree_x>0</tree_x>
+<tree_y>0</tree_y>
+<victory_type>wh_main_victory_type_mp_versus</victory_type>
+</victory_types>
+<victory_types record_uuid="{84ad571b-cafd-49ed-893a-ab3f07ae0fe8}" record_timestamp="1447066116470" record_key="wh_main_victory_type_short">
+<display_name state="APPROVED" last_approved_text="Short Campaign Victory" last_edit_user="bob">Short Campaign Victory</display_name>
+<icon>short</icon>
+<length_type>short</length_type>
+<tree_x>0</tree_x>
+<tree_y>0</tree_y>
+<victory_type>wh_main_victory_type_short</victory_type>
+</victory_types>
+</dataroot>

@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="warscape_animated.xsd" export_time="Mon Sep 19 16:32:44 2016" revision="102" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>0c108829-4f1f-487a-94fa-e69fe387345c</edit_uuid>
+<warscape_animated record_uuid="{ba658a47-7b68-4a28-9f79-70b1cd23058a}" record_timestamp="1387385191984" record_key="brt_trebuchet">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>brt_trebuchet</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{53845347-6ac1-4524-a920-5c6e0ac79fbc}" record_timestamp="1435750078990" record_key="brt_trebuchet_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>brt_trebuchet_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{9f3f5279-0d8a-43ac-aca3-2e08181f076c}" record_timestamp="1468497311718" record_key="bst_razorgor_chariot">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>bst_razorgor_chariot</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{a43f08f4-8f87-4580-b244-75d356f3be7e}" record_timestamp="1468497311718" record_key="bst_razorgor_chariot_destruction">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>bst_razorgor_chariot_destruction</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{e0b9f35e-ad4c-462d-9215-54d149de0116}" record_key="campaign_building_placeholder1_anim">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_building_placeholder1_anim</key>
+<texture_filename_base>RigidModels/CampaignBuildings/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{8b9d6897-f714-4497-8c0e-1acc451a96f6}" record_key="campaign_building_siege">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_building_siege</key>
+<texture_filename_base>RigidModels\CampaignBuildings\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{7e7bf845-ce34-4c13-a67d-afc8345acd80}" record_key="campaign_ship">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_ship</key>
+<texture_filename_base>RigidModels/CampaignPieces/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{6d0b05f3-f280-4f42-97cc-bfbd16b6d908}" record_key="campaign_ship2">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_ship2</key>
+<texture_filename_base>RigidModels/CampaignPieces/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{b158b255-b419-4277-8df8-8accc4dc9a18}" record_key="campaign_sho_castle_siege_lvl1">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_castle_siege_lvl1</key>
+<texture_filename_base>RigidModels\CampaignBuildings\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{e3cda6c0-e7ce-4356-95d0-9a3bda9732ec}" record_key="campaign_sho_castle_siege_lvl2">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_castle_siege_lvl2</key>
+<texture_filename_base>RigidModels\CampaignBuildings\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{046147e2-c22d-4af8-9bcd-25f513be0d66}" record_key="campaign_sho_castle_siege_lvl2:sho_custom_kyoto">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_castle_siege_lvl2:sho_custom_kyoto</key>
+<texture_filename_base>RigidModels\CampaignBuildings\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{77dff515-11c1-4761-ac52-5a05faaf3c41}" record_key="campaign_sho_castle_siege_lvl3">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_castle_siege_lvl3</key>
+<texture_filename_base>RigidModels\CampaignBuildings\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{07b0cf90-37e8-4983-a8a1-c70475708b5e}" record_key="campaign_sho_castle_siege_lvl3:sho_custom_kyoto">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_castle_siege_lvl3:sho_custom_kyoto</key>
+<texture_filename_base>RigidModels\CampaignBuildings\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{d59c6258-632f-4f00-9e76-953af7693db4}" record_key="campaign_sho_castle_siege_lvl4">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_castle_siege_lvl4</key>
+<texture_filename_base>RigidModels\CampaignBuildings\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{002ae61a-3452-4da8-b59b-e9fc8ba28547}" record_key="campaign_sho_castle_siege_lvl4:sho_custom_kyoto">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_castle_siege_lvl4:sho_custom_kyoto</key>
+<texture_filename_base>RigidModels\CampaignBuildings\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{d346ab5f-3ef0-41f3-adfa-c15f87bc2e49}" record_key="campaign_sho_castle_siege_lvl5">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_castle_siege_lvl5</key>
+<texture_filename_base>RigidModels\CampaignBuildings\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{d9d2c6c0-0fcd-4bb8-8f41-45334665e5f4}" record_key="campaign_sho_castle_siege_lvl5:sho_custom_kyoto">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_castle_siege_lvl5:sho_custom_kyoto</key>
+<texture_filename_base>RigidModels\CampaignBuildings\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{0e2bab9c-a487-495d-bee4-1c5237678f3f}" record_key="campaign_sho_region_specialty_gold_mining_3_mining_complex_anim">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_region_specialty_gold_mining_3_mining_complex_anim</key>
+<texture_filename_base>RigidModels/CampaignBuildings/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{c9056bf7-79c8-4a62-aca3-8fefe1788c00}" record_key="campaign_sho_region_specialty_horses_1_pastures">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_region_specialty_horses_1_pastures</key>
+<texture_filename_base>RigidModels\CampaignBuildings\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{22cc38de-fec1-4a45-bda2-5ce8e6ea73af}" record_key="campaign_sho_region_specialty_horses_1_pastures_anim">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_region_specialty_horses_1_pastures_anim</key>
+<texture_filename_base>RigidModels/CampaignBuildings/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{1a9b5294-417c-463b-a381-67062ea660b2}" record_key="campaign_sho_region_specialty_horses_2_breeders">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_region_specialty_horses_2_breeders</key>
+<texture_filename_base>RigidModels\CampaignBuildings\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{f9d43bcd-a5d6-4b1c-a4f5-b585c7164160}" record_key="campaign_sho_region_specialty_horses_2_breeders_anim">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_region_specialty_horses_2_breeders_anim</key>
+<texture_filename_base>RigidModels/CampaignBuildings/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{9a52c866-a618-4f6a-99cc-9988ecdb82de}" record_key="campaign_sho_region_specialty_horses_3_warhorse">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_region_specialty_horses_3_warhorse</key>
+<texture_filename_base>RigidModels\CampaignBuildings\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{12bbb2cc-9660-43ed-a265-804a9811e3f6}" record_key="campaign_sho_region_specialty_horses_3_warhorse_breeders_anim">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_region_specialty_horses_3_warhorse_breeders_anim</key>
+<texture_filename_base>RigidModels/CampaignBuildings/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{58b95b62-f0aa-4d6f-87d8-79d7ca8b075d}" record_key="campaign_sho_region_specialty_iron_mining_3_mining_complex_anim">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_region_specialty_iron_mining_3_mining_complex_anim</key>
+<texture_filename_base>RigidModels/CampaignBuildings/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{ce49fd79-8e29-40d5-81e4-fb9e43e4392e}" record_key="campaign_sho_region_specialty_stone_1_stonemason">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_region_specialty_stone_1_stonemason</key>
+<texture_filename_base>RigidModels/CampaignBuildings/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{ae391c65-f66b-4b29-acaa-dc1ab329b0a2}" record_key="campaign_sho_region_specialty_stone_1_stonemason_anim">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_region_specialty_stone_1_stonemason_anim</key>
+<texture_filename_base>RigidModels/CampaignBuildings/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{34bccb83-586e-4087-ad2f-658c3e48f36b}" record_key="campaign_sho_region_specialty_stone_2_quarry">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_region_specialty_stone_2_quarry</key>
+<texture_filename_base>RigidModels/CampaignBuildings/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{ba9b5ce4-0457-438d-ad5d-444c8d8c902f}" record_key="campaign_sho_region_specialty_stone_2_quarry_anim">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_region_specialty_stone_2_quarry_anim</key>
+<texture_filename_base>RigidModels/CampaignBuildings/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{a0dcbccb-7965-4f19-baf0-4d71267b975a}" record_key="campaign_sho_region_specialty_stone_3_stoneworls">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_region_specialty_stone_3_stoneworls</key>
+<texture_filename_base>RigidModels/CampaignBuildings/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{d2b01e29-7da2-41e2-9824-14f40123be04}" record_key="campaign_sho_region_specialty_stone_3_stoneworls_anim">
+<category>campaign_building</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_sho_region_specialty_stone_3_stoneworls_anim</key>
+<texture_filename_base>RigidModels/CampaignBuildings/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{4e3ef152-c25e-4ab5-9f0e-5d941504d7a3}" record_key="campaign_trader_trade_cart">
+<category>campaign_animation</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_trader_trade_cart</key>
+<texture_filename_base>RigidModels\CampaignTradeRoutes\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{df26808b-589c-44a8-9d58-0783de15e233}" record_timestamp="1365607123995" record_key="campaign_trader_trade_ship">
+<category>campaign_animation</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_trader_trade_ship</key>
+<texture_filename_base>RigidModels\campaign\textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{d38214d2-eac5-4217-ad11-01def9aff8b1}" record_key="campaign_trader_villager">
+<category>campaign_animation</category>
+<game_expansion_key></game_expansion_key>
+<key>campaign_trader_villager</key>
+<texture_filename_base>RigidModels\CampaignTradeRoutes\Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{261c21bd-8423-4d3c-af01-ec7fce08d27b}" record_timestamp="1363189329827" record_key="chariot_celtic">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>chariot_celtic</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{89159511-7466-4a60-8c1c-d39759537bc4}" record_timestamp="1363189329423" record_key="chariot_celtic_destruction_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>chariot_celtic_destruction_anim</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{74fae57b-854d-4503-b2b5-72d2b4581026}" record_timestamp="1363859064619" record_key="chariot_egyptian">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>chariot_egyptian</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{bc8aeb71-ba5f-4b7b-8d57-ba630a8b121d}" record_timestamp="1363859064625" record_key="chariot_egyptian_destruction_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>chariot_egyptian_destruction_anim</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{d759a02f-e944-45af-8aad-651641f7d56c}" record_timestamp="1363189329868" record_key="chariot_generic">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>chariot_generic</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{d731478e-9706-4e5b-83f3-f2d2ff5dd07a}" record_timestamp="1363189329410" record_key="chariot_generic_destruction_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>chariot_generic_destruction_anim</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{f33d19be-b5d8-4da4-8c5c-f7f95ea48538}" record_timestamp="1363189329907" record_key="chariot_roman">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>chariot_roman</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{8bcf5e41-c664-4d80-bd9f-a019a0cd7249}" record_timestamp="1363189329416" record_key="chariot_roman_destruction_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>chariot_roman_destruction_anim</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{54325135-19f5-4e6c-98cd-89fd4401ab79}" record_timestamp="1422449212897" record_key="chs_chariot">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>chs_chariot</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{a33a203f-5a08-441f-a50f-820656972ea8}" record_timestamp="1435137537431" record_key="chs_chariot_destruction">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>chs_chariot_destruction</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{3023af21-a5a2-4949-ac53-6ef1bdce2d2d}" record_timestamp="1422449212944" record_key="chs_gorebeast_chariot">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>chs_gorebeast_chariot</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{fe72bbf6-bb03-4c5d-889d-06dedf0d4e4f}" record_timestamp="1453387072569" record_key="chs_gorebeast_chariot_destruction">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>chs_gorebeast_chariot_destruction</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{f7cbca13-6bbe-467c-a0bd-3fa7fd503c51}" record_timestamp="1388743595352" record_key="chs_hellcannon">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>chs_hellcannon</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{69157e33-cabe-424a-8d43-8b2c0d681d7c}" record_timestamp="1434031570655" record_key="chs_hellcannon_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>chs_hellcannon_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{27aff7d3-5bbe-422d-bce2-646d23cf9470}" record_timestamp="1471865791619" record_key="dwf_bolt_thrower">
+<category>animation</category>
+<game_expansion_key>lord_and_units_2_owners</game_expansion_key>
+<key>dwf_bolt_thrower</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{2da3c60d-1701-46e0-8bd5-6104ef914bb5}" record_timestamp="1471865791619" record_key="dwf_bolt_thrower_destruct">
+<category>animation</category>
+<game_expansion_key>lord_and_units_2_owners</game_expansion_key>
+<key>dwf_bolt_thrower_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{04abeb4e-601e-4972-a728-19e4bde0fc75}" record_timestamp="1388743595372" record_key="dwf_cannon">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>dwf_cannon</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{919846a5-afd2-4c2b-8531-b52e812aa5f9}" record_timestamp="1450200684623" record_key="dwf_cannon_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>dwf_cannon_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{a0806796-70d9-4b73-8933-59deec2538e4}" record_timestamp="1388743595382" record_key="dwf_flame_cannon">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>dwf_flame_cannon</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{6ec05336-e4a9-4a07-83d6-85e5e54bae22}" record_timestamp="1440605427982" record_key="dwf_flame_cannon_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>dwf_flame_cannon_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{0e6e558e-c095-4f9f-aaed-c8d57b8c106e}" record_timestamp="1387385192010" record_key="dwf_grudge_thrower">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>dwf_grudge_thrower</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{d8602c1a-c5f3-4929-9de9-9617406efdcf}" record_timestamp="1450261773874" record_key="dwf_grudge_thrower_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>dwf_grudge_thrower_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{71b6f344-c671-4623-bbff-6664da0ff6e9}" record_timestamp="1474287864108" record_key="dwf_grudge_thrower_gob">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>dwf_grudge_thrower_gob</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{813d0e83-6fdd-408a-ab45-5a8fc4810b85}" record_timestamp="1474287864107" record_key="dwf_grudge_thrower_gob_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>dwf_grudge_thrower_gob_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{5e5d98af-3371-4686-a83e-4a9b89d5aa51}" record_timestamp="1388743595392" record_key="dwf_organ_gun">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>dwf_organ_gun</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{da816ff9-7c33-4d10-a0d6-45c549a05ae1}" record_timestamp="1440605428118" record_key="dwf_organ_gun_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>dwf_organ_gun_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{53f4241f-79fa-4b76-bd99-ef65e5843aec}" record_timestamp="1387385191707" record_key="emp_great_cannon">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_great_cannon</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{5c8f6c60-5d15-4b17-b7e2-81cbcae70880}" record_timestamp="1430473162690" record_key="emp_great_cannon_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_great_cannon_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{00a75783-daf4-4508-bd0c-b16c4c071c7b}" record_timestamp="1461836206670" record_key="emp_great_cannon_hammer">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_great_cannon_hammer</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{664485eb-f338-43f6-a548-357426e6e763}" record_timestamp="1461836206670" record_key="emp_great_cannon_hammer_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_great_cannon_hammer_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{e34fcda4-4736-4a0f-8fda-66a4c361eb4b}" record_timestamp="1427465846179" record_key="emp_helblaster">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_helblaster</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{a72a20f9-a52f-4639-be94-b2804281ad8f}" record_timestamp="1430473162671" record_key="emp_helblaster_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_helblaster_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{7ff5a06e-c8ff-48b0-9e3c-b4edce221b2d}" record_timestamp="1427465846188" record_key="emp_helstorm">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_helstorm</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{dbe755ca-e9a1-4541-954b-24be95062a6a}" record_timestamp="1451905727064" record_key="emp_helstorm_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_helstorm_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{759ff51d-701f-4400-8edf-94250eab4053}" record_timestamp="1462372985071" record_key="emp_helstorm_sunmaker_01">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_helstorm_sunmaker_01</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{c3d7bb5b-6e34-4e04-bb7b-f221cc0f7537}" record_timestamp="1462372985037" record_key="emp_helstorm_sunmaker_destruct_01">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_helstorm_sunmaker_destruct_01</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{bc89617e-4d6b-4cbe-a4ad-ab61230ea110}" record_timestamp="1387385191733" record_key="emp_hurricanum">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_hurricanum</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{3752c39c-f18b-4018-ba06-7cb31c137c26}" record_timestamp="1387385191738" record_key="emp_luminark">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_luminark</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{e8aecd3c-7b06-453e-a50d-ce17db77a13a}" record_timestamp="1430473162678" record_key="emp_luminark_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_luminark_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{7e6c51c5-c53c-4134-b2f8-a3b1b3ad5418}" record_timestamp="1462289733226" record_key="emp_luminark_destruct_temple">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_luminark_destruct_temple</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{a1023ac8-2919-413c-9744-1a361ba0d25f}" record_timestamp="1462289733216" record_key="emp_luminark_temple">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_luminark_temple</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{eee0f94d-62a3-4f5b-8d76-afef5d035258}" record_timestamp="1387385191743" record_key="emp_mortar">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_mortar</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{50bb2c54-5fa7-4c7b-8759-1a1cfb25578e}" record_timestamp="1450268705189" record_key="emp_mortar_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_mortar_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{7bb6e111-f25b-4766-a829-74ab7fa3611d}" record_timestamp="1387385191756" record_key="emp_steam_tank">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_steam_tank</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{53d19c8a-a85d-4a09-b040-f657f6a5220b}" record_timestamp="1430473162684" record_key="emp_steam_tank_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>emp_steam_tank_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{747ef635-ab36-4086-9a21-c586bebfcc94}" record_timestamp="1459944111889" record_key="emp_war_altar">
+<category>animation</category>
+<game_expansion_key>lord_and_units_1_everyone</game_expansion_key>
+<key>emp_war_altar</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{25ea7a4f-406d-485d-96ca-6a15b8975da1}" record_timestamp="1468339499835" record_key="emp_war_altar_destruct">
+<category>animation</category>
+<game_expansion_key>lord_and_units_1_everyone</game_expansion_key>
+<key>emp_war_altar_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{89a43dd7-bd95-4cf0-93ed-5eec8337316a}" record_key="fort_rome_testv1_gate01_piece09_destruct01_gate_closing">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>fort_rome_testv1_gate01_piece09_destruct01_gate_closing</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{a3029022-d101-485f-a8df-67a839e23129}" record_key="fort_rome_testv1_gate01_piece09_destruct01_gate_opening">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>fort_rome_testv1_gate01_piece09_destruct01_gate_opening</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{d5b01146-4788-44b1-90d6-3b29de44f7bb}" record_key="fort_rome_testv1_gate02_piece10_destruct01_gate_closing">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>fort_rome_testv1_gate02_piece10_destruct01_gate_closing</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{ada57381-2855-44d0-967e-d756bac8e8ea}" record_key="fort_rome_testv1_gate02_piece10_destruct01_gate_opening">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>fort_rome_testv1_gate02_piece10_destruct01_gate_opening</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{2e5dc6c5-7918-48c5-9087-7bca474a421f}" record_key="fort_rome_testv1_gate02_piece11_destruct01_gate_closing">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>fort_rome_testv1_gate02_piece11_destruct01_gate_closing</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{59fb04ee-5776-40f2-8881-a06ec3d4f05b}" record_key="fort_rome_testv1_gate02_piece11_destruct01_gate_opening">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>fort_rome_testv1_gate02_piece11_destruct01_gate_opening</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{0ad0a37f-a525-4487-a265-ef244601bbcb}" record_key="fort_rome_testv2_gate01_piece09_destruct01_gate_closing">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>fort_rome_testv2_gate01_piece09_destruct01_gate_closing</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{34e6cfdc-e08c-43c9-930a-9f825691a5fc}" record_key="fort_rome_testv2_gate01_piece09_destruct01_gate_opening">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>fort_rome_testv2_gate01_piece09_destruct01_gate_opening</key>
+<texture_filename_base>rigidmodels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{b031cb78-faba-49db-80b4-ced8e54d9d8a}" record_timestamp="1387385191771" record_key="grn_boar_chariot">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>grn_boar_chariot</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{87385bb3-e421-4733-b134-ca88d97e0958}" record_timestamp="1433865175740" record_key="grn_boar_chariot_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>grn_boar_chariot_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{78c1c8cb-6252-4550-a3a1-e086f4899d4c}" record_timestamp="1387385191779" record_key="grn_doomdiver_catapult">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>grn_doomdiver_catapult</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{e2531c22-1e19-4292-8302-b989db9cf433}" record_timestamp="1430473162543" record_key="grn_doomdiver_catapult_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>grn_doomdiver_catapult_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{1554362e-e955-4288-bf08-014e833c2d93}" record_timestamp="1387385191788" record_key="grn_grom_chariot">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>grn_grom_chariot</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{f3f9c35d-2229-462b-aaac-80a2265aa75c}" record_timestamp="1387385191798" record_key="grn_pump_wagon">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>grn_pump_wagon</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{38484c55-f5c9-4286-a0b2-65f1667cdbeb}" record_timestamp="1474299139142" record_key="grn_rocklobber">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>grn_rocklobber</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{8d36efa5-ccbb-4de8-9627-bb1fdc4681e3}" record_timestamp="1474299139170" record_key="grn_rocklobber_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>grn_rocklobber_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{5c8ed3e3-95c5-46d4-8280-d2357082fe0e}" record_timestamp="1474299139178" record_key="grn_rocklobber_gork">
+<category>animation</category>
+<game_expansion_key>lord_and_units_2_everyone</game_expansion_key>
+<key>grn_rocklobber_gork</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{e5b4321c-6ff1-467c-a413-4e2198949617}" record_timestamp="1474299139186" record_key="grn_rocklobber_gork_destruct">
+<category>animation</category>
+<game_expansion_key>lord_and_units_2_everyone</game_expansion_key>
+<key>grn_rocklobber_gork_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{a9b88f3d-46e5-442b-965a-eeadf2d31d58}" record_timestamp="1387385191826" record_key="grn_wolf_chariot">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>grn_wolf_chariot</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{e57ce831-a578-4664-80bb-9c5985a548ba}" record_timestamp="1434728734145" record_key="grn_wolf_chariot_destruction">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>grn_wolf_chariot_destruction</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{96fac095-fb6e-4331-8af7-60b242374d3d}" record_timestamp="1474281951854" record_key="grn_wolf_chariot_robbers">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>grn_wolf_chariot_robbers</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{cc9da777-4a3d-4ddc-a8ac-161ab61054d9}" record_timestamp="1474281952043" record_key="grn_wolf_chariot_robbers_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>grn_wolf_chariot_robbers_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{1c171ff6-a1c1-4e09-be2a-f07e5059c1f8}" record_key="oar_L_anim_loop">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>oar_L_anim_loop</key>
+<texture_filename_base>RigidModels/Naval/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{63cb0b5e-be42-4833-b76c-83777f76845d}" record_key="oar_L_anim_lower">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>oar_L_anim_lower</key>
+<texture_filename_base>RigidModels/Naval/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{8f895e61-7acf-4f81-b7b7-7c43a7f92ae2}" record_key="oar_L_anim_raise">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>oar_L_anim_raise</key>
+<texture_filename_base>RigidModels/Naval/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{13ac5bef-c435-4892-9109-24ac470fdbf7}" record_key="oar_R_anim_loop">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>oar_R_anim_loop</key>
+<texture_filename_base>RigidModels/Naval/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{bd148fbb-5c81-48c6-9577-ba0ebbdfd527}" record_key="oar_R_anim_lower">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>oar_R_anim_lower</key>
+<texture_filename_base>RigidModels/Naval/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{bdbad60c-5119-4731-b0c4-cce6425a55ba}" record_key="oar_R_anim_raise">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>oar_R_anim_raise</key>
+<texture_filename_base>RigidModels/Naval/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{236c7c9d-63e0-41aa-bfbb-22a795ec9b64}" record_key="positional_oar_L01_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>positional_oar_L01_anim</key>
+<texture_filename_base>RigidModels/Naval/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{b4d6349f-8906-4bf2-b788-c98b564da441}" record_key="positional_oar_L02_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>positional_oar_L02_anim</key>
+<texture_filename_base>RigidModels/Naval/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{bbb6cda0-3113-4842-9652-ba5af0d19812}" record_key="rome_ballista_giant">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_ballista_giant</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{6af4e12a-1f7e-4983-b6f4-083c5af66325}" record_key="rome_ballista_giant_destruction_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_ballista_giant_destruction_anim</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{52f600ae-a471-44af-a4cf-a637371aed28}" record_key="rome_ballista_medium">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_ballista_medium</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{7e04df18-6bbe-4408-abc3-aa11d66d802c}" record_key="rome_ballista_medium_destruction_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_ballista_medium_destruction_anim</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{21563374-0588-450b-bd7f-7f21043f1502}" record_key="rome_ballista_medium_ship">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_ballista_medium_ship</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{ca971b24-6fea-4eb1-980d-093dd69d3f1d}" record_key="rome_ballista_medium_ship_destruction_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_ballista_medium_ship_destruction_anim</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{6448cbeb-95cf-4aef-bcad-b238f28a196c}" record_key="rome_battering_ram_heavy">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_battering_ram_heavy</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{7acc53d4-2c2b-4ea7-a914-3e885ac7db5b}" record_key="rome_battering_ram_light">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_battering_ram_light</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{16d0a968-5645-4a7a-9551-ff66259b71da}" record_key="rome_battering_ram_medium">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_battering_ram_medium</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{c7777bc1-ceb0-47ab-9028-499d686dfe31}" record_key="rome_cheiroballistra">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_cheiroballistra</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{61e6c8e6-eaff-47e8-87be-77497e3d0e06}" record_key="rome_cheiroballistra_destruction_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_cheiroballistra_destruction_anim</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{be7d1463-b3ed-4d9b-a64c-5e358b9e3ed8}" record_key="rome_fireraiser">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_fireraiser</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{80bc2ee7-9ebe-4bf5-9d6e-37bd99194179}" record_timestamp="1361374918633" record_key="rome_harpax">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_harpax</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{c681519d-3c6b-4970-9c0d-a7b98151e778}" record_timestamp="1361374918649" record_key="rome_harpax_destruction_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_harpax_destruction_anim</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{f909b351-b455-4b9c-a351-dac60175c9f6}" record_key="rome_onager">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_onager</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{c940bc55-500a-488a-bf0b-a91a33b3999c}" record_key="rome_onager_destruction_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_onager_destruction_anim</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{59fb8a57-1e38-4a04-a45c-7ae954792a06}" record_timestamp="1359132164802" record_key="rome_onager_large">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_onager_large</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{5ae25d5a-43a1-444c-8713-da5a86976cf7}" record_timestamp="1359132164871" record_key="rome_onager_large_destruction_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_onager_large_destruction_anim</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{dc631b2b-4913-45de-92eb-238c6cdbdfcd}" record_key="rome_onager_ship">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_onager_ship</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{bcc0cd3e-6fbf-4562-a0a2-432e68a93caf}" record_key="rome_onager_ship_destruction_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_onager_ship_destruction_anim</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{d0b2a911-378f-42b8-a3bd-300d9da74050}" record_key="rome_polybolos">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_polybolos</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{2c0e2ce9-02d8-4f60-b6bb-e4fb4225c241}" record_key="rome_polybolos_destruction_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_polybolos_destruction_anim</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{1149550b-14e1-4e0b-91ea-ea07123f8050}" record_key="rome_scorpio">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_scorpio</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{8e700bcc-5b60-4679-a643-795fa8a2abb6}" record_key="rome_scorpio_destruction_anim">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>rome_scorpio_destruction_anim</key>
+<texture_filename_base>RigidModels/buildings/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{da971626-3a0f-43fb-8313-85b41824667a}" record_key="target_marker">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>target_marker</key>
+<texture_filename_base>RigidModels/3DIndicators/Textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{c9b27237-f636-4916-85ed-84c4b047a633}" record_key="trade_camel">
+<category>campaign_animation</category>
+<game_expansion_key></game_expansion_key>
+<key>trade_camel</key>
+<texture_filename_base>RigidModels\CampaignTradeRoutes</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{d96c6af8-7408-4ba9-b192-f72c4940a8f0}" record_key="trade_camel_lead">
+<category>campaign_animation</category>
+<game_expansion_key></game_expansion_key>
+<key>trade_camel_lead</key>
+<texture_filename_base>RigidModels\CampaignTradeRoutes</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{64dea1de-c57b-4e16-8bb0-161c6e5cf389}" record_timestamp="1369131079348" record_key="trade_ox">
+<category>campaign_animation</category>
+<game_expansion_key></game_expansion_key>
+<key>trade_ox</key>
+<texture_filename_base>RigidModels/campaign/trade_models/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{df308545-f02c-472b-a654-e6f77e3702ac}" record_timestamp="1369131079358" record_key="trade_ox_cart">
+<category>campaign_animation</category>
+<game_expansion_key></game_expansion_key>
+<key>trade_ox_cart</key>
+<texture_filename_base>RigidModels/campaign/trade_models/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{646fba9d-6bae-4237-a69c-7bc162b06528}" record_timestamp="1369131079300" record_key="trade_ship_barbarian">
+<category>campaign_animation</category>
+<game_expansion_key></game_expansion_key>
+<key>trade_ship_barbarian</key>
+<texture_filename_base>RigidModels/campaign/trade_models/textures</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{cecb0cda-4b03-441d-81e9-70185aa4c03d}" record_timestamp="1423231740168" record_key="vmp_black_coach_01">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>vmp_black_coach_01</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{bd87f83f-991f-44fc-a985-e3c646d7ec91}" record_timestamp="1450261773721" record_key="vmp_black_coach_destruct">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>vmp_black_coach_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{07575b14-a4be-4320-a97c-51f9cd98fe78}" record_timestamp="1459944111887" record_key="vmp_corpse_cart">
+<category>animation</category>
+<game_expansion_key>lord_and_units_1_everyone</game_expansion_key>
+<key>vmp_corpse_cart</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{6e51d6c7-ff23-4f0a-8ad6-700112421085}" record_timestamp="1459949647148" record_key="vmp_corpse_cart_balefire">
+<category>animation</category>
+<game_expansion_key>lord_and_units_1_everyone</game_expansion_key>
+<key>vmp_corpse_cart_balefire</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{37863f98-84e5-4de9-80a1-c2936979bf10}" record_timestamp="1467886285342" record_key="vmp_corpse_cart_balefire_destruct">
+<category>animation</category>
+<game_expansion_key>lord_and_units_1_everyone</game_expansion_key>
+<key>vmp_corpse_cart_balefire_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{531d37a3-9802-48e5-96bb-06f8a4c43e1d}" record_timestamp="1467886285333" record_key="vmp_corpse_cart_destruct">
+<category>animation</category>
+<game_expansion_key>lord_and_units_1_everyone</game_expansion_key>
+<key>vmp_corpse_cart_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{87d2968d-9507-4716-bea2-88b758b9ba56}" record_timestamp="1467886966419" record_key="vmp_corpse_cart_helman">
+<category>animation</category>
+<game_expansion_key>lord_and_units_1_everyone</game_expansion_key>
+<key>vmp_corpse_cart_helman</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{e0747444-0c86-4768-9153-7c4c976e7f54}" record_timestamp="1467886587430" record_key="vmp_corpse_cart_helman_destruct">
+<category>animation</category>
+<game_expansion_key>lord_and_units_1_everyone</game_expansion_key>
+<key>vmp_corpse_cart_helman_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{d590346a-b526-4662-9c30-1ae7186b7ce3}" record_timestamp="1459949647143" record_key="vmp_corpse_cart_lodestone">
+<category>animation</category>
+<game_expansion_key>lord_and_units_1_everyone</game_expansion_key>
+<key>vmp_corpse_cart_lodestone</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{bfe65c6a-978e-4904-989f-44ba7a4ef022}" record_timestamp="1467886285323" record_key="vmp_corpse_cart_lodestone_destruct">
+<category>animation</category>
+<game_expansion_key>lord_and_units_1_everyone</game_expansion_key>
+<key>vmp_corpse_cart_lodestone_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{46708857-ac11-4854-b8d6-cba13663c0c2}" record_timestamp="1450261773695" record_key="vmp_coven_throne">
+<category>animation</category>
+<game_expansion_key></game_expansion_key>
+<key>vmp_coven_throne</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{58595c52-fccb-4a24-8e86-08a0319a8b89}" record_timestamp="1459944111888" record_key="vmp_mortis_engine">
+<category>animation</category>
+<game_expansion_key>lord_and_units_1_everyone</game_expansion_key>
+<key>vmp_mortis_engine</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{68764a26-2ad4-41fb-b311-7fe20fd968ac}" record_timestamp="1466007940208" record_key="vmp_mortis_engine_destruct">
+<category>animation</category>
+<game_expansion_key>lord_and_units_1_everyone</game_expansion_key>
+<key>vmp_mortis_engine_destruct</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+<warscape_animated record_uuid="{b1b51907-f2dc-41b6-b2fc-b4f8621577d8}" record_timestamp="1474282559391" record_key="vmp_mortis_engine_nagash">
+<category>animation</category>
+<game_expansion_key>lord_and_units_1_everyone</game_expansion_key>
+<key>vmp_mortis_engine_nagash</key>
+<texture_filename_base>warmachines\tex</texture_filename_base>
+</warscape_animated>
+</dataroot>

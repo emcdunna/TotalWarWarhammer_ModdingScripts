@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_bonus_value_battle_context_territory_status_junctions.xsd" export_time="Tue Oct 6 21:50:42 2015" revision="8" export_branch="T:/common/TWeak/Framework" export_user="bob">
+<edit_uuid>0197d3b4-c61e-49df-a302-ca00738f729b</edit_uuid>
+<campaign_bonus_value_battle_context_territory_status_junctions record_uuid="{543f36cd-7195-4f41-a066-088d9bd4e80e}" record_timestamp="1367846570035" record_key="fighting_territory_enemy_or_neutral_armyenemy">
+<battle_context_key>fighting_territory_enemy_or_neutral_army</battle_context_key>
+<territory_status_key>enemy</territory_status_key>
+</campaign_bonus_value_battle_context_territory_status_junctions>
+<campaign_bonus_value_battle_context_territory_status_junctions record_uuid="{f00efcda-d4a7-425f-9672-d86cfa434a14}" record_timestamp="1367846570081" record_key="fighting_territory_enemy_or_neutral_armyneutral">
+<battle_context_key>fighting_territory_enemy_or_neutral_army</battle_context_key>
+<territory_status_key>neutral</territory_status_key>
+</campaign_bonus_value_battle_context_territory_status_junctions>
+<campaign_bonus_value_battle_context_territory_status_junctions record_uuid="{bb50a9fd-6bdf-4cd0-9dd5-b2f178e2be2e}" record_timestamp="1367846570114" record_key="fighting_territory_enemy_or_neutral_navyenemy">
+<battle_context_key>fighting_territory_enemy_or_neutral_navy</battle_context_key>
+<territory_status_key>enemy</territory_status_key>
+</campaign_bonus_value_battle_context_territory_status_junctions>
+<campaign_bonus_value_battle_context_territory_status_junctions record_uuid="{72bcb459-fcc6-488b-9c5e-f1940feb3b68}" record_timestamp="1367846570149" record_key="fighting_territory_enemy_or_neutral_navyneutral">
+<battle_context_key>fighting_territory_enemy_or_neutral_navy</battle_context_key>
+<territory_status_key>neutral</territory_status_key>
+</campaign_bonus_value_battle_context_territory_status_junctions>
+<campaign_bonus_value_battle_context_territory_status_junctions record_uuid="{bda0edf4-6df1-4188-9ff5-67537c9089a7}" record_timestamp="1367846567327" record_key="fighting_territory_enemy_or_neutralenemy">
+<battle_context_key>fighting_territory_enemy_or_neutral</battle_context_key>
+<territory_status_key>enemy</territory_status_key>
+</campaign_bonus_value_battle_context_territory_status_junctions>
+<campaign_bonus_value_battle_context_territory_status_junctions record_uuid="{cf67b61b-e539-4476-9212-6b5590a3a91a}" record_timestamp="1367846567365" record_key="fighting_territory_enemy_or_neutralneutral">
+<battle_context_key>fighting_territory_enemy_or_neutral</battle_context_key>
+<territory_status_key>neutral</territory_status_key>
+</campaign_bonus_value_battle_context_territory_status_junctions>
+<campaign_bonus_value_battle_context_territory_status_junctions record_uuid="{f0c8c3dc-b45b-431b-8636-bddd9fec1e3b}" record_timestamp="1367846570183" record_key="fighting_territory_own_or_allied_armyallied">
+<battle_context_key>fighting_territory_own_or_allied_army</battle_context_key>
+<territory_status_key>allied</territory_status_key>
+</campaign_bonus_value_battle_context_territory_status_junctions>
+<campaign_bonus_value_battle_context_territory_status_junctions record_uuid="{d47b042e-db8a-4d45-9c81-fb74533622aa}" record_timestamp="1367846570218" record_key="fighting_territory_own_or_allied_armyown">
+<battle_context_key>fighting_territory_own_or_allied_army</battle_context_key>
+<territory_status_key>own</territory_status_key>
+</campaign_bonus_value_battle_context_territory_status_junctions>
+<campaign_bonus_value_battle_context_territory_status_junctions record_uuid="{aab6a67c-7957-494b-966a-8dc974e05dbd}" record_timestamp="1367846570252" record_key="fighting_territory_own_or_allied_navyallied">
+<battle_context_key>fighting_territory_own_or_allied_navy</battle_context_key>
+<territory_status_key>allied</territory_status_key>
+</campaign_bonus_value_battle_context_territory_status_junctions>
+<campaign_bonus_value_battle_context_territory_status_junctions record_uuid="{8dcec5fb-d625-49e7-9943-44e9c3b3f297}" record_timestamp="1367846570293" record_key="fighting_territory_own_or_allied_navyown">
+<battle_context_key>fighting_territory_own_or_allied_navy</battle_context_key>
+<territory_status_key>own</territory_status_key>
+</campaign_bonus_value_battle_context_territory_status_junctions>
+<campaign_bonus_value_battle_context_territory_status_junctions record_uuid="{c6f8f969-8445-4131-8ee1-73906ef35d86}" record_timestamp="1367846567447" record_key="fighting_territory_own_or_alliedallied">
+<battle_context_key>fighting_territory_own_or_allied</battle_context_key>
+<territory_status_key>allied</territory_status_key>
+</campaign_bonus_value_battle_context_territory_status_junctions>
+<campaign_bonus_value_battle_context_territory_status_junctions record_uuid="{bd8fe7fe-223e-472e-9c7d-bafaf0c56b9a}" record_timestamp="1367846567402" record_key="fighting_territory_own_or_alliedown">
+<battle_context_key>fighting_territory_own_or_allied</battle_context_key>
+<territory_status_key>own</territory_status_key>
+</campaign_bonus_value_battle_context_territory_status_junctions>
+</dataroot>

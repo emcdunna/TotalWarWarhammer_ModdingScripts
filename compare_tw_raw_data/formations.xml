@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="formations.xsd" export_time="Tue Feb 2 18:59:21 2016" revision="44" export_branch="T:/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>117e129b-a156-4ee6-9ab6-d11a38f6f888</edit_uuid>
+<formations record_uuid="{cd80f589-2260-4b0d-a3e0-58cb28087400}" record_timestamp="1453826592300" record_key="test_melee_forward_simple">
+<description state="APPROVED" last_approved_text="Arranges units into a basic formation with melee units at the front, missile units in the middle and artillery/special units to the rear." last_edit_user="bob">Arranges units into a basic formation with melee units at the front, missile units in the middle and artillery/special units to the rear.</description>
+<formation>test_melee_forward_simple</formation>
+<icon_name>UI/Battle UI/formation_icons/melee_front.png</icon_name>
+<is_army>0</is_army>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Melee Front" last_edit_user="bob">Melee Front</name>
+<order>1</order>
+<tooltip state="APPROVED" last_approved_text="Melee Front||Arranges units into a basic formation with melee units at the front, missile units in the middle and artillery/special units to the rear." last_edit_user="bob">Melee Front||Arranges units into a basic formation with melee units at the front, missile units in the middle and artillery/special units to the rear.</tooltip>
+</formations>
+<formations record_uuid="{ad5971e6-bc1f-4002-9a40-54feb705fa30}" record_timestamp="1453826592311" record_key="test_missile_forward_simple">
+<description state="APPROVED" last_approved_text="Arranges units into a basic formation with missile units at the front, melee units in the middle and artillery/special units to the rear." last_edit_user="bob">Arranges units into a basic formation with missile units at the front, melee units in the middle and artillery/special units to the rear.</description>
+<formation>test_missile_forward_simple</formation>
+<icon_name>UI/Battle UI/formation_icons/missile_front.png</icon_name>
+<is_army>0</is_army>
+<is_naval>0</is_naval>
+<name state="APPROVED" last_approved_text="Missile Front" last_edit_user="bob">Missile Front</name>
+<order>2</order>
+<tooltip state="APPROVED" last_approved_text="Missile Front||Arranges units into a basic formation with missile units at the front, melee units in the middle and artillery/special units to the rear." last_edit_user="bob">Missile Front||Arranges units into a basic formation with missile units at the front, melee units in the middle and artillery/special units to the rear.</tooltip>
+</formations>
+</dataroot>

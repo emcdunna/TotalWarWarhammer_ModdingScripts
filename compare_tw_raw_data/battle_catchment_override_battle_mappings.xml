@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_catchment_override_battle_mappings.xsd" export_time="Fri Dec 16 12:17:17 2016" revision="4" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>40964fa3-007d-45b9-9aa5-d29a5d9ff712</edit_uuid>
+<battle_catchment_override_battle_mappings record_uuid="{5c9123e8-4c61-4142-8709-3c697a337ccd}" record_timestamp="1481888750322" record_key="Gatekeeper**land_normalwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_plains_tiles</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{4ea67ac6-7c04-4419-b7b9-5342327d31d7}" record_timestamp="1481037479630" record_key="Gatekeeper**underground_interceptwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_subterranean_tiles</battle_group>
+<battle_type>underground_intercept</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{347379aa-1a77-4867-840a-e2eaa790ee98}" record_timestamp="1481044758697" record_key="Gatekeeper*wh_dlc03_bst_beastmenunderground_interceptwarhammer_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_main_bst_subterranean_tiles</battle_group>
+<battle_type>underground_intercept</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc03_bst_beastmen</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{ce10603b-57ac-40b1-8477-20818d4e7dfd}" record_timestamp="1481044758699" record_key="Gatekeeper*wh_dlc03_bst_beastmenunderground_interceptwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_main_bst_subterranean_tiles</battle_group>
+<battle_type>underground_intercept</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc03_bst_beastmen</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{b38abf5d-37e4-4822-aac2-c2eef713b3b8}" record_timestamp="1479310071624" record_key="Gatekeeper*wh_dlc05_wef_wood_elvessettlement_reliefwarhammer_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{8d056a9e-3a63-41a8-8f74-52c87f801d46}" record_timestamp="1479317400702" record_key="Gatekeeper*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{c7366330-2f6f-491c-9967-744d2721fccc}" record_timestamp="1479310071623" record_key="Gatekeeper*wh_dlc05_wef_wood_elvessettlement_sallywarhammer_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{8f181667-3df8-4bea-b4d6-6eba185ecb6e}" record_timestamp="1479317400716" record_key="Gatekeeper*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{8e54c6ce-0df9-4cd1-8068-cfe7ff36bd16}" record_timestamp="1479310071625" record_key="Gatekeeper*wh_dlc05_wef_wood_elvessettlement_standardwarhammer_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{b9e95aad-5e57-44f6-a6ca-e7ace5674238}" record_timestamp="1479317400759" record_key="Gatekeeper*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{88ae00da-9394-471c-b70f-63710630d9dc}" record_timestamp="1479310071622" record_key="Gatekeeper*wh_dlc05_wef_wood_elvessettlement_unfortifiedwarhammer_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{509f9760-0df4-48d9-b305-ef0f819df9e9}" record_timestamp="1479317400778" record_key="Gatekeeper*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{dd1d6790-302e-4c80-83e7-9793dba683b6}" record_timestamp="1481044758737" record_key="Gatekeeper*wh_dlc05_wef_wood_elvesunderground_interceptwarhammer_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_subterranean_tiles</battle_group>
+<battle_type>underground_intercept</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{97688227-e1f7-44d5-80f7-1d7e5468a57e}" record_timestamp="1481044758735" record_key="Gatekeeper*wh_dlc05_wef_wood_elvesunderground_interceptwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_subterranean_tiles</battle_group>
+<battle_type>underground_intercept</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{98c12c15-378b-4b6e-ab67-79d24f86992e}" record_timestamp="1479310071614" record_key="Gatekeeper*wh_main_brt_bretonniasettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_brt_settlement_standard_relief</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_brt_bretonnia</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{afac6004-9869-452f-ac74-b838394c0e1b}" record_timestamp="1479310071615" record_key="Gatekeeper*wh_main_brt_bretonniasettlement_sallywh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_brt_settlement_standard_sally</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_brt_bretonnia</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{c52c3870-81dd-4c38-be55-bf60ecca22a4}" record_timestamp="1479310071617" record_key="Gatekeeper*wh_main_brt_bretonniasettlement_standardwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_brt_settlement_standard</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_brt_bretonnia</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{c5f1f5ba-9073-4a5e-a96b-ce384f6a4b35}" record_timestamp="1479310071619" record_key="Gatekeeper*wh_main_brt_bretonniasettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_brt_settlement_unfortified</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_brt_bretonnia</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{9d5c11d2-7bb8-41af-80e8-8eb463ed6fcf}" record_timestamp="1479310071612" record_key="Gatekeeper*wh_main_dwf_dwarfssettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_dwf_settlement_standard_relief</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_dwf_dwarfs</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{b23b6032-edd1-4b57-85c3-7b89fc8d87a9}" record_timestamp="1479310071613" record_key="Gatekeeper*wh_main_dwf_dwarfssettlement_sallywh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_dwf_settlement_standard_sally</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_dwf_dwarfs</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{f142bc41-162a-4cb4-ab40-4c63f98ee8eb}" record_timestamp="1479310071616" record_key="Gatekeeper*wh_main_dwf_dwarfssettlement_standardwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_dwf_settlement_standard</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_dwf_dwarfs</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{9d02be9f-2c1a-445a-9811-173cc77e510a}" record_timestamp="1479310071610" record_key="Gatekeeper*wh_main_dwf_dwarfssettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_dwf_settlement_unfortified</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_dwf_dwarfs</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{97109206-8f12-42ca-8993-9b5831b03c81}" record_timestamp="1479310071618" record_key="Gatekeeper*wh_main_grn_greenskinssettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_grn_settlement_standard_relief</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_grn_greenskins</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{2f13c67d-73c8-4114-87cb-f1c27d5dbe4c}" record_timestamp="1479310071620" record_key="Gatekeeper*wh_main_grn_greenskinssettlement_sallywh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_grn_settlement_standard_sally</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_grn_greenskins</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{5495d45b-a3fe-4750-bb93-f7ccab7cabbd}" record_timestamp="1479310071611" record_key="Gatekeeper*wh_main_grn_greenskinssettlement_standardwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_grn_settlement_standard</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_grn_greenskins</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{a6c7f99f-f19b-4f2b-93f6-0dba4ed556ea}" record_timestamp="1479310071617" record_key="Gatekeeper*wh_main_grn_greenskinssettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_grn_settlement_unfortified</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_grn_greenskins</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{7b2011a6-0a71-432c-8e72-6dbac4211727}" record_timestamp="1479310071621" record_key="Gatekeeper*wh_main_vmp_vampire_countssettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_vmp_settlement_standard_relief</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_vmp_vampire_counts</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{9e541431-6988-469a-b2f6-c80c1aba1b65}" record_timestamp="1479310071609" record_key="Gatekeeper*wh_main_vmp_vampire_countssettlement_sallywh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_vmp_settlement_standard_sally</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_vmp_vampire_counts</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{cfb63233-731d-4981-bfff-a70a4821281f}" record_timestamp="1479310071613" record_key="Gatekeeper*wh_main_vmp_vampire_countssettlement_standardwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_vmp_settlement_standard</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_vmp_vampire_counts</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{00145990-bb88-44aa-80c7-441e1b47e6c3}" record_timestamp="1479310071621" record_key="Gatekeeper*wh_main_vmp_vampire_countssettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_vmp_settlement_unfortified</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_main_vmp_vampire_counts</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{5fc1f010-8f6c-4c11-b49d-9d7d00c419c1}" record_timestamp="1479310071637" record_key="Gatekeeperwh_dlc03_bst_beastmen*land_ambushwarhammer_map_1">
+<area>Gatekeeper</area>
+<attacker>wh_dlc03_bst_beastmen</attacker>
+<battle_group>wh_main_bst_ambush_tiles</battle_group>
+<battle_type>land_ambush</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{1fb60232-afdb-4dff-8cd8-c6875bd90754}" record_timestamp="1479325965201" record_key="Gatekeeperwh_dlc03_bst_beastmen*land_ambushwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>wh_dlc03_bst_beastmen</attacker>
+<battle_group>wh_main_bst_ambush_tiles</battle_group>
+<battle_type>land_ambush</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{093dd16a-fbb7-4e42-9fe4-9bd70fb52859}" record_timestamp="1479310071635" record_key="Gatekeeperwh_dlc05_wef_wood_elves*land_ambushwarhammer_map_1">
+<area>Gatekeeper</area>
+<attacker>wh_dlc05_wef_wood_elves</attacker>
+<battle_group>wh_dlc05_wef_ambush_tiles</battle_group>
+<battle_type>land_ambush</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{6b8b6b7f-487a-47a5-981f-73b7df4d2e60}" record_timestamp="1479325965199" record_key="Gatekeeperwh_dlc05_wef_wood_elves*land_ambushwh_dlc05_wood_elves_map_1">
+<area>Gatekeeper</area>
+<attacker>wh_dlc05_wef_wood_elves</attacker>
+<battle_group>wh_dlc05_wef_ambush_tiles</battle_group>
+<battle_type>land_ambush</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{c4d32402-dcc2-4ad3-954a-27c9dd016657}" record_timestamp="1479308797745" record_key="wh_dlc05_main_wef_forest_areas**land_normalwarhammer_map_1">
+<area>wh_dlc05_main_wef_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_main_wef_forest_areas</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{7d42a540-8484-4525-a1a8-83baed72d803}" record_timestamp="1479308797746" record_key="wh_dlc05_main_wef_oak_of_ages_area**land_normalwarhammer_map_1">
+<area>wh_dlc05_main_wef_oak_of_ages_area</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_main_wef_oak_of_ages_area</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{fa2405cf-55a3-45a3-a785-11b4516514a4}" record_timestamp="1479310071625" record_key="wh_dlc05_main_wef_oak_of_ages_area*wh_dlc05_wef_wood_elvessettlement_standardwarhammer_map_1">
+<area>wh_dlc05_main_wef_oak_of_ages_area</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_oak_of_ages_tile</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{e2a49482-e503-46f9-b5be-224818ab08a7}" record_timestamp="1481030521371" record_key="wh_dlc05_main_wef_oak_of_ages_area*wh_dlc05_wef_wood_elvessettlement_unfortifiedwarhammer_map_1">
+<area>wh_dlc05_main_wef_oak_of_ages_area</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_oak_of_ages_tile</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{207f74a0-912c-492b-917d-f4fd39686b86}" record_timestamp="1479308797746" record_key="wh_dlc05_main_wef_river_areas**land_normalwarhammer_map_1">
+<area>wh_dlc05_main_wef_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_main_wef_river_areas</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{082aa1c2-4135-4362-bb42-c0a99864e09a}" record_timestamp="1479308817777" record_key="wh_dlc05_mini_wef_ash_forest_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_forest_tiles_ash</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{d33d192f-a589-4b4e-9794-4dee55b9425a}" record_timestamp="1479308817778" record_key="wh_dlc05_mini_wef_ash_forest_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_ash</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{72a82346-1fca-44da-a044-1a16dd3a4a1c}" record_timestamp="1479308817779" record_key="wh_dlc05_mini_wef_ash_forest_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_ash</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{9ddebc14-de86-4448-942a-2de3d4fdfe12}" record_timestamp="1479308817780" record_key="wh_dlc05_mini_wef_ash_forest_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_ash</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{2f9a03eb-b61f-430c-bd7d-73e0ffc55a65}" record_timestamp="1479308829899" record_key="wh_dlc05_mini_wef_ash_forest_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_ash</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{2e5d5051-79a5-4abb-af75-99e96f9c775e}" record_timestamp="1479308817781" record_key="wh_dlc05_mini_wef_ash_plains_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_plains_tiles_ash</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{8a9d60bf-7567-40f3-95fe-65d5b1c44a7e}" record_timestamp="1479308817782" record_key="wh_dlc05_mini_wef_ash_plains_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_ash</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{9cb72d16-0a99-4da6-8904-8036b9315385}" record_timestamp="1479308817783" record_key="wh_dlc05_mini_wef_ash_plains_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_ash</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{03d40381-a316-42bf-95cb-2a305f065840}" record_timestamp="1479308817784" record_key="wh_dlc05_mini_wef_ash_plains_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_ash</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{7439b787-3d4b-4971-a495-d61c98bac3ac}" record_timestamp="1479308829902" record_key="wh_dlc05_mini_wef_ash_plains_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_ash</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{448c9f12-47f2-4d1a-991a-f3a34a75b079}" record_timestamp="1479308817785" record_key="wh_dlc05_mini_wef_ash_ravine_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_ravine_tiles_ash</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{d2477897-8fd1-4267-80b4-ad2175a89f65}" record_timestamp="1479308817786" record_key="wh_dlc05_mini_wef_ash_ravine_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_ash</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{d2be094d-f11e-4672-9190-68985b2104c5}" record_timestamp="1479308817787" record_key="wh_dlc05_mini_wef_ash_ravine_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_ash</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{cb27e0a5-1b81-40d2-a2c4-64c25db03213}" record_timestamp="1479308817788" record_key="wh_dlc05_mini_wef_ash_ravine_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_ash</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{e5679d8c-1016-4d2f-a4a5-6479ace03e0a}" record_timestamp="1479308829901" record_key="wh_dlc05_mini_wef_ash_ravine_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_ash</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{c357fa7d-7d6f-475b-82f7-73cba81bcd41}" record_timestamp="1479308817789" record_key="wh_dlc05_mini_wef_ash_river_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_river_tiles_ash</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{21233d1a-9c12-4b89-9e21-1654e5fbc28a}" record_timestamp="1479308817790" record_key="wh_dlc05_mini_wef_ash_river_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_ash</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{189275e9-ce2a-4c61-93fe-f3dead230ec4}" record_timestamp="1479308817791" record_key="wh_dlc05_mini_wef_ash_river_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_ash</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{89a508aa-0884-4fba-bcc4-c1a0d05fd9d5}" record_timestamp="1479308817792" record_key="wh_dlc05_mini_wef_ash_river_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_ash</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{1b8509c5-3481-4025-8e15-6b583f19ace9}" record_timestamp="1479308829903" record_key="wh_dlc05_mini_wef_ash_river_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ash_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_ash</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{1b29964f-5345-451a-a756-440bb77c0999}" record_timestamp="1479307733214" record_key="wh_dlc05_mini_wef_coastal_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_coastal_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_coastal_tiles</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{c29a252e-74ad-4725-9e66-57924a53f026}" record_timestamp="1479307733213" record_key="wh_dlc05_mini_wef_forest_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_forest_tiles</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{36d8b710-3f24-4e52-b7fa-d64985cf5c5d}" record_timestamp="1479307733215" record_key="wh_dlc05_mini_wef_hilly_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_hilly_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_hills_tiles</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{dcfa0e5c-30cf-4c4c-802f-d90a6691b365}" record_timestamp="1479308817625" record_key="wh_dlc05_mini_wef_lake_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_lake_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_lakes_tiles</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{511bfbbd-3749-4be8-83e4-7ef924b86644}" record_timestamp="1479310071478" record_key="wh_dlc05_mini_wef_mtn_pass_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_mtn_pass_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_mtn_pass_tiles</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{22defda1-3e84-4527-b66a-282b21b057eb}" record_timestamp="1479308817794" record_key="wh_dlc05_mini_wef_night_forest_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_forest_tiles_night</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{ad692937-e01c-4719-a261-7461ad48d729}" record_timestamp="1479308817793" record_key="wh_dlc05_mini_wef_night_forest_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_night</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{2cc9075e-8147-499f-b4b6-52c15632d655}" record_timestamp="1479308817795" record_key="wh_dlc05_mini_wef_night_forest_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_night</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{b8557df3-44f0-46c2-b2b2-7e069552d2a8}" record_timestamp="1479308817796" record_key="wh_dlc05_mini_wef_night_forest_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_night</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{fd44ef74-8934-4e1c-be0c-07d80acac780}" record_timestamp="1479308829887" record_key="wh_dlc05_mini_wef_night_forest_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_night</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{da3960d3-464b-4ef7-9256-136f69865eb2}" record_timestamp="1479308817797" record_key="wh_dlc05_mini_wef_night_hills_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_hills_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_hills_tiles_night</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{2919929e-e7d5-4c87-8a52-fc8d322001cf}" record_timestamp="1479308817798" record_key="wh_dlc05_mini_wef_night_hills_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_hills_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_night</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{30a5b7e3-0840-416d-a3d7-ba63d23ff0cc}" record_timestamp="1479308817799" record_key="wh_dlc05_mini_wef_night_hills_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_hills_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_night</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{7bf7dea2-5d6c-44d1-a3e4-44eecab0f813}" record_timestamp="1479308817800" record_key="wh_dlc05_mini_wef_night_hills_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_hills_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_night</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{d2ef2670-8dff-4e49-8e0d-4cda3c410045}" record_timestamp="1479308829886" record_key="wh_dlc05_mini_wef_night_hills_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_hills_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_night</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{53c648c1-d005-4f77-8cfa-8fdad4149773}" record_timestamp="1479308817801" record_key="wh_dlc05_mini_wef_night_plains_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_plains_tiles_night</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{26dee285-18f4-4091-9e69-1ccfc9796af9}" record_timestamp="1479308817802" record_key="wh_dlc05_mini_wef_night_plains_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_night</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{67422514-909f-4686-81c6-0776835bdcfc}" record_timestamp="1479308817803" record_key="wh_dlc05_mini_wef_night_plains_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_night</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{3d69a769-ddbf-4050-9af5-1d94a0beade8}" record_timestamp="1479308817804" record_key="wh_dlc05_mini_wef_night_plains_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_night</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{04b1513b-baec-4694-ab4c-ab661e14fe44}" record_timestamp="1479308829888" record_key="wh_dlc05_mini_wef_night_plains_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_night</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{e7208291-9311-4586-85e3-56567176eaf2}" record_timestamp="1479308817805" record_key="wh_dlc05_mini_wef_night_ravine_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_ravine_tiles_night</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{155d264e-434f-4f37-8fd7-16854395dbd9}" record_timestamp="1479308817806" record_key="wh_dlc05_mini_wef_night_ravine_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_night</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{a916f187-c57c-4cb7-b7d9-ed98e3878909}" record_timestamp="1479308817807" record_key="wh_dlc05_mini_wef_night_ravine_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_night</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{5245f0fa-adb7-48bc-9ad1-9d5ea1fb03db}" record_timestamp="1479308817808" record_key="wh_dlc05_mini_wef_night_ravine_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_night</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{1a4ebfb1-5a30-4b97-9f02-bef3b008e5e4}" record_timestamp="1479308829888" record_key="wh_dlc05_mini_wef_night_ravine_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_night</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{36951bd3-0ccf-4061-a71c-4b27562591ff}" record_timestamp="1479308817809" record_key="wh_dlc05_mini_wef_night_river_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_river_tiles_night</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{0adce62e-04c7-468d-8491-2338ca13e194}" record_timestamp="1479308817810" record_key="wh_dlc05_mini_wef_night_river_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_night</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{de1d75b9-32a5-438c-8bda-48e602b148ac}" record_timestamp="1479308817811" record_key="wh_dlc05_mini_wef_night_river_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_night</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{d63b9bb3-e28e-4387-9193-19ce9f4a3b08}" record_timestamp="1479308817812" record_key="wh_dlc05_mini_wef_night_river_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_night</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{d355b95d-4bd1-4853-ba6e-84cf1474fbc7}" record_timestamp="1479308829890" record_key="wh_dlc05_mini_wef_night_river_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_night_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_night</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{004fcf64-c3a7-42e3-bec0-1908fea3aa67}" record_timestamp="1479307733217" record_key="wh_dlc05_mini_wef_oak_of_ages_area**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_oak_of_ages_area</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_oak_of_ages_tile</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{e4bf7a3f-2b0f-433e-8dc5-b0d3208fc1b4}" record_timestamp="1481041744555" record_key="wh_dlc05_mini_wef_oak_of_ages_area*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_oak_of_ages_area</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_oak_of_ages_tile</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{4de3b124-45ef-4d91-b024-0cdf7a33f0f0}" record_timestamp="1481041744572" record_key="wh_dlc05_mini_wef_oak_of_ages_area*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_oak_of_ages_area</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_oak_of_ages_tile</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{53ad4535-6502-48c8-b3d3-a2805b9a5728}" record_timestamp="1479307733218" record_key="wh_dlc05_mini_wef_plains_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_plains_tiles</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{15fd8f96-239c-4925-95f7-14334eb4ff33}" record_timestamp="1479308285829" record_key="wh_dlc05_mini_wef_ravine_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_ravine_tiles</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{700e1d72-8955-4e4a-9022-025d62579f40}" record_timestamp="1479307733219" record_key="wh_dlc05_mini_wef_river_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_river_tiles</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{80d7355c-4328-40d4-a69f-7ada9a32a765}" record_timestamp="1479308817757" record_key="wh_dlc05_mini_wef_winter_forest_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_forest_tiles_wint</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{171bf953-3570-494b-8dce-5973771ee6e5}" record_timestamp="1479308817758" record_key="wh_dlc05_mini_wef_winter_forest_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_wint</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{cd99bbbb-40c0-4bbf-a4e9-32d7378dbe15}" record_timestamp="1479308817759" record_key="wh_dlc05_mini_wef_winter_forest_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_wint</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{0a652688-c63f-4e95-ad63-688e3f90a7bc}" record_timestamp="1479308817760" record_key="wh_dlc05_mini_wef_winter_forest_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_wint</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{353591af-b364-44aa-8f00-57912da3ba37}" record_timestamp="1479308829892" record_key="wh_dlc05_mini_wef_winter_forest_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wint</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{13ad9e0f-a6bc-4e62-8acf-f3dfdf42305d}" record_timestamp="1479308817761" record_key="wh_dlc05_mini_wef_winter_hills_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_hills_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_hills_tiles_wint</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{4ab14d9a-128f-430d-9a3a-736fc557c4ed}" record_timestamp="1479308817762" record_key="wh_dlc05_mini_wef_winter_hills_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_hills_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_wint</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{54285efe-fb6f-408d-999e-c553dd0a4b91}" record_timestamp="1479308817763" record_key="wh_dlc05_mini_wef_winter_hills_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_hills_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_wint</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{68d0d3e2-c35e-458a-b581-14231264c090}" record_timestamp="1479308817764" record_key="wh_dlc05_mini_wef_winter_hills_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_hills_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_wint</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{04be7d40-545e-45e4-a29c-fc0cef320148}" record_timestamp="1479308829894" record_key="wh_dlc05_mini_wef_winter_hills_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_hills_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wint</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{82a4a470-b6eb-4602-b89e-adb0c62c46f3}" record_timestamp="1479308817765" record_key="wh_dlc05_mini_wef_winter_lake_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_lake_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_lakes_tiles_wint</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{e33b4c5d-adc8-409a-a0c5-38c12ffa329f}" record_timestamp="1479308817766" record_key="wh_dlc05_mini_wef_winter_lake_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_lake_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_wint</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{8fb896ef-498d-4d06-bfc8-ec4a53e04e94}" record_timestamp="1479308817767" record_key="wh_dlc05_mini_wef_winter_lake_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_lake_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_wint</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{336cca56-db36-4ae9-907a-656b0e9f946b}" record_timestamp="1479308817768" record_key="wh_dlc05_mini_wef_winter_lake_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_lake_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_wint</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{09217e6c-8b09-4869-917e-6a7c980712bd}" record_timestamp="1479308829894" record_key="wh_dlc05_mini_wef_winter_lake_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_lake_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wint</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{c13b6d50-0d8a-426f-ac66-46dba05fe46f}" record_timestamp="1481888750321" record_key="wh_dlc05_mini_wef_winter_plains_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_plains_tiles_wint</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{5dd70c6a-ac44-4f7b-aa47-78858aa99983}" record_timestamp="1479308817769" record_key="wh_dlc05_mini_wef_winter_ravine_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_ravine_tiles_wint</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{7744373b-5174-4749-889a-d0655f6abb0d}" record_timestamp="1479308817770" record_key="wh_dlc05_mini_wef_winter_ravine_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_wint</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{0343e7ab-7cd7-4e93-847a-321683f72a1c}" record_timestamp="1479308817771" record_key="wh_dlc05_mini_wef_winter_ravine_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_wint</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{8209fc45-8bb1-4bf6-b125-23c26639aec3}" record_timestamp="1479308817772" record_key="wh_dlc05_mini_wef_winter_ravine_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_wint</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{ce8deeb4-462a-4757-afe1-92188381496e}" record_timestamp="1479308829896" record_key="wh_dlc05_mini_wef_winter_ravine_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wint</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{3f0b84d6-8da3-4c0f-b011-42c2ad69eb27}" record_timestamp="1479308817773" record_key="wh_dlc05_mini_wef_winter_river_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_river_tiles_wint</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{0bafde05-c01e-4173-ab0d-20369c5d008a}" record_timestamp="1479308817774" record_key="wh_dlc05_mini_wef_winter_river_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_wint</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{7c586dc8-9873-4255-ab62-ff3f554af7a7}" record_timestamp="1479308817775" record_key="wh_dlc05_mini_wef_winter_river_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_wint</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{340e79e3-b5be-4592-ba3f-ba73f6763daf}" record_timestamp="1479308817776" record_key="wh_dlc05_mini_wef_winter_river_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_wint</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{57ff057f-687f-4576-9b05-c5bdce3d23a9}" record_timestamp="1479308829895" record_key="wh_dlc05_mini_wef_winter_river_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_winter_river_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wint</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{5266f78e-5859-4824-87fb-5ad1403bd5c8}" record_timestamp="1479308817739" record_key="wh_dlc05_mini_wef_wither_forest_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_forest_tiles_wither</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{c1fb1a3d-942d-4bf5-9a8b-0d92f36cbfc0}" record_timestamp="1479308817740" record_key="wh_dlc05_mini_wef_wither_forest_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_wither</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{96a597ed-badd-4da0-9db2-34bf331079d4}" record_timestamp="1479308817741" record_key="wh_dlc05_mini_wef_wither_forest_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_wither</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{af786d93-f5b0-4dbe-a249-ead120732c05}" record_timestamp="1479308817742" record_key="wh_dlc05_mini_wef_wither_forest_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_wither</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{a5d2e6f6-7285-45c0-903b-ce6f693de0f8}" record_timestamp="1479308829898" record_key="wh_dlc05_mini_wef_wither_forest_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_forest_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wither</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{3b1b8944-b29a-497b-ab36-9c09a6c14ef2}" record_timestamp="1479308817745" record_key="wh_dlc05_mini_wef_wither_lake_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_lake_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_lakes_tiles_wither</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{c2523f25-3e3b-4865-9aa8-67255dbe4485}" record_timestamp="1479308817745" record_key="wh_dlc05_mini_wef_wither_lake_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_lake_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_wither</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{2ba3fd2b-b65c-4c28-9253-5280e664a23c}" record_timestamp="1479308817746" record_key="wh_dlc05_mini_wef_wither_lake_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_lake_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_wither</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{dd75ac9d-1906-46f7-86c2-2a8efb94239e}" record_timestamp="1479308817747" record_key="wh_dlc05_mini_wef_wither_lake_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_lake_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_wither</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{0936621f-d296-43be-be13-14a5c498db34}" record_timestamp="1479308829897" record_key="wh_dlc05_mini_wef_wither_lake_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_lake_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wither</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{fd635893-7177-4db6-b9d6-637a4b3b1a66}" record_timestamp="1479308817748" record_key="wh_dlc05_mini_wef_wither_plains_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_plains_tiles_wither</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{3ef5927e-7cda-411e-9c94-e6c20607b89b}" record_timestamp="1479308817749" record_key="wh_dlc05_mini_wef_wither_plains_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_wither</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{a6ac9e7d-73b4-40e8-8de0-b5a68d75aac2}" record_timestamp="1479308817750" record_key="wh_dlc05_mini_wef_wither_plains_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_wither</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{4a2598b5-db6d-45b5-a36f-edada4bd06d2}" record_timestamp="1479308817752" record_key="wh_dlc05_mini_wef_wither_plains_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_wither</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{4e40c2f2-a2cf-42db-ab93-fc65683c9270}" record_timestamp="1479308829900" record_key="wh_dlc05_mini_wef_wither_plains_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_plains_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wither</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{42d80bdb-6bc6-4a27-ba19-340e2e762256}" record_timestamp="1479308817753" record_key="wh_dlc05_mini_wef_wither_ravine_areas**land_normalwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_ravine_tiles_wither</battle_group>
+<battle_type>land_normal</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>*</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{d6a72d2a-bb04-48a1-82e7-2457c92e01b5}" record_timestamp="1479308817754" record_key="wh_dlc05_mini_wef_wither_ravine_areas*wh_dlc05_wef_wood_elvessettlement_reliefwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_relief_wither</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{a43335ae-3b35-4958-ac2f-717a83ca0ce3}" record_timestamp="1479308817755" record_key="wh_dlc05_mini_wef_wither_ravine_areas*wh_dlc05_wef_wood_elvessettlement_sallywh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_sally_wither</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{1cede51b-c702-4ff0-9192-de26b1797282}" record_timestamp="1479308817756" record_key="wh_dlc05_mini_wef_wither_ravine_areas*wh_dlc05_wef_wood_elvessettlement_standardwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_standard_wither</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{d51718af-085d-4050-b471-08bd94d5e1f7}" record_timestamp="1479308829899" record_key="wh_dlc05_mini_wef_wither_ravine_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwh_dlc05_wood_elves_map_1">
+<area>wh_dlc05_mini_wef_wither_ravine_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wither</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>wh_dlc05_wood_elves_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{d986fcdb-879f-4ff3-841e-0156328ba2e2}" record_timestamp="1481890636984" record_key="wh_main_badlands_areas*wh_dlc05_wef_wood_elvessettlement_reliefwarhammer_map_1">
+<area>wh_main_badlands_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_ash</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{1ddec395-0c6f-4a74-bb5d-2b963ad23089}" record_timestamp="1481890636982" record_key="wh_main_badlands_areas*wh_dlc05_wef_wood_elvessettlement_sallywarhammer_map_1">
+<area>wh_main_badlands_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_ash</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{0a85d7db-9954-4689-8c85-bb3bca1c277f}" record_timestamp="1481890636979" record_key="wh_main_badlands_areas*wh_dlc05_wef_wood_elvessettlement_standardwarhammer_map_1">
+<area>wh_main_badlands_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_ash</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{d5d3b7a8-887a-4332-8e79-7f271234cfaa}" record_timestamp="1481890636976" record_key="wh_main_badlands_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwarhammer_map_1">
+<area>wh_main_badlands_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_ash</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{919b902e-df08-4599-bc7f-ba152b27aefc}" record_timestamp="1481890636985" record_key="wh_main_mountain_pass_areas*wh_dlc05_wef_wood_elvessettlement_reliefwarhammer_map_1">
+<area>wh_main_mountain_pass_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wint</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{bc97aafd-d5d7-49ec-8216-38c467982199}" record_timestamp="1481890636982" record_key="wh_main_mountain_pass_areas*wh_dlc05_wef_wood_elvessettlement_sallywarhammer_map_1">
+<area>wh_main_mountain_pass_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wint</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{74e38fcd-0507-41b0-b794-9d7f54e7386f}" record_timestamp="1481890636979" record_key="wh_main_mountain_pass_areas*wh_dlc05_wef_wood_elvessettlement_standardwarhammer_map_1">
+<area>wh_main_mountain_pass_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wint</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{f0b41638-c4e9-4788-a4d6-c99f73c52b55}" record_timestamp="1481890636976" record_key="wh_main_mountain_pass_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwarhammer_map_1">
+<area>wh_main_mountain_pass_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wint</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{d7be6107-c0b8-4ce7-8f5c-d2a69c42b020}" record_timestamp="1481890636985" record_key="wh_main_norsca_areas*wh_dlc05_wef_wood_elvessettlement_reliefwarhammer_map_1">
+<area>wh_main_norsca_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wint</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{c3762ea1-c7c0-4abf-9f13-f1d62491841b}" record_timestamp="1481890636983" record_key="wh_main_norsca_areas*wh_dlc05_wef_wood_elvessettlement_sallywarhammer_map_1">
+<area>wh_main_norsca_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wint</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{fb831b83-d017-4862-b3e3-bfabd06f40d2}" record_timestamp="1481890636980" record_key="wh_main_norsca_areas*wh_dlc05_wef_wood_elvessettlement_standardwarhammer_map_1">
+<area>wh_main_norsca_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wint</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{6b38e54b-0afe-4bb5-886f-d46ac6dee808}" record_timestamp="1481890636977" record_key="wh_main_norsca_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwarhammer_map_1">
+<area>wh_main_norsca_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_wint</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{5dd2b9a6-19a3-4d2d-bcbc-e27b5995dbd2}" record_timestamp="1481890636986" record_key="wh_main_vampire_areas*wh_dlc05_wef_wood_elvessettlement_reliefwarhammer_map_1">
+<area>wh_main_vampire_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_night</battle_group>
+<battle_type>settlement_relief</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{0d72b345-5fe3-4e98-9621-d46f6dd62a5b}" record_timestamp="1481890636974" record_key="wh_main_vampire_areas*wh_dlc05_wef_wood_elvessettlement_sallywarhammer_map_1">
+<area>wh_main_vampire_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_night</battle_group>
+<battle_type>settlement_sally</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{5084f720-eb62-40ee-8202-03dfb6a7f8e5}" record_timestamp="1481890636981" record_key="wh_main_vampire_areas*wh_dlc05_wef_wood_elvessettlement_standardwarhammer_map_1">
+<area>wh_main_vampire_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_night</battle_group>
+<battle_type>settlement_standard</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+<battle_catchment_override_battle_mappings record_uuid="{b086b210-f70a-4e23-9da0-301301df8ba1}" record_timestamp="1481890636978" record_key="wh_main_vampire_areas*wh_dlc05_wef_wood_elvessettlement_unfortifiedwarhammer_map_1">
+<area>wh_main_vampire_areas</area>
+<attacker>*</attacker>
+<battle_group>wh_dlc05_wef_settlement_unfortified_night</battle_group>
+<battle_type>settlement_unfortified</battle_type>
+<campaign>warhammer_map_1</campaign>
+<defender>wh_dlc05_wef_wood_elves</defender>
+</battle_catchment_override_battle_mappings>
+</dataroot>

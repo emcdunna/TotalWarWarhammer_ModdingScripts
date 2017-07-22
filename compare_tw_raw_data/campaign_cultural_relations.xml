@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_cultural_relations.xsd" export_time="Fri Feb 10 16:02:42 2017" revision="20" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>2015a396-ab33-419c-809d-d4d99605c168</edit_uuid>
+<campaign_cultural_relations record_uuid="{cb956db1-7185-48cf-afce-29f9965e76fb}" record_timestamp="1467715782011" record_key="wh_dlc03_sc_bst_beastmenwh_dlc03_sc_bst_beastmen">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_dlc03_sc_bst_beastmen</source>
+<target>wh_dlc03_sc_bst_beastmen</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{5283b4d2-5dd8-4c19-9ed3-7023fae14fec}" record_timestamp="1484842731255" record_key="wh_dlc05_sc_wef_wood_elveswh_main_sc_chs_chaos">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_dlc05_sc_wef_wood_elves</source>
+<target>wh_main_sc_chs_chaos</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{bc0be0a6-a4ad-42a9-9837-77f17def9c6b}" record_timestamp="1467715782006" record_key="wh_main_sc_brt_bretonniawh_dlc03_sc_bst_beastmen">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_dlc03_sc_bst_beastmen</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{d9407e16-a312-41d3-b2b7-a04d33daf544}" record_timestamp="1486742561438" record_key="wh_main_sc_brt_bretonniawh_main_sc_brt_bretonnia">
+<attitude_base>10</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{c3f9845a-507b-49f5-a037-3824af643dbe}" record_timestamp="1429021622902" record_key="wh_main_sc_brt_bretonniawh_main_sc_chs_chaos">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_chs_chaos</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{2dc425fe-b29f-4af1-9e4f-ac174f34b1f3}" record_timestamp="1445267684663" record_key="wh_main_sc_brt_bretonniawh_main_sc_dwf_dwarfs">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{f0e7c650-3e29-48c8-8a3d-755fc3508f53}" record_timestamp="1428419012008" record_key="wh_main_sc_brt_bretonniawh_main_sc_emp_empire">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_emp_empire</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{6f94b439-c26d-4c5b-8475-4e3b02508d00}" record_timestamp="1429021622912" record_key="wh_main_sc_brt_bretonniawh_main_sc_grn_greenskins">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_grn_greenskins</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{37b8b7c9-99ac-4c97-b090-08047af16471}" record_timestamp="1432022919909" record_key="wh_main_sc_brt_bretonniawh_main_sc_grn_savage_orcs">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_grn_savage_orcs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{a202a856-0275-477b-af6a-314adc14cd07}" record_timestamp="1428419012029" record_key="wh_main_sc_brt_bretonniawh_main_sc_ksl_kislev">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_ksl_kislev</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{279dae49-7c98-482c-87e6-292e6f6cc11b}" record_timestamp="1486061970809" record_key="wh_main_sc_brt_bretonniawh_main_sc_nor_norsca">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_nor_norsca</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{b41079f7-b5f6-4d2e-845f-49fc795e0d23}" record_timestamp="1428419012068" record_key="wh_main_sc_brt_bretonniawh_main_sc_teb_teb">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_teb_teb</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{d5f3ee58-1f75-432e-9755-3a6214f61591}" record_timestamp="1443001179700" record_key="wh_main_sc_brt_bretonniawh_main_sc_vmp_vampire_counts">
+<attitude_base>-15</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_brt_bretonnia</source>
+<target>wh_main_sc_vmp_vampire_counts</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{b4b6ae2b-4aac-4805-8fa4-56a516fe1dd1}" record_timestamp="1467715782011" record_key="wh_main_sc_chs_chaoswh_dlc03_sc_bst_beastmen">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_dlc03_sc_bst_beastmen</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{b8bd9bf3-d896-428f-8445-1da8e7891952}" record_timestamp="1429021622922" record_key="wh_main_sc_chs_chaoswh_main_sc_brt_bretonnia">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{f64b2364-a69f-4d6c-9d85-5f09f09bfcfc}" record_timestamp="1428419012109" record_key="wh_main_sc_chs_chaoswh_main_sc_chs_chaos">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_main_sc_chs_chaos</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{42339680-1342-43a6-8f46-60b271597a8c}" record_timestamp="1429021622932" record_key="wh_main_sc_chs_chaoswh_main_sc_dwf_dwarfs">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{85dd1c4d-2170-40b4-ad84-5619a468d7c1}" record_timestamp="1429021622942" record_key="wh_main_sc_chs_chaoswh_main_sc_emp_empire">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_main_sc_emp_empire</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{a1ce7676-191f-4159-97eb-24f2149001b2}" record_timestamp="1429021622942" record_key="wh_main_sc_chs_chaoswh_main_sc_grn_greenskins">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_main_sc_grn_greenskins</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{49a4672b-578c-4793-b1fa-fc88bae20763}" record_timestamp="1432022919934" record_key="wh_main_sc_chs_chaoswh_main_sc_grn_savage_orcs">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_main_sc_grn_savage_orcs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{758e0a6c-2082-4c0e-878d-98001c7fe661}" record_timestamp="1429021622952" record_key="wh_main_sc_chs_chaoswh_main_sc_ksl_kislev">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_main_sc_ksl_kislev</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{1bb89bfd-f0d9-4d39-903a-d26ff27f4518}" record_timestamp="1445267684692" record_key="wh_main_sc_chs_chaoswh_main_sc_nor_norsca">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_main_sc_nor_norsca</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{9977dd30-15ea-4554-8c31-b0ce7995a611}" record_timestamp="1429021622962" record_key="wh_main_sc_chs_chaoswh_main_sc_teb_teb">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_main_sc_teb_teb</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{09ffbdc4-25b7-4d53-b7bc-78502f33700b}" record_timestamp="1428419012219" record_key="wh_main_sc_chs_chaoswh_main_sc_vmp_vampire_counts">
+<attitude_base>-30</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_chs_chaos</source>
+<target>wh_main_sc_vmp_vampire_counts</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{3f630d52-5654-4edb-aadb-32bf4a462c23}" record_timestamp="1467715782007" record_key="wh_main_sc_dwf_dwarfswh_dlc03_sc_bst_beastmen">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_dlc03_sc_bst_beastmen</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{ea9ce2bf-4ceb-4e67-8273-604772c6643b}" record_timestamp="1428920231818" record_key="wh_main_sc_dwf_dwarfswh_main_sc_brt_bretonnia">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{ae99ed8c-2f25-435b-8307-36102d055970}" record_timestamp="1429021622972" record_key="wh_main_sc_dwf_dwarfswh_main_sc_chs_chaos">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_chs_chaos</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{37c15d5d-9619-4d4d-901e-eac5228c12e3}" record_timestamp="1445267684654" record_key="wh_main_sc_dwf_dwarfswh_main_sc_dwf_dwarfs">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{534ae6cf-cbba-470d-aa32-0d5f0b2bdec2}" record_timestamp="1445267684645" record_key="wh_main_sc_dwf_dwarfswh_main_sc_emp_empire">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_emp_empire</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{6e30cd72-766f-438d-8d96-b604bb504404}" record_timestamp="1429021622982" record_key="wh_main_sc_dwf_dwarfswh_main_sc_grn_greenskins">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_grn_greenskins</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{6db40300-2e30-4711-8529-cd1a2065d1f8}" record_timestamp="1432022919813" record_key="wh_main_sc_dwf_dwarfswh_main_sc_grn_savage_orcs">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_grn_savage_orcs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{8bb38b46-12b8-4da9-a869-c6be89a485fc}" record_timestamp="1428419012309" record_key="wh_main_sc_dwf_dwarfswh_main_sc_ksl_kislev">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_ksl_kislev</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{35ed39a0-3f6a-4e66-80b8-63a317e35689}" record_timestamp="1429021622992" record_key="wh_main_sc_dwf_dwarfswh_main_sc_nor_norsca">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_nor_norsca</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{58144611-aecc-41d4-a7b0-941a75389430}" record_timestamp="1428419012339" record_key="wh_main_sc_dwf_dwarfswh_main_sc_teb_teb">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_teb_teb</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{19f083a5-fb65-4521-b03a-910682c912af}" record_timestamp="1429021623002" record_key="wh_main_sc_dwf_dwarfswh_main_sc_vmp_vampire_counts">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_dwf_dwarfs</source>
+<target>wh_main_sc_vmp_vampire_counts</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{7477f6bd-a5df-4ca9-9a32-ba4f44f984f0}" record_timestamp="1467715782006" record_key="wh_main_sc_emp_empirewh_dlc03_sc_bst_beastmen">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_dlc03_sc_bst_beastmen</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{5e3dafd4-58c0-41ef-8e20-b5278beccf0e}" record_timestamp="1428419012389" record_key="wh_main_sc_emp_empirewh_main_sc_brt_bretonnia">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{abbacf51-988d-4c45-b79f-fefdc5e3bf76}" record_timestamp="1429021623012" record_key="wh_main_sc_emp_empirewh_main_sc_chs_chaos">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_chs_chaos</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{c4fd9eda-1b81-49c6-977a-a720ae81ad29}" record_timestamp="1445267684637" record_key="wh_main_sc_emp_empirewh_main_sc_dwf_dwarfs">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{56c72fe8-87f0-4fec-b9d0-d822c8a5dd8f}" record_timestamp="1443001179837" record_key="wh_main_sc_emp_empirewh_main_sc_emp_empire">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_emp_empire</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{17c79196-24c2-4ded-9f4e-e1f7308740b2}" record_timestamp="1429021623022" record_key="wh_main_sc_emp_empirewh_main_sc_grn_greenskins">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_grn_greenskins</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{1fd1771d-ca15-4f62-ab08-57f1fbd9d295}" record_timestamp="1432022919837" record_key="wh_main_sc_emp_empirewh_main_sc_grn_savage_orcs">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_grn_savage_orcs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{fe7634d8-2658-4f4e-91f0-aaaea752bc87}" record_timestamp="1445267684629" record_key="wh_main_sc_emp_empirewh_main_sc_ksl_kislev">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_ksl_kislev</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{895457ef-ceaf-4f18-aa7b-d8b84492dfaa}" record_timestamp="1429021623032" record_key="wh_main_sc_emp_empirewh_main_sc_nor_norsca">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_nor_norsca</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{2e6253c2-f3d9-4120-afaf-c7e5204651db}" record_timestamp="1428419012499" record_key="wh_main_sc_emp_empirewh_main_sc_teb_teb">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_teb_teb</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{06c3d685-e770-45bc-ac8c-6f37843293ec}" record_timestamp="1443001179899" record_key="wh_main_sc_emp_empirewh_main_sc_vmp_vampire_counts">
+<attitude_base>-15</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_emp_empire</source>
+<target>wh_main_sc_vmp_vampire_counts</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{4be62d50-758e-42bf-b82e-3e1de2a49b25}" record_timestamp="1467715782008" record_key="wh_main_sc_grn_greenskinswh_dlc03_sc_bst_beastmen">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_dlc03_sc_bst_beastmen</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{8d194ff1-5942-4201-b197-b5764a1dabfe}" record_timestamp="1429021623042" record_key="wh_main_sc_grn_greenskinswh_main_sc_brt_bretonnia">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{df30ec45-a3ca-4502-a336-7549202e1c18}" record_timestamp="1429021623052" record_key="wh_main_sc_grn_greenskinswh_main_sc_chs_chaos">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_main_sc_chs_chaos</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{df102a62-72dd-40d1-9e69-1907ee0bf655}" record_timestamp="1429021623062" record_key="wh_main_sc_grn_greenskinswh_main_sc_dwf_dwarfs">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{9108ae3f-a369-48b3-9816-4e01b3320fca}" record_timestamp="1429021623072" record_key="wh_main_sc_grn_greenskinswh_main_sc_emp_empire">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_main_sc_emp_empire</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{f799d7f8-cc1f-471b-a99c-3bd4f5caf4dc}" record_timestamp="1428419012609" record_key="wh_main_sc_grn_greenskinswh_main_sc_grn_greenskins">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_main_sc_grn_greenskins</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{b372bf00-0296-49a6-84e7-6ae502a3c8cf}" record_timestamp="1432022919861" record_key="wh_main_sc_grn_greenskinswh_main_sc_grn_savage_orcs">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_main_sc_grn_savage_orcs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{67ac3dfe-a74d-4b6c-a70d-826b5932cbfe}" record_timestamp="1429021623082" record_key="wh_main_sc_grn_greenskinswh_main_sc_ksl_kislev">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_main_sc_ksl_kislev</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{df928ac2-1fa7-462b-9e2f-d5bf6733ce89}" record_timestamp="1428419012639" record_key="wh_main_sc_grn_greenskinswh_main_sc_nor_norsca">
+<attitude_base>-30</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_main_sc_nor_norsca</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{1f69b584-8f9d-47fb-bf24-7fe308a98003}" record_timestamp="1429021623092" record_key="wh_main_sc_grn_greenskinswh_main_sc_teb_teb">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_main_sc_teb_teb</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{b0e4ac0d-da57-4ae0-a094-7ae6bac53676}" record_timestamp="1428419012679" record_key="wh_main_sc_grn_greenskinswh_main_sc_vmp_vampire_counts">
+<attitude_base>-30</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_greenskins</source>
+<target>wh_main_sc_vmp_vampire_counts</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{0e3d86f7-bf9d-4958-a8fe-c06fe4ea67dc}" record_timestamp="1467715782007" record_key="wh_main_sc_grn_savage_orcswh_dlc03_sc_bst_beastmen">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_dlc03_sc_bst_beastmen</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{0456a7c6-61d8-413f-9af8-2cadb6152972}" record_timestamp="1432022919750" record_key="wh_main_sc_grn_savage_orcswh_main_sc_brt_bretonnia">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{28d48435-3e26-4911-8f63-8a2d79c27e4f}" record_timestamp="1432022919770" record_key="wh_main_sc_grn_savage_orcswh_main_sc_chs_chaos">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_main_sc_chs_chaos</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{28a9846a-4091-486a-8578-79a9877bd84f}" record_timestamp="1432022919791" record_key="wh_main_sc_grn_savage_orcswh_main_sc_dwf_dwarfs">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{2cb7015a-4217-459b-ba48-0f1c7d6aac4b}" record_timestamp="1432022919677" record_key="wh_main_sc_grn_savage_orcswh_main_sc_emp_empire">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_main_sc_emp_empire</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{9b4ef336-15e8-41c0-b364-c6cb38652a24}" record_timestamp="1432022919693" record_key="wh_main_sc_grn_savage_orcswh_main_sc_grn_greenskins">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_main_sc_grn_greenskins</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{d90db8cd-c61e-46f5-b787-63f17d1e0792}" record_timestamp="1432022919885" record_key="wh_main_sc_grn_savage_orcswh_main_sc_grn_savage_orcs">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_main_sc_grn_savage_orcs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{8fefad69-65c1-4168-a28a-ae32f9483eb4}" record_timestamp="1432022919712" record_key="wh_main_sc_grn_savage_orcswh_main_sc_ksl_kislev">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_main_sc_ksl_kislev</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{3daeb94d-5e55-4fa2-b38c-806d4be0242d}" record_timestamp="1432022919730" record_key="wh_main_sc_grn_savage_orcswh_main_sc_nor_norsca">
+<attitude_base>-30</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_main_sc_nor_norsca</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{88aca43e-a5f0-48c4-b639-cc815e603282}" record_timestamp="1432022919634" record_key="wh_main_sc_grn_savage_orcswh_main_sc_teb_teb">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_main_sc_teb_teb</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{9dcd859c-5287-4b0e-82be-ef9184da7139}" record_timestamp="1432022919661" record_key="wh_main_sc_grn_savage_orcswh_main_sc_vmp_vampire_counts">
+<attitude_base>-30</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_grn_savage_orcs</source>
+<target>wh_main_sc_vmp_vampire_counts</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{4613aa96-bb5b-42e1-89fa-7c8f0ee89d22}" record_timestamp="1467715782009" record_key="wh_main_sc_ksl_kislevwh_dlc03_sc_bst_beastmen">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_dlc03_sc_bst_beastmen</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{6894201a-f045-4822-92dc-1ddad1fe5f81}" record_timestamp="1428419012689" record_key="wh_main_sc_ksl_kislevwh_main_sc_brt_bretonnia">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{34911d65-0fb6-46ab-99f0-ed504acce46c}" record_timestamp="1429021623102" record_key="wh_main_sc_ksl_kislevwh_main_sc_chs_chaos">
+<attitude_base>-60</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_main_sc_chs_chaos</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{cac15a9f-1369-49e0-8930-6fbe50bacda4}" record_timestamp="1428419012729" record_key="wh_main_sc_ksl_kislevwh_main_sc_dwf_dwarfs">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{4fdfb376-b2a3-43be-84a4-0addd754e8cc}" record_timestamp="1445267684619" record_key="wh_main_sc_ksl_kislevwh_main_sc_emp_empire">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_main_sc_emp_empire</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{7fa54b40-4bd1-45d8-bb23-80a0153dcb5a}" record_timestamp="1429021623112" record_key="wh_main_sc_ksl_kislevwh_main_sc_grn_greenskins">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_main_sc_grn_greenskins</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{77334a77-8f4a-4e1a-90b1-e70fad0ab06c}" record_timestamp="1432022919958" record_key="wh_main_sc_ksl_kislevwh_main_sc_grn_savage_orcs">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_main_sc_grn_savage_orcs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{7dc42c11-d045-41a3-9e8d-6ccc98e135fc}" record_timestamp="1445267684702" record_key="wh_main_sc_ksl_kislevwh_main_sc_ksl_kislev">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_main_sc_ksl_kislev</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{4b56b4fe-33e8-4f07-8ce6-733cb49dcf76}" record_timestamp="1429021623122" record_key="wh_main_sc_ksl_kislevwh_main_sc_nor_norsca">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_main_sc_nor_norsca</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{68e7cb92-c249-41ac-9c24-36e3818db919}" record_timestamp="1428419012819" record_key="wh_main_sc_ksl_kislevwh_main_sc_teb_teb">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_main_sc_teb_teb</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{a8929a0a-4696-4af6-b803-e24f852f051a}" record_timestamp="1429021623132" record_key="wh_main_sc_ksl_kislevwh_main_sc_vmp_vampire_counts">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_ksl_kislev</source>
+<target>wh_main_sc_vmp_vampire_counts</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{2c2e3a68-0a54-4d2b-89c7-a264d85cc2ce}" record_timestamp="1467715782009" record_key="wh_main_sc_nor_norscawh_dlc03_sc_bst_beastmen">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_dlc03_sc_bst_beastmen</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{362bd270-0d87-438b-8c5e-46a2b729555d}" record_timestamp="1429021623142" record_key="wh_main_sc_nor_norscawh_main_sc_brt_bretonnia">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{d85d4487-6bc6-42b7-b3c3-516e72091aec}" record_timestamp="1445267684681" record_key="wh_main_sc_nor_norscawh_main_sc_chs_chaos">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_main_sc_chs_chaos</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{e143cb51-5b38-4e08-a71d-c697cd8b3dfb}" record_timestamp="1429021623152" record_key="wh_main_sc_nor_norscawh_main_sc_dwf_dwarfs">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{e2799b62-7dda-4f49-8a9c-f1ee43d237e0}" record_timestamp="1429021623162" record_key="wh_main_sc_nor_norscawh_main_sc_emp_empire">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_main_sc_emp_empire</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{fbc2c117-564d-439d-972f-8b11545e798f}" record_timestamp="1428419012929" record_key="wh_main_sc_nor_norscawh_main_sc_grn_greenskins">
+<attitude_base>-30</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_main_sc_grn_greenskins</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{375b770a-2e1f-4d3b-a22d-1442dfcafe87}" record_timestamp="1432022919983" record_key="wh_main_sc_nor_norscawh_main_sc_grn_savage_orcs">
+<attitude_base>-30</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_main_sc_grn_savage_orcs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{d64d2d8e-a2eb-468a-a08d-e016fbe353d0}" record_timestamp="1429021623172" record_key="wh_main_sc_nor_norscawh_main_sc_ksl_kislev">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_main_sc_ksl_kislev</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{22e84dd6-6566-4c8a-9848-7adcdf342473}" record_timestamp="1428419012969" record_key="wh_main_sc_nor_norscawh_main_sc_nor_norsca">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_main_sc_nor_norsca</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{f3c406b3-e9af-488c-8d4b-b6c8898a83e8}" record_timestamp="1429021623182" record_key="wh_main_sc_nor_norscawh_main_sc_teb_teb">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_main_sc_teb_teb</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{867a7f86-0f14-4d78-8342-a0197e0b4719}" record_timestamp="1428419013009" record_key="wh_main_sc_nor_norscawh_main_sc_vmp_vampire_counts">
+<attitude_base>-30</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_nor_norsca</source>
+<target>wh_main_sc_vmp_vampire_counts</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{5ec2fd9a-96d2-43f2-85c3-36bb8712867b}" record_timestamp="1467715782010" record_key="wh_main_sc_teb_tebwh_dlc03_sc_bst_beastmen">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_dlc03_sc_bst_beastmen</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{f23e7f99-cb55-4c38-ae8d-e5015bb2083b}" record_timestamp="1428419013019" record_key="wh_main_sc_teb_tebwh_main_sc_brt_bretonnia">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{766d7146-2c5a-4ad4-be7a-50ef6096c7dc}" record_timestamp="1429021623202" record_key="wh_main_sc_teb_tebwh_main_sc_chs_chaos">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_main_sc_chs_chaos</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{9812a71f-c312-45b2-8d20-80ed72425554}" record_timestamp="1428419013059" record_key="wh_main_sc_teb_tebwh_main_sc_dwf_dwarfs">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{58a363b3-5027-44e1-b951-bb95d342885a}" record_timestamp="1428419013079" record_key="wh_main_sc_teb_tebwh_main_sc_emp_empire">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_main_sc_emp_empire</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{68917d6b-ebef-497a-926a-501caf5b9e6c}" record_timestamp="1429021623212" record_key="wh_main_sc_teb_tebwh_main_sc_grn_greenskins">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_main_sc_grn_greenskins</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{9a36d30b-7eb3-4d0e-b16c-7d16484987ad}" record_timestamp="1432022920008" record_key="wh_main_sc_teb_tebwh_main_sc_grn_savage_orcs">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_main_sc_grn_savage_orcs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{c8367d90-03d4-4f91-8001-a66d1b753d3e}" record_timestamp="1428419013119" record_key="wh_main_sc_teb_tebwh_main_sc_ksl_kislev">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_main_sc_ksl_kislev</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{65323d63-7ec4-4add-84b8-de57d9a8779d}" record_timestamp="1429021623222" record_key="wh_main_sc_teb_tebwh_main_sc_nor_norsca">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_main_sc_nor_norsca</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{69efe00e-fa2e-4307-bf57-f8bd91f20d4f}" record_timestamp="1428419013159" record_key="wh_main_sc_teb_tebwh_main_sc_teb_teb">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_main_sc_teb_teb</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{01868c46-0e52-44fe-a38f-0948ff3be40b}" record_timestamp="1428920232038" record_key="wh_main_sc_teb_tebwh_main_sc_vmp_vampire_counts">
+<attitude_base>-30</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_teb_teb</source>
+<target>wh_main_sc_vmp_vampire_counts</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{4fbe3f39-9a24-494f-9187-da5f85ac3192}" record_timestamp="1467715782010" record_key="wh_main_sc_vmp_vampire_countswh_dlc03_sc_bst_beastmen">
+<attitude_base>-30</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_dlc03_sc_bst_beastmen</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{abe99283-355b-4dcd-a9c1-39e8c6c2da37}" record_timestamp="1443001180005" record_key="wh_main_sc_vmp_vampire_countswh_main_sc_brt_bretonnia">
+<attitude_base>-15</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_main_sc_brt_bretonnia</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{c32bb453-918f-4a26-b3fb-80f0dc0dcdca}" record_timestamp="1428419013219" record_key="wh_main_sc_vmp_vampire_countswh_main_sc_chs_chaos">
+<attitude_base>-30</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_main_sc_chs_chaos</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{95de7adb-dc40-46e5-8897-13e0f048e641}" record_timestamp="1429021623232" record_key="wh_main_sc_vmp_vampire_countswh_main_sc_dwf_dwarfs">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_main_sc_dwf_dwarfs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{a1d23502-1e1d-4f47-8fc3-e58a020129ff}" record_timestamp="1443001179969" record_key="wh_main_sc_vmp_vampire_countswh_main_sc_emp_empire">
+<attitude_base>-15</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_main_sc_emp_empire</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{fc57af75-4f11-4fbb-9b4f-92b021ec040a}" record_timestamp="1428419013279" record_key="wh_main_sc_vmp_vampire_countswh_main_sc_grn_greenskins">
+<attitude_base>-30</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_main_sc_grn_greenskins</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{d342e979-21a5-44c9-98f2-68b42a5265ac}" record_timestamp="1432022920034" record_key="wh_main_sc_vmp_vampire_countswh_main_sc_grn_savage_orcs">
+<attitude_base>-30</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_main_sc_grn_savage_orcs</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{879aa174-725f-44ea-b4da-76f8b6eee446}" record_timestamp="1429021623242" record_key="wh_main_sc_vmp_vampire_countswh_main_sc_ksl_kislev">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_main_sc_ksl_kislev</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{99a9c0a7-68f2-4b49-bb9c-9b2bbdf67f65}" record_timestamp="1429021623252" record_key="wh_main_sc_vmp_vampire_countswh_main_sc_nor_norsca">
+<attitude_base>-40</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_main_sc_nor_norsca</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{ba589621-e830-4a10-8af5-8cddf2df9d87}" record_timestamp="1428920232138" record_key="wh_main_sc_vmp_vampire_countswh_main_sc_teb_teb">
+<attitude_base>-30</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_main_sc_teb_teb</target>
+</campaign_cultural_relations>
+<campaign_cultural_relations record_uuid="{6e0da379-7d7a-4f89-bd5d-e6196032b5e3}" record_timestamp="1484669116426" record_key="wh_main_sc_vmp_vampire_countswh_main_sc_vmp_vampire_counts">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_sc_vmp_vampire_counts</source>
+<target>wh_main_sc_vmp_vampire_counts</target>
+</campaign_cultural_relations>
+</dataroot>

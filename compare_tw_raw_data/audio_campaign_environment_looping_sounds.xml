@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="audio_campaign_environment_looping_sounds.xsd" export_time="Tue Dec 6 15:05:09 2016" revision="5" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>8d3075a3-d5b0-44ca-ac47-2b0e452faaf3</edit_uuid>
+<audio_campaign_environment_looping_sounds record_uuid="{b706d865-8852-4c36-8acf-be73bdd59882}" record_timestamp="1470058286087" record_key="beastmen_ambience">
+<intensity_rtpc></intensity_rtpc>
+<key>beastmen_ambience</key>
+<start_event>Campaign_Environment_Beastmen_Dark_Ambience_Play</start_event>
+<stop_event>Campaign_Environment_Beastmen_Dark_Ambience_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{38ca0da2-65e4-45c2-84f2-b65a2879a5d8}" record_timestamp="1470058286101" record_key="beastmen_forest">
+<intensity_rtpc></intensity_rtpc>
+<key>beastmen_forest</key>
+<start_event>Campaign_Environment_Beastmen_Forest_Play</start_event>
+<stop_event>Campaign_Environment_Beastmen_Forest_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{693641c0-bea4-4bfe-bfa4-0510c5e8f77a}" record_timestamp="1481036709105" record_key="bretonnia_forest">
+<intensity_rtpc></intensity_rtpc>
+<key>bretonnia_forest</key>
+<start_event>Campaign_Environment_Bretonnia_Forest_Play</start_event>
+<stop_event>Campaign_Environment_Bretonnia_Forest_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{5a67fc91-aab3-4f77-8e99-804416a8c773}" record_timestamp="1470058285567" record_key="chaos_ambience">
+<intensity_rtpc></intensity_rtpc>
+<key>chaos_ambience</key>
+<start_event>Campaign_Environment_Chaos_Dark_Ambience_Play</start_event>
+<stop_event>Campaign_Environment_Chaos_Dark_Ambience_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{f746c195-83c7-4ba1-bf1b-40e1446a2985}" record_timestamp="1470058285533" record_key="chaos_forest">
+<intensity_rtpc></intensity_rtpc>
+<key>chaos_forest</key>
+<start_event>Campaign_Environment_Chaos_Forest_Play</start_event>
+<stop_event>Campaign_Environment_Chaos_Forest_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{3fd192d4-5f81-43e0-bd25-29602b7109f2}" record_timestamp="1470058285646" record_key="dwarf_forest">
+<intensity_rtpc></intensity_rtpc>
+<key>dwarf_forest</key>
+<start_event>Campaign_Environment_Dwarf_Forest_Play</start_event>
+<stop_event>Campaign_Environment_Dwarf_Forest_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{f3af8335-6e54-4a10-840b-a42745c9cf53}" record_timestamp="1470058285583" record_key="empire_forest">
+<intensity_rtpc></intensity_rtpc>
+<key>empire_forest</key>
+<start_event>Campaign_Environment_Empire_Forest_Play</start_event>
+<stop_event>Campaign_Environment_Empire_Forest_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{6af514e1-287d-4ed3-9b7d-789bd826f2c7}" record_timestamp="1470058285616" record_key="generic_desert">
+<intensity_rtpc>Campaign_Desert_Intensity</intensity_rtpc>
+<key>generic_desert</key>
+<start_event>Campaign_Environment_Generic_Desert_Play</start_event>
+<stop_event>Campaign_Environment_Generic_Desert_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{76e3fa89-227f-4c21-a1cb-d6c7e869a532}" record_timestamp="1470058285632" record_key="generic_sea">
+<intensity_rtpc>Campaign_Sea_Intensity</intensity_rtpc>
+<key>generic_sea</key>
+<start_event>Campaign_Environment_Element_Water_Sea_Play</start_event>
+<stop_event>Campaign_Environment_Element_Water_Sea_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{6506c7d2-978a-492a-87e8-4e98143c6558}" record_timestamp="1474282559305" record_key="generic_shroud">
+<intensity_rtpc></intensity_rtpc>
+<key>generic_shroud</key>
+<start_event>Campaign_Environment_Generic_Shroud_Play</start_event>
+<stop_event>Campaign_Environment_Generic_Shroud_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{4a1a2c14-c1ab-4273-b847-2bc1df867b2f}" record_timestamp="1470058285555" record_key="generic_wind">
+<intensity_rtpc></intensity_rtpc>
+<key>generic_wind</key>
+<start_event>Campaign_Environment_Element_Wind_Play</start_event>
+<stop_event>Campaign_Environment_Element_Wind_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{937fc880-35d3-4650-9acc-da40b7531051}" record_timestamp="1470058285543" record_key="greenskin_forest">
+<intensity_rtpc></intensity_rtpc>
+<key>greenskin_forest</key>
+<start_event>Campaign_Environment_Greenskin_Forest_Play</start_event>
+<stop_event>Campaign_Environment_Greenskin_Forest_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{283ea254-50cf-4f15-9224-a6c5973efb20}" record_timestamp="1470058285600" record_key="nordic_forest">
+<intensity_rtpc></intensity_rtpc>
+<key>nordic_forest</key>
+<start_event>Campaign_Environment_Nordic_Forest_Play</start_event>
+<stop_event>Campaign_Environment_Nordic_Forest_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{f517a0ed-82f1-4163-a69a-ee811e6ed4e9}" record_timestamp="1470058285659" record_key="vampire_forest">
+<intensity_rtpc></intensity_rtpc>
+<key>vampire_forest</key>
+<start_event>Campaign_Environment_Vampire_Forest_Play</start_event>
+<stop_event>Campaign_Environment_Vampire_Forest_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{9468c79c-2204-4057-9b64-d0d51b18dafe}" record_timestamp="1479325003606" record_key="wood_elves_forest_autumn">
+<intensity_rtpc></intensity_rtpc>
+<key>wood_elves_forest_autumn</key>
+<start_event>Campaign_Environment_Woold_Elves_Forest_Autumn_Play</start_event>
+<stop_event>Campaign_Environment_Woold_Elves_Forest_Autumn_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{e65fddd7-97bf-4987-93ba-f89d9b7ae3c7}" record_timestamp="1479323942377" record_key="wood_elves_forest_generic">
+<intensity_rtpc></intensity_rtpc>
+<key>wood_elves_forest_generic</key>
+<start_event>Campaign_Environment_Woold_Elves_Forest_Generic_Play</start_event>
+<stop_event>Campaign_Environment_Woold_Elves_Forest_Generic_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+<audio_campaign_environment_looping_sounds record_uuid="{053011ec-8d90-4605-af00-8a70af4d680d}" record_timestamp="1479323942377" record_key="wood_elves_forest_winter">
+<intensity_rtpc></intensity_rtpc>
+<key>wood_elves_forest_winter</key>
+<start_event>Campaign_Environment_Woold_Elves_Forest_Winter_Play</start_event>
+<stop_event>Campaign_Environment_Woold_Elves_Forest_Winter_Stop</stop_event>
+</audio_campaign_environment_looping_sounds>
+</dataroot>

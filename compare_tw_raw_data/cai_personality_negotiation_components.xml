@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personality_negotiation_components.xsd" export_time="Wed May 18 12:17:53 2016" revision="25" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>cec402ec-5a67-4f32-8302-8f0a9fb89f4f</edit_uuid>
+<cai_personality_negotiation_components record_uuid="{83d51345-e070-4410-96d2-6c1c325782ca}" record_timestamp="1463570271428" record_key="default">
+<angry_reject_max>4</angry_reject_max>
+<angry_reject_min>2</angry_reject_min>
+<failed_payment_mod>0.25</failed_payment_mod>
+<id>default</id>
+<initial_counter>1</initial_counter>
+<initial_decline>1</initial_decline>
+<irrelevant_accept>3</irrelevant_accept>
+<irrelevant_counter_last>0</irrelevant_counter_last>
+<irrelevant_counter_new>1</irrelevant_counter_new>
+<irrelevant_decline>0</irrelevant_decline>
+<max_interactions>3</max_interactions>
+<max_steps_above_acceptable>1</max_steps_above_acceptable>
+<no_offer_chance>70</no_offer_chance>
+<no_offer_chance_falloff>5</no_offer_chance_falloff>
+<no_payment_chance>90</no_payment_chance>
+<num_goals_generated>2</num_goals_generated>
+</cai_personality_negotiation_components>
+<cai_personality_negotiation_components record_uuid="{e7ee645b-e569-4b14-8c1d-873e213d3140}" record_timestamp="1449161895220" record_key="non_diplomatic">
+<angry_reject_max>4</angry_reject_max>
+<angry_reject_min>2</angry_reject_min>
+<failed_payment_mod>0.25</failed_payment_mod>
+<id>non_diplomatic</id>
+<initial_counter>1</initial_counter>
+<initial_decline>1</initial_decline>
+<irrelevant_accept>3</irrelevant_accept>
+<irrelevant_counter_last>0</irrelevant_counter_last>
+<irrelevant_counter_new>1</irrelevant_counter_new>
+<irrelevant_decline>0</irrelevant_decline>
+<max_interactions>3</max_interactions>
+<max_steps_above_acceptable>1</max_steps_above_acceptable>
+<no_offer_chance>85</no_offer_chance>
+<no_offer_chance_falloff>5</no_offer_chance_falloff>
+<no_payment_chance>90</no_payment_chance>
+<num_goals_generated>2</num_goals_generated>
+</cai_personality_negotiation_components>
+<cai_personality_negotiation_components record_uuid="{59a9ef3c-72d9-4169-8173-25dbb6b44cf1}" record_timestamp="1449250862549" record_key="offers_money">
+<angry_reject_max>4</angry_reject_max>
+<angry_reject_min>2</angry_reject_min>
+<failed_payment_mod>0.25</failed_payment_mod>
+<id>offers_money</id>
+<initial_counter>1</initial_counter>
+<initial_decline>1</initial_decline>
+<irrelevant_accept>3</irrelevant_accept>
+<irrelevant_counter_last>0</irrelevant_counter_last>
+<irrelevant_counter_new>1</irrelevant_counter_new>
+<irrelevant_decline>0</irrelevant_decline>
+<max_interactions>3</max_interactions>
+<max_steps_above_acceptable>1</max_steps_above_acceptable>
+<no_offer_chance>60</no_offer_chance>
+<no_offer_chance_falloff>5</no_offer_chance_falloff>
+<no_payment_chance>10</no_payment_chance>
+<num_goals_generated>2</num_goals_generated>
+</cai_personality_negotiation_components>
+</dataroot>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_diplomacy_simple_treacheries.xsd" export_time="Thu Oct 8 12:15:47 2015" revision="11" export_branch="D:/TW/warhammer/src" export_user="bob">
+<edit_uuid>b60e4180-5ef6-44ba-9281-15d1356db7b5</edit_uuid>
+<cai_diplomacy_simple_treacheries record_uuid="{4ec3e58f-7fb7-424b-a7c6-c13584d2f23b}" record_timestamp="1370854588942" record_key="ALLY_REFUSED_TO_JOIN_WAR">
+<event>ALLY_REFUSED_TO_JOIN_WAR</event>
+<value>6</value>
+</cai_diplomacy_simple_treacheries>
+<cai_diplomacy_simple_treacheries record_uuid="{4d11c0b3-550d-4c47-9534-ecf5c8947192}" record_timestamp="1368124453227" record_key="BATTLE_ALLY_SUPPORT_REFUSED">
+<event>BATTLE_ALLY_SUPPORT_REFUSED</event>
+<value>4</value>
+</cai_diplomacy_simple_treacheries>
+<cai_diplomacy_simple_treacheries record_uuid="{9c427c2a-1d2e-4b44-994b-ebd98f968605}" record_timestamp="1376649109407" record_key="HOSTILE_AGENT_ACTION_TOWARDS_ALLY">
+<event>HOSTILE_AGENT_ACTION_TOWARDS_ALLY</event>
+<value>4</value>
+</cai_diplomacy_simple_treacheries>
+</dataroot>

@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="warscape_animated_lod.xsd" export_time="Fri Oct 21 08:44:26 2016" revision="132" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>a1820967-6248-4f0e-8efc-f67e7878a21f</edit_uuid>
+<warscape_animated_lod record_uuid="{9a0ff4b9-75e9-4be5-9436-6614ae32b0b2}" record_timestamp="1362760837537" record_key="-1059578823">
+<animated>campaign_trader_villager</animated>
+<filename>RigidModels\campaign\trade_models\camel_trader01_anim.rigid_model_v2</filename>
+<key>-1059578823</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{5a90ca9e-4062-4749-a34c-8311ad41bbeb}" record_key="-1631058337">
+<animated>oar_R_anim_raise</animated>
+<filename>RigidModels\Naval\Variant\oar_R_raise_anim.rigid_model_v2</filename>
+<key>-1631058337</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{5f09d3bc-aa0d-47f0-991d-a077a72f783f}" record_key="-1683851084">
+<animated>oar_R_anim_lower</animated>
+<filename>RigidModels\Naval\Variant\oar_R_lower_anim.rigid_model_v2</filename>
+<key>-1683851084</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{602c2ee3-131e-428c-ba8a-56e456879216}" record_key="-1855534954">
+<animated>oar_L_anim_lower</animated>
+<filename>RigidModels\Naval\Variant\oar_L_lower_anim.rigid_model_v2</filename>
+<key>-1855534954</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{3d8a9772-a9ae-4a64-a5d1-e60d28d0891a}" record_key="-1910630381">
+<animated>trade_camel_lead</animated>
+<filename>RigidModels\CampaignTradeRoutes\trade_camel_lead.rigid_model_animation</filename>
+<key>-1910630381</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{559e3d90-0db5-40e6-b6e7-d354e15ef591}" record_key="1192635548">
+<animated>target_marker</animated>
+<filename>RigidModels/3DIndicators/target_marker.rigid_model_animation</filename>
+<key>1192635548</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{73e02d21-1adc-47c5-aab8-cf5604f49269}" record_key="1208454631">
+<animated>campaign_ship2</animated>
+<filename>RigidModels/CampaignPieces/campaign_ship_model_2.animatable_rigid_model</filename>
+<key>1208454631</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{9bfe2bc9-a078-49dc-b6ce-9dbb31b4688e}" record_timestamp="1365607123976" record_key="1214560264">
+<animated>campaign_trader_trade_ship</animated>
+<filename>RigidModels\campaign\trade_models\sea_trade_anim.rigid_model_v2</filename>
+<key>1214560264</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{8b89d46d-8758-476b-9933-a778e08256a8}" record_timestamp="1362760837547" record_key="1219078168">
+<animated>campaign_trader_trade_cart</animated>
+<filename>RigidModels\campaign\trade_models\camel_trader01_anim.rigid_model_v2</filename>
+<key>1219078168</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{2f9ea147-95be-4572-bb67-308643790718}" record_key="1229678891">
+<animated>oar_L_anim_loop</animated>
+<filename>RigidModels\Naval\Variant\oar_L_loop_anim.rigid_model_v2</filename>
+<key>1229678891</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{396d5c04-f59f-4a01-90fc-2036197d0627}" record_key="1230050569">
+<animated>oar_L_anim_raise</animated>
+<filename>RigidModels\Naval\Variant\oar_L_raise_anim.rigid_model_v2</filename>
+<key>1230050569</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{b29b7d42-8b34-40d3-b7b0-5c167de5001a}" record_key="1251984794">
+<animated>trade_camel</animated>
+<filename>RigidModels\CampaignTradeRoutes\trade_camel.rigid_model_animation</filename>
+<key>1251984794</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{55015f0e-93a0-4c56-9c52-daeecf2bba47}" record_key="1451105936">
+<animated>oar_R_anim_loop</animated>
+<filename>RigidModels\Naval\Variant\oar_R_loop_anim.rigid_model_v2</filename>
+<key>1451105936</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{f9707259-d655-42fe-922d-42352fd149e6}" record_key="2146654967">
+<animated>campaign_building_siege</animated>
+<filename>RigidModels\CampaignBuildings\Building_Siegeicon\icon_under_siege_anim.rigid_model_v2</filename>
+<key>2146654967</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{5b4d8459-22bd-4307-af64-f82895fe059d}" record_key="2146654983">
+<animated>campaign_building_placeholder1_anim</animated>
+<filename>RigidModels/CampaignBuildings//campaign_building_placeholder1_anim.rigid_model_v2</filename>
+<key>2146654983</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{bf1e7812-460f-4883-b9cc-2242dd6f4d10}" record_key="2146655425">
+<animated>rome_ballista_medium</animated>
+<filename>RigidModels/artillery_and_siege/ballista30d_50p/ballista30d_50p.rigid_model_v2</filename>
+<key>2146655425</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{cac38f38-1371-4647-83d1-b5a6fd902257}" record_key="2146655435">
+<animated>rome_onager</animated>
+<filename>RigidModels/artillery_and_siege/onager/onager.rigid_model_v2</filename>
+<key>2146655435</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{0c7d4ce2-b8d9-4745-9688-8b6fc5edf626}" record_key="2146655477">
+<animated>rome_ballista_giant</animated>
+<filename>RigidModels/artillery_and_siege/ballista30d_100p/ballista30d_100p.rigid_model_v2</filename>
+<key>2146655477</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{131937cc-9396-428c-81cc-6b9de5e6697f}" record_key="2146655484">
+<animated>rome_polybolos</animated>
+<filename>RigidModels/artillery_and_siege/polybolos/polybolos.rigid_model_v2</filename>
+<key>2146655484</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{34a2d9cd-8b4e-4602-bce4-20af1d083101}" record_key="2146655488">
+<animated>rome_scorpio</animated>
+<filename>RigidModels/artillery_and_siege/scorpio/scorpio.rigid_model_v2</filename>
+<key>2146655488</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{62a35e58-3de3-49bd-aba3-f643a13d5259}" record_key="2146655492">
+<animated>rome_fireraiser</animated>
+<filename>RigidModels/artillery_and_siege/fire_raiser/fire_raiser.rigid_model_v2</filename>
+<key>2146655492</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{27c8ce5b-0f72-4ae0-933b-53d9b4fce32a}" record_key="2146655493">
+<animated>rome_battering_ram_heavy</animated>
+<filename>RigidModels/artillery_and_siege/battering_ram_heavy/battering_ram_heavy.rigid_model_v2</filename>
+<key>2146655493</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{bcf54171-6dd5-4dcf-b089-b13a0c961127}" record_key="2146655500">
+<animated>rome_battering_ram_light</animated>
+<filename>RigidModels/artillery_and_siege/battering_ram_light/battering_ram_light.rigid_model_v2</filename>
+<key>2146655500</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{7ab0c4f4-6df7-4599-8617-9d730fd2036b}" record_key="2146655503">
+<animated>rome_battering_ram_medium</animated>
+<filename>RigidModels/artillery_and_siege/battering_ram_medium/battering_ram_medium.rigid_model_v2</filename>
+<key>2146655503</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{d10219e6-e30d-4a18-b929-694ffc1b1527}" record_key="2146655507">
+<animated>rome_ballista_medium_destruction_anim</animated>
+<filename>RigidModels/artillery_and_siege/ballista30d_50p/ballista30d_50p_destruction_anim.rigid_model_v2</filename>
+<key>2146655507</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{a13c561a-2076-43b0-bcac-f54ac3c4ee32}" record_key="2146655512">
+<animated>rome_ballista_medium_ship</animated>
+<filename>RigidModels/artillery_and_siege/ballista30d_50p_ship/ballista30d_50p_ship.rigid_model_v2</filename>
+<key>2146655512</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{9292c4da-151d-4022-93f7-1be6f88b8237}" record_key="2146655516">
+<animated>rome_ballista_medium_ship_destruction_anim</animated>
+<filename>RigidModels/artillery_and_siege/ballista30d_50p_ship/ballista30d_50p_ship_destruction_anim.rigid_model_v2</filename>
+<key>2146655516</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{6fab3556-bea8-4e6d-be4f-48938217a2a6}" record_key="2146655519">
+<animated>rome_onager_destruction_anim</animated>
+<filename>RigidModels/artillery_and_siege/onager/onager_destruction_anim.rigid_model_v2</filename>
+<key>2146655519</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{7b1db573-b28d-45d7-83a8-9e2165370b37}" record_key="2146655528">
+<animated>rome_onager_ship</animated>
+<filename>RigidModels/artillery_and_siege/onager_ship/onager_ship.rigid_model_v2</filename>
+<key>2146655528</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{8663edf4-78cd-4ae6-bd0b-e7b7bb239d5d}" record_key="2146655537">
+<animated>rome_onager_ship_destruction_anim</animated>
+<filename>RigidModels/artillery_and_siege/onager_ship/onager_ship_destruction_anim.rigid_model_v2</filename>
+<key>2146655537</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{1aebe889-7aa6-4b63-915f-3ff83abe5170}" record_key="2146655546">
+<animated>rome_scorpio_destruction_anim</animated>
+<filename>RigidModels/artillery_and_siege/scorpio/scorpio_destruction_anim.rigid_model_v2</filename>
+<key>2146655546</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{b1447acf-8370-473d-9b35-8b11695e039e}" record_key="2146655550">
+<animated>rome_polybolos_destruction_anim</animated>
+<filename>RigidModels/artillery_and_siege/polybolos/polybolos_destruction_anim.rigid_model_v2</filename>
+<key>2146655550</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{1a130aee-88bd-4714-88f3-111cd8e5fa0b}" record_key="2146655554">
+<animated>rome_cheiroballistra</animated>
+<filename>RigidModels/artillery_and_siege/cherioballistra/cherioballistra.rigid_model_v2</filename>
+<key>2146655554</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{1323564d-f1ec-4449-aed9-881009a48893}" record_key="2146655555">
+<animated>rome_cheiroballistra_destruction_anim</animated>
+<filename>RigidModels/artillery_and_siege/cherioballistra/cherioballistra_destruction_anim.rigid_model_v2</filename>
+<key>2146655555</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{dccda47f-0b40-41e2-b398-4123ade5cc66}" record_key="2146655556">
+<animated>rome_ballista_giant_destruction_anim</animated>
+<filename>RigidModels/artillery_and_siege/ballista30d_100p/ballista30d_100p_destruction_anim.rigid_model_v2</filename>
+<key>2146655556</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{13f4eff1-2817-4df7-b57d-df9aa2287ae0}" record_timestamp="1359132164781" record_key="2146655559">
+<animated>rome_onager_large</animated>
+<filename>RigidModels\artillery_and_siege\onager_large\onager_large.rigid_model_v2</filename>
+<key>2146655559</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{716d6ad2-56ea-4a16-b682-d58b0c05d47d}" record_timestamp="1359132164849" record_key="2146655564">
+<animated>rome_onager_large_destruction_anim</animated>
+<filename>RigidModels\artillery_and_siege\onager_large\onager_large_destruction_anim.rigid_model_v2</filename>
+<key>2146655564</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{4d777eb4-dfdc-4b57-9ecb-6132e142d2ab}" record_timestamp="1363189329855" record_key="2146655574">
+<animated>chariot_generic</animated>
+<filename>RigidModels\artillery_and_siege\chariot_generic\chariot_generic.rigid_model_v2</filename>
+<key>2146655574</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{12df4ab5-1e63-43b5-9ada-62fe22789613}" record_timestamp="1363189329813" record_key="2146655581">
+<animated>chariot_celtic</animated>
+<filename>RigidModels\artillery_and_siege\chariot_celtic\chariot_celtic.rigid_model_v2</filename>
+<key>2146655581</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{7fc7aae2-947a-424d-872a-944b79d8b91c}" record_timestamp="1361374918684" record_key="2146655585">
+<animated>rome_harpax</animated>
+<filename>RigidModels\artillery_and_siege\harpax\harpax.rigid_model_v2</filename>
+<key>2146655585</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{f73695ac-0947-4e2c-9c33-a584d3046f73}" record_timestamp="1361374918693" record_key="2146655587">
+<animated>rome_harpax_destruction_anim</animated>
+<filename>RigidModels\artillery_and_siege\harpax\harpax_destruction_anim.rigid_model_v2</filename>
+<key>2146655587</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{172ee793-7c75-4a3f-ad44-752e2815a7f1}" record_timestamp="1363189329518" record_key="2146655591">
+<animated>chariot_generic_destruction_anim</animated>
+<filename>RigidModels\artillery_and_siege\chariot_generic\chariot_generic_destruction_anim.rigid_model_v2</filename>
+<key>2146655591</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{3707d305-e4f2-4e97-a615-7227fe11690d}" record_timestamp="1363189329430" record_key="2146655597">
+<animated>chariot_celtic_destruction_anim</animated>
+<filename>RigidModels\artillery_and_siege\chariot_celtic\chariot_celtic_destruction_anim.rigid_model_v2</filename>
+<key>2146655597</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{5b6c38ac-d0b5-4aac-b58c-c14ff2df7888}" record_timestamp="1363859170045" record_key="2146655609">
+<animated>chariot_egyptian</animated>
+<filename>RigidModels\artillery_and_siege\chariot_egyptian\chariot_egyptian.rigid_model_v2</filename>
+<key>2146655609</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{561a7bda-cffb-46ea-b90d-c32462eb0a82}" record_timestamp="1363859170055" record_key="2146655612">
+<animated>chariot_egyptian_destruction_anim</animated>
+<filename>RigidModels\artillery_and_siege\chariot_egyptian\chariot_egyptian_destruction_anim.rigid_model_v2</filename>
+<key>2146655612</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{68c5796b-edf5-4be3-be11-b3940945d81e}" record_timestamp="1369131079338" record_key="2146655631">
+<animated>trade_ship_barbarian</animated>
+<filename>RigidModels\campaign\trade_models\barbarian_trade_anim.rigid_model_v2</filename>
+<key>2146655631</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{6f615682-15aa-4cb3-ab0c-43197fd9a150}" record_timestamp="1369131079367" record_key="2146655641">
+<animated>trade_ox</animated>
+<filename>RigidModels\campaign\trade_models\ox_trader_anim.rigid_model_v2</filename>
+<key>2146655641</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{e4057a3f-07db-4222-845c-ddd19f3b3474}" record_timestamp="1369131079389" record_key="2146655649">
+<animated>trade_ox_cart</animated>
+<filename>RigidModels\campaign\trade_models\ox_cart_anim.rigid_model_v2</filename>
+<key>2146655649</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{748b516c-e360-4550-b49c-b605ee46c843}" record_timestamp="1435750079000" record_key="2146655658">
+<animated>brt_trebuchet</animated>
+<filename>warmachines/engines/brt_trebuchet/brt_trebuchet_01.rigid_model_v2</filename>
+<key>2146655658</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{31ee9ca5-47a7-408d-a85c-2bce956cb0ab}" record_timestamp="1462799114014" record_key="2146655665">
+<animated>dwf_bolt_thrower</animated>
+<filename>warmachines/engines/dwf_bolt_thrower/dwf_bolt_thrower.rigid_model_v2</filename>
+<key>2146655665</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{af8dcaf3-3d6b-4296-b0b6-312eca518774}" record_timestamp="1416839767062" record_key="2146655666">
+<animated>dwf_grudge_thrower</animated>
+<filename>warmachines\engines\dwf_grudge_thrower\dwf_grudge_thrower_1.rigid_model_v2</filename>
+<key>2146655666</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{dbea6656-34df-45a5-91ae-73dc5e8c853f}" record_timestamp="1427734606777" record_key="2146655669">
+<animated>emp_great_cannon</animated>
+<filename>warmachines\engines\emp_great_cannon\emp_great_cannon.rigid_model_v2</filename>
+<key>2146655669</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{9da9ca2c-66a5-4908-9a7a-51bc18a70e12}" record_timestamp="1427465987353" record_key="2146655675">
+<animated>emp_helblaster</animated>
+<filename>warmachines\engines\emp_helblaster\emp_helblaster_01.rigid_model_v2</filename>
+<key>2146655675</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{cda92d0c-27d5-496c-8489-ec27ae908581}" record_timestamp="1429806245707" record_key="2146655682">
+<animated>emp_luminark</animated>
+<filename>warmachines\carriage\emp_luminark\emp_luminark_01.rigid_model_v2</filename>
+<key>2146655682</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{32f40159-eddc-4263-b9e4-9443bd902c2c}" record_timestamp="1429786581919" record_key="2146655688">
+<animated>emp_mortar</animated>
+<filename>warmachines\engines\emp_mortar\emp_mortar.rigid_model_v2</filename>
+<key>2146655688</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{31b9ff4d-75ca-436f-8720-b6c723e78b04}" record_timestamp="1427297787756" record_key="2146655692">
+<animated>emp_steam_tank</animated>
+<filename>warmachines\engines\emp_steam_tank\emp_steam_tank01.rigid_model_v2</filename>
+<key>2146655692</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{92c83c0a-f06e-4bf5-b68f-c8f86fa2ac23}" record_timestamp="1433865175748" record_key="2146655694">
+<animated>grn_boar_chariot</animated>
+<filename>warmachines\chariot\grn_boar_chariot\grn_boar_chariot_01.rigid_model_v2</filename>
+<key>2146655694</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{d7c034e7-c489-4950-b3ce-71d52d6165e5}" record_timestamp="1429887308769" record_key="2146655706">
+<animated>grn_doomdiver_catapult</animated>
+<filename>warmachines\engines\grn_doomdiver_catapult\grn_doomdiver_catapult_01.rigid_model_v2</filename>
+<key>2146655706</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{5e8fcdcb-4f30-4966-bad5-6b0d6f4940c0}" record_timestamp="1387385191957" record_key="2146655713">
+<animated>grn_pump_wagon</animated>
+<filename>warmachines\grn_pump_wagon.rigid_model_v2</filename>
+<key>2146655713</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{ca9d9f8f-1f30-4c8e-a311-534146ab5862}" record_timestamp="1434728734155" record_key="2146655722">
+<animated>grn_wolf_chariot</animated>
+<filename>warmachines\chariot\grn_wolf_chariot\grn_wolf_chariot_01.rigid_model_v2</filename>
+<key>2146655722</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{9bf092d5-ab0b-4a9d-9cc2-cde6cd993a72}" record_timestamp="1449853652198" record_key="2146655724">
+<animated>vmp_corpse_cart</animated>
+<filename>warmachines\chariot\vmp_corpse_cart\vmp_corpse_cart_01.rigid_model_v2</filename>
+<key>2146655724</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{3479563b-b071-4571-a9b4-409c3472187f}" record_timestamp="1477035583870" record_key="2146655727">
+<animated>grn_rocklobber</animated>
+<filename>warmachines\engines\grn_rocklobber\grn_rocklobber_01.rigid_model_v2</filename>
+<key>2146655727</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{df6e2d58-3d93-4367-a3d4-eaa133ee834f}" record_timestamp="1388684064733" record_key="2146655731">
+<animated>emp_hurricanum</animated>
+<filename>warmachines\emp_hurricanum.rigid_model_v2</filename>
+<key>2146655731</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{ad3f0945-5b9f-4499-b3bd-8445a35a020a}" record_timestamp="1455126394557" record_key="2146655733">
+<animated>emp_war_altar</animated>
+<filename>warmachines\carriage\emp_war_altar\emp_war_altar_01.rigid_model_v2</filename>
+<key>2146655733</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{4aa3be5a-62c6-454b-b755-3170dfaef4f4}" record_timestamp="1433954184780" record_key="2146655735">
+<animated>chs_hellcannon</animated>
+<filename>warmachines\engines\chs_hellcannon\chs_hellcannon_01.rigid_model_v2</filename>
+<key>2146655735</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{67edc705-cf53-4e44-b032-5b2a4a32ec5d}" record_timestamp="1416485906563" record_key="2146655740">
+<animated>dwf_organ_gun</animated>
+<filename>warmachines\engines\dwf_organ_gun\dwf_organ_gun_01.rigid_model_v2</filename>
+<key>2146655740</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{dc2df8ae-b17b-4f1b-bc57-536336d45dbd}" record_timestamp="1417791899926" record_key="2146655743">
+<animated>dwf_flame_cannon</animated>
+<filename>warmachines\engines\dwf_flame_cannon\dwf_flame_cannon.rigid_model_v2</filename>
+<key>2146655743</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{ecf02be6-8651-4dbe-a346-2829569e5657}" record_timestamp="1419007488130" record_key="2146655752">
+<animated>dwf_cannon</animated>
+<filename>warmachines\engines\dwf_cannon\dwf_cannon.rigid_model_v2</filename>
+<key>2146655752</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{7976a921-c7ae-4282-be3d-ca8dcc811324}" record_timestamp="1455118295260" record_key="2146655756">
+<animated>bst_razorgor_chariot</animated>
+<filename>warmachines\chariot\bst_razorgor_chariot\bst_razorgor_chariot_01.rigid_model_v2</filename>
+<key>2146655756</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{2c0db03c-55bc-4289-afae-090b72a37e67}" record_timestamp="1427212902625" record_key="2146655762">
+<animated>vmp_black_coach_01</animated>
+<filename>warmachines\carriage\vmp_black_coach\vmp_black_coach_01.rigid_model_v2</filename>
+<key>2146655762</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{7fcbfb7f-e9b2-4cd2-aded-70513c3ba817}" record_timestamp="1427465987362" record_key="2146655771">
+<animated>emp_helstorm</animated>
+<filename>warmachines\engines\emp_helstorm\emp_helstorm_01.rigid_model_v2</filename>
+<key>2146655771</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{2feaa855-036c-4ff6-b292-3165ecdb0f2f}" record_timestamp="1430473162560" record_key="2146655791">
+<animated>grn_doomdiver_catapult_destruct</animated>
+<filename>warmachines\engines\grn_doomdiver_catapult\grn_doomdiver_catapult_destruct.rigid_model_v2</filename>
+<key>2146655791</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{e2837925-941e-41d1-be31-aa704993aba1}" record_timestamp="1431082853568" record_key="2146655801">
+<animated>emp_luminark_destruct</animated>
+<filename>warmachines\carriage\emp_luminark\emp_luminark_destruct.rigid_model_v2</filename>
+<key>2146655801</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{02ec2e05-fe30-40a0-a5f8-3048fcdd9cb5}" record_timestamp="1431355674486" record_key="2146655809">
+<animated>emp_helblaster_destruct</animated>
+<filename>warmachines\engines\emp_helblaster\emp_helblaster_destruct.rigid_model_v2</filename>
+<key>2146655809</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{1cd867ec-db77-43b7-80d9-26671a1fb1fe}" record_timestamp="1453812254875" record_key="2146655817">
+<animated>emp_great_cannon_destruct</animated>
+<filename>warmachines\engines\emp_great_cannon\emp_great_cannon_destruct.rigid_model_v2</filename>
+<key>2146655817</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{480e525f-9363-44f3-add6-09bc8cdae0ac}" record_timestamp="1431083754914" record_key="2146655820">
+<animated>emp_steam_tank_destruct</animated>
+<filename>warmachines\engines\emp_steam_tank\emp_steam_tank_destruct.rigid_model_v2</filename>
+<key>2146655820</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{30b21702-4921-4e39-bec2-c8ffda551cd8}" record_timestamp="1433865175756" record_key="2146655822">
+<animated>grn_boar_chariot_destruct</animated>
+<filename>warmachines\chariot\grn_boar_chariot\grn_boar_chariot_destruct.rigid_model_v2</filename>
+<key>2146655822</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{98c49d88-4ffb-4f3e-90f4-a430e9353353}" record_timestamp="1434031570639" record_key="2146655825">
+<animated>chs_hellcannon_destruct</animated>
+<filename>warmachines\engines\chs_hellcannon\chs_hellcannon_01_destruct.rigid_model_v2</filename>
+<key>2146655825</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{7d1b9da2-e223-4014-910f-632ff39cc06f}" record_timestamp="1434728734165" record_key="2146655831">
+<animated>grn_wolf_chariot_destruction</animated>
+<filename>warmachines\chariot\grn_wolf_chariot\grn_wolf_chariot_01_destruct.rigid_model_v2</filename>
+<key>2146655831</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{edf60091-82ff-4214-be99-4d9ae3fae1f6}" record_timestamp="1435137537489" record_key="2146655835">
+<animated>chs_chariot</animated>
+<filename>warmachines\chariot\chs_chariot\chs_chariot_01.rigid_model_v2</filename>
+<key>2146655835</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{6822b6b8-ec77-40ba-a40e-6e50b1de563d}" record_timestamp="1435137537546" record_key="2146655837">
+<animated>chs_chariot_destruction</animated>
+<filename>warmachines\chariot\chs_chariot\chs_chariot_01_destruct.rigid_model_v2</filename>
+<key>2146655837</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{56f1620f-a635-43f2-9414-0715d02d2ffc}" record_timestamp="1453387072578" record_key="2146655841">
+<animated>chs_gorebeast_chariot</animated>
+<filename>warmachines\chariot\chs_gorebeast_chariot\chs_gorebeast_chariot_01.rigid_model_v2</filename>
+<key>2146655841</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{3acb57c7-3cbc-4860-b260-85b9ffb045c7}" record_timestamp="1435750079010" record_key="2146655851">
+<animated>brt_trebuchet_destruct</animated>
+<filename>warmachines/engines/brt_trebuchet/brt_trebuchet_01_destruct.rigid_model_v2</filename>
+<key>2146655851</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{f866d46e-08bb-4d91-bb56-d22ec4dd1394}" record_timestamp="1440605427996" record_key="2146655854">
+<animated>dwf_flame_cannon_destruct</animated>
+<filename>warmachines/engines/dwf_flame_cannon/dwf_flame_cannon_destruct.rigid_model_v2</filename>
+<key>2146655854</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{299a5e00-9b37-4a05-aec3-5943725010cc}" record_timestamp="1440605428126" record_key="2146655863">
+<animated>dwf_organ_gun_destruct</animated>
+<filename>warmachines/engines/dwf_organ_gun/dwf_organ_gun_destruct_01.rigid_model_v2</filename>
+<key>2146655863</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{6e2ae3d0-2b27-4240-a82e-2dcd43e78f77}" record_timestamp="1450200684631" record_key="2146655869">
+<animated>dwf_cannon_destruct</animated>
+<filename>warmachines/engines/dwf_cannon/dwf_cannon_destruct.rigid_model_v2</filename>
+<key>2146655869</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{04c986cd-d413-4d64-8f1e-dcfab90e25e2}" record_timestamp="1450261773758" record_key="2146655870">
+<animated>vmp_black_coach_destruct</animated>
+<filename>warmachines/carriage/vmp_black_coach/vmp_black_coach_destruct.rigid_model_v2</filename>
+<key>2146655870</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{1af462ac-5a28-45d3-a4fb-d6609fea9ff0}" record_timestamp="1450261773881" record_key="2146655879">
+<animated>dwf_grudge_thrower_destruct</animated>
+<filename>warmachines/engines/dwf_grudge_thrower/dwf_grudge_thrower_destruct.rigid_model_v2</filename>
+<key>2146655879</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{9226cf94-6246-478e-a5d3-a1cad74ed88c}" record_timestamp="1450268705231" record_key="2146655881">
+<animated>emp_mortar_destruct</animated>
+<filename>warmachines/engines/emp_mortar/emp_mortar_destruct.rigid_model_v2</filename>
+<key>2146655881</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{5b85f695-ec02-4ccb-815f-5145295fb4f3}" record_timestamp="1477035583870" record_key="2146655882">
+<animated>grn_rocklobber_destruct</animated>
+<filename>warmachines\engines\grn_rocklobber\grn_rocklobber_destruct.rigid_model_v2</filename>
+<key>2146655882</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{15672730-3f42-4a9c-968e-102783588137}" record_timestamp="1451905727075" record_key="2146655889">
+<animated>emp_helstorm_destruct</animated>
+<filename>warmachines/engines/emp_helstorm/emp_helstorm_destruct.rigid_model_v2</filename>
+<key>2146655889</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{ba680e3a-317f-4712-be24-a277fc7a10ee}" record_timestamp="1451993930634" record_key="2146655894">
+<animated>vmp_mortis_engine</animated>
+<filename>warmachines\chariot\vmp_mortis_engine\vmp_mortis_engine01.rigid_model_v2</filename>
+<key>2146655894</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{b25c9044-069f-4892-9a8c-a7fc480bc2ee}" record_timestamp="1453387072584" record_key="2146655898">
+<animated>chs_gorebeast_chariot_destruction</animated>
+<filename>warmachines\chariot\chs_gorebeast_chariot\chs_gorebeast_chariot_01_destruct.rigid_model_v2</filename>
+<key>2146655898</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{20847350-f161-4ad6-b28f-81ae326ee98d}" record_timestamp="1467889443060" record_key="2146655899">
+<animated>vmp_corpse_cart_lodestone</animated>
+<filename>warmachines\chariot\vmp_corpse_cart\vmp_corpse_cart_bell_01.rigid_model_v2</filename>
+<key>2146655899</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{4714a9d8-22c7-408d-9ec7-73d24be1a725}" record_timestamp="1455028308764" record_key="2146655901">
+<animated>vmp_corpse_cart_balefire</animated>
+<filename>warmachines\chariot\vmp_corpse_cart\vmp_corpse_cart_cauldron_01.rigid_model_v2</filename>
+<key>2146655901</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{d858f71d-524f-4c4e-b658-461f61ef5552}" record_timestamp="1467714634560" record_key="2146655906">
+<animated>bst_razorgor_chariot_destruction</animated>
+<filename>warmachines\chariot\bst_razorgor_chariot\building_bst_razorgor_chariot_01_destruct.rigid_model_v2</filename>
+<key>2146655906</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{39d3136e-2d51-4857-8e5b-1975e140f50f}" record_timestamp="1461836206670" record_key="2146655910">
+<animated>emp_great_cannon_hammer</animated>
+<filename>warmachines\engines\emp_great_cannon\emp_great_cannon_hammer_01.rigid_model_v2</filename>
+<key>2146655910</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{f6395257-9e80-4adc-b519-2f9866be3f6e}" record_timestamp="1461836206671" record_key="2146655914">
+<animated>emp_great_cannon_hammer_destruct</animated>
+<filename>warmachines\engines\emp_great_cannon\emp_great_cannon_hammer_01_destruct.rigid_model_v2</filename>
+<key>2146655914</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{59adbf52-dfc1-4e15-8353-221e3d861b4c}" record_timestamp="1462289957282" record_key="2146655926">
+<animated>emp_luminark_temple</animated>
+<filename>warmachines\carriage\emp_luminark\emp_luminark_temple_01.rigid_model_v2</filename>
+<key>2146655926</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{3537526a-4d74-465c-bdfc-80e565039f72}" record_timestamp="1462289957294" record_key="2146655928">
+<animated>emp_luminark_destruct_temple</animated>
+<filename>warmachines\carriage\emp_luminark\emp_luminark_temple_destruct_01.rigid_model_v2</filename>
+<key>2146655928</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{199857d4-2cb2-4055-a6ad-871c46e90f18}" record_timestamp="1462372985074" record_key="2146655930">
+<animated>emp_helstorm_sunmaker_01</animated>
+<filename>warmachines\engines\emp_helstorm\emp_helstorm_sunmaker_01.rigid_model_v2</filename>
+<key>2146655930</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{95b39f71-52f5-486e-a51e-2a8cdc95d1e9}" record_timestamp="1462372985074" record_key="2146655935">
+<animated>emp_helstorm_sunmaker_destruct_01</animated>
+<filename>warmachines/engines/emp_helstorm/emp_helstorm_sunmaker_destruct_01.rigid_model_v2</filename>
+<key>2146655935</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{2141f282-c32f-4e1e-a4f8-e791ed1d08bc}" record_timestamp="1466007940331" record_key="2146655940">
+<animated>vmp_mortis_engine_destruct</animated>
+<filename>warmachines\chariot\vmp_mortis_engine\vmp_mortis_engine_destruct_01.rigid_model_v2</filename>
+<key>2146655940</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{7ace4988-8e12-45a9-bf25-f4c33606478c}" record_timestamp="1467886932851" record_key="2146655944">
+<animated>vmp_corpse_cart_destruct</animated>
+<filename>warmachines\chariot\vmp_corpse_cart\vmp_corpse_cart_01_destruct.rigid_model_v2</filename>
+<key>2146655944</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{124190d0-7ec7-479c-8fa0-3ad06c160920}" record_timestamp="1467886932867" record_key="2146655953">
+<animated>vmp_corpse_cart_lodestone_destruct</animated>
+<filename>warmachines\chariot\vmp_corpse_cart\vmp_corpse_cart_bell_01_destruct.rigid_model_v2</filename>
+<key>2146655953</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{4c16f168-3c61-4899-9bc8-cfadf438344f}" record_timestamp="1467886932881" record_key="2146655960">
+<animated>vmp_corpse_cart_balefire_destruct</animated>
+<filename>warmachines\chariot\vmp_corpse_cart\vmp_corpse_cart_cauldron_01_destruct.rigid_model_v2</filename>
+<key>2146655960</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{2c1bfed3-6913-4e31-9278-9f8e665a369e}" record_timestamp="1467886932894" record_key="2146655962">
+<animated>vmp_corpse_cart_helman_destruct</animated>
+<filename>warmachines\chariot\vmp_corpse_cart\vmp_corpse_cart_helman_01_destruct.rigid_model_v2</filename>
+<key>2146655962</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{1b49e9ad-bf17-4fc7-9239-c1df819d0203}" record_timestamp="1467887048886" record_key="2146655972">
+<animated>vmp_corpse_cart_helman</animated>
+<filename>warmachines\chariot\vmp_corpse_cart\vmp_corpse_cart_helman_01.rigid_model_v2</filename>
+<key>2146655972</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{5ae1024a-8ca3-49a1-9921-d7b3ef12ee43}" record_timestamp="1468339557773" record_key="2146655981">
+<animated>emp_war_altar_destruct</animated>
+<filename>warmachines\carriage\emp_war_altar\emp_war_altar_destruct_01.rigid_model_v2</filename>
+<key>2146655981</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{8ba11bd5-cbb9-4d12-b55e-10ec6432ccc4}" record_timestamp="1474281952040" record_key="2146655984">
+<animated>grn_wolf_chariot_robbers</animated>
+<filename>warmachines\chariot\grn_wolf_chariot\grn_wolf_chariot_robbers_01.rigid_model_v2</filename>
+<key>2146655984</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{f143b0ae-0d22-4fb5-8ceb-2a3b58718036}" record_timestamp="1474281952043" record_key="2146655989">
+<animated>grn_wolf_chariot_robbers_destruct</animated>
+<filename>warmachines\chariot\grn_wolf_chariot\grn_wolf_chariot_robbers_01_destruct.rigid_model_v2</filename>
+<key>2146655989</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{fa2cdf75-fccb-4c96-b717-a09db68ef65e}" record_timestamp="1474282559393" record_key="2146655990">
+<animated>vmp_mortis_engine_nagash</animated>
+<filename>warmachines\chariot\vmp_mortis_engine\vmp_mortis_engine_nagash01.rigid_model_v2</filename>
+<key>2146655990</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{a55a2504-a53b-431e-94fe-e648780641f7}" record_timestamp="1477035583870" record_key="2146655991">
+<animated>grn_rocklobber_gork</animated>
+<filename>warmachines\engines\grn_rocklobber\grn_rocklobber_gork.rigid_model_v2</filename>
+<key>2146655991</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{884a830e-df3e-4814-adc2-740cdbb7d80e}" record_timestamp="1477035583871" record_key="2146655992">
+<animated>grn_rocklobber_gork_destruct</animated>
+<filename>warmachines\engines\grn_rocklobber\grn_rocklobber_gork_destruct.rigid_model_v2</filename>
+<key>2146655992</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{11d98890-1efb-4741-b83e-a6ca2ade7b64}" record_timestamp="1474287864110" record_key="2146655993">
+<animated>dwf_grudge_thrower_gob</animated>
+<filename>warmachines/engines/dwf_grudge_thrower/dwf_grudge_thrower_gob_01.rigid_model_v2</filename>
+<key>2146655993</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{f1078ecf-f2e2-4f87-99ce-40019cd85562}" record_timestamp="1474287864111" record_key="2146655999">
+<animated>dwf_grudge_thrower_gob_destruct</animated>
+<filename>warmachines/engines/dwf_grudge_thrower/dwf_grudge_thrower_gob_destruct.rigid_model_v2</filename>
+<key>2146655999</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{c29726f1-99f5-4dbc-b6ca-7c3442495856}" record_key="280">
+<animated>positional_oar_L01_anim</animated>
+<filename>RigidModels/Naval/Variant/positional_oar_L01_anim.rigid_model_animation</filename>
+<key>280</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{bb62e253-06c3-49bd-8bc4-a0bf9c208850}" record_key="281">
+<animated>positional_oar_L02_anim</animated>
+<filename>RigidModels/Naval/Variant/positional_oar_L02_anim.rigid_model_animation</filename>
+<key>281</key>
+<range>0</range>
+</warscape_animated_lod>
+<warscape_animated_lod record_uuid="{f1251164-21a6-4e0f-835b-e3f0ca81bfd1}" record_key="8">
+<animated>campaign_ship</animated>
+<filename>RigidModels/CampaignPieces/campaign_ship_model.animatable_rigid_model</filename>
+<key>8</key>
+<range>0</range>
+</warscape_animated_lod>
+</dataroot>

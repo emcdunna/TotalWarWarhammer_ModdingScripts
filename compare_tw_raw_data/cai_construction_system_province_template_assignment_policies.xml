@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_construction_system_province_template_assignment_policies.xsd" export_time="Thu Sep 24 11:07:39 2015" revision="10" export_branch="E:/TW/warhammer/src" export_user="bob">
+<edit_uuid>10dbfced-9ba1-4d2c-89b3-77ee37b23796</edit_uuid>
+<cai_construction_system_province_template_assignment_policies record_uuid="{424366a2-e506-4024-909f-4e8bdc2f6302}" record_timestamp="1431530390365" record_key="cai_cs_basic_province_template_assignment_policy">
+<default_template_assignment_scheme>balanced_template_assignment_scheme</default_template_assignment_scheme>
+<key>cai_cs_basic_province_template_assignment_policy</key>
+</cai_construction_system_province_template_assignment_policies>
+<cai_construction_system_province_template_assignment_policies record_uuid="{80199490-408e-4f39-98b7-a661ee0fe932}" record_timestamp="1431530390684" record_key="cai_cs_economist_province_template_assignment_policy">
+<default_template_assignment_scheme>economist_template_assignment_scheme</default_template_assignment_scheme>
+<key>cai_cs_economist_province_template_assignment_policy</key>
+</cai_construction_system_province_template_assignment_policies>
+<cai_construction_system_province_template_assignment_policies record_uuid="{9cda3fb5-29e2-4482-b86c-97dbfe87c2d1}" record_timestamp="1431530390761" record_key="cai_cs_militaristic_province_template_assignment_policy">
+<default_template_assignment_scheme>militaristic_template_assignment_scheme</default_template_assignment_scheme>
+<key>cai_cs_militaristic_province_template_assignment_policy</key>
+</cai_construction_system_province_template_assignment_policies>
+</dataroot>

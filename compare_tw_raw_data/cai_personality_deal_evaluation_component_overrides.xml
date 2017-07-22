@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personality_deal_evaluation_component_overrides.xsd" export_time="Fri Dec 16 11:56:16 2016" revision="28" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e4482a02-cafd-4b57-84f9-7119d1c94e49</edit_uuid>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{03d3b8c5-1df6-41b3-aa5b-51026a618cb8}" record_timestamp="1439466066047" record_key="aggressive">
+<component>aggressive</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{3401bcb1-f4b6-442e-a8df-4e46c1bcfb6f}" record_timestamp="1439804289531" record_key="aggressive_joins_strong">
+<component>aggressive_joins_strong</component>
+<parent>aggressive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{4e0b89d3-03b6-45cc-8998-639de95a19b5}" record_timestamp="1456830956029" record_key="aggressive_joins_strong_less_diplomatic">
+<component>aggressive_joins_strong_less_diplomatic</component>
+<parent>aggressive_joins_strong</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{0445069f-70ab-41fa-ad38-efe98b42af3e}" record_timestamp="1452619124774" record_key="aggressive_joins_strong_subordinate">
+<component>aggressive_joins_strong_subordinate</component>
+<parent>aggressive_joins_strong</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{d4a2cb8c-2e9c-4cb6-99be-a1485a1f23e7}" record_timestamp="1456830956029" record_key="aggressive_less_diplomatic">
+<component>aggressive_less_diplomatic</component>
+<parent>aggressive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{7fe39fba-123d-4568-92c1-9b9f13cd0d8e}" record_timestamp="1439540206112" record_key="aggressive_reliable">
+<component>aggressive_reliable</component>
+<parent>reliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{8a18d5f2-447f-48f9-9664-0fa884d5628e}" record_timestamp="1456830956029" record_key="aggressive_reliable_less_diplomatic">
+<component>aggressive_reliable_less_diplomatic</component>
+<parent>aggressive_reliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{10842090-4af1-4824-92ca-ce42191b7999}" record_timestamp="1439918577276" record_key="aggressive_repulsive">
+<component>aggressive_repulsive</component>
+<parent>repulsive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{91240eae-0816-43c1-b272-c33896294f84}" record_timestamp="1455041143088" record_key="aggressive_repulsive_joins_strong">
+<component>aggressive_repulsive_joins_strong</component>
+<parent>aggressive_repulsive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{7bb2e237-f20e-4d62-a2a3-147e3ec52778}" record_timestamp="1439540206112" record_key="aggressive_unreliable">
+<component>aggressive_unreliable</component>
+<parent>unreliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{60fe6250-8075-4ab0-a06f-bd82d481fda5}" record_timestamp="1439804289539" record_key="aggressive_unreliable_joins_strong">
+<component>aggressive_unreliable_joins_strong</component>
+<parent>aggressive_unreliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{9b3f966e-2d4d-4512-97dc-584b220568f6}" record_timestamp="1463570270814" record_key="aggressive_unreliable_joins_strong_lategame">
+<component>aggressive_unreliable_joins_strong_lategame</component>
+<parent>aggressive_unreliable_joins_strong</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{ddcc9403-54fd-40ef-a1ee-20502219fc0c}" record_timestamp="1456830956028" record_key="aggressive_unreliable_joins_strong_less_diplomatic">
+<component>aggressive_unreliable_joins_strong_less_diplomatic</component>
+<parent>aggressive_unreliable_joins_strong</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{0e5f8917-8b77-444e-b7c9-5f0ee765457b}" record_timestamp="1463570270815" record_key="aggressive_unreliable_joins_strong_less_diplomatic_lategame">
+<component>aggressive_unreliable_joins_strong_less_diplomatic_lategame</component>
+<parent>aggressive_unreliable_joins_strong_less_diplomatic</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{8ea47c3a-5e7f-4ac3-a540-c0efa2fab281}" record_timestamp="1452619124773" record_key="aggressive_unreliable_joins_strong_subordinate">
+<component>aggressive_unreliable_joins_strong_subordinate</component>
+<parent>aggressive_unreliable_joins_strong</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{98c24667-982d-4e95-b6c5-80bc475d409c}" record_timestamp="1463570270815" record_key="aggressive_unreliable_lategame">
+<component>aggressive_unreliable_lategame</component>
+<parent>aggressive_unreliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{af5a1291-5514-47ac-b423-216615fb6817}" record_timestamp="1456830956029" record_key="aggressive_unreliable_less_diplomatic">
+<component>aggressive_unreliable_less_diplomatic</component>
+<parent>aggressive_unreliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{3f130224-ec83-49b8-979a-883ef795b993}" record_timestamp="1463570270813" record_key="aggressive_unreliable_less_diplomatic_lategame">
+<component>aggressive_unreliable_less_diplomatic_lategame</component>
+<parent>aggressive_unreliable_less_diplomatic</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{ff5586e7-8f34-4eb1-b125-82040cc54d24}" record_timestamp="1439918577340" record_key="aggressive_unreliable_repulsive">
+<component>aggressive_unreliable_repulsive</component>
+<parent>aggressive_repulsive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{cb2ba788-d04e-4f84-ac92-30fff726d74d}" record_timestamp="1463570270813" record_key="aggressive_unreliable_schemer_lategame">
+<component>aggressive_unreliable_schemer_lategame</component>
+<parent>aggressive_unreliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{896af9ec-b205-4d49-b282-fa2aeebceaf3}" record_timestamp="1463570270814" record_key="aggressive_unreliable_schemer_less_diplomatic_lategame">
+<component>aggressive_unreliable_schemer_less_diplomatic_lategame</component>
+<parent>aggressive_unreliable_less_diplomatic</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{3e5e5578-15dd-423b-9722-7de5d1dc0e88}" record_timestamp="1456830956028" record_key="default_less_diplomatic">
+<component>default_less_diplomatic</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{d0e63566-1107-4277-9f01-832ff94e0233}" record_timestamp="1446140140074" record_key="default_subordinate">
+<component>default_subordinate</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{dbfbae78-650a-477d-9ed0-a47bfc7ee7cd}" record_timestamp="1439566339789" record_key="default_trader">
+<component>default_trader</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{363c4374-7933-4367-9112-0df53ba066db}" record_timestamp="1456830956028" record_key="default_trader_less_diplomatic">
+<component>default_trader_less_diplomatic</component>
+<parent>default_trader</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{f88720c2-f41d-4e50-8f68-b03f08fa985c}" record_timestamp="1439466066047" record_key="defensive">
+<component>defensive</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{94ba9a50-4322-495a-b287-4d9e77721617}" record_timestamp="1456830956028" record_key="defensive_less_diplomatic">
+<component>defensive_less_diplomatic</component>
+<parent>defensive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{8c25df9a-0cb9-4270-b89c-028763311dc9}" record_timestamp="1439918571462" record_key="defensive_passive">
+<component>defensive_passive</component>
+<parent>passive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{deccbd73-ad56-47fa-9f46-3bda73715e53}" record_timestamp="1439540206112" record_key="defensive_reliable">
+<component>defensive_reliable</component>
+<parent>reliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{02f892ca-822d-4584-ac92-462a0088afc8}" record_timestamp="1456830956028" record_key="defensive_reliable_less_diplomatic">
+<component>defensive_reliable_less_diplomatic</component>
+<parent>defensive_reliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{a5cebcfa-f8e4-4a80-a354-764a251639a6}" record_timestamp="1439918571263" record_key="defensive_reliable_passive">
+<component>defensive_reliable_passive</component>
+<parent>defensive_passive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{08174831-8739-436f-87d9-afc7bba96db2}" record_timestamp="1446140140074" record_key="defensive_reliable_subordinate">
+<component>defensive_reliable_subordinate</component>
+<parent>defensive_reliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{2fc917b1-c1b5-4a93-83d7-fd9da2987b5e}" record_timestamp="1439566339780" record_key="defensive_reliable_trader">
+<component>defensive_reliable_trader</component>
+<parent>defensive_reliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{4a127f58-eec1-48ce-b15d-597410987afd}" record_timestamp="1456830956028" record_key="defensive_reliable_trader_less_diplomatic">
+<component>defensive_reliable_trader_less_diplomatic</component>
+<parent>defensive_reliable_trader</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{4d923075-0fc8-4722-bfb6-0df76eaf6a55}" record_timestamp="1439891688075" record_key="defensive_schemer">
+<component>defensive_schemer</component>
+<parent>defensive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{fb1dec79-df1d-44b1-9c4d-589eae1465e5}" record_timestamp="1456830956028" record_key="defensive_schemer_less_diplomatic">
+<component>defensive_schemer_less_diplomatic</component>
+<parent>defensive_schemer</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{a3b49f3e-a139-4814-8467-253163d8c61e}" record_timestamp="1446140140074" record_key="defensive_subordinate">
+<component>defensive_subordinate</component>
+<parent>defensive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{c6d5c879-ba4d-418a-a973-ea48be00f5fd}" record_timestamp="1439566339772" record_key="defensive_trader">
+<component>defensive_trader</component>
+<parent>defensive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{f6c7d726-b337-460a-aa13-7e3725222fdd}" record_timestamp="1456830956028" record_key="defensive_trader_less_diplomatic">
+<component>defensive_trader_less_diplomatic</component>
+<parent>defensive_trader</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{57f9496a-874a-402a-87e2-ca7d9edf90a5}" record_timestamp="1439540206112" record_key="defensive_unreliable">
+<component>defensive_unreliable</component>
+<parent>unreliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{a9d8a2d2-b65a-4922-87be-4741a494ba56}" record_timestamp="1456830956028" record_key="defensive_unreliable_less_diplomatic">
+<component>defensive_unreliable_less_diplomatic</component>
+<parent>defensive_unreliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{a7b0589d-b9a9-413f-84cd-2a3defa1fd2e}" record_timestamp="1439918571326" record_key="defensive_unreliable_passive">
+<component>defensive_unreliable_passive</component>
+<parent>defensive_passive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{974d0971-156d-4a50-8eb7-7cd3666124b0}" record_timestamp="1439891688075" record_key="defensive_unreliable_schemer">
+<component>defensive_unreliable_schemer</component>
+<parent>defensive_unreliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{a61bc512-1f26-49ce-9960-8e31ed17adf5}" record_timestamp="1456830956028" record_key="defensive_unreliable_schemer_less_diplomatic">
+<component>defensive_unreliable_schemer_less_diplomatic</component>
+<parent>defensive_unreliable_schemer</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{b417b1ec-5253-4d8d-a866-117ce22fa76c}" record_timestamp="1460382594017" record_key="dlc03_beastman_friendly">
+<component>dlc03_beastman_friendly</component>
+<parent>defensive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{4a3f6207-d0ac-49a1-9eb3-2cc2dba962bc}" record_timestamp="1460382594037" record_key="dlc03_beastman_hostile">
+<component>dlc03_beastman_hostile</component>
+<parent>aggressive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{c641c315-172e-4ad1-9abb-0f9efaa51b2a}" record_timestamp="1460382594056" record_key="dlc03_beastman_mission_sucess">
+<component>dlc03_beastman_mission_sucess</component>
+<parent>aggressive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{4da9900c-58ac-4476-b5be-4beec94cdbc8}" record_timestamp="1481889376842" record_key="dlc05_wood_elves_default">
+<component>dlc05_wood_elves_default</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{434ddf6b-af94-44f7-8f74-f4cd0b5552f7}" record_timestamp="1481889376843" record_key="dlc05_wood_elves_default_durthu">
+<component>dlc05_wood_elves_default_durthu</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{0a99079e-7ad4-4e6d-8513-4ee8cf624bfe}" record_timestamp="1481889376843" record_key="dlc05_wood_elves_default_durthu_mini">
+<component>dlc05_wood_elves_default_durthu_mini</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{a2e3d1f6-e3a7-44ae-a409-f336e3f255a4}" record_timestamp="1481889376844" record_key="dlc05_wood_elves_default_mini">
+<component>dlc05_wood_elves_default_mini</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{c4a936c8-57d6-454f-ab1e-c4d1a910f89c}" record_timestamp="1481889376844" record_key="dlc05_wood_elves_default_orion">
+<component>dlc05_wood_elves_default_orion</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{a9216323-078b-42f6-8a25-812060d0878a}" record_timestamp="1481889376845" record_key="dlc05_wood_elves_default_orion_mini">
+<component>dlc05_wood_elves_default_orion_mini</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{e0c35ed2-ace3-4baf-be33-2cd6fa9482ac}" record_timestamp="1481889376845" record_key="dlc05_wood_elves_default_rest">
+<component>dlc05_wood_elves_default_rest</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{059f4adf-7688-49a0-b684-5959c3e7ccee}" record_timestamp="1481889376845" record_key="dlc05_wood_elves_default_rest_mini">
+<component>dlc05_wood_elves_default_rest_mini</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{98fc618f-5842-4704-aa94-8ccd4acbe9e5}" record_timestamp="1439804289548" record_key="joins_strong">
+<component>joins_strong</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{429a3424-f572-4b64-b330-fbc46ce91bdb}" record_timestamp="1456830956028" record_key="joins_strong_less_diplomatic">
+<component>joins_strong_less_diplomatic</component>
+<parent>joins_strong</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{47074973-2bfb-43c6-be01-0f6d4a6af71f}" record_timestamp="1452619124774" record_key="joins_strong_subordinate">
+<component>joins_strong_subordinate</component>
+<parent>joins_strong</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{dd6238f0-7df5-493d-987a-5b1b7f6a3376}" record_timestamp="1439918577474" record_key="passive">
+<component>passive</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{4cd65ee5-f403-4b87-9ad1-6a0fd17dc34e}" record_timestamp="1439540206112" record_key="reliable">
+<component>reliable</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{1a123fe7-335f-47de-bcd9-2ac8167cc215}" record_timestamp="1456830956028" record_key="reliable_less_diplomatic">
+<component>reliable_less_diplomatic</component>
+<parent>reliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{5c0a6e0a-4397-430a-81ac-47cfdf577357}" record_timestamp="1446140140074" record_key="reliable_subordinate">
+<component>reliable_subordinate</component>
+<parent>reliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{3171b93f-cae6-444e-8e07-b915db643552}" record_timestamp="1439566339765" record_key="reliable_trader">
+<component>reliable_trader</component>
+<parent>reliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{a24c30ec-02ed-4c38-af6e-0d736fa21253}" record_timestamp="1456830956028" record_key="reliable_trader_less_diplomatic">
+<component>reliable_trader_less_diplomatic</component>
+<parent>reliable_trader</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{288ab125-dd73-4b4d-938f-8047d3d9fe32}" record_timestamp="1439918577407" record_key="repulsive">
+<component>repulsive</component>
+<parent>passive</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{bfed85af-344a-453f-82ab-a0ed584a2ad1}" record_timestamp="1439891688075" record_key="schemer">
+<component>schemer</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{71b4cb5c-2308-4f54-931f-64fab3d210cc}" record_timestamp="1456830956028" record_key="schemer_less_diplomatic">
+<component>schemer_less_diplomatic</component>
+<parent>schemer</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{a20dc6b6-80b3-41d2-92cf-3bd0f90a041f}" record_timestamp="1439540206112" record_key="unreliable">
+<component>unreliable</component>
+<parent>default</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{92777356-70f2-4b9e-927f-03d2ac0c45bb}" record_timestamp="1439804289557" record_key="unreliable_joins_strong">
+<component>unreliable_joins_strong</component>
+<parent>unreliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{4163f644-0108-440d-9de6-9475e3c6b247}" record_timestamp="1456830956028" record_key="unreliable_joins_strong_less_diplomatic">
+<component>unreliable_joins_strong_less_diplomatic</component>
+<parent>unreliable_joins_strong</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{a440332b-e4c8-4ff6-b793-417332ef0526}" record_timestamp="1452619124774" record_key="unreliable_joins_strong_subordinate">
+<component>unreliable_joins_strong_subordinate</component>
+<parent>unreliable_joins_strong</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{344eb8fc-fa45-4e84-ae91-8b7c74e3d5c2}" record_timestamp="1456830956028" record_key="unreliable_less_diplomatic">
+<component>unreliable_less_diplomatic</component>
+<parent>unreliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{69687fbc-7a6d-4119-8988-32e925b41be7}" record_timestamp="1439891688075" record_key="unreliable_schemer">
+<component>unreliable_schemer</component>
+<parent>unreliable</parent>
+</cai_personality_deal_evaluation_component_overrides>
+<cai_personality_deal_evaluation_component_overrides record_uuid="{50f280dc-5dd7-4804-9874-504e7dff09ba}" record_timestamp="1456830956028" record_key="unreliable_schemer_less_diplomatic">
+<component>unreliable_schemer_less_diplomatic</component>
+<parent>unreliable_schemer</parent>
+</cai_personality_deal_evaluation_component_overrides>
+</dataroot>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_shield_types.xsd" export_time="Mon Aug 22 12:42:51 2016" revision="45" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>063972a2-2289-4d56-8b50-0c44976126db</edit_uuid>
+<unit_shield_types record_uuid="{0d602417-5ba7-4eb7-8556-30a3d4278423}" record_timestamp="1399986158318" record_key="none">
+<audio_type></audio_type>
+<key>none</key>
+<missile_block_chance>0</missile_block_chance>
+<shield_armour_value>0</shield_armour_value>
+<shield_defence_value>0</shield_defence_value>
+</unit_shield_types>
+<unit_shield_types record_uuid="{ae342582-7883-489b-9993-ff6bcc098423}" record_timestamp="1471865785947" record_key="wh_missile_block_30_metal">
+<audio_type>metal</audio_type>
+<key>wh_missile_block_30_metal</key>
+<missile_block_chance>30</missile_block_chance>
+<shield_armour_value>0</shield_armour_value>
+<shield_defence_value>0</shield_defence_value>
+</unit_shield_types>
+<unit_shield_types record_uuid="{8ad313fa-b79f-49ad-a1fe-d1832659399f}" record_timestamp="1471865785942" record_key="wh_missile_block_30_wood">
+<audio_type>wood</audio_type>
+<key>wh_missile_block_30_wood</key>
+<missile_block_chance>30</missile_block_chance>
+<shield_armour_value>0</shield_armour_value>
+<shield_defence_value>0</shield_defence_value>
+</unit_shield_types>
+<unit_shield_types record_uuid="{f4609a30-f363-4859-aa79-2969bc5ccf56}" record_timestamp="1471865785911" record_key="wh_missile_block_35_metal">
+<audio_type>metal</audio_type>
+<key>wh_missile_block_35_metal</key>
+<missile_block_chance>35</missile_block_chance>
+<shield_armour_value>0</shield_armour_value>
+<shield_defence_value>0</shield_defence_value>
+</unit_shield_types>
+<unit_shield_types record_uuid="{0b20edbb-ffbf-47a4-afa7-2556f84054e8}" record_timestamp="1471865785937" record_key="wh_missile_block_35_wood">
+<audio_type>wood</audio_type>
+<key>wh_missile_block_35_wood</key>
+<missile_block_chance>35</missile_block_chance>
+<shield_armour_value>0</shield_armour_value>
+<shield_defence_value>0</shield_defence_value>
+</unit_shield_types>
+<unit_shield_types record_uuid="{dfd0a398-d7f6-45a2-88f9-73569d3d9e92}" record_timestamp="1471865785954" record_key="wh_missile_block_55_metal">
+<audio_type>metal</audio_type>
+<key>wh_missile_block_55_metal</key>
+<missile_block_chance>55</missile_block_chance>
+<shield_armour_value>0</shield_armour_value>
+<shield_defence_value>0</shield_defence_value>
+</unit_shield_types>
+<unit_shield_types record_uuid="{9bdbe987-c6b0-4af1-8181-07402372165b}" record_timestamp="1471865785963" record_key="wh_missile_block_55_wood">
+<audio_type>wood</audio_type>
+<key>wh_missile_block_55_wood</key>
+<missile_block_chance>55</missile_block_chance>
+<shield_armour_value>0</shield_armour_value>
+<shield_defence_value>0</shield_defence_value>
+</unit_shield_types>
+<unit_shield_types record_uuid="{3d93e954-7f3c-4392-b5b0-888f322d8abd}" record_timestamp="1446203249118" record_key="wh_missile_block_60_metal">
+<audio_type>metal</audio_type>
+<key>wh_missile_block_60_metal</key>
+<missile_block_chance>60</missile_block_chance>
+<shield_armour_value>0</shield_armour_value>
+<shield_defence_value>0</shield_defence_value>
+</unit_shield_types>
+<unit_shield_types record_uuid="{5732f510-25f2-4a63-8eb3-5f9202aa7d6d}" record_timestamp="1446203249025" record_key="wh_missile_block_60_wood">
+<audio_type>wood</audio_type>
+<key>wh_missile_block_60_wood</key>
+<missile_block_chance>60</missile_block_chance>
+<shield_armour_value>0</shield_armour_value>
+<shield_defence_value>0</shield_defence_value>
+</unit_shield_types>
+</dataroot>

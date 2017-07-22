@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_mounts.xsd" export_time="Tue Feb 7 15:46:30 2017" revision="50" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>f5c9d122-90c4-4822-bafc-8cd371f53575</edit_uuid>
+<campaign_mounts record_uuid="{c1579556-a8a1-4f7b-9273-03370a4f2f88}" record_timestamp="1479324802266" record_key="wh_dlc03_cam_mnt_bst_razorgor_chariot">
+<actor>wh_dlc03_vo_culture_Boar</actor>
+<animation_set>cam_wm_razorgor_chariot</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_dlc03_cam_mnt_bst_razorgor_chariot</model>
+<scale>1</scale>
+<variant>wh_campaign_bst_beastlord_razorgor_chariot</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{0b9366ce-3f9e-47fb-9234-f7f5f66a53f9}" record_timestamp="1479324803217" record_key="wh_dlc04_cam_mnt_emp_war_altar">
+<actor>wh_main_vo_culture_Empire</actor>
+<animation_set>cam_wm_war_altar</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_dlc04_cam_mnt_emp_war_altar</model>
+<scale>0.65</scale>
+<variant>wh_campaign_emp_war_altar</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{0d97bb99-0da2-477d-ad54-8b074e2aa156}" record_timestamp="1479324826499" record_key="wh_dlc04_cam_mnt_vmp_corpse_cart">
+<actor>wh_main_vo_culture_Vampire</actor>
+<animation_set>cam_wm_corpse_cart</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_dlc04_cam_mnt_vmp_corpse_cart</model>
+<scale>0.8</scale>
+<variant>wh_dlc04_campaign_vmp_corpse_cart</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{81c9f024-86a5-4c31-b74a-d4d94f34dab7}" record_timestamp="1479324826492" record_key="wh_dlc04_cam_mnt_vmp_corpse_cart_balefire">
+<actor>wh_main_vo_culture_Vampire</actor>
+<animation_set>cam_wm_corpsecart01_balefire</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_dlc04_cam_mnt_vmp_corpse_cart_balefire</model>
+<scale>0.8</scale>
+<variant>wh_dlc04_campaign_vmp_corpse_cart_balefire</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{468af6ee-ab35-47bf-a95e-b46a6e1568ef}" record_timestamp="1479324826499" record_key="wh_dlc04_cam_mnt_vmp_corpse_cart_helman">
+<actor>wh_main_vo_culture_Vampire</actor>
+<animation_set>cam_wm_corpsecart01_helman</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_dlc04_cam_mnt_vmp_corpse_cart_helman</model>
+<scale>0.8</scale>
+<variant>wh_dlc04_campaign_vmp_corpse_cart_helman</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{c788caf8-df54-48c6-9625-e25e4415af86}" record_timestamp="1479324826500" record_key="wh_dlc04_cam_mnt_vmp_corpse_cart_lodestone">
+<actor>wh_main_vo_culture_Vampire</actor>
+<animation_set>cam_wm_corpsecart01_lodestone</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_dlc04_cam_mnt_vmp_corpse_cart_lodestone</model>
+<scale>0.8</scale>
+<variant>wh_dlc04_campaign_vmp_corpse_cart_lodestone</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{fb4a7b01-7ef6-46d5-9f3a-755d2363e7e0}" record_timestamp="1479324821247" record_key="wh_dlc04_cam_mnt_vmp_terrorgheist">
+<actor>wh_main_vo_culture_Terrorgheist</actor>
+<animation_set>cam_bi2_wyvern</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_dlc04_cam_mnt_vmp_terrorgheist</model>
+<scale>0.7</scale>
+<variant>wh_vmp_terrorgheist</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{6d71aa9d-c5c6-4c8f-bce1-98a487577222}" record_timestamp="1479326263820" record_key="wh_dlc05_cam_mnt_wef_elven_steed">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_dlc05_cam_mnt_wef_elven_steed</model>
+<scale>1</scale>
+<variant>wh_dlc05_wef_elven_steed</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{489c0e95-d973-423d-8830-82bb0f6eba97}" record_timestamp="1481902290845" record_key="wh_dlc05_cam_mnt_wef_forest_dragon">
+<actor>wh_dlc05_vo_culture_Forest_Dragon</actor>
+<animation_set>cam_dr1_dragon</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_dlc05_cam_mnt_wef_forest_dragon</model>
+<scale>0.55</scale>
+<variant>wh_dlc05_wef_forest_dragon_saddle</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{a765102a-9dcf-4288-adf2-66f7cafb3c89}" record_timestamp="1481042439663" record_key="wh_dlc05_cam_mnt_wef_great_eagle">
+<actor>wh_main_vo_culture_Eagle</actor>
+<animation_set>cam_bi1_eagle</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_dlc05_cam_mnt_wef_great_eagle</model>
+<scale>0.6</scale>
+<variant>wh_dlc05_wef_great_eagle_character</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{572fe230-55dc-4b67-9dfb-a5730fbf6e2b}" record_timestamp="1479326263828" record_key="wh_dlc05_cam_mnt_wef_unicorn">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_dlc05_cam_mnt_wef_unicorn</model>
+<scale>1</scale>
+<variant>wh_dlc05_wef_unicorn</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{48164200-2795-43a4-9fda-d6d48a7aa111}" record_timestamp="1479324803017" record_key="wh_dlc06_cam_mnt_dwf_anvil_of_doom">
+<actor>wh_main_vo_culture_Dwarf</actor>
+<animation_set>cam_th1_throne_of_power</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_dlc06_cam_mnt_dwf_anvil_of_doom</model>
+<scale>1</scale>
+<variant>wh_dlc06_dwf_runelord_anvil_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{56c917af-4031-4ae0-a24b-14d16085a4d7}" record_timestamp="1479324819231" record_key="wh_dlc06_cam_mnt_grn_great_cave_squig">
+<actor>wh_dlc06_vo_culture_Squig</actor>
+<animation_set>cam_rp2_great_cave_squig</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_dlc06_cam_mnt_grn_great_cave_squig</model>
+<scale>1</scale>
+<variant>wh_dlc06_grn_great_cave_squig_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{dc370405-6bb4-49f0-9119-087c2a900e63}" record_timestamp="1479324802265" record_key="wh_dlc06_cam_mnt_grn_spleenrippa">
+<actor>wh_dlc03_vo_culture_Boar</actor>
+<animation_set>cam_bo1_warboar</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_dlc06_cam_mnt_grn_spleenrippa</model>
+<scale>1</scale>
+<variant>wh_dlc06_grn_warboar_spleenrippa</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{20e74fda-8edd-4e30-8497-a08af6c55bc4}" record_timestamp="1485945603677" record_key="wh_dlc07_cam_mnt_brt_shadowsteed">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_dlc07_cam_mnt_brt_shadowsteed</model>
+<scale>1</scale>
+<variant>wh_dlc07_brt_shadowsteed_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{19b66001-3996-4b46-9c57-d47781d02af8}" record_timestamp="1483616048513" record_key="wh_dlc07_cam_mnt_brt_silvaron">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_dlc07_cam_mnt_brt_silvaron</model>
+<scale>1</scale>
+<variant>wh_dlc07_brt_silvaron</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{5fdb3928-258c-4b55-bac5-622466c39125}" record_timestamp="1479324805271" record_key="wh_main_cam_mnt_brt_barded_warhorse">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_brt_barded_warhorse</model>
+<scale>1</scale>
+<variant>wh_brt_warhorses_barded_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{8291c4f0-b13d-4bb5-aa70-38a21957bde9}" record_timestamp="1486482388649" record_key="wh_main_cam_mnt_brt_barded_warhorse_faction_colours">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_brt_barded_warhorse_faction_colours</model>
+<scale>1</scale>
+<variant>wh_brt_warhorses_barded_faction_colours_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{c6a32bdb-2349-4f96-aa95-efa8ccc810ef}" record_timestamp="1479324804251" record_key="wh_main_cam_mnt_brt_beaquis">
+<actor>wh_main_vo_culture_Griffin_DemiGryph_Hippogryph</actor>
+<animation_set>cam_bc2b_hippogryph</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_brt_beaquis</model>
+<scale>0.6</scale>
+<variant>wh_brt_beaquis_the_hippogryph</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{93c47c8d-0f9b-4bb5-b1a0-31cb6e0f53fb}" record_timestamp="1482340551399" record_key="wh_main_cam_mnt_brt_hippogryph">
+<actor>wh_main_vo_culture_Griffin_DemiGryph_Hippogryph</actor>
+<animation_set>cam_bc2b_hippogryph</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_brt_hippogryph</model>
+<scale>0.6</scale>
+<variant>wh_brt_hippogryphs_lord</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{979b1ce2-f3de-4505-a48c-6028494c6b55}" record_timestamp="1486482388861" record_key="wh_main_cam_mnt_brt_hippogryph_faction_colours">
+<actor>wh_main_vo_culture_Griffin_DemiGryph_Hippogryph</actor>
+<animation_set>cam_bc2b_hippogryph</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_brt_hippogryph_faction_colours</model>
+<scale>0.6</scale>
+<variant>wh_brt_hippogryphs_lord_faction_colours</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{18d491d7-bcdd-41f4-9445-fbacff472b37}" record_timestamp="1486034568761" record_key="wh_main_cam_mnt_brt_pegasus">
+<actor>wh_main_vo_culture_Pegasus</actor>
+<animation_set>cam_hr1_pegasus</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_brt_pegasus</model>
+<scale>1</scale>
+<variant>wh_brt_pegasus_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{bcb64351-e0c8-488d-b309-0a01cad6a711}" record_timestamp="1486034568768" record_key="wh_main_cam_mnt_brt_royal_pegasus">
+<actor>wh_main_vo_culture_Pegasus</actor>
+<animation_set>cam_hr1_pegasus</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_brt_royal_pegasus</model>
+<scale>1</scale>
+<variant>wh_brt_royal_pegasus_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{7c9ae29b-c81e-4a6c-b6e9-883ce242acdd}" record_timestamp="1486482388676" record_key="wh_main_cam_mnt_brt_royal_pegasus_faction_colours">
+<actor>wh_main_vo_culture_Pegasus</actor>
+<animation_set>cam_hr1_pegasus</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_brt_royal_pegasus_faction_colours</model>
+<scale>1</scale>
+<variant>wh_brt_royal_pegasus_faction_colours_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{6650db1c-ef74-4f4e-929e-36adcfe6a953}" record_timestamp="1479324805274" record_key="wh_main_cam_mnt_brt_warhorse">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_brt_warhorse</model>
+<scale>1</scale>
+<variant>wh_brt_warhorses_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{7ba4a08c-2d78-49f6-b9bd-e34a708d23a3}" record_timestamp="1479324805277" record_key="wh_main_cam_mnt_chs_barded_chaos_steed">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_chs_barded_chaos_steed</model>
+<scale>0.9</scale>
+<variant>wh_chs_barded_chaos_steed_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{81427bfc-d102-4b61-9f92-b4f70218f1a5}" record_timestamp="1479324802841" record_key="wh_main_cam_mnt_chs_chaos_dragon">
+<actor>wh_main_vo_culture_Dragon_Large</actor>
+<animation_set>cam_dr1b_chaos_dragon</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_chs_chaos_dragon</model>
+<scale>0.55</scale>
+<variant>wh_chs_dragon</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{d78094f0-2fe7-4d9d-b2d2-27588fed7bb5}" record_timestamp="1479324813752" record_key="wh_main_cam_mnt_chs_chaos_steed">
+<actor>wh_main_vo_culture_Skeletal_horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_chs_chaos_steed</model>
+<scale>0.9</scale>
+<variant>wh_chs_chaos_steed_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{bdedabdc-2705-4833-bdec-3a7406304a9f}" record_timestamp="1479324805273" record_key="wh_main_cam_mnt_chs_dorghar">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_chs_dorghar</model>
+<scale>1</scale>
+<variant>wh_chs_dorghar_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{b73a8228-a262-43c8-8fb1-9766013e2d07}" record_timestamp="1479324807248" record_key="wh_main_cam_mnt_chs_manticore">
+<actor>wh_main_vo_culture_Manticore</actor>
+<animation_set>cam_bc3_manticore</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_chs_manticore</model>
+<scale>0.65</scale>
+<variant>wh_chs_manticore</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{2258644d-cb2f-412f-87d6-9ee728777514}" record_timestamp="1479324805275" record_key="wh_main_cam_mnt_emp_barded_warhorse">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_emp_barded_warhorse</model>
+<scale>1</scale>
+<variant>wh_emp_warhorse_armoured_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{22e3481b-e6e2-4470-91da-ceca6373a4df}" record_timestamp="1479324804246" record_key="wh_main_cam_mnt_emp_deathclaw">
+<actor>wh_main_vo_culture_Griffin_DemiGryph_Hippogryph</actor>
+<animation_set>cam_bc2_griffon</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_emp_deathclaw</model>
+<scale>0.5</scale>
+<variant>wh_emp_deathclaw</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{b13a6fa7-0b83-4a1f-867c-f2034ec0c279}" record_timestamp="1479324804252" record_key="wh_main_cam_mnt_emp_imperial_griffon">
+<actor>wh_main_vo_culture_Griffin_DemiGryph_Hippogryph</actor>
+<animation_set>cam_bc2_griffon</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_emp_imperial_griffon</model>
+<scale>0.5</scale>
+<variant>wh_emp_imperial_griffon</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{ad0fe696-60dc-464b-b749-d08d033e0ced}" record_timestamp="1479324812472" record_key="wh_main_cam_mnt_emp_imperial_pegasus">
+<actor>wh_main_vo_culture_Pegasus</actor>
+<animation_set>cam_hr1_pegasus</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_emp_imperial_pegasus</model>
+<scale>1</scale>
+<variant>wh_emp_pegasus_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{69bb516b-0519-447e-9903-6a6c3cbc0a4e}" record_timestamp="1479324805274" record_key="wh_main_cam_mnt_emp_warhorse">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_emp_warhorse</model>
+<scale>1</scale>
+<variant>wh_emp_warhorse_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{441e0f37-9ae0-41a7-aa6e-a266cd247fc4}" record_timestamp="1479324817105" record_key="wh_main_cam_mnt_grn_giant_spider">
+<actor>wh_main_vo_culture_Spider_Large</actor>
+<animation_set>cam_sp1_giant_spider</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_grn_giant_spider</model>
+<scale>0.7</scale>
+<variant>wh_grn_giant_spider</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{f2f04f07-f656-448d-9f81-7958fc5a664e}" record_timestamp="1479324828923" record_key="wh_main_cam_mnt_grn_giant_wolf">
+<actor>wh_main_vo_culture_Wolf</actor>
+<animation_set>cam_wf1_giant_wolf</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_grn_giant_wolf</model>
+<scale>1</scale>
+<variant>wh_grn_giant_wolf</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{7cca9afa-076c-488b-b34b-b7bebcc65391}" record_timestamp="1479324828924" record_key="wh_main_cam_mnt_grn_giant_wolf_armoured">
+<actor>wh_main_vo_culture_Wolf</actor>
+<animation_set>cam_wf1_giant_wolf</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_grn_giant_wolf_armoured</model>
+<scale>1</scale>
+<variant>wh_grn_giant_wolf_armoured</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{5ffa9966-4e15-44eb-9b42-dea64781bdb7}" record_timestamp="1479324829395" record_key="wh_main_cam_mnt_grn_skullmuncha">
+<actor>wh_main_vo_culture_Wyvern</actor>
+<animation_set>cam_bi2_wyvern</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_grn_skullmuncha</model>
+<scale>0.7</scale>
+<variant>wh_grn_skullmuncha</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{65aa1c67-4cbd-42a7-9ce4-72719947391a}" record_timestamp="1479324802266" record_key="wh_main_cam_mnt_grn_warboar">
+<actor>wh_dlc03_vo_culture_Boar</actor>
+<animation_set>cam_bo1_warboar</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_grn_warboar</model>
+<scale>1</scale>
+<variant>wh_grn_warboar_big_uns</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{8d77f07d-4634-436d-a191-d9f5a5682477}" record_timestamp="1479324802266" record_key="wh_main_cam_mnt_grn_warboar_armoured">
+<actor>wh_dlc03_vo_culture_Boar</actor>
+<animation_set>cam_bo1_warboar</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_grn_warboar_armoured</model>
+<scale>1</scale>
+<variant>wh_grn_warboar_warboss</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{439931b0-207b-4497-9b97-c0ed0dee8d00}" record_timestamp="1479324829395" record_key="wh_main_cam_mnt_grn_wyvern">
+<actor>wh_main_vo_culture_Wyvern</actor>
+<animation_set>cam_bi2_wyvern</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_grn_wyvern</model>
+<scale>0.7</scale>
+<variant>wh_grn_wyvern</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{466c603e-fd4d-4e21-a970-091dbf0d55ea}" record_timestamp="1479324805270" record_key="wh_main_cam_mnt_nor_warhorse">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_nor_warhorse</model>
+<scale>1</scale>
+<variant>wh_nor_warhorse_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{008ab931-08c7-48cc-af9c-3bde234b9313}" record_timestamp="1479324805277" record_key="wh_main_cam_mnt_vmp_barded_nightmare">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_vmp_barded_nightmare</model>
+<scale>1</scale>
+<variant>wh_vmp_barded_nightmare_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{77bc6667-f7e8-4121-9f1a-fa3e2201505f}" record_timestamp="1479324813750" record_key="wh_main_cam_mnt_vmp_barded_skeletal_steed">
+<actor>wh_main_vo_culture_Skeletal_horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_vmp_barded_skeletal_steed</model>
+<scale>1</scale>
+<variant>wh_vmp_barded_skeletal_steed_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{b5ccf1f9-7b51-4cc6-872e-6cdbe4136d6d}" record_timestamp="1479324812470" record_key="wh_main_cam_mnt_vmp_hellsteed">
+<actor>wh_main_vo_culture_Pegasus</actor>
+<animation_set>cam_hr1_pegasus</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_vmp_hellsteed</model>
+<scale>1</scale>
+<variant>wh_vmp_hellsteed_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{8f60f68d-fda2-423a-ac19-32f23c881d5f}" record_timestamp="1479324805276" record_key="wh_main_cam_mnt_vmp_nightmare">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_vmp_nightmare</model>
+<scale>1</scale>
+<variant>wh_vmp_nightmare_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{b58ab385-14f6-439c-88af-12da056a1a39}" record_timestamp="1479324805272" record_key="wh_main_cam_mnt_vmp_skeletal_steed">
+<actor>wh_main_vo_culture_Horse</actor>
+<animation_set>cam_hr1_warhorse</animation_set>
+<ignore_rider_variant_scale>1</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_vmp_skeletal_steed</model>
+<scale>1</scale>
+<variant>wh_vmp_skeletal_steed_campaign</variant>
+</campaign_mounts>
+<campaign_mounts record_uuid="{cdbcc75b-0f6a-4863-b9f0-fca49e28793b}" record_timestamp="1479324802841" record_key="wh_main_cam_mnt_vmp_zombie_dragon">
+<actor>wh_main_vo_culture_Dragon_Large</actor>
+<animation_set>cam_dr1_dragon</animation_set>
+<ignore_rider_variant_scale>0</ignore_rider_variant_scale>
+<model>wh_main_cam_mnt_vmp_zombie_dragon</model>
+<scale>0.55</scale>
+<variant>wh_vmp_dragon_zombie</variant>
+</campaign_mounts>
+</dataroot>

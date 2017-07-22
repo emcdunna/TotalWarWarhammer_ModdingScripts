@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ancillary_uniqueness_groupings.xsd" export_time="Wed Apr 6 11:36:56 2016" revision="8" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>f73bfddf-2d57-4fd6-822f-4e511e0615c0</edit_uuid>
+<ancillary_uniqueness_groupings record_uuid="{3f8a7caf-57bb-4b60-b15f-3a77c73416b2}" record_timestamp="1459935463951" record_key="wh_main_anc_group_common">
+<col_b>200</col_b>
+<col_g>200</col_g>
+<col_r>200</col_r>
+<description state="APPROVED" last_approved_text="Weak and disposable, can help in a pinch. Low costs and recharge." last_edit_user="bob">Weak and disposable, can help in a pinch. Low costs and recharge.</description>
+<group_key>wh_main_anc_group_common</group_key>
+<onscreen_name state="APPROVED" last_approved_text="Common" last_edit_user="bob">Common</onscreen_name>
+<ui_state>common</ui_state>
+<uniqueness_max>29</uniqueness_max>
+<uniqueness_min>0</uniqueness_min>
+</ancillary_uniqueness_groupings>
+<ancillary_uniqueness_groupings record_uuid="{9715a262-2226-4862-a935-bbb8cea351e5}" record_timestamp="1459935463952" record_key="wh_main_anc_group_rare">
+<col_b>193</col_b>
+<col_g>43</col_g>
+<col_r>32</col_r>
+<description state="APPROVED" last_approved_text="Strong and long lasting effects. High costs and recharge." last_edit_user="bob">Strong and long lasting effects. High costs and recharge.</description>
+<group_key>wh_main_anc_group_rare</group_key>
+<onscreen_name state="APPROVED" last_approved_text="[[rgba:28:107:167:255]]Rare[[/rgba]]" last_edit_user="bob">[[rgba:28:107:167:255]]Rare[[/rgba]]</onscreen_name>
+<ui_state>rare</ui_state>
+<uniqueness_max>100</uniqueness_max>
+<uniqueness_min>50</uniqueness_min>
+</ancillary_uniqueness_groupings>
+<ancillary_uniqueness_groupings record_uuid="{89002c85-6ce9-4946-ae69-b4a55de2cc09}" record_timestamp="1459935463952" record_key="wh_main_anc_group_uncommon">
+<col_b>45</col_b>
+<col_g>13</col_g>
+<col_r>55</col_r>
+<description state="APPROVED" last_approved_text="Useful in the right context. Balanced costs and recharge." last_edit_user="bob">Useful in the right context. Balanced costs and recharge.</description>
+<group_key>wh_main_anc_group_uncommon</group_key>
+<onscreen_name state="APPROVED" last_approved_text="[[rgba:36:110:0:255]]Uncommon[[/rgba]]" last_edit_user="bob">[[rgba:36:110:0:255]]Uncommon[[/rgba]]</onscreen_name>
+<ui_state>uncommon</ui_state>
+<uniqueness_max>49</uniqueness_max>
+<uniqueness_min>30</uniqueness_min>
+</ancillary_uniqueness_groupings>
+<ancillary_uniqueness_groupings record_uuid="{54c9c911-8c30-46dd-8dde-9a662ecc70f0}" record_timestamp="1459935463953" record_key="wh_main_anc_group_unique">
+<col_b>159</col_b>
+<col_g>28</col_g>
+<col_r>131</col_r>
+<description state="APPROVED" last_approved_text="One of a kind! Strong and long lasting effects. High costs and recharge." last_edit_user="bob">One of a kind! Strong and long lasting effects. High costs and recharge.</description>
+<group_key>wh_main_anc_group_unique</group_key>
+<onscreen_name state="APPROVED" last_approved_text="[[rgba:75:9:111:255]]Unique[[/rgba]]" last_edit_user="bob">[[rgba:75:9:111:255]]Unique[[/rgba]]</onscreen_name>
+<ui_state>legendary</ui_state>
+<uniqueness_max>999</uniqueness_max>
+<uniqueness_min>101</uniqueness_min>
+</ancillary_uniqueness_groupings>
+</dataroot>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="technology_category_modules.xsd" export_time="Thu Jan 5 17:35:17 2017" revision="43" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>f307c2fd-6c24-455e-9767-d635ebb63b5c</edit_uuid>
+<technology_category_modules record_uuid="{97934142-9fde-4f5a-8756-6f09a59f39a3}" record_timestamp="1483637692200" record_key="brt_mil12">
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<max_tier>12</max_tier>
+<min_tier>10</min_tier>
+<technology_node_set>brt_mil</technology_node_set>
+</technology_category_modules>
+<technology_category_modules record_uuid="{9d72c19b-1858-40e9-934a-58db837e625a}" record_timestamp="1483637692140" record_key="brt_mil3">
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<max_tier>3</max_tier>
+<min_tier>1</min_tier>
+<technology_node_set>brt_mil</technology_node_set>
+</technology_category_modules>
+<technology_category_modules record_uuid="{1d74c5ff-6aaa-4568-bd03-3d7ba497633b}" record_timestamp="1483637692439" record_key="brt_mil6">
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<max_tier>6</max_tier>
+<min_tier>4</min_tier>
+<technology_node_set>brt_mil</technology_node_set>
+</technology_category_modules>
+<technology_category_modules record_uuid="{fce0a776-ba03-48d1-baaf-17be4a2fc741}" record_timestamp="1483637692379" record_key="brt_mil9">
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<max_tier>9</max_tier>
+<min_tier>7</min_tier>
+<technology_node_set>brt_mil</technology_node_set>
+</technology_category_modules>
+<technology_category_modules record_uuid="{d5323864-3a5d-471a-aa4b-9100b64184d1}" record_timestamp="1446798909243" record_key="dwf_civ1">
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<max_tier>1</max_tier>
+<min_tier>0</min_tier>
+<technology_node_set>dwf_civ</technology_node_set>
+</technology_category_modules>
+<technology_category_modules record_uuid="{684f9dbb-2d8a-4561-91f2-e63f31787282}" record_timestamp="1446798909259" record_key="dwf_civ3">
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<max_tier>3</max_tier>
+<min_tier>2</min_tier>
+<technology_node_set>dwf_civ</technology_node_set>
+</technology_category_modules>
+<technology_category_modules record_uuid="{d7c8ea10-70b1-4074-ba38-821fdbc04139}" record_timestamp="1446798909274" record_key="dwf_civ5">
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<max_tier>5</max_tier>
+<min_tier>4</min_tier>
+<technology_node_set>dwf_civ</technology_node_set>
+</technology_category_modules>
+<technology_category_modules record_uuid="{a126f9a0-9a7a-47ce-92d4-276b05f855a4}" record_timestamp="1446798909290" record_key="dwf_mil1">
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<max_tier>1</max_tier>
+<min_tier>0</min_tier>
+<technology_node_set>dwf_mil</technology_node_set>
+</technology_category_modules>
+<technology_category_modules record_uuid="{f9ba1189-407d-4908-bc9d-0fe63f0c6d00}" record_timestamp="1446798909290" record_key="dwf_mil3">
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<max_tier>3</max_tier>
+<min_tier>2</min_tier>
+<technology_node_set>dwf_mil</technology_node_set>
+</technology_category_modules>
+<technology_category_modules record_uuid="{eadfa116-bde4-4641-8ac2-23b80769c951}" record_timestamp="1446798909305" record_key="dwf_mil5">
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<max_tier>5</max_tier>
+<min_tier>4</min_tier>
+<technology_node_set>dwf_mil</technology_node_set>
+</technology_category_modules>
+<technology_category_modules record_uuid="{45639c62-67ab-414c-8c74-f4d8638d3410}" record_timestamp="1446798909321" record_key="grn_mil12">
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<max_tier>12</max_tier>
+<min_tier>10</min_tier>
+<technology_node_set>grn_mil</technology_node_set>
+</technology_category_modules>
+<technology_category_modules record_uuid="{479e5948-ca31-4982-b058-11811a1bf897}" record_timestamp="1446798909337" record_key="grn_mil3">
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<max_tier>3</max_tier>
+<min_tier>1</min_tier>
+<technology_node_set>grn_mil</technology_node_set>
+</technology_category_modules>
+<technology_category_modules record_uuid="{af2208dc-3dac-41d8-8fe2-e6a15442f552}" record_timestamp="1446798909352" record_key="grn_mil6">
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<max_tier>6</max_tier>
+<min_tier>4</min_tier>
+<technology_node_set>grn_mil</technology_node_set>
+</technology_category_modules>
+<technology_category_modules record_uuid="{b6a16e68-ff25-493c-8898-bf8befb54699}" record_timestamp="1446798909368" record_key="grn_mil9">
+<effect_bundle>wh_main_bundle_dummy</effect_bundle>
+<max_tier>9</max_tier>
+<min_tier>7</min_tier>
+<technology_node_set>grn_mil</technology_node_set>
+</technology_category_modules>
+</dataroot>

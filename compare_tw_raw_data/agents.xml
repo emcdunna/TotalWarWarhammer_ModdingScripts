@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="agents.xsd" export_time="Mon Jan 30 13:12:35 2017" revision="54" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>40b7ec79-34c6-4c98-92b9-a37d59d7cb4c</edit_uuid>
+<agents record_uuid="{ca8f5d57-d9d2-40af-b159-6832cae76fbd}" record_timestamp="1433760368865" record_key="champion">
+<cost>1000</cost>
+<encyclopedia_url>/manual/single-player/0050_enc_page_campaign_play_characters_agents_champions</encyclopedia_url>
+<faction_total_cap>10</faction_total_cap>
+<in_encyclopedia>1</in_encyclopedia>
+<key>champion</key>
+<line_of_sight>21</line_of_sight>
+<move_points>3500</move_points>
+<playable>1</playable>
+<portrait_override></portrait_override>
+<primary_attribute>zeal</primary_attribute>
+<religion></religion>
+</agents>
+<agents record_uuid="{de832816-8faf-4dba-87c2-a047bfc8a6bc}" record_timestamp="1433760368880" record_key="colonel">
+<cost>0</cost>
+<encyclopedia_url></encyclopedia_url>
+<faction_total_cap>0</faction_total_cap>
+<in_encyclopedia>0</in_encyclopedia>
+<key>colonel</key>
+<line_of_sight>15</line_of_sight>
+<move_points>3400</move_points>
+<playable>1</playable>
+<portrait_override></portrait_override>
+<primary_attribute>zeal</primary_attribute>
+<religion></religion>
+</agents>
+<agents record_uuid="{4f336348-7ffa-415b-b9f0-a2b99ddcbb98}" record_timestamp="1433760368895" record_key="dignitary">
+<cost>1000</cost>
+<encyclopedia_url>/manual/single-player/0049_enc_page_campaign_play_characters_agents_dignitaries</encyclopedia_url>
+<faction_total_cap>10</faction_total_cap>
+<in_encyclopedia>1</in_encyclopedia>
+<key>dignitary</key>
+<line_of_sight>15</line_of_sight>
+<move_points>3000</move_points>
+<playable>1</playable>
+<portrait_override></portrait_override>
+<primary_attribute>authority</primary_attribute>
+<religion></religion>
+</agents>
+<agents record_uuid="{2833662a-6292-4090-87fa-29f0149208a2}" record_timestamp="1433760368914" record_key="engineer">
+<cost>1000</cost>
+<encyclopedia_url></encyclopedia_url>
+<faction_total_cap>10</faction_total_cap>
+<in_encyclopedia>1</in_encyclopedia>
+<key>engineer</key>
+<line_of_sight>15</line_of_sight>
+<move_points>3200</move_points>
+<playable>1</playable>
+<portrait_override></portrait_override>
+<primary_attribute>zeal</primary_attribute>
+<religion></religion>
+</agents>
+<agents record_uuid="{ed3fcaae-42da-45bd-bf53-be005e756fc1}" record_timestamp="1479320860049" record_key="general">
+<cost>750</cost>
+<encyclopedia_url></encyclopedia_url>
+<faction_total_cap>10</faction_total_cap>
+<in_encyclopedia>1</in_encyclopedia>
+<key>general</key>
+<line_of_sight>21</line_of_sight>
+<move_points>4200</move_points>
+<playable>1</playable>
+<portrait_override></portrait_override>
+<primary_attribute>authority</primary_attribute>
+<religion></religion>
+</agents>
+<agents record_uuid="{eb49ea66-e087-40e6-9ed0-c4b5e67d6844}" record_timestamp="1429539439535" record_key="minister">
+<cost>1000</cost>
+<encyclopedia_url></encyclopedia_url>
+<faction_total_cap>0</faction_total_cap>
+<in_encyclopedia>0</in_encyclopedia>
+<key>minister</key>
+<line_of_sight>0</line_of_sight>
+<move_points>0</move_points>
+<playable>0</playable>
+<portrait_override></portrait_override>
+<primary_attribute>authority</primary_attribute>
+<religion></religion>
+</agents>
+<agents record_uuid="{c0d8f7ef-7134-4ee0-aa89-6138f473f2e1}" record_timestamp="1433760368943" record_key="runesmith">
+<cost>1000</cost>
+<encyclopedia_url></encyclopedia_url>
+<faction_total_cap>10</faction_total_cap>
+<in_encyclopedia>1</in_encyclopedia>
+<key>runesmith</key>
+<line_of_sight>15</line_of_sight>
+<move_points>3000</move_points>
+<playable>1</playable>
+<portrait_override></portrait_override>
+<primary_attribute>subterfuge</primary_attribute>
+<religion></religion>
+</agents>
+<agents record_uuid="{462ca863-79de-4b74-be35-ef5e8c475336}" record_timestamp="1433760368964" record_key="spy">
+<cost>1000</cost>
+<encyclopedia_url>/manual/single-player/0048_enc_page_campaign_play_characters_agents_spies</encyclopedia_url>
+<faction_total_cap>10</faction_total_cap>
+<in_encyclopedia>1</in_encyclopedia>
+<key>spy</key>
+<line_of_sight>27</line_of_sight>
+<move_points>4000</move_points>
+<playable>1</playable>
+<portrait_override></portrait_override>
+<primary_attribute>subterfuge</primary_attribute>
+<religion></religion>
+</agents>
+<agents record_uuid="{88adc44b-2245-4da7-b3d2-91a34bee6aa3}" record_timestamp="1433760368980" record_key="wizard">
+<cost>1000</cost>
+<encyclopedia_url></encyclopedia_url>
+<faction_total_cap>10</faction_total_cap>
+<in_encyclopedia>1</in_encyclopedia>
+<key>wizard</key>
+<line_of_sight>21</line_of_sight>
+<move_points>3200</move_points>
+<playable>1</playable>
+<portrait_override></portrait_override>
+<primary_attribute>authority</primary_attribute>
+<religion></religion>
+</agents>
+</dataroot>

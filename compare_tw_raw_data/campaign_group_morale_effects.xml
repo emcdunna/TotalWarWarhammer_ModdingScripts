@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_group_morale_effects.xsd" export_time="Tue Jul 5 11:30:42 2016" revision="6" export_branch="T:/branches/warhammer/sigmar/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>c046eba0-a3b4-4ff9-8605-f5eac9894454</edit_uuid>
+<campaign_group_morale_effects record_uuid="{6f29e2e8-bb52-4e5f-8769-61b3896ce741}" record_timestamp="1467714638031" record_key="HIGH_MORALE_EFFECT_BEASTMEN">
+<effect_bundle></effect_bundle>
+<group>wh_dlc03_beastmen_morale_high</group>
+<key>HIGH_MORALE_EFFECT_BEASTMEN</key>
+<name>[PH] Beastmen: High Morale</name>
+</campaign_group_morale_effects>
+<campaign_group_morale_effects record_uuid="{0c0cd2d2-6efc-47db-95f9-85d4981c3422}" record_timestamp="1445440693657" record_key="HIGH_MORALE_EFFECT_GRNSKIN">
+<effect_bundle></effect_bundle>
+<group>wh_greenskins_morale_high</group>
+<key>HIGH_MORALE_EFFECT_GRNSKIN</key>
+<name>[PH] Greenskins: High Morale</name>
+</campaign_group_morale_effects>
+<campaign_group_morale_effects record_uuid="{9cc937af-9ca7-4b7e-ac7e-ea3496139979}" record_timestamp="1467714638087" record_key="LOW_MORALE_EFFECT_BEASTMEN">
+<effect_bundle>wh_dlc03_bundle_morale_low_bloodlust</effect_bundle>
+<group>wh_dlc03_beastmen_morale_low</group>
+<key>LOW_MORALE_EFFECT_BEASTMEN</key>
+<name>[PH] Beastmen: Low Morale</name>
+</campaign_group_morale_effects>
+<campaign_group_morale_effects record_uuid="{617ff3ef-4908-4c60-a096-d946faa557ac}" record_timestamp="1445510306176" record_key="LOW_MORALE_EFFECT_GRNSKIN">
+<effect_bundle>wh_main_payload_morale_low_fightiness</effect_bundle>
+<group>wh_greenskins_morale_low</group>
+<key>LOW_MORALE_EFFECT_GRNSKIN</key>
+<name>[PH] Greenskins: Low Morale</name>
+</campaign_group_morale_effects>
+<campaign_group_morale_effects record_uuid="{1e128a3b-845a-4324-b1ff-b7a67f9bad5f}" record_timestamp="1467714638143" record_key="MID_MORALE_EFFECT_BEASTMEN">
+<effect_bundle></effect_bundle>
+<group>wh_dlc03_beastmen_morale_mid</group>
+<key>MID_MORALE_EFFECT_BEASTMEN</key>
+<name>[PH] Beastmen: Mid Morale</name>
+</campaign_group_morale_effects>
+<campaign_group_morale_effects record_uuid="{504285ee-303c-4aad-a4ab-f60846f94e7f}" record_timestamp="1445440693655" record_key="MID_MORALE_EFFECT_GRNSKIN">
+<effect_bundle></effect_bundle>
+<group>wh_greenskins_morale_mid</group>
+<key>MID_MORALE_EFFECT_GRNSKIN</key>
+<name>[PH] Greenskins: Mid Morale</name>
+</campaign_group_morale_effects>
+<campaign_group_morale_effects record_uuid="{514a9f30-f44a-4e6e-a139-d62b7f620ae7}" record_timestamp="1467714638199" record_key="VERY_LOW_MORALE_EFFECT_BEASTMEN">
+<effect_bundle>wh_dlc03_bundle_morale_very_low_bloodlust</effect_bundle>
+<group>wh_dlc03_beastmen_morale_very_low</group>
+<key>VERY_LOW_MORALE_EFFECT_BEASTMEN</key>
+<name>[PH] Beastmen: Very Low Morale</name>
+</campaign_group_morale_effects>
+<campaign_group_morale_effects record_uuid="{aaef691d-c52a-42c6-b20c-596a5d2f10d3}" record_timestamp="1445510306190" record_key="VERY_LOW_MORALE_EFFECT_GRNSKIN">
+<effect_bundle>wh_main_payload_morale_very_low_fightiness</effect_bundle>
+<group>wh_greenskins_morale_very_low</group>
+<key>VERY_LOW_MORALE_EFFECT_GRNSKIN</key>
+<name>[PH] Greenskins: Very Low Morale</name>
+</campaign_group_morale_effects>
+</dataroot>

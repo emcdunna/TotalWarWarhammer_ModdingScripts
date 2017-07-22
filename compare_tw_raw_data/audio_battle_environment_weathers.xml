@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="audio_battle_environment_weathers.xsd" export_time="Fri Jul 15 16:37:18 2016" revision="2" export_branch="T:/branches/warhammer/sigmar/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>3a76b5f8-fe98-4544-971e-21064c21a1a3</edit_uuid>
+<audio_battle_environment_weathers record_uuid="{abbe4584-2876-4a15-8f71-8041cf3ad82f}" record_timestamp="1468597037619" record_key="rain_heavy">
+<disables_environment>1</disables_environment>
+<name>rain_heavy</name>
+<wind_intensity_modifier>50</wind_intensity_modifier>
+</audio_battle_environment_weathers>
+<audio_battle_environment_weathers record_uuid="{5bcf60cd-41ff-4ae3-8385-056e3a58c979}" record_timestamp="1468597037619" record_key="rain_light">
+<disables_environment>0</disables_environment>
+<name>rain_light</name>
+<wind_intensity_modifier>10</wind_intensity_modifier>
+</audio_battle_environment_weathers>
+<audio_battle_environment_weathers record_uuid="{ab43dc53-58ee-481c-aca1-542aef0d0998}" record_timestamp="1468597037619" record_key="rain_medium">
+<disables_environment>0</disables_environment>
+<name>rain_medium</name>
+<wind_intensity_modifier>25</wind_intensity_modifier>
+</audio_battle_environment_weathers>
+</dataroot>

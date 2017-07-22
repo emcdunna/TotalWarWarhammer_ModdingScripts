@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_campaign_tree_type_cultures>
+<root>
+<edit_uuid>640c737e-50cb-4101-9c82-2e4d2f111220</edit_uuid>
+<agf_special_dependencies>tree_type&amp;culture</agf_special_dependencies>
+<field>
+<field_uuid>{da057868-c348-4219-806f-71a519a3d552}</field_uuid>
+<primary_key>1</primary_key>
+<name>tree_type</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>tree_type</column_source_column>
+<column_source_table>campaign_tree_types</column_source_table>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+<agf_done>0</agf_done>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{acc70555-7eb2-4a8d-bc4f-a923bc212ed3}</field_uuid>
+<primary_key>1</primary_key>
+<name>culture</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>cultures</column_source_table>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+<agf_done>0</agf_done>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

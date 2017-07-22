@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mission_category_thresholds.xsd" export_time="Wed Jan 20 13:37:05 2016" revision="6" export_branch="T:/warhammer/binaries" export_user="bob">
+<edit_uuid>bb94c388-7ee3-40ca-a5e8-52e432a89752</edit_uuid>
+<mission_category_thresholds record_uuid="{b08c0997-9900-4f2e-a84d-56def7078d78}" record_timestamp="1447237059913" record_key="GRUDGES_1_THRESHOLD">
+<category>Grudges</category>
+<effect_bundle>wh_main_bundle_grudges_low</effect_bundle>
+<key>GRUDGES_1_THRESHOLD</key>
+<name>[PH] Low</name>
+<threshold_weight>0</threshold_weight>
+</mission_category_thresholds>
+<mission_category_thresholds record_uuid="{f7abf00e-02d3-4c20-9167-ea322031de98}" record_timestamp="1453297025768" record_key="GRUDGES_2_THRESHOLD">
+<category>Grudges</category>
+<effect_bundle>wh_main_bundle_grudges_medium</effect_bundle>
+<key>GRUDGES_2_THRESHOLD</key>
+<name>[PH] Medium</name>
+<threshold_weight>10</threshold_weight>
+</mission_category_thresholds>
+<mission_category_thresholds record_uuid="{766879d1-faef-4697-96d6-676841d26572}" record_timestamp="1453297025822" record_key="GRUDGES_3_THRESHOLD">
+<category>Grudges</category>
+<effect_bundle>wh_main_bundle_grudges_high</effect_bundle>
+<key>GRUDGES_3_THRESHOLD</key>
+<name>[PH] High</name>
+<threshold_weight>20</threshold_weight>
+</mission_category_thresholds>
+<mission_category_thresholds record_uuid="{c9b62e8c-2548-4149-bfe5-f0201a3f588d}" record_timestamp="1453297025876" record_key="GRUDGES_4_THRESHOLD">
+<category>Grudges</category>
+<effect_bundle>wh_main_bundle_grudges_high</effect_bundle>
+<key>GRUDGES_4_THRESHOLD</key>
+<name>[PH] Max</name>
+<threshold_weight>30</threshold_weight>
+</mission_category_thresholds>
+</dataroot>

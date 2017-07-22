@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ui_unit_groupings.xsd" export_time="Tue Feb 7 12:12:18 2017" revision="90" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>72600c2c-967a-484a-b194-a36cdcc930bb</edit_uuid>
+<ui_unit_groupings record_uuid="{ab169bbf-3112-447a-9d7f-fbcd195e140d}" record_timestamp="1452590863671" record_key="brt_paladin">
+<icon>wh_main_brt_champion</icon>
+<key>brt_paladin</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="By the Lady, this Bretonnian champion excels in melee!" last_edit_user="bob">By the Lady, this Bretonnian champion excels in melee!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{567bb879-9831-41fc-b9e7-bcaceb1b0cac}" record_timestamp="1452590863648" record_key="brt_paladin_cavalry">
+<icon>wh_main_brt_champion</icon>
+<key>brt_paladin_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Bretonnian Knights are masters of cavalry-based close combat. " last_edit_user="bob">Bretonnian Knights are masters of cavalry-based close combat. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{f33550cf-87cd-4f97-a49d-4a97d8b66774}" record_timestamp="1452590863624" record_key="brt_paladin_pegasus">
+<icon>wh_main_brt_champion</icon>
+<key>brt_paladin_pegasus</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="It is the Bretonnians that have taken the art of flying cavalry and made it their own. " last_edit_user="bob">It is the Bretonnians that have taken the art of flying cavalry and made it their own. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{cacda183-9bc1-4751-ab01-cff7d21a254c}" record_timestamp="1457358688304" record_key="cannon">
+<icon>cannon</icon>
+<key>cannon</key>
+<onscreen state="APPROVED" last_approved_text="Siege Artillery" last_edit_user="bob">Siege Artillery</onscreen>
+<parent_group>artillery_war_machines</parent_group>
+<tooltip state="APPROVED" last_approved_text="Cannons and mortars are accurate artillery pieces that cause a lot of damage to a very focused area, making them ideal for taking out strong, single targets." last_edit_user="bob">Cannons and mortars are accurate artillery pieces that cause a lot of damage to a very focused area, making them ideal for taking out strong, single targets.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{caf2c4ab-b6c0-44cf-83ac-dd840e9ea097}" record_timestamp="1454583088673" record_key="catapult">
+<icon>catapult</icon>
+<key>catapult</key>
+<onscreen state="APPROVED" last_approved_text="Catapult" last_edit_user="bob">Catapult</onscreen>
+<parent_group>artillery_war_machines</parent_group>
+<tooltip state="APPROVED" last_approved_text="These siege engines are perfect for firing over your own battle line and over walls, but they are generally less accurate than cannons." last_edit_user="bob">These siege engines are perfect for firing over your own battle line and over walls, but they are generally less accurate than cannons.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{bb8c4dbb-9131-45a5-a5f1-b53add97dda0}" record_timestamp="1441796565765" record_key="cavalry">
+<icon>cavalry</icon>
+<key>cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Cavalry" last_edit_user="bob">Cavalry</onscreen>
+<parent_group>cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast, and good against smaller targets, cavalry also have more staying power in melee than charge-focused shock cavalry." last_edit_user="bob">Fast, and good against smaller targets, cavalry also have more staying power in melee than charge-focused shock cavalry.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{dcfbdb05-43cf-4542-8be0-9e991aff71bf}" record_timestamp="1438694157956" record_key="cavalry_flying">
+<icon>cavalry_flying</icon>
+<key>cavalry_flying</key>
+<onscreen state="APPROVED" last_approved_text="Flying Cavalry" last_edit_user="bob">Flying Cavalry</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="Flying cavalry have the advantage of more traditional mounted units, but with an even greater range. " last_edit_user="bob">Flying cavalry have the advantage of more traditional mounted units, but with an even greater range. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{97c71963-3b50-48a5-8127-f2c68f1e7f20}" record_timestamp="1438694157979" record_key="cavalry_spider">
+<icon>cavalry_spider</icon>
+<key>cavalry_spider</key>
+<onscreen state="APPROVED" last_approved_text="Cavalry" last_edit_user="bob">Cavalry</onscreen>
+<parent_group>cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Greenskins ride to war on myriad beasts. Goblin Cavalry is typically light, but fast and manoeuvrable." last_edit_user="bob">Greenskins ride to war on myriad beasts. Goblin Cavalry is typically light, but fast and manoeuvrable.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{0b5bfb02-ad7c-4713-9d12-c6e18feea701}" record_timestamp="1438694158005" record_key="cavalry_wolf">
+<icon>cavalry_wolf</icon>
+<key>cavalry_wolf</key>
+<onscreen state="APPROVED" last_approved_text="Cavalry" last_edit_user="bob">Cavalry</onscreen>
+<parent_group>cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Greenskins ride to war on myriad beasts. Goblin Cavalry is typically light, but fast and manoeuvrable." last_edit_user="bob">Greenskins ride to war on myriad beasts. Goblin Cavalry is typically light, but fast and manoeuvrable.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{61e3d625-1f40-4400-bb80-146318a95500}" record_timestamp="1441796565765" record_key="chariot">
+<icon>chariot</icon>
+<key>chariot</key>
+<onscreen state="APPROVED" last_approved_text="Chariot" last_edit_user="bob">Chariot</onscreen>
+<parent_group>cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast moving, with a wide turning circle, Chariots can punch through weak enemy units, but are vulnerable if pinned in combat." last_edit_user="bob">Fast moving, with a wide turning circle, Chariots can punch through weak enemy units, but are vulnerable if pinned in combat.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{379ec55d-31c2-4a4d-b968-88b159af60a1}" record_timestamp="1452764423031" record_key="chs_dragon_ogre_shaggoth">
+<icon>chs_shaggoth</icon>
+<key>chs_dragon_ogre_shaggoth</key>
+<onscreen state="APPROVED" last_approved_text="Dragon Ogre Shaggoth" last_edit_user="bob">Dragon Ogre Shaggoth</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="The near-immortal Dragon Ogres bellow their rage at the younger races and hit hard when they charge. " last_edit_user="bob">The near-immortal Dragon Ogres bellow their rage at the younger races and hit hard when they charge. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{1e2a051e-8a83-4410-b91b-91de69947b3a}" record_timestamp="1453824025742" record_key="chs_dragon_ogres">
+<icon>chs_shaggoth</icon>
+<key>chs_dragon_ogres</key>
+<onscreen state="APPROVED" last_approved_text="Dragon Ogres" last_edit_user="bob">Dragon Ogres</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="The near-immortal Dragon Ogres bellow their rage at the younger races and hit hard when they charge. " last_edit_user="bob">The near-immortal Dragon Ogres bellow their rage at the younger races and hit hard when they charge. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{97321661-09c0-48c4-8005-ed89501a75f7}" record_timestamp="1452590863601" record_key="chs_exalted_hero">
+<icon>wh_main_chs_champion</icon>
+<key>chs_exalted_hero</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Champions of Chaos are brutal and merciless in combat. " last_edit_user="bob">The Champions of Chaos are brutal and merciless in combat. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{7d5833d3-6d35-418b-b9b7-9e26971d508c}" record_timestamp="1452590863578" record_key="chs_exalted_hero_cavalry">
+<icon>wh_main_chs_champion</icon>
+<key>chs_exalted_hero_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Champions of Chaos are brutal and merciless in combat, when mounted they can close with the enemy more quickly. " last_edit_user="bob">The Champions of Chaos are brutal and merciless in combat, when mounted they can close with the enemy more quickly. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{bf74d637-cac9-4e0f-a2be-61753b7578e3}" record_timestamp="1452590863531" record_key="chs_exalted_hero_manticore">
+<icon>wh_main_chs_champion</icon>
+<key>chs_exalted_hero_manticore</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Champions of Chaos are brutal and merciless in combat, especially when mounted on monstrous beasts. " last_edit_user="bob">The Champions of Chaos are brutal and merciless in combat, especially when mounted on monstrous beasts. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{d93c1860-0f0a-4113-a9eb-4a64d8293490}" record_timestamp="1438694158173" record_key="dragon">
+<icon>dragon</icon>
+<key>dragon</key>
+<onscreen state="APPROVED" last_approved_text="Flying Monster" last_edit_user="bob">Flying Monster</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="These large, winged monsters are some of the most powerful creatures in the world." last_edit_user="bob">These large, winged monsters are some of the most powerful creatures in the world.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{d33709b0-4d0f-4dbb-b10d-b3e8df99eb25}" record_timestamp="1438694158202" record_key="dwf_gyrocopter">
+<icon>dwf_gyrocopter</icon>
+<key>dwf_gyrocopter</key>
+<onscreen state="APPROVED" last_approved_text="Flying War Machine" last_edit_user="bob">Flying War Machine</onscreen>
+<parent_group>artillery_war_machines</parent_group>
+<tooltip state="APPROVED" last_approved_text="Flying machines equipped with guns and bombs. As a last resort, they can go into melee and slash at enemies with their rotor blades." last_edit_user="bob">Flying machines equipped with guns and bombs. As a last resort, they can go into melee and slash at enemies with their rotor blades.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{3a8c804e-cea8-414a-9d65-e40c7a307767}" record_timestamp="1441796565765" record_key="dwf_irondrakes">
+<icon>dwf_irondrakes</icon>
+<key>dwf_irondrakes</key>
+<onscreen state="APPROVED" last_approved_text="Flamethrower Infantry" last_edit_user="bob">Flamethrower Infantry</onscreen>
+<parent_group>missile_infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="Short-range missile infantry that shower the enemy in fiery alchemical fury!" last_edit_user="bob">Short-range missile infantry that shower the enemy in fiery alchemical fury!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{af3d592e-2e3e-4325-b78c-d3e38f00410b}" record_timestamp="1457520288313" record_key="dwf_irondrakes_torpedo">
+<icon>dwf_irondrakes_torpedo</icon>
+<key>dwf_irondrakes_torpedo</key>
+<onscreen state="APPROVED" last_approved_text="Torpedo Launcher Infantry" last_edit_user="bob">Torpedo Launcher Infantry</onscreen>
+<parent_group>missile_infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="Medium-range missile infantry that fire high-explosive torpedos." last_edit_user="bob">Medium-range missile infantry that fire high-explosive torpedos.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{2b1ff53b-be8c-444a-86f0-9a5e16bcc470}" record_timestamp="1453483192197" record_key="dwf_master_engineer">
+<icon>wh_main_dwf_master_engineer</icon>
+<key>dwf_master_engineer</key>
+<onscreen state="APPROVED" last_approved_text="Missile Specialist" last_edit_user="bob">Missile Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="This Engineer puts his ingenuity into field-testing handgun accuracy and range. " last_edit_user="bob">This Engineer puts his ingenuity into field-testing handgun accuracy and range. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{a119e0de-12a5-4aac-81cd-e3df80b2b8c1}" record_timestamp="1438694158319" record_key="dwf_runesmith">
+<icon>wh_main_dwf_runesmith</icon>
+<key>dwf_runesmith</key>
+<onscreen state="APPROVED" last_approved_text="Support Specialist" last_edit_user="bob">Support Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Having a Runesmith in the presence of grateful Clans-Dwarfs bolsters their abilities. " last_edit_user="bob">Having a Runesmith in the presence of grateful Clans-Dwarfs bolsters their abilities. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{706e16cb-5207-45b4-899a-d5b2dd6f20b5}" record_timestamp="1452590862548" record_key="dwf_thane">
+<icon>wh_main_dwf_champion</icon>
+<key>dwf_thane</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Wielding an ancestral axe, a Thane is a melee champion of Hold and Clan. " last_edit_user="bob">Wielding an ancestral axe, a Thane is a melee champion of Hold and Clan. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{241bed14-c6eb-40cd-8104-854ae762e206}" record_timestamp="1452590862528" record_key="emp_captain">
+<icon>wh_main_emp_champion</icon>
+<key>emp_captain</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Captains of men are oft-times great fighters as well as leaders. " last_edit_user="bob">The Captains of men are oft-times great fighters as well as leaders. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{575ce7d8-ae18-419a-acfd-0283c1b9581c}" record_timestamp="1452590862566" record_key="emp_captain_cavalry">
+<icon>wh_main_emp_champion</icon>
+<key>emp_captain_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Captains are also warriors who excel in melee from horseback. " last_edit_user="bob">Captains are also warriors who excel in melee from horseback. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{0b9ac1d0-43d1-4344-ac41-50b4611f8743}" record_timestamp="1452590862585" record_key="emp_captain_pegasus">
+<icon>wh_main_emp_champion</icon>
+<key>emp_captain_pegasus</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="To fight from the back of a rearing Pegasus takes great skill - use his mobility to strike where the fighting is thickest. " last_edit_user="bob">To fight from the back of a rearing Pegasus takes great skill - use his mobility to strike where the fighting is thickest. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{f32795bb-4c15-4768-a681-c43e83d18dc9}" record_timestamp="1441796565765" record_key="emp_rocket_battery">
+<icon>emp_rocket_battery</icon>
+<key>emp_rocket_battery</key>
+<onscreen state="APPROVED" last_approved_text="Rocket Battery" last_edit_user="bob">Rocket Battery</onscreen>
+<parent_group>artillery_war_machines</parent_group>
+<tooltip state="APPROVED" last_approved_text="Rockets' inaccuracy does not matter much considering the wide area of devastation they cause." last_edit_user="bob">Rockets' inaccuracy does not matter much considering the wide area of devastation they cause.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{82690df6-9ec7-4e96-9d75-aa18f577603d}" record_timestamp="1441796565765" record_key="emp_steam_tank">
+<icon>emp_steam_tank</icon>
+<key>emp_steam_tank</key>
+<onscreen state="APPROVED" last_approved_text="War Machine" last_edit_user="bob">War Machine</onscreen>
+<parent_group>artillery_war_machines</parent_group>
+<tooltip state="APPROVED" last_approved_text="A steam-powered, full-metal war machine boasting a cannon and an autonomous, short-range turret." last_edit_user="bob">A steam-powered, full-metal war machine boasting a cannon and an autonomous, short-range turret.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{a6d47162-9ec4-43c4-9c23-d5a29160ba1d}" record_timestamp="1452590862605" record_key="emp_warrior_priest">
+<icon>wh_main_emp_dignitary</icon>
+<key>emp_warrior_priest</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Warrior Priests of Sigmar are powerful fighters whose battle prayers can further bolster their followers' resolve. " last_edit_user="bob">The Warrior Priests of Sigmar are powerful fighters whose battle prayers can further bolster their followers' resolve. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{b5980315-8ae7-4846-9e94-873e251444b5}" record_timestamp="1452590862630" record_key="emp_warrior_priest_cavalry">
+<icon>wh_main_emp_dignitary</icon>
+<key>emp_warrior_priest_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="A Warrior Priest on horseback can preach and fight at greater speed.  " last_edit_user="bob">A Warrior Priest on horseback can preach and fight at greater speed.  </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{64feca0b-7770-4251-af5a-115d66e6d71c}" record_timestamp="1453483192197" record_key="emp_witch_hunter">
+<icon>wh_main_emp_spy</icon>
+<key>emp_witch_hunter</key>
+<onscreen state="APPROVED" last_approved_text="Missile Specialist" last_edit_user="bob">Missile Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Witch Hunters are hardy fighters but have good missile capabilities as well. " last_edit_user="bob">Witch Hunters are hardy fighters but have good missile capabilities as well. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{0017a0ae-9002-4ce3-9894-ef747af39233}" record_timestamp="1438694161971" record_key="field_gun">
+<icon>field_gun</icon>
+<key>field_gun</key>
+<onscreen state="APPROVED" last_approved_text="Field Gun" last_edit_user="bob">Field Gun</onscreen>
+<parent_group>artillery_war_machines</parent_group>
+<tooltip state="APPROVED" last_approved_text="These smaller cannons, guns and flamethrowers are primarily used against units, not buildings." last_edit_user="bob">These smaller cannons, guns and flamethrowers are primarily used against units, not buildings.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{85e41d51-21c7-4b4a-8ca6-03b827339bc3}" record_timestamp="1439378043701" record_key="field_gun_flame">
+<icon>flame_cannon</icon>
+<key>field_gun_flame</key>
+<onscreen state="APPROVED" last_approved_text="Field Gun" last_edit_user="bob">Field Gun</onscreen>
+<parent_group>artillery_war_machines</parent_group>
+<tooltip state="APPROVED" last_approved_text="These smaller cannons, guns and flamethrowers are primarily used against units, not buildings." last_edit_user="bob">These smaller cannons, guns and flamethrowers are primarily used against units, not buildings.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{3fd117b9-503c-4481-a205-88c30e8ebd84}" record_timestamp="1438694162021" record_key="giant">
+<icon>giant</icon>
+<key>giant</key>
+<onscreen state="APPROVED" last_approved_text="Monster" last_edit_user="bob">Monster</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="Large, aggressive and mostly drunk." last_edit_user="bob">Large, aggressive and mostly drunk.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{6bf8fffd-9ec8-418f-9e95-0aa13d6ce271}" record_timestamp="1438694162071" record_key="grn_arachnarok">
+<icon>grn_arachnarok</icon>
+<key>grn_arachnarok</key>
+<onscreen state="APPROVED" last_approved_text="Gigantic Spider" last_edit_user="bob">Gigantic Spider</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="An eight-legged arachnid monster that offers a surprisingly smooth ride for its bow-wielding passengers." last_edit_user="bob">An eight-legged arachnid monster that offers a surprisingly smooth ride for its bow-wielding passengers.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{c3177485-cc70-4fd0-8887-ffe16de0b6e8}" record_timestamp="1441796565765" record_key="grn_doomdiver">
+<icon>grn_doomdiver</icon>
+<key>grn_doomdiver</key>
+<onscreen state="APPROVED" last_approved_text="Catapult" last_edit_user="bob">Catapult</onscreen>
+<parent_group>artillery_war_machines</parent_group>
+<tooltip state="APPROVED" last_approved_text="A launcher of (more-or-less) guided, insane, living missiles that are primarily used against infantry targets." last_edit_user="bob">A launcher of (more-or-less) guided, insane, living missiles that are primarily used against infantry targets.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{d2fc3c22-8467-48b3-93b3-58eb43ec86fe}" record_timestamp="1452590862707" record_key="grn_goblin_bigboss">
+<icon>wh_main_grn_spy</icon>
+<key>grn_goblin_bigboss</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Big Bosses are surprisingly capable in melee, although they will find facing the champions of other races a challenge. " last_edit_user="bob">Big Bosses are surprisingly capable in melee, although they will find facing the champions of other races a challenge. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{8378e964-896d-454e-898f-87ab279c4e9b}" record_timestamp="1457442202867" record_key="grn_goblin_bigboss_cavalry">
+<icon>wh_main_grn_spy</icon>
+<key>grn_goblin_bigboss_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Once on a wolf or a giant spider, a Big Boss is far more mobile - able to boost da boyz' resolve when required. " last_edit_user="bob">Once on a wolf or a giant spider, a Big Boss is far more mobile - able to boost da boyz' resolve when required. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{bc90f27a-5508-4dc5-b4a7-4052c36cc3b5}" record_timestamp="1466694182858" record_key="hero_infantry_axe">
+<icon>infantry_axe</icon>
+<key>hero_infantry_axe</key>
+<onscreen state="APPROVED" last_approved_text="Axe Infantry" last_edit_user="bob">Axe Infantry</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Frontline soldiers trained for hand-to-hand combat with their enemies." last_edit_user="bob">Frontline soldiers trained for hand-to-hand combat with their enemies.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{e508247a-4e02-4002-86b5-7cb1ec308eee}" record_timestamp="1438694162531" record_key="infantry_axe">
+<icon>infantry_axe</icon>
+<key>infantry_axe</key>
+<onscreen state="APPROVED" last_approved_text="Axe Infantry" last_edit_user="bob">Axe Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="Frontline soldiers trained for hand-to-hand combat with their enemies." last_edit_user="bob">Frontline soldiers trained for hand-to-hand combat with their enemies.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{0dca22db-dbaf-4603-a7ea-010b67474c25}" record_timestamp="1438694162586" record_key="infantry_axe_great">
+<icon>infantry_axe_great</icon>
+<key>infantry_axe_great</key>
+<onscreen state="APPROVED" last_approved_text="Great Axe Infantry" last_edit_user="bob">Great Axe Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="What two-handed axes lack in elegance, they make up for in brutal, armour-shattering force." last_edit_user="bob">What two-handed axes lack in elegance, they make up for in brutal, armour-shattering force.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{7e78f394-7bff-4516-8a6b-898a9c07fb4e}" record_timestamp="1477035605024" record_key="infantry_axe_throwing">
+<icon>wh_dlc06_dwf_throwing_axe</icon>
+<key>infantry_axe_throwing</key>
+<onscreen state="APPROVED" last_approved_text="Close-Quarters Infantry" last_edit_user="bob">Close-Quarters Infantry</onscreen>
+<parent_group>missile_infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="Short-range units that can harass the enemy before laying into them with powerful close-combat attacks." last_edit_user="bob">Short-range units that can harass the enemy before laying into them with powerful close-combat attacks.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{32b3c17e-8232-464b-9e6e-4d825e0d832e}" record_timestamp="1454525975149" record_key="infantry_hammer_great">
+<icon>infantry_hammer_great</icon>
+<key>infantry_hammer_great</key>
+<onscreen state="APPROVED" last_approved_text="Hammer Infantry" last_edit_user="bob">Hammer Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="Hammers pay little notice to armour, dealing massive amounts of damage regardless of where they hit." last_edit_user="bob">Hammers pay little notice to armour, dealing massive amounts of damage regardless of where they hit.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{97b8e249-0009-4185-8691-39063cc4f9b0}" record_timestamp="1438694165581" record_key="infantry_pickaxe">
+<icon>infantry_pickaxe</icon>
+<key>infantry_pickaxe</key>
+<onscreen state="APPROVED" last_approved_text="Pickaxe Infantry" last_edit_user="bob">Pickaxe Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="An ambushing force that can attack with mattock and blasting charges. " last_edit_user="bob">An ambushing force that can attack with mattock and blasting charges. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{728acfd4-9e57-4527-85e1-d4e8914f3ab7}" record_timestamp="1441796565766" record_key="infantry_spear">
+<icon>infantry_spear</icon>
+<key>infantry_spear</key>
+<onscreen state="APPROVED" last_approved_text="Spear Infantry" last_edit_user="bob">Spear Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="Spears offer superior reach over swords and axes, generally making them the better choice against large enemies." last_edit_user="bob">Spears offer superior reach over swords and axes, generally making them the better choice against large enemies.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{e9db4c8b-185a-4613-a370-cf67384e6853}" record_timestamp="1441796565766" record_key="infantry_spear_halberd">
+<icon>infantry_spear_halberd</icon>
+<key>infantry_spear_halberd</key>
+<onscreen state="APPROVED" last_approved_text="Halberd Infantry" last_edit_user="bob">Halberd Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="Similar to spears, halberds are a good choice against large enemies. They are heavier than spears, giving them the edge against armour." last_edit_user="bob">Similar to spears, halberds are a good choice against large enemies. They are heavier than spears, giving them the edge against armour.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{dfa2a5eb-1df2-4f64-8a6e-71f2d5591510}" record_timestamp="1441796565766" record_key="infantry_sword">
+<icon>infantry_sword</icon>
+<key>infantry_sword</key>
+<onscreen state="APPROVED" last_approved_text="Sword Infantry" last_edit_user="bob">Sword Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="The sword's main advantage in combat is flexibility. It can be used offensively and defensively, and it offers a good compromise between regular and armour-piercing damage." last_edit_user="bob">The sword's main advantage in combat is flexibility. It can be used offensively and defensively, and it offers a good compromise between regular and armour-piercing damage.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{d1a6c98e-18af-462a-a557-806812e18804}" record_timestamp="1438694165828" record_key="infantry_sword_great">
+<icon>infantry_sword_great</icon>
+<key>infantry_sword_great</key>
+<onscreen state="APPROVED" last_approved_text="Greatsword Infantry" last_edit_user="bob">Greatsword Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="The greatsword is a large, balanced weapon with improved armour-piercing capabilities." last_edit_user="bob">The greatsword is a large, balanced weapon with improved armour-piercing capabilities.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{d232c58f-d4bf-46bb-b890-a4fbb99e4c62}" record_timestamp="1441796565766" record_key="lord_cavalry">
+<icon>cavalry</icon>
+<key>lord_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Cavalry" last_edit_user="bob">Cavalry</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast and good against smaller targets, cavalry also has more staying power in melee than the charge-focused shock cavalry." last_edit_user="bob">Fast and good against smaller targets, cavalry also has more staying power in melee than the charge-focused shock cavalry.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{4fdd749e-7dc8-43ad-8d66-0b1d5febe90c}" record_timestamp="1449248738005" record_key="lord_cavalry_flying">
+<icon>cavalry_flying</icon>
+<key>lord_cavalry_flying</key>
+<onscreen state="APPROVED" last_approved_text="Flying Cavalry" last_edit_user="bob">Flying Cavalry</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Flying cavalry have all the advantages of more traditional mounted units, but with an even greater range. " last_edit_user="bob">Flying cavalry have all the advantages of more traditional mounted units, but with an even greater range. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{86270165-fbec-498a-b9dc-40e02e30d0d9}" record_timestamp="1441796565766" record_key="lord_cavalry_wolf">
+<icon>cavalry_wolf</icon>
+<key>lord_cavalry_wolf</key>
+<onscreen state="APPROVED" last_approved_text="Cavalry" last_edit_user="bob">Cavalry</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast and good against smaller targets, cavalry also has more staying power in melee than the charge-focused shock cavalry." last_edit_user="bob">Fast and good against smaller targets, cavalry also has more staying power in melee than the charge-focused shock cavalry.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{5d62804a-1c4f-4ec1-aa1d-51955994e26d}" record_timestamp="1438694166021" record_key="lord_chariot">
+<icon>chariot</icon>
+<key>lord_chariot</key>
+<onscreen state="APPROVED" last_approved_text="Chariot" last_edit_user="bob">Chariot</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast moving, with a wide turning circle, Chariots can punch through weak enemy units but are vulnerable if pinned in combat." last_edit_user="bob">Fast moving, with a wide turning circle, Chariots can punch through weak enemy units but are vulnerable if pinned in combat.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{b628ac37-96ba-4ba8-a7f4-3f9c815c903a}" record_timestamp="1452764423010" record_key="lord_chs_kholek">
+<icon>chs_shaggoth</icon>
+<key>lord_chs_kholek</key>
+<onscreen state="APPROVED" last_approved_text="Dragon Ogre Shaggoth" last_edit_user="bob">Dragon Ogre Shaggoth</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="The near-immortal Dragon Ogres bellow their rage at the younger races and hit hard when they charge. " last_edit_user="bob">The near-immortal Dragon Ogres bellow their rage at the younger races and hit hard when they charge. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{737501fd-e020-48ef-9e1c-58b536f02109}" record_timestamp="1441796565766" record_key="lord_dragon">
+<icon>dragon</icon>
+<key>lord_dragon</key>
+<onscreen state="APPROVED" last_approved_text="Flying Monster" last_edit_user="bob">Flying Monster</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="These large-winged monsters are the most powerful creatures in the world." last_edit_user="bob">These large-winged monsters are the most powerful creatures in the world.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{cd8ba3c6-a51c-41ee-bff9-c7097a995349}" record_timestamp="1474294307315" record_key="lord_halberd">
+<icon>infantry_spear_halberd</icon>
+<key>lord_halberd</key>
+<onscreen state="APPROVED" last_approved_text="Halberd Infantry" last_edit_user="bob">Halberd Infantry</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Similar to spears, halberds are a good choice against large enemies. They are heavier than spears, giving them the edge against armour." last_edit_user="bob">Similar to spears, halberds are a good choice against large enemies. They are heavier than spears, giving them the edge against armour.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{1fc155ac-36d6-4ffa-8ad9-1c340d022351}" record_timestamp="1438694166218" record_key="lord_infantry_axe">
+<icon>infantry_axe</icon>
+<key>lord_infantry_axe</key>
+<onscreen state="APPROVED" last_approved_text="Axe Infantry" last_edit_user="bob">Axe Infantry</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Frontline soldiers trained for hand-to-hand combat with their enemies." last_edit_user="bob">Frontline soldiers trained for hand-to-hand combat with their enemies.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{d53962d8-0118-4726-a538-dfac034d69e7}" record_timestamp="1438694166283" record_key="lord_infantry_axe_great">
+<icon>infantry_axe_great</icon>
+<key>lord_infantry_axe_great</key>
+<onscreen state="APPROVED" last_approved_text="Great Axe Infantry" last_edit_user="bob">Great Axe Infantry</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="What two-handed axes lack in elegance, they make up for in brutal, armour-shattering force." last_edit_user="bob">What two-handed axes lack in elegance, they make up for in brutal, armour-shattering force.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{1d3c53d9-a2a0-49b9-8a13-57eddb7732cd}" record_timestamp="1441796565766" record_key="lord_infantry_hammer_great">
+<icon>infantry_hammer_great</icon>
+<key>lord_infantry_hammer_great</key>
+<onscreen state="APPROVED" last_approved_text="Hammer Infantry" last_edit_user="bob">Hammer Infantry</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Hammers take little notice of armour, causing massive amounts of damage regardless of where they hit. Managing to score a hit can be very challenging though..." last_edit_user="bob">Hammers take little notice of armour, causing massive amounts of damage regardless of where they hit. Managing to score a hit can be very challenging though...</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{c3413ab2-80c0-4ba6-95b0-91393e897a3d}" record_timestamp="1454439535506" record_key="lord_infantry_lord_of_change">
+<icon>wh_main_lore_metal</icon>
+<key>lord_infantry_lord_of_change</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Metal is full of hexes and high-damage spells; heavily-armoured units are particularly susceptible." last_edit_user="bob">The Lore of Metal is full of hexes and high-damage spells; heavily-armoured units are particularly susceptible.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{d8d10a22-e589-427e-8ad1-c4f6ec02eda5}" record_timestamp="1438694166416" record_key="lord_infantry_sword">
+<icon>infantry_sword</icon>
+<key>lord_infantry_sword</key>
+<onscreen state="APPROVED" last_approved_text="Sword Infantry" last_edit_user="bob">Sword Infantry</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="The sword's main advantage in combat is flexibility. It can be used offensively and defensively, and it offers a good compromise between regular damage and armour piercing damage." last_edit_user="bob">The sword's main advantage in combat is flexibility. It can be used offensively and defensively, and it offers a good compromise between regular damage and armour piercing damage.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{21f698c4-fef6-433c-8a89-e6205f9c05ab}" record_timestamp="1467714673037" record_key="lord_wizard_beasts">
+<icon>wh_dlc03_lore_beasts</icon>
+<key>lord_wizard_beasts</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="The beasts of the world rise up and obey when summoned, their very essence used to empower and transform the caster." last_edit_user="bob">The beasts of the world rise up and obey when summoned, their very essence used to empower and transform the caster.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{b025adf5-ec3c-4b5f-8efa-60d645266ddf}" record_timestamp="1454525978646" record_key="lord_wizard_big_waaagh">
+<icon>wh_main_lore_big_waaagh</icon>
+<key>lord_wizard_big_waaagh</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Big Waaagh! is a big bombastic lore with lots of intimidating, large spells that meter out damage to the enemy." last_edit_user="bob">The Big Waaagh! is a big bombastic lore with lots of intimidating, large spells that meter out damage to the enemy.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{68188526-5165-4a65-aff6-9102d69c9d76}" record_timestamp="1454525978680" record_key="lord_wizard_death">
+<icon>wh_main_lore_death</icon>
+<key>lord_wizard_death</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Death is an offensive lore with a suite of spells that can assassinate enemy characters and decimate entire units!" last_edit_user="bob">The Lore of Death is an offensive lore with a suite of spells that can assassinate enemy characters and decimate entire units!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{f7bd6a0d-0d3f-46ee-bb29-ebb5b99068cb}" record_timestamp="1454525978734" record_key="lord_wizard_fire">
+<icon>wh_main_lore_fire</icon>
+<key>lord_wizard_fire</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Pyromancers are effectively magical artillery, due to the Lore of Fire's selection of aggressive spells, but are not necessarily the most powerful." last_edit_user="bob">Pyromancers are effectively magical artillery, due to the Lore of Fire's selection of aggressive spells, but are not necessarily the most powerful.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{2155acfb-5af1-463c-872c-55b2aa4369d6}" record_timestamp="1454525978421" record_key="lord_wizard_heavens">
+<icon>wh_main_lore_heavens</icon>
+<key>lord_wizard_heavens</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Drawn from the skies, the Lore of Heavens is a mix of augmentation spells and powers with potentially devastating consequences for the enemy." last_edit_user="bob">Drawn from the skies, the Lore of Heavens is a mix of augmentation spells and powers with potentially devastating consequences for the enemy.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{bca16b54-8286-4f4f-ab5f-897b4053abca}" record_timestamp="1479308437842" record_key="lord_wizard_life">
+<icon>wh_dlc05_wef_lore_life</icon>
+<key>lord_wizard_life</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Life heals those who control it by taking the lifeforce of their opponents!" last_edit_user="bob">The Lore of Life heals those who control it by taking the lifeforce of their opponents!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{c8f54031-1570-4f28-af5e-8fd60a6a0236}" record_timestamp="1454525978565" record_key="lord_wizard_lil_waaagh">
+<icon>wh_main_lore_lil_waaagh</icon>
+<key>lord_wizard_lil_waaagh</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Goblin Shamans use spells from the Little Waaagh!, a collection of vindictive spells that can really hurt their opponents." last_edit_user="bob">Goblin Shamans use spells from the Little Waaagh!, a collection of vindictive spells that can really hurt their opponents.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{d4eaeed5-043d-4e2c-9101-b0fa38a7a31c}" record_timestamp="1454525978384" record_key="lord_wizard_metal">
+<icon>wh_main_lore_metal</icon>
+<key>lord_wizard_metal</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Metal is full of hexes and high-damage spells; heavily-armoured units are particularly susceptible." last_edit_user="bob">The Lore of Metal is full of hexes and high-damage spells; heavily-armoured units are particularly susceptible.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{f81364c9-2814-4701-942a-34e3a4b67420}" record_timestamp="1474294307287" record_key="lord_wizard_runelord">
+<icon>wh_main_dwf_runesmith</icon>
+<key>lord_wizard_runelord</key>
+<onscreen state="APPROVED" last_approved_text="Support Specialist" last_edit_user="bob">Support Specialist</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Having a Runelord in the presence of grateful Clans-Dwarfs bolsters their abilities. " last_edit_user="bob">Having a Runelord in the presence of grateful Clans-Dwarfs bolsters their abilities. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{0e0cf7ab-5e49-4e02-8f68-f866ed4db8fd}" record_timestamp="1479308437843" record_key="lord_wizard_shadows">
+<icon>wh_dlc05_wef_lore_shadow</icon>
+<key>lord_wizard_shadows</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Wizards who harness the Lore of Shadows use aggressive spells to scythe through enemy hearts!" last_edit_user="bob">Wizards who harness the Lore of Shadows use aggressive spells to scythe through enemy hearts!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{aa4a0265-71bd-4914-8d3c-fc4c5b08c4a2}" record_timestamp="1454525978321" record_key="lord_wizard_vampires">
+<icon>wh_main_lore_vampires</icon>
+<key>lord_wizard_vampires</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Spells from the Lore of Vampires are used to summon and shackle Undead minions, and curse them too!" last_edit_user="bob">Spells from the Lore of Vampires are used to summon and shackle Undead minions, and curse them too!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{e7db0bfc-f42f-46d9-9266-f955a71247fd}" record_timestamp="1467714673064" record_key="lord_wizard_wild">
+<icon>wh_dlc03_bst_lore_wild</icon>
+<key>lord_wizard_wild</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Nature can be both shield and weapon, brought to bear against the enemy or to defend allied troops." last_edit_user="bob">Nature can be both shield and weapon, brought to bear against the enemy or to defend allied troops.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{d66af70a-472e-4359-8c1d-37d28250dfe6}" record_timestamp="1486469538965" record_key="magic_chariot">
+<icon>magic_chariot</icon>
+<key>magic_chariot</key>
+<onscreen state="APPROVED" last_approved_text="Magic Chariot" last_edit_user="bob">Magic Chariot</onscreen>
+<parent_group>artillery_war_machines</parent_group>
+<tooltip state="APPROVED" last_approved_text="A special chariot supports surrounding units with its aura and strikes foes with powerful magical attacks." last_edit_user="bob">A special chariot supports surrounding units with its aura and strikes foes with powerful magical attacks.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{ee9faf4f-abd7-4e12-bfbd-672c55e4495d}" record_timestamp="1438694166687" record_key="missile_cavalry_axe">
+<icon>missile_cavalry_axe</icon>
+<key>missile_cavalry_axe</key>
+<onscreen state="APPROVED" last_approved_text="Missile Cavalry" last_edit_user="bob">Missile Cavalry</onscreen>
+<parent_group>missile_cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast moving and with a long range, missile cavalry excel at harassing their enemies, but are weak if pinned in melee." last_edit_user="bob">Fast moving and with a long range, missile cavalry excel at harassing their enemies, but are weak if pinned in melee.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{937ba30a-50e9-47e9-beac-226f69a57f16}" record_timestamp="1438694166754" record_key="missile_cavalry_bow">
+<icon>missile_cavalry_bow</icon>
+<key>missile_cavalry_bow</key>
+<onscreen state="APPROVED" last_approved_text="Missile Cavalry" last_edit_user="bob">Missile Cavalry</onscreen>
+<parent_group>missile_cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast moving and with a long range, missile cavalry excel at harassing their enemies, but are weak if pinned in melee." last_edit_user="bob">Fast moving and with a long range, missile cavalry excel at harassing their enemies, but are weak if pinned in melee.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{af7f74f5-2838-445c-bfa2-b2e6ab810e73}" record_timestamp="1438694166825" record_key="missile_cavalry_bow_spider">
+<icon>missile_cavalry_bow_spider</icon>
+<key>missile_cavalry_bow_spider</key>
+<onscreen state="APPROVED" last_approved_text="Missile Cavalry" last_edit_user="bob">Missile Cavalry</onscreen>
+<parent_group>missile_cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast moving and with a long range, missile cavalry excel at harassing their enemies, but are weak if pinned in melee." last_edit_user="bob">Fast moving and with a long range, missile cavalry excel at harassing their enemies, but are weak if pinned in melee.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{33aafb49-9146-4c7d-aa46-fda2bf84223b}" record_timestamp="1438694166894" record_key="missile_cavalry_bow_wolf">
+<icon>missile_cavalry_bow_wolf</icon>
+<key>missile_cavalry_bow_wolf</key>
+<onscreen state="APPROVED" last_approved_text="Missile Cavalry" last_edit_user="bob">Missile Cavalry</onscreen>
+<parent_group>missile_cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast moving and with a long range, missile cavalry excel at harassing their enemies, but are weak if pinned in melee." last_edit_user="bob">Fast moving and with a long range, missile cavalry excel at harassing their enemies, but are weak if pinned in melee.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{7a185454-e972-41e0-b881-634d246d793d}" record_timestamp="1438694166962" record_key="missile_cavalry_javelin">
+<icon>missile_cavalry_javelin</icon>
+<key>missile_cavalry_javelin</key>
+<onscreen state="APPROVED" last_approved_text="Missile Cavalry" last_edit_user="bob">Missile Cavalry</onscreen>
+<parent_group>missile_cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast moving and with a long range, missile cavalry excel at harassing their enemies, but are weak if pinned in melee." last_edit_user="bob">Fast moving and with a long range, missile cavalry excel at harassing their enemies, but are weak if pinned in melee.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{c6491738-8469-4d78-a51e-09c29862206b}" record_timestamp="1438694167073" record_key="missile_cavalry_rifle">
+<icon>missile_cavalry_rifle</icon>
+<key>missile_cavalry_rifle</key>
+<onscreen state="APPROVED" last_approved_text="Missile Cavalry" last_edit_user="bob">Missile Cavalry</onscreen>
+<parent_group>missile_cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast moving and with a long range, missile cavalry excel at harassing their enemies, but are weak if pinned in melee." last_edit_user="bob">Fast moving and with a long range, missile cavalry excel at harassing their enemies, but are weak if pinned in melee.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{dad878d9-d7f7-414a-870e-6b70aa724a67}" record_timestamp="1438694167185" record_key="missile_chariot">
+<icon>missile_chariot</icon>
+<key>missile_chariot</key>
+<onscreen state="APPROVED" last_approved_text="Missile Chariot" last_edit_user="bob">Missile Chariot</onscreen>
+<parent_group>missile_cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast moving units with a wide turning circle, they can punch through weak enemy units, but are vulnerable if pinned in melee." last_edit_user="bob">Fast moving units with a wide turning circle, they can punch through weak enemy units, but are vulnerable if pinned in melee.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{aedbd0bd-f85b-4c5b-a323-3fe3a599dfde}" record_timestamp="1465230318647" record_key="missile_infantry_bow">
+<icon>missile_infantry_bow</icon>
+<key>missile_infantry_bow</key>
+<onscreen state="APPROVED" last_approved_text="Missile Infantry" last_edit_user="bob">Missile Infantry</onscreen>
+<parent_group>missile_infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="Long-range units that provide support for melee infantry, but are comparatively weak in close combat." last_edit_user="bob">Long-range units that provide support for melee infantry, but are comparatively weak in close combat.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{50e19c40-ddcd-40d4-b213-fdd31ed938a1}" record_timestamp="1465290243326" record_key="missile_infantry_pistol">
+<icon>missile_infantry_rifle</icon>
+<key>missile_infantry_pistol</key>
+<onscreen state="APPROVED" last_approved_text="Close-Quarters Infantry" last_edit_user="bob">Close-Quarters Infantry</onscreen>
+<parent_group>missile_infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="Short-range units that are equally proficient with black powder weapons as they are wielding their blades." last_edit_user="bob">Short-range units that are equally proficient with black powder weapons as they are wielding their blades.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{3c1ac022-cd5d-422a-b3d4-37069d92ef17}" record_timestamp="1465230318659" record_key="missile_infantry_rifle">
+<icon>missile_infantry_rifle</icon>
+<key>missile_infantry_rifle</key>
+<onscreen state="APPROVED" last_approved_text="Missile Infantry" last_edit_user="bob">Missile Infantry</onscreen>
+<parent_group>missile_infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="Long-range units that provide support for melee infantry, but are comparatively weak in close combat." last_edit_user="bob">Long-range units that provide support for melee infantry, but are comparatively weak in close combat.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{c619c98b-28d1-43db-9bbb-1a2748b2b066}" record_timestamp="1454439535508" record_key="monstrous_infantry">
+<icon>monstrous_infantry</icon>
+<key>monstrous_infantry</key>
+<onscreen state="APPROVED" last_approved_text="Monstrous Infantry" last_edit_user="bob">Monstrous Infantry</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="Monstrous creatures are typically several feet taller than men and capable of stomping weaker foes into the ground. " last_edit_user="bob">Monstrous creatures are typically several feet taller than men and capable of stomping weaker foes into the ground. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{0bf5a0a0-efa6-4e6b-854d-e806dc5c1baa}" record_timestamp="1449248738005" record_key="monstrous_infantry_flying">
+<icon>monstrous_infantry</icon>
+<key>monstrous_infantry_flying</key>
+<onscreen state="APPROVED" last_approved_text="Flying Monstrous Infantry" last_edit_user="bob">Flying Monstrous Infantry</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="Monstrous creatures are typically several feet taller than men, and capable of stomping weaker foes into the ground. " last_edit_user="bob">Monstrous creatures are typically several feet taller than men, and capable of stomping weaker foes into the ground. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{18223603-58a4-4113-b4da-32359fa918b1}" record_timestamp="1441796565766" record_key="shock_cavalry">
+<icon>shock_cavalry</icon>
+<key>shock_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Shock Cavalry" last_edit_user="bob">Shock Cavalry</onscreen>
+<parent_group>cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="A well-timed charge by these near-unstoppable cavalry units can cause devastating damage." last_edit_user="bob">A well-timed charge by these near-unstoppable cavalry units can cause devastating damage.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{b2b2e2b4-f7ea-4329-b6ad-e43286706652}" record_timestamp="1441796565766" record_key="shock_cavalry_boar">
+<icon>shock_cavalry_boar</icon>
+<key>shock_cavalry_boar</key>
+<onscreen state="APPROVED" last_approved_text="Shock Cavalry" last_edit_user="bob">Shock Cavalry</onscreen>
+<parent_group>cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="A well-timed charge by these near-unstoppable cavalry units can cause devastating damage." last_edit_user="bob">A well-timed charge by these near-unstoppable cavalry units can cause devastating damage.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{6a6b200d-dbcf-4de1-8cdb-e5a25f1b75ec}" record_timestamp="1438694167746" record_key="vmp_cavalry_scythe">
+<icon>vmp_cavalry_scythe</icon>
+<key>vmp_cavalry_scythe</key>
+<onscreen state="APPROVED" last_approved_text="Cavalry" last_edit_user="bob">Cavalry</onscreen>
+<parent_group>cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast and good against smaller targets, cavalry also has more staying power in melee than the charge-focussed shock cavalry." last_edit_user="bob">Fast and good against smaller targets, cavalry also has more staying power in melee than the charge-focussed shock cavalry.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{4272bd88-a85c-44c3-986a-e7a4b1bf473b}" record_timestamp="1455809061083" record_key="vmp_crypt_ghouls">
+<icon>infantry_cudgel</icon>
+<key>vmp_crypt_ghouls</key>
+<onscreen state="APPROVED" last_approved_text="Cudgel Infantry" last_edit_user="bob">Cudgel Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="Although armed with crude cudgels, a scratch from their filth-encrusted, poisonous claws is more dangerous to most living beings." last_edit_user="bob">Although armed with crude cudgels, a scratch from their filth-encrusted, poisonous claws is more dangerous to most living beings.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{6b9ca451-3af9-490e-9856-5cb0ebdbf3e1}" record_timestamp="1447836748604" record_key="vmp_fell_bats">
+<icon>vmp_fell_bats</icon>
+<key>vmp_fell_bats</key>
+<onscreen state="APPROVED" last_approved_text="Flying War Beasts" last_edit_user="bob">Flying War Beasts</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="Wolves, hounds and other beasts bred for war. Their claws and jaws can splinter bone, but they struggle with decent armour." last_edit_user="bob">Wolves, hounds and other beasts bred for war. Their claws and jaws can splinter bone, but they struggle with decent armour.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{792c3aa4-c1f9-4e68-a4d6-99b09ac47b50}" record_timestamp="1438694167975" record_key="vmp_infantry_scythe">
+<icon>vmp_infantry_scythe</icon>
+<key>vmp_infantry_scythe</key>
+<onscreen state="APPROVED" last_approved_text="Scythe Infantry" last_edit_user="bob">Scythe Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="The scythe is a clumsy weapon in combat not suited for parries or blocks. However, if the wielder is ethereal, it doesn't matter. " last_edit_user="bob">The scythe is a clumsy weapon in combat not suited for parries or blocks. However, if the wielder is ethereal, it doesn't matter. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{f8ca32c0-70a1-4bdf-bff8-96a6f1259c1c}" record_timestamp="1452590863436" record_key="vmp_tomb_banshee">
+<icon>wh_main_vmp_spy</icon>
+<key>vmp_tomb_banshee</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Tomb Banshees are screaming wretches - ethereal beings with a short-range wailing attack." last_edit_user="bob">Tomb Banshees are screaming wretches - ethereal beings with a short-range wailing attack.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{34db9fa8-4df5-4399-b140-933b5fda6c8f}" record_timestamp="1438694168200" record_key="vmp_varghulf">
+<icon>vmp_varghulf</icon>
+<key>vmp_varghulf</key>
+<onscreen state="APPROVED" last_approved_text="Monster" last_edit_user="bob">Monster</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="These monsters are Vampires consumed by the animalistic hunter within. They are powerful in attack against infantry and other characters. " last_edit_user="bob">These monsters are Vampires consumed by the animalistic hunter within. They are powerful in attack against infantry and other characters. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{c2e4ef7c-8e19-491c-9c9d-1dac59b3576c}" record_timestamp="1452590862793" record_key="vmp_wight_king">
+<icon>wh_main_vmp_champion</icon>
+<key>vmp_wight_king</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Wight King is an ancient warrior who was rarely bested in his mortal life or this one. " last_edit_user="bob">The Wight King is an ancient warrior who was rarely bested in his mortal life or this one. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{308cd2ac-cd5a-4820-948f-36d92d7913ab}" record_timestamp="1452590862814" record_key="vmp_wight_king_cavalry">
+<icon>wh_main_vmp_champion</icon>
+<key>vmp_wight_king_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Wight King is an ancient warrior who was rarely bested in his mortal life or this one. " last_edit_user="bob">The Wight King is an ancient warrior who was rarely bested in his mortal life or this one. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{cd496512-a492-4923-b90c-e4789df71aed}" record_timestamp="1441796565767" record_key="war_beast">
+<icon>war_beast</icon>
+<key>war_beast</key>
+<onscreen state="APPROVED" last_approved_text="War Beasts" last_edit_user="bob">War Beasts</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="Wolves, hounds and other beasts bred for war. Their claws and jaws can crack skulls, but they struggle against decent armour." last_edit_user="bob">Wolves, hounds and other beasts bred for war. Their claws and jaws can crack skulls, but they struggle against decent armour.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{b7dbd524-9b29-46fe-afd4-be0ec1018d26}" record_timestamp="1467714673070" record_key="wh_dlc03_bst_centigor">
+<icon>wh_dlc03_bst_centigor</icon>
+<key>wh_dlc03_bst_centigor</key>
+<onscreen state="APPROVED" last_approved_text="Bestial Cavalry" last_edit_user="bob">Bestial Cavalry</onscreen>
+<parent_group>cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Brutal beasts, striding into battle to wreak havoc." last_edit_user="bob">Brutal beasts, striding into battle to wreak havoc.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{74d308c9-a201-49f5-b174-5b6c9093f784}" record_timestamp="1467714673074" record_key="wh_dlc03_bst_centigor_great_weapon">
+<icon>wh_dlc03_bst_centigor_great_weapon</icon>
+<key>wh_dlc03_bst_centigor_great_weapon</key>
+<onscreen state="APPROVED" last_approved_text="Bestial Cavalry Great Weapons" last_edit_user="bob">Bestial Cavalry Great Weapons</onscreen>
+<parent_group>cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="These monsters smash their foes to pieces with huge, armour-rending weapons." last_edit_user="bob">These monsters smash their foes to pieces with huge, armour-rending weapons.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{e6176e4d-400a-487d-a1f7-6c56e39e3c1a}" record_timestamp="1481029481647" record_key="wh_dlc03_bst_centigor_missile">
+<icon>wh_dlc03_bst_centigor_missile</icon>
+<key>wh_dlc03_bst_centigor_missile</key>
+<onscreen state="APPROVED" last_approved_text="Bestial Missile Cavalry " last_edit_user="bob">Bestial Missile Cavalry </onscreen>
+<parent_group>missile_cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fearsome beasts, armed with a pair of lethal throwing axes – running away will not help." last_edit_user="bob">Fearsome beasts, armed with a pair of lethal throwing axes – running away will not help.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{e9f2d7b9-276d-4cd3-90ee-4007a890885d}" record_timestamp="1469455391871" record_key="wh_dlc03_bst_cygor">
+<icon>wh_dlc03_bst_cygor</icon>
+<key>wh_dlc03_bst_cygor</key>
+<onscreen state="APPROVED" last_approved_text="Specialist Artillery" last_edit_user="bob">Specialist Artillery</onscreen>
+<parent_group>artillery_war_machines</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Cygor is a beast without peer, hurling rocks from afar to smash enemies before they can close on its imposing physique." last_edit_user="bob">The Cygor is a beast without peer, hurling rocks from afar to smash enemies before they can close on its imposing physique.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{3aee11a4-f2cd-41c4-ae34-05869000d41a}" record_timestamp="1467714673067" record_key="wh_dlc03_bst_gorebull">
+<icon>wh_dlc03_bst_gorebull</icon>
+<key>wh_dlc03_bst_gorebull</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="These units excel in the thick of the fight, tearing the foe to shreds with savage strength and wild abandon." last_edit_user="bob">These units excel in the thick of the fight, tearing the foe to shreds with savage strength and wild abandon.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{c112c235-9712-4f70-999c-8ac6b7da45ea}" record_timestamp="1467714673066" record_key="wh_dlc03_bst_razorgor">
+<icon>wh_dlc03_bst_razorgor</icon>
+<key>wh_dlc03_bst_razorgor</key>
+<onscreen state="APPROVED" last_approved_text="Monstrous Beast" last_edit_user="bob">Monstrous Beast</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="These larger-than-usual beasts bear down upon their enemies on the battlefield, rending them apart with bestial fury and cruel determination." last_edit_user="bob">These larger-than-usual beasts bear down upon their enemies on the battlefield, rending them apart with bestial fury and cruel determination.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{8179246f-54bb-4070-8752-b14afa24b3a2}" record_timestamp="1467714673068" record_key="wh_dlc03_minotaurs_great_weapon">
+<icon>wh_dlc03_minotaurs_great_weapon</icon>
+<key>wh_dlc03_minotaurs_great_weapon</key>
+<onscreen state="APPROVED" last_approved_text="Monstrous Infantry Great Weapons" last_edit_user="bob">Monstrous Infantry Great Weapons</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="Huge beasts of war, powerful beyond reckoning, take to the battlefield with enormous weapons capable of felling the mightiest warrior." last_edit_user="bob">Huge beasts of war, powerful beyond reckoning, take to the battlefield with enormous weapons capable of felling the mightiest warrior.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{172d4e6c-0634-4684-a508-35522716515f}" record_timestamp="1481035209286" record_key="wh_dlc04_emp_flagelllents">
+<icon>wh_dlc04_flagellant</icon>
+<key>wh_dlc04_emp_flagelllents</key>
+<onscreen state="APPROVED" last_approved_text="Mace Infantry" last_edit_user="bob">Mace Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="Armour is little barrier to maces, and as such they cause great damage wherever they hit. However, actually scoring a hit can be a challenge, as a large spiky ball can easily miss its mark." last_edit_user="bob">Armour is little barrier to maces, and as such they cause great damage wherever they hit. However, actually scoring a hit can be a challenge, as a large spiky ball can easily miss its mark.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{058a0b10-fa7d-4443-a307-7f1d3f6f9fff}" record_timestamp="1481894423138" record_key="wh_dlc05_bst_harpies">
+<icon>wh_dlc05_wef_harpies</icon>
+<key>wh_dlc05_bst_harpies</key>
+<onscreen state="APPROVED" last_approved_text="Flying Melee Infantry" last_edit_user="bob">Flying Melee Infantry</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="Winged creatures who prey on weaker foes in hand-to-hand combat." last_edit_user="bob">Winged creatures who prey on weaker foes in hand-to-hand combat.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{61a91a80-5fa7-48b4-8b09-7439e9294f1a}" record_timestamp="1479308437844" record_key="wh_dlc05_wef_dryad">
+<icon>wh_dlc05_wef_dryad</icon>
+<key>wh_dlc05_wef_dryad</key>
+<onscreen state="APPROVED" last_approved_text="Creature Infantry" last_edit_user="bob">Creature Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="Vicious in hand-to-hand combat, these shapeshifting spirit-creatures prey on the unsuspecting." last_edit_user="bob">Vicious in hand-to-hand combat, these shapeshifting spirit-creatures prey on the unsuspecting.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{d6f528b2-16a6-4abf-b900-8e04339f1375}" record_timestamp="1484135541653" record_key="wh_dlc05_wef_glade_lord">
+<icon>wh_dlc05_wef_waystalker</icon>
+<key>wh_dlc05_wef_glade_lord</key>
+<onscreen state="APPROVED" last_approved_text="Hybrid Weapon Specialist" last_edit_user="bob">Hybrid Weapon Specialist</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Masters of both sword and bow, Glade Lords can cause great damage from near or afar." last_edit_user="bob">Masters of both sword and bow, Glade Lords can cause great damage from near or afar.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{b615cabf-a22a-4baa-9dca-40f6f5a47266}" record_timestamp="1479308437845" record_key="wh_dlc05_wef_glaive_infantry">
+<icon>infantry_sword_great</icon>
+<key>wh_dlc05_wef_glaive_infantry</key>
+<onscreen state="APPROVED" last_approved_text="Glaive Infantry" last_edit_user="bob">Glaive Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="The glaive is a large, lethal, bladed weapon with improved armour-piercing capabilities." last_edit_user="bob">The glaive is a large, lethal, bladed weapon with improved armour-piercing capabilities.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{c26541e6-6ffc-40a4-a70f-223de8e64c6f}" record_timestamp="1467714673066" record_key="wh_dlc05_wef_great_eagle">
+<icon>wh_dlc05_wef_great_eagle</icon>
+<key>wh_dlc05_wef_great_eagle</key>
+<onscreen state="APPROVED" last_approved_text="Monstrous Beast" last_edit_user="bob">Monstrous Beast</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="These larger-than-usual beasts bear down upon their enemies on the battlefield, rending them apart with bestial fury and cruel determination." last_edit_user="bob">These larger-than-usual beasts bear down upon their enemies on the battlefield, rending them apart with bestial fury and cruel determination.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{f805c235-ceb8-4f81-988d-93a96d5958a4}" record_timestamp="1479308437845" record_key="wh_dlc05_wef_hawk_riders">
+<icon>wh_dlc05_wef_hawk_riders</icon>
+<key>wh_dlc05_wef_hawk_riders</key>
+<onscreen state="APPROVED" last_approved_text="Flying Missile Cavalry" last_edit_user="bob">Flying Missile Cavalry</onscreen>
+<parent_group>missile_cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="With vision as sharp as a bird’s, these precision archers can target and destroy their foes before disappearing just as quickly as they appeared." last_edit_user="bob">With vision as sharp as a bird’s, these precision archers can target and destroy their foes before disappearing just as quickly as they appeared.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{b640abef-b9c5-4420-82df-45e3b07df05b}" record_timestamp="1485169748496" record_key="wh_dlc05_wef_orion">
+<icon>infantry_spear</icon>
+<key>wh_dlc05_wef_orion</key>
+<onscreen state="APPROVED" last_approved_text="Hybrid Weapon Specialist" last_edit_user="bob">Hybrid Weapon Specialist</onscreen>
+<parent_group>commander</parent_group>
+<tooltip state="APPROVED" last_approved_text="Either thrown or used in melee, the Spear of Kurnous offers superior reach over a sword or axe, making it an ideal choice against larger enemies." last_edit_user="bob">Either thrown or used in melee, the Spear of Kurnous offers superior reach over a sword or axe, making it an ideal choice against larger enemies.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{cbd730bb-84ff-41a4-81a1-f43a8b8dc41e}" record_timestamp="1481899798277" record_key="wh_dlc05_wef_sisters_thorn">
+<icon>wh_dlc05_wef_sisters_thorn</icon>
+<key>wh_dlc05_wef_sisters_thorn</key>
+<onscreen state="APPROVED" last_approved_text="Magical Cavalry" last_edit_user="bob">Magical Cavalry</onscreen>
+<parent_group>missile_cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast and good when fighting infantry, this cavalry unit can also cast aggressive spells." last_edit_user="bob">Fast and good when fighting infantry, this cavalry unit can also cast aggressive spells.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{73512c40-8290-48d7-87aa-a70e1baf821f}" record_timestamp="1479308437848" record_key="wh_dlc05_wef_treeman">
+<icon>wh_dlc05_wef_treeman</icon>
+<key>wh_dlc05_wef_treeman</key>
+<onscreen state="APPROVED" last_approved_text="Monster" last_edit_user="bob">Monster</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="Towering over their enemies, these living trees protect the forest with brute force when necessary." last_edit_user="bob">Towering over their enemies, these living trees protect the forest with brute force when necessary.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{b3a8483b-32a7-4802-800f-95e0b6f60db2}" record_timestamp="1479308437848" record_key="wh_dlc05_wef_waystalker">
+<icon>wh_dlc05_wef_waystalker</icon>
+<key>wh_dlc05_wef_waystalker</key>
+<onscreen state="APPROVED" last_approved_text="Hybrid Weapon Specialist" last_edit_user="bob">Hybrid Weapon Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Masters of both sword and bow, Waystalkers can cause great damage from near or afar." last_edit_user="bob">Masters of both sword and bow, Waystalkers can cause great damage from near or afar.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{b023b7bb-55d2-4431-be0b-92df8dad3c9a}" record_timestamp="1479308437849" record_key="wh_dlc05_wef_wild_riders">
+<icon>wh_dlc05_wef_wild_riders</icon>
+<key>wh_dlc05_wef_wild_riders</key>
+<onscreen state="APPROVED" last_approved_text="Melee Cavalry" last_edit_user="bob">Melee Cavalry</onscreen>
+<parent_group>cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Fast and good against smaller targets, this cavalry unit also has greater staying power in melee than charge-focused shock cavalry." last_edit_user="bob">Fast and good against smaller targets, this cavalry unit also has greater staying power in melee than charge-focused shock cavalry.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{d5f9c0df-9a19-41ff-99d6-a6a15d305713}" record_timestamp="1474293544057" record_key="wh_dlc06_bolt_thrower">
+<icon>wh_dlc06_dwf_bolt_thrower</icon>
+<key>wh_dlc06_bolt_thrower</key>
+<onscreen state="APPROVED" last_approved_text="Field Artillery" last_edit_user="bob">Field Artillery</onscreen>
+<parent_group>artillery_war_machines</parent_group>
+<tooltip state="APPROVED" last_approved_text="With a long range, Bolt Throwers are able to cause great damage but are very weak in melee." last_edit_user="bob">With a long range, Bolt Throwers are able to cause great damage but are very weak in melee.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{6a1145bc-62eb-4b05-89bb-b6bcdaeb3d82}" record_timestamp="1474293544058" record_key="wh_dlc06_grn_nasty_skulker">
+<icon>wh_dlc06_grn_nasty_skulker</icon>
+<key>wh_dlc06_grn_nasty_skulker</key>
+<onscreen state="APPROVED" last_approved_text="Sneaky Infantry" last_edit_user="bob">Sneaky Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="Armed with razor-sharp daggers, these Goblins strike hard, causing lethal armour piercing damage before scurrying away under a confounding cloud of smoke." last_edit_user="bob">Armed with razor-sharp daggers, these Goblins strike hard, causing lethal armour piercing damage before scurrying away under a confounding cloud of smoke.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{5d3439dc-5dd9-4a40-bac8-1997a807bcce}" record_timestamp="1474293351525" record_key="wh_dlc06_grn_squig">
+<icon>wh_dlc06_grn_squig</icon>
+<key>wh_dlc06_grn_squig</key>
+<onscreen state="APPROVED" last_approved_text="War Beasts" last_edit_user="bob">War Beasts</onscreen>
+<parent_group>monster_beasts</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Squigs’ fearsome mandibles can crack skulls with ease, gobbling men up like so many mushrooms in a feeding trough." last_edit_user="bob">The Squigs’ fearsome mandibles can crack skulls with ease, gobbling men up like so many mushrooms in a feeding trough.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{961781e6-e3e7-4356-b46c-f587df006853}" record_timestamp="1474292001193" record_key="wh_dlc06_grn_squig_sword">
+<icon>wh_dlc06_grn_squig_cavalry</icon>
+<key>wh_dlc06_grn_squig_sword</key>
+<onscreen state="APPROVED" last_approved_text="Cavalry" last_edit_user="bob">Cavalry</onscreen>
+<parent_group>cavalry_chariots</parent_group>
+<tooltip state="APPROVED" last_approved_text="Greenskins ride to war on myriad beasts. Goblin Cavalry is typically light, but fast and manoeuvrable." last_edit_user="bob">Greenskins ride to war on myriad beasts. Goblin Cavalry is typically light, but fast and manoeuvrable.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{bd6c7419-138f-4e4c-97ab-c55f56516423}" record_timestamp="1486469538965" record_key="wh_dlc07_brt_grail_relique">
+<icon>wh_dlc07_brt_grail_relique</icon>
+<key>wh_dlc07_brt_grail_relique</key>
+<onscreen state="APPROVED" last_approved_text="Support Infantry" last_edit_user="bob">Support Infantry</onscreen>
+<parent_group>infantry</parent_group>
+<tooltip state="APPROVED" last_approved_text="A support infantry unit reinforces others with its aura and strikes foes with powerful magical attacks." last_edit_user="bob">A support infantry unit reinforces others with its aura and strikes foes with powerful magical attacks.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{a2b6f5b8-5a23-47e9-a3d8-0d6ebd54f187}" record_timestamp="1483529761847" record_key="wh_dlc07_brt_green_knight">
+<icon>wh_dlc07_brt_green_knight</icon>
+<key>wh_dlc07_brt_green_knight</key>
+<onscreen state="APPROVED" last_approved_text="Melee Specialist" last_edit_user="bob">Melee Specialist</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="By the Lady, this Bretonnian champion excels in melee!" last_edit_user="bob">By the Lady, this Bretonnian champion excels in melee!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{d7ce59e4-c1d5-4b8c-8271-f96cd5590ca8}" record_timestamp="1467714673061" record_key="wizard_beasts">
+<icon>wh_dlc03_lore_beasts</icon>
+<key>wizard_beasts</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The beasts of the world rise up and obey when summoned, their very essence used to empower and transform the caster." last_edit_user="bob">The beasts of the world rise up and obey when summoned, their very essence used to empower and transform the caster.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{ea256bdc-4697-45ad-b250-399c6289fc50}" record_timestamp="1467714673061" record_key="wizard_beasts_cavalry">
+<icon>wh_dlc03_lore_beasts</icon>
+<key>wizard_beasts_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The beasts of the world rise up and obey when summoned, their very essence used to empower and transform the caster." last_edit_user="bob">The beasts of the world rise up and obey when summoned, their very essence used to empower and transform the caster.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{dde21b85-dcdd-4d8b-bac5-d53f1301d92a}" record_timestamp="1467714673062" record_key="wizard_beasts_chariot">
+<icon>wh_dlc03_lore_beasts</icon>
+<key>wizard_beasts_chariot</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The beasts of the world rise up and obey when summoned, their very essence used to empower and transform the caster." last_edit_user="bob">The beasts of the world rise up and obey when summoned, their very essence used to empower and transform the caster.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{1a9f89ec-8e68-4ac4-8587-b41aabec81b4}" record_timestamp="1467714673062" record_key="wizard_beasts_flying_monster">
+<icon>wh_dlc03_lore_beasts</icon>
+<key>wizard_beasts_flying_monster</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The beasts of the world rise up and obey when summoned, their very essence used to empower and transform the caster." last_edit_user="bob">The beasts of the world rise up and obey when summoned, their very essence used to empower and transform the caster.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{ccb1e4e1-3306-42df-988f-767c994ee755}" record_timestamp="1441796565767" record_key="wizard_big_waaagh">
+<icon>wh_main_lore_big_waaagh</icon>
+<key>wizard_big_waaagh</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Big Waaagh! is a big bombastic lore with lots of intimidating, large spells that meter out damage to the enemy." last_edit_user="bob">The Big Waaagh! is a big bombastic lore with lots of intimidating, large spells that meter out damage to the enemy.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{bc0eb3c1-52ea-4e54-9f2f-6cdc38e15465}" record_timestamp="1452590862901" record_key="wizard_big_waaagh_cavalry">
+<icon>wh_main_lore_big_waaagh</icon>
+<key>wizard_big_waaagh_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Big Waaagh! is a big bombastic lore with lots of intimidating, large spells that meter out damage to the enemy." last_edit_user="bob">The Big Waaagh! is a big bombastic lore with lots of intimidating, large spells that meter out damage to the enemy.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{497129e2-c719-4b4b-8daf-769c639f1191}" record_timestamp="1441796565767" record_key="wizard_death">
+<icon>wh_main_lore_death</icon>
+<key>wizard_death</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Death is an offensive lore with a suite of spells that can assassinate enemy characters and decimate entire units!" last_edit_user="bob">The Lore of Death is an offensive lore with a suite of spells that can assassinate enemy characters and decimate entire units!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{2f7f94d2-e878-434b-9c79-ad6b173f6144}" record_timestamp="1452590862924" record_key="wizard_death_cavalry">
+<icon>wh_main_lore_death</icon>
+<key>wizard_death_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Death is an offensive lore with a suite of spells that can assassinate enemy characters and decimate entire units!" last_edit_user="bob">The Lore of Death is an offensive lore with a suite of spells that can assassinate enemy characters and decimate entire units!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{11a91690-1d19-4c6c-9cfb-9679298344a0}" record_timestamp="1452590862947" record_key="wizard_death_cavalry_flying">
+<icon>wh_main_lore_death</icon>
+<key>wizard_death_cavalry_flying</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Death is an offensive lore with a suite of spells that can assassinate enemy characters and decimate entire units!" last_edit_user="bob">The Lore of Death is an offensive lore with a suite of spells that can assassinate enemy characters and decimate entire units!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{71c793be-2315-4cb6-a0f9-b164f0e18325}" record_timestamp="1452590862988" record_key="wizard_death_chariot">
+<icon>wh_main_lore_death</icon>
+<key>wizard_death_chariot</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Death is an offensive lore with a suite of spells that can assassinate enemy characters and decimate entire units!" last_edit_user="bob">The Lore of Death is an offensive lore with a suite of spells that can assassinate enemy characters and decimate entire units!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{4b27a045-d6fe-4154-8d03-e126c307f613}" record_timestamp="1452590863014" record_key="wizard_death_flying_monster">
+<icon>wh_main_lore_death</icon>
+<key>wizard_death_flying_monster</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Death is an offensive lore with a suite of spells that can assassinate enemy characters and decimate entire units!" last_edit_user="bob">The Lore of Death is an offensive lore with a suite of spells that can assassinate enemy characters and decimate entire units!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{55428b11-ad98-4a50-9e68-5991f108a002}" record_timestamp="1441796565767" record_key="wizard_fire">
+<icon>wh_main_lore_fire</icon>
+<key>wizard_fire</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Pyromancers are effectively magical artillery, due to the Lore of Fire's selection of aggressive spells, but are not necessarily the most powerful." last_edit_user="bob">Pyromancers are effectively magical artillery, due to the Lore of Fire's selection of aggressive spells, but are not necessarily the most powerful.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{c224dcc1-ed71-42d7-aaf5-d998b4db18e3}" record_timestamp="1452590863048" record_key="wizard_fire_cavalry">
+<icon>wh_main_lore_fire</icon>
+<key>wizard_fire_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Pyromancers are effectively magical artillery, due to the Lore of Fire's selection of aggressive spells, but are not necessarily the most powerful." last_edit_user="bob">Pyromancers are effectively magical artillery, due to the Lore of Fire's selection of aggressive spells, but are not necessarily the most powerful.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{0df156c6-9af2-49ca-9b7e-99265cf42d62}" record_timestamp="1452590863099" record_key="wizard_fire_manticore">
+<icon>wh_main_lore_fire</icon>
+<key>wizard_fire_manticore</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Pyromancers are effectively magical artillery, due to the Lore of Fire's selection of aggressive spells, but are not necessarily the most powerful." last_edit_user="bob">Pyromancers are effectively magical artillery, due to the Lore of Fire's selection of aggressive spells, but are not necessarily the most powerful.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{495ee8e9-eb4c-4650-9a79-cd8e6063fedd}" record_timestamp="1452590863121" record_key="wizard_fire_pegasus">
+<icon>wh_main_lore_fire</icon>
+<key>wizard_fire_pegasus</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Pyromancers are effectively magical artillery, due to the Lore of Fire's selection of aggressive spells, but are not necessarily the most powerful." last_edit_user="bob">Pyromancers are effectively magical artillery, due to the Lore of Fire's selection of aggressive spells, but are not necessarily the most powerful.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{6b5ad464-359f-4b8b-8808-cb14f82a70e0}" record_timestamp="1441796565768" record_key="wizard_heavens">
+<icon>wh_main_lore_heavens</icon>
+<key>wizard_heavens</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Drawn from the skies, the Lore of Heavens is a mix of augmentation spells and powers with potentially devastating consequences for the enemy." last_edit_user="bob">Drawn from the skies, the Lore of Heavens is a mix of augmentation spells and powers with potentially devastating consequences for the enemy.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{04be7eb4-ab7d-484e-a3bf-7665bf3a9ae9}" record_timestamp="1452590863144" record_key="wizard_heavens_cavalry">
+<icon>wh_main_lore_heavens</icon>
+<key>wizard_heavens_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Drawn from the skies, the Lore of Heavens is a mix of augmentation spells and powers with potentially devastating consequences for the enemy." last_edit_user="bob">Drawn from the skies, the Lore of Heavens is a mix of augmentation spells and powers with potentially devastating consequences for the enemy.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{3c7b0618-22ee-48f2-a4e8-204b624972e0}" record_timestamp="1452590863166" record_key="wizard_heavens_cavalry_flying">
+<icon>wh_main_lore_heavens</icon>
+<key>wizard_heavens_cavalry_flying</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Drawn from the skies, the Lore of Heavens is a mix of augmentation spells and powers with potentially devastating consequences for the enemy." last_edit_user="bob">Drawn from the skies, the Lore of Heavens is a mix of augmentation spells and powers with potentially devastating consequences for the enemy.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{79a066bd-af5f-4144-9c9b-a0f2402af8d3}" record_timestamp="1479308437850" record_key="wizard_life">
+<icon>wh_dlc05_wef_lore_life</icon>
+<key>wizard_life</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Life heals those who control it by taking the lifeforce of their opponents!" last_edit_user="bob">The Lore of Life heals those who control it by taking the lifeforce of their opponents!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{6a6dfaa2-24ce-49dd-a0ff-ebf50c6f1403}" record_timestamp="1479308437850" record_key="wizard_life_cavalry">
+<icon>wh_dlc05_wef_lore_life</icon>
+<key>wizard_life_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Life heals those who control it by taking the lifeforce of their opponents!" last_edit_user="bob">The Lore of Life heals those who control it by taking the lifeforce of their opponents!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{d7c9c380-8b6a-4adf-bc16-f0994aa5c5f2}" record_timestamp="1477041747247" record_key="wizard_life_flying_monster">
+<icon>wh_dlc05_wef_lore_life</icon>
+<key>wizard_life_flying_monster</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Life heals those who control it, whilst taking the lifeforce of their opponents!" last_edit_user="bob">The Lore of Life heals those who control it, whilst taking the lifeforce of their opponents!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{9eed813e-c599-4789-a73f-5da949779396}" record_timestamp="1441796565768" record_key="wizard_light">
+<icon>wh_main_lore_light</icon>
+<key>wizard_light</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Light is a defensive Lore concentrated on augmentation spells, especially useful against Undead and Daemonic creatures. " last_edit_user="bob">Light is a defensive Lore concentrated on augmentation spells, especially useful against Undead and Daemonic creatures. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{83444d6b-1445-4d89-b7f5-9f9c199215dd}" record_timestamp="1452590863232" record_key="wizard_light_cavalry">
+<icon>wh_main_lore_light</icon>
+<key>wizard_light_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Light is a defensive Lore concentrated on augmentation spells, especially useful against Undead and Daemonic creatures. " last_edit_user="bob">Light is a defensive Lore concentrated on augmentation spells, especially useful against Undead and Daemonic creatures. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{8c1d9432-46a9-413c-bea3-b3d77a8f7958}" record_timestamp="1452590863255" record_key="wizard_light_cavalry_flying">
+<icon>wh_main_lore_light</icon>
+<key>wizard_light_cavalry_flying</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Light is a defensive Lore concentrated on augmentation spells, especially useful against Undead and Daemonic creatures. " last_edit_user="bob">Light is a defensive Lore concentrated on augmentation spells, especially useful against Undead and Daemonic creatures. </tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{0d9b5c03-824b-4c63-a1dc-4762c6b31943}" record_timestamp="1441796565768" record_key="wizard_lil_waaagh">
+<icon>wh_main_lore_lil_waaagh</icon>
+<key>wizard_lil_waaagh</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Goblin Shamans use spells from the Little Waaagh!, a collection of vindictive spells that can really hurt their opponents." last_edit_user="bob">Goblin Shamans use spells from the Little Waaagh!, a collection of vindictive spells that can really hurt their opponents.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{812bbab4-f274-4566-a9fa-686c875e15e9}" record_timestamp="1441796565768" record_key="wizard_metal">
+<icon>wh_main_lore_metal</icon>
+<key>wizard_metal</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Metal is full of hexes and high-damage spells; units with lots of armour are particularly susceptible." last_edit_user="bob">The Lore of Metal is full of hexes and high-damage spells; units with lots of armour are particularly susceptible.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{0abf5e95-afbe-40ca-8cdc-ec6d2cf80e2f}" record_timestamp="1452590863299" record_key="wizard_metal_cavalry">
+<icon>wh_main_lore_metal</icon>
+<key>wizard_metal_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Metal is full of hexes and high-damage spells; units with lots of armour are particularly susceptible." last_edit_user="bob">The Lore of Metal is full of hexes and high-damage spells; units with lots of armour are particularly susceptible.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{0c4945dc-a09a-4d5c-a51d-7d5cfb31f2ba}" record_timestamp="1452590863345" record_key="wizard_metal_manticore">
+<icon>wh_main_lore_metal</icon>
+<key>wizard_metal_manticore</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="The Lore of Metal is full of hexes and high-damage spells; units with lots of armour are particularly susceptible." last_edit_user="bob">The Lore of Metal is full of hexes and high-damage spells; units with lots of armour are particularly susceptible.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{bd6f52fd-f2df-4133-88b2-dc7de0910093}" record_timestamp="1479308437851" record_key="wizard_shadows">
+<icon>wh_dlc05_wef_lore_shadow</icon>
+<key>wizard_shadows</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Wizards who harness the Lore of Shadows use aggressive spells to scythe through enemy hearts!" last_edit_user="bob">Wizards who harness the Lore of Shadows use aggressive spells to scythe through enemy hearts!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{c32e55d7-864a-4145-a484-dcd0f30cea15}" record_timestamp="1479308437852" record_key="wizard_shadows_cavalry">
+<icon>wh_dlc05_wef_lore_shadow</icon>
+<key>wizard_shadows_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Wizards who harness the Lore of Shadows use aggressive spells to scythe through enemy hearts!" last_edit_user="bob">Wizards who harness the Lore of Shadows use aggressive spells to scythe through enemy hearts!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{3b5ea328-4626-4ede-9fdf-2accc877be84}" record_timestamp="1479319050158" record_key="wizard_shadows_cavalry_flying">
+<icon>wh_dlc05_wef_lore_shadow</icon>
+<key>wizard_shadows_cavalry_flying</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Wizards who harness the Lore of Shadows use aggressive spells to scythe through enemy hearts!" last_edit_user="bob">Wizards who harness the Lore of Shadows use aggressive spells to scythe through enemy hearts!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{47c38c5f-d491-4ac1-a5cf-4538d2628fc1}" record_timestamp="1480678921468" record_key="wizard_shadows_chariot">
+<icon>wh_dlc05_wef_lore_shadow</icon>
+<key>wizard_shadows_chariot</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Wizards who harness the Lore of Shadows use aggressive spells to scythe through enemy hearts!" last_edit_user="bob">Wizards who harness the Lore of Shadows use aggressive spells to scythe through enemy hearts!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{ff42d4ae-c86d-4b34-9aeb-372fa239ee53}" record_timestamp="1477041747250" record_key="wizard_shadows_flying_monster">
+<icon>wh_dlc05_wef_lore_shadow</icon>
+<key>wizard_shadows_flying_monster</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Wizards who harness the Lore of Shadows can cast aggressive spells to scythe through enemy hearts!" last_edit_user="bob">Wizards who harness the Lore of Shadows can cast aggressive spells to scythe through enemy hearts!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{4370fb9d-9e10-4e2e-8ab1-a3e1c53ea929}" record_timestamp="1441796565768" record_key="wizard_vampires">
+<icon>wh_main_lore_vampires</icon>
+<key>wizard_vampires</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Spells from the Lore of Vampires are used to summon and shackle Undead minions, and curse them too!" last_edit_user="bob">Spells from the Lore of Vampires are used to summon and shackle Undead minions, and curse them too!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{14b7035a-8899-47d8-8eff-b50d18fd535d}" record_timestamp="1452590863367" record_key="wizard_vampires_cavalry">
+<icon>wh_main_lore_vampires</icon>
+<key>wizard_vampires_cavalry</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Spells from the Lore of Vampires are used to summon and shackle Undead minions, and curse them too!" last_edit_user="bob">Spells from the Lore of Vampires are used to summon and shackle Undead minions, and curse them too!</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{c9bfc164-75df-42f9-ba13-d196672a1ec3}" record_timestamp="1467714673065" record_key="wizard_wild">
+<icon>wh_dlc03_bst_lore_wild</icon>
+<key>wizard_wild</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Nature can be both shield and weapon, brought to bear against the enemy or to defend allied troops." last_edit_user="bob">Nature can be both shield and weapon, brought to bear against the enemy or to defend allied troops.</tooltip>
+</ui_unit_groupings>
+<ui_unit_groupings record_uuid="{38e1b95d-8fcf-4556-acf2-869ca2604d7e}" record_timestamp="1467714673065" record_key="wizard_wild_chariot">
+<icon>wh_dlc03_bst_lore_wild</icon>
+<key>wizard_wild_chariot</key>
+<onscreen state="APPROVED" last_approved_text="Wizard" last_edit_user="bob">Wizard</onscreen>
+<parent_group>heroes_agents</parent_group>
+<tooltip state="APPROVED" last_approved_text="Nature can be both shield and weapon, brought to bear against the enemy or to defend allied troops." last_edit_user="bob">Nature can be both shield and weapon, brought to bear against the enemy or to defend allied troops.</tooltip>
+</ui_unit_groupings>
+</dataroot>

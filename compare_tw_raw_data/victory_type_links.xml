@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="victory_type_links.xsd" export_time="Tue Mar 22 17:52:36 2016" revision="9" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>75e9d823-0ed5-461c-9244-eb96453c80b8</edit_uuid>
+<victory_type_links record_uuid="{c5cd5e22-1be7-49a3-8bf7-eaa2c9daf491}" record_timestamp="1456490547240" record_key="wh_dlc03_victory_type_majorwh_dlc03_victory_type_ultimate">
+<from>wh_dlc03_victory_type_major</from>
+<to>wh_dlc03_victory_type_ultimate</to>
+</victory_type_links>
+<victory_type_links record_uuid="{0109371e-773d-4da5-bbc0-e902db455f49}" record_timestamp="1456490547255" record_key="wh_dlc03_victory_type_minorwh_dlc03_victory_type_major">
+<from>wh_dlc03_victory_type_minor</from>
+<to>wh_dlc03_victory_type_major</to>
+</victory_type_links>
+<victory_type_links record_uuid="{3fec20b4-549e-47ec-8d53-bd5514f651af}" record_timestamp="1458669156562" record_key="wh_dlc05_victory_type_majorwh_dlc05_victory_type_ultimate">
+<from>wh_dlc05_victory_type_major</from>
+<to>wh_dlc05_victory_type_ultimate</to>
+</victory_type_links>
+<victory_type_links record_uuid="{d5ca49af-056a-475b-ab67-9f4ed154f5ef}" record_timestamp="1458669156572" record_key="wh_dlc05_victory_type_minorwh_dlc05_victory_type_major">
+<from>wh_dlc05_victory_type_minor</from>
+<to>wh_dlc05_victory_type_major</to>
+</victory_type_links>
+<victory_type_links record_uuid="{01c1d723-14cc-4357-a76a-69eb3f86b045}" record_timestamp="1426696480734" record_key="wh_main_victory_type_shortwh_main_victory_type_long">
+<from>wh_main_victory_type_short</from>
+<to>wh_main_victory_type_long</to>
+</victory_type_links>
+</dataroot>

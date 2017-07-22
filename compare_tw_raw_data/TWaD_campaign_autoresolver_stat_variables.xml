@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_campaign_autoresolver_stat_variables>
+<root>
+<edit_uuid>01d69eb1-b7c1-4e3d-98bb-5f55f42580e6</edit_uuid>
+<field>
+<field_uuid>{386e4515-f865-4316-86f2-c1a3b1bfb8c8}</field_uuid>
+<primary_key>1</primary_key>
+<name>id</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+</field>
+<field>
+<field_uuid>{f5d68add-3df7-4105-a8d3-0e33a3b34fea}</field_uuid>
+<primary_key>0</primary_key>
+<name>description</name>
+<field_type>text</field_type>
+<required>0</required>
+<max_length>255</max_length>
+</field>
+</root>

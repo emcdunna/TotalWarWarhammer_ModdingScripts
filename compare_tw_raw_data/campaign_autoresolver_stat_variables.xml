@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_autoresolver_stat_variables.xsd" export_time="Mon Aug 24 09:57:51 2015" revision="5" export_branch="C:/fetch_c/warhammer/binaries" export_user="bob">
+<edit_uuid>dab236d3-2f4f-40cc-8baf-58de7e604cd9</edit_uuid>
+<campaign_autoresolver_stat_variables record_uuid="{ccd8e456-2045-4b40-8986-48c2d445668b}" record_timestamp="1374752120363" record_key="alliance_selection_mod">
+<description>alliance stat only</description>
+<id>alliance_selection_mod</id>
+</campaign_autoresolver_stat_variables>
+<campaign_autoresolver_stat_variables record_uuid="{892ec131-ecd3-4be1-be29-0ddbfa1d8991}" record_timestamp="1374752120583" record_key="unit_melee_kps_addition">
+<description>unit and unit vs stat</description>
+<id>unit_melee_kps_addition</id>
+</campaign_autoresolver_stat_variables>
+<campaign_autoresolver_stat_variables record_uuid="{231dffe4-761e-406c-af90-4fcee786c69b}" record_timestamp="1374752120474" record_key="unit_melee_kps_multiplier">
+<description>unit and unit vs stat</description>
+<id>unit_melee_kps_multiplier</id>
+</campaign_autoresolver_stat_variables>
+<campaign_autoresolver_stat_variables record_uuid="{8d16ccf7-91e4-429f-ac43-f3657d0c222a}" record_timestamp="1374752120638" record_key="unit_missile_kps_addition">
+<description>unit and unit vs stat</description>
+<id>unit_missile_kps_addition</id>
+</campaign_autoresolver_stat_variables>
+<campaign_autoresolver_stat_variables record_uuid="{3cb3cae3-e602-4bf6-9a50-586e3feb6abe}" record_timestamp="1374752120529" record_key="unit_missile_kps_multiplier">
+<description>unit and unit vs stat</description>
+<id>unit_missile_kps_multiplier</id>
+</campaign_autoresolver_stat_variables>
+<campaign_autoresolver_stat_variables record_uuid="{8f37547e-02c2-4a09-9b79-f28787a0385c}" record_timestamp="1374752120419" record_key="unit_retreat_mod">
+<description>unit stat only</description>
+<id>unit_retreat_mod</id>
+</campaign_autoresolver_stat_variables>
+</dataroot>

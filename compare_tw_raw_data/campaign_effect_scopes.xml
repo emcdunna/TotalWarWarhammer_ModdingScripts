@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_effect_scopes.xsd" export_time="Wed Feb 15 15:14:08 2017" revision="145" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>b503190d-6d10-4624-a8b0-e0d018966423</edit_uuid>
+<campaign_effect_scopes record_uuid="{003d9d36-c8f9-4605-a970-560d11998f28}" record_timestamp="1426093181954" record_key="agent_to_agent_action_assist_army">
+<key>agent_to_agent_action_assist_army</key>
+<localised_text state="APPROVED" last_approved_text="\nTarget: Own army" last_edit_user="bob">\nTarget: Own army</localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{87986e9b-dfa9-4469-8f51-8b91058be841}" record_timestamp="1459332949782" record_key="agent_to_agent_action_assist_army_general">
+<key>agent_to_agent_action_assist_army_general</key>
+<localised_text state="APPROVED" last_approved_text="\nTarget: Own army" last_edit_user="bob">\nTarget: Own army</localised_text>
+<location>forcewide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{4282df3e-4c8b-4033-874a-47cbe54f220b}" record_timestamp="1426093181149" record_key="agent_to_agent_action_assist_province">
+<key>agent_to_agent_action_assist_province</key>
+<localised_text state="APPROVED" last_approved_text="\nDeploy: Own province" last_edit_user="bob">\nDeploy: Own province</localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{fe1710a7-8d3e-484f-82a6-667610409596}" record_timestamp="1426093183332" record_key="agent_to_agent_action_hinder_agent">
+<key>agent_to_agent_action_hinder_agent</key>
+<localised_text state="APPROVED" last_approved_text="\nTarget: Foreign agent" last_edit_user="bob">\nTarget: Foreign agent</localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{05730cae-f98c-4b7d-a339-38045d6d1eff}" record_timestamp="1426093182801" record_key="agent_to_agent_action_hinder_army">
+<key>agent_to_agent_action_hinder_army</key>
+<localised_text state="APPROVED" last_approved_text="\nTarget: Foreign army" last_edit_user="bob">\nTarget: Foreign army</localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{4e6a1cd2-6419-4de3-a30d-fea0bc4ec8f4}" record_timestamp="1426093181460" record_key="agent_to_agent_action_hinder_character">
+<key>agent_to_agent_action_hinder_character</key>
+<localised_text state="APPROVED" last_approved_text="\nTarget: Any foreign character" last_edit_user="bob">\nTarget: Any foreign character</localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{f5b66db8-c051-4eea-b083-7b5120e3f655}" record_timestamp="1426093181754" record_key="agent_to_agent_action_hinder_province">
+<key>agent_to_agent_action_hinder_province</key>
+<localised_text state="APPROVED" last_approved_text="\nDeploy: Foreign province" last_edit_user="bob">\nDeploy: Foreign province</localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{0365db86-210d-446f-aab5-97de75d8b9a6}" record_timestamp="1426093182214" record_key="agent_to_agent_action_hinder_settlement">
+<key>agent_to_agent_action_hinder_settlement</key>
+<localised_text state="APPROVED" last_approved_text="\nTarget: Foreign settlement" last_edit_user="bob">\nTarget: Foreign settlement</localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{9f291cd4-c701-4a18-8735-17f7e0840920}" record_timestamp="1426093183063" record_key="agent_to_agent_action_own">
+<key>agent_to_agent_action_own</key>
+<localised_text></localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{57a4c617-d03a-47c7-8136-49471935ca12}" record_timestamp="1426093183914" record_key="agent_to_agent_action_passive">
+<key>agent_to_agent_action_passive</key>
+<localised_text state="APPROVED" last_approved_text="\nConstant local effect" last_edit_user="bob">\nConstant local effect</localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{2cd499d2-7b3c-4fde-9d00-18c1757c95d8}" record_timestamp="1457536314828" record_key="agent_to_parent_army_general_own">
+<key>agent_to_parent_army_general_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(accompanying [[img:icon_general]][[/img]]Lord)" last_edit_user="bob">\n(accompanying [[img:icon_general]][[/img]]Lord)</localised_text>
+<location>forcewide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character_when_commanding_army</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{cc092e35-b21c-4a8c-b3ed-3018397457b0}" record_timestamp="1457536314831" record_key="agent_to_parent_army_own">
+<key>agent_to_parent_army_own</key>
+<localised_text state="APPROVED" last_approved_text="\n([[img:icon_hero]][[/img]]Hero's army)" last_edit_user="bob">\n([[img:icon_hero]][[/img]]Hero's army)</localised_text>
+<location>forcewide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{e9b575aa-1aae-4e47-9b26-96265701605e}" record_timestamp="1474293408294" record_key="army_to_army_own">
+<key>army_to_army_own</key>
+<localised_text state="APPROVED" last_approved_text="\n([[img:icon_general]][[/img]]Lord's army)" last_edit_user="bob">\n([[img:icon_general]][[/img]]Lord's army)</localised_text>
+<location>forcewide</location>
+<ownership>yours</ownership>
+<source>army</source>
+<target>army</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{92d47239-a768-4831-aa32-3419e7ad2fa4}" record_timestamp="1474293408281" record_key="army_to_army_own_unseen">
+<key>army_to_army_own_unseen</key>
+<localised_text></localised_text>
+<location>forcewide</location>
+<ownership>yours</ownership>
+<source>army</source>
+<target>army</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{12dce3c3-c4d9-4d0f-a4c3-9be1ac140595}" record_timestamp="1426093182187" record_key="building_to_building_own">
+<key>building_to_building_own</key>
+<localised_text></localised_text>
+<location>buildingwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>building</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{9ca61725-1c5a-4e62-9bcb-aaa22659481e}" record_timestamp="1481904207689" record_key="building_to_faction_own">
+<key>building_to_faction_own</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>building</source>
+<target>faction</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{22f14151-147d-43dc-9d75-34d70791b407}" record_timestamp="1462899332813" record_key="building_to_force_own_factionwide">
+<key>building_to_force_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(factionwide)" last_edit_user="bob">\n(factionwide)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>building</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{0e0155d7-49c2-4741-8774-3323c528c2b1}" record_timestamp="1474283904697" record_key="building_to_force_own_in_adjacent_province_unseen">
+<key>building_to_force_own_in_adjacent_province_unseen</key>
+<localised_text></localised_text>
+<location>neighbour_faction_province</location>
+<ownership>yours</ownership>
+<source>building</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{6974254a-9761-4625-99f2-4d0bfec25540}" record_timestamp="1474283904356" record_key="building_to_force_own_provincewide_unseen">
+<key>building_to_force_own_provincewide_unseen</key>
+<localised_text></localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>building</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{d9922f28-4702-40d9-bd2e-3531dca89e1a}" record_timestamp="1481904207688" record_key="building_to_forces_own_regionwide">
+<key>building_to_forces_own_regionwide</key>
+<localised_text></localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>building</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{17e264ce-c284-4b31-8e04-535853f1138c}" record_timestamp="1426093183298" record_key="building_to_sea_region_own">
+<key>building_to_sea_region_own</key>
+<localised_text></localised_text>
+<location>sea_regionwide</location>
+<ownership>yours</ownership>
+<source>building</source>
+<target>sea_region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{eae9a45c-4a6f-40ef-8798-bf939e3cefe5}" record_timestamp="1426093183195" record_key="building_to_sea_region_own_provincewide">
+<key>building_to_sea_region_own_provincewide</key>
+<localised_text></localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>building</source>
+<target>sea_region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{a6a957cb-835f-4c11-81f0-22fcb0b90333}" record_timestamp="1479317181890" record_key="character_to_adjacent_region_any">
+<key>character_to_adjacent_region_any</key>
+<localised_text state="APPROVED" last_approved_text="\n(adjacent regions)" last_edit_user="bob">\n(adjacent regions)</localised_text>
+<location>neighbour_region</location>
+<ownership>any</ownership>
+<source>character</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{0a829d7a-25f9-47ea-a295-a4887165b8b8}" record_timestamp="1426093181395" record_key="character_to_character_own">
+<key>character_to_character_own</key>
+<localised_text></localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{570ee6d1-5b1a-4903-971c-f4a90e049eb4}" record_timestamp="1459937680246" record_key="character_to_character_own_armytext">
+<key>character_to_character_own_armytext</key>
+<localised_text state="APPROVED" last_approved_text="\n([[img:icon_general]][[/img]]Lord's army)" last_edit_user="bob">\n([[img:icon_general]][[/img]]Lord's army)</localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{2dffd0bf-ee01-4441-a8ed-e38fac977779}" record_timestamp="1457536314839" record_key="character_to_character_own_banner">
+<key>character_to_character_own_banner</key>
+<localised_text state="APPROVED" last_approved_text="\n(assigned unit)" last_edit_user="bob">\n(assigned unit)</localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{4efd0fee-d469-444e-8523-c81966a849b5}" record_timestamp="1459933463717" record_key="character_to_character_own_banner_black_orcs">
+<key>character_to_character_own_banner_black_orcs</key>
+<localised_text state="APPROVED" last_approved_text="\n(assigned Black Orcs unit)" last_edit_user="bob">\n(assigned Black Orcs unit)</localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{b9a61694-6ae2-45d2-8cbe-7edf65830ea6}" record_timestamp="1474293409435" record_key="character_to_character_own_banner_goblins">
+<key>character_to_character_own_banner_goblins</key>
+<localised_text state="APPROVED" last_approved_text="\n(assigned Goblin unit)" last_edit_user="bob">\n(assigned Goblin unit)</localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{a624503d-5da7-4fa6-8d3a-2dc921f7e1c5}" record_timestamp="1426093181374" record_key="character_to_character_own_category_region">
+<key>character_to_character_own_category_region</key>
+<localised_text></localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{8cbc49a8-b99e-41f4-b76b-1440aa7aff54}" record_timestamp="1426093181828" record_key="character_to_character_own_faction_leader">
+<key>character_to_character_own_faction_leader</key>
+<localised_text></localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{1506aae9-82b9-4557-80e5-040080495817}" record_timestamp="1461152307056" record_key="character_to_character_own_factionwide">
+<key>character_to_character_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all [[img:icon_hero]][[/img]]Heroes)" last_edit_user="bob">\n(all [[img:icon_hero]][[/img]]Heroes)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{342731bd-d2d5-4b38-99e9-41399961cbaa}" record_timestamp="1457536314849" record_key="character_to_character_own_provincetext">
+<key>character_to_character_own_provincetext</key>
+<localised_text state="APPROVED" last_approved_text="\n(local province)" last_edit_user="bob">\n(local province)</localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{828e0bb3-d2cd-4e79-9750-d4764d2206be}" record_timestamp="1457536314855" record_key="character_to_character_own_regionwide_enemy">
+<key>character_to_character_own_regionwide_enemy</key>
+<localised_text state="APPROVED" last_approved_text="\n(characters in local enemy region)" last_edit_user="bob">\n(characters in local enemy region)</localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>enemy</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{8f58fafd-c102-42b5-b2a0-fa636ed9e75f}" record_timestamp="1426093183763" record_key="character_to_character_own_wife">
+<key>character_to_character_own_wife</key>
+<localised_text></localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{51f2a423-8809-4297-aace-28e6b8ec10bf}" record_timestamp="1457536314862" record_key="character_to_character_provincewide">
+<key>character_to_character_provincewide</key>
+<localised_text state="APPROVED" last_approved_text="\n([[img:icon_hero]][[/img]]Heroes in local province)" last_edit_user="bob">\n([[img:icon_hero]][[/img]]Heroes in local province)</localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{42b499d6-29a8-4878-a034-06411f7f0e5a}" record_timestamp="1457536314870" record_key="character_to_character_regionwide">
+<key>character_to_character_regionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n([[img:icon_hero]][[/img]]Heroes in local region)" last_edit_user="bob">\n([[img:icon_hero]][[/img]]Heroes in local region)</localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{76b294cd-f208-4e40-bc4c-1d179a4b9f3b}" record_timestamp="1457536314878" record_key="character_to_character_regionwide_local_region">
+<key>character_to_character_regionwide_local_region</key>
+<localised_text state="APPROVED" last_approved_text="\n(local region)" last_edit_user="bob">\n(local region)</localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{b0953235-49cd-4d45-b073-3bcd5c7c8670}" record_timestamp="1457536314887" record_key="character_to_enemy_province">
+<key>character_to_enemy_province</key>
+<localised_text state="APPROVED" last_approved_text="\n(local enemy province)" last_edit_user="bob">\n(local enemy province)</localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>province</target>
+<territory>enemy</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{5b604b10-40c6-4700-98e6-e6fb73b2a702}" record_timestamp="1457536314896" record_key="character_to_faction">
+<key>character_to_faction</key>
+<localised_text state="APPROVED" last_approved_text="\n(factionwide)" last_edit_user="bob">\n(factionwide)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>faction</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{8bbb8ada-844e-4f5d-a96a-3074c9c08200}" record_timestamp="1426093182708" record_key="character_to_faction_unseen">
+<key>character_to_faction_unseen</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>faction</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{35cf2b9e-4d2b-4a08-a3b6-efede035aab8}" record_timestamp="1481028473287" record_key="character_to_force_enemy_provincewide">
+<key>character_to_force_enemy_provincewide</key>
+<localised_text state="APPROVED" last_approved_text="\n(local enemy armies)" last_edit_user="bob">\n(local enemy armies)</localised_text>
+<location>provincewide</location>
+<ownership>enemy</ownership>
+<source>character</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{f7ff49b5-8a4e-4b50-8fca-02d49df98932}" record_timestamp="1470057684580" record_key="character_to_force_own_factionwide">
+<key>character_to_force_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all forces factionwide)" last_edit_user="bob">\n(all forces factionwide)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{797f0cf0-54f4-4d71-a0c2-e4445e68de16}" record_timestamp="1457536314905" record_key="character_to_force_own_provincewide">
+<key>character_to_force_own_provincewide</key>
+<localised_text state="APPROVED" last_approved_text="\n(local armies)" last_edit_user="bob">\n(local armies)</localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{9fa7edf1-0a79-4f69-8ff4-3472cd6dc350}" record_timestamp="1459940616146" record_key="character_to_force_own_unseen">
+<key>character_to_force_own_unseen</key>
+<localised_text></localised_text>
+<location>forcewide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{ab383995-a98d-47cb-bc61-00292a43dc17}" record_timestamp="1457536314914" record_key="character_to_force_regionwide_enemy">
+<key>character_to_force_regionwide_enemy</key>
+<localised_text state="APPROVED" last_approved_text="\n(forces in local enemy region)" last_edit_user="bob">\n(forces in local enemy region)</localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>force</target>
+<territory>enemy</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{d8c55467-c39f-40f6-b5d2-7c4692c404c9}" record_timestamp="1457536314923" record_key="character_to_force_regionwide_own">
+<key>character_to_force_regionwide_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(forces in local owned region)" last_edit_user="bob">\n(forces in local owned region)</localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>force</target>
+<territory>yours</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{96a50a95-6bec-4a35-9a1e-c1d0c9be9028}" record_timestamp="1477035609853" record_key="character_to_general_own_factionwide">
+<key>character_to_general_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all characters factionwide)" last_edit_user="bob">\n(all characters factionwide)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{f42ecceb-9e5e-4fff-99b9-748e719db5a4}" record_timestamp="1457536314933" record_key="character_to_province_own">
+<key>character_to_province_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(local province)" last_edit_user="bob">\n(local province)</localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{35555376-cbbf-43f8-8a83-64fc7c7bc227}" record_timestamp="1457536314943" record_key="character_to_province_own_factionwide">
+<key>character_to_province_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all provinces)" last_edit_user="bob">\n(all provinces)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{06c8872b-8045-4ae1-83d4-f19056c0193f}" record_timestamp="1457536314952" record_key="character_to_region_enemy">
+<key>character_to_region_enemy</key>
+<localised_text state="APPROVED" last_approved_text="\n(local region)" last_edit_user="bob">\n(local region)</localised_text>
+<location>regionwide</location>
+<ownership>enemy</ownership>
+<source>character</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{2fc65d38-959c-4198-9236-ceb85dbd08e2}" record_timestamp="1457536314962" record_key="character_to_region_enemy_provincewide">
+<key>character_to_region_enemy_provincewide</key>
+<localised_text state="APPROVED" last_approved_text="\n(local province)" last_edit_user="bob">\n(local province)</localised_text>
+<location>provincewide</location>
+<ownership>enemy</ownership>
+<source>character</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{f2fe22f0-f691-4084-a485-810ac19cdae9}" record_timestamp="1457536314972" record_key="character_to_region_own">
+<key>character_to_region_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(local region)" last_edit_user="bob">\n(local region)</localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{451a20a9-cd9c-4981-9275-4151ffd9e038}" record_timestamp="1457536314986" record_key="character_to_region_own_factionwide">
+<key>character_to_region_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all provinces)" last_edit_user="bob">\n(all provinces)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{2046212c-7622-4720-94d3-27237d5445bd}" record_timestamp="1457536314995" record_key="character_to_region_own_provincewide">
+<key>character_to_region_own_provincewide</key>
+<localised_text state="APPROVED" last_approved_text="\n(local province)" last_edit_user="bob">\n(local province)</localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{14f64d5b-9a02-438f-bf95-de68066a3514}" record_timestamp="1457536315005" record_key="character_to_region_own_pseudo_provincewide">
+<key>character_to_region_own_pseudo_provincewide</key>
+<localised_text state="APPROVED" last_approved_text="\n(local province)" last_edit_user="bob">\n(local province)</localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{c80d08d4-f329-4676-b87f-4fcee78b6302}" record_timestamp="1457536315014" record_key="faction_to_army_own">
+<key>faction_to_army_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(all armies)" last_edit_user="bob">\n(all armies)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>army</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{fac630cb-3c0c-4489-b901-e1e1b1020d55}" record_timestamp="1426093183473" record_key="faction_to_army_own_unseen">
+<key>faction_to_army_own_unseen</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>army</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{8cb9a7e2-8ac2-4c16-a8bc-063c6be7189d}" record_timestamp="1457536315023" record_key="faction_to_character_own">
+<key>faction_to_character_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(all characters)" last_edit_user="bob">\n(all characters)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{1f712f8c-2d9a-4549-adef-5203cbb82b17}" record_timestamp="1458064561826" record_key="faction_to_character_own_factionwide">
+<key>faction_to_character_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all characters)" last_edit_user="bob">\n(all characters)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{0a8bfb89-3042-4bc6-a078-2d621c1d9934}" record_timestamp="1463072559915" record_key="faction_to_character_own_factionwide_unseen">
+<key>faction_to_character_own_factionwide_unseen</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{b3d38d79-fd6a-4d8e-bb79-ac38f1b01b33}" record_timestamp="1426093181207" record_key="faction_to_character_own_unseen">
+<key>faction_to_character_own_unseen</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{86e03447-e5dd-4832-b434-f0a67b192cc8}" record_timestamp="1457536315032" record_key="faction_to_faction_own">
+<key>faction_to_faction_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(factionwide)" last_edit_user="bob">\n(factionwide)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>faction</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{638c89e8-d1ad-428e-8687-73c0cf8e4a69}" record_timestamp="1426093184547" record_key="faction_to_faction_own_unseen">
+<key>faction_to_faction_own_unseen</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>faction</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{492f35cc-b9a1-42dd-8193-803acc8e64ef}" record_timestamp="1426093182556" record_key="faction_to_force_enemy">
+<key>faction_to_force_enemy</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>enemy</ownership>
+<source>faction</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{7883225c-4856-47ec-a4fc-2b36416db9af}" record_timestamp="1457536315042" record_key="faction_to_force_own">
+<key>faction_to_force_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(all forces)" last_edit_user="bob">\n(all forces)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{440bc0bd-5629-4486-b9d5-6969aa325af8}" record_timestamp="1458064562019" record_key="faction_to_force_own_factionwide">
+<key>faction_to_force_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all forces)" last_edit_user="bob">\n(all forces)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{484049e9-0b7e-4dff-975a-a96b65839af5}" record_timestamp="1426093181194" record_key="faction_to_force_own_unseen">
+<key>faction_to_force_own_unseen</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{904e542b-aed8-4eea-87c9-8e59d76c7893}" record_timestamp="1426093184148" record_key="faction_to_general_own">
+<key>faction_to_general_own</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{0494da6e-db1c-4bfa-bbc4-de6490f5e67d}" record_timestamp="1457536315052" record_key="faction_to_navy_own">
+<key>faction_to_navy_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(all navies)" last_edit_user="bob">\n(all navies)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>navy</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{e14f8594-642f-4935-9b8e-24f736bf53e4}" record_timestamp="1426093182867" record_key="faction_to_navy_own_unseen">
+<key>faction_to_navy_own_unseen</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>navy</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{c2d0c525-16c6-461b-94fd-2b5eb2ab0e64}" record_timestamp="1457536315064" record_key="faction_to_province_own">
+<key>faction_to_province_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(all provinces)" last_edit_user="bob">\n(all provinces)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{8441f9cb-e084-482c-a3e7-2055bc46dbab}" record_timestamp="1481887462048" record_key="faction_to_province_own_factionwide">
+<key>faction_to_province_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(factionwide)" last_edit_user="bob">\n(factionwide)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{23c47c1d-7c2a-4ec6-a438-4ccefc5417c8}" record_timestamp="1426093181438" record_key="faction_to_province_own_unseen">
+<key>faction_to_province_own_unseen</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{ec412e2f-0422-4fe0-adee-8b8d3e449d92}" record_timestamp="1457536315074" record_key="faction_to_region_own">
+<key>faction_to_region_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(all regions)" last_edit_user="bob">\n(all regions)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{5571df85-7b77-4c29-9a0b-b0a279729afa}" record_timestamp="1426093182526" record_key="faction_to_region_own_unseen">
+<key>faction_to_region_own_unseen</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{7f97a5f4-bfd3-4f71-b8f8-00fd582e4796}" record_timestamp="1426093184507" record_key="faction_to_sea_region_own">
+<key>faction_to_sea_region_own</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>sea_region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{8e042bb0-07c6-4e64-91c7-ae57d6aae729}" record_timestamp="1426093184187" record_key="force_building_to_faction_own">
+<key>force_building_to_faction_own</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>force_building</source>
+<target>faction</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{6a11d6bf-d87a-47a6-86e7-98db37c4a5f3}" record_timestamp="1459940123681" record_key="force_to_character_own_provincetext">
+<key>force_to_character_own_provincetext</key>
+<localised_text state="APPROVED" last_approved_text="\n(local province)" last_edit_user="bob">\n(local province)</localised_text>
+<location>forcewide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{70b4c015-c2b1-4f88-8d01-c34386dd29e5}" record_timestamp="1457536315083" record_key="force_to_enemy_force_regionwide">
+<key>force_to_enemy_force_regionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(local region)" last_edit_user="bob">\n(local region)</localised_text>
+<location>regionwide</location>
+<ownership>enemy</ownership>
+<source>force</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{1431f443-a8ff-48b3-ad2f-016f1004ab64}" record_timestamp="1487072958386" record_key="force_to_faction_own_factionwide">
+<key>force_to_faction_own_factionwide</key>
+<localised_text state="NOT_APPROVED" last_approved_text="" last_edit_user="bob"> </localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>faction</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{98373251-bee2-4db7-bdff-2dc9e2f9d2e1}" record_timestamp="1477035612530" record_key="force_to_faction_own_factionwide_text">
+<key>force_to_faction_own_factionwide_text</key>
+<localised_text state="APPROVED" last_approved_text="\n(factionwide)" last_edit_user="bob">\n(factionwide)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>faction</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{5e92fb27-648e-473c-94dd-acc62593e77d}" record_timestamp="1426093181481" record_key="force_to_force_building">
+<key>force_to_force_building</key>
+<localised_text></localised_text>
+<location>force_buildingwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>force_building</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{3921436c-db17-4373-a899-d0ab519b187e}" record_timestamp="1457536315093" record_key="force_to_force_enemy_provincewide">
+<key>force_to_force_enemy_provincewide</key>
+<localised_text state="APPROVED" last_approved_text="\n(local province)" last_edit_user="bob">\n(local province)</localised_text>
+<location>provincewide</location>
+<ownership>enemy</ownership>
+<source>force</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{173891ec-caf0-4905-9e74-56f29ce91189}" record_timestamp="1426093183726" record_key="force_to_force_own">
+<key>force_to_force_own</key>
+<localised_text></localised_text>
+<location>forcewide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{744ac9c8-6e66-4957-8daf-ae05344849bb}" record_timestamp="1457536315103" record_key="force_to_force_own_factionwide">
+<key>force_to_force_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all forces)" last_edit_user="bob">\n(all forces)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{74c74927-dfcc-46f0-9fb9-2afd570a68c4}" record_timestamp="1487171648219" record_key="force_to_general_own">
+<key>force_to_general_own</key>
+<localised_text></localised_text>
+<location>forcewide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>character_when_commanding</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{d508336f-3573-49c9-bac1-dbb466b11826}" record_timestamp="1426093183579" record_key="force_to_general_own_forcewide">
+<key>force_to_general_own_forcewide</key>
+<localised_text></localised_text>
+<location>forcewide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{7c88ca73-f73c-40c5-9637-b1cadc47ed25}" record_timestamp="1426093181590" record_key="force_to_province_any">
+<key>force_to_province_any</key>
+<localised_text></localised_text>
+<location>provincewide</location>
+<ownership>any</ownership>
+<source>force</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{cf84f8aa-b3e4-4e58-99de-e5a32b110ad7}" record_timestamp="1457536315133" record_key="force_to_province_enemy">
+<key>force_to_province_enemy</key>
+<localised_text state="APPROVED" last_approved_text="\n(enemy province)" last_edit_user="bob">\n(enemy province)</localised_text>
+<location>provincewide</location>
+<ownership>enemy</ownership>
+<source>force</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{b78f3df8-7b34-4cd0-9f35-90e16747a5d5}" record_timestamp="1426093182646" record_key="force_to_province_enemy_factionwide">
+<key>force_to_province_enemy_factionwide</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>enemy</ownership>
+<source>force</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{c47d99be-09a3-4a61-aebc-0798c860e0de}" record_timestamp="1457536315143" record_key="force_to_province_own">
+<key>force_to_province_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(local province)" last_edit_user="bob">\n(local province)</localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{6eeee1bf-359f-4241-8ba5-68a8ba982301}" record_timestamp="1457536315153" record_key="force_to_province_own_raiding">
+<key>force_to_province_own_raiding</key>
+<localised_text state="APPROVED" last_approved_text="\n(when raiding own province)" last_edit_user="bob">\n(when raiding own province)</localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>province</target>
+<territory>yours</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{c3daa42a-5da8-4d88-a9d3-119ced256fb7}" record_timestamp="1457536315165" record_key="force_to_region_any">
+<key>force_to_region_any</key>
+<localised_text state="APPROVED" last_approved_text="\n(local region)" last_edit_user="bob">\n(local region)</localised_text>
+<location>regionwide</location>
+<ownership>any</ownership>
+<source>force</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{aefcb7df-c6f8-45df-bccb-e2d31741d7fa}" record_timestamp="1457536315176" record_key="force_to_region_any_provincewide">
+<key>force_to_region_any_provincewide</key>
+<localised_text state="APPROVED" last_approved_text="\n(local province)" last_edit_user="bob">\n(local province)</localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{4f44bbcd-55aa-480b-84e6-50bc978ec0ae}" record_timestamp="1457536315186" record_key="force_to_region_enemy">
+<key>force_to_region_enemy</key>
+<localised_text state="APPROVED" last_approved_text="\n(enemy settlement)" last_edit_user="bob">\n(enemy settlement)</localised_text>
+<location>regionwide</location>
+<ownership>enemy</ownership>
+<source>force</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{669d6a1a-3d18-40bf-ab7b-433596d5930c}" record_timestamp="1426093184070" record_key="force_to_region_enemy_factionwide">
+<key>force_to_region_enemy_factionwide</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>enemy</ownership>
+<source>force</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{1df96490-a139-43bd-8630-79ef75149e72}" record_timestamp="1474295244533" record_key="force_to_region_own">
+<key>force_to_region_own</key>
+<localised_text></localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{46732453-20bc-4cee-a235-15bd5c1ca1fc}" record_timestamp="1457536315197" record_key="force_to_region_own_raiding">
+<key>force_to_region_own_raiding</key>
+<localised_text state="APPROVED" last_approved_text="\n(when raiding own region)" last_edit_user="bob">\n(when raiding own region)</localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>region</target>
+<territory>yours</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{34d8e17e-86f3-414a-9057-d0c14018a1a9}" record_timestamp="1457536315208" record_key="force_to_sea_region_own">
+<key>force_to_sea_region_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(local sea region)" last_edit_user="bob">\n(local sea region)</localised_text>
+<location>sea_regionwide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>sea_region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{90366903-eadb-4f1b-aace-de37d6feb645}" record_timestamp="1428932017542" record_key="general_to_character_own">
+<key>general_to_character_own</key>
+<localised_text></localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{a155d367-860c-4f87-a7d5-1aab53030b1c}" record_timestamp="1457536315219" record_key="general_to_character_when_commanding_navy_own">
+<key>general_to_character_when_commanding_navy_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(when admiral)" last_edit_user="bob">\n(when admiral)</localised_text>
+<location>character</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>character_when_commanding_navy</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{f47debc9-0512-4525-a3cc-250a88272f5e}" record_timestamp="1457536315231" record_key="general_to_force_enemy_regionwide">
+<key>general_to_force_enemy_regionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(local region)" last_edit_user="bob">\n(local region)</localised_text>
+<location>regionwide</location>
+<ownership>enemy</ownership>
+<source>character</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{aa0c4443-a918-4c37-b4c9-6bbee4d2d579}" record_timestamp="1457536315242" record_key="general_to_force_own">
+<key>general_to_force_own</key>
+<localised_text state="APPROVED" last_approved_text="\n([[img:icon_general]][[/img]]Lord's army)" last_edit_user="bob">\n([[img:icon_general]][[/img]]Lord's army)</localised_text>
+<location>forcewide_when_commanding</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{f070c898-ee13-41a2-9c71-891edd9c492c}" record_timestamp="1426093182030" record_key="general_to_force_own_unseen">
+<key>general_to_force_own_unseen</key>
+<localised_text></localised_text>
+<location>forcewide_when_commanding</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{cb36497a-7a10-43e2-a7dc-e5c3e6fbecc4}" record_timestamp="1457536315293" record_key="general_to_navy_own">
+<key>general_to_navy_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(commanded navy)" last_edit_user="bob">\n(commanded navy)</localised_text>
+<location>forcewide_when_commanding</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>navy</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{f70fde3e-9cb9-48c6-ba2b-7bc9fc539173}" record_timestamp="1457536315305" record_key="general_to_province_own_when_governor">
+<key>general_to_province_own_when_governor</key>
+<localised_text state="APPROVED" last_approved_text="\n([[img:icon_overseer]][[/img]]Overseer's province)" last_edit_user="bob">\n([[img:icon_overseer]][[/img]]Overseer's province)</localised_text>
+<location>provincewide_when_governor</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{88da13de-2a93-48be-8920-40d5d9b8b415}" record_timestamp="1457536315316" record_key="general_to_region_own_provincewide_when_governor">
+<key>general_to_region_own_provincewide_when_governor</key>
+<localised_text state="APPROVED" last_approved_text="\n([[img:icon_overseer]][[/img]]Overseer's province)" last_edit_user="bob">\n([[img:icon_overseer]][[/img]]Overseer's province)</localised_text>
+<location>provincewide_when_governor</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{8843ecdc-8c8e-4aef-8afe-1d76162b410a}" record_timestamp="1457536315329" record_key="general_to_sea_region_own">
+<key>general_to_sea_region_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(local sea region)" last_edit_user="bob">\n(local sea region)</localised_text>
+<location>sea_regionwide</location>
+<ownership>yours</ownership>
+<source>character</source>
+<target>sea_region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{f083dded-87a4-40dd-b242-9aac581b2871}" record_timestamp="1477035612542" record_key="grombrindal_faction_to_force">
+<key>grombrindal_faction_to_force</key>
+<localised_text state="APPROVED" last_approved_text="\n(Grombrindal's force)" last_edit_user="bob">\n(Grombrindal's force)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{743927cf-7a72-4963-9418-a0dd89d9e0ef}" record_timestamp="1477035612540" record_key="grombrindal_faction_to_province">
+<key>grombrindal_faction_to_province</key>
+<localised_text state="APPROVED" last_approved_text="\n(Grombrindal's province)" last_edit_user="bob">\n(Grombrindal's province)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{3194f135-79f4-4e9a-8b71-9d2a780ed5ae}" record_timestamp="1477035612540" record_key="grombrindal_faction_to_region">
+<key>grombrindal_faction_to_region</key>
+<localised_text state="APPROVED" last_approved_text="\n(Grombrindal's region)" last_edit_user="bob">\n(Grombrindal's region)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{c0cb79f7-99a6-48ec-95b5-f5c6b3bc2314}" record_timestamp="1477035612565" record_key="grombrindal_force_to_faction">
+<key>grombrindal_force_to_faction</key>
+<localised_text state="APPROVED" last_approved_text="\n(factionwide)" last_edit_user="bob">\n(factionwide)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>faction</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{e04170b4-0306-4df6-9731-9a01c39b7671}" record_timestamp="1477035612541" record_key="grombrindal_force_to_force">
+<key>grombrindal_force_to_force</key>
+<localised_text state="APPROVED" last_approved_text="\n(Grombrindal's force)" last_edit_user="bob">\n(Grombrindal's force)</localised_text>
+<location>forcewide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{f703e6dc-911e-4979-967f-c5ea43b11e37}" record_timestamp="1477035612728" record_key="grombrindal_force_to_force_enemy_provincewide">
+<key>grombrindal_force_to_force_enemy_provincewide</key>
+<localised_text state="APPROVED" last_approved_text="\n(Grombrindal's province)" last_edit_user="bob">\n(Grombrindal's province)</localised_text>
+<location>provincewide</location>
+<ownership>enemy</ownership>
+<source>force</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{007fea83-08a3-441d-9bee-3d9580ada133}" record_timestamp="1477035613384" record_key="grombrindal_force_to_province">
+<key>grombrindal_force_to_province</key>
+<localised_text state="APPROVED" last_approved_text="\n(Grombrindal's province)" last_edit_user="bob">\n(Grombrindal's province)</localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{22a25d94-4550-4bdd-ac12-768f548418c7}" record_timestamp="1477035613384" record_key="grombrindal_force_to_region">
+<key>grombrindal_force_to_region</key>
+<localised_text state="APPROVED" last_approved_text="\n(Grombrindal's region)" last_edit_user="bob">\n(Grombrindal's region)</localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>force</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{2b46c63d-0d2e-4102-8524-dbd2084b2e68}" record_timestamp="1426093184227" record_key="navy_to_navy_own">
+<key>navy_to_navy_own</key>
+<localised_text></localised_text>
+<location>forcewide</location>
+<ownership>yours</ownership>
+<source>navy</source>
+<target>navy</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{66809876-642e-41ce-b886-827ba98acd77}" record_timestamp="1457536315347" record_key="navy_to_sea_region_own">
+<key>navy_to_sea_region_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(local sea region)" last_edit_user="bob">\n(local sea region)</localised_text>
+<location>sea_regionwide</location>
+<ownership>yours</ownership>
+<source>navy</source>
+<target>sea_region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{3a804c2e-bdd9-4eef-8f41-ed1fe9712c94}" record_timestamp="1457536315368" record_key="province_to_army_factionwide">
+<key>province_to_army_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all armies)" last_edit_user="bob">\n(all armies)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>army</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{047457be-a644-4580-81b4-e4e0b47daa08}" record_timestamp="1426093182739" record_key="province_to_army_own">
+<key>province_to_army_own</key>
+<localised_text></localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>army</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{5cfd61cf-6032-4af1-bd40-dc08aa5c7c3e}" record_timestamp="1457536315381" record_key="province_to_character_enemy">
+<key>province_to_character_enemy</key>
+<localised_text state="APPROVED" last_approved_text="\n(local characters)" last_edit_user="bob">\n(local characters)</localised_text>
+<location>provincewide</location>
+<ownership>enemy</ownership>
+<source>province</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{5d080b1b-790e-4b79-9b10-bd901df103db}" record_timestamp="1474283904365" record_key="province_to_character_in_adjacent_province_when_commanding_army_own_unseen">
+<key>province_to_character_in_adjacent_province_when_commanding_army_own_unseen</key>
+<localised_text></localised_text>
+<location>neighbour_faction_province</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>character_when_commanding_army</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{0c897468-fb45-45a7-8bb0-36922b1832e4}" record_timestamp="1426093182409" record_key="province_to_character_own">
+<key>province_to_character_own</key>
+<localised_text></localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{1b353584-b524-47b0-84e1-f9d30317dd05}" record_timestamp="1474283904357" record_key="province_to_character_own_text">
+<key>province_to_character_own_text</key>
+<localised_text state="APPROVED" last_approved_text="\n(local province)" last_edit_user="bob">\n(local province)</localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{51c78c4a-9111-42e9-bce1-d252ffef7b01}" record_timestamp="1474283904548" record_key="province_to_character_when_commanding_army_own">
+<key>province_to_character_when_commanding_army_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(all forces in this province)" last_edit_user="bob">\n(all forces in this province)</localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>character_when_commanding_army</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{2cf6f60f-b402-4221-85ad-c41651cff40a}" record_timestamp="1457536315393" record_key="province_to_character_when_commanding_army_own_factionwide">
+<key>province_to_character_when_commanding_army_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all armies)" last_edit_user="bob">\n(all armies)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>character_when_commanding_army</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{fffbc91a-5a74-43c1-be2c-1cb369947f52}" record_timestamp="1474283904366" record_key="province_to_character_when_commanding_army_own_unseen">
+<key>province_to_character_when_commanding_army_own_unseen</key>
+<localised_text></localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>character_when_commanding_army</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{3d64025d-aeac-4849-b0d5-fd4be3611165}" record_timestamp="1457536315417" record_key="province_to_character_when_commanding_navy_own_factionwide">
+<key>province_to_character_when_commanding_navy_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all fleets)" last_edit_user="bob">\n(all fleets)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>character_when_commanding_navy</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{3bf5cc92-b7e0-4ecf-aa4d-ffa78738db7c}" record_timestamp="1457536315430" record_key="province_to_character_when_commanding_own_factionwide">
+<key>province_to_character_when_commanding_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all armies)" last_edit_user="bob">\n(all armies)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>character_when_commanding</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{ba04423a-ee22-40f5-ba46-13ba89ac7746}" record_timestamp="1457536315443" record_key="province_to_faction">
+<key>province_to_faction</key>
+<localised_text state="APPROVED" last_approved_text="\n(factionwide)" last_edit_user="bob">\n(factionwide)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>faction</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{9a5540f9-42d2-4fe0-884e-251c6c056050}" record_timestamp="1459933502921" record_key="province_to_faction_unseen">
+<key>province_to_faction_unseen</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>faction</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{7ce43664-dc51-4619-ae52-baa620e742f5}" record_timestamp="1457536315456" record_key="province_to_force_any_provincewide">
+<key>province_to_force_any_provincewide</key>
+<localised_text state="APPROVED" last_approved_text="\n(local armies)" last_edit_user="bob">\n(local armies)</localised_text>
+<location>provincewide</location>
+<ownership>any</ownership>
+<source>province</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{46c3d7b7-0f89-4ad9-9090-2e36ff2ae32b}" record_timestamp="1457536315471" record_key="province_to_force_enemy_provincewide">
+<key>province_to_force_enemy_provincewide</key>
+<localised_text state="APPROVED" last_approved_text="\n(local enemy armies)" last_edit_user="bob">\n(local enemy armies)</localised_text>
+<location>provincewide</location>
+<ownership>enemy</ownership>
+<source>province</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{7f84ab20-4ec5-4f64-a07f-4788bfb4a0f0}" record_timestamp="1457536315484" record_key="province_to_force_own_factionwide">
+<key>province_to_force_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all armies)" last_edit_user="bob">\n(all armies)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{857c5ac5-f54c-467b-b167-2a6f17c55932}" record_timestamp="1457536315496" record_key="province_to_force_own_provincewide">
+<key>province_to_force_own_provincewide</key>
+<localised_text state="APPROVED" last_approved_text="\n(local armies)" last_edit_user="bob">\n(local armies)</localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{f16d6dbd-c820-4c4f-a4a2-49ca7567d800}" record_timestamp="1457536315509" record_key="province_to_navy_factionwide">
+<key>province_to_navy_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all fleets)" last_edit_user="bob">\n(all fleets)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>navy</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{2b4d6218-952e-4499-bae1-d7de7ddb0495}" record_timestamp="1483637664098" record_key="province_to_province_adjacent">
+<key>province_to_province_adjacent</key>
+<localised_text state="APPROVED" last_approved_text="\n(all adjacent provinces)" last_edit_user="bob">\n(all adjacent provinces)</localised_text>
+<location>neighbour_faction_province</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{74c1263f-fc44-4294-ba39-3e2b149153dc}" record_timestamp="1444929334559" record_key="province_to_province_adjacent_unseen">
+<key>province_to_province_adjacent_unseen</key>
+<localised_text></localised_text>
+<location>neighbour_faction_province</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{2df0e84d-cbe7-46f7-80b3-565b59d0c31a}" record_timestamp="1426093181852" record_key="province_to_province_own">
+<key>province_to_province_own</key>
+<localised_text></localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{8bcea2ab-079a-48db-ba20-71daed5a9b09}" record_timestamp="1457536315544" record_key="province_to_province_own_factionwide">
+<key>province_to_province_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(factionwide)" last_edit_user="bob">\n(factionwide)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{45e8963b-4544-4fe7-bab8-a88251d097e3}" record_timestamp="1457536315557" record_key="province_to_region_own">
+<key>province_to_region_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(all regions in this province)" last_edit_user="bob">\n(all regions in this province)</localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{11c9ab28-9bfa-4d9f-aecf-2536880e4b53}" record_timestamp="1457536315571" record_key="province_to_region_own_factionwide">
+<key>province_to_region_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(factionwide)" last_edit_user="bob">\n(factionwide)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{7c05795a-e663-4e2b-a624-0529ef0a933c}" record_timestamp="1438190789360" record_key="province_to_region_own_unseen">
+<key>province_to_region_own_unseen</key>
+<localised_text></localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{0e4db0e0-0f03-4c09-a805-f8f61b0db540}" record_timestamp="1457536315588" record_key="province_to_regions_own_in_adjacent_province">
+<key>province_to_regions_own_in_adjacent_province</key>
+<localised_text state="APPROVED" last_approved_text="\n(all regions in adjacent provinces)" last_edit_user="bob">\n(all regions in adjacent provinces)</localised_text>
+<location>neighbour_faction_province</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{7d40d77f-e30e-43fd-a67b-4ca150a92014}" record_timestamp="1426093183689" record_key="province_to_sea_region_own">
+<key>province_to_sea_region_own</key>
+<localised_text></localised_text>
+<location>sea_regionwide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>sea_region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{f0ef87eb-e076-48a1-be48-cd74a56cd6a7}" record_timestamp="1457536315601" record_key="province_to_sea_region_own_factionwide">
+<key>province_to_sea_region_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(factionwide)" last_edit_user="bob">\n(factionwide)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>province</source>
+<target>sea_region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{e447b6dc-a10b-4a71-b831-87cfc17aac8d}" record_timestamp="1426093181273" record_key="region_to_character_any">
+<key>region_to_character_any</key>
+<localised_text></localised_text>
+<location>regionwide</location>
+<ownership>any</ownership>
+<source>region</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{754660da-625e-444c-90d8-fb7c1cdb01ed}" record_timestamp="1426093181777" record_key="region_to_character_enemy">
+<key>region_to_character_enemy</key>
+<localised_text></localised_text>
+<location>regionwide</location>
+<ownership>enemy</ownership>
+<source>faction</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{13a6988f-bc75-4bfc-a237-0672736c0824}" record_timestamp="1426093182352" record_key="region_to_character_own">
+<key>region_to_character_own</key>
+<localised_text></localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>region</source>
+<target>character</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{26f9d620-bdca-4121-b164-904df9d42f18}" record_timestamp="1457536315615" record_key="region_to_force_any">
+<key>region_to_force_any</key>
+<localised_text state="APPROVED" last_approved_text="\n(local armies)" last_edit_user="bob">\n(local armies)</localised_text>
+<location>regionwide</location>
+<ownership>any</ownership>
+<source>region</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{100b68e7-97f2-44e1-865c-cdfe84d1cc8b}" record_timestamp="1457536315628" record_key="region_to_force_enemy">
+<key>region_to_force_enemy</key>
+<localised_text state="APPROVED" last_approved_text="\n(local enemy armies)" last_edit_user="bob">\n(local enemy armies)</localised_text>
+<location>regionwide</location>
+<ownership>enemy</ownership>
+<source>region</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{a0095b03-e403-4683-bb45-562ef7abc775}" record_timestamp="1457536315645" record_key="region_to_force_own">
+<key>region_to_force_own</key>
+<localised_text state="APPROVED" last_approved_text="\n(local armies)" last_edit_user="bob">\n(local armies)</localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>region</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{a1358aaa-c038-42da-9d76-cb4a781f9f4a}" record_timestamp="1457536315659" record_key="region_to_force_own_in_adjacent_province">
+<key>region_to_force_own_in_adjacent_province</key>
+<localised_text state="APPROVED" last_approved_text="\n(all forces in adjacent provinces)" last_edit_user="bob">\n(all forces in adjacent provinces)</localised_text>
+<location>neighbour_faction_province</location>
+<ownership>yours</ownership>
+<source>region</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{5ab949f6-2294-4fc4-a3e4-3afc59fbac84}" record_timestamp="1457536315673" record_key="region_to_force_own_in_adjacent_regions">
+<key>region_to_force_own_in_adjacent_regions</key>
+<localised_text state="APPROVED" last_approved_text="\n(all forces in adjacent regions)" last_edit_user="bob">\n(all forces in adjacent regions)</localised_text>
+<location>neighbour_region</location>
+<ownership>yours</ownership>
+<source>region</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{7a343a76-9f86-4800-a333-09f52e4c3a6d}" record_timestamp="1426093182585" record_key="region_to_province_own">
+<key>region_to_province_own</key>
+<localised_text></localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>region</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{0cdab2e7-2003-4090-88ae-08f5f1cb7f32}" record_timestamp="1457536315723" record_key="region_to_province_own_factionwide">
+<key>region_to_province_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all provinces)" last_edit_user="bob">\n(all provinces)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>region</source>
+<target>province</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{058a16eb-bf26-4e63-9cb9-bd593648e301}" record_timestamp="1426093182964" record_key="region_to_region_own">
+<key>region_to_region_own</key>
+<localised_text></localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>region</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{fe7f6ba0-8ccf-4a1c-934c-55f089bc5d7b}" record_timestamp="1457536315738" record_key="region_to_region_own_factionwide">
+<key>region_to_region_own_factionwide</key>
+<localised_text state="APPROVED" last_approved_text="\n(all regions)" last_edit_user="bob">\n(all regions)</localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>region</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{a1f7be43-6674-46e6-80c1-1f1863fc74be}" record_timestamp="1457536315757" record_key="region_to_region_own_provincewide">
+<key>region_to_region_own_provincewide</key>
+<localised_text state="APPROVED" last_approved_text="\n(local province)" last_edit_user="bob">\n(local province)</localised_text>
+<location>provincewide</location>
+<ownership>yours</ownership>
+<source>region</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{5410261a-bfcd-4b47-8145-387115260f48}" record_timestamp="1485943924422" record_key="region_to_region_own_text">
+<key>region_to_region_own_text</key>
+<localised_text state="APPROVED" last_approved_text="\n(local region)" last_edit_user="bob">\n(local region)</localised_text>
+<location>regionwide</location>
+<ownership>yours</ownership>
+<source>region</source>
+<target>region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{01a59de9-bbb8-43b3-b948-da5c6d2bb8c1}" record_timestamp="1426093183128" record_key="region_to_sea_region_own">
+<key>region_to_sea_region_own</key>
+<localised_text></localised_text>
+<location>sea_regionwide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>sea_region</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{670d50ed-e524-4eb7-bbe0-795654e945f7}" record_timestamp="1470238542252" record_key="test">
+<key>test</key>
+<localised_text></localised_text>
+<location>forcewide</location>
+<ownership>yours</ownership>
+<source>faction</source>
+<target>force</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+<campaign_effect_scopes record_uuid="{794466e9-8723-4cfc-81c6-c2d43d9d9cf1}" record_timestamp="1426093181902" record_key="this_building">
+<key>this_building</key>
+<localised_text></localised_text>
+<location>factionwide</location>
+<ownership>yours</ownership>
+<source>building</source>
+<target>building</target>
+<territory>any</territory>
+</campaign_effect_scopes>
+</dataroot>

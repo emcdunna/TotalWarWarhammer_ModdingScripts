@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_ui_unit_groupings>
+<root>
+<edit_uuid>ac0ece1b-83f0-4aa2-a093-b7c70f167b50</edit_uuid>
+<agf_special_dependencies></agf_special_dependencies>
+<field>
+<field_uuid>{9ca6c415-b11b-4b48-bc70-76e881d47803}</field_uuid>
+<primary_key>1</primary_key>
+<name>key</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<field_description>The unique id</field_description>
+<encyclopaedia_export>1</encyclopaedia_export>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+<agf_done>0</agf_done>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{0000c60a-f9ca-4f64-8594-4792f5bd0999}</field_uuid>
+<primary_key>0</primary_key>
+<name>onscreen</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<field_description>The onscreen name, used in ui for short tooltips and labels</field_description>
+<encyclopaedia_export>1</encyclopaedia_export>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+<agf_done>0</agf_done>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{8d054563-3dfc-46e3-91de-0952fe350fb8}</field_uuid>
+<primary_key>0</primary_key>
+<name>icon</name>
+<field_type>text</field_type>
+<is_filename>1</is_filename>
+<filename_relative_path>ui/common ui/unit_category_icons/%.png,ui/common ui/unit_category_icons/%.dds</filename_relative_path>
+<required>1</required>
+<default_value>placeholder</default_value>
+<max_length>255</max_length>
+<field_description>The icon name, these live in ui/common ui/unit_category_icons/</field_description>
+<encyclopaedia_export>1</encyclopaedia_export>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+<agf_done>0</agf_done>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{23604822-1694-48d8-acea-19d70b96072a}</field_uuid>
+<primary_key>0</primary_key>
+<name>tooltip</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<field_description>The extended tooltip for the ui</field_description>
+<encyclopaedia_export>1</encyclopaedia_export>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+<agf_done>0</agf_done>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{d04adb47-002b-403c-8bd8-d69942518e0f}</field_uuid>
+<primary_key>0</primary_key>
+<name>parent_group</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>ui_unit_group_parents</column_source_table>
+<field_description>Parent group for custom battle screen and ordering</field_description>
+<encyclopaedia_export>1</encyclopaedia_export>
+<agf_link_to_dependency>1</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+<agf_done>1</agf_done>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

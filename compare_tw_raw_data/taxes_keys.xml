@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="taxes_keys.xsd" export_time="Tue Oct 6 11:33:02 2015" revision="7" export_branch="T:/common/TWeak/Framework" export_user="bob">
+<edit_uuid>28fb011f-92e6-40cc-af29-c8ffa6dc0e92</edit_uuid>
+<taxes_keys record_uuid="{e9552098-c57b-4267-b2d2-b2b18ea5d929}" record_key="lower_classestax_extortionate">
+<tax_class>lower_classes</tax_class>
+<tax_level>tax_extortionate</tax_level>
+<tax_lookup>lower_extortionate</tax_lookup>
+</taxes_keys>
+<taxes_keys record_uuid="{cf1bdc3b-466e-403f-be4a-7a47fd69ac32}" record_key="lower_classestax_high">
+<tax_class>lower_classes</tax_class>
+<tax_level>tax_high</tax_level>
+<tax_lookup>lower_high</tax_lookup>
+</taxes_keys>
+<taxes_keys record_uuid="{ec398742-4f0e-4525-b80d-5118ab537949}" record_key="lower_classestax_low">
+<tax_class>lower_classes</tax_class>
+<tax_level>tax_low</tax_level>
+<tax_lookup>lower_low</tax_lookup>
+</taxes_keys>
+<taxes_keys record_uuid="{5b2a91ec-a59e-4f07-9cdb-23b6e7a0dd9f}" record_key="lower_classestax_minimal">
+<tax_class>lower_classes</tax_class>
+<tax_level>tax_minimal</tax_level>
+<tax_lookup>lower_minimal</tax_lookup>
+</taxes_keys>
+<taxes_keys record_uuid="{b0024ea0-c42e-4dd2-9e6a-8c8cc221a9aa}" record_key="lower_classestax_normal">
+<tax_class>lower_classes</tax_class>
+<tax_level>tax_normal</tax_level>
+<tax_lookup>lower_normal</tax_lookup>
+</taxes_keys>
+</dataroot>

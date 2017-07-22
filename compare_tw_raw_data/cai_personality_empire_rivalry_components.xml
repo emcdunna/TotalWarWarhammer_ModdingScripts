@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personality_empire_rivalry_components.xsd" export_time="Tue Jun 21 16:26:08 2016" revision="15" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>fde1148a-081d-43fe-9f84-ea6155031cd1</edit_uuid>
+<cai_personality_empire_rivalry_components record_uuid="{4c0eac0a-aac1-4d34-bbbe-63711a045c4c}" record_timestamp="1459952275677" record_key="default">
+<expansionism_multiplier_ai>0.5</expansionism_multiplier_ai>
+<expansionism_multiplier_player>0.5</expansionism_multiplier_player>
+<key>default</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personality_empire_rivalry_components>
+<cai_personality_empire_rivalry_components record_uuid="{344f74b5-d06e-431b-a1d8-b03275f8d0ae}" record_timestamp="1466522768315" record_key="default_late_game">
+<expansionism_multiplier_ai>0.5</expansionism_multiplier_ai>
+<expansionism_multiplier_player>0.5</expansionism_multiplier_player>
+<key>default_late_game</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personality_empire_rivalry_components>
+<cai_personality_empire_rivalry_components record_uuid="{84542863-e0df-458c-8fb5-b7ddfb4fa083}" record_timestamp="1463570271426" record_key="default_late_game_vhard">
+<expansionism_multiplier_ai>1</expansionism_multiplier_ai>
+<expansionism_multiplier_player>1</expansionism_multiplier_player>
+<key>default_late_game_vhard</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personality_empire_rivalry_components>
+<cai_personality_empire_rivalry_components record_uuid="{0ae99c38-99d0-46c2-8a44-29aaaf4b4a3a}" record_timestamp="1460375130125" record_key="dlc03_beastmen_friendly">
+<expansionism_multiplier_ai>1</expansionism_multiplier_ai>
+<expansionism_multiplier_player>1</expansionism_multiplier_player>
+<key>dlc03_beastmen_friendly</key>
+<long_description>wh_dlc03_mini_beastmen_friendly_long</long_description>
+<short_description>wh_dlc03_mini_beastmen_friendly_short</short_description>
+</cai_personality_empire_rivalry_components>
+<cai_personality_empire_rivalry_components record_uuid="{68f80e68-be05-4e2f-899f-c158a0189406}" record_timestamp="1460375130163" record_key="dlc03_beastmen_hostile">
+<expansionism_multiplier_ai>1</expansionism_multiplier_ai>
+<expansionism_multiplier_player>1</expansionism_multiplier_player>
+<key>dlc03_beastmen_hostile</key>
+<long_description>wh_dlc03_mini_beastmen_hostile_long</long_description>
+<short_description>wh_dlc03_mini_beastmen_hostile_short</short_description>
+</cai_personality_empire_rivalry_components>
+<cai_personality_empire_rivalry_components record_uuid="{fb1190d8-1e17-4696-a131-1b6610db0371}" record_timestamp="1460367213465" record_key="dlc03_beastmen_mission_failed">
+<expansionism_multiplier_ai>1</expansionism_multiplier_ai>
+<expansionism_multiplier_player>1</expansionism_multiplier_player>
+<key>dlc03_beastmen_mission_failed</key>
+<long_description>wh_dlc03_mini_beastmen_mission_failed_long</long_description>
+<short_description>wh_dlc03_mini_beastmen_mission_failed_short</short_description>
+</cai_personality_empire_rivalry_components>
+<cai_personality_empire_rivalry_components record_uuid="{795e733e-09e7-4dd0-9cc6-d7539778e54a}" record_timestamp="1460367213457" record_key="dlc03_beastmen_mission_issued">
+<expansionism_multiplier_ai>1</expansionism_multiplier_ai>
+<expansionism_multiplier_player>1</expansionism_multiplier_player>
+<key>dlc03_beastmen_mission_issued</key>
+<long_description>wh_dlc03_mini_beastmen_mission_issued_long</long_description>
+<short_description>wh_dlc03_mini_beastmen_mission_issued_short</short_description>
+</cai_personality_empire_rivalry_components>
+<cai_personality_empire_rivalry_components record_uuid="{1c004b37-9952-4a4a-a8fe-35d26391ef8e}" record_timestamp="1460367213448" record_key="dlc03_beastmen_mission_succeded">
+<expansionism_multiplier_ai>1</expansionism_multiplier_ai>
+<expansionism_multiplier_player>1</expansionism_multiplier_player>
+<key>dlc03_beastmen_mission_succeded</key>
+<long_description>wh_dlc03_mini_beastmen_mission_succeded_long</long_description>
+<short_description>wh_dlc03_mini_beastmen_mission_succeded_short</short_description>
+</cai_personality_empire_rivalry_components>
+<cai_personality_empire_rivalry_components record_uuid="{5ff4b582-48a5-45db-8cf6-5225f8c1a3bb}" record_timestamp="1463570271274" record_key="vhard">
+<expansionism_multiplier_ai>0.5</expansionism_multiplier_ai>
+<expansionism_multiplier_player>1</expansionism_multiplier_player>
+<key>vhard</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personality_empire_rivalry_components>
+</dataroot>

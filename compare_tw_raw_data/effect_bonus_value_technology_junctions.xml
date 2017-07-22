@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_technology_junctions.xsd" export_time="Fri May 6 17:03:29 2016" revision="10" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>f5f756c9-e8cf-4a49-8b27-a614c7e50ef4</edit_uuid>
+<effect_bonus_value_technology_junctions record_uuid="{89224b5b-ad6d-442e-9388-b8795dd934c0}" record_timestamp="1462550580974" record_key="wh_dlc03_effect_tech_disable_existing_tech_1disable_techtech_dlc03_bst_hives_of_pestilence">
+<bonus_value_id>disable_tech</bonus_value_id>
+<effect>wh_dlc03_effect_tech_disable_existing_tech_1</effect>
+<technology>tech_dlc03_bst_hives_of_pestilence</technology>
+</effect_bonus_value_technology_junctions>
+<effect_bonus_value_technology_junctions record_uuid="{2880f0b4-1a3b-4f81-9785-790267d5ab4c}" record_timestamp="1462550579806" record_key="wh_dlc03_effect_tech_disable_existing_tech_2disable_techtech_dlc03_bst_gaze_of_the_dark_gods">
+<bonus_value_id>disable_tech</bonus_value_id>
+<effect>wh_dlc03_effect_tech_disable_existing_tech_2</effect>
+<technology>tech_dlc03_bst_gaze_of_the_dark_gods</technology>
+</effect_bonus_value_technology_junctions>
+</dataroot>

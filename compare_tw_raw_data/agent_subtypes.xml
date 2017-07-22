@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="agent_subtypes.xsd" export_time="Mon Feb 20 14:24:04 2017" revision="149" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>84a85203-3c4b-43fb-8703-c20b1181f86b</edit_uuid>
+<agent_subtypes record_uuid="{ed7b05f3-1439-48ca-9551-398c1dd60d00}" record_timestamp="1485786109207" record_key="brt_damsel">
+<associated_unit_override>wh_main_brt_cha_damsel_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Bretonnian_Damsel</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="Those with knowledge may summon great gusts of wind or fearsome arcs of lightning to harass their enemies." last_edit_user="bob">Those with knowledge may summon great gusts of wind or fearsome arcs of lightning to harass their enemies.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>brt_damsel</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Damsel (Heavens)" last_edit_user="bob">Damsel (Heavens)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_heavens.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{d80da0fe-165b-40ed-a0b8-4ba2160830f5}" record_timestamp="1485786109123" record_key="brt_damsel_beasts">
+<associated_unit_override>wh_dlc07_brt_cha_damsel_beasts_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Bretonnian_Damsel</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="To control animals and twist their natural aggression to your own ends shows true mastery of your art." last_edit_user="bob">To control animals and twist their natural aggression to your own ends shows true mastery of your art.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>brt_damsel_beasts</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Damsel (Beasts)" last_edit_user="bob">Damsel (Beasts)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc03_lore_beasts.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{2b012494-ec9f-485b-a252-7c705d0c2c46}" record_timestamp="1485865192799" record_key="brt_damsel_life">
+<associated_unit_override>wh_dlc07_brt_cha_damsel_life_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Bretonnian_Damsel</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="Proponents of the Lore of Life protect and heal friendly troops and allies, whilst forestalling their foes at every turn." last_edit_user="bob">Proponents of the Lore of Life protect and heal friendly troops and allies, whilst forestalling their foes at every turn.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>brt_damsel_life</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Damsel (Life)" last_edit_user="bob">Damsel (Life)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc05_lore_life.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{39e1da50-d100-4ef9-a04c-ae2cf8623fb0}" record_timestamp="1479324837828" record_key="brt_louen_leoncouer">
+<associated_unit_override>wh_main_brt_cha_king_louen_leoncoeur_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Bretonnian_King_Louen</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>brt_louen_leoncouer</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{7cc76b71-0cf2-4b84-8982-a64fcc6fe1bb}" record_timestamp="1485786301006" record_key="brt_paladin">
+<associated_unit_override>wh_main_brt_cha_paladin_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Bretonnian_Paladin</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="The bravest of warriors, Paladins charge into battle either mounted or on foot, bringing righteous death in the Lady's name.  " last_edit_user="bob">The bravest of warriors, Paladins charge into battle either mounted or on foot, bringing righteous death in the Lady's name.  </description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>brt_paladin</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Paladin" last_edit_user="bob">Paladin</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_brt_champion.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{01b06844-34ac-460d-884c-28d97ad63a74}" record_timestamp="1479324837903" record_key="chs_archaon">
+<associated_unit_override>wh_main_chs_cha_archaon_the_everchosen_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc01_vo_actor_Chaos_ArchaonTheEverchosen</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>chs_archaon</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{cc2731e5-8d3f-4992-ae74-9719cf715221}" record_timestamp="1479324838097" record_key="chs_chaos_sorcerer_death">
+<associated_unit_override>wh_main_chs_cha_chaos_sorcerer_death_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Chaos_Sorcerer</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="A Chaos Sorcerer deals in death no matter which lore he wields, yet those who manipulate the Wind of Shyish take particular joy in ending the lives of mortals. It is their cruel laughter which is heard as the Purple Sun is summoned!" last_edit_user="bob">A Chaos Sorcerer deals in death no matter which lore he wields, yet those who manipulate the Wind of Shyish take particular joy in ending the lives of mortals. It is their cruel laughter which is heard as the Purple Sun is summoned!</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>chs_chaos_sorcerer_death</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Death)" last_edit_user="bob">Chaos Sorcerer (Death)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_death.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{2e9ec551-4811-4d23-90f4-cd4fdef05118}" record_timestamp="1479324838098" record_key="chs_chaos_sorcerer_fire">
+<associated_unit_override>wh_main_chs_cha_chaos_sorcerer_fire_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Chaos_Sorcerer</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="Some creatures just want to see the world burn. The Sorcerers of Chaos certainly fall into that category, bending the flaming Wind of Aqshy to their ill wills, spreading fire and pain in the name of the Dark Gods." last_edit_user="bob">Some creatures just want to see the world burn. The Sorcerers of Chaos certainly fall into that category, bending the flaming Wind of Aqshy to their ill wills, spreading fire and pain in the name of the Dark Gods.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>chs_chaos_sorcerer_fire</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Fire)" last_edit_user="bob">Chaos Sorcerer (Fire)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_fire.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{0bf03b42-9d8c-4e8c-af74-2a308baf3e73}" record_timestamp="1479324838099" record_key="chs_chaos_sorcerer_metal">
+<associated_unit_override>wh_main_chs_cha_chaos_sorcerer_metal_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Chaos_Sorcerer</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="Chaos Sorcerers who rip Chamon from the ever-flowing Winds of Magic use its flowing, glutinous form to shape metal into tools of dread, imprison souls in imperfect statues of gold, and to melt the armour from any who challenge their Ruinous Masters." last_edit_user="bob">Chaos Sorcerers who rip Chamon from the ever-flowing Winds of Magic use its flowing, glutinous form to shape metal into tools of dread, imprison souls in imperfect statues of gold, and to melt the armour from any who challenge their Ruinous Masters.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>chs_chaos_sorcerer_metal</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Metal)" last_edit_user="bob">Chaos Sorcerer (Metal)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_metal.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{4af9115b-5e79-4421-91b2-f87e2bfcd9a5}" record_timestamp="1479324837977" record_key="chs_exalted_hero">
+<associated_unit_override>wh_main_chs_cha_exalted_hero_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Chaos_ExhaltedHero</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>chs_exalted_hero</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Exalted Hero" last_edit_user="bob">Exalted Hero</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_chs_champion.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{ad475f69-9d5c-4454-9071-00979376896a}" record_timestamp="1479324838017" record_key="chs_kholek_suneater">
+<associated_unit_override>wh_dlc01_chs_cha_kholek</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc01_vo_actor_Chaos_KholekSuneater</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>chs_kholek_suneater</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{58bdcf0a-cc41-457b-acea-deb6c9b42353}" record_timestamp="1479324838028" record_key="chs_lord">
+<associated_unit_override>wh_main_chs_cha_chaos_lord_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Chaos_Lord</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>chs_lord</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Lord" last_edit_user="bob">Chaos Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{31257f47-b3ff-4d81-9ad1-80dac7c24948}" record_timestamp="1479324838042" record_key="chs_lord_of_change">
+<associated_unit_override>wh_main_chs_cha_lord_of_change_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Chaos_LordOfChange</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>chs_lord_of_change</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Lord of Change" last_edit_user="bob">Lord of Change</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{c1641485-ab89-4042-a986-6d5f70637086}" record_timestamp="1479324838087" record_key="chs_prince_sigvald">
+<associated_unit_override>wh_dlc01_chs_cha_prince_sigvald_the_magnificent</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc01_vo_actor_Chaos_SigvaldTheMagnificent</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>chs_prince_sigvald</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{c35aab38-4531-49b9-9dfe-c8840fbbe79b}" record_timestamp="1479324838114" record_key="chs_sorcerer_lord_death">
+<associated_unit_override>wh_dlc01_chs_cha_chaos_sorcerer_lord_death_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc01_vo_actor_Chaos_SorcererLord</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>chs_sorcerer_lord_death</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Death)" last_edit_user="bob">Chaos Sorcerer Lord (Death)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_death.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{62463f3f-db5b-44c9-9c47-fa0101e1b231}" record_timestamp="1479324838115" record_key="chs_sorcerer_lord_fire">
+<associated_unit_override>wh_dlc01_chs_cha_chaos_sorcerer_lord_fire_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc01_vo_actor_Chaos_SorcererLord</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>chs_sorcerer_lord_fire</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Fire)" last_edit_user="bob">Chaos Sorcerer Lord (Fire)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_fire.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{4404b564-5adb-432f-8ccd-112740cb81e0}" record_timestamp="1479324838114" record_key="chs_sorcerer_lord_metal">
+<associated_unit_override>wh_dlc01_chs_cha_chaos_sorcerer_lord_metal_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc01_vo_actor_Chaos_SorcererLord</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>chs_sorcerer_lord_metal</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Metal)" last_edit_user="bob">Chaos Sorcerer Lord (Metal)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_metal.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{eed0942f-8b16-4998-b07f-fa2433038296}" record_timestamp="1479326110188" record_key="default">
+<associated_unit_override></associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>default</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob">Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{a0ffcba1-881a-4801-935c-bc13e9863151}" record_timestamp="1479324837673" record_key="dlc03_bst_beastlord">
+<associated_unit_override>wh_dlc03_bst_cha_beastlord_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Beastlord</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc03_bst_beastlord</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Beastlord" last_edit_user="bob">Beastlord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{5fba3c85-9482-4060-9498-ee6db99dc174}" record_timestamp="1479324837694" record_key="dlc03_bst_bray_shaman_beasts">
+<associated_unit_override>wh_dlc03_bst_cha_bray_shaman_beasts_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Beastmen_Bray_Shaman</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="Cloaked in the power of the beast, the Bray-Shaman uses his primal mutations to exert greater strength." last_edit_user="bob">Cloaked in the power of the beast, the Bray-Shaman uses his primal mutations to exert greater strength.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc03_bst_bray_shaman_beasts</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Bray-Shaman (Beasts)" last_edit_user="bob">Bray-Shaman (Beasts)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc03_lore_beasts.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{e9a0ebe1-d366-420c-a9ab-397a752ec641}" record_timestamp="1479324837695" record_key="dlc03_bst_bray_shaman_death">
+<associated_unit_override>wh_dlc03_bst_cha_bray_shaman_death_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Beastmen_Bray_Shaman</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="Death whispers to the Bray-Shaman, who speaks the words to his enemies with hideous, incorporeal power." last_edit_user="bob">Death whispers to the Bray-Shaman, who speaks the words to his enemies with hideous, incorporeal power.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc03_bst_bray_shaman_death</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Bray-Shaman (Death)" last_edit_user="bob">Bray-Shaman (Death)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_death.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{dfd9f06f-b5bc-4769-b47d-14c98b7dd2a8}" record_timestamp="1484586645980" record_key="dlc03_bst_bray_shaman_shadows">
+<associated_unit_override>wh_dlc03_bst_cha_bray_shaman_shadows_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Beastmen_Bray_Shaman</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc03_bst_bray_shaman_shadows</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Bray-Shaman (Shadows)" last_edit_user="bob">Bray-Shaman (Shadows)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{466247c3-22db-4bb2-a9bc-f106c0e32d5d}" record_timestamp="1479324837695" record_key="dlc03_bst_bray_shaman_wild">
+<associated_unit_override>wh_dlc03_bst_cha_bray_shaman_wild_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Beastmen_Bray_Shaman</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="The earth speaks and the Bray-Shaman hears it. Nature flows through him, giving him mastery over the land itself." last_edit_user="bob">The earth speaks and the Bray-Shaman hears it. Nature flows through him, giving him mastery over the land itself.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc03_bst_bray_shaman_wild</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Bray-Shaman (Wild)" last_edit_user="bob">Bray-Shaman (Wild)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc03_lore_wild.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{4be30363-ddde-4dbc-a1c8-d5725cba3238}" record_timestamp="1479324837721" record_key="dlc03_bst_gorebull">
+<associated_unit_override>wh_dlc03_bst_cha_gorebull_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Beastmen_Gorebull</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc03_bst_gorebull</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Gorebull" last_edit_user="bob">Gorebull</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{b6984a4e-ca44-4d27-b020-f296961caa8e}" record_timestamp="1479324837673" record_key="dlc03_bst_graktar">
+<associated_unit_override>wh_dlc03_bst_cha_graktar_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Beastlord</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc03_bst_graktar</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Graktar" last_edit_user="bob">Graktar</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{1c1b5bed-ba20-4ba8-bdaa-f637eaba4bf6}" record_timestamp="1479324837731" record_key="dlc03_bst_khazrak">
+<associated_unit_override>wh_dlc03_bst_cha_khazrak_one_eye_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Beastmen_Khazrak_One_Eye</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc03_bst_khazrak</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{7cc81ea7-8dda-415b-b7b8-0788d555b537}" record_timestamp="1479324837743" record_key="dlc03_bst_malagor">
+<associated_unit_override>wh_dlc03_bst_cha_malagor_the_dark_omen_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Beastmen_Malagor_the_Dark_Omen</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc03_bst_malagor</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{f9d8aa9d-60e3-427a-93c4-d1f6a53c0c29}" record_timestamp="1479324838478" record_key="dlc03_emp_amber_wizard">
+<associated_unit_override>wh_dlc03_emp_cha_wizard_beasts_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Empire_AmberWizard</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="Devotees of the Lore of Beasts, Amber Wizards are renowned for their savage appearance; their hair is wild and unkempt and they dress in furs adorned with bones, feathers, amber beads and primitive talismans." last_edit_user="bob">Devotees of the Lore of Beasts, Amber Wizards are renowned for their savage appearance; their hair is wild and unkempt and they dress in furs adorned with bones, feathers, amber beads and primitive talismans.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc03_emp_amber_wizard</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Amber Wizard" last_edit_user="bob">Amber Wizard</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc03_lore_beasts.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{3b5bced8-33f9-4caf-a0dc-5a3c994fba0a}" record_timestamp="1479326110126" record_key="dlc03_emp_boris_todbringer">
+<associated_unit_override>wh_dlc03_emp_cha_boris_todbringer_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Empire_Boris_Todbringer</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc03_emp_boris_todbringer</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob">Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{d5e6c103-5a98-4eab-89dd-681a747f871b}" record_timestamp="1479324838491" record_key="dlc04_emp_arch_lector">
+<associated_unit_override>wh_dlc04_emp_cha_arch_lector_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc04_vo_actor_Empire_Arch_Lector</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc04_emp_arch_lector</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Arch Lector" last_edit_user="bob">Arch Lector</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{a0f903a4-8208-4275-a5ef-d8644ab155ee}" record_timestamp="1479324838515" record_key="dlc04_emp_volkmar">
+<associated_unit_override>wh_dlc04_emp_cha_volkmar_the_grim_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc04_vo_actor_Empire_Volkmar_The_Grim</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc04_emp_volkmar</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{e543c5b0-ec06-46a6-83e0-faa6e2a26814}" record_timestamp="1479324838994" record_key="dlc04_vmp_helman_ghorst">
+<associated_unit_override>wh_dlc04_vmp_cha_helman_ghorst_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc04_vo_actor_Vampire_dlc04_Helman_Ghorst</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc04_vmp_helman_ghorst</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{493599f3-057f-4a66-8fae-699ccd417ff2}" record_timestamp="1479324838983" record_key="dlc04_vmp_strigoi_ghoul_king">
+<associated_unit_override>wh_dlc04_vmp_cha_strigoi_ghoul_king_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc04_vo_actor_Vampire_dlc04_Strigoi_Ghoul_King</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc04_vmp_strigoi_ghoul_king</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Strigoi Ghoul King" last_edit_user="bob">Strigoi Ghoul King</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{8bb06d68-6e1b-407d-996d-00789f326c4d}" record_timestamp="1479324838971" record_key="dlc04_vmp_vlad_con_carstein">
+<associated_unit_override>wh_dlc04_vmp_cha_vlad_von_carstein_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc04_vo_actor_Vampire_dlc04_Vlad_Von_Carstein</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc04_vmp_vlad_con_carstein</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{fc7cc176-43c2-4908-88be-6615f16934e4}" record_timestamp="1481029433974" record_key="dlc05_bst_morghur">
+<associated_unit_override>wh_dlc05_bst_cha_morghur_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc05_vo_actor_Beastmen_Morghur</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc05_bst_morghur</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{52429d77-5ccc-480c-947c-ad8b4219072f}" record_timestamp="1479332187716" record_key="dlc05_emp_grey_wizard">
+<associated_unit_override>wh_dlc05_emp_cha_wizard_shadows_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc05_vo_actor_Empire_GreyWizard</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="Grey Wizards study spells of concealment and illusion, which do not lend themselves well to the favour of ordinary folk. They are sometimes called Trickster Wizards, though never to their faces." last_edit_user="bob">Grey Wizards study spells of concealment and illusion, which do not lend themselves well to the favour of ordinary folk. They are sometimes called Trickster Wizards, though never to their faces.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc05_emp_grey_wizard</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Grey Wizard" last_edit_user="bob">Grey Wizard</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{fda18595-1232-448e-b5a2-40b77c122ead}" record_timestamp="1479332187726" record_key="dlc05_emp_jade_wizard">
+<associated_unit_override>wh_dlc05_emp_cha_wizard_life_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc05_vo_actor_Empire_JadeWizard</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="A Jade Wizard's power is linked to the seasons, being vigorous in spring, powerful in the summer, waning over the autumn and weakest in winter. They tend to roam the dark forests where Life Magic flows more freely." last_edit_user="bob">A Jade Wizard's power is linked to the seasons, being vigorous in spring, powerful in the summer, waning over the autumn and weakest in winter. They tend to roam the dark forests where Life Magic flows more freely.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc05_emp_jade_wizard</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Jade Wizard" last_edit_user="bob">Jade Wizard</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc05_lore_life.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{7034c857-6d5b-44f5-8518-01e999afdfa1}" record_timestamp="1479324838741" record_key="dlc05_wef_ancient_treeman">
+<associated_unit_override>wh_dlc05_wef_cha_ancient_treeman_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc05_vo_actor_Wood_Elves_Tree_Ancient</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc05_wef_ancient_treeman</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Ancient Treeman" last_edit_user="bob">Ancient Treeman</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{ca6133e9-07eb-44c2-99ce-b008699a12f0}" record_timestamp="1479324838851" record_key="dlc05_wef_durthu">
+<associated_unit_override>wh_dlc05_wef_cha_durthu_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc05_vo_actor_Wood_Elves_Durthu</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc05_wef_durthu</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{573a3822-a2db-4444-8bc9-393ff9ca67de}" record_timestamp="1479324838807" record_key="dlc05_wef_glade_lord">
+<associated_unit_override>wh_dlc05_wef_cha_glade_lord_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc05_vo_actor_Wood_Elves_Male_Glade_Lord</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc05_wef_glade_lord</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Glade Lord" last_edit_user="bob">Glade Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{7ef29010-1815-413e-981c-fc7e3e7d1561}" record_timestamp="1479324838838" record_key="dlc05_wef_glade_lord_fem">
+<associated_unit_override>wh_dlc05_wef_cha_female_glade_lord_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc05_vo_actor_Wood_Elves_Female_Glade_Lord</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc05_wef_glade_lord_fem</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Glade Lord" last_edit_user="bob">Glade Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{e571f2c8-f9a0-4438-8b10-36ff360c259e}" record_timestamp="1479324838771" record_key="dlc05_wef_orion">
+<associated_unit_override>wh_dlc05_wef_cha_orion_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc05_vo_actor_Wood_Elves_Orion</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc05_wef_orion</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{db80ebcf-56ac-423b-8d2d-3f975de72e4c}" record_timestamp="1481888141772" record_key="dlc05_wef_spellsinger_beasts">
+<associated_unit_override>wh_dlc05_wef_cha_spellsinger_beasts_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc05_vo_actor_Wood_Elves_Spellsinger</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness." last_edit_user="bob">The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc05_wef_spellsinger_beasts</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Spellsinger (Beasts)" last_edit_user="bob">Spellsinger (Beasts)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc03_lore_beasts.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{36f0e973-1df1-415c-8f75-2ce9e0b78e9a}" record_timestamp="1481888141772" record_key="dlc05_wef_spellsinger_life">
+<associated_unit_override>wh_dlc05_wef_cha_spellsinger_life_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc05_vo_actor_Wood_Elves_Spellsinger</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness." last_edit_user="bob">The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc05_wef_spellsinger_life</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Spellsinger (Life)" last_edit_user="bob">Spellsinger (Life)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc05_lore_life.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{95740048-89a0-47fa-b6ce-0ac47675ae49}" record_timestamp="1481888141773" record_key="dlc05_wef_spellsinger_shadow">
+<associated_unit_override>wh_dlc05_wef_cha_spellsinger_shadows_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc05_vo_actor_Wood_Elves_Spellsinger</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness." last_edit_user="bob">The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc05_wef_spellsinger_shadow</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Spellsinger (Shadows)" last_edit_user="bob">Spellsinger (Shadows)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{000f02f1-27eb-482b-8b10-3247c4f9145c}" record_timestamp="1479324838710" record_key="dlc05_wef_waystalker">
+<associated_unit_override>wh_dlc05_wef_cha_waystalker_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc05_vo_actor_Wood_Elves_Waystalker</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc05_wef_waystalker</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Waystalker" last_edit_user="bob">Waystalker</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{8bdfe06b-0571-472e-9f0c-6d3a2d88e9a7}" record_timestamp="1479324838246" record_key="dlc06_dwf_belegar">
+<associated_unit_override>wh_dlc06_dwf_cha_belegar_ironhammer_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc06_vo_actor_Dwarf_Belegar_Ironhammer</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc06_dwf_belegar</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{af38510d-39f7-4c66-bfc1-fd1a204ba439}" record_timestamp="1479324838326" record_key="dlc06_dwf_master_engineer_ghost">
+<associated_unit_override>wh_dlc06_dwf_cha_master_engineer_ghost_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc06_vo_actor_Dwarf_MasterEngineer1Ghost</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc06_dwf_master_engineer_ghost</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Master Engineer" last_edit_user="bob">Master Engineer</onscreen_name_override>
+<show_in_ui>0</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_dwf_engineer.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{88ada742-81ce-4aca-82bf-ab1565ce89d6}" record_timestamp="1479324838257" record_key="dlc06_dwf_runelord">
+<associated_unit_override>wh_dlc06_dwf_cha_runelord_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc06_vo_actor_Dwarf_Rune_Lord</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc06_dwf_runelord</key>
+<onscreen_name_override state="IGNORED" last_approved_text="" last_edit_user="bob">Runelord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{4435aa2d-e2fd-44ec-a497-5c931866d2f2}" record_timestamp="1479324838348" record_key="dlc06_dwf_runesmith_ghost">
+<associated_unit_override>wh_dlc06_dwf_cha_runesmith_ghost_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc06_vo_actor_Dwarf_RuneSmith2Ghost</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc06_dwf_runesmith_ghost</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Runesmith" last_edit_user="bob">Runesmith</onscreen_name_override>
+<show_in_ui>0</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_dwf_runesmith.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{131c8fc1-d50e-4b8e-9dfa-68807a454774}" record_timestamp="1479324838370" record_key="dlc06_dwf_thane_ghost_1">
+<associated_unit_override>wh_dlc06_dwf_cha_thane_ghost_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc06_vo_actor_Dwarf_Thane1Ghost</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc06_dwf_thane_ghost_1</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Thane" last_edit_user="bob">Thane</onscreen_name_override>
+<show_in_ui>0</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_dwf_champion.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{672ec201-70f1-42dd-bf0a-fd26e8641f6c}" record_timestamp="1479324838370" record_key="dlc06_dwf_thane_ghost_2">
+<associated_unit_override>wh_dlc06_dwf_cha_thane_ghost_1</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc06_vo_actor_Dwarf_Thane1Ghost</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc06_dwf_thane_ghost_2</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Thane" last_edit_user="bob">Thane</onscreen_name_override>
+<show_in_ui>0</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_dwf_champion.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{7e5e5d2a-4e88-467b-adc5-974aaf54cb59}" record_timestamp="1479324839145" record_key="dlc06_grn_night_goblin_warboss">
+<associated_unit_override>wh_dlc06_grn_cha_night_goblin_warboss_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc06_vo_actor_Goblin_Night_Goblin_Warboss</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc06_grn_night_goblin_warboss</key>
+<onscreen_name_override state="IGNORED" last_approved_text="" last_edit_user="bob">Night Goblin Warboss</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{d7a11f28-e376-4979-b4b6-1f8f6fb9a99d}" record_timestamp="1479326110347" record_key="dlc06_grn_skarsnik">
+<associated_unit_override>wh_dlc06_grn_cha_skarsnik_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc06_vo_actor_Goblin_Skarsnik</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc06_grn_skarsnik</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{5487c87e-6bef-4ebe-a525-37aa999ffa21}" record_timestamp="1479324839499" record_key="dlc06_grn_wurrzag_da_great_prophet">
+<associated_unit_override>wh_dlc06_grn_cha_wurrzag_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc06_vo_actor_Orc_Wurrzag</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc06_grn_wurrzag_da_great_prophet</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{1028a9a9-09ac-41be-b698-8980fd987204}" record_timestamp="1487600644758" record_key="dlc07_brt_alberic">
+<associated_unit_override>wh_dlc07_brt_cha_alberic_bordeleaux_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc07_vo_actor_Bretonnian_Alberic</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc07_brt_alberic</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{104eb29a-2dae-4aef-94b1-4a9005942abf}" record_timestamp="1479324837779" record_key="dlc07_brt_fay_enchantress">
+<associated_unit_override>wh_dlc07_brt_cha_fay_enchantress_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc07_vo_actor_Bretonnian_Fay_Enchantress</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc07_brt_fay_enchantress</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{c1856326-b73c-4a86-8971-3fa46d5f0041}" record_timestamp="1485793733968" record_key="dlc07_brt_green_knight">
+<associated_unit_override>wh_dlc07_brt_cha_green_knight_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc07_vo_actor_Bretonnian_Green_Knight</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="The holder of secrets and keeper of the way, whose strength is the quester's ultimate test." last_edit_user="bob">The holder of secrets and keeper of the way, whose strength is the quester's ultimate test.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dlc07_brt_green_knight</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Knight" last_edit_user="bob">Legendary Knight</onscreen_name_override>
+<show_in_ui>0</show_in_ui>
+<small_icon>UI/Campaign UI/Agents/wh_dlc07_brt_green_knight.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{342e7b17-6512-46f8-8aff-af0e89a05477}" record_timestamp="1485351503694" record_key="dlc07_brt_prophetess_beasts">
+<associated_unit_override>wh_dlc07_brt_cha_prophetess_beasts_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc07_vo_actor_Bretonnian_Prophetess</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>1</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc07_brt_prophetess_beasts</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Prophetess (Beasts)" last_edit_user="bob">Prophetess (Beasts)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc03_lore_beasts.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{5c76824b-a6c8-4efc-9613-c2e93f2208ef}" record_timestamp="1485351503687" record_key="dlc07_brt_prophetess_heavens">
+<associated_unit_override>wh_dlc07_brt_cha_prophetess_heavens_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc07_vo_actor_Bretonnian_Prophetess</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>1</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc07_brt_prophetess_heavens</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Prophetess (Heavens)" last_edit_user="bob">Prophetess (Heavens)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_heavens.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{0df4880d-814f-4289-b6fe-75962cc28801}" record_timestamp="1485351503681" record_key="dlc07_brt_prophetess_life">
+<associated_unit_override>wh_dlc07_brt_cha_prophetess_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc07_vo_actor_Bretonnian_Prophetess</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>1</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc07_brt_prophetess_life</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Prophetess (Life)" last_edit_user="bob">Prophetess (Life)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc05_lore_life.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{abd1c7b4-c336-4a30-b445-e5ffbcf2c848}" record_timestamp="1483700671159" record_key="dlc07_chs_chaos_sorcerer_shadow">
+<associated_unit_override>wh_dlc01_chs_cha_chaos_sorcerer_shadows_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Chaos_Sorcerer</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="Chaos Sorcerers who rip Chamon from the ever-flowing Winds of Magic use its flowing, glutinous form to shape metal into tools of dread, imprison souls in imperfect statues of gold, and to melt the armour from any who challenge their Ruinous Masters." last_edit_user="bob">Chaos Sorcerers who rip Chamon from the ever-flowing Winds of Magic use its flowing, glutinous form to shape metal into tools of dread, imprison souls in imperfect statues of gold, and to melt the armour from any who challenge their Ruinous Masters.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc07_chs_chaos_sorcerer_shadow</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Shadows)" last_edit_user="bob">Chaos Sorcerer (Shadows)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{dca9b908-c59b-499b-b78c-3287c1cdc14c}" record_timestamp="1483700651464" record_key="dlc07_chs_sorcerer_lord_shadow">
+<associated_unit_override>wh_dlc01_chs_cha_chaos_sorcerer_lord_shadows_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc01_vo_actor_Chaos_SorcererLord</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>dlc07_chs_sorcerer_lord_shadow</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Shadows)" last_edit_user="bob">Chaos Sorcerer Lord (Shadows)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{6ec3a24f-2d09-4eb4-a473-ea6e897af752}" record_timestamp="1479324838315" record_key="dwf_master_engineer">
+<associated_unit_override>wh_main_dwf_cha_master_engineer_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Dwarf_MasterEngineer</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dwf_master_engineer</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Master Engineer" last_edit_user="bob">Master Engineer</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_dwf_engineer.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{fb2383ac-7da6-4099-a1c4-4023080bc478}" record_timestamp="1479324838337" record_key="dwf_runesmith">
+<associated_unit_override>wh_main_dwf_cha_rune_smith_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Dwarf_RuneSmith</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dwf_runesmith</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Runesmith" last_edit_user="bob">Runesmith</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_dwf_runesmith.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{155158b7-6e18-47a1-a67e-0057ac39174c}" record_timestamp="1479324838358" record_key="dwf_thane">
+<associated_unit_override>wh_main_dwf_cha_thane</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Dwarf_Thane</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dwf_thane</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Thane" last_edit_user="bob">Thane</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_dwf_champion.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{f88c3c80-6d04-4774-bc78-b75763f03c4b}" record_timestamp="1479324838381" record_key="dwf_thorgrim_grudgebearer">
+<associated_unit_override>wh_main_dwf_cha_high_king_thorgrim_grudgebearer_1</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Dwarf_ThorGrimGrudgebearer</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dwf_thorgrim_grudgebearer</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{e4d9c7a6-f6df-4c30-bf92-d100510d354e}" record_timestamp="1479324838393" record_key="dwf_ungrim_ironfist">
+<associated_unit_override>wh_main_dwf_cha_ungrim_ironfist</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Dwarf_UngrimIronfist</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>dwf_ungrim_ironfist</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{36081df9-9603-4092-9212-71131191020e}" record_timestamp="1479324838417" record_key="emp_balthasar_gelt">
+<associated_unit_override>wh_main_emp_cha_balthasar_gelt_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Empire_BalthasarGelt</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>emp_balthasar_gelt</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{67605521-526c-42f3-b287-e2ebdb2a2501}" record_timestamp="1479324838440" record_key="emp_bright_wizard">
+<associated_unit_override>wh_main_emp_cha_wizard_fire_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Empire_BrightWizard</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="Bright Wizards are easily recognised for their red robes and wild orange hair and beards. They are of a fiery temperament, their anger changing from a guttering flame to a raging inferno in a split second." last_edit_user="bob">Bright Wizards are easily recognised for their red robes and wild orange hair and beards. They are of a fiery temperament, their anger changing from a guttering flame to a raging inferno in a split second.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>emp_bright_wizard</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Bright Wizard" last_edit_user="bob">Bright Wizard</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_fire.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{f0eea2f1-c117-4953-b684-32d061be513e}" record_timestamp="1479324838453" record_key="emp_captain">
+<associated_unit_override>wh_main_emp_cha_captain_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Empire_Captain</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>emp_captain</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Empire Captain" last_edit_user="bob">Empire Captain</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_emp_champion.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{5a709080-8234-458a-852b-7d4c8e11df97}" record_timestamp="1479324838464" record_key="emp_celestial_wizard">
+<associated_unit_override>wh_main_emp_cha_wizard_heavens_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Empire_CelestialWizard</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="Celestial Wizards spend most of their time gazing into the night skies, plotting the movements of the astral bodies. Their spells are able to call lightning from the skies and summon meteorites to smite the enemy." last_edit_user="bob">Celestial Wizards spend most of their time gazing into the night skies, plotting the movements of the astral bodies. Their spells are able to call lightning from the skies and summon meteorites to smite the enemy.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>emp_celestial_wizard</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Celestial Wizard" last_edit_user="bob">Celestial Wizard</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_heavens.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{23ad5539-241a-4f02-a411-02b3900cffd8}" record_timestamp="1479324838600" record_key="emp_karl_franz">
+<associated_unit_override>wh_main_emp_cha_karl_franz_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Empire_KarlFranz</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>emp_karl_franz</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{8586e85d-feb7-4593-afdb-2ff3c4355315}" record_timestamp="1479324838625" record_key="emp_light_wizard">
+<associated_unit_override>wh_main_emp_cha_wizard_light_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Empire_LightWizard</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="Light Wizards are rarely seen without treasured tomes and arcane scrolls in hand. Light Magic is renowned for its powers of protection, yet a Light Wizard can also capture blazing lights to blind and burn a foe." last_edit_user="bob">Light Wizards are rarely seen without treasured tomes and arcane scrolls in hand. Light Magic is renowned for its powers of protection, yet a Light Wizard can also capture blazing lights to blind and burn a foe.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>emp_light_wizard</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Light Wizard" last_edit_user="bob">Light Wizard</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_light.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{3cdeb7e1-b1f0-4733-9c20-8c821c3b2d12}" record_timestamp="1479324838650" record_key="emp_warrior_priest">
+<associated_unit_override>wh_main_emp_cha_warrior_priest_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Empire_WarriorPriest</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>emp_warrior_priest</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Warrior Priest" last_edit_user="bob">Warrior Priest</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_emp_dignitary.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{38c29b3d-da8c-4052-8f88-7b6f5cdaa735}" record_timestamp="1479324838662" record_key="emp_witch_hunter">
+<associated_unit_override>wh_main_emp_cha_witch_hunter</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Empire_WitchHunter</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>emp_witch_hunter</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Witch Hunter" last_edit_user="bob">Witch Hunter</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_emp_spy.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{46474c5c-9783-43e1-81da-aaaa5bb6c005}" record_timestamp="1479324839487" record_key="grn_azhag_the_slaughterer">
+<associated_unit_override>wh_main_grn_cha_azhag_the_slaughterer_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Orc_AzhagTheSlaughterer</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>grn_azhag_the_slaughterer</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{82457fe1-2a88-4181-88ec-548a3da2f595}" record_timestamp="1479324838673" record_key="grn_goblin_big_boss">
+<associated_unit_override>wh_main_grn_cha_goblin_big_boss_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Goblin_BigBoss</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>grn_goblin_big_boss</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Goblin Big Boss" last_edit_user="bob">Goblin Big Boss</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_grn_spy.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{d0cae17c-2baf-4ab4-8e5c-62790fcb3552}" record_timestamp="1479324839028" record_key="grn_goblin_great_shaman">
+<associated_unit_override>wh_main_grn_cha_goblin_great_shaman_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Goblin_GreatShaman</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>grn_goblin_great_shaman</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Goblin Great Shaman" last_edit_user="bob">Goblin Great Shaman</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{acee411e-7483-49f7-8f97-85d951c43cd4}" record_timestamp="1479324839079" record_key="grn_grimgor_ironhide">
+<associated_unit_override>wh_main_grn_cha_grimgor_ironhide</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Orc_GrimgorIronhide</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>grn_grimgor_ironhide</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{ae26413b-b1bb-4bad-b8b6-45c4dd2d8f22}" record_timestamp="1479324839057" record_key="grn_night_goblin_shaman">
+<associated_unit_override>wh_main_grn_cha_night_goblin_shaman</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Goblin_NightShaman</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="Night Goblin Shamans wear the easily recognised hoods of their kind and are known for being particularly crazed due to eating vast quantities of hallucinogenic mushrooms." last_edit_user="bob">Night Goblin Shamans wear the easily recognised hoods of their kind and are known for being particularly crazed due to eating vast quantities of hallucinogenic mushrooms.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>grn_night_goblin_shaman</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Night Goblin Shaman" last_edit_user="bob">Night Goblin Shaman</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_lil_waaagh.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{85ea890d-4d2d-4bff-aafe-520c3377fb92}" record_timestamp="1479324839105" record_key="grn_orc_shaman">
+<associated_unit_override>wh_main_grn_cha_orc_shaman_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Orc_Shaman</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override state="APPROVED" last_approved_text="Orc Shamans have been known to cause a foe's brains to burst out of his skull, shoot death beams out of their own beady eyes or summon an almighty green foot from the skies to stomp anything unfortunate enough to be underneath." last_edit_user="bob">Orc Shamans have been known to cause a foe's brains to burst out of his skull, shoot death beams out of their own beady eyes or summon an almighty green foot from the skies to stomp anything unfortunate enough to be underneath.</description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>grn_orc_shaman</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Orc Shaman" last_edit_user="bob">Orc Shaman</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_big_waaagh.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{ab8f8e14-2f2d-41b8-8e14-8b2b392e88f7}" record_timestamp="1479324839132" record_key="grn_orc_warboss">
+<associated_unit_override>wh_main_grn_cha_orc_warboss_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Orc_Warboss</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>grn_orc_warboss</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Orc Warboss" last_edit_user="bob">Orc Warboss</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{2bc31e9b-23d3-4fe8-9ba8-e6b22278d534}" record_timestamp="1479326110180" record_key="ksl_captain">
+<associated_unit_override>wh_main_ksl_cha_captain_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>ksl_captain</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Captain" last_edit_user="bob">Captain</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_emp_champion.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{9f9f8c97-b259-4124-89ea-5e8edb5367ee}" record_timestamp="1479324838465" record_key="ksl_celestial_wizard">
+<associated_unit_override>wh_main_ksl_cha_wizard_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Empire_CelestialWizard</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>ksl_celestial_wizard</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Celestial Wizard" last_edit_user="bob">Celestial Wizard</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_heavens.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{d7431777-96d2-4bc0-9082-c6eeff31d9d6}" record_timestamp="1479324838098" record_key="nor_chaos_sorcerer_metal">
+<associated_unit_override>wh_main_nor_cha_chaos_sorcerer_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Chaos_Sorcerer</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>nor_chaos_sorcerer_metal</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Metal)" last_edit_user="bob">Chaos Sorcerer (Metal)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_metal.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{f00360b5-ce4b-4254-9eaa-1e2a7e2179c2}" record_timestamp="1479324838115" record_key="nor_sorcerer_lord_metal">
+<associated_unit_override>wh_dlc01_nor_cha_chaos_sorcerer_lord_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc01_vo_actor_Chaos_SorcererLord</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>nor_sorcerer_lord_metal</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Metal)" last_edit_user="bob">Chaos Sorcerer Lord (Metal)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_metal.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{22b212ad-4c4f-4c40-be05-dbb8df24e5ae}" record_timestamp="1479324838268" record_key="pro01_dwf_grombrindal">
+<associated_unit_override>wh_pro01_dwf_cha_grombrindal_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_pro01_vo_actor_Dwarf_Grombrindal</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>pro01_dwf_grombrindal</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{6e653a59-afc1-4077-bb68-57783245bb13}" record_timestamp="1482427926286" record_key="pro02_vmp_isabella_von_carstein">
+<associated_unit_override>wh_pro02_vmp_cha_isabella_von_carstein_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_pro02_vo_actor_Vampire_Isabella_Von_Carstein</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>pro02_vmp_isabella_von_carstein</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/paladin.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{865b83bc-6ff9-4952-b374-775c556d35e4}" record_timestamp="1479324838440" record_key="teb_bright_wizard">
+<associated_unit_override>wh_main_teb_cha_wizard_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Empire_BrightWizard</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>teb_bright_wizard</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Bright Wizard" last_edit_user="bob">Bright Wizard</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_fire.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{a1bb38ad-ed82-435e-8881-c68cdb8852b4}" record_timestamp="1479324838452" record_key="teb_captain">
+<associated_unit_override>wh_main_teb_cha_captain_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Empire_Captain</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>teb_captain</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Captain" last_edit_user="bob">Captain</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_emp_champion.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{4138ad78-9614-4ce3-9b2d-cdafed760603}" record_timestamp="1479324839016" record_key="vmp_banshee">
+<associated_unit_override>wh_main_vmp_cha_banshee</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Vampire_Banshee</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>vmp_banshee</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Banshee" last_edit_user="bob">Banshee</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_vmp_spy.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{ed1f7c5c-7ae5-4f0f-8b66-bce8f013a87d}" record_timestamp="1479324838946" record_key="vmp_heinrich_kemmler">
+<associated_unit_override>wh_main_vmp_cha_heinrich_kemmler</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Vampire_HeinrichKemmler</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>vmp_heinrich_kemmler</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{46eba101-7d48-4053-bc4f-039f3852e7fa}" record_timestamp="1479324838916" record_key="vmp_lord">
+<associated_unit_override>wh_main_vmp_cha_vampire_lord_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Vampire_Lord</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>vmp_lord</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Vampire Lord" last_edit_user="bob">Vampire Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{fc514ac3-ecd2-41d5-85bc-817915079f53}" record_timestamp="1479324838902" record_key="vmp_mannfred_von_carstein">
+<associated_unit_override>wh_main_vmp_cha_mannfred_von_carstein_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Vampire_MannfredVonCarstein</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>vmp_mannfred_von_carstein</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{ef4b96ae-4474-4e66-bd9d-ed1d371ef136}" record_timestamp="1479324838889" record_key="vmp_master_necromancer">
+<associated_unit_override>wh_main_vmp_cha_master_necromancer_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Vampire_MasterNecromancer</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>vmp_master_necromancer</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Master Necromancer" last_edit_user="bob">Master Necromancer</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{730d32f4-dc9c-4efd-806f-764f9156aa36}" record_timestamp="1479324838874" record_key="vmp_necromancer">
+<associated_unit_override>wh_main_vmp_cha_necromancer_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Vampire_Necromancer</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>vmp_necromancer</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Necromancer" last_edit_user="bob">Necromancer</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_vampires.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{98bcfa6b-63a7-4ae8-94b2-34a4d526ed11}" record_timestamp="1479324838958" record_key="vmp_vampire">
+<associated_unit_override>wh_main_vmp_cha_vampire_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Vampire_FemaleVamp</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>vmp_vampire</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Vampire (Death)" last_edit_user="bob">Vampire (Death)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_lore_death.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{d12eac7a-5ab5-4e85-8aa0-4a48dc23bda4}" record_timestamp="1479324838861" record_key="vmp_wight_king">
+<associated_unit_override>wh_main_vmp_cha_wight_king_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Vampire_WightKing</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key>vmp_wight_king</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Wight King" last_edit_user="bob">Wight King</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_main_vmp_champion.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{5417283a-fc6d-4017-9c69-259bfed3433d}" record_timestamp="1481040287649" record_key="wh_dlc05_vmp_red_duke">
+<associated_unit_override>wh_dlc05_vmp_cha_red_duke_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Vampire_Lord</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>wh_dlc05_vmp_red_duke</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob">Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{8ccce461-ce4b-49fc-92bd-142e5905282c}" record_timestamp="1479324838958" record_key="wh_dlc05_vmp_vampire_shadow">
+<associated_unit_override>wh_dlc05_vmp_cha_vampire_shadows_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_main_vo_actor_Vampire_FemaleVamp</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>wh_dlc05_vmp_vampire_shadow</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Vampire (Shadows)" last_edit_user="bob">Vampire (Shadows)</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{e475e757-3767-4e5d-afd3-0376ee2badc8}" record_timestamp="1481887483594" record_key="wh_dlc05_wef_branchwraith">
+<associated_unit_override>wh_dlc05_wef_cha_branchwraith_0</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc05_vo_actor_Wood_Elves_Branchwraith</audio_voiceover_actor_group>
+<auto_generate>1</auto_generate>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>1</is_caster>
+<key>wh_dlc05_wef_branchwraith</key>
+<onscreen_name_override state="APPROVED" last_approved_text="Branchwraith" last_edit_user="bob">Branchwraith</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
+</agent_subtypes>
+</dataroot>

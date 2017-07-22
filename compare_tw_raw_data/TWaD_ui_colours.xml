@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_ui_colours>
+<root>
+<edit_uuid>2f5fc7e0-c0cd-46d5-9d3c-de728d3ddfa6</edit_uuid>
+<field>
+<field_uuid>{effbbdd4-1e78-4e91-bc91-1b8ada280b8b}</field_uuid>
+<primary_key>1</primary_key>
+<name>key</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+</field>
+<field>
+<field_uuid>{5fa2b97c-fc80-426e-80a9-43546bb7b2ce}</field_uuid>
+<primary_key>0</primary_key>
+<name>red</name>
+<field_type>integer</field_type>
+<required>1</required>
+<default_value>255</default_value>
+</field>
+<field>
+<field_uuid>{cf7a4cde-aee5-44ba-9a45-e8bcf9cdc009}</field_uuid>
+<primary_key>0</primary_key>
+<name>green</name>
+<field_type>integer</field_type>
+<required>1</required>
+<default_value>255</default_value>
+</field>
+<field>
+<field_uuid>{a846de4a-d081-4dc5-94a0-e8f51ae705b4}</field_uuid>
+<primary_key>0</primary_key>
+<name>blue</name>
+<field_type>integer</field_type>
+<required>1</required>
+<default_value>255</default_value>
+</field>
+</root>

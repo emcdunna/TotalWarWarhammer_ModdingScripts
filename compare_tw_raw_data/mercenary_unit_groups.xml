@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mercenary_unit_groups.xsd" export_time="Wed Jan 25 17:48:02 2017" revision="51" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>d58452d0-9c5a-4f07-807b-9be2a109ae0e</edit_uuid>
+<mercenary_unit_groups record_uuid="{3fccbfc3-a710-435e-b43e-4e470e1b33fc}" record_timestamp="1469454099327" record_key="wh_dlc02_vmp_cav_blood_knights_0">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_dlc02_vmp_cav_blood_knights_0</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc02_vmp_cav_blood_knights_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{dc08d100-76ac-4058-b252-498a716c324c}" record_timestamp="1481888134667" record_key="wh_dlc04_emp_art_hammer_of_the_witches_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_emp_art_hammer_of_the_witches_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_emp_art_hammer_of_the_witches_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{5d4a41a4-6511-48cb-b212-651af8a20e14}" record_timestamp="1481888134668" record_key="wh_dlc04_emp_art_sunmaker_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_emp_art_sunmaker_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_emp_art_sunmaker_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{972982a0-24f4-4253-852f-6ab009647686}" record_timestamp="1481888134668" record_key="wh_dlc04_emp_cav_royal_altdorf_gryphites_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_emp_cav_royal_altdorf_gryphites_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_emp_cav_royal_altdorf_gryphites_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{815749bc-ba99-456d-bcc9-a020144bf46b}" record_timestamp="1481888134669" record_key="wh_dlc04_emp_cav_zintlers_reiksguard_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_emp_cav_zintlers_reiksguard_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_emp_cav_zintlers_reiksguard_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{69a58d1d-9ede-4ff8-bdc3-a98fdb6ba158}" record_timestamp="1481888134669" record_key="wh_dlc04_emp_inf_sigmars_sons_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_emp_inf_sigmars_sons_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_emp_inf_sigmars_sons_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{81886069-0424-4f6b-bb1c-6b14c878d261}" record_timestamp="1481888134670" record_key="wh_dlc04_emp_inf_silver_bullets_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_emp_inf_silver_bullets_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_emp_inf_silver_bullets_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{863ba0f9-7a84-4312-8311-a63640cd6a26}" record_timestamp="1481888134670" record_key="wh_dlc04_emp_inf_stirlands_revenge_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_emp_inf_stirlands_revenge_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_emp_inf_stirlands_revenge_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{a2348601-b45e-4288-8f7f-53a8dac12ca4}" record_timestamp="1481888134671" record_key="wh_dlc04_emp_inf_tattersouls_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_emp_inf_tattersouls_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_emp_inf_tattersouls_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{7e95093f-6bcf-469d-94c8-5d2fcbed7746}" record_timestamp="1481888134671" record_key="wh_dlc04_emp_veh_templehof_luminark_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_emp_veh_templehof_luminark_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_emp_veh_templehof_luminark_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{dd2e007b-6592-4c70-acd3-00e65371809b}" record_timestamp="1481888134672" record_key="wh_dlc04_vmp_cav_chillgheists_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_vmp_cav_chillgheists_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_vmp_cav_chillgheists_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{d6fe0303-ffb6-4d09-9ab4-cccada4f5e34}" record_timestamp="1481888134672" record_key="wh_dlc04_vmp_cav_vereks_reavers_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_vmp_cav_vereks_reavers_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_vmp_cav_vereks_reavers_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{d9a8c14a-b36c-4e94-96c4-9b1c3d0fa432}" record_timestamp="1481888134673" record_key="wh_dlc04_vmp_inf_feasters_in_the_dusk_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_vmp_inf_feasters_in_the_dusk_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_vmp_inf_feasters_in_the_dusk_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{4c091be1-5f5f-4fb2-8b16-b8156ef6a93d}" record_timestamp="1481888134673" record_key="wh_dlc04_vmp_inf_konigstein_stalkers_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_vmp_inf_konigstein_stalkers_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_vmp_inf_konigstein_stalkers_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{e054802c-179e-4077-84de-8c040d12afbd}" record_timestamp="1481888134674" record_key="wh_dlc04_vmp_inf_sternsmen_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_vmp_inf_sternsmen_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_vmp_inf_sternsmen_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{62632de7-09be-4882-9ff4-b1c66a250d05}" record_timestamp="1481888134674" record_key="wh_dlc04_vmp_inf_tithe_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_vmp_inf_tithe_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_vmp_inf_tithe_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{8a73cff9-1d20-4e16-8d46-446eb6488b71}" record_timestamp="1481888134675" record_key="wh_dlc04_vmp_mon_devils_swartzhafen_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_vmp_mon_devils_swartzhafen_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_vmp_mon_devils_swartzhafen_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{6bc82dfb-1d7f-4f20-9d46-010c05e6c419}" record_timestamp="1481888134675" record_key="wh_dlc04_vmp_mon_direpack_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_vmp_mon_direpack_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_vmp_mon_direpack_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{4adb36fb-64c0-45d3-8774-134d7d138356}" record_timestamp="1481888134676" record_key="wh_dlc04_vmp_veh_claw_of_nagash_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc04_vmp_veh_claw_of_nagash_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_vmp_veh_claw_of_nagash_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{30d93c83-fe57-476e-990b-6baddce8117b}" record_timestamp="1458555412307" record_key="wh_dlc04_vmp_veh_corpse_cart_0">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_dlc04_vmp_veh_corpse_cart_0</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_vmp_veh_corpse_cart_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{4677760d-4401-421d-a87b-5826d67bfb89}" record_timestamp="1458555412242" record_key="wh_dlc04_vmp_veh_corpse_cart_1">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_dlc04_vmp_veh_corpse_cart_1</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_vmp_veh_corpse_cart_1</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{44883ec8-111b-4f98-9d62-3df40031340d}" record_timestamp="1458555412274" record_key="wh_dlc04_vmp_veh_corpse_cart_2">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_dlc04_vmp_veh_corpse_cart_2</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_vmp_veh_corpse_cart_2</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{9e04cbb7-16e3-4b7b-98cc-8f2982346da0}" record_timestamp="1458555412177" record_key="wh_dlc04_vmp_veh_mortis_engine_0">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_dlc04_vmp_veh_mortis_engine_0</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc04_vmp_veh_mortis_engine_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{a29e4b0d-f679-473a-b650-7790f7433d9e}" record_timestamp="1481888134676" record_key="wh_dlc06_dwf_art_gob_lobber_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_dwf_art_gob_lobber_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_dwf_art_gob_lobber_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{d24d6235-e0d0-4442-81fa-e82ed1fd17fb}" record_timestamp="1481888134677" record_key="wh_dlc06_dwf_inf_dragonback_slayers_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_dwf_inf_dragonback_slayers_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_dwf_inf_dragonback_slayers_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{4ec1e4f2-3075-4ac2-97ce-0749ca3b5e3d}" record_timestamp="1481888134677" record_key="wh_dlc06_dwf_inf_ekrund_miners_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_dwf_inf_ekrund_miners_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_dwf_inf_ekrund_miners_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{c9383a50-abd8-4775-ab48-c255dba0c9cc}" record_timestamp="1481888134678" record_key="wh_dlc06_dwf_inf_norgrimlings_ironbreakers_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_dwf_inf_norgrimlings_ironbreakers_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_dwf_inf_norgrimlings_ironbreakers_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{8632b9c6-4fa7-4461-82c9-e925907ee8bb}" record_timestamp="1481888134679" record_key="wh_dlc06_dwf_inf_norgrimlings_irondrakes_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_dwf_inf_norgrimlings_irondrakes_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_dwf_inf_norgrimlings_irondrakes_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{cd32ff5a-2f1c-4e45-a014-aa4e54c3d9c2}" record_timestamp="1481888134679" record_key="wh_dlc06_dwf_inf_old_grumblers_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_dwf_inf_old_grumblers_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_dwf_inf_old_grumblers_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{fac1f401-e17c-49fc-abb0-25b72cc9de7a}" record_timestamp="1481888134680" record_key="wh_dlc06_dwf_inf_peak_gate_guard_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_dwf_inf_peak_gate_guard_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_dwf_inf_peak_gate_guard_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{672c8f4a-7801-4cc3-ba6a-e21a1df2f51b}" record_timestamp="1481888134681" record_key="wh_dlc06_dwf_inf_ulthars_raiders_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_dwf_inf_ulthars_raiders_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_dwf_inf_ulthars_raiders_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{0ed48774-30d1-42d5-bc3f-a76de65d4cd4}" record_timestamp="1481888134681" record_key="wh_dlc06_dwf_inf_warriors_dragonfire_pass_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_dwf_inf_warriors_dragonfire_pass_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_dwf_inf_warriors_dragonfire_pass_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{7b8ca968-09cf-454e-9721-5c81122479b7}" record_timestamp="1481888134682" record_key="wh_dlc06_dwf_veh_skyhammer_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_dwf_veh_skyhammer_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_dwf_veh_skyhammer_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{de55c425-1f8a-4f38-a404-64cb05aaff86}" record_timestamp="1481888134683" record_key="wh_dlc06_grn_art_hammer_of_gork_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_grn_art_hammer_of_gork_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_grn_art_hammer_of_gork_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{6e485318-af74-4529-a2b6-009a2b75677e}" record_timestamp="1481888134683" record_key="wh_dlc06_grn_cav_broken_tusks_mob_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_grn_cav_broken_tusks_mob_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_grn_cav_broken_tusks_mob_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{059dc57f-9fb5-486d-a4d1-ce99d8d57778}" record_timestamp="1481888134684" record_key="wh_dlc06_grn_cav_deff_creepers_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_grn_cav_deff_creepers_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_grn_cav_deff_creepers_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{eebedec3-7898-4737-a264-7b2e57f48a3b}" record_timestamp="1481888134685" record_key="wh_dlc06_grn_cav_durkits_squigs_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_grn_cav_durkits_squigs_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_grn_cav_durkits_squigs_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{a73c8894-037a-43b3-842a-ae000d41f6ac}" record_timestamp="1481888134686" record_key="wh_dlc06_grn_cav_mogrubbs_marauders_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_grn_cav_mogrubbs_marauders_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_grn_cav_mogrubbs_marauders_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{8d596730-74b6-401c-bfb1-1f3da1f3934a}" record_timestamp="1481888134687" record_key="wh_dlc06_grn_cav_moon_howlers_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_grn_cav_moon_howlers_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_grn_cav_moon_howlers_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{b492e8ad-6dea-49b7-9850-8215a083fbbb}" record_timestamp="1481888134687" record_key="wh_dlc06_grn_cav_teef_robbers_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_grn_cav_teef_robbers_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_grn_cav_teef_robbers_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{71a74b26-cfe6-4b09-b061-22167b8d537e}" record_timestamp="1481888134688" record_key="wh_dlc06_grn_inf_da_eight_peaks_loonies_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_grn_inf_da_eight_peaks_loonies_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_grn_inf_da_eight_peaks_loonies_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{30bce8cd-b3aa-4eab-9bb6-9d8e5c485919}" record_timestamp="1481888134689" record_key="wh_dlc06_grn_inf_da_rusty_arrers_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_grn_inf_da_rusty_arrers_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_grn_inf_da_rusty_arrers_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{0530d328-f4dd-43f8-be40-eb589e9ab7b9}" record_timestamp="1481888134690" record_key="wh_dlc06_grn_inf_da_warlords_boyz_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_grn_inf_da_warlords_boyz_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_grn_inf_da_warlords_boyz_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{3607b0e7-2c3a-4697-b8f9-f5cc4c6210d3}" record_timestamp="1481888134691" record_key="wh_dlc06_grn_inf_krimson_killerz_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_grn_inf_krimson_killerz_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_grn_inf_krimson_killerz_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{d55ac705-49b2-4f0c-b543-bddf7080754e}" record_timestamp="1481888134692" record_key="wh_dlc06_grn_mon_venom_queen_0">
+<chance_to_replenish>100</chance_to_replenish>
+<key>wh_dlc06_grn_mon_venom_queen_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_dlc06_grn_mon_venom_queen_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{8fd803bf-6392-40a7-b957-9b9d2058b868}" record_timestamp="1452255921655" record_key="wh_main_vmp_cav_black_knights_0">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_main_vmp_cav_black_knights_0</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_cav_black_knights_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{1b797558-eb67-4021-ba49-705ce2800064}" record_timestamp="1452255921643" record_key="wh_main_vmp_cav_black_knights_3">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_main_vmp_cav_black_knights_3</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_cav_black_knights_3</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{1a957994-537b-46f3-8b28-8aa7dc0bfa60}" record_timestamp="1452255921629" record_key="wh_main_vmp_cav_hexwraiths">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_main_vmp_cav_hexwraiths</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_cav_hexwraiths</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{05b0fae5-7d1d-4fde-ac80-a5c2b99cc42b}" record_timestamp="1452255921617" record_key="wh_main_vmp_inf_cairn_wraiths">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_main_vmp_inf_cairn_wraiths</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_inf_cairn_wraiths</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{3d2e14f1-3d4a-408d-9ba4-3d393b7e359a}" record_timestamp="1452786302029" record_key="wh_main_vmp_inf_crypt_ghouls">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_main_vmp_inf_crypt_ghouls</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_inf_crypt_ghouls</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{2fbc6fda-556c-45ec-84e3-5a831f8b813e}" record_timestamp="1452255921604" record_key="wh_main_vmp_inf_grave_guard_0">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_main_vmp_inf_grave_guard_0</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_inf_grave_guard_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{183c2996-a965-4234-a5b6-bca03e571448}" record_timestamp="1452255921593" record_key="wh_main_vmp_inf_grave_guard_1">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_main_vmp_inf_grave_guard_1</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_inf_grave_guard_1</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{bc611603-4087-487e-9c1a-7e7ecf03a4c2}" record_timestamp="1470821044050" record_key="wh_main_vmp_inf_skeleton_warriors_0">
+<chance_to_replenish>0.2</chance_to_replenish>
+<key>wh_main_vmp_inf_skeleton_warriors_0</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_inf_skeleton_warriors_0</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{4edb12df-a93b-42ac-bc12-531b5f399f13}" record_timestamp="1470821044050" record_key="wh_main_vmp_inf_skeleton_warriors_1">
+<chance_to_replenish>0.2</chance_to_replenish>
+<key>wh_main_vmp_inf_skeleton_warriors_1</key>
+<max_count>1</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_inf_skeleton_warriors_1</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{baa97531-ce56-4540-8759-d0df2ff31572}" record_timestamp="1470821044050" record_key="wh_main_vmp_inf_zombie">
+<chance_to_replenish>0.5</chance_to_replenish>
+<key>wh_main_vmp_inf_zombie</key>
+<max_count>3</max_count>
+<max_replenish_per_turn>3</max_replenish_per_turn>
+<unit_record>wh_main_vmp_inf_zombie</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{7c06a456-eef2-4a56-b9fe-873bec6a12ab}" record_timestamp="1452255921556" record_key="wh_main_vmp_mon_crypt_horrors">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_main_vmp_mon_crypt_horrors</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_mon_crypt_horrors</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{372bcf96-3af8-4be2-92a4-f2de685deac6}" record_timestamp="1452786302046" record_key="wh_main_vmp_mon_dire_wolves">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_main_vmp_mon_dire_wolves</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_mon_dire_wolves</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{9f184292-3fd7-4de4-95eb-7b7d877b2280}" record_timestamp="1452255921535" record_key="wh_main_vmp_mon_fell_bats">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_main_vmp_mon_fell_bats</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_mon_fell_bats</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{e4b6890a-a279-4c1b-98bb-bad2e4a1b41e}" record_timestamp="1452255921514" record_key="wh_main_vmp_mon_terrorgheist">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_main_vmp_mon_terrorgheist</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_mon_terrorgheist</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{f3ef79d6-98a9-4245-b1b6-702e66c34ae5}" record_timestamp="1452255921505" record_key="wh_main_vmp_mon_vargheists">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_main_vmp_mon_vargheists</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_mon_vargheists</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{1cc3a242-e6a9-4ad4-b658-a393a3072cb8}" record_timestamp="1452255921496" record_key="wh_main_vmp_mon_varghulf">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_main_vmp_mon_varghulf</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_mon_varghulf</unit_record>
+</mercenary_unit_groups>
+<mercenary_unit_groups record_uuid="{5cae84ad-0a9b-4a0c-852c-bb314fa0ecff}" record_timestamp="1452255921488" record_key="wh_main_vmp_veh_black_coach">
+<chance_to_replenish>0</chance_to_replenish>
+<key>wh_main_vmp_veh_black_coach</key>
+<max_count>0</max_count>
+<max_replenish_per_turn>1</max_replenish_per_turn>
+<unit_record>wh_main_vmp_veh_black_coach</unit_record>
+</mercenary_unit_groups>
+</dataroot>

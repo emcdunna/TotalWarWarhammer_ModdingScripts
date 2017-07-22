@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_agent_type_distribution_profile_junctions.xsd" export_time="Tue Oct 6 13:21:58 2015" revision="13" export_branch="T:/common/TWeak/Framework" export_user="bob">
+<edit_uuid>b7793234-3309-44cc-8e18-94534c613f89</edit_uuid>
+<cai_agent_type_distribution_profile_junctions record_uuid="{04070085-d732-4da0-90d6-49ae9e45ccad}" record_key="cai_adp_standardcai_agent_type_championcai_adt_borders_enemy_biased">
+<agent_type_key>cai_agent_type_champion</agent_type_key>
+<distribution_profile_key>cai_adp_standard</distribution_profile_key>
+<distribution_type_key>cai_adt_borders_enemy_biased</distribution_type_key>
+</cai_agent_type_distribution_profile_junctions>
+<cai_agent_type_distribution_profile_junctions record_uuid="{f41ec30b-ea67-463c-b7e4-ab569bd7b03f}" record_key="cai_adp_standardcai_agent_type_dignitarycai_adt_borders_enemy_biased">
+<agent_type_key>cai_agent_type_dignitary</agent_type_key>
+<distribution_profile_key>cai_adp_standard</distribution_profile_key>
+<distribution_type_key>cai_adt_borders_enemy_biased</distribution_type_key>
+</cai_agent_type_distribution_profile_junctions>
+<cai_agent_type_distribution_profile_junctions record_uuid="{a70de81b-3fa7-4313-b4f0-92e57df2b1a5}" record_timestamp="1427273793752" record_key="cai_adp_standardcai_agent_type_engineercai_adt_borders_enemy_biased">
+<agent_type_key>cai_agent_type_engineer</agent_type_key>
+<distribution_profile_key>cai_adp_standard</distribution_profile_key>
+<distribution_type_key>cai_adt_borders_enemy_biased</distribution_type_key>
+</cai_agent_type_distribution_profile_junctions>
+<cai_agent_type_distribution_profile_junctions record_uuid="{24f4fdc4-5ea9-43da-bcac-308cfcb2432e}" record_timestamp="1427273793783" record_key="cai_adp_standardcai_agent_type_runesmithcai_adt_borders_enemy_biased">
+<agent_type_key>cai_agent_type_runesmith</agent_type_key>
+<distribution_profile_key>cai_adp_standard</distribution_profile_key>
+<distribution_type_key>cai_adt_borders_enemy_biased</distribution_type_key>
+</cai_agent_type_distribution_profile_junctions>
+<cai_agent_type_distribution_profile_junctions record_uuid="{fd7fb455-e8b6-4f66-b3c1-1c6f2351cc25}" record_key="cai_adp_standardcai_agent_type_spycai_adt_borders_enemy_biased">
+<agent_type_key>cai_agent_type_spy</agent_type_key>
+<distribution_profile_key>cai_adp_standard</distribution_profile_key>
+<distribution_type_key>cai_adt_borders_enemy_biased</distribution_type_key>
+</cai_agent_type_distribution_profile_junctions>
+<cai_agent_type_distribution_profile_junctions record_uuid="{368a79a2-8725-4b89-9c96-d37e530e1971}" record_timestamp="1427273793724" record_key="cai_adp_standardcai_agent_type_wizardcai_adt_borders_enemy_biased">
+<agent_type_key>cai_agent_type_wizard</agent_type_key>
+<distribution_profile_key>cai_adp_standard</distribution_profile_key>
+<distribution_type_key>cai_adt_borders_enemy_biased</distribution_type_key>
+</cai_agent_type_distribution_profile_junctions>
+</dataroot>

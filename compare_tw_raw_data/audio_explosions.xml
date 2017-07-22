@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="audio_explosions.xsd" export_time="Thu Feb 2 17:43:45 2017" revision="31" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>21e6685e-d76a-4af0-847e-25ab5da9f40a</edit_uuid>
+<audio_explosions record_uuid="{d31b188f-a983-413d-9ac6-d83835376898}" record_timestamp="1396523887822" record_key="none">
+<event></event>
+<group_sound></group_sound>
+<key>none</key>
+<max_attenuation>0</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>0</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{7d21176f-fc99-481f-a8ca-0e51a172f3a2}" record_timestamp="1459942782811" record_key="wh_blasting_charge">
+<event></event>
+<group_sound>wh_grp_projectile_blasting_charge_explosion</group_sound>
+<key>wh_blasting_charge</key>
+<max_attenuation>400</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{40ea74f8-4f40-4898-b7b9-7ea51dce9c05}" record_timestamp="1447329054026" record_key="wh_bomb">
+<event>Battle_Individual_Projectile_Bomb_Explosion</event>
+<group_sound></group_sound>
+<key>wh_bomb</key>
+<max_attenuation>3000</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{77c943bb-e267-4b04-9364-df3cc9d314d5}" record_timestamp="1430212257696" record_key="wh_carcass">
+<event>Battle_Individual_Projectile_Carcass_Explosion</event>
+<group_sound></group_sound>
+<key>wh_carcass</key>
+<max_attenuation>300</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>0</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{d078fa16-42ac-4fbd-a9f5-e52e01d19b32}" record_timestamp="1486057049909" record_key="wh_comet_of_cas">
+<event>Battle_IND_Magic_Heavens_Comet_Impact</event>
+<group_sound></group_sound>
+<key>wh_comet_of_cas</key>
+<max_attenuation>700</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{7e239c0d-ebf4-41a1-809f-222afdf6effe}" record_timestamp="1462358745344" record_key="wh_copter_steamgun">
+<event>Battle_Individual_Projectile_Steamgun_Explosion</event>
+<group_sound></group_sound>
+<key>wh_copter_steamgun</key>
+<max_attenuation>3000</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{9b6d9f4c-7a0d-42bb-b9f2-e4cac72f2fe6}" record_timestamp="1486057408939" record_key="wh_dlc07_ability_chalice_of_potions">
+<event>Battle_IND_Magic_Bretonnia_Chalice_of_Potions_Impact</event>
+<group_sound></group_sound>
+<key>wh_dlc07_ability_chalice_of_potions</key>
+<max_attenuation>700</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{e5b47086-14ca-4f3c-9492-4bc25de8c828}" record_timestamp="1423237694273" record_key="wh_fireball">
+<event></event>
+<group_sound></group_sound>
+<key>wh_fireball</key>
+<max_attenuation>85</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>0</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{9ba91d5b-9723-4bd1-9df2-bfbe96b5f16b}" record_timestamp="1430128954360" record_key="wh_generic_large">
+<event>Battle_Individual_Projectile_Bomb_Explosion</event>
+<group_sound></group_sound>
+<key>wh_generic_large</key>
+<max_attenuation>600</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{40e2ea1d-ac5c-4021-b0e2-047857ed6020}" record_timestamp="1430128954360" record_key="wh_generic_small">
+<event>Battle_Individual_Projectile_Grenade_Explosion</event>
+<group_sound></group_sound>
+<key>wh_generic_small</key>
+<max_attenuation>600</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{c969d5bd-5e30-4272-a796-bf4c5fc20432}" record_timestamp="1430128954360" record_key="wh_grenade">
+<event>Battle_Individual_Projectile_Grenade_Explosion</event>
+<group_sound></group_sound>
+<key>wh_grenade</key>
+<max_attenuation>600</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{8ea09ac9-5123-4567-bb27-eb7f1d6b289c}" record_timestamp="1430128954360" record_key="wh_large_rock">
+<event>Battle_Individual_Projectile_Mortar_Explosion</event>
+<group_sound></group_sound>
+<key>wh_large_rock</key>
+<max_attenuation>600</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{528052b5-1a18-4b90-b8d6-03354bb9bf5b}" record_timestamp="1461152263769" record_key="wh_lord_of_the_storm">
+<event>Battle_IND_Magic_Ability_Lord_of_the_Storm_Impacts</event>
+<group_sound></group_sound>
+<key>wh_lord_of_the_storm</key>
+<max_attenuation>700</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{c06eb43e-12c5-488a-a2c3-629e55328ec6}" record_timestamp="1439982665396" record_key="wh_main_spell_fire_fireball">
+<event>Battle_Individual_Magic_Fireball_Impact</event>
+<group_sound></group_sound>
+<key>wh_main_spell_fire_fireball</key>
+<max_attenuation>500</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{3c3fd526-a85b-4e97-8cf9-4171e232fde1}" record_timestamp="1454608986999" record_key="wh_main_spell_vampires_gaze_of_nagash">
+<event></event>
+<group_sound>wh_grp_spell_vampires_gaze_of_nagash_impact</group_sound>
+<key>wh_main_spell_vampires_gaze_of_nagash</key>
+<max_attenuation>100</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>0</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{d1c0922d-5156-437a-84d2-30e02682e329}" record_timestamp="1430128954359" record_key="wh_mortar">
+<event>Battle_Individual_Projectile_Mortar_Explosion</event>
+<group_sound></group_sound>
+<key>wh_mortar</key>
+<max_attenuation>600</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{4d903454-ae30-4da4-ad68-4137f21ca7e1}" record_timestamp="1430128954359" record_key="wh_rocket">
+<event>Battle_Individual_Projectile_Rocket_Explosion</event>
+<group_sound></group_sound>
+<key>wh_rocket</key>
+<max_attenuation>600</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{2303cb83-e461-4292-9139-15b7e785fe80}" record_timestamp="1457618971872" record_key="wh_soul">
+<event>Battle_Individual_Projectile_Soul_Explosion</event>
+<group_sound></group_sound>
+<key>wh_soul</key>
+<max_attenuation>400</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{f1193ecf-c506-4e6a-81b1-88960b141118}" record_timestamp="1454069197559" record_key="wh_troll_hammer">
+<event></event>
+<group_sound></group_sound>
+<key>wh_troll_hammer</key>
+<max_attenuation>100</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>0</use_reverb>
+</audio_explosions>
+<audio_explosions record_uuid="{8bf4017f-ca28-44c5-bbe4-873c5e302814}" record_timestamp="1459937692208" record_key="wh_urannons_thunderbolt">
+<event>Battle_IND_Magic_Heavens_Urannons_Thunderbolt_Impact</event>
+<group_sound></group_sound>
+<key>wh_urannons_thunderbolt</key>
+<max_attenuation>700</max_attenuation>
+<obstruction_size>0</obstruction_size>
+<only_trigger_once_per_volley>0</only_trigger_once_per_volley>
+<use_reverb>1</use_reverb>
+</audio_explosions>
+</dataroot>

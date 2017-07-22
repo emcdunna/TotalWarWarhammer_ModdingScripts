@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_trait_to_included_agents>
+<root>
+<edit_uuid>cd1b252d-2204-489b-8307-2cd4149681ef</edit_uuid>
+<agf_special_dependencies></agf_special_dependencies>
+<field>
+<field_uuid>{04bd5df1-f011-4337-9b72-13b0a4f1a2e6}</field_uuid>
+<primary_key>1</primary_key>
+<name>trait</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>50</max_length>
+<column_source_column>trait</column_source_column>
+<column_source_table>trait_info</column_source_table>
+<agf_link_to_dependency>1</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+<agf_done>1</agf_done>
+</field>
+<field>
+<field_uuid>{d5fa9c3e-a294-4ad6-9d4e-a19368bf3ea4}</field_uuid>
+<primary_key>1</primary_key>
+<name>agent</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>50</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>agents</column_source_table>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>1</agf_link_to_dependents>
+<agf_done>1</agf_done>
+</field>
+</root>

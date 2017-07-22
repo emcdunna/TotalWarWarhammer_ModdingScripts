@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_tree_variants.xsd" export_time="Wed Nov 16 19:19:02 2016" revision="49" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>f295f11f-793b-49c0-b4e8-517874279fdc</edit_uuid>
+<campaign_tree_variants record_uuid="{5c694a67-12f0-4e51-9158-4aa7bcac4831}" record_timestamp="1444307755204" record_key="brt_trees_large_1BASE">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>brt_trees_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_large_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{9761fc5d-33b3-49f6-8bf5-f0d78ce01be4}" record_timestamp="1444307755225" record_key="brt_trees_large_2BASE">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>brt_trees_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_large_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{76c7d4c1-9107-4628-83aa-bd71e09d3ad4}" record_timestamp="1444307755246" record_key="brt_trees_large_3BASE">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>brt_trees_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_large_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{ded32ed8-28ee-42a7-93f2-b5ba9cd9c49b}" record_timestamp="1444307755267" record_key="brt_trees_large_4BASE">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>brt_trees_large_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_large_trees_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{784bcbcb-5fec-4bf6-9fc2-76d5bfe15bef}" record_timestamp="1444307755288" record_key="brt_trees_med_1BASE">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>brt_trees_med_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_medium_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{f818a16a-b9ae-4ec8-89c9-ee1d278c71cb}" record_timestamp="1444307755310" record_key="brt_trees_med_2BASE">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>brt_trees_med_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_medium_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{2d152075-0348-4af8-9549-2f2dcfc4fda0}" record_timestamp="1444307755332" record_key="brt_trees_med_3BASE">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>brt_trees_med_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_medium_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{1d84f971-f640-493a-b2a3-08a512ffda47}" record_timestamp="1444307755354" record_key="brt_trees_med_4BASE">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>brt_trees_med_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_medium_trees_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{4dd8ced9-f2f8-4a64-b79b-f147721ef830}" record_timestamp="1441959011900" record_key="grass_1BASE">
+<tree_audio></tree_audio>
+<tree_id>grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/gen_grass_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{157fbaab-a421-4c42-9531-aba869619612}" record_timestamp="1438339440731" record_key="grass_1BRETONNIA">
+<tree_audio></tree_audio>
+<tree_id>grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/brt_grass_01.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{6060d26b-8cf1-4e17-ae50-85a096d566fd}" record_timestamp="1439541180728" record_key="grass_1CHAOS">
+<tree_audio></tree_audio>
+<tree_id>grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/chs_grass_01.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{7be1da9c-e9db-45c7-a1d6-1741ef518d7d}" record_timestamp="1439217705276" record_key="grass_1EMPIRE">
+<tree_audio></tree_audio>
+<tree_id>grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/emp_grass_01.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{747d63a5-3aae-42bc-b4d5-3749c6d6efb9}" record_timestamp="1439217705276" record_key="grass_1GREENSKINS">
+<tree_audio></tree_audio>
+<tree_id>grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/grn_grass_01.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{a694b82d-65a5-4b93-89a8-d02d3636c628}" record_timestamp="1438339440813" record_key="grass_1VAMPIRE">
+<tree_audio></tree_audio>
+<tree_id>grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/vmp_grass_01.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{f4869699-4153-4eb5-af35-900244a7aa85}" record_timestamp="1479323942338" record_key="grass_1WOODELVES">
+<tree_audio></tree_audio>
+<tree_id>grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/wef_grass_01.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{3efa4795-5910-4855-b977-03a5985d1679}" record_timestamp="1441959011900" record_key="grass_2BASE">
+<tree_audio></tree_audio>
+<tree_id>grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/gen_grass_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{3953c613-3f2b-453c-9d0c-8afd33d49083}" record_timestamp="1438339440703" record_key="grass_2BRETONNIA">
+<tree_audio></tree_audio>
+<tree_id>grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/brt_grass_02.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{c4e305c1-0f6e-4d03-99b6-8ba095780800}" record_timestamp="1439541180748" record_key="grass_2CHAOS">
+<tree_audio></tree_audio>
+<tree_id>grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/chs_grass_02.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{07a9e1fb-c4bb-41a4-b49e-97a6e85d307f}" record_timestamp="1439217705276" record_key="grass_2EMPIRE">
+<tree_audio></tree_audio>
+<tree_id>grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/emp_grass_02.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{32d30132-cbce-4485-b89f-6a2eef0136ff}" record_timestamp="1439217705276" record_key="grass_2GREENSKINS">
+<tree_audio></tree_audio>
+<tree_id>grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/grn_grass_02.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{64f057b6-3a88-47d1-8f3c-3cbb9dfab934}" record_timestamp="1438339440786" record_key="grass_2VAMPIRE">
+<tree_audio></tree_audio>
+<tree_id>grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/vmp_grass_02.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{b551c4d1-e5dc-4f5c-9cd8-dbc9d377b2ec}" record_timestamp="1463493865641" record_key="grass_2WOODELVES">
+<tree_audio></tree_audio>
+<tree_id>grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/wef_grass_02.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{dcaf4ca0-e1d1-4ca6-90ca-c69407ec48a7}" record_timestamp="1441959011900" record_key="grass_3BASE">
+<tree_audio></tree_audio>
+<tree_id>grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/gen_grass_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{6567cc8f-145e-45c5-8b2a-5d269dbfc751}" record_timestamp="1438339440675" record_key="grass_3BRETONNIA">
+<tree_audio></tree_audio>
+<tree_id>grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/brt_grass_03.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{51490b56-92e5-4ad7-920e-5a116fac5d51}" record_timestamp="1439541180739" record_key="grass_3CHAOS">
+<tree_audio></tree_audio>
+<tree_id>grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/chs_grass_03.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{a0106033-ba89-4987-9bcf-ad9f82ec8017}" record_timestamp="1439217705276" record_key="grass_3EMPIRE">
+<tree_audio></tree_audio>
+<tree_id>grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/emp_grass_03.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{4865eede-e65f-489c-89f4-2d47ba72709f}" record_timestamp="1439217705276" record_key="grass_3GREENSKINS">
+<tree_audio></tree_audio>
+<tree_id>grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/grn_grass_03.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{49d21065-4682-429a-9f66-84814414f236}" record_timestamp="1438339440759" record_key="grass_3VAMPIRE">
+<tree_audio></tree_audio>
+<tree_id>grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/vmp_grass_03.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{4d85f06a-a2fb-45e9-986d-c27d4492a7f3}" record_timestamp="1479323942339" record_key="grass_3WOODELVES">
+<tree_audio></tree_audio>
+<tree_id>grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/wef_grass_03.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{10e97731-991c-498a-8c1b-db57eeeb753b}" record_timestamp="1441959011900" record_key="grass_4BASE">
+<tree_audio></tree_audio>
+<tree_id>grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/gen_grass_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{25bc80cb-2951-455f-8784-f11afa78273e}" record_timestamp="1438339440646" record_key="grass_4BRETONNIA">
+<tree_audio></tree_audio>
+<tree_id>grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/brt_grass_04.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{f2cc595a-8205-4b99-ac58-0fc1f1ef692e}" record_timestamp="1439541180687" record_key="grass_4CHAOS">
+<tree_audio></tree_audio>
+<tree_id>grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/chs_grass_04.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{a32d8960-970f-427f-bd97-bc6bc37b2afe}" record_timestamp="1439217705276" record_key="grass_4EMPIRE">
+<tree_audio></tree_audio>
+<tree_id>grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/emp_grass_04.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{7afbab23-81a9-4aa8-b3ad-6cd23a06ddfb}" record_timestamp="1439217705276" record_key="grass_4GREENSKINS">
+<tree_audio></tree_audio>
+<tree_id>grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/grn_grass_04.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{7cfd793c-b7a3-4920-99b2-bfb8e50054f3}" record_timestamp="1438339440947" record_key="grass_4VAMPIRE">
+<tree_audio></tree_audio>
+<tree_id>grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/vmp_grass_04.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{d12b460b-c86c-4fff-877c-33fb0bc9ae87}" record_timestamp="1463493865642" record_key="grass_4WOODELVES">
+<tree_audio></tree_audio>
+<tree_id>grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/wef_grass_04.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{ab10ccda-9198-4acd-be85-35ef492d3af6}" record_timestamp="1460470616468" record_key="grn_grass_1BASE">
+<tree_audio></tree_audio>
+<tree_id>grn_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/grn_grass_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{5d6953aa-c113-4d4d-a396-88a83c993932}" record_timestamp="1460470616221" record_key="grn_grass_2BASE">
+<tree_audio></tree_audio>
+<tree_id>grn_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/grn_grass_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{87cc0296-3645-4c36-a8cb-9dddbe1e6d24}" record_timestamp="1460470616283" record_key="grn_grass_3BASE">
+<tree_audio></tree_audio>
+<tree_id>grn_grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/grn_grass_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{2690780c-b935-4aab-a604-72a65ee2e19d}" record_timestamp="1460470616344" record_key="grn_grass_4BASE">
+<tree_audio></tree_audio>
+<tree_id>grn_grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/grn_grass_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{7ff304a7-448a-473d-a5ee-5b37ec5839c3}" record_timestamp="1460470616405" record_key="grn_shrub_1BASE">
+<tree_audio></tree_audio>
+<tree_id>grn_shrub_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/grn_shrubs_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{fbfb06a6-4a49-475b-8808-c270a478e015}" record_timestamp="1460470616530" record_key="grn_shrub_2BASE">
+<tree_audio></tree_audio>
+<tree_id>grn_shrub_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/grn_shrubs_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{6aaf999d-1602-4dae-af36-45591822472b}" record_timestamp="1460470616158" record_key="grn_shrub_3BASE">
+<tree_audio></tree_audio>
+<tree_id>grn_shrub_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/grn_shrubs_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{1b1c404d-099b-4b8e-9c5e-0da5916cd100}" record_timestamp="1444307755376" record_key="grn_tree_extra_large_1BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_extra_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_extra_large_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{01852085-7bf4-4e2e-b207-03e180a70160}" record_timestamp="1444307755398" record_key="grn_tree_extra_large_2BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_extra_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_extra_large_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{f0aed186-2ccb-4538-905d-f5002bbdd9ee}" record_timestamp="1444307755421" record_key="grn_tree_extra_large_3BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_extra_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_extra_large_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{2fc83026-4375-4936-becb-bb23f816134b}" record_timestamp="1444307755444" record_key="grn_tree_large_1BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_large_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{695df712-e4ab-4729-8f8d-e39242f467d8}" record_timestamp="1444307755467" record_key="grn_tree_large_2BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_large_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{58d48849-d970-4360-aba9-37e1c4da4202}" record_timestamp="1444307755490" record_key="grn_tree_large_3BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_large_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{418a9f56-961a-47bb-9e29-436cec05c2d8}" record_timestamp="1444307755513" record_key="grn_tree_large_4BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_large_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_large_trees_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{d1e8d3bf-1f02-4b27-bd79-ab7efc60636c}" record_timestamp="1444307755536" record_key="grn_tree_large_5BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_large_5</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_medium_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{0147d26b-a1d7-4e06-a845-1b8acc3a47c7}" record_timestamp="1444307755560" record_key="grn_tree_med_1BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_med_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_medium_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{f726a186-4e83-4fdd-8cbc-ba2d348ad3ce}" record_timestamp="1444307755583" record_key="grn_tree_med_2BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_med_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_medium_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{1d5cb6aa-3dfa-4b43-b811-8532a3ab1219}" record_timestamp="1444307755607" record_key="grn_tree_med_3BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_med_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_medium_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{efa15410-c259-4a7d-a6bc-7e59d8fb0e51}" record_timestamp="1444307755631" record_key="grn_tree_med_4BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_med_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_medium_trees_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{f9e69141-cfa3-4ce1-8697-bfc18b7bb160}" record_timestamp="1444307755655" record_key="grn_tree_small_1BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_small_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_small_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{3b715cb0-b7c5-4af7-aefe-947f2d6088a8}" record_timestamp="1444307755680" record_key="grn_tree_small_2BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_small_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_small_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{75f4f938-60b1-410d-804e-978539966fd6}" record_timestamp="1444307755705" record_key="grn_tree_small_3BASE">
+<tree_audio>greenskins</tree_audio>
+<tree_id>grn_tree_small_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn2_small_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{cccd9265-b90e-4877-996c-c4b571548e8f}" record_timestamp="1439390533045" record_key="marsh_1BASE">
+<tree_audio></tree_audio>
+<tree_id>marsh_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/marsh_grass/wh_marsh_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{0005c347-0232-4bbb-852f-b3a7eca6161c}" record_timestamp="1439390533228" record_key="marsh_2BASE">
+<tree_audio></tree_audio>
+<tree_id>marsh_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/marsh_grass/wh_marsh_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{ede13d66-b2a6-41fa-8ca1-db68e9c4b23b}" record_timestamp="1439390533411" record_key="marsh_3BASE">
+<tree_audio></tree_audio>
+<tree_id>marsh_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/marsh_grass/wh_marsh_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{7d689956-e843-4292-88f7-ac21027520d8}" record_timestamp="1439390533593" record_key="marsh_4BASE">
+<tree_audio></tree_audio>
+<tree_id>marsh_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/marsh_grass/wh_marsh_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{bc1d7178-ede7-46bb-9aee-10548275e515}" record_timestamp="1439390533776" record_key="marsh_shrubs_1BASE">
+<tree_audio></tree_audio>
+<tree_id>marsh_shrubs_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/wh_marsh_shrubs_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{b2fc2f45-bad1-43e8-ac77-f9a8f852c485}" record_timestamp="1439390533959" record_key="marsh_shrubs_2BASE">
+<tree_audio></tree_audio>
+<tree_id>marsh_shrubs_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/wh_marsh_shrubs_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{790d7a75-a103-477b-833c-3f94e93e2711}" record_timestamp="1441959011899" record_key="mtn_grass_1BASE">
+<tree_audio></tree_audio>
+<tree_id>mtn_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/mtn_grass_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{4301b881-5db4-40d8-8ec5-a4ed969cc000}" record_timestamp="1441959011899" record_key="mtn_grass_2BASE">
+<tree_audio></tree_audio>
+<tree_id>mtn_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/mtn_grass_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{21f339dc-6b0c-4fdc-b8c6-64904eab8383}" record_timestamp="1441959011899" record_key="mtn_grass_3BASE">
+<tree_audio></tree_audio>
+<tree_id>mtn_grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/mtn_grass_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{fff5185e-adf4-4ce8-81e5-f193a78f6e0f}" record_timestamp="1441959011899" record_key="mtn_grass_4BASE">
+<tree_audio></tree_audio>
+<tree_id>mtn_grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/mtn_grass_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{bb2eb486-ef2c-4b47-a928-7e4f7da18162}" record_timestamp="1454428856761" record_key="nagash_grass_1BASE">
+<tree_audio></tree_audio>
+<tree_id>nagash_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/vmp_grass_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{635dbb73-fe49-4e6a-a8bd-10204916a6c2}" record_timestamp="1454428856586" record_key="nagash_grass_2BASE">
+<tree_audio></tree_audio>
+<tree_id>nagash_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/vmp_grass_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{b0e961c9-ec2f-46b5-817d-bd4745327cb0}" record_timestamp="1454428856790" record_key="nagash_grass_3BASE">
+<tree_audio></tree_audio>
+<tree_id>nagash_grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/vmp_grass_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{78ceadfb-7cff-4790-a789-0d85d961cf71}" record_timestamp="1454428856775" record_key="nagash_grass_4BASE">
+<tree_audio></tree_audio>
+<tree_id>nagash_grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/vmp_grass_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{e8057c8b-8a8c-4e42-b280-c0bad64a629d}" record_timestamp="1454428856634" record_key="nagash_shrubs_grass_1BASE">
+<tree_audio></tree_audio>
+<tree_id>nagash_shrubs_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/vmp_shrubs_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{28dc82a8-213a-4809-a934-d122a79228c0}" record_timestamp="1454428856621" record_key="nagash_shrubs_grass_2BASE">
+<tree_audio></tree_audio>
+<tree_id>nagash_shrubs_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/vmp_shrubs_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{a19e5b34-bad5-4590-a86e-ac21bbef5504}" record_timestamp="1454428856609" record_key="nagash_shrubs_grass_3BASE">
+<tree_audio></tree_audio>
+<tree_id>nagash_shrubs_grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/vmp_shrubs_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{c377e57b-aabe-45a7-a8e6-264819b8b2d8}" record_timestamp="1454428856597" record_key="nagash_shrubs_grass_4BASE">
+<tree_audio></tree_audio>
+<tree_id>nagash_shrubs_grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/vmp_shrubs_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{ac508498-f32a-4f16-ba1c-9b2806052a62}" record_timestamp="1454428856688" record_key="nagash_shrubs_grass_5BASE">
+<tree_audio></tree_audio>
+<tree_id>nagash_shrubs_grass_5</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/vmp_shrubs_05.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{7fa0aedd-01f0-47d8-9e53-ea21429d691e}" record_timestamp="1454428856674" record_key="nagash_tree_large_1BASE">
+<tree_audio>vampire</tree_audio>
+<tree_id>nagash_tree_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_large_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{1857b113-41af-4a20-bf5f-f5cef02545bd}" record_timestamp="1454428856661" record_key="nagash_tree_large_2BASE">
+<tree_audio>vampire</tree_audio>
+<tree_id>nagash_tree_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_large_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{4ff3bd6c-be58-4372-9f6f-0f82bf5860e8}" record_timestamp="1454428856648" record_key="nagash_tree_large_3BASE">
+<tree_audio>vampire</tree_audio>
+<tree_id>nagash_tree_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_large_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{3e63a75d-6853-4f8e-9a66-ffcc711720f6}" record_timestamp="1454428856746" record_key="nagash_tree_small_1BASE">
+<tree_audio>vampire</tree_audio>
+<tree_id>nagash_tree_small_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_small_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{1a6ca51d-7115-45f6-9c70-7194789bd573}" record_timestamp="1454428856731" record_key="nagash_tree_small_2BASE">
+<tree_audio>vampire</tree_audio>
+<tree_id>nagash_tree_small_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_small_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{45f7e94f-5251-482d-bc56-557db15fc315}" record_timestamp="1454428856716" record_key="nagash_tree_small_3BASE">
+<tree_audio>vampire</tree_audio>
+<tree_id>nagash_tree_small_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_small_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{c6a7a13a-06d8-4069-8aef-fd07eb5da04d}" record_timestamp="1454428856702" record_key="nagash_tree_small_4BASE">
+<tree_audio>vampire</tree_audio>
+<tree_id>nagash_tree_small_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_small_trees_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{d9307b7d-18aa-4c57-9c07-a10be653f5ee}" record_timestamp="1439390516356" record_key="nor_grass_1BASE">
+<tree_audio></tree_audio>
+<tree_id>nor_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/nor_grass_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{9a23e825-9ee7-4832-a47a-80ecc05a89a4}" record_timestamp="1439390516183" record_key="nor_grass_2BASE">
+<tree_audio></tree_audio>
+<tree_id>nor_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/nor_grass_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{8bba7cc6-2e3d-4a9a-becd-ed409fe97881}" record_timestamp="1439390516012" record_key="nor_grass_3BASE">
+<tree_audio></tree_audio>
+<tree_id>nor_grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/nor_grass_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{39ec91ba-b21d-47bd-a099-392b00760b01}" record_timestamp="1439390515840" record_key="nor_grass_4BASE">
+<tree_audio></tree_audio>
+<tree_id>nor_grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/nor_grass_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{194da3a8-d5f5-44a8-96b9-9d1b243ff252}" record_timestamp="1439547574746" record_key="nor_shrubs_grass_1BASE">
+<tree_audio></tree_audio>
+<tree_id>nor_shrubs_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/nor_shrubs_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{a5e402fb-46a9-4232-869c-35ba0b88f965}" record_timestamp="1439547574756" record_key="nor_shrubs_grass_2BASE">
+<tree_audio></tree_audio>
+<tree_id>nor_shrubs_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/nor_shrubs_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{8e5f009f-40aa-4449-8047-2f0499d43046}" record_timestamp="1444307755730" record_key="nor_tree_large_1BASE">
+<tree_audio>nordic</tree_audio>
+<tree_id>nor_tree_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/nor_large_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{97cd703b-aa21-4efa-96ce-f58b3d5639b6}" record_timestamp="1444307755755" record_key="nor_tree_large_2BASE">
+<tree_audio>nordic</tree_audio>
+<tree_id>nor_tree_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/nor_large_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{b58efad4-b78a-4ed6-9cee-7f32a9e99376}" record_timestamp="1444307755780" record_key="nor_tree_large_3BASE">
+<tree_audio>nordic</tree_audio>
+<tree_id>nor_tree_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/nor_large_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{86c21b73-760e-4825-ba97-b6d37c7cec56}" record_timestamp="1444307755805" record_key="nor_tree_med_1BASE">
+<tree_audio>nordic</tree_audio>
+<tree_id>nor_tree_med_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/nor_medium_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{567fa63a-bae0-4d8b-ad30-9343ea4a4dd3}" record_timestamp="1444307755830" record_key="nor_tree_small_1BASE">
+<tree_audio>nordic</tree_audio>
+<tree_id>nor_tree_small_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/nor_small_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{20fe4670-4652-49a0-b8b4-67426a080ab7}" record_timestamp="1444307755855" record_key="nor_tree_small_2BASE">
+<tree_audio>nordic</tree_audio>
+<tree_id>nor_tree_small_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/nor_small_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{2269065a-3f0f-4fb2-b6cf-a103dc420e60}" record_timestamp="1444307755881" record_key="nor_tree_small_3BASE">
+<tree_audio>nordic</tree_audio>
+<tree_id>nor_tree_small_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/nor_small_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{4a2fff3c-c519-4e7e-9a3d-5d801d6d45ce}" record_timestamp="1444307755906" record_key="nor_tree_small_4BASE">
+<tree_audio>nordic</tree_audio>
+<tree_id>nor_tree_small_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/nor_small_trees_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{5a85325b-d8ad-495f-81c2-8247422b05c2}" record_timestamp="1439556767025" record_key="shrubs_grass_1BASE">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/emp_forest_edge_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{1ce74871-cd89-4389-890e-5ffc8c6169a9}" record_timestamp="1439217705276" record_key="shrubs_grass_1BRETONNIA">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/brt_forest_edge_01.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{a2ac2c48-20a5-42de-b5bb-930d7e40cfcd}" record_timestamp="1439541180653" record_key="shrubs_grass_1CHAOS">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/chs_shrubs_01.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{cb70e57a-7432-4920-af83-1a7291226c15}" record_timestamp="1439217705286" record_key="shrubs_grass_1DWARFS">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/mtn_shrubs_01.rigid_model_v2</tree_rigid>
+<tree_type>DWARFS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{9805262a-bbb9-47bc-82a5-f19738a13040}" record_timestamp="1439217705276" record_key="shrubs_grass_1EMPIRE">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/emp_forest_edge_01.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{73abd95b-e0d6-4bd6-8c7b-824093fb1732}" record_timestamp="1439217705286" record_key="shrubs_grass_1GREENSKINS">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/grn_shrubs_01.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{f90526a4-1f44-477a-9253-7d63a0d55f8a}" record_timestamp="1439217705286" record_key="shrubs_grass_1VAMPIRE">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/vmp_shrubs_01.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{c541ba85-67d2-4dd9-bf4a-5b5fc5fa5231}" record_timestamp="1463493865642" record_key="shrubs_grass_1WOODELVES">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/wef_forest_edge_01.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{3a23f6d2-91a1-4dbf-84c5-ebc0d692f01f}" record_timestamp="1456933228628" record_key="shrubs_grass_2BASE">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/emp_forest_edge_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{0250b151-d63d-41a0-b6f3-007e0005d80e}" record_timestamp="1439217705276" record_key="shrubs_grass_2BRETONNIA">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/brt_forest_edge_02.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{537ab401-ba8d-49d0-8f6d-c10d05c02f4c}" record_timestamp="1439541180718" record_key="shrubs_grass_2CHAOS">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/chs_shrubs_02.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{2910254c-1054-4d77-9d1d-661f906901fe}" record_timestamp="1439217705286" record_key="shrubs_grass_2DWARFS">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/mtn_shrubs_02.rigid_model_v2</tree_rigid>
+<tree_type>DWARFS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{7ff7013c-fc73-4d59-963b-07d27c813659}" record_timestamp="1439217705276" record_key="shrubs_grass_2EMPIRE">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/emp_forest_edge_02.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{f44c87f9-49ed-4785-8ef8-c6f68e5d4f38}" record_timestamp="1439217705286" record_key="shrubs_grass_2GREENSKINS">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/grn_shrubs_02.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{5e7b573b-4176-409a-a1eb-8839f5255f42}" record_timestamp="1439217705286" record_key="shrubs_grass_2VAMPIRE">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/vmp_shrubs_02.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{9638ed9d-e569-4ffd-9951-eb5b3a22a501}" record_timestamp="1463493865642" record_key="shrubs_grass_2WOODELVES">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/wef_forest_edge_02.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{ffae2404-ce4a-443f-b4d5-a3200bba8cc8}" record_timestamp="1456933228621" record_key="shrubs_grass_3BASE">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/emp_forest_edge_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{9895c0e8-77ee-4d2d-8bd6-b5b97ada69bc}" record_timestamp="1439217705276" record_key="shrubs_grass_3BRETONNIA">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/brt_forest_edge_03.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{cc1a0508-5e23-41a9-a5cd-b5eeb55447f0}" record_timestamp="1439541180704" record_key="shrubs_grass_3CHAOS">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/chs_shrubs_03.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{d1b16208-0052-4be8-ae2d-ee35d3bb01c8}" record_timestamp="1439217705276" record_key="shrubs_grass_3EMPIRE">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/emp_forest_edge_03.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{e89bc481-320b-41ce-92e2-3ea7f76de427}" record_timestamp="1439217705286" record_key="shrubs_grass_3GREENSKINS">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/grn_shrubs_03.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{abbbb2c3-9bca-4883-b041-caba3deb3981}" record_timestamp="1439217705286" record_key="shrubs_grass_3VAMPIRE">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/vmp_shrubs_03.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{ff0f9749-18c6-49dc-8239-5b371d92d28d}" record_timestamp="1463493865642" record_key="shrubs_grass_3WOODELVES">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/wef_forest_edge_03.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{3420989c-065e-48cd-b42f-40287b7c1512}" record_timestamp="1439217705276" record_key="shrubs_grass_4BRETONNIA">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/brt_forest_edge_04.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{7139e268-37a2-4eb0-88a0-68ccc442cd7a}" record_timestamp="1459939906311" record_key="shrubs_grass_4CHAOS">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/generic_props/chaos_props/chs_tumour_shrub_00_squirm.wsmodel</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{43facb02-7e78-46c6-8393-0295bfc46247}" record_timestamp="1439217705276" record_key="shrubs_grass_4EMPIRE">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/emp_forest_edge_04.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{b720aa4d-fce8-4ca7-8686-1796eab8bf81}" record_timestamp="1439217705286" record_key="shrubs_grass_4VAMPIRE">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/vmp_shrubs_04.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{1db86199-0605-468c-833b-e25c6644c5e7}" record_timestamp="1463493865642" record_key="shrubs_grass_4WOODELVES">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/wef_forest_edge_04.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{fc8c0728-2a0c-4f36-b420-5c3caab1184b}" record_timestamp="1439217705286" record_key="shrubs_grass_5BRETONNIA">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_5</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/brt_forest_edge_05.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{e068e527-b0a3-414b-978d-95369ec9c809}" record_timestamp="1439981135303" record_key="shrubs_grass_5EMPIRE">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_5</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/emp_forest_edge_05.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{a7138998-ee25-4be9-8f72-9f70b128daf4}" record_timestamp="1439217705286" record_key="shrubs_grass_5VAMPIRE">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_5</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/shrubs_and_grass/vmp_shrubs_05.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{be7d213a-e694-4941-be1d-cecbb6eae3b4}" record_timestamp="1463493865642" record_key="shrubs_grass_5WOODELVES">
+<tree_audio></tree_audio>
+<tree_id>shrubs_grass_5</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/wef_forest_edge_05.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{fc0c24c4-3b3e-453a-a54d-b6151def2e51}" record_timestamp="1444307755958" record_key="tree_large_1BASE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/gen_large_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{ee0df927-8ce7-4a59-83b9-ed0e94cd4606}" record_timestamp="1444307755048" record_key="tree_large_1BRETONNIA">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>tree_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_large_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{babdd983-75d5-47c2-810c-90101e395118}" record_timestamp="1444307579907" record_key="tree_large_1CHAOS">
+<tree_audio>chaos</tree_audio>
+<tree_id>tree_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_large_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{8631c1ca-02c3-4521-80fe-b5a3fc399a33}" record_timestamp="1444307579784" record_key="tree_large_1DWARFS">
+<tree_audio>dwarfs</tree_audio>
+<tree_id>tree_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/mtn_large_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>DWARFS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{3d3a0c6d-d099-4f9e-b5d7-e7c4b7c54fe8}" record_timestamp="1444307579652" record_key="tree_large_1EMPIRE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/emp_large_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{d8d4ccd6-6f36-43fc-aee6-a52ad92f3a4d}" record_timestamp="1444307579546" record_key="tree_large_1GREENSKINS">
+<tree_audio>greenskins</tree_audio>
+<tree_id>tree_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/mtn_large_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{be88f9ab-97e6-4691-876a-fef730bc59e1}" record_timestamp="1444307579464" record_key="tree_large_1VAMPIRE">
+<tree_audio>vampire</tree_audio>
+<tree_id>tree_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_large_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{6ceca4f8-a531-4bca-8e5d-a8295d0050a8}" record_timestamp="1479323942340" record_key="tree_large_1WOODELVES">
+<tree_audio>wood_elves_generic</tree_audio>
+<tree_id>tree_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_large_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{cfb852b9-11e2-476c-af71-9ca6711443d0}" record_timestamp="1456245146805" record_key="tree_large_2BASE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/emp_large_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{3af54b42-7a21-4fa5-b088-590440eb20c1}" record_timestamp="1444307755067" record_key="tree_large_2BRETONNIA">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>tree_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_large_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{c44b2900-e793-4621-89e9-fb5c3d3c86ee}" record_timestamp="1444307579925" record_key="tree_large_2CHAOS">
+<tree_audio>chaos</tree_audio>
+<tree_id>tree_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_large_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{28bc909b-5fb2-4feb-be33-8e4436865aa8}" record_timestamp="1444307579801" record_key="tree_large_2DWARFS">
+<tree_audio>dwarfs</tree_audio>
+<tree_id>tree_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/mtn_large_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>DWARFS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{2fbc71c5-1554-4120-9235-2a6a4d394ebc}" record_timestamp="1444307579668" record_key="tree_large_2EMPIRE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/emp_large_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{46e967f9-5f78-4c98-8b7b-26d982acb453}" record_timestamp="1444307579560" record_key="tree_large_2GREENSKINS">
+<tree_audio>greenskins</tree_audio>
+<tree_id>tree_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/mtn_large_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{903b3351-3a0a-49a5-a4e0-78afe3ee168d}" record_timestamp="1444307579474" record_key="tree_large_2VAMPIRE">
+<tree_audio>vampire</tree_audio>
+<tree_id>tree_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_large_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{7d795b6c-e66f-435e-9092-5889f21395ce}" record_timestamp="1479323942340" record_key="tree_large_2WOODELVES">
+<tree_audio>wood_elves_generic</tree_audio>
+<tree_id>tree_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_large_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{15ad4a8b-d5aa-4ab8-a5ba-015ff81df696}" record_timestamp="1456245146810" record_key="tree_large_3BASE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/emp_large_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{8c60eadc-1139-471d-912e-a31904e5cb0d}" record_timestamp="1444307755086" record_key="tree_large_3BRETONNIA">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>tree_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_large_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{e51535be-c003-41d8-bdb0-a8279324c01f}" record_timestamp="1444307579944" record_key="tree_large_3CHAOS">
+<tree_audio>chaos</tree_audio>
+<tree_id>tree_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_large_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{dcd1a9de-caaf-41d0-9edb-2fb32c367e04}" record_timestamp="1457086840556" record_key="tree_large_3DWARFS">
+<tree_audio>dwarfs</tree_audio>
+<tree_id>tree_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/gen_blank_trees.rigid_model_v2</tree_rigid>
+<tree_type>DWARFS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{4ef1f1a8-1180-46d8-8633-04facd322a03}" record_timestamp="1444307579684" record_key="tree_large_3EMPIRE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/emp_large_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{55a2ec6a-8a40-464b-8619-b2d5a1bc2c24}" record_timestamp="1457086840598" record_key="tree_large_3GREENSKINS">
+<tree_audio>greenskins</tree_audio>
+<tree_id>tree_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/gen_blank_trees.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{755e4f10-8953-4cf9-ae03-3bbebf06fa76}" record_timestamp="1444307579484" record_key="tree_large_3VAMPIRE">
+<tree_audio>vampire</tree_audio>
+<tree_id>tree_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_large_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{999144e9-5b84-4bff-98da-9f4fefbbf9c0}" record_timestamp="1479323942341" record_key="tree_large_3WOODELVES">
+<tree_audio>wood_elves_generic</tree_audio>
+<tree_id>tree_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_large_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{132ecd8c-ef87-4a42-8bf9-c894884cfbae}" record_timestamp="1456933228591" record_key="tree_med_1BASE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_med_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn_small_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{a1074cbb-e934-446a-b7f0-739416013041}" record_timestamp="1444307755105" record_key="tree_med_1BRETONNIA">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>tree_med_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_large_trees_04.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{eed998e6-b014-4765-8616-f0e69848d491}" record_timestamp="1444307579962" record_key="tree_med_1CHAOS">
+<tree_audio>chaos</tree_audio>
+<tree_id>tree_med_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_large_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{f79dfbe1-7355-4443-af03-54f72aa26279}" record_timestamp="1444307579836" record_key="tree_med_1DWARFS">
+<tree_audio>dwarfs</tree_audio>
+<tree_id>tree_med_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/mtn_medium_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>DWARFS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{bb250da2-6509-46b3-9f14-7fb2a1be5431}" record_timestamp="1456243284593" record_key="tree_med_1EMPIRE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_med_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn_small_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{2f64904e-3cb0-4bec-bc1a-ec017572defb}" record_timestamp="1444307579590" record_key="tree_med_1GREENSKINS">
+<tree_audio>greenskins</tree_audio>
+<tree_id>tree_med_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn_small_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{046c9441-08bc-4a0d-be39-e1082741276c}" record_timestamp="1479323942357" record_key="tree_med_1WOODELVES">
+<tree_audio>wood_elves_generic</tree_audio>
+<tree_id>tree_med_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_medium_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{2756fbaf-cbe7-4f0f-af73-9032a5af94fc}" record_timestamp="1444307755932" record_key="tree_small_1BASE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_small_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/gen_medium_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{f3dcf01b-1365-4bad-ab1e-64f814c094e5}" record_timestamp="1444307755125" record_key="tree_small_1BRETONNIA">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>tree_small_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_medium_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{5d1dfe36-83bd-4a94-8179-c14d598ff7f0}" record_timestamp="1444307579981" record_key="tree_small_1CHAOS">
+<tree_audio>chaos</tree_audio>
+<tree_id>tree_small_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/chs_large_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{0c3025d6-00db-4fe7-a61a-e321b64ca72f}" record_timestamp="1444307579854" record_key="tree_small_1DWARFS">
+<tree_audio>dwarfs</tree_audio>
+<tree_id>tree_small_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/mtn_medium_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>DWARFS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{5fc09a8b-cf52-4895-83be-3f40ee721f70}" record_timestamp="1444307579717" record_key="tree_small_1EMPIRE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_small_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/emp_medium_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{b0c42194-03aa-4047-8ecc-a0809dd55bea}" record_timestamp="1444307579605" record_key="tree_small_1GREENSKINS">
+<tree_audio>greenskins</tree_audio>
+<tree_id>tree_small_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn_small_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{70047080-221a-44a5-8bb3-ad545b9d21d0}" record_timestamp="1444307579495" record_key="tree_small_1VAMPIRE">
+<tree_audio>vampire</tree_audio>
+<tree_id>tree_small_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_small_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{881ee251-67a1-47d1-a7e7-d321ead071e7}" record_timestamp="1479323942358" record_key="tree_small_1WOODELVES">
+<tree_audio>wood_elves_generic</tree_audio>
+<tree_id>tree_small_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_small_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{8119e298-23c0-4f73-ac29-d02428ee07bb}" record_timestamp="1456933228603" record_key="tree_small_2BASE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_small_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/emp_medium_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{077075fb-5b67-4f79-83b1-68007516a049}" record_timestamp="1444307755144" record_key="tree_small_2BRETONNIA">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>tree_small_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_medium_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{67a49515-7086-4550-9467-7a5775293e5d}" record_timestamp="1444307580000" record_key="tree_small_2CHAOS">
+<tree_audio>chaos</tree_audio>
+<tree_id>tree_small_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/chs_large_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{ef5d4b46-3dd4-466e-aa3e-aecb6bf6c91b}" record_timestamp="1444307579871" record_key="tree_small_2DWARFS">
+<tree_audio>dwarfs</tree_audio>
+<tree_id>tree_small_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/mtn_small_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>DWARFS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{e864264e-a4f5-441d-8a7e-46d5c7b35f15}" record_timestamp="1444307579734" record_key="tree_small_2EMPIRE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_small_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/emp_medium_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{e67a4ca6-e184-4763-8c3f-8dd09dd3f984}" record_timestamp="1444307579621" record_key="tree_small_2GREENSKINS">
+<tree_audio>greenskins</tree_audio>
+<tree_id>tree_small_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn_medium_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{fb8548cf-70f4-44d8-83dc-1e1f122f1202}" record_timestamp="1444307579507" record_key="tree_small_2VAMPIRE">
+<tree_audio>vampire</tree_audio>
+<tree_id>tree_small_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_small_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{46dc191c-a4f5-4de1-bc4a-c067bd196e8b}" record_timestamp="1479323942365" record_key="tree_small_2WOODELVES">
+<tree_audio>wood_elves_generic</tree_audio>
+<tree_id>tree_small_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_small_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{659f4fb5-6d9e-4c0e-9215-64ed145fe698}" record_timestamp="1456933228597" record_key="tree_small_3BASE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_small_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/emp_medium_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{bde5d128-3cc3-40a4-8bb0-5c819c7d9178}" record_timestamp="1444307755164" record_key="tree_small_3BRETONNIA">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>tree_small_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_medium_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{55519a99-0895-4222-ba70-56576c87ba46}" record_timestamp="1457086840612" record_key="tree_small_3CHAOS">
+<tree_audio>chaos</tree_audio>
+<tree_id>tree_small_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/gen_blank_trees.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{3e1ecdc2-007a-436b-a1a5-4de287a7727a}" record_timestamp="1444307579889" record_key="tree_small_3DWARFS">
+<tree_audio>dwarfs</tree_audio>
+<tree_id>tree_small_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/mtn_small_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>DWARFS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{29060330-39d9-483a-9f0a-2817753e87bc}" record_timestamp="1444307579751" record_key="tree_small_3EMPIRE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_small_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/emp_medium_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{6f896d7b-630a-425c-9254-22a8e71a69f6}" record_timestamp="1444307579636" record_key="tree_small_3GREENSKINS">
+<tree_audio>greenskins</tree_audio>
+<tree_id>tree_small_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/grn_medium_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{8266c681-5f00-4222-87af-9bd442b1f821}" record_timestamp="1444307579520" record_key="tree_small_3VAMPIRE">
+<tree_audio>vampire</tree_audio>
+<tree_id>tree_small_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_small_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{98c09f95-753a-4029-b4fd-27d9ae0bbeaa}" record_timestamp="1479323942366" record_key="tree_small_3WOODELVES">
+<tree_audio>wood_elves_generic</tree_audio>
+<tree_id>tree_small_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_small_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{3da1a177-a865-459a-91eb-07e7f04af578}" record_timestamp="1456933228609" record_key="tree_small_4BASE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_small_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/emp_medium_trees_04.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{0ae5d6fd-dbc8-459f-bb06-520a2457b821}" record_timestamp="1444307755184" record_key="tree_small_4BRETONNIA">
+<tree_audio>bretonnia</tree_audio>
+<tree_id>tree_small_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/brt_medium_trees_04.rigid_model_v2</tree_rigid>
+<tree_type>BRETONNIA</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{67859fbe-56cf-4f05-8842-08e24913946d}" record_timestamp="1457086840628" record_key="tree_small_4CHAOS">
+<tree_audio>chaos</tree_audio>
+<tree_id>tree_small_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/gen_blank_trees.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{d4b64765-51a4-406b-a65a-2ea27008e2a4}" record_timestamp="1457086840544" record_key="tree_small_4DWARFS">
+<tree_audio>dwarfs</tree_audio>
+<tree_id>tree_small_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/gen_blank_trees.rigid_model_v2</tree_rigid>
+<tree_type>DWARFS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{305989e9-893f-4e64-9555-c6f1ad44b7de}" record_timestamp="1444307579767" record_key="tree_small_4EMPIRE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_small_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/emp_medium_trees_04.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{b0bd127c-a32f-4801-973a-a60ccf99c1ca}" record_timestamp="1457086840583" record_key="tree_small_4GREENSKINS">
+<tree_audio>greenskins</tree_audio>
+<tree_id>tree_small_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/gen_blank_trees.rigid_model_v2</tree_rigid>
+<tree_type>GREENSKINS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{05a88a2b-a144-4820-b6a2-a40455dc191e}" record_timestamp="1444307579532" record_key="tree_small_4VAMPIRE">
+<tree_audio>vampire</tree_audio>
+<tree_id>tree_small_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/vmp_small_trees_04.rigid_model_v2</tree_rigid>
+<tree_type>VAMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{d314681c-b1a4-4947-8a0e-8f11dae6c178}" record_timestamp="1479323942367" record_key="tree_small_4WOODELVES">
+<tree_audio>wood_elves_generic</tree_audio>
+<tree_id>tree_small_4</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_small_trees_04.rigid_model_v2</tree_rigid>
+<tree_type>WOODELVES</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{a81a901f-711e-4a9f-bd20-e9d33a649679}" record_timestamp="1457086840643" record_key="tree_small_5CHAOS">
+<tree_audio>chaos</tree_audio>
+<tree_id>tree_small_5</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/gen_blank_trees.rigid_model_v2</tree_rigid>
+<tree_type>CHAOS</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{35fcbb4b-f2f4-4e7a-9259-415751020d22}" record_timestamp="1453377448081" record_key="tree_small_5EMPIRE">
+<tree_audio>empire</tree_audio>
+<tree_id>tree_small_5</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/emp_small_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>EMPIRE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{54b99d71-e818-4399-9e62-107facdce42e}" record_timestamp="1479323942320" record_key="wef_aut_tree_large_1BASE">
+<tree_audio>wood_elves_autumn</tree_audio>
+<tree_id>wef_aut_tree_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_large_autumn_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{0dc8a955-46a6-495a-9499-c2c9f1d72f92}" record_timestamp="1479323942322" record_key="wef_aut_tree_large_2BASE">
+<tree_audio>wood_elves_autumn</tree_audio>
+<tree_id>wef_aut_tree_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_large_autumn_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{7dfc7967-80bb-4bfc-afa2-16bec41e3dd2}" record_timestamp="1479323942321" record_key="wef_aut_tree_large_3BASE">
+<tree_audio>wood_elves_autumn</tree_audio>
+<tree_id>wef_aut_tree_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_large_autumn_trees_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{9c621bd5-7635-466f-995a-fb08aaa9283c}" record_timestamp="1479323942323" record_key="wef_aut_tree_medium_1BASE">
+<tree_audio>wood_elves_autumn</tree_audio>
+<tree_id>wef_aut_tree_medium_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_medium_autumn_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{4fe439f5-8741-4c06-b99b-f67028808779}" record_timestamp="1479323942325" record_key="wef_aut_tree_small_1BASE">
+<tree_audio>wood_elves_autumn</tree_audio>
+<tree_id>wef_aut_tree_small_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_small_autumn_trees_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{19a603d4-2e9f-4a46-963e-15215336c0be}" record_timestamp="1479323942324" record_key="wef_aut_tree_small_2BASE">
+<tree_audio>wood_elves_autumn</tree_audio>
+<tree_id>wef_aut_tree_small_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_small_autumn_trees_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{17cde489-1353-4e91-9498-0ed65bc4f1c0}" record_timestamp="1479323942367" record_key="wef_wild_grass_1BASE">
+<tree_audio></tree_audio>
+<tree_id>wef_wild_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/wef_grass_wild_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{6c652f3c-edd0-413f-8c8a-4b19a6d74c4c}" record_timestamp="1479323942368" record_key="wef_wild_grass_2BASE">
+<tree_audio></tree_audio>
+<tree_id>wef_wild_grass_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/wef_grass_wild_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{13469466-a751-474f-a4e4-1001fc656b9e}" record_timestamp="1479323942369" record_key="wef_wild_grass_3BASE">
+<tree_audio></tree_audio>
+<tree_id>wef_wild_grass_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/grass/wef_grass_wild_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{598a149e-8104-466a-8476-c430f1cd13ef}" record_timestamp="1479323942369" record_key="wef_wild_shrubs_grass_1BASE">
+<tree_audio></tree_audio>
+<tree_id>wef_wild_shrubs_grass_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/forest_edge/wef_forest_edge_wild_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{ab51ff7d-00f1-4b30-a217-9b36b3736e33}" record_timestamp="1479323942370" record_key="wef_win_tree_large_1BASE">
+<tree_audio>wood_elves_winter</tree_audio>
+<tree_id>wef_win_tree_large_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_large_trees_winter_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{3d5267bf-4fe2-475e-bcaf-ecfe10035f1b}" record_timestamp="1479323942370" record_key="wef_win_tree_large_2BASE">
+<tree_audio>wood_elves_winter</tree_audio>
+<tree_id>wef_win_tree_large_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_large_trees_winter_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{27797136-b899-4f11-9064-225860c19153}" record_timestamp="1479323942371" record_key="wef_win_tree_large_3BASE">
+<tree_audio>wood_elves_winter</tree_audio>
+<tree_id>wef_win_tree_large_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_large_trees_winter_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{0c9692be-1fa9-4b08-9d8b-31636104970d}" record_timestamp="1479323942372" record_key="wef_win_tree_medium_1BASE">
+<tree_audio>wood_elves_winter</tree_audio>
+<tree_id>wef_win_tree_medium_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_medium_trees_winter_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{e4295b32-bf46-45db-9d43-1df7e0949886}" record_timestamp="1479323942372" record_key="wef_win_tree_small_1BASE">
+<tree_audio>wood_elves_winter</tree_audio>
+<tree_id>wef_win_tree_small_1</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_small_trees_winter_01.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{0d35a4f5-c058-4560-9871-090caf9e8b9b}" record_timestamp="1479323942373" record_key="wef_win_tree_small_2BASE">
+<tree_audio>wood_elves_winter</tree_audio>
+<tree_id>wef_win_tree_small_2</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_small_trees_winter_02.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+<campaign_tree_variants record_uuid="{9f32c949-73bb-481b-a6ef-eaf47889815a}" record_timestamp="1479323942374" record_key="wef_win_tree_small_3BASE">
+<tree_audio>wood_elves_winter</tree_audio>
+<tree_id>wef_win_tree_small_3</tree_id>
+<tree_rigid>RigidModels/campaign/vegetation/trees/wef_small_trees_winter_03.rigid_model_v2</tree_rigid>
+<tree_type>BASE</tree_type>
+</campaign_tree_variants>
+</dataroot>

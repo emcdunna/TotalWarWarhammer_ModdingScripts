@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_group_member_criteria_morale_levels.xsd" export_time="Wed Apr 6 09:45:49 2016" revision="8" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>dd873700-2955-428e-9348-488776d3fa4e</edit_uuid>
+<campaign_group_member_criteria_morale_levels record_uuid="{e320d6be-ec91-493b-a8c7-5ea7e3c232b7}" record_timestamp="1459932347400" record_key="wh_beastmen_morale_high">
+<max_range>100</max_range>
+<member>wh_beastmen_morale_high</member>
+<min_range>71</min_range>
+</campaign_group_member_criteria_morale_levels>
+<campaign_group_member_criteria_morale_levels record_uuid="{84e73d4f-5ed1-4231-bdd7-fc6ef48caeaa}" record_timestamp="1459932347400" record_key="wh_beastmen_morale_low">
+<max_range>40</max_range>
+<member>wh_beastmen_morale_low</member>
+<min_range>21</min_range>
+</campaign_group_member_criteria_morale_levels>
+<campaign_group_member_criteria_morale_levels record_uuid="{c4706723-e271-4c9b-83e8-ab43ba68adf8}" record_timestamp="1459932347401" record_key="wh_beastmen_morale_mid">
+<max_range>70</max_range>
+<member>wh_beastmen_morale_mid</member>
+<min_range>41</min_range>
+</campaign_group_member_criteria_morale_levels>
+<campaign_group_member_criteria_morale_levels record_uuid="{b45e14fd-18eb-4161-83d8-a1fd750e0142}" record_timestamp="1455545614531" record_key="wh_beastmen_morale_very_low">
+<max_range>20</max_range>
+<member>wh_beastmen_morale_very_low</member>
+<min_range>0</min_range>
+</campaign_group_member_criteria_morale_levels>
+<campaign_group_member_criteria_morale_levels record_uuid="{3f7cd89a-c73a-4162-8fc3-5b7565327426}" record_timestamp="1445440693658" record_key="wh_greenskins_morale_high">
+<max_range>100</max_range>
+<member>wh_greenskins_morale_high</member>
+<min_range>71</min_range>
+</campaign_group_member_criteria_morale_levels>
+<campaign_group_member_criteria_morale_levels record_uuid="{6b04b6e3-7689-4af1-9a27-3ff1ccd43eed}" record_timestamp="1448469504773" record_key="wh_greenskins_morale_low">
+<max_range>40</max_range>
+<member>wh_greenskins_morale_low</member>
+<min_range>21</min_range>
+</campaign_group_member_criteria_morale_levels>
+<campaign_group_member_criteria_morale_levels record_uuid="{2c1e1984-5d70-4535-ab2e-f207f73d5818}" record_timestamp="1445440693653" record_key="wh_greenskins_morale_mid">
+<max_range>70</max_range>
+<member>wh_greenskins_morale_mid</member>
+<min_range>41</min_range>
+</campaign_group_member_criteria_morale_levels>
+<campaign_group_member_criteria_morale_levels record_uuid="{fb9a7332-538e-4ccf-ba81-29178e5a7cf7}" record_timestamp="1448469504788" record_key="wh_greenskins_morale_very_low">
+<max_range>20</max_range>
+<member>wh_greenskins_morale_very_low</member>
+<min_range>0</min_range>
+</campaign_group_member_criteria_morale_levels>
+</dataroot>

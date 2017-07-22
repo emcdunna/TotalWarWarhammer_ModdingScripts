@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="special_ability_invalid_usage_flags.xsd" export_time="Mon Feb 13 10:14:55 2017" revision="62" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>7815ed30-39a2-4d54-843c-9cc57d5c1786</edit_uuid>
+<special_ability_invalid_usage_flags record_uuid="{95c9cbed-d60c-4860-bb35-39c6612f8bda}" record_timestamp="1486118310175" record_key="army_is_full">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Army is full" last_edit_user="bob">Army is full</flag_description>
+<flag_key>army_is_full</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{dec7508e-ab10-4075-ac8e-38f981d287e5}" record_timestamp="1481046322066" record_key="cannot_find_enemies_in_intercept_range">
+<alt_description state="APPROVED" last_approved_text="Enemy presence in ability range. " last_edit_user="bob">Enemy presence in ability range. </alt_description>
+<flag_description state="APPROVED" last_approved_text="No enemy presence in ability range" last_edit_user="bob">No enemy presence in ability range</flag_description>
+<flag_key>cannot_find_enemies_in_intercept_range</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{70fab0e1-57ca-4d80-8692-04710782ed57}" record_timestamp="1486118310174" record_key="cannot_perform_missile_attack">
+<alt_description state="APPROVED" last_approved_text="Missile attack possible" last_edit_user="bob">Missile attack possible</alt_description>
+<flag_description state="APPROVED" last_approved_text="Missile attack impossible" last_edit_user="bob">Missile attack impossible</flag_description>
+<flag_key>cannot_perform_missile_attack</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{ded7c952-b460-44ec-a7ed-a966af02709c}" record_timestamp="1441094215154" record_key="climbing">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Climbing" last_edit_user="bob">Climbing</flag_description>
+<flag_key>climbing</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{b7406912-eb12-4f2b-a820-ce19611edee0}" record_timestamp="1486118310174" record_key="defending_a_zone">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Docked to cover" last_edit_user="bob">Docked to cover</flag_description>
+<flag_key>defending_a_zone</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{5dbb2204-cccf-4bf4-9ba5-ee76b4624b0d}" record_timestamp="1462358737948" record_key="disembarked_from_a_ship">
+<alt_description state="APPROVED" last_approved_text="Embarked" last_edit_user="bob">Embarked</alt_description>
+<flag_description state="APPROVED" last_approved_text="Disembarked" last_edit_user="bob">Disembarked</flag_description>
+<flag_key>disembarked_from_a_ship</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{e32f93a8-932e-408f-b1db-c6de895b52ce}" record_timestamp="1462358737948" record_key="dismounted">
+<alt_description state="APPROVED" last_approved_text="Mounted" last_edit_user="bob">Mounted</alt_description>
+<flag_description state="APPROVED" last_approved_text="Dismounted" last_edit_user="bob">Dismounted</flag_description>
+<flag_key>dismounted</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{e6a3b899-3731-4a07-b7ca-2244d9134efb}" record_timestamp="1445438945560" record_key="embarked_on_a_ship">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Embarked" last_edit_user="bob">Embarked</flag_description>
+<flag_key>embarked_on_a_ship</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{7a89be4a-ddba-4194-8448-097ff95e2cd0}" record_timestamp="1481046322064" record_key="enemies_in_intercept_range">
+<alt_description state="APPROVED" last_approved_text="No enemy presence in ability range" last_edit_user="bob">No enemy presence in ability range</alt_description>
+<flag_description state="APPROVED" last_approved_text="Enemy presence in ability range. " last_edit_user="bob">Enemy presence in ability range. </flag_description>
+<flag_key>enemies_in_intercept_range</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{01e796ae-5a2b-40b9-a6ba-c41445a92715}" record_timestamp="1486118310174" record_key="engaged_in_melee">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Engaged in melee" last_edit_user="bob">Engaged in melee</flag_description>
+<flag_key>engaged_in_melee</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{5ce9a37f-f5bf-454a-b9d5-57345331e279}" record_timestamp="1436255288206" record_key="enraged">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Enraged" last_edit_user="bob">Enraged</flag_description>
+<flag_key>enraged</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{06100f9f-789f-4eea-bf0a-372b846c472c}" record_timestamp="1445438945575" record_key="flying_currently">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Flying" last_edit_user="bob">Flying</flag_description>
+<flag_key>flying_currently</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{5cb9fff5-b16a-4aa7-b081-970d86a9960d}" record_timestamp="1486118310174" record_key="flying_unit">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Flying unit" last_edit_user="bob">Flying unit</flag_description>
+<flag_key>flying_unit</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{45546726-1d61-426f-87ff-7de20d96b071}" record_timestamp="1486118310174" record_key="ground_unit">
+<alt_description state="APPROVED" last_approved_text="Flying unit" last_edit_user="bob">Flying unit</alt_description>
+<flag_description state="APPROVED" last_approved_text="Ground unit" last_edit_user="bob">Ground unit</flag_description>
+<flag_key>ground_unit</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{b81d0254-c2df-4341-b483-737ffaa8caa2}" record_timestamp="1462358737949" record_key="grounded">
+<alt_description state="APPROVED" last_approved_text="Flying" last_edit_user="bob">Flying</alt_description>
+<flag_description state="APPROVED" last_approved_text="Grounded" last_edit_user="bob">Grounded</flag_description>
+<flag_key>grounded</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{5c45e430-43cd-4501-9199-46f4b646baea}" record_timestamp="1463569532879" record_key="health_above_20%">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_health.png]][[/img]]Hit Points greater than 20%" last_edit_user="bob">[[img:ui/skins/default/icon_stat_health.png]][[/img]]Hit Points greater than 20%</flag_description>
+<flag_key>health_above_20%</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{76ba8d34-97fa-4abe-b47c-cf5f8a4b4199}" record_timestamp="1477038874558" record_key="health_above_50%">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="[[img:ui/skins/default/icon_stat_health.png]][[/img]]Hit Points greater than 50%" last_edit_user="bob">[[img:ui/skins/default/icon_stat_health.png]][[/img]]Hit Points greater than 50%</flag_description>
+<flag_key>health_above_50%</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{af5d1aa7-b837-41ba-932f-36c81cc36031}" record_timestamp="1474282561570" record_key="hp_replenish_cap_reached">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Hit point replenishment cap reached" last_edit_user="bob">Hit point replenishment cap reached</flag_description>
+<flag_key>hp_replenish_cap_reached</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{3913046c-8ca3-474d-9e8e-cfe87805e2f4}" record_timestamp="1462358737949" record_key="living_unit">
+<alt_description state="APPROVED" last_approved_text="Undead" last_edit_user="bob">Undead</alt_description>
+<flag_description state="APPROVED" last_approved_text="Living" last_edit_user="bob">Living</flag_description>
+<flag_key>living_unit</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{704fe7f8-557c-48df-9a46-be4f05daa900}" record_timestamp="1486118310174" record_key="losing_melee_combat">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Losing melee combat" last_edit_user="bob">Losing melee combat</flag_description>
+<flag_key>losing_melee_combat</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{393720bd-6449-4f8c-a031-b318826317b3}" record_timestamp="1486118310174" record_key="manning_equipment">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Manning equipment" last_edit_user="bob">Manning equipment</flag_description>
+<flag_key>manning_equipment</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{0db37fd3-cfbe-42e1-a79c-539aab84c98d}" record_timestamp="1486118310174" record_key="morale_is_broken_or_lower">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="[[img:icon_morale]][[/img]]{{tr:morale}} is broken" last_edit_user="bob">[[img:icon_morale]][[/img]]{{tr:morale}} is broken</flag_description>
+<flag_key>morale_is_broken_or_lower</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{0e5905d4-6246-49e1-8d40-b05bcb92024b}" record_timestamp="1463569327260" record_key="morale_is_higher_than_broken">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="[[img:icon_morale]][[/img]]{{tr:morale}} is above zero" last_edit_user="bob">[[img:icon_morale]][[/img]]{{tr:morale}} is above zero</flag_description>
+<flag_key>morale_is_higher_than_broken</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{39c9be18-f660-424a-8934-8d9b139791b8}" record_timestamp="1477035608958" record_key="morale_is_higher_than_half_of_base_morale">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="[[img:icon_morale]][[/img]]{{tr:morale}} is higher than 50%" last_edit_user="bob">[[img:icon_morale]][[/img]]{{tr:morale}} is higher than 50%</flag_description>
+<flag_key>morale_is_higher_than_half_of_base_morale</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{4e5aa2cd-8150-4c09-9326-35a0f3d01a26}" record_timestamp="1486118310174" record_key="morale_is_higher_than_shattered">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="[[img:icon_morale]][[/img]]{{tr:morale}} is above shattered" last_edit_user="bob">[[img:icon_morale]][[/img]]{{tr:morale}} is above shattered</flag_description>
+<flag_key>morale_is_higher_than_shattered</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{9879ae5f-dfda-4fd7-9a50-660b3a26585f}" record_timestamp="1486118310174" record_key="morale_is_higher_than_wavering">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="[[img:icon_morale]][[/img]]{{tr:morale}} is high" last_edit_user="bob">[[img:icon_morale]][[/img]]{{tr:morale}} is high</flag_description>
+<flag_key>morale_is_higher_than_wavering</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{20361c4b-b859-4f84-8021-7364225a8c29}" record_timestamp="1477035608957" record_key="morale_is_lower_than_half_of_base_morale">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="[[img:icon_morale]][[/img]]{{tr:morale}} is lower than 50%" last_edit_user="bob">[[img:icon_morale]][[/img]]{{tr:morale}} is lower than 50%</flag_description>
+<flag_key>morale_is_lower_than_half_of_base_morale</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{a95de9a8-5149-4dda-b953-cc66baa30ef7}" record_timestamp="1486118310174" record_key="morale_is_wavering_or_lower">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="[[img:icon_morale]][[/img]]{{tr:morale}} is wavering" last_edit_user="bob">[[img:icon_morale]][[/img]]{{tr:morale}} is wavering</flag_description>
+<flag_key>morale_is_wavering_or_lower</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{12f418b2-4e38-4334-96d5-46ca696cd933}" record_timestamp="1436255288372" record_key="moving">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Moving" last_edit_user="bob">Moving</flag_description>
+<flag_key>moving</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{1aa36153-c044-4738-9d3f-b7d2e4063d86}" record_timestamp="1462358737949" record_key="not_yet_enraged">
+<alt_description state="APPROVED" last_approved_text="Enraged" last_edit_user="bob">Enraged</alt_description>
+<flag_description state="APPROVED" last_approved_text="Calm" last_edit_user="bob">Calm</flag_description>
+<flag_key>not_yet_enraged</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{04393a91-aa79-4573-a153-014b84562a1a}" record_timestamp="1486118310174" record_key="officer_dead">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Officer is dead" last_edit_user="bob">Officer is dead</flag_description>
+<flag_key>officer_dead</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{cc68f084-4241-4114-b127-b5754a9c7580}" record_timestamp="1486118310174" record_key="on_a_platform">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="On a wall" last_edit_user="bob">On a wall</flag_description>
+<flag_key>on_a_platform</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{70f35f4d-3b50-4da5-96ee-1fb58c0d3d46}" record_timestamp="1486118310175" record_key="other_abilities_at_least_one_on_wind_up">
+<alt_description state="APPROVED" last_approved_text="Casting is absent" last_edit_user="bob">Casting is absent</alt_description>
+<flag_description state="APPROVED" last_approved_text="Casting" last_edit_user="bob">Casting</flag_description>
+<flag_key>other_abilities_at_least_one_on_wind_up</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{71560a24-f61b-49ef-b2fa-a12f73992fc1}" record_timestamp="1486118310174" record_key="other_abilities_none_on_wind_up">
+<alt_description state="APPROVED" last_approved_text="Casting" last_edit_user="bob">Casting</alt_description>
+<flag_description state="APPROVED" last_approved_text="Casting is absent" last_edit_user="bob">Casting is absent</flag_description>
+<flag_key>other_abilities_none_on_wind_up</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{16a742a4-9b3d-4549-b8c0-02192c7ea1ad}" record_timestamp="1486118310174" record_key="out_of_melee">
+<alt_description state="APPROVED" last_approved_text="In melee" last_edit_user="bob">In melee</alt_description>
+<flag_description state="APPROVED" last_approved_text="Out of melee" last_edit_user="bob">Out of melee</flag_description>
+<flag_key>out_of_melee</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{f484339f-2a02-4581-95d8-a262ff421bee}" record_timestamp="1486118310173" record_key="phase_is_deployment">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Being deployed" last_edit_user="bob">Being deployed</flag_description>
+<flag_key>phase_is_deployment</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{78219891-1ca7-435c-8e6f-848cbfb7944d}" record_timestamp="1486118310173" record_key="phase_is_the_end_phase">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Battle outcome decided" last_edit_user="bob">Battle outcome decided</flag_description>
+<flag_key>phase_is_the_end_phase</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{8ef78c2c-8368-4a9c-890d-95d401f3623a}" record_timestamp="1443016535552" record_key="undead_unit">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Undead" last_edit_user="bob">Undead</flag_description>
+<flag_key>undead_unit</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{44993238-51c0-469c-a4ca-54ab3a24b465}" record_timestamp="1486118310173" record_key="unit_alive">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Unit is alive" last_edit_user="bob">Unit is alive</flag_description>
+<flag_key>unit_alive</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{09cb496b-7b42-4312-9d60-fc961b3e255e}" record_timestamp="1486118310173" record_key="unit_dead">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Unit is dead" last_edit_user="bob">Unit is dead</flag_description>
+<flag_key>unit_dead</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{b7212e0e-476d-4ab3-b180-13e1bf8480f5}" record_timestamp="1479308857863" record_key="unit_in_forest">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Unit is in forest" last_edit_user="bob">Unit is in forest</flag_description>
+<flag_key>unit_in_forest</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{45b08a3d-2733-4cde-ab91-9496eb2285ce}" record_timestamp="1479323966046" record_key="unit_is_commander_class">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Unit is Lord or Hero" last_edit_user="bob">Unit is Lord or Hero</flag_description>
+<flag_key>unit_is_commander_class</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{22b32957-136a-4fab-9e30-fa22866972ef}" record_timestamp="1479323966047" record_key="unit_is_not_commander_class">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Unit is not Lord or Hero" last_edit_user="bob">Unit is not Lord or Hero</flag_description>
+<flag_key>unit_is_not_commander_class</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{1046bde8-22a6-4c32-b808-b0cd4c528a88}" record_timestamp="1486980895761" record_key="unit_is_not_in_forest">
+<alt_description state="NOT_APPROVED" last_approved_text="Unit is not in forest" last_edit_user="bob"></alt_description>
+<flag_description state="APPROVED" last_approved_text="Unit is not in forest" last_edit_user="bob">Unit is not in forest</flag_description>
+<flag_key>unit_is_not_in_forest</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{35c25fc0-50ca-45ac-8aa3-529058f755e4}" record_timestamp="1486118310173" record_key="winning_melee_combat">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Winning melee combat" last_edit_user="bob">Winning melee combat</flag_description>
+<flag_key>winning_melee_combat</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{c8b28091-cbb8-424b-8de1-189191fb35d9}" record_timestamp="1463569327315" record_key="z[DONT_USE]mana_cost_too_much">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="You cannot afford to cast this spell." last_edit_user="bob">You cannot afford to cast this spell.</flag_description>
+<flag_key>z[DONT_USE]mana_cost_too_much</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{e82da998-95d6-4e6a-b03d-6d914f35b19f}" record_timestamp="1486118310175" record_key="z[DONT_USE]out_of_range">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Out of range" last_edit_user="bob">Out of range</flag_description>
+<flag_key>z[DONT_USE]out_of_range</flag_key>
+</special_ability_invalid_usage_flags>
+<special_ability_invalid_usage_flags record_uuid="{2ca2e983-2b5c-4324-bb37-101f1f58c95f}" record_timestamp="1457615354994" record_key="z[DONT_USE]outside_fire_arc">
+<alt_description></alt_description>
+<flag_description state="APPROVED" last_approved_text="Outside firing arc" last_edit_user="bob">Outside firing arc</flag_description>
+<flag_key>z[DONT_USE]outside_fire_arc</flag_key>
+</special_ability_invalid_usage_flags>
+</dataroot>

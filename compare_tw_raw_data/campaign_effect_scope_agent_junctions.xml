@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_effect_scope_agent_junctions.xsd" export_time="Tue Sep 8 16:59:40 2015" revision="16" export_branch="D:/TW/warhammer/binaries" export_user="bob">
+<edit_uuid>658e1b23-de0a-45f7-825c-258ef948db91</edit_uuid>
+<campaign_effect_scope_agent_junctions record_uuid="{245952f7-81e7-4b50-8faa-5fe499ab60fd}" record_timestamp="1425551890518" record_key="faction_to_character_ownchampion">
+<agent_key>champion</agent_key>
+<campaign_effect_scope_key>faction_to_character_own</campaign_effect_scope_key>
+</campaign_effect_scope_agent_junctions>
+<campaign_effect_scope_agent_junctions record_uuid="{3b3289c3-8b42-46be-8c9f-a2a8d6a96b2b}" record_timestamp="1425551890518" record_key="faction_to_character_owndignitary">
+<agent_key>dignitary</agent_key>
+<campaign_effect_scope_key>faction_to_character_own</campaign_effect_scope_key>
+</campaign_effect_scope_agent_junctions>
+<campaign_effect_scope_agent_junctions record_uuid="{7826f85f-24e0-4dce-9e33-8253ff5e1fc6}" record_timestamp="1427185420391" record_key="faction_to_character_ownengineer">
+<agent_key>engineer</agent_key>
+<campaign_effect_scope_key>faction_to_character_own</campaign_effect_scope_key>
+</campaign_effect_scope_agent_junctions>
+<campaign_effect_scope_agent_junctions record_uuid="{fcdd19fc-6304-4501-9ec9-6f662fecb272}" record_timestamp="1425551890518" record_key="faction_to_character_owngeneral">
+<agent_key>general</agent_key>
+<campaign_effect_scope_key>faction_to_character_own</campaign_effect_scope_key>
+</campaign_effect_scope_agent_junctions>
+<campaign_effect_scope_agent_junctions record_uuid="{9b9de890-409c-4ca3-89ec-23a28f0d001d}" record_timestamp="1427185420362" record_key="faction_to_character_ownrunesmith">
+<agent_key>runesmith</agent_key>
+<campaign_effect_scope_key>faction_to_character_own</campaign_effect_scope_key>
+</campaign_effect_scope_agent_junctions>
+<campaign_effect_scope_agent_junctions record_uuid="{96438b8c-8387-4c6a-929d-b63597184410}" record_timestamp="1425551890518" record_key="faction_to_character_ownspy">
+<agent_key>spy</agent_key>
+<campaign_effect_scope_key>faction_to_character_own</campaign_effect_scope_key>
+</campaign_effect_scope_agent_junctions>
+<campaign_effect_scope_agent_junctions record_uuid="{743e0f5e-18a1-4e44-8964-ac9af75bf0c3}" record_timestamp="1427185420299" record_key="faction_to_character_ownwizard">
+<agent_key>wizard</agent_key>
+<campaign_effect_scope_key>faction_to_character_own</campaign_effect_scope_key>
+</campaign_effect_scope_agent_junctions>
+<campaign_effect_scope_agent_junctions record_uuid="{050ddccc-42e3-42a9-9a23-84d322ad4d15}" record_timestamp="1425551890518" record_key="faction_to_general_owngeneral">
+<agent_key>general</agent_key>
+<campaign_effect_scope_key>faction_to_general_own</campaign_effect_scope_key>
+</campaign_effect_scope_agent_junctions>
+</dataroot>

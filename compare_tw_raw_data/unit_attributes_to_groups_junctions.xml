@@ -1,0 +1,2152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_attributes_to_groups_junctions.xsd" export_time="Thu Jan 19 17:10:10 2017" revision="94" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>4e478a75-c87e-4b77-9cb9-11f4b3386bb1</edit_uuid>
+<unit_attributes_to_groups_junctions record_uuid="{982975e0-11ff-4cec-8dc3-9c15c896fda9}" record_timestamp="1378127562109" record_key="berserkberserker_infantry_cold">
+<attribute>berserk</attribute>
+<attribute_group>berserker_infantry_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c552aceb-d4fa-4871-9221-f7fc12645da4}" record_timestamp="1444923426681" record_key="berserkwh_berserk_fear">
+<attribute>berserk</attribute>
+<attribute_group>wh_berserk_fear</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{29cbe3df-2f8d-46b1-b903-f3dc0f540137}" record_timestamp="1444923426815" record_key="berserkwh_berserk_fear_terror_undead">
+<attribute>berserk</attribute>
+<attribute_group>wh_berserk_fear_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{eb21e82d-96af-4b15-800b-2b4d7eba386b}" record_timestamp="1426609577759" record_key="berserkwh_berserker_infantry">
+<attribute>berserk</attribute>
+<attribute_group>wh_berserker_infantry</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9e31f333-8b0c-4d9f-a7f6-75cf7370762d}" record_timestamp="1363248643724" record_key="cant_runartillery">
+<attribute>cant_run</attribute>
+<attribute_group>artillery</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{04393aa1-958b-4c36-a389-74f891e64a4a}" record_timestamp="1378127562064" record_key="cant_runartillery_cold">
+<attribute>cant_run</attribute>
+<attribute_group>artillery_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8d644878-b002-4186-82c1-f7d37cd33116}" record_timestamp="1429713342620" record_key="cant_runwh_amok_cantRun_fear_immuneToPsych">
+<attribute>cant_run</attribute>
+<attribute_group>wh_amok_cantRun_fear_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{77ea29b1-e51c-44b4-948b-f1a08e4e4f9c}" record_timestamp="1441291610069" record_key="cant_runwh_cantRun">
+<attribute>cant_run</attribute>
+<attribute_group>wh_cantRun</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{97791e8e-889a-4e26-a475-45f27991f242}" record_timestamp="1441291610032" record_key="cant_runwh_cantRun_encourage">
+<attribute>cant_run</attribute>
+<attribute_group>wh_cantRun_encourage</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{66b51c35-4623-4daf-951d-cb8d2cbd822b}" record_timestamp="1435076404617" record_key="cant_runwh_cantRun_encourage_heatResist">
+<attribute>cant_run</attribute>
+<attribute_group>wh_cantRun_encourage_heatResist</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{e024a8b5-aa97-4989-be83-1870c3947324}" record_timestamp="1429713344113" record_key="cant_runwh_cantRun_fear_terror">
+<attribute>cant_run</attribute>
+<attribute_group>wh_cantRun_fear_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{0a1591c1-7ad5-4590-ae31-65d7b42e18a6}" record_timestamp="1435137553019" record_key="cant_runwh_cantRun_heatResist">
+<attribute>cant_run</attribute>
+<attribute_group>wh_cantRun_heatResist</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{986adb15-ba48-4035-9d48-c7112fa8553b}" record_timestamp="1470149672622" record_key="cant_runwh_cantRun_immuneToPsych">
+<attribute>cant_run</attribute>
+<attribute_group>wh_cantRun_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2aa94dab-28c6-4f49-907d-6f0fdc1e3218}" record_timestamp="1445584091073" record_key="cant_runwh_cantRun_unbreakable">
+<attribute>cant_run</attribute>
+<attribute_group>wh_cantRun_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c148c803-9d1e-4fb5-95e9-646f3d9c9b20}" record_timestamp="1429631489637" record_key="causes_fearberserker_infantry_cold">
+<attribute>causes_fear</attribute>
+<attribute_group>berserker_infantry_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d5820efd-521d-4f36-bdd4-7c1d733e4461}" record_timestamp="1429631489679" record_key="causes_fearelephant_indian">
+<attribute>causes_fear</attribute>
+<attribute_group>elephant_indian</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{59298570-e064-4aba-8aba-4920ed8ff709}" record_timestamp="1429631489656" record_key="causes_fearelephants">
+<attribute>causes_fear</attribute>
+<attribute_group>elephants</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{26a0c274-3fd1-4b37-8f93-b01fbc11495d}" record_timestamp="1429713342704" record_key="causes_fearwh_amok_cantRun_fear_immuneToPsych">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_amok_cantRun_fear_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7bdf2749-59cb-421f-b943-c138d1aab5a4}" record_timestamp="1439364236895" record_key="causes_fearwh_amok_fear_immuneToPsych">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_amok_fear_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{284cd77d-496c-4015-832e-165d81e040c2}" record_timestamp="1444923426617" record_key="causes_fearwh_berserk_fear">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_berserk_fear</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4b23327e-a270-4eb5-b3ad-94535859f721}" record_timestamp="1429713344032" record_key="causes_fearwh_cantRun_fear_terror">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_cantRun_fear_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a9104f4e-f2ec-4779-87fb-7da61186cc49}" record_timestamp="1430990753195" record_key="causes_fearwh_chargeReflectorVsL_fear_hideForest_undead">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_chargeReflectorVsL_fear_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a03ba76e-5dbf-4641-be12-e83f044cb864}" record_timestamp="1446050961747" record_key="causes_fearwh_encourage_fear">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{77630100-44f7-430f-8897-40cac9e96a37}" record_timestamp="1455796810432" record_key="causes_fearwh_encourage_fear_hideForest">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{50aee033-8c35-401c-99c3-81dcf54c5263}" record_timestamp="1460466420906" record_key="causes_fearwh_encourage_fear_hideForest_immuneToPsych">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{edb236f2-61f2-4692-a6fa-19ae42d7b931}" record_timestamp="1484845806485" record_key="causes_fearwh_encourage_fear_hideForest_terror_guerrilla_deploy_unbreakable">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_hideForest_terror_guerrilla_deploy_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a13a56e3-1ccf-4b78-a966-9aeab0724b22}" record_timestamp="1463569380489" record_key="causes_fearwh_encourage_fear_hideForest_terror_undead">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_hideForest_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2458266f-8a38-4894-9fc1-725dbf93cf9d}" record_timestamp="1477038876810" record_key="causes_fearwh_encourage_fear_hideForest_unbreakable_terror">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_hideForest_unbreakable_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{43e899cc-b274-4767-8b50-9b9039a33052}" record_timestamp="1477035594382" record_key="causes_fearwh_encourage_fear_hideForest_unbreakable_terror_undead">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_hideForest_unbreakable_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{be6357c2-08e9-4552-aee8-0106531c5885}" record_timestamp="1430990753165" record_key="causes_fearwh_encourage_fear_hideForest_undead">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{03fccf32-122c-474b-89d8-b728e9daaccf}" record_timestamp="1446050963200" record_key="causes_fearwh_encourage_fear_immuneToPsych_strider">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_immuneToPsych_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ce86f8b2-befc-49ff-a2a4-765b462954e7}" record_timestamp="1479336330392" record_key="causes_fearwh_encourage_fear_mountedFireMove">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{98d95ec5-6360-42af-8a24-3abce1f6af5c}" record_timestamp="1429713347485" record_key="causes_fearwh_encourage_fear_terror">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f0f4b435-a38c-4cfd-a33e-12c485989617}" record_timestamp="1479308763535" record_key="causes_fearwh_encourage_fear_terror_mountedFireMove">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_terror_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9c35c02f-8640-4764-aa57-f82b874afaa0}" record_timestamp="1479308763544" record_key="causes_fearwh_encourage_fear_terror_mountedFireMove_strider">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_terror_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f2ea4398-2672-42ed-8cab-52cd7ca991c3}" record_timestamp="1453458994818" record_key="causes_fearwh_encourage_fear_terror_unbreakable">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_terror_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3967a0f9-4286-4d08-a722-2144a3c14ca1}" record_timestamp="1460470594561" record_key="causes_fearwh_encourage_fear_terror_undead">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4154a122-6af7-4aca-acf8-9e00b1840662}" record_timestamp="1430990753283" record_key="causes_fearwh_encourage_fear_undead">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_fear_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f91eead5-189e-4602-afc4-cbf52d766d2b}" record_timestamp="1479336329652" record_key="causes_fearwh_encourage_hideForest_fear">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_hideForest_fear</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9dab19d1-7daa-4e18-8894-240af049e19e}" record_timestamp="1479336329303" record_key="causes_fearwh_encourage_hideForest_fear_terror_chargeReflectorVsL">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_hideForest_fear_terror_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f9fe8af8-df71-412d-8baa-c793732df830}" record_timestamp="1479308763532" record_key="causes_fearwh_encourage_strider_fear_terror_mountedFireMove">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_encourage_strider_fear_terror_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b12c26a5-8c9f-45ef-b837-5eaf93bcdad9}" record_timestamp="1484209072245" record_key="causes_fearwh_fatigue_fear_terror">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fatigue_fear_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{643a3f35-e05d-4a29-9bc5-22d2f7b81319}" record_timestamp="1430208087442" record_key="causes_fearwh_fear">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3ceec0fd-9e51-48dd-9e18-00feb128c4aa}" record_timestamp="1471865790481" record_key="causes_fearwh_fear_guerilla_hideForest_undead_stalk">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_guerilla_hideForest_undead_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{69cd2002-f541-4107-8154-57035d93f74d}" record_timestamp="1452683967955" record_key="causes_fearwh_fear_guerrilla_hideForest_terror_undead">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{834d145b-eedc-4acf-b51b-34ae5e87b340}" record_timestamp="1470149672624" record_key="causes_fearwh_fear_guerrilla_hideForest_terror_undead_encourge">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_terror_undead_encourge</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{0aae0d12-5fae-428c-b71f-254926cbf4da}" record_timestamp="1452683969126" record_key="causes_fearwh_fear_guerrilla_hideForest_undead">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ca081302-9da3-4a75-91a3-6db723ef5008}" record_timestamp="1470149672624" record_key="causes_fearwh_fear_guerrilla_hideForest_undead_immPsy">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_undead_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{61fac4ab-fd7a-4b68-a62a-afb07d475456}" record_timestamp="1429713345440" record_key="causes_fearwh_fear_guerrilla_terror">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_guerrilla_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{de4674e1-03b7-4bfd-8237-302bfd9abc61}" record_timestamp="1430990750865" record_key="causes_fearwh_fear_guerrilla_terror_undead">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_guerrilla_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1863d887-7653-4fc5-b0e5-a011e1148897}" record_timestamp="1430990753253" record_key="causes_fearwh_fear_guerrilla_undead">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_guerrilla_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{09cfbaf1-4feb-4995-9239-99d56eacee93}" record_timestamp="1471865779832" record_key="causes_fearwh_fear_guerrilla_undead_terror">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_guerrilla_undead_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{72b03496-9f20-457c-8f69-b9ba19030000}" record_timestamp="1452683967604" record_key="causes_fearwh_fear_hideForest">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{606fd673-6dc4-428b-ab16-8b12f4d90d87}" record_timestamp="1481037397622" record_key="causes_fearwh_fear_hideForest_immPsy_chargeReflectorVsL">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_hideForest_immPsy_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c0f4081d-c2cd-4555-a41a-d6777bc51f48}" record_timestamp="1479336329883" record_key="causes_fearwh_fear_hideForest_immPsy_guerrilla">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_hideForest_immPsy_guerrilla</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6ed52262-670b-4c77-b3b7-b8e7fc59beb5}" record_timestamp="1479336329482" record_key="causes_fearwh_fear_hideForest_immPsy_guerrilla_encourage">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_hideForest_immPsy_guerrilla_encourage</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3378cfea-b3a0-4922-bc37-ba2694c483a1}" record_timestamp="1429713347203" record_key="causes_fearwh_fear_hideForest_terror">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_hideForest_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{72224098-938e-4297-913b-e9fa8dd8a38f}" record_timestamp="1430990750930" record_key="causes_fearwh_fear_hideForest_terror_undead">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_hideForest_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4734feb4-9fe1-4e71-94fa-95020a8ce43c}" record_timestamp="1430990753223" record_key="causes_fearwh_fear_hideForest_undead">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b076e650-0099-4883-a945-f159bc457d8b}" record_timestamp="1471865779811" record_key="causes_fearwh_fear_hideForest_undead_chargeDeflector">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_hideForest_undead_chargeDeflector</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{91fb11ba-0d8f-4afd-9d26-db52d0695ed5}" record_timestamp="1470149672623" record_key="causes_fearwh_fear_hideForest_undead_stalk">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_hideForest_undead_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a1e78309-e1f8-41c9-9bcc-b303a5b147bf}" record_timestamp="1470149672623" record_key="causes_fearwh_fear_hideForest_undead_unbreakable">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_hideForest_undead_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{69f8c13b-b915-426c-a711-fb9e1bb86c51}" record_timestamp="1430401697507" record_key="causes_fearwh_fear_strider_terror">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_strider_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b80382ef-7932-47d0-a07e-5f913a5e0461}" record_timestamp="1429713346099" record_key="causes_fearwh_fear_terror">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ee45a8e3-d934-4fe5-85c4-d4c52bafa678}" record_timestamp="1479336329614" record_key="causes_fearwh_fear_terror_hideForest_unbreakable_encourage">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_terror_hideForest_unbreakable_encourage</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4b2be25d-f285-446f-86f1-59c73b8e9cd0}" record_timestamp="1479308763501" record_key="causes_fearwh_fear_terror_strider">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_terror_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d82853bf-1e3b-4712-9012-9ec943a12bf4}" record_timestamp="1445584091074" record_key="causes_fearwh_fear_terror_unbreakable">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_terror_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{99da9d04-a9eb-4837-acb9-3ab35f5cf507}" record_timestamp="1430990750956" record_key="causes_fearwh_fear_terror_undead">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{0f6482e4-c68e-4a34-a27b-9c0a0a9c9569}" record_timestamp="1466428925273" record_key="causes_fearwh_fear_terror_undead_unbreakable">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_terror_undead_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b2a267d1-ad6f-4d59-a7b5-e6cf94849ad6}" record_timestamp="1446044545923" record_key="causes_fearwh_fear_unbreakable">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7b8ff090-3c4a-4296-92e8-47d54ce3b766}" record_timestamp="1430990750802" record_key="causes_fearwh_fear_undead">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_fear_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9effdb5b-bd17-4ffc-8c43-c75264af1aa9}" record_timestamp="1474303448730" record_key="causes_fearwh_guerrilla_hideForest_fear">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_guerrilla_hideForest_fear</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{689189ec-ca8f-46d8-870f-15035a7ba350}" record_timestamp="1479336330014" record_key="causes_fearwh_hideForest_fear_terror_chargeReflectorVsL">
+<attribute>causes_fear</attribute>
+<attribute_group>wh_hideForest_fear_terror_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{595552e4-59a5-4795-b625-6661c8743ca5}" record_timestamp="1444923426892" record_key="causes_terrorwh_berserk_fear_terror_undead">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_berserk_fear_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4c24128f-307c-43bf-8138-bdcf02262de8}" record_timestamp="1429713344278" record_key="causes_terrorwh_cantRun_fear_terror">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_cantRun_fear_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7624433a-dffd-4396-b6c3-6962e665f040}" record_timestamp="1484845806485" record_key="causes_terrorwh_encourage_fear_hideForest_terror_guerrilla_deploy_unbreakable">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_encourage_fear_hideForest_terror_guerrilla_deploy_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a764e05d-4dc3-47b7-95c1-0fc5a71ef4e5}" record_timestamp="1463569380490" record_key="causes_terrorwh_encourage_fear_hideForest_terror_undead">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_encourage_fear_hideForest_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d99cd61c-f72e-4039-b6ee-01e44087c9ac}" record_timestamp="1477038876807" record_key="causes_terrorwh_encourage_fear_hideForest_unbreakable_terror">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_encourage_fear_hideForest_unbreakable_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{844a6c0d-62e7-4086-b3b5-bf415b9ce9e7}" record_timestamp="1477035594384" record_key="causes_terrorwh_encourage_fear_hideForest_unbreakable_terror_undead">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_encourage_fear_hideForest_unbreakable_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b8508522-6838-451f-9667-100518a32b7c}" record_timestamp="1429713347653" record_key="causes_terrorwh_encourage_fear_terror">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_encourage_fear_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{55ca1748-d124-43b6-ae0b-e25f4b579a93}" record_timestamp="1479308763535" record_key="causes_terrorwh_encourage_fear_terror_mountedFireMove">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_encourage_fear_terror_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{754c754c-8278-4404-a48f-5392b6696b31}" record_timestamp="1479308763543" record_key="causes_terrorwh_encourage_fear_terror_mountedFireMove_strider">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_encourage_fear_terror_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6310840d-df54-462e-a24e-a87e4dff2f29}" record_timestamp="1453458994804" record_key="causes_terrorwh_encourage_fear_terror_unbreakable">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_encourage_fear_terror_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ab2e995c-4857-4605-a746-6ba5129eccf9}" record_timestamp="1460470594433" record_key="causes_terrorwh_encourage_fear_terror_undead">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_encourage_fear_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d455af82-92d9-43c8-88b1-2f6080e028ee}" record_timestamp="1479336329423" record_key="causes_terrorwh_encourage_hideForest_fear_terror_chargeReflectorVsL">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_encourage_hideForest_fear_terror_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9189428a-1c90-428d-a59e-788958fcf35a}" record_timestamp="1479308763531" record_key="causes_terrorwh_encourage_strider_fear_terror_mountedFireMove">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_encourage_strider_fear_terror_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d8552510-360f-4ad4-99b4-d706a64d58e9}" record_timestamp="1484209072307" record_key="causes_terrorwh_fatigue_fear_terror">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fatigue_fear_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{823d8d5a-8c8e-4caa-8ab9-5c2b986a2567}" record_timestamp="1452683967775" record_key="causes_terrorwh_fear_guerrilla_hideForest_terror_undead">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f67a84dd-d90f-47ec-a0e7-3c233991795b}" record_timestamp="1470149672625" record_key="causes_terrorwh_fear_guerrilla_hideForest_terror_undead_encourge">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_terror_undead_encourge</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{21586c73-d701-40ba-85c9-2b4e6568786d}" record_timestamp="1429713345605" record_key="causes_terrorwh_fear_guerrilla_terror">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fear_guerrilla_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ea1c6605-e36b-41c8-aba6-985538eb9040}" record_timestamp="1430990750997" record_key="causes_terrorwh_fear_guerrilla_terror_undead">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fear_guerrilla_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{293bcc0a-f927-43ac-931c-c9c99f6361dd}" record_timestamp="1471865779832" record_key="causes_terrorwh_fear_guerrilla_undead_terror">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fear_guerrilla_undead_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5d4dc37b-051b-4374-b068-94ca0dab92b5}" record_timestamp="1429713347390" record_key="causes_terrorwh_fear_hideForest_terror">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fear_hideForest_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a7a52d5f-7034-4d95-8bef-3cd8bad093bb}" record_timestamp="1430990750903" record_key="causes_terrorwh_fear_hideForest_terror_undead">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fear_hideForest_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{26971b04-b7f2-4f08-bc86-5ebea59e3384}" record_timestamp="1430401697521" record_key="causes_terrorwh_fear_strider_terror">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fear_strider_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{cafe3911-56fa-44ad-84ac-c1ad610fdd13}" record_timestamp="1429713346017" record_key="causes_terrorwh_fear_terror">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fear_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{453ddb5f-398f-44d1-a62d-7692e3f9e36a}" record_timestamp="1479336329613" record_key="causes_terrorwh_fear_terror_hideForest_unbreakable_encourage">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fear_terror_hideForest_unbreakable_encourage</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6220a8fc-257d-4a1f-a409-efa7740e5beb}" record_timestamp="1479308763501" record_key="causes_terrorwh_fear_terror_strider">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fear_terror_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b300e357-5d9a-47f6-918c-0cc593232757}" record_timestamp="1445584091074" record_key="causes_terrorwh_fear_terror_unbreakable">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fear_terror_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{baecc8ef-eda3-412a-a391-6cc8d5bf8640}" record_timestamp="1430990751067" record_key="causes_terrorwh_fear_terror_undead">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fear_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d5d2f8d8-548f-4927-8597-a1603d35c25c}" record_timestamp="1466428925273" record_key="causes_terrorwh_fear_terror_undead_unbreakable">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_fear_terror_undead_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1637e74e-cbb4-4ec7-b02c-2db4e9d2bb73}" record_timestamp="1479336330010" record_key="causes_terrorwh_hideForest_fear_terror_chargeReflectorVsL">
+<attribute>causes_terror</attribute>
+<attribute_group>wh_hideForest_fear_terror_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6e51614e-6e88-47d7-8e1b-a6cf1f2554ab}" record_timestamp="1467720616057" record_key="charge_reflector_vs_largewh_chargeRefelectorVsL_guerrilla_hideForest">
+<attribute>charge_reflector_vs_large</attribute>
+<attribute_group>wh_chargeRefelectorVsL_guerrilla_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{bf9e88a1-cd60-4b80-96db-08e56a0cfe5d}" record_timestamp="1444147151501" record_key="charge_reflector_vs_largewh_chargeReflectorVsL_encourage_hideForest">
+<attribute>charge_reflector_vs_large</attribute>
+<attribute_group>wh_chargeReflectorVsL_encourage_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{23d220e2-1051-4abb-ae5c-3b00b704f186}" record_timestamp="1438877566179" record_key="charge_reflector_vs_largewh_chargeReflectorVsL_encourage_hideForest_immuneToPsych">
+<attribute>charge_reflector_vs_large</attribute>
+<attribute_group>wh_chargeReflectorVsL_encourage_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{133340f3-fd54-4523-8277-b355661fb441}" record_timestamp="1460468847784" record_key="charge_reflector_vs_largewh_chargeReflectorVsL_encourage_hideForest_unbreakable">
+<attribute>charge_reflector_vs_large</attribute>
+<attribute_group>wh_chargeReflectorVsL_encourage_hideForest_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d4f66553-ddee-4a80-b17d-6caeec150897}" record_timestamp="1430990751939" record_key="charge_reflector_vs_largewh_chargeReflectorVsL_fear_hideForest_undead">
+<attribute>charge_reflector_vs_large</attribute>
+<attribute_group>wh_chargeReflectorVsL_fear_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5562049b-561f-4d78-b72e-d1d9f6d06578}" record_timestamp="1461228729027" record_key="charge_reflector_vs_largewh_chargeReflectorVsL_guerrilla_hideForest">
+<attribute>charge_reflector_vs_large</attribute>
+<attribute_group>wh_chargeReflectorVsL_guerrilla_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4ca40dd1-2b80-4e0a-885c-f27dc8d9f195}" record_timestamp="1429713337872" record_key="charge_reflector_vs_largewh_chargeReflectorVsL_hideForest">
+<attribute>charge_reflector_vs_large</attribute>
+<attribute_group>wh_chargeReflectorVsL_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{01a8fa9b-475e-421b-806b-537514284b1a}" record_timestamp="1429713338236" record_key="charge_reflector_vs_largewh_chargeReflectorVsL_hideForestScrub">
+<attribute>charge_reflector_vs_large</attribute>
+<attribute_group>wh_chargeReflectorVsL_hideForestScrub</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7efee5ec-f263-4725-b0ae-2678c538fd4c}" record_timestamp="1479336329373" record_key="charge_reflector_vs_largewh_encourage_hideForest_fear_terror_chargeReflectorVsL">
+<attribute>charge_reflector_vs_large</attribute>
+<attribute_group>wh_encourage_hideForest_fear_terror_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{45ca4300-76f6-482f-9272-68ca89d04113}" record_timestamp="1481037397620" record_key="charge_reflector_vs_largewh_fear_hideForest_immPsy_chargeReflectorVsL">
+<attribute>charge_reflector_vs_large</attribute>
+<attribute_group>wh_fear_hideForest_immPsy_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f41e8447-6fe8-48e2-96b5-da99e56c1a68}" record_timestamp="1479336329907" record_key="charge_reflector_vs_largewh_hideForest_chargeReflectorVsL">
+<attribute>charge_reflector_vs_large</attribute>
+<attribute_group>wh_hideForest_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{cfc77640-c9a3-4972-9b7f-62c3523d8357}" record_timestamp="1479336330009" record_key="charge_reflector_vs_largewh_hideForest_fear_terror_chargeReflectorVsL">
+<attribute>charge_reflector_vs_large</attribute>
+<attribute_group>wh_hideForest_fear_terror_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{aef7e089-1197-4d05-85aa-8037de27913c}" record_timestamp="1479336330271" record_key="charge_reflector_vs_largewh_hideForest_immPsy_chargeReflectorVsL">
+<attribute>charge_reflector_vs_large</attribute>
+<attribute_group>wh_hideForest_immPsy_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2beea0d5-74e8-4fae-b090-8ab34752d221}" record_timestamp="1474294405555" record_key="charge_reflector_vs_largewh_hideForest_unbreakable_chargeReflectorVsL">
+<attribute>charge_reflector_vs_large</attribute>
+<attribute_group>wh_hideForest_unbreakable_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a547182f-6db4-473f-97be-92015bcc89d9}" record_timestamp="1435076396572" record_key="charge_reflectorwh_chargeReflector_encourage_hideForest">
+<attribute>charge_reflector</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{37a3d58e-40bf-4d98-b0f2-1f8f5172c1b5}" record_timestamp="1461152302564" record_key="charge_reflectorwh_chargeReflector_encourage_hideForest_immuneToPsych">
+<attribute>charge_reflector</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8c40faf6-3420-4c83-9d75-87c141638606}" record_timestamp="1464177213065" record_key="charge_reflectorwh_chargeReflector_encourage_hideForest_immuneToPsych_strider">
+<attribute>charge_reflector</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest_immuneToPsych_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{64fcd692-f3c0-4fcf-b9e0-33b8e87952c1}" record_timestamp="1445584091073" record_key="charge_reflectorwh_chargeReflector_encourage_hideForest_unbreakable">
+<attribute>charge_reflector</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5f74b97c-f454-4c5f-a973-a517575dba23}" record_timestamp="1429713335176" record_key="charge_reflectorwh_chargeReflector_hideForest">
+<attribute>charge_reflector</attribute>
+<attribute_group>wh_chargeReflector_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2d5ae740-bbd8-4160-a910-8a8e9bf9d556}" record_timestamp="1477035598108" record_key="charge_reflectorwh_chargeReflector_hideForest_immPsy_guerrilla">
+<attribute>charge_reflector</attribute>
+<attribute_group>wh_chargeReflector_hideForest_immPsy_guerrilla</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{28c34a9d-eee1-4c5d-aefc-350f976ad116}" record_timestamp="1471865779811" record_key="charge_reflectorwh_fear_hideForest_undead_chargeDeflector">
+<attribute>charge_reflector</attribute>
+<attribute_group>wh_fear_hideForest_undead_chargeDeflector</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{56b9e193-2b69-4b70-982a-b1406cd1f979}" record_timestamp="1363248643724" record_key="disciplinedheavy_cavalry">
+<attribute>disciplined</attribute>
+<attribute_group>heavy_cavalry</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{32e8b97e-929e-4e6b-b589-a6dad343998b}" record_timestamp="1378127563515" record_key="disciplinedheavy_cavalry_elite_warm">
+<attribute>disciplined</attribute>
+<attribute_group>heavy_cavalry_elite_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{952616e5-272b-4bca-b3cf-9bf366a251bc}" record_timestamp="1378127563464" record_key="disciplinedheavy_cavalry_warm">
+<attribute>disciplined</attribute>
+<attribute_group>heavy_cavalry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d5250842-e1a2-4804-af99-0493f8bb8e39}" record_timestamp="1363248643723" record_key="disciplinedheavy_infantry">
+<attribute>disciplined</attribute>
+<attribute_group>heavy_infantry</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{dff03b6b-2d68-41c9-a8cc-48170a4f7958}" record_timestamp="1363248643723" record_key="disciplinedheavy_infantry_elite">
+<attribute>disciplined</attribute>
+<attribute_group>heavy_infantry_elite</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{af093a8c-65da-4a5f-9e60-e4b0a8bd0a07}" record_timestamp="1375356505506" record_key="disciplinedheavy_infantry_elite_charge_reflector">
+<attribute>disciplined</attribute>
+<attribute_group>heavy_infantry_elite_charge_reflector</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{aaf87c0a-d46a-4ed2-a107-772329059250}" record_timestamp="1378127563343" record_key="disciplinedheavy_infantry_elite_charge_reflector_warm">
+<attribute>disciplined</attribute>
+<attribute_group>heavy_infantry_elite_charge_reflector_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a5390b76-c0eb-46d0-b141-3eab6415b09b}" record_timestamp="1378127563225" record_key="disciplinedheavy_infantry_warm">
+<attribute>disciplined</attribute>
+<attribute_group>heavy_infantry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{bc725c2f-4e96-4f42-999f-30f21b4ce872}" record_timestamp="1363248643723" record_key="encouragesformed_infantry_elite">
+<attribute>encourages</attribute>
+<attribute_group>formed_infantry_elite</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{80ba99aa-0259-438f-aefb-5d08a7e2b655}" record_timestamp="1375356505441" record_key="encouragesformed_infantry_elite_charge_reflector">
+<attribute>encourages</attribute>
+<attribute_group>formed_infantry_elite_charge_reflector</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{22601ac7-9e08-484b-a6ea-1c365bffddb0}" record_timestamp="1382619145110" record_key="encouragesformed_infantry_elite_charge_reflector_warm">
+<attribute>encourages</attribute>
+<attribute_group>formed_infantry_elite_charge_reflector_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a580818d-7a37-4fd2-bc94-5ec2e0f50a99}" record_timestamp="1378127563130" record_key="encouragesformed_infantry_elite_warm">
+<attribute>encourages</attribute>
+<attribute_group>formed_infantry_elite_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{fcfcfd30-3141-4909-8e6e-38501bece413}" record_timestamp="1378127563539" record_key="encouragesheavy_cavalry_elite_warm">
+<attribute>encourages</attribute>
+<attribute_group>heavy_cavalry_elite_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{dfda0100-04bd-49fc-9e6c-e147ba8992e9}" record_timestamp="1363248643723" record_key="encouragesheavy_infantry_elite">
+<attribute>encourages</attribute>
+<attribute_group>heavy_infantry_elite</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{961686c8-519f-46c3-bb02-97b8680e3639}" record_timestamp="1375356505518" record_key="encouragesheavy_infantry_elite_charge_reflector">
+<attribute>encourages</attribute>
+<attribute_group>heavy_infantry_elite_charge_reflector</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{389ae0fb-d20b-4712-b04f-8dfc935fbca0}" record_timestamp="1378127563368" record_key="encouragesheavy_infantry_elite_charge_reflector_warm">
+<attribute>encourages</attribute>
+<attribute_group>heavy_infantry_elite_charge_reflector_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4e3d9c7d-4713-4abb-95cd-06d788052753}" record_timestamp="1363248643724" record_key="encouragesmelee_cavalry_elite">
+<attribute>encourages</attribute>
+<attribute_group>melee_cavalry_elite</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{78958867-b3b8-4099-b344-c3e9eff8d098}" record_timestamp="1375356505420" record_key="encouragesmelee_cavalry_elite_charge_reflector">
+<attribute>encourages</attribute>
+<attribute_group>melee_cavalry_elite_charge_reflector</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{111598c2-84da-4d30-95f2-ebca6d09a8b5}" record_timestamp="1378127562297" record_key="encouragesmelee_cavalry_elite_charge_reflector_cold">
+<attribute>encourages</attribute>
+<attribute_group>melee_cavalry_elite_charge_reflector_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b0e15f97-b04f-439f-9da5-51f637337a44}" record_timestamp="1378127562452" record_key="encouragesmelee_infantry_elite_charge_reflector_cold">
+<attribute>encourages</attribute>
+<attribute_group>melee_infantry_elite_charge_reflector_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5a73ec2b-e091-4c6a-9161-3e7088552786}" record_timestamp="1378127562363" record_key="encouragesmelee_infantry_elite_cold">
+<attribute>encourages</attribute>
+<attribute_group>melee_infantry_elite_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c79d06c1-3eb2-419f-bd1e-bea55cd4c17d}" record_timestamp="1378127563653" record_key="encouragesmelee_infantry_elite_warm">
+<attribute>encourages</attribute>
+<attribute_group>melee_infantry_elite_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{e073916a-f8e2-4877-87bd-e6e260678bcd}" record_timestamp="1441291609987" record_key="encourageswh_cantRun_encourage">
+<attribute>encourages</attribute>
+<attribute_group>wh_cantRun_encourage</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b9a99afd-7327-4b81-a8a5-66f4855f384e}" record_timestamp="1435076404467" record_key="encourageswh_cantRun_encourage_heatResist">
+<attribute>encourages</attribute>
+<attribute_group>wh_cantRun_encourage_heatResist</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{78302d82-ae2f-4b86-9ab4-21acf7a6489b}" record_timestamp="1444147151532" record_key="encourageswh_chargeReflectorVsL_encourage_hideForest">
+<attribute>encourages</attribute>
+<attribute_group>wh_chargeReflectorVsL_encourage_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f61bb14e-3bbc-4957-9a77-b85dffe2605c}" record_timestamp="1438877566205" record_key="encourageswh_chargeReflectorVsL_encourage_hideForest_immuneToPsych">
+<attribute>encourages</attribute>
+<attribute_group>wh_chargeReflectorVsL_encourage_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{89d1ca15-aa59-407d-87a0-cd67f2f42b7e}" record_timestamp="1460468847933" record_key="encourageswh_chargeReflectorVsL_encourage_hideForest_unbreakable">
+<attribute>encourages</attribute>
+<attribute_group>wh_chargeReflectorVsL_encourage_hideForest_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a15b4c77-4f6e-47a0-9f32-c554fb2da149}" record_timestamp="1435076396441" record_key="encourageswh_chargeReflector_encourage_hideForest">
+<attribute>encourages</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1769c00d-37be-41ba-b31a-ecf81de81ccf}" record_timestamp="1461152302563" record_key="encourageswh_chargeReflector_encourage_hideForest_immuneToPsych">
+<attribute>encourages</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3dd1063f-6b51-4d5b-ae6c-1ef52dead2db}" record_timestamp="1464177213066" record_key="encourageswh_chargeReflector_encourage_hideForest_immuneToPsych_strider">
+<attribute>encourages</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest_immuneToPsych_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1b09a463-be18-4f2f-a6ce-fd35eb8df9f3}" record_timestamp="1445584091074" record_key="encourageswh_chargeReflector_encourage_hideForest_unbreakable">
+<attribute>encourages</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9f2f0d34-ec69-44bd-a1d7-0b3b62c619da}" record_timestamp="1426667600218" record_key="encourageswh_encourage">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2aa2f62b-b1c0-410b-b0a5-4ddd227fdbe6}" record_timestamp="1446050961687" record_key="encourageswh_encourage_fear">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{532afa20-c438-4e38-9e89-ab515376e66a}" record_timestamp="1455796810441" record_key="encourageswh_encourage_fear_hideForest">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5df17bd2-2e5a-41a4-9d63-31b3dd804458}" record_timestamp="1460466420862" record_key="encourageswh_encourage_fear_hideForest_immuneToPsych">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f9d4aef8-1bf4-43f0-b284-deb01e1e1f47}" record_timestamp="1484845806485" record_key="encourageswh_encourage_fear_hideForest_terror_guerrilla_deploy_unbreakable">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_hideForest_terror_guerrilla_deploy_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{01e5e206-ee36-481b-be59-9548f2671752}" record_timestamp="1463569380489" record_key="encourageswh_encourage_fear_hideForest_terror_undead">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_hideForest_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{90ddcaa1-ef73-4cb4-a363-6fff08f1cbd6}" record_timestamp="1477038876808" record_key="encourageswh_encourage_fear_hideForest_unbreakable_terror">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_hideForest_unbreakable_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{85ae7e12-2b3a-48a6-9eda-556e40dae6fd}" record_timestamp="1477035594382" record_key="encourageswh_encourage_fear_hideForest_unbreakable_terror_undead">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_hideForest_unbreakable_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c8f7f363-6088-4e34-97be-efa5bd2bd188}" record_timestamp="1430990752239" record_key="encourageswh_encourage_fear_hideForest_undead">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{bade0941-dc1b-464b-be06-2a850eb2427f}" record_timestamp="1446050963141" record_key="encourageswh_encourage_fear_immuneToPsych_strider">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_immuneToPsych_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9ad4d646-b1fe-4d21-9238-02fe30d2a598}" record_timestamp="1479336330392" record_key="encourageswh_encourage_fear_mountedFireMove">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b83ce3d9-75a2-42ed-b2bb-96f31342751a}" record_timestamp="1429713347570" record_key="encourageswh_encourage_fear_terror">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{bb45a1c1-337a-4b5c-aeb7-9f77fff04cf8}" record_timestamp="1479308763534" record_key="encourageswh_encourage_fear_terror_mountedFireMove">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_terror_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{0a360dc6-9c03-4b5a-a5dc-ad42908025a7}" record_timestamp="1479308763544" record_key="encourageswh_encourage_fear_terror_mountedFireMove_strider">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_terror_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{da23f8b2-82f0-411d-8caa-cabf380c41ce}" record_timestamp="1453458994790" record_key="encourageswh_encourage_fear_terror_unbreakable">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_terror_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3c38f53f-c696-43fa-937a-1a50c11d8530}" record_timestamp="1460470594306" record_key="encourageswh_encourage_fear_terror_undead">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4f04d0f7-f099-4b8e-af74-c506c70a091d}" record_timestamp="1430990752639" record_key="encourageswh_encourage_fear_undead">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_fear_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{fe0894f9-0005-47a8-9a53-fb7e2e8374a7}" record_timestamp="1474304275219" record_key="encourageswh_encourage_guerrilla_hideForest">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_guerrilla_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a741550e-a98a-4ffb-be90-5a5a09203aee}" record_timestamp="1429713334052" record_key="encourageswh_encourage_hideForest">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c1a7061c-55a8-4c7b-819f-6f147c565076}" record_timestamp="1429713334587" record_key="encourageswh_encourage_hideForestScrub">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_hideForestScrub</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c2358a33-50f4-4eca-8551-32adf444b19b}" record_timestamp="1479336329651" record_key="encourageswh_encourage_hideForest_fear">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_hideForest_fear</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5e0d57a8-114b-4b6b-ad94-021999cef950}" record_timestamp="1479336329375" record_key="encourageswh_encourage_hideForest_fear_terror_chargeReflectorVsL">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_hideForest_fear_terror_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{bd327b27-5089-43ef-bdeb-093fd2b61b3b}" record_timestamp="1434986293148" record_key="encourageswh_encourage_hideForest_immuneToPsych">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d0e6a2db-40b4-4637-85ec-4c4c3e2f2b42}" record_timestamp="1444834923028" record_key="encourageswh_encourage_hideForest_immuneToPsych_strider">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_hideForest_immuneToPsych_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{746d5630-14b8-4dbb-9942-c5c52783c729}" record_timestamp="1479336329597" record_key="encourageswh_encourage_hideForest_mountedFireMove">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_hideForest_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1f0aa1a3-cbcf-49b9-96d9-b409390ac1f7}" record_timestamp="1481886768947" record_key="encourageswh_encourage_hideForest_mountedFireMove_unbreakable">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_hideForest_mountedFireMove_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{757b9eae-6d87-4a9e-bef9-21d2a8355047}" record_timestamp="1468500075839" record_key="encourageswh_encourage_hideForest_strider">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_hideForest_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c4be2249-780e-4993-89d6-6769fa5c4201}" record_timestamp="1459932430142" record_key="encourageswh_encourage_hideForest_unbreakable">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_hideForest_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3ee62da9-e7e2-4318-816e-ec2c9c432a18}" record_timestamp="1434986293307" record_key="encourageswh_encourage_immuneToPsych">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9966df91-2fbc-4b52-8407-324570ba2d2b}" record_timestamp="1479308763532" record_key="encourageswh_encourage_strider_fear_terror_mountedFireMove">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_strider_fear_terror_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f14eca67-f21e-4b84-91a1-e311e0240556}" record_timestamp="1457369279019" record_key="encourageswh_encourage_unbreakable">
+<attribute>encourages</attribute>
+<attribute_group>wh_encourage_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{07febd10-8286-428c-9296-b4f535d3a541}" record_timestamp="1470149672624" record_key="encourageswh_fear_guerrilla_hideForest_terror_undead_encourge">
+<attribute>encourages</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_terror_undead_encourge</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{51464423-85fc-447f-ae68-18ada05182bf}" record_timestamp="1479336329480" record_key="encourageswh_fear_hideForest_immPsy_guerrilla_encourage">
+<attribute>encourages</attribute>
+<attribute_group>wh_fear_hideForest_immPsy_guerrilla_encourage</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ebe5f94b-cadf-4593-a076-97a6af3a69cc}" record_timestamp="1479336329616" record_key="encourageswh_fear_terror_hideForest_unbreakable_encourage">
+<attribute>encourages</attribute>
+<attribute_group>wh_fear_terror_hideForest_unbreakable_encourage</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7a577e30-dfd3-4464-b074-b340d7635e7c}" record_timestamp="1479336330236" record_key="encourageswh_guerrilla_stalk_snipe_encourage_mountedFireMove">
+<attribute>encourages</attribute>
+<attribute_group>wh_guerrilla_stalk_snipe_encourage_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ebe3f73a-fba2-4cc6-894e-5d51d470b67c}" record_timestamp="1484209072281" record_key="fatigue_immunewh_fatigue_fear_terror">
+<attribute>fatigue_immune</attribute>
+<attribute_group>wh_fatigue_fear_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ed6109c0-5de8-490d-bf3f-1280b8ccfb88}" record_timestamp="1484300629886" record_key="fatigue_immunewh_fatigue_immuneToPsych_guerrilla">
+<attribute>fatigue_immune</attribute>
+<attribute_group>wh_fatigue_immuneToPsych_guerrilla</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7faea98a-19f9-4964-8cde-70f7302cbf75}" record_timestamp="1482324017152" record_key="fatigue_immunewh_fatigue_immune_guerrilla_immuneToPsych">
+<attribute>fatigue_immune</attribute>
+<attribute_group>wh_fatigue_immune_guerrilla_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4704ad49-a11a-41e3-a6b7-832792c3cdae}" record_timestamp="1482324017069" record_key="fatigue_immunewh_fatigue_immune_hideForest_immuneToPsych">
+<attribute>fatigue_immune</attribute>
+<attribute_group>wh_fatigue_immune_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1d8be5e3-bc71-400f-9f5e-c157355aac10}" record_timestamp="1363248643723" record_key="fatigue_resmissile_cavalry">
+<attribute>fatigue_res</attribute>
+<attribute_group>missile_cavalry</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9c51ae2f-040e-49a6-96ed-7f441f6fb33e}" record_timestamp="1382690320824" record_key="fatigue_resmissile_cavalry_cold">
+<attribute>fatigue_res</attribute>
+<attribute_group>missile_cavalry_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4efecd22-4d23-4657-aeb5-85a41f651107}" record_timestamp="1363248643723" record_key="fatigue_resmissile_cavalry_parthian">
+<attribute>fatigue_res</attribute>
+<attribute_group>missile_cavalry_parthian</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{62658ff6-f46f-41c9-8db8-1ddd5fb57808}" record_timestamp="1378127562520" record_key="fatigue_resmissile_cavalry_parthian_cold">
+<attribute>fatigue_res</attribute>
+<attribute_group>missile_cavalry_parthian_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6feadee5-37e2-4e9b-bb40-7505460876ba}" record_timestamp="1378127562891" record_key="fatigue_resmissile_cavalry_parthian_warm">
+<attribute>fatigue_res</attribute>
+<attribute_group>missile_cavalry_parthian_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b123d095-ead1-43d5-9cc9-67a7d6dcf104}" record_timestamp="1378127562724" record_key="fatigue_resmissile_cavalry_warm">
+<attribute>fatigue_res</attribute>
+<attribute_group>missile_cavalry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2e1a2d11-1432-4707-a6c2-7621dd9af221}" record_timestamp="1363248643723" record_key="guerrilla_deploymelee_infantry_stealth">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>melee_infantry_stealth</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9bec14e1-711b-443e-8dc0-7788c1a6af16}" record_timestamp="1378127562180" record_key="guerrilla_deploymelee_infantry_stealth_cold">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>melee_infantry_stealth_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5a9913d5-ab13-4602-bca6-4ec5ca5dcf93}" record_timestamp="1363248643723" record_key="guerrilla_deploymissile_infantry_stealth">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>missile_infantry_stealth</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{225a4e96-6b53-405c-92cb-7f837f088b5d}" record_timestamp="1467720616056" record_key="guerrilla_deploywh_chargeRefelectorVsL_guerrilla_hideForest">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_chargeRefelectorVsL_guerrilla_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8b55f910-7082-47a1-8ed2-9c318f8ddcdb}" record_timestamp="1461228729062" record_key="guerrilla_deploywh_chargeReflectorVsL_guerrilla_hideForest">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_chargeReflectorVsL_guerrilla_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{716053a7-5e5c-4806-8483-af9441897724}" record_timestamp="1477035598109" record_key="guerrilla_deploywh_chargeReflector_hideForest_immPsy_guerrilla">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_chargeReflector_hideForest_immPsy_guerrilla</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{adb6c1c0-4170-4bc6-b795-23bd21f6beff}" record_timestamp="1484845806485" record_key="guerrilla_deploywh_encourage_fear_hideForest_terror_guerrilla_deploy_unbreakable">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_encourage_fear_hideForest_terror_guerrilla_deploy_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8b4a08f7-3483-499f-8322-c603e984cd5e}" record_timestamp="1474304275217" record_key="guerrilla_deploywh_encourage_guerrilla_hideForest">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_encourage_guerrilla_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2ea3a7ad-b7d5-4fc6-aecf-879907eaf76b}" record_timestamp="1484300629946" record_key="guerrilla_deploywh_fatigue_immuneToPsych_guerrilla">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_fatigue_immuneToPsych_guerrilla</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{febea327-8257-495d-8a8b-c03745669fa1}" record_timestamp="1482324016986" record_key="guerrilla_deploywh_fatigue_immune_guerrilla_immuneToPsych">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_fatigue_immune_guerrilla_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5178dee3-8fbb-4927-9bc8-bfbedec2abe3}" record_timestamp="1471865790480" record_key="guerrilla_deploywh_fear_guerilla_hideForest_undead_stalk">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_fear_guerilla_hideForest_undead_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6c3069f0-6af5-4e86-8f5f-3ecebe049bfb}" record_timestamp="1452683967898" record_key="guerrilla_deploywh_fear_guerrilla_hideForest_terror_undead">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2e51c00d-bd80-4b89-a21c-6f27ab4064c3}" record_timestamp="1470149672624" record_key="guerrilla_deploywh_fear_guerrilla_hideForest_terror_undead_encourge">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_terror_undead_encourge</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{025f77da-592e-4039-bb58-e19fc08e6650}" record_timestamp="1452683969067" record_key="guerrilla_deploywh_fear_guerrilla_hideForest_undead">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f2ba08ca-f1e2-46e2-9478-14eab9796d92}" record_timestamp="1470149672624" record_key="guerrilla_deploywh_fear_guerrilla_hideForest_undead_immPsy">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_undead_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{38e22d8b-c75e-4833-9688-90bc6ee37985}" record_timestamp="1429713345525" record_key="guerrilla_deploywh_fear_guerrilla_terror">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_fear_guerrilla_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4b3df119-6fdd-48eb-a275-af5ffe788427}" record_timestamp="1430990750983" record_key="guerrilla_deploywh_fear_guerrilla_terror_undead">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_fear_guerrilla_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7fbf1123-78c3-436c-9bee-79f597b1a5e8}" record_timestamp="1430990752777" record_key="guerrilla_deploywh_fear_guerrilla_undead">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_fear_guerrilla_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ec57ec4d-e6ee-4e59-a04d-1976535cef81}" record_timestamp="1471865779831" record_key="guerrilla_deploywh_fear_guerrilla_undead_terror">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_fear_guerrilla_undead_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{cc57ede9-2bf0-4714-87c2-1324286bef91}" record_timestamp="1479336329885" record_key="guerrilla_deploywh_fear_hideForest_immPsy_guerrilla">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_fear_hideForest_immPsy_guerrilla</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{aa1b20d1-35a7-4b65-91d9-e00413c9b171}" record_timestamp="1479336329459" record_key="guerrilla_deploywh_fear_hideForest_immPsy_guerrilla_encourage">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_fear_hideForest_immPsy_guerrilla_encourage</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2895b26b-51dc-4d99-8367-0eb38216faf7}" record_timestamp="1400082467655" record_key="guerrilla_deploywh_guerrilla">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{e6e50423-7577-47a0-9ec9-888778fc6dee}" record_timestamp="1450354544587" record_key="guerrilla_deploywh_guerrilla_hideForest">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{790429ca-7e1c-49e2-aca6-7a49f658443f}" record_timestamp="1474303448699" record_key="guerrilla_deploywh_guerrilla_hideForest_fear">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_hideForest_fear</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4e45f855-473b-4604-8acc-c09c7187a24b}" record_timestamp="1470149672621" record_key="guerrilla_deploywh_guerrilla_hideForest_footFireMove">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_hideForest_footFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c73df6ba-f42a-4d26-a0ef-1337a6596d3d}" record_timestamp="1471865779793" record_key="guerrilla_deploywh_guerrilla_hideForest_footFireMove_immPsy">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_hideForest_footFireMove_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7ddea480-d287-49a5-b448-2ea4109f6655}" record_timestamp="1471865779844" record_key="guerrilla_deploywh_guerrilla_hideForest_immPsy">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_hideForest_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1fd9873a-439c-4f9b-98ad-1aafb0c749c0}" record_timestamp="1471865790189" record_key="guerrilla_deploywh_guerrilla_hideForest_immPsy_stalk">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_hideForest_immPsy_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{367b709f-390b-449e-b010-1d7788d6f20e}" record_timestamp="1450354544599" record_key="guerrilla_deploywh_guerrilla_hideForest_mountedFireMove">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d1bc6a6a-21f3-45f1-ad37-da39ec1d7193}" record_timestamp="1474303448765" record_key="guerrilla_deploywh_guerrilla_hideForest_mountedFireMove_immPsy">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8f92040a-6749-4bb6-9861-5f0e11e502bc}" record_timestamp="1452683968185" record_key="guerrilla_deploywh_guerrilla_hideForest_mountedFireMove_strider">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{fb972224-bcb6-45b4-91a7-65bc7a48c8a3}" record_timestamp="1477038877476" record_key="guerrilla_deploywh_guerrilla_hideForest_mountedFireMove_strider_stalk">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_strider_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ee9ef599-2cdb-42b7-a41b-090b0c377128}" record_timestamp="1481886768946" record_key="guerrilla_deploywh_guerrilla_hideForest_mountedFireMove_unbreakable">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c4cf20fb-81f2-4dc3-a78d-f9bc04ffcd7f}" record_timestamp="1474283983704" record_key="guerrilla_deploywh_guerrilla_hideForest_stalk">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_hideForest_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7955cd1a-f5c1-4866-8db2-47ed7201f704}" record_timestamp="1456324472747" record_key="guerrilla_deploywh_guerrilla_hideForest_strider">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_hideForest_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{06e151d3-ffa7-4f1b-a2ac-efc6529be629}" record_timestamp="1429713340643" record_key="guerrilla_deploywh_guerrilla_mountedFireMove">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8e7e7e60-dfe2-4133-a505-19ae662de194}" record_timestamp="1429713341058" record_key="guerrilla_deploywh_guerrilla_mountedFireMove_strider">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{944a7d1f-baaf-46ab-b1c6-eaa641620bf7}" record_timestamp="1454525973888" record_key="guerrilla_deploywh_guerrilla_stalk">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f3d6901a-af8c-4303-ac35-a3568018c056}" record_timestamp="1474294406408" record_key="guerrilla_deploywh_guerrilla_stalk_immPsy">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_stalk_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7fe0cdba-9a5f-4bdd-9045-eec2afa1d475}" record_timestamp="1479336329845" record_key="guerrilla_deploywh_guerrilla_stalk_mountedFireMove">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_stalk_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{dba65350-7b1a-4f71-aa30-337881240bbb}" record_timestamp="1479336330233" record_key="guerrilla_deploywh_guerrilla_stalk_snipe_encourage_mountedFireMove">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_stalk_snipe_encourage_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6f6ff8af-cdf7-49c4-af3e-ca1aec84a1fd}" record_timestamp="1479336330260" record_key="guerrilla_deploywh_guerrilla_stalk_snipe_mountedFireMove">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_stalk_snipe_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1c15defb-b749-4db9-be5d-e1c8f8080b4b}" record_timestamp="1474294406454" record_key="guerrilla_deploywh_guerrilla_stalk_unbreakable">
+<attribute>guerrilla_deploy</attribute>
+<attribute_group>wh_guerrilla_stalk_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f209bfd3-d9ee-4989-bc3c-0e8abee872a3}" record_timestamp="1378127562133" record_key="hide_forestberserker_infantry_cold">
+<attribute>hide_forest</attribute>
+<attribute_group>berserker_infantry_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{0ea71539-1cff-45c8-a5b0-927ac696d0cb}" record_timestamp="1372923869815" record_key="hide_forestcamel">
+<attribute>hide_forest</attribute>
+<attribute_group>camel</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a0ef22eb-a580-4c0e-aaa0-79798212355a}" record_timestamp="1372923870063" record_key="hide_forestcamel_missile">
+<attribute>hide_forest</attribute>
+<attribute_group>camel_missile</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c65ad29c-33f8-48d0-8594-14276bb1e903}" record_timestamp="1426667517095" record_key="hide_forestcavalry">
+<attribute>hide_forest</attribute>
+<attribute_group>cavalry</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2e2f7b24-1659-4906-9927-879844b4fd4b}" record_timestamp="1372923869668" record_key="hide_forestformed_infantry">
+<attribute>hide_forest</attribute>
+<attribute_group>formed_infantry</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ccc777cd-0c53-4a1f-98bc-0a2f4610e819}" record_timestamp="1372923869354" record_key="hide_forestformed_infantry_elite">
+<attribute>hide_forest</attribute>
+<attribute_group>formed_infantry_elite</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{28827b88-640f-4c97-a78d-e1a04d8f2ff2}" record_timestamp="1375356505484" record_key="hide_forestformed_infantry_elite_charge_reflector">
+<attribute>hide_forest</attribute>
+<attribute_group>formed_infantry_elite_charge_reflector</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{36c0fc21-871b-4432-92b1-dc1c11ca9bd6}" record_timestamp="1382619145155" record_key="hide_forestformed_infantry_elite_charge_reflector_warm">
+<attribute>hide_forest</attribute>
+<attribute_group>formed_infantry_elite_charge_reflector_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{e71c778d-0f42-4def-968e-70e4631b6d74}" record_timestamp="1378127563178" record_key="hide_forestformed_infantry_elite_warm">
+<attribute>hide_forest</attribute>
+<attribute_group>formed_infantry_elite_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{30192680-e378-4efb-a71e-0009fb24ba3b}" record_timestamp="1378127563081" record_key="hide_forestformed_infantry_warm">
+<attribute>hide_forest</attribute>
+<attribute_group>formed_infantry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f5739927-65b9-4f6d-bf46-c71b3fb77d9d}" record_timestamp="1372923869268" record_key="hide_forestheavy_cavalry">
+<attribute>hide_forest</attribute>
+<attribute_group>heavy_cavalry</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{60f3a004-3287-4edc-ab2c-951d34534e7b}" record_timestamp="1378127563561" record_key="hide_forestheavy_cavalry_elite_warm">
+<attribute>hide_forest</attribute>
+<attribute_group>heavy_cavalry_elite_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{bbc05ebe-8b6f-49cd-81b3-906186b1a250}" record_timestamp="1378127563491" record_key="hide_forestheavy_cavalry_warm">
+<attribute>hide_forest</attribute>
+<attribute_group>heavy_cavalry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8dec022d-90ba-42c6-a3cb-51b6087ae741}" record_timestamp="1372923869621" record_key="hide_forestheavy_infantry">
+<attribute>hide_forest</attribute>
+<attribute_group>heavy_infantry</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a39c7019-f033-42eb-9356-7e8ab9a9d673}" record_timestamp="1372923869717" record_key="hide_forestheavy_infantry_elite">
+<attribute>hide_forest</attribute>
+<attribute_group>heavy_infantry_elite</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{85e9ef45-8c3a-4e80-9d9b-5edff24717b1}" record_timestamp="1375356505541" record_key="hide_forestheavy_infantry_elite_charge_reflector">
+<attribute>hide_forest</attribute>
+<attribute_group>heavy_infantry_elite_charge_reflector</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{98ac76bf-81d6-4e47-b5dc-ed22264bf49b}" record_timestamp="1378127563417" record_key="hide_forestheavy_infantry_elite_charge_reflector_warm">
+<attribute>hide_forest</attribute>
+<attribute_group>heavy_infantry_elite_charge_reflector_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{88c76d1d-250e-43c1-8c12-5ba72778fd70}" record_timestamp="1378127563272" record_key="hide_forestheavy_infantry_warm">
+<attribute>hide_forest</attribute>
+<attribute_group>heavy_infantry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ae0dbaf9-b92d-443e-8e85-47383b10fab5}" record_timestamp="1441364383558" record_key="hide_foresthide_wood">
+<attribute>hide_forest</attribute>
+<attribute_group>hide_wood</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8f5aa27b-ebf9-4780-b599-70b080a64369}" record_timestamp="1375356505431" record_key="hide_forestmelee_cavalry_charge_reflector">
+<attribute>hide_forest</attribute>
+<attribute_group>melee_cavalry_charge_reflector</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8d54ac80-c9f4-4fde-a9fc-4fbeceb370c0}" record_timestamp="1378127562678" record_key="hide_forestmelee_cavalry_charge_reflector_warm">
+<attribute>hide_forest</attribute>
+<attribute_group>melee_cavalry_charge_reflector_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{113460a4-a10b-457a-8f94-1b2b2fab35e9}" record_timestamp="1378127562019" record_key="hide_forestmelee_cavalry_cold">
+<attribute>hide_forest</attribute>
+<attribute_group>melee_cavalry_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c43ad95d-1973-4923-8e04-46e9a8239fa8}" record_timestamp="1372923869310" record_key="hide_forestmelee_cavalry_elite">
+<attribute>hide_forest</attribute>
+<attribute_group>melee_cavalry_elite</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{358832c4-3f01-43d2-ae22-021b0ac3bf5c}" record_timestamp="1375356505410" record_key="hide_forestmelee_cavalry_elite_charge_reflector">
+<attribute>hide_forest</attribute>
+<attribute_group>melee_cavalry_elite_charge_reflector</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{911669ac-526a-4991-b453-4cf3188b7f22}" record_timestamp="1378127562319" record_key="hide_forestmelee_cavalry_elite_charge_reflector_cold">
+<attribute>hide_forest</attribute>
+<attribute_group>melee_cavalry_elite_charge_reflector_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{46e4fd56-125f-4ebe-aca1-76db9906aa95}" record_timestamp="1378127564110" record_key="hide_forestmelee_cavalry_warm">
+<attribute>hide_forest</attribute>
+<attribute_group>melee_cavalry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{970f4ab1-6e53-4c96-8462-4a4fb147c979}" record_timestamp="1375258802001" record_key="hide_forestmelee_infantry_cold">
+<attribute>hide_forest</attribute>
+<attribute_group>melee_infantry_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{efc5be59-f433-491f-9744-0bd1d6ea7a59}" record_timestamp="1378127562475" record_key="hide_forestmelee_infantry_elite_charge_reflector_cold">
+<attribute>hide_forest</attribute>
+<attribute_group>melee_infantry_elite_charge_reflector_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{04c49fd0-866b-43ca-8469-177795738d90}" record_timestamp="1378127562385" record_key="hide_forestmelee_infantry_elite_cold">
+<attribute>hide_forest</attribute>
+<attribute_group>melee_infantry_elite_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2ec6d7fc-feb5-4fcf-8237-27ce2e1e1edf}" record_timestamp="1378127563676" record_key="hide_forestmelee_infantry_elite_warm">
+<attribute>hide_forest</attribute>
+<attribute_group>melee_infantry_elite_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b3a8449d-7e88-492e-a693-5c24a103e8a1}" record_timestamp="1375258802045" record_key="hide_forestmelee_infantry_warm">
+<attribute>hide_forest</attribute>
+<attribute_group>melee_infantry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6f3e41ed-7b0d-4a17-a474-309531218424}" record_timestamp="1372923869901" record_key="hide_forestmissile_cavalry">
+<attribute>hide_forest</attribute>
+<attribute_group>missile_cavalry</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{e52a97f9-a38a-413c-973c-d2dc8c11e8b2}" record_timestamp="1382690320842" record_key="hide_forestmissile_cavalry_cold">
+<attribute>hide_forest</attribute>
+<attribute_group>missile_cavalry_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ea5c137b-8ab5-4495-b7b5-29258ebee6b2}" record_timestamp="1372923869412" record_key="hide_forestmissile_cavalry_parthian">
+<attribute>hide_forest</attribute>
+<attribute_group>missile_cavalry_parthian</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4a6288e9-c120-4416-9005-ded8562ac266}" record_timestamp="1378127562542" record_key="hide_forestmissile_cavalry_parthian_cold">
+<attribute>hide_forest</attribute>
+<attribute_group>missile_cavalry_parthian_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3194a371-a22e-47e2-9439-baeb7fd6b86c}" record_timestamp="1378127562913" record_key="hide_forestmissile_cavalry_parthian_warm">
+<attribute>hide_forest</attribute>
+<attribute_group>missile_cavalry_parthian_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{84abf88d-5d8f-4262-a7dc-c8297becc10b}" record_timestamp="1378127562747" record_key="hide_forestmissile_cavalry_warm">
+<attribute>hide_forest</attribute>
+<attribute_group>missile_cavalry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a7a4315a-6d7a-447f-9361-695180577813}" record_timestamp="1426609578206" record_key="hide_forestmissile_infantry">
+<attribute>hide_forest</attribute>
+<attribute_group>missile_infantry</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{bf17c8d2-1a04-4487-9ef7-8dfeeaf0d8bf}" record_timestamp="1426609578271" record_key="hide_forestmissile_infantry_cold">
+<attribute>hide_forest</attribute>
+<attribute_group>missile_infantry_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{624d1564-b623-4ba0-8c7e-dec91a3a200d}" record_timestamp="1426609577693" record_key="hide_forestwh_berserker_infantry">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_berserker_infantry</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{12d3c2ca-8e9e-4b95-ad99-2b1c14e75572}" record_timestamp="1467720616054" record_key="hide_forestwh_chargeRefelectorVsL_guerrilla_hideForest">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_chargeRefelectorVsL_guerrilla_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b8e9079d-d085-409b-9384-6d4ca6327cfb}" record_timestamp="1444147151562" record_key="hide_forestwh_chargeReflectorVsL_encourage_hideForest">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_chargeReflectorVsL_encourage_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{be2d747d-4d20-48f4-a0fc-2b0bf9afe8ad}" record_timestamp="1438877566127" record_key="hide_forestwh_chargeReflectorVsL_encourage_hideForest_immuneToPsych">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_chargeReflectorVsL_encourage_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d43be71c-c624-459c-8383-8a7b940ed8d6}" record_timestamp="1460468847883" record_key="hide_forestwh_chargeReflectorVsL_encourage_hideForest_unbreakable">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_chargeReflectorVsL_encourage_hideForest_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c3dde690-6396-4009-ac11-0de72c77af48}" record_timestamp="1430990751915" record_key="hide_forestwh_chargeReflectorVsL_fear_hideForest_undead">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_chargeReflectorVsL_fear_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{fc947054-660d-4ad4-acd0-0e877a991b37}" record_timestamp="1461228729133" record_key="hide_forestwh_chargeReflectorVsL_guerrilla_hideForest">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_chargeReflectorVsL_guerrilla_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f87743b3-3711-43ef-8749-51fb43c9409e}" record_timestamp="1429713337963" record_key="hide_forestwh_chargeReflectorVsL_hideForest">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_chargeReflectorVsL_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1fa19445-35fe-464a-90fd-fb010c83d368}" record_timestamp="1435076396507" record_key="hide_forestwh_chargeReflector_encourage_hideForest">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6adc704a-86d1-4d24-aeaf-e0a0435829fe}" record_timestamp="1461152302563" record_key="hide_forestwh_chargeReflector_encourage_hideForest_immuneToPsych">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{365be27f-2504-470d-a978-e8e7fed078bd}" record_timestamp="1464177213066" record_key="hide_forestwh_chargeReflector_encourage_hideForest_immuneToPsych_strider">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest_immuneToPsych_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{babbbfd3-75fe-4ad0-933c-9d467cd2da43}" record_timestamp="1445584091073" record_key="hide_forestwh_chargeReflector_encourage_hideForest_unbreakable">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{68c5621a-2a75-40f2-bd86-f4bc634ca19f}" record_timestamp="1429713335095" record_key="hide_forestwh_chargeReflector_hideForest">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_chargeReflector_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3c3db3c3-01fa-475e-9c71-06c9ee026653}" record_timestamp="1477035598106" record_key="hide_forestwh_chargeReflector_hideForest_immPsy_guerrilla">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_chargeReflector_hideForest_immPsy_guerrilla</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2ac1c1da-c9a9-4d36-9071-d2998a802895}" record_timestamp="1455796810451" record_key="hide_forestwh_encourage_fear_hideForest">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_fear_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{de283714-caaa-4bb4-b4eb-056e97157662}" record_timestamp="1460466420732" record_key="hide_forestwh_encourage_fear_hideForest_immuneToPsych">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_fear_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{593721fb-35a7-4794-8b6c-847cf083dfdc}" record_timestamp="1484845806485" record_key="hide_forestwh_encourage_fear_hideForest_terror_guerrilla_deploy_unbreakable">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_fear_hideForest_terror_guerrilla_deploy_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{88870775-5ea5-4a46-90d4-23e80eb7d7ab}" record_timestamp="1463569380491" record_key="hide_forestwh_encourage_fear_hideForest_terror_undead">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_fear_hideForest_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2dccd754-d455-4dfa-9094-0157a4201498}" record_timestamp="1477038876808" record_key="hide_forestwh_encourage_fear_hideForest_unbreakable_terror">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_fear_hideForest_unbreakable_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{851eee2a-675a-4867-ab56-52de56cdac36}" record_timestamp="1477035594382" record_key="hide_forestwh_encourage_fear_hideForest_unbreakable_terror_undead">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_fear_hideForest_unbreakable_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{17cccb1b-cbc6-43fa-964c-7665c77893a6}" record_timestamp="1430990752213" record_key="hide_forestwh_encourage_fear_hideForest_undead">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_fear_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5279633f-74a3-40ec-962a-9fe3052f3b46}" record_timestamp="1474304275216" record_key="hide_forestwh_encourage_guerrilla_hideForest">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_guerrilla_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1453ac99-9be5-4d9c-96e5-5145a65e5ce7}" record_timestamp="1429713334142" record_key="hide_forestwh_encourage_hideForest">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a2576575-7ac5-4626-828e-34ce9a633119}" record_timestamp="1479336329649" record_key="hide_forestwh_encourage_hideForest_fear">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_hideForest_fear</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{fc3d9b75-8c4b-4bcc-933d-97f4cd1f0f3e}" record_timestamp="1479336329299" record_key="hide_forestwh_encourage_hideForest_fear_terror_chargeReflectorVsL">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_hideForest_fear_terror_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{767d4f55-1333-4c39-bf91-17a7082e2ef9}" record_timestamp="1434986293201" record_key="hide_forestwh_encourage_hideForest_immuneToPsych">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{266b693a-93b5-4d4d-8a0c-2f86b6832ace}" record_timestamp="1444834923294" record_key="hide_forestwh_encourage_hideForest_immuneToPsych_strider">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_hideForest_immuneToPsych_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7c419475-86ab-4235-89e0-51bfdfa7286d}" record_timestamp="1479336329599" record_key="hide_forestwh_encourage_hideForest_mountedFireMove">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_hideForest_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ba496c8c-cfea-496e-a8b7-692f1209ca15}" record_timestamp="1481886768949" record_key="hide_forestwh_encourage_hideForest_mountedFireMove_unbreakable">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_hideForest_mountedFireMove_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{0c5aee67-a957-470b-8cf0-4d5da5232b2c}" record_timestamp="1468500075840" record_key="hide_forestwh_encourage_hideForest_strider">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_hideForest_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b66b16ff-eac0-4c96-bca3-67e7d355d862}" record_timestamp="1459932430142" record_key="hide_forestwh_encourage_hideForest_unbreakable">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_encourage_hideForest_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d8b9fe27-e24f-4109-9c54-bbb692537529}" record_timestamp="1482324017028" record_key="hide_forestwh_fatigue_immune_hideForest_immuneToPsych">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fatigue_immune_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a68fa395-5a94-45c6-af7b-71041f91dfde}" record_timestamp="1471865790482" record_key="hide_forestwh_fear_guerilla_hideForest_undead_stalk">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_guerilla_hideForest_undead_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7ff39c6f-2500-4d2f-9614-5f9a8712aeca}" record_timestamp="1452683967841" record_key="hide_forestwh_fear_guerrilla_hideForest_terror_undead">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{e88afd85-5d91-4413-9ef5-f3afd4722024}" record_timestamp="1470149672624" record_key="hide_forestwh_fear_guerrilla_hideForest_terror_undead_encourge">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_terror_undead_encourge</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{89eb5eae-571e-43b7-b405-494531b1e026}" record_timestamp="1452683968995" record_key="hide_forestwh_fear_guerrilla_hideForest_undead">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{0c5f3861-757e-45f9-8423-c3e09525872f}" record_timestamp="1470149672624" record_key="hide_forestwh_fear_guerrilla_hideForest_undead_immPsy">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_undead_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{467281b1-8113-4dba-b29f-1d2399747ddb}" record_timestamp="1452683967660" record_key="hide_forestwh_fear_hideForest">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{001c339e-39bd-4457-9bc5-3d95cb9d47d8}" record_timestamp="1481037397622" record_key="hide_forestwh_fear_hideForest_immPsy_chargeReflectorVsL">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_hideForest_immPsy_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5c968a45-b11e-4465-9f11-7b80c3113c0d}" record_timestamp="1479336329888" record_key="hide_forestwh_fear_hideForest_immPsy_guerrilla">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_hideForest_immPsy_guerrilla</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{e492d58d-a454-4d32-8f26-7ae3fd6af07d}" record_timestamp="1479336329467" record_key="hide_forestwh_fear_hideForest_immPsy_guerrilla_encourage">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_hideForest_immPsy_guerrilla_encourage</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{118346e3-4b47-4511-9f92-c934857c7df9}" record_timestamp="1429713347291" record_key="hide_forestwh_fear_hideForest_terror">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_hideForest_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7cc9fe6e-d608-4e53-b9c3-654edc35e9d1}" record_timestamp="1430990750877" record_key="hide_forestwh_fear_hideForest_terror_undead">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_hideForest_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c44f6d8b-2eaf-42f9-b47b-3dfcdd1a63a7}" record_timestamp="1430990753011" record_key="hide_forestwh_fear_hideForest_undead">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{04e53a51-aaaf-40d5-8849-ab0b491a1a23}" record_timestamp="1471865779810" record_key="hide_forestwh_fear_hideForest_undead_chargeDeflector">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_hideForest_undead_chargeDeflector</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{99e70dda-2907-4351-aa83-9f6100a84961}" record_timestamp="1470149672623" record_key="hide_forestwh_fear_hideForest_undead_stalk">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_hideForest_undead_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6ddee3d7-1d8e-4d7d-81e7-dc85f73e02d5}" record_timestamp="1470149672623" record_key="hide_forestwh_fear_hideForest_undead_unbreakable">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_hideForest_undead_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6d1af458-d1ee-4772-94ae-28deb1d0baba}" record_timestamp="1479336329616" record_key="hide_forestwh_fear_terror_hideForest_unbreakable_encourage">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_fear_terror_hideForest_unbreakable_encourage</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2cbb2486-ac55-4438-bdff-d2f63716317e}" record_timestamp="1450354544612" record_key="hide_forestwh_guerrilla_hideForest">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_guerrilla_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{32176612-1ccd-4ddd-b7fe-5558ebacd43e}" record_timestamp="1474303448683" record_key="hide_forestwh_guerrilla_hideForest_fear">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_guerrilla_hideForest_fear</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{173eada3-2c26-4a08-9844-51d970620dfb}" record_timestamp="1470149672621" record_key="hide_forestwh_guerrilla_hideForest_footFireMove">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_guerrilla_hideForest_footFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9101a98c-80e9-446a-8d8d-7aaf23ea4cf6}" record_timestamp="1471865779792" record_key="hide_forestwh_guerrilla_hideForest_footFireMove_immPsy">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_guerrilla_hideForest_footFireMove_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1dd083ad-4659-4a3b-98b6-21431f327af6}" record_timestamp="1471865779843" record_key="hide_forestwh_guerrilla_hideForest_immPsy">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_guerrilla_hideForest_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{52744e14-4640-42d8-9365-3326ba7247fe}" record_timestamp="1471865790188" record_key="hide_forestwh_guerrilla_hideForest_immPsy_stalk">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_guerrilla_hideForest_immPsy_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d03e0e3f-3f66-4971-8b9e-94485f157104}" record_timestamp="1450354544620" record_key="hide_forestwh_guerrilla_hideForest_mountedFireMove">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f5c92c4f-9a5e-4a46-b243-b7c3db4d3565}" record_timestamp="1474303448767" record_key="hide_forestwh_guerrilla_hideForest_mountedFireMove_immPsy">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5bcf9419-87a8-439b-9103-06c4ea93dd32}" record_timestamp="1452683968126" record_key="hide_forestwh_guerrilla_hideForest_mountedFireMove_strider">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4f8eb60f-ebda-47d6-b0f0-0198c49bb380}" record_timestamp="1477038877477" record_key="hide_forestwh_guerrilla_hideForest_mountedFireMove_strider_stalk">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_strider_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a61078b0-4889-42e5-94fd-23b8e12dae00}" record_timestamp="1481886768948" record_key="hide_forestwh_guerrilla_hideForest_mountedFireMove_unbreakable">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2eda24f7-76e4-4eb9-bc72-4446b691599e}" record_timestamp="1474283983704" record_key="hide_forestwh_guerrilla_hideForest_stalk">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_guerrilla_hideForest_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{139acb66-b398-4bd5-b1e3-3d6f31521c5e}" record_timestamp="1456324472708" record_key="hide_forestwh_guerrilla_hideForest_strider">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_guerrilla_hideForest_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{871a455e-6b9e-45f8-8ff6-ec341b692081}" record_timestamp="1429713327428" record_key="hide_forestwh_hideForest">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_hideForest</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2b2933b5-0d62-4f59-a421-066c90cbad12}" record_timestamp="1479336329910" record_key="hide_forestwh_hideForest_chargeReflectorVsL">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_hideForest_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{15d0ce8b-912d-4e83-b436-9c4dbc17bf32}" record_timestamp="1479336330011" record_key="hide_forestwh_hideForest_fear_terror_chargeReflectorVsL">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_hideForest_fear_terror_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6db5cc26-090b-4884-95b5-7952d232df47}" record_timestamp="1479336329927" record_key="hide_forestwh_hideForest_immPsy">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_hideForest_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{33c3d6ff-7fbc-4cda-99b1-20261a193364}" record_timestamp="1479336329948" record_key="hide_forestwh_hideForest_immPsy_chargeReflectorVsL">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_hideForest_immPsy_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1ebf08e8-0408-4ded-8012-cfaade1f8463}" record_timestamp="1434986293044" record_key="hide_forestwh_hideForest_immuneToPsych">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d2bd0b55-2bd5-43df-8c88-c818ee9962b8}" record_timestamp="1452683968299" record_key="hide_forestwh_hideForest_mountedFireMove">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_hideForest_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a3386280-d3dd-4e15-998e-f1861b7a9cc3}" record_timestamp="1452683968760" record_key="hide_forestwh_hideForest_mountedFireMove_strider">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_hideForest_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b94e0557-0165-41d3-90bf-c01e0f3d5fa4}" record_timestamp="1470149672621" record_key="hide_forestwh_hideForest_stalk">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_hideForest_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{27b2a37a-b764-49e1-b855-9e856a2ab1a6}" record_timestamp="1452683968877" record_key="hide_forestwh_hideForest_strider">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_hideForest_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{48343e68-8c64-4f4e-9fa2-3098a6bd82b9}" record_timestamp="1445584091076" record_key="hide_forestwh_hideForest_unbreakable">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_hideForest_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8dacb9d8-514d-4ac0-bd77-037149176375}" record_timestamp="1474294405899" record_key="hide_forestwh_hideForest_unbreakable_chargeReflectorVsL">
+<attribute>hide_forest</attribute>
+<attribute_group>wh_hideForest_unbreakable_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{375fbe54-76ce-43ac-a2fc-2ab1c89e2d38}" record_timestamp="1372923870194" record_key="hide_scrub_and_forestlight_cavalry">
+<attribute>hide_scrub_and_forest</attribute>
+<attribute_group>light_cavalry</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{bee8e63b-abdf-4a8e-a0c4-0b42dc389cf9}" record_timestamp="1378127562820" record_key="hide_scrub_and_forestmissile_infantry_warm">
+<attribute>hide_scrub_and_forest</attribute>
+<attribute_group>missile_infantry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a8c75aee-85bd-49f9-96b4-b6bc78b43029}" record_timestamp="1429713338325" record_key="hide_scrub_and_forestwh_chargeReflectorVsL_hideForestScrub">
+<attribute>hide_scrub_and_forest</attribute>
+<attribute_group>wh_chargeReflectorVsL_hideForestScrub</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{32e4df54-6643-4cba-9b48-ba0b59637afc}" record_timestamp="1429713334670" record_key="hide_scrub_and_forestwh_encourage_hideForestScrub">
+<attribute>hide_scrub_and_forest</attribute>
+<attribute_group>wh_encourage_hideForestScrub</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ebd8d8ed-dd20-43a7-a716-8722a41e660e}" record_timestamp="1429713327911" record_key="hide_scrub_and_forestwh_hideForestScrub">
+<attribute>hide_scrub_and_forest</attribute>
+<attribute_group>wh_hideForestScrub</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{cacdd15f-4069-4d8e-86ff-cc1d9915e759}" record_timestamp="1464177213067" record_key="ignore_forest_penaltieswh_chargeReflector_encourage_hideForest_immuneToPsych_strider">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest_immuneToPsych_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f58a8b69-91d8-465e-9304-c69f0fdb19e2}" record_timestamp="1460466420775" record_key="ignore_forest_penaltieswh_encourage_fear_hideForest_immuneToPsych">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_encourage_fear_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a7b10eb2-a120-4c6e-8d1c-3a9d1c05bf11}" record_timestamp="1446050963082" record_key="ignore_forest_penaltieswh_encourage_fear_immuneToPsych_strider">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_encourage_fear_immuneToPsych_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a4606298-3d31-43bf-971e-4c4b80a63abd}" record_timestamp="1444834923128" record_key="ignore_forest_penaltieswh_encourage_hideForest_immuneToPsych_strider">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_encourage_hideForest_immuneToPsych_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{633c9661-d4b6-417f-9c65-ed6a6fbda91c}" record_timestamp="1468500075839" record_key="ignore_forest_penaltieswh_encourage_hideForest_strider">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_encourage_hideForest_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{aa8c2516-1402-4932-a6e2-5850d28af86a}" record_timestamp="1479308763532" record_key="ignore_forest_penaltieswh_encourage_strider_fear_terror_mountedFireMove">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_encourage_strider_fear_terror_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{22d7630a-b5dc-470c-b19b-19fee7f7d090}" record_timestamp="1444834922873" record_key="ignore_forest_penaltieswh_fear_strider_terror">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_fear_strider_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b9fd2254-17ee-4294-8242-1abd8064d9be}" record_timestamp="1479308763500" record_key="ignore_forest_penaltieswh_fear_terror_strider">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_fear_terror_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b23cfc89-6923-4fb8-b591-828c4674aa09}" record_timestamp="1452683968013" record_key="ignore_forest_penaltieswh_guerrilla_hideForest_mountedFireMove_strider">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3e9675a8-764e-46de-ac16-ce59e6f0f319}" record_timestamp="1477038877476" record_key="ignore_forest_penaltieswh_guerrilla_hideForest_mountedFireMove_strider_stalk">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_strider_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b114c75e-f933-4660-8321-11cf8848e937}" record_timestamp="1456324472773" record_key="ignore_forest_penaltieswh_guerrilla_hideForest_strider">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_guerrilla_hideForest_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{94ef411e-d24b-43b7-9dbe-76b50fd6a334}" record_timestamp="1444834922959" record_key="ignore_forest_penaltieswh_guerrilla_mountedFireMove_strider">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_guerrilla_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{71117e33-3fdf-44aa-9fc9-5ce47ea77c78}" record_timestamp="1452683968648" record_key="ignore_forest_penaltieswh_hideForest_mountedFireMove_strider">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_hideForest_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a26f659c-6852-47b2-a33e-e6aafaf87ca0}" record_timestamp="1452683968819" record_key="ignore_forest_penaltieswh_hideForest_strider">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_hideForest_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f05f458d-be78-4aed-871a-7e61dcb8895b}" record_timestamp="1446656060916" record_key="ignore_forest_penaltieswh_mountedFireMove_strider">
+<attribute>ignore_forest_penalties</attribute>
+<attribute_group>wh_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{25e4b330-a5af-47c9-b621-05203b4d928e}" record_timestamp="1429713342535" record_key="immune_to_psychologywh_amok_cantRun_fear_immuneToPsych">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_amok_cantRun_fear_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{35a0fa85-6e11-4e12-a950-c19a0402a31d}" record_timestamp="1439364236880" record_key="immune_to_psychologywh_amok_fear_immuneToPsych">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_amok_fear_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{fd10d953-cd3a-4487-8957-78a285eaa4e6}" record_timestamp="1470149672622" record_key="immune_to_psychologywh_cantRun_immuneToPsych">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_cantRun_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{fe6dcdda-beca-43ff-a39b-be8327c589df}" record_timestamp="1438877566153" record_key="immune_to_psychologywh_chargeReflectorVsL_encourage_hideForest_immuneToPsych">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_chargeReflectorVsL_encourage_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{45ea7beb-d53c-4e41-a5e7-a95ebef1cd72}" record_timestamp="1461152302562" record_key="immune_to_psychologywh_chargeReflector_encourage_hideForest_immuneToPsych">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3aa31ace-13ae-497c-99db-fff722210f0f}" record_timestamp="1464177213067" record_key="immune_to_psychologywh_chargeReflector_encourage_hideForest_immuneToPsych_strider">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest_immuneToPsych_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{188ca8e3-94ba-4a7a-a9c1-8e67c427cbd6}" record_timestamp="1477035598107" record_key="immune_to_psychologywh_chargeReflector_hideForest_immPsy_guerrilla">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_chargeReflector_hideForest_immPsy_guerrilla</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c8fa3698-5214-4291-ad03-abb12296d6ea}" record_timestamp="1460466420819" record_key="immune_to_psychologywh_encourage_fear_hideForest_immuneToPsych">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_encourage_fear_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f7cf492c-62ee-4d4d-bb43-4ee663942028}" record_timestamp="1446050963023" record_key="immune_to_psychologywh_encourage_fear_immuneToPsych_strider">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_encourage_fear_immuneToPsych_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6c61a721-c3a9-462f-8d2b-230a9fedfd86}" record_timestamp="1434986293254" record_key="immune_to_psychologywh_encourage_hideForest_immuneToPsych">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_encourage_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{84cab400-5ebc-4e34-be74-1ae06db4b8eb}" record_timestamp="1444834923202" record_key="immune_to_psychologywh_encourage_hideForest_immuneToPsych_strider">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_encourage_hideForest_immuneToPsych_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d8e1a147-8a2b-457e-9259-c6af491db58d}" record_timestamp="1434986293363" record_key="immune_to_psychologywh_encourage_immuneToPsych">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_encourage_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d875d59f-0e2f-4aef-8cfa-c8c8b0604aac}" record_timestamp="1484300629855" record_key="immune_to_psychologywh_fatigue_immuneToPsych_guerrilla">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_fatigue_immuneToPsych_guerrilla</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d177ee17-ccfd-468d-9277-67c2ab11263a}" record_timestamp="1482324017110" record_key="immune_to_psychologywh_fatigue_immune_guerrilla_immuneToPsych">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_fatigue_immune_guerrilla_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{494a7f46-8616-41ac-bef7-ff8d37ccd023}" record_timestamp="1482324017195" record_key="immune_to_psychologywh_fatigue_immune_hideForest_immuneToPsych">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_fatigue_immune_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3c74c4ac-7544-4b76-bda1-b0db9b1bb584}" record_timestamp="1470149672624" record_key="immune_to_psychologywh_fear_guerrilla_hideForest_undead_immPsy">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_undead_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ee6ec801-f460-41de-ad5e-b5b8b12a5cd3}" record_timestamp="1481037397621" record_key="immune_to_psychologywh_fear_hideForest_immPsy_chargeReflectorVsL">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_fear_hideForest_immPsy_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3c650839-1a51-4dcb-b3b8-82d0aa1ead45}" record_timestamp="1479336329887" record_key="immune_to_psychologywh_fear_hideForest_immPsy_guerrilla">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_fear_hideForest_immPsy_guerrilla</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ac4d537c-45fa-4b86-8cd9-dcfa316d3185}" record_timestamp="1471865779792" record_key="immune_to_psychologywh_guerrilla_hideForest_footFireMove_immPsy">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_guerrilla_hideForest_footFireMove_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{df9125e6-ddbb-42ba-87de-775a25b7d5e8}" record_timestamp="1471865779843" record_key="immune_to_psychologywh_guerrilla_hideForest_immPsy">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_guerrilla_hideForest_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b49885a0-f9f1-4c33-b0ba-ff44b50f44e8}" record_timestamp="1471865790188" record_key="immune_to_psychologywh_guerrilla_hideForest_immPsy_stalk">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_guerrilla_hideForest_immPsy_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{70172b5a-cc2e-4224-85f0-2ddab11d666b}" record_timestamp="1474303448779" record_key="immune_to_psychologywh_guerrilla_hideForest_mountedFireMove_immPsy">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{61a1666c-66a9-4c3e-81ab-6445cbd9c1ad}" record_timestamp="1474294406185" record_key="immune_to_psychologywh_guerrilla_stalk_immPsy">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_guerrilla_stalk_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1a8ee62c-1c8a-46aa-8db2-99f8787537ad}" record_timestamp="1479336329926" record_key="immune_to_psychologywh_hideForest_immPsy">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_hideForest_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{0ffc50b6-0350-4c7e-b902-8c29678e4393}" record_timestamp="1479336329945" record_key="immune_to_psychologywh_hideForest_immPsy_chargeReflectorVsL">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_hideForest_immPsy_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{94c497cb-1665-40b1-8851-6074e45f364c}" record_timestamp="1434986293095" record_key="immune_to_psychologywh_hideForest_immuneToPsych">
+<attribute>immune_to_psychology</attribute>
+<attribute_group>wh_hideForest_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{0073d30e-5552-4fca-af98-2a63b4c2e35a}" record_timestamp="1367406727261" record_key="mighty_knockbackelephant_indian">
+<attribute>mighty_knockback</attribute>
+<attribute_group>elephant_indian</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9e100e63-86a9-4946-8316-1ef6462d2046}" record_timestamp="1367406727277" record_key="mighty_knockbackelephants">
+<attribute>mighty_knockback</attribute>
+<attribute_group>elephants</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d59d4d56-e395-4dfd-99ba-94abb0c4126c}" record_timestamp="1363248643724" record_key="mounted_fire_movecamel_missile">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>camel_missile</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9cfaeaa1-3135-4469-a0d0-b9a07875eb47}" record_timestamp="1357892998954" record_key="mounted_fire_movelight_cavalry">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>light_cavalry</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{13920e3a-2197-4f8b-b19f-6dc09f497e4f}" record_timestamp="1360590680396" record_key="mounted_fire_movemissile_cavalry">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>missile_cavalry</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8d367a4f-1fef-43a3-a76b-0028dac37fc7}" record_timestamp="1382690320860" record_key="mounted_fire_movemissile_cavalry_cold">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>missile_cavalry_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9d92050f-64de-40e6-81f9-ed3a801435b3}" record_timestamp="1363248643723" record_key="mounted_fire_movemissile_cavalry_parthian">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>missile_cavalry_parthian</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{69f12b7a-df03-4c54-9efd-4afc10cca93b}" record_timestamp="1378127562564" record_key="mounted_fire_movemissile_cavalry_parthian_cold">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>missile_cavalry_parthian_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5115de4c-daf6-4ce6-823d-93f4e9e41566}" record_timestamp="1378127562941" record_key="mounted_fire_movemissile_cavalry_parthian_warm">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>missile_cavalry_parthian_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{75614c4f-db91-41ca-8c27-54f6a3edf78f}" record_timestamp="1378127562770" record_key="mounted_fire_movemissile_cavalry_warm">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>missile_cavalry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{88828da3-26d6-425f-b5ed-aa556d3c9dc6}" record_timestamp="1479336330394" record_key="mounted_fire_movewh_encourage_fear_mountedFireMove">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_encourage_fear_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2050ef1a-9bf9-4704-9198-27911b4d9c7d}" record_timestamp="1479308763534" record_key="mounted_fire_movewh_encourage_fear_terror_mountedFireMove">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_encourage_fear_terror_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3509c511-221a-4c93-9168-5f064ea86bff}" record_timestamp="1479308763543" record_key="mounted_fire_movewh_encourage_fear_terror_mountedFireMove_strider">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_encourage_fear_terror_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{00594b8f-31da-49ac-b2c7-6c1c629aa846}" record_timestamp="1479336329601" record_key="mounted_fire_movewh_encourage_hideForest_mountedFireMove">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_encourage_hideForest_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a660e961-7d1a-466c-95b2-11cd72f1cf65}" record_timestamp="1481886768950" record_key="mounted_fire_movewh_encourage_hideForest_mountedFireMove_unbreakable">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_encourage_hideForest_mountedFireMove_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b0790111-94ec-4c0c-9e43-3069450e6fd8}" record_timestamp="1479308763533" record_key="mounted_fire_movewh_encourage_strider_fear_terror_mountedFireMove">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_encourage_strider_fear_terror_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{db847dc6-aba6-456f-95eb-1da1cb5dbbdb}" record_timestamp="1470149672621" record_key="mounted_fire_movewh_guerrilla_hideForest_footFireMove">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_guerrilla_hideForest_footFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{889e6615-8880-4adf-80f0-63614334117e}" record_timestamp="1471865779791" record_key="mounted_fire_movewh_guerrilla_hideForest_footFireMove_immPsy">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_guerrilla_hideForest_footFireMove_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{dc31d9a6-1a12-4088-8366-5ae75db01194}" record_timestamp="1450354544571" record_key="mounted_fire_movewh_guerrilla_hideForest_mountedFireMove">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{417ec2ef-0635-43d4-9f3a-af7d02e0b1c3}" record_timestamp="1474303448770" record_key="mounted_fire_movewh_guerrilla_hideForest_mountedFireMove_immPsy">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{050b371e-36cb-4a46-9653-122697817991}" record_timestamp="1452683968070" record_key="mounted_fire_movewh_guerrilla_hideForest_mountedFireMove_strider">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{085471a6-33bf-48df-8f44-af1a0c1764c2}" record_timestamp="1477038877475" record_key="mounted_fire_movewh_guerrilla_hideForest_mountedFireMove_strider_stalk">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_strider_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{e798da67-95f6-47c3-b0aa-7b3b7226ec42}" record_timestamp="1481886768948" record_key="mounted_fire_movewh_guerrilla_hideForest_mountedFireMove_unbreakable">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5e1c2c30-6608-4a04-9871-eb24a4de3b3a}" record_timestamp="1429713340551" record_key="mounted_fire_movewh_guerrilla_mountedFireMove">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_guerrilla_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{740e6c23-2018-478e-abdc-84e69e8ccf94}" record_timestamp="1429713341143" record_key="mounted_fire_movewh_guerrilla_mountedFireMove_strider">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_guerrilla_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9afce3d0-4464-4156-9e2e-6b25333cb982}" record_timestamp="1479336330270" record_key="mounted_fire_movewh_guerrilla_stalk_mountedFireMove">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_guerrilla_stalk_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{27bde94e-04f3-4826-8a76-350f2f75549e}" record_timestamp="1479336330311" record_key="mounted_fire_movewh_guerrilla_stalk_snipe_encourage_mountedFireMove">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_guerrilla_stalk_snipe_encourage_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7cac4e24-fa2f-4d60-98ef-faebe94aee65}" record_timestamp="1479336330275" record_key="mounted_fire_movewh_guerrilla_stalk_snipe_mountedFireMove">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_guerrilla_stalk_snipe_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3cfed767-56f6-4765-baac-70fb97b65772}" record_timestamp="1452683968241" record_key="mounted_fire_movewh_hideForest_mountedFireMove">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_hideForest_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ce3b7131-b8f8-4951-9604-1cc492f2f2b1}" record_timestamp="1452683968704" record_key="mounted_fire_movewh_hideForest_mountedFireMove_strider">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_hideForest_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b4e1ef32-9fa1-4bf1-886a-8d5b8e4577aa}" record_timestamp="1446656060862" record_key="mounted_fire_movewh_mountedFireMove">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{041d35c3-c660-4f76-a080-0fd7bb3a413a}" record_timestamp="1446656060889" record_key="mounted_fire_movewh_mountedFireMove_strider">
+<attribute>mounted_fire_move</attribute>
+<attribute_group>wh_mountedFireMove_strider</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1b17ca65-659d-4742-9cbc-c589ed85fe86}" record_timestamp="1363248643723" record_key="mounted_fire_parthianmissile_cavalry_parthian">
+<attribute>mounted_fire_parthian</attribute>
+<attribute_group>missile_cavalry_parthian</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5e9f0079-cebf-41e9-8c5c-7b337ccd56d3}" record_timestamp="1378127562587" record_key="mounted_fire_parthianmissile_cavalry_parthian_cold">
+<attribute>mounted_fire_parthian</attribute>
+<attribute_group>missile_cavalry_parthian_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5a788647-0b6e-4556-bb75-3cfeafa7dc15}" record_timestamp="1378127562964" record_key="mounted_fire_parthianmissile_cavalry_parthian_warm">
+<attribute>mounted_fire_parthian</attribute>
+<attribute_group>missile_cavalry_parthian_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f4b5b391-2f08-488e-b340-79b97312f556}" record_timestamp="1378127562087" record_key="resist_coldartillery_cold">
+<attribute>resist_cold</attribute>
+<attribute_group>artillery_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2a98a111-7a6e-4390-8e06-19e3a955039c}" record_timestamp="1378127562042" record_key="resist_coldberserker_infantry_cold">
+<attribute>resist_cold</attribute>
+<attribute_group>berserker_infantry_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{611a0c48-fa43-4755-96ed-39ded4901095}" record_timestamp="1378127563747" record_key="resist_coldmelee_cavalry_cold">
+<attribute>resist_cold</attribute>
+<attribute_group>melee_cavalry_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c6e1b54a-e36a-484b-8772-dc4ec5717245}" record_timestamp="1378127562251" record_key="resist_coldmelee_cavalry_elite_charge_reflector_cold">
+<attribute>resist_cold</attribute>
+<attribute_group>melee_cavalry_elite_charge_reflector_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5af8a923-2bfe-4617-9575-d8481fd78e5f}" record_timestamp="1375258802023" record_key="resist_coldmelee_infantry_cold">
+<attribute>resist_cold</attribute>
+<attribute_group>melee_infantry_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{130f0aff-ace3-4c7d-93ba-fba2fdcbb6e0}" record_timestamp="1378127562407" record_key="resist_coldmelee_infantry_elite_charge_reflector_cold">
+<attribute>resist_cold</attribute>
+<attribute_group>melee_infantry_elite_charge_reflector_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f7596870-04c2-408e-b5f5-8c3134cee65a}" record_timestamp="1378127562341" record_key="resist_coldmelee_infantry_elite_cold">
+<attribute>resist_cold</attribute>
+<attribute_group>melee_infantry_elite_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{743f7ac4-d131-4f0b-a7e3-a8cc176b0054}" record_timestamp="1378127562228" record_key="resist_coldmelee_infantry_stealth_cold">
+<attribute>resist_cold</attribute>
+<attribute_group>melee_infantry_stealth_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3becdca5-9bc7-4269-8306-cc45e852e82f}" record_timestamp="1382690320877" record_key="resist_coldmissile_cavalry_cold">
+<attribute>resist_cold</attribute>
+<attribute_group>missile_cavalry_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{81d0f2e5-16b1-463e-83e5-15da153d0c38}" record_timestamp="1378127562497" record_key="resist_coldmissile_cavalry_parthian_cold">
+<attribute>resist_cold</attribute>
+<attribute_group>missile_cavalry_parthian_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{aa4c2fb3-0391-4029-a2bf-bcfe07b9ad95}" record_timestamp="1378127563724" record_key="resist_coldmissile_infantry_cold">
+<attribute>resist_cold</attribute>
+<attribute_group>missile_infantry_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{39602256-14b1-4b30-993d-fc4a96185a3d}" record_timestamp="1378127561926" record_key="resist_heatcamel">
+<attribute>resist_heat</attribute>
+<attribute_group>camel</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b136ddaf-b92e-4237-b38e-1d06afa96062}" record_timestamp="1378127561948" record_key="resist_heatcamel_missile">
+<attribute>resist_heat</attribute>
+<attribute_group>camel_missile</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f960c9c9-ec70-4f1b-bbf3-db4208e3d572}" record_timestamp="1378127562609" record_key="resist_heatelephant_indian">
+<attribute>resist_heat</attribute>
+<attribute_group>elephant_indian</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f3e47ec3-477b-4583-93d7-a47d7f3688c4}" record_timestamp="1378127562632" record_key="resist_heatelephants">
+<attribute>resist_heat</attribute>
+<attribute_group>elephants</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{549eda82-de1d-4071-8f16-8b5aeb5e668a}" record_timestamp="1382619145177" record_key="resist_heatformed_infantry_elite_charge_reflector_warm">
+<attribute>resist_heat</attribute>
+<attribute_group>formed_infantry_elite_charge_reflector_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a021cfee-0b93-4c32-8c53-986b775eed46}" record_timestamp="1378127563105" record_key="resist_heatformed_infantry_elite_warm">
+<attribute>resist_heat</attribute>
+<attribute_group>formed_infantry_elite_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f9833746-2307-48da-942b-298ed1f0a677}" record_timestamp="1378127563034" record_key="resist_heatformed_infantry_warm">
+<attribute>resist_heat</attribute>
+<attribute_group>formed_infantry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f2c59b53-1f46-4515-a426-c8e804d1ebaf}" record_timestamp="1378127563585" record_key="resist_heatheavy_cavalry_elite_warm">
+<attribute>resist_heat</attribute>
+<attribute_group>heavy_cavalry_elite_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c4896668-f99d-4279-8cf2-0bf9e0ddfb86}" record_timestamp="1378127563440" record_key="resist_heatheavy_cavalry_warm">
+<attribute>resist_heat</attribute>
+<attribute_group>heavy_cavalry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5a08edba-e6ba-4cf2-9273-302fa4d7c7a1}" record_timestamp="1378127563295" record_key="resist_heatheavy_infantry_elite_charge_reflector_warm">
+<attribute>resist_heat</attribute>
+<attribute_group>heavy_infantry_elite_charge_reflector_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f84bb331-6653-499f-a5da-b6e35c75be31}" record_timestamp="1378127563202" record_key="resist_heatheavy_infantry_warm">
+<attribute>resist_heat</attribute>
+<attribute_group>heavy_infantry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3551d15e-e34f-431d-8269-12e96cc65e58}" record_timestamp="1378127562702" record_key="resist_heatmelee_cavalry_charge_reflector_warm">
+<attribute>resist_heat</attribute>
+<attribute_group>melee_cavalry_charge_reflector_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7867a53a-c3f1-4123-a6be-4e96247ea550}" record_timestamp="1378127564086" record_key="resist_heatmelee_cavalry_warm">
+<attribute>resist_heat</attribute>
+<attribute_group>melee_cavalry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9a5826fc-a84d-4bac-9ab5-826c3c46d125}" record_timestamp="1378127563608" record_key="resist_heatmelee_infantry_elite_warm">
+<attribute>resist_heat</attribute>
+<attribute_group>melee_infantry_elite_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1aa3c78a-8bf1-466c-9ca6-59e32184aaa0}" record_timestamp="1375258802067" record_key="resist_heatmelee_infantry_warm">
+<attribute>resist_heat</attribute>
+<attribute_group>melee_infantry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{7d1a294a-37c4-4179-81b3-7fe467478978}" record_timestamp="1378127562866" record_key="resist_heatmissile_cavalry_parthian_warm">
+<attribute>resist_heat</attribute>
+<attribute_group>missile_cavalry_parthian_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a2b464ac-970e-4cd4-b583-ad2c9e00f293}" record_timestamp="1378127562795" record_key="resist_heatmissile_cavalry_warm">
+<attribute>resist_heat</attribute>
+<attribute_group>missile_cavalry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{43cda361-4c34-4bf4-9f52-ae4ec477f2f4}" record_timestamp="1378127562843" record_key="resist_heatmissile_infantry_warm">
+<attribute>resist_heat</attribute>
+<attribute_group>missile_infantry_warm</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{03c5cc64-bd52-42dc-9680-366dea1e12a7}" record_timestamp="1435076404541" record_key="resist_heatwh_cantRun_encourage_heatResist">
+<attribute>resist_heat</attribute>
+<attribute_group>wh_cantRun_encourage_heatResist</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{05c323c5-5391-442e-a093-1e4b8cb139d4}" record_timestamp="1435137552958" record_key="resist_heatwh_cantRun_heatResist">
+<attribute>resist_heat</attribute>
+<attribute_group>wh_cantRun_heatResist</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c64e477f-58db-4cc5-83f2-3110b315c7ad}" record_timestamp="1363248643724" record_key="run_amokelephant_indian">
+<attribute>run_amok</attribute>
+<attribute_group>elephant_indian</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{1e0d818b-5a22-413b-a520-82039acbdc04}" record_timestamp="1362386740431" record_key="run_amokelephants">
+<attribute>run_amok</attribute>
+<attribute_group>elephants</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{168113e3-a47b-43db-b39f-63b3025dbb6b}" record_timestamp="1429713342786" record_key="run_amokwh_amok_cantRun_fear_immuneToPsych">
+<attribute>run_amok</attribute>
+<attribute_group>wh_amok_cantRun_fear_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{bc0373ef-cc98-4ae3-9fcd-28932a586850}" record_timestamp="1439364236910" record_key="run_amokwh_amok_fear_immuneToPsych">
+<attribute>run_amok</attribute>
+<attribute_group>wh_amok_fear_immuneToPsych</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6e6913b8-6afd-4d55-83db-89b6cbe1b700}" record_timestamp="1363248643724" record_key="scare_horsecamel">
+<attribute>scare_horse</attribute>
+<attribute_group>camel</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{42af8002-6c90-4bf8-921a-3a3f2801add2}" record_timestamp="1363248643724" record_key="scare_horsecamel_missile">
+<attribute>scare_horse</attribute>
+<attribute_group>camel_missile</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{081dce54-f67d-499f-aed1-1549055dcc4b}" record_timestamp="1360669875435" record_key="scare_horseguard_dogs">
+<attribute>scare_horse</attribute>
+<attribute_group>guard_dogs</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{39e410c9-9655-463a-98b0-16e00e44064c}" record_timestamp="1363248643724" record_key="scare_immuneelephant_indian">
+<attribute>scare_immune</attribute>
+<attribute_group>elephant_indian</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{dcc989f4-a4d1-4f62-888e-32324b499ae4}" record_timestamp="1389703235074" record_key="scare_immuneelephants">
+<attribute>scare_immune</attribute>
+<attribute_group>elephants</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{0f1b87c8-e74a-4976-a132-06000cad3216}" record_timestamp="1363248643723" record_key="snipemissile_infantry_stealth">
+<attribute>snipe</attribute>
+<attribute_group>missile_infantry_stealth</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3c71a49e-2220-40ec-a8d3-a0a41fec91cc}" record_timestamp="1479336330214" record_key="snipewh_guerrilla_stalk_snipe_encourage_mountedFireMove">
+<attribute>snipe</attribute>
+<attribute_group>wh_guerrilla_stalk_snipe_encourage_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{0d5bd9ea-5211-4836-9636-53e64fd39ed8}" record_timestamp="1479336330246" record_key="snipewh_guerrilla_stalk_snipe_mountedFireMove">
+<attribute>snipe</attribute>
+<attribute_group>wh_guerrilla_stalk_snipe_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d2992d64-1127-434a-9759-45a9790c1a62}" record_timestamp="1363248643723" record_key="stalkmelee_infantry_stealth">
+<attribute>stalk</attribute>
+<attribute_group>melee_infantry_stealth</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a65d4c0d-1aba-416d-b328-d91ad20d1f8f}" record_timestamp="1378127562204" record_key="stalkmelee_infantry_stealth_cold">
+<attribute>stalk</attribute>
+<attribute_group>melee_infantry_stealth_cold</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{07160523-efdf-4096-bce3-cf4bec542313}" record_timestamp="1363248643723" record_key="stalkmissile_infantry_stealth">
+<attribute>stalk</attribute>
+<attribute_group>missile_infantry_stealth</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{79697c70-89f4-4885-b17b-779b99c7586e}" record_timestamp="1471865790481" record_key="stalkwh_fear_guerilla_hideForest_undead_stalk">
+<attribute>stalk</attribute>
+<attribute_group>wh_fear_guerilla_hideForest_undead_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ae91077a-7ea7-470d-8173-71d34273cfbc}" record_timestamp="1470149672623" record_key="stalkwh_fear_hideForest_undead_stalk">
+<attribute>stalk</attribute>
+<attribute_group>wh_fear_hideForest_undead_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a1bdb775-1de9-47cb-9acd-7f066fcd7545}" record_timestamp="1471865790187" record_key="stalkwh_guerrilla_hideForest_immPsy_stalk">
+<attribute>stalk</attribute>
+<attribute_group>wh_guerrilla_hideForest_immPsy_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{4b205f34-3dbd-45ae-a76f-8a81a1a777ac}" record_timestamp="1477038877478" record_key="stalkwh_guerrilla_hideForest_mountedFireMove_strider_stalk">
+<attribute>stalk</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_strider_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a163cef8-8d87-42db-aa72-dcd9a7018183}" record_timestamp="1474283983705" record_key="stalkwh_guerrilla_hideForest_stalk">
+<attribute>stalk</attribute>
+<attribute_group>wh_guerrilla_hideForest_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{98c9b884-fa08-48d8-96db-2621d11e600c}" record_timestamp="1454525973848" record_key="stalkwh_guerrilla_stalk">
+<attribute>stalk</attribute>
+<attribute_group>wh_guerrilla_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{dacd66b2-f547-4034-a8ce-69fad905bf04}" record_timestamp="1474294406235" record_key="stalkwh_guerrilla_stalk_immPsy">
+<attribute>stalk</attribute>
+<attribute_group>wh_guerrilla_stalk_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{46cdbbc0-1d3c-4096-be92-729ed320cd42}" record_timestamp="1479336329848" record_key="stalkwh_guerrilla_stalk_mountedFireMove">
+<attribute>stalk</attribute>
+<attribute_group>wh_guerrilla_stalk_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{db082214-81cb-42fb-8410-001221757af2}" record_timestamp="1479336330213" record_key="stalkwh_guerrilla_stalk_snipe_encourage_mountedFireMove">
+<attribute>stalk</attribute>
+<attribute_group>wh_guerrilla_stalk_snipe_encourage_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8fcb053d-d147-441d-ac3a-190d93c3c9d9}" record_timestamp="1479336330260" record_key="stalkwh_guerrilla_stalk_snipe_mountedFireMove">
+<attribute>stalk</attribute>
+<attribute_group>wh_guerrilla_stalk_snipe_mountedFireMove</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8223d7fd-3eac-4549-876f-d108837cecd1}" record_timestamp="1474294406455" record_key="stalkwh_guerrilla_stalk_unbreakable">
+<attribute>stalk</attribute>
+<attribute_group>wh_guerrilla_stalk_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{80fa7f7e-a8d5-4b6a-949f-ba23754ac6de}" record_timestamp="1470149672621" record_key="stalkwh_hideForest_stalk">
+<attribute>stalk</attribute>
+<attribute_group>wh_hideForest_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{f3a89831-a66f-4c00-b767-5d8a5f279787}" record_timestamp="1448022250012" record_key="stalkwh_stalk">
+<attribute>stalk</attribute>
+<attribute_group>wh_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8d5467de-9c7d-4b14-ac73-cfba55ab1c74}" record_timestamp="1477041754407" record_key="unbreakableartillery">
+<attribute>unbreakable</attribute>
+<attribute_group>artillery</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a834d730-2105-4943-8d7a-b3785e0eeac5}" record_timestamp="1445584091072" record_key="unbreakablewh_cantRun_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_cantRun_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{70174ece-d17d-478e-b137-fecbf5cfbc69}" record_timestamp="1460468847834" record_key="unbreakablewh_chargeReflectorVsL_encourage_hideForest_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_chargeReflectorVsL_encourage_hideForest_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d125d32a-0b9f-49d0-a937-18f56e0f276f}" record_timestamp="1445584091074" record_key="unbreakablewh_chargeReflector_encourage_hideForest_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_chargeReflector_encourage_hideForest_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{01d13e00-bdf7-459b-840a-02b94aa65355}" record_timestamp="1484845806486" record_key="unbreakablewh_encourage_fear_hideForest_terror_guerrilla_deploy_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_encourage_fear_hideForest_terror_guerrilla_deploy_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{d01b6b02-0ba9-40bc-837a-e4c7f086bccf}" record_timestamp="1477038876809" record_key="unbreakablewh_encourage_fear_hideForest_unbreakable_terror">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_encourage_fear_hideForest_unbreakable_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8e5a7868-8b5b-4070-9e16-f7b164047365}" record_timestamp="1477035594383" record_key="unbreakablewh_encourage_fear_hideForest_unbreakable_terror_undead">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_encourage_fear_hideForest_unbreakable_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{3e60fe1d-9e60-4977-a136-f1a77aae71d0}" record_timestamp="1453458994832" record_key="unbreakablewh_encourage_fear_terror_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_encourage_fear_terror_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6f1e6b2b-4e7b-4679-bb6c-e47d13be8158}" record_timestamp="1481886768949" record_key="unbreakablewh_encourage_hideForest_mountedFireMove_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_encourage_hideForest_mountedFireMove_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b36f649c-854b-44e8-9e15-0b142b2f58b2}" record_timestamp="1459932430141" record_key="unbreakablewh_encourage_hideForest_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_encourage_hideForest_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b0ca0153-fab8-499b-af38-4ff3b0c83cb6}" record_timestamp="1457369279002" record_key="unbreakablewh_encourage_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_encourage_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{85f7881c-7987-4db0-8743-9574b86a84ca}" record_timestamp="1470149672623" record_key="unbreakablewh_fear_hideForest_undead_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_fear_hideForest_undead_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2543d04e-b817-4b0a-9a25-277e18e80798}" record_timestamp="1479336330288" record_key="unbreakablewh_fear_terror_hideForest_unbreakable_encourage">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_fear_terror_hideForest_unbreakable_encourage</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b9111401-12ce-43d5-88fe-10719c6a315f}" record_timestamp="1445584091074" record_key="unbreakablewh_fear_terror_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_fear_terror_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{db8b69bd-6da6-46e7-a55f-c336eb1471d4}" record_timestamp="1466428925273" record_key="unbreakablewh_fear_terror_undead_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_fear_terror_undead_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{56c59ef5-b6c4-462f-9466-4d1957b06c34}" record_timestamp="1446044545970" record_key="unbreakablewh_fear_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_fear_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{217a839e-88f1-46e6-a1cf-957f7c544c76}" record_timestamp="1481886768947" record_key="unbreakablewh_guerrilla_hideForest_mountedFireMove_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_guerrilla_hideForest_mountedFireMove_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{93317495-032c-40d4-89ca-968de9bb0078}" record_timestamp="1474294406452" record_key="unbreakablewh_guerrilla_stalk_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_guerrilla_stalk_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{50c065d1-b0f4-42df-8143-d55f0f58b6dd}" record_timestamp="1445584091076" record_key="unbreakablewh_hideForest_unbreakable">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_hideForest_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{995892d5-1e77-4caa-a199-618afe6d561d}" record_timestamp="1474294405645" record_key="unbreakablewh_hideForest_unbreakable_chargeReflectorVsL">
+<attribute>unbreakable</attribute>
+<attribute_group>wh_hideForest_unbreakable_chargeReflectorVsL</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b685fef3-97e3-42ba-8513-fa68b4bc56a6}" record_timestamp="1444923426944" record_key="undeadwh_berserk_fear_terror_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_berserk_fear_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{e45332ce-5fbb-44cb-a257-a8eb7c112ee1}" record_timestamp="1430990751962" record_key="undeadwh_chargeReflectorVsL_fear_hideForest_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_chargeReflectorVsL_fear_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{45062032-8690-4406-86ca-66d09b2ded69}" record_timestamp="1463569380490" record_key="undeadwh_encourage_fear_hideForest_terror_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_encourage_fear_hideForest_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{8be8124c-294c-4a67-9cc4-88937dcb83d3}" record_timestamp="1477035594383" record_key="undeadwh_encourage_fear_hideForest_unbreakable_terror_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_encourage_fear_hideForest_unbreakable_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{e12f724c-c5cd-4695-9cdb-64343268a022}" record_timestamp="1430990752265" record_key="undeadwh_encourage_fear_hideForest_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_encourage_fear_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{c7ff6aec-4504-4ec6-95c1-8f6e4634c749}" record_timestamp="1460470594689" record_key="undeadwh_encourage_fear_terror_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_encourage_fear_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5103f060-1a39-4e73-ac6e-1f741b1bd68e}" record_timestamp="1430990752666" record_key="undeadwh_encourage_fear_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_encourage_fear_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ca4dbb87-2127-48d2-8a1f-0deaf7463c51}" record_timestamp="1471865790480" record_key="undeadwh_fear_guerilla_hideForest_undead_stalk">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_guerilla_hideForest_undead_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{9ed42573-0521-4cc6-ab6d-889948634fca}" record_timestamp="1452683967717" record_key="undeadwh_fear_guerrilla_hideForest_terror_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{61d52d61-8e5e-4c2c-bab1-298290d858fc}" record_timestamp="1470149672625" record_key="undeadwh_fear_guerrilla_hideForest_terror_undead_encourge">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_terror_undead_encourge</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{6820d496-c8eb-4179-8b50-c8215a6bc7d9}" record_timestamp="1452683968936" record_key="undeadwh_fear_guerrilla_hideForest_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{ef610079-906e-4263-81d9-102a19cdc725}" record_timestamp="1470149672624" record_key="undeadwh_fear_guerrilla_hideForest_undead_immPsy">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_guerrilla_hideForest_undead_immPsy</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{eb14f257-1e72-406e-8477-db0f81621d5c}" record_timestamp="1430990751010" record_key="undeadwh_fear_guerrilla_terror_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_guerrilla_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{36e1c75e-b7cb-4114-9690-179a0cdb1012}" record_timestamp="1430990752749" record_key="undeadwh_fear_guerrilla_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_guerrilla_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{5e19bd23-11d9-474a-8675-60325294faed}" record_timestamp="1471865779831" record_key="undeadwh_fear_guerrilla_undead_terror">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_guerrilla_undead_terror</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{050962c6-d933-44a5-8729-10f273df6cf2}" record_timestamp="1430990751024" record_key="undeadwh_fear_hideForest_terror_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_hideForest_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{fd8047f4-eff0-44ab-b879-4688a1f6a579}" record_timestamp="1430990753041" record_key="undeadwh_fear_hideForest_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_hideForest_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{a6e97188-5aad-4cd7-b01f-c9a9b57f4c05}" record_timestamp="1471865779812" record_key="undeadwh_fear_hideForest_undead_chargeDeflector">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_hideForest_undead_chargeDeflector</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{0a5988e5-4d3a-40af-9fee-3619e038b3e8}" record_timestamp="1470149672623" record_key="undeadwh_fear_hideForest_undead_stalk">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_hideForest_undead_stalk</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{079a941d-5fe1-4f47-9c34-6a07867190a2}" record_timestamp="1470149672624" record_key="undeadwh_fear_hideForest_undead_unbreakable">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_hideForest_undead_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{904a27fe-b397-44d5-8761-0ccb43bbfb48}" record_timestamp="1430990751081" record_key="undeadwh_fear_terror_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_terror_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{2eaa49e6-8e8e-46ff-bafa-409e0d5e635c}" record_timestamp="1466428925273" record_key="undeadwh_fear_terror_undead_unbreakable">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_terror_undead_unbreakable</attribute_group>
+</unit_attributes_to_groups_junctions>
+<unit_attributes_to_groups_junctions record_uuid="{b8ea2bdb-e38b-4e3c-b26c-a78529eaa0d7}" record_timestamp="1430990750790" record_key="undeadwh_fear_undead">
+<attribute>undead</attribute>
+<attribute_group>wh_fear_undead</attribute_group>
+</unit_attributes_to_groups_junctions>
+</dataroot>

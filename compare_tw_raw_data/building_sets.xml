@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="building_sets.xsd" export_time="Fri Feb 10 12:04:18 2017" revision="80" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>dc00e6e3-db3b-4826-92b5-ed3e61aeab76</edit_uuid>
+<building_sets record_uuid="{8f338281-49dc-4c99-9583-d091d234afd0}" record_timestamp="1464684175194" record_key="wh_dlc03_set_beastmen_economy">
+<colour_b>47</colour_b>
+<colour_g>73</colour_g>
+<colour_r>91</colour_r>
+<icon>UI/Buildings/Icons/beastmen_cat_civic.png</icon>
+<key>wh_dlc03_set_beastmen_economy</key>
+<onscreen_description state="APPROVED" last_approved_text="Supportive structures for your warherd." last_edit_user="bob">Supportive structures for your warherd.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Support" last_edit_user="bob">Support</onscreen_name>
+<sort_order>4</sort_order>
+</building_sets>
+<building_sets record_uuid="{b5427959-1e67-4cfe-8b86-fdb4466f0344}" record_timestamp="1462784272816" record_key="wh_dlc03_set_beastmen_military_recruitment">
+<colour_b>52</colour_b>
+<colour_g>57</colour_g>
+<colour_r>101</colour_r>
+<icon>UI/Buildings/Icons/beastmen_cat_recruitment.png</icon>
+<key>wh_dlc03_set_beastmen_military_recruitment</key>
+<onscreen_description state="APPROVED" last_approved_text="Facilitates the recruitment of basic troops essential to any Beastmen warherd." last_edit_user="bob">Facilitates the recruitment of basic troops essential to any Beastmen warherd.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Basic Military Recruitment" last_edit_user="bob">Basic Military Recruitment</onscreen_name>
+<sort_order>1</sort_order>
+</building_sets>
+<building_sets record_uuid="{016951b4-5a6f-4e8b-8f93-1b7916d51c6b}" record_timestamp="1462784272826" record_key="wh_dlc03_set_beastmen_military_support">
+<colour_b>88</colour_b>
+<colour_g>65</colour_g>
+<colour_r>75</colour_r>
+<icon>UI/Buildings/Icons/beastmen_cat_support.png</icon>
+<key>wh_dlc03_set_beastmen_military_support</key>
+<onscreen_description state="APPROVED" last_approved_text="Recruit advanced units to join your warherd." last_edit_user="bob">Recruit advanced units to join your warherd.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Advanced Military Recruitment" last_edit_user="bob">Advanced Military Recruitment</onscreen_name>
+<sort_order>2</sort_order>
+</building_sets>
+<building_sets record_uuid="{fa7f132f-96af-4c30-9371-9c09dd1dae15}" record_timestamp="1463132543511" record_key="wh_dlc03_set_beastmen_settlement_horde">
+<colour_b>56</colour_b>
+<colour_g>61</colour_g>
+<colour_r>62</colour_r>
+<icon>placeholder</icon>
+<key>wh_dlc03_set_beastmen_settlement_horde</key>
+<onscreen_description state="APPROVED" last_approved_text="A travelling warherd's camp." last_edit_user="bob">A travelling warherd's camp.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Horde Encampment" last_edit_user="bob">Horde Encampment</onscreen_name>
+<sort_order>0</sort_order>
+</building_sets>
+<building_sets record_uuid="{17f80063-2335-4ead-8b54-9558f862e404}" record_timestamp="1481887456468" record_key="wh_dlc03_set_newhorde_beastmen">
+<colour_b>255</colour_b>
+<colour_g>255</colour_g>
+<colour_r>255</colour_r>
+<icon>placeholder</icon>
+<key>wh_dlc03_set_newhorde_beastmen</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="[HIDDEN]" last_edit_user="bob">[HIDDEN]</onscreen_name>
+<sort_order>0</sort_order>
+</building_sets>
+<building_sets record_uuid="{f924688e-628c-4574-b031-33c8821854ce}" record_timestamp="1481887456460" record_key="wh_dlc05_set_woodelves_defence">
+<colour_b>47</colour_b>
+<colour_g>73</colour_g>
+<colour_r>91</colour_r>
+<icon>UI/Buildings/Icons/wood_elves_cat_defence.png</icon>
+<key>wh_dlc05_set_woodelves_defence</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Defence" last_edit_user="bob">Defence</onscreen_name>
+<sort_order>3</sort_order>
+</building_sets>
+<building_sets record_uuid="{ee354e68-12f4-4364-98c4-e30efa3be3d1}" record_timestamp="1481887456461" record_key="wh_dlc05_set_woodelves_economy">
+<colour_b>57</colour_b>
+<colour_g>71</colour_g>
+<colour_r>62</colour_r>
+<icon>UI/Buildings/Icons/wood_elves_cat_civic.png</icon>
+<key>wh_dlc05_set_woodelves_economy</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Infrastructure" last_edit_user="bob">Infrastructure</onscreen_name>
+<sort_order>4</sort_order>
+</building_sets>
+<building_sets record_uuid="{decc61d4-b1e3-4061-819d-2167af0181b8}" record_timestamp="1481887456463" record_key="wh_dlc05_set_woodelves_military_recruitment">
+<colour_b>52</colour_b>
+<colour_g>57</colour_g>
+<colour_r>101</colour_r>
+<icon>UI/Buildings/Icons/wood_elves_cat_recruitment.png</icon>
+<key>wh_dlc05_set_woodelves_military_recruitment</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Military Recruitment" last_edit_user="bob">Military Recruitment</onscreen_name>
+<sort_order>1</sort_order>
+</building_sets>
+<building_sets record_uuid="{063d08db-b718-4fbc-8e6a-07fa402f5aa9}" record_timestamp="1481887456464" record_key="wh_dlc05_set_woodelves_military_support">
+<colour_b>88</colour_b>
+<colour_g>65</colour_g>
+<colour_r>75</colour_r>
+<icon>UI/Buildings/Icons/wood_elves_cat_support.png</icon>
+<key>wh_dlc05_set_woodelves_military_support</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Military Support" last_edit_user="bob">Military Support</onscreen_name>
+<sort_order>2</sort_order>
+</building_sets>
+<building_sets record_uuid="{97b3ed2d-fd97-4851-ac0f-388c3db51609}" record_timestamp="1481887456465" record_key="wh_dlc05_set_woodelves_offices">
+<colour_b>100</colour_b>
+<colour_g>160</colour_g>
+<colour_r>100</colour_r>
+<icon>UI/Buildings/Icons/wood_elves_cat_office.png</icon>
+<key>wh_dlc05_set_woodelves_offices</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Athel Loren" last_edit_user="bob">Athel Loren</onscreen_name>
+<sort_order>6</sort_order>
+</building_sets>
+<building_sets record_uuid="{21f3e642-b02a-45b5-9219-3377bee1e2e8}" record_timestamp="1481887456467" record_key="wh_dlc05_set_woodelves_temples">
+<colour_b>180</colour_b>
+<colour_g>180</colour_g>
+<colour_r>180</colour_r>
+<icon>UI/Buildings/Icons/wood_elves_cat_temple.png</icon>
+<key>wh_dlc05_set_woodelves_temples</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Temples" last_edit_user="bob">Temples</onscreen_name>
+<sort_order>5</sort_order>
+</building_sets>
+<building_sets record_uuid="{b5321f04-f8cb-4e01-b3bb-c068eda3395f}" record_timestamp="1484669462243" record_key="wh_main_set_bretonnia_legendary">
+<colour_b>180</colour_b>
+<colour_g>180</colour_g>
+<colour_r>180</colour_r>
+<icon>UI/Buildings/Icons/bretonnia_cat_legendary.png</icon>
+<key>wh_main_set_bretonnia_legendary</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Legendary" last_edit_user="bob">Legendary</onscreen_name>
+<sort_order>9</sort_order>
+</building_sets>
+<building_sets record_uuid="{58fc3e62-72c4-4a60-b12c-4354cf5a26d2}" record_timestamp="1481887456469" record_key="wh_main_set_chaos_defence">
+<colour_b>47</colour_b>
+<colour_g>73</colour_g>
+<colour_r>91</colour_r>
+<icon>UI/Buildings/Icons/empire_cat_defence.png</icon>
+<key>wh_main_set_chaos_defence</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Defence" last_edit_user="bob">Defence</onscreen_name>
+<sort_order>3</sort_order>
+</building_sets>
+<building_sets record_uuid="{b8eceec0-94b4-46e3-b9fa-a278bf341c0e}" record_timestamp="1481887456471" record_key="wh_main_set_chaos_economy">
+<colour_b>57</colour_b>
+<colour_g>71</colour_g>
+<colour_r>62</colour_r>
+<icon>UI/Buildings/Icons/empire_cat_civic.png</icon>
+<key>wh_main_set_chaos_economy</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Economy" last_edit_user="bob">Economy</onscreen_name>
+<sort_order>4</sort_order>
+</building_sets>
+<building_sets record_uuid="{fc04cecd-fd93-4e39-85ff-0681d01c7caf}" record_timestamp="1462358717762" record_key="wh_main_set_chaos_military_recuitment">
+<colour_b>52</colour_b>
+<colour_g>57</colour_g>
+<colour_r>101</colour_r>
+<icon>UI/Buildings/Icons/chaos_cat_recruitment.png</icon>
+<key>wh_main_set_chaos_military_recuitment</key>
+<onscreen_description state="APPROVED" last_approved_text="Facilitates the recruitment of basic troops essential to any Chaos host." last_edit_user="bob">Facilitates the recruitment of basic troops essential to any Chaos host.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Basic Military Recruitment" last_edit_user="bob">Basic Military Recruitment</onscreen_name>
+<sort_order>1</sort_order>
+</building_sets>
+<building_sets record_uuid="{30fe9e95-5b66-488e-9a71-f84844289930}" record_timestamp="1462358717763" record_key="wh_main_set_chaos_military_support">
+<colour_b>88</colour_b>
+<colour_g>65</colour_g>
+<colour_r>75</colour_r>
+<icon>UI/Buildings/Icons/chaos_cat_support.png</icon>
+<key>wh_main_set_chaos_military_support</key>
+<onscreen_description state="APPROVED" last_approved_text="Recruit advanced units to join your host." last_edit_user="bob">Recruit advanced units to join your host.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Advanced Military Recruitment" last_edit_user="bob">Advanced Military Recruitment</onscreen_name>
+<sort_order>2</sort_order>
+</building_sets>
+<building_sets record_uuid="{654274b7-424b-43f2-96a9-cb808d4fa7f1}" record_timestamp="1481887456472" record_key="wh_main_set_defence">
+<colour_b>47</colour_b>
+<colour_g>73</colour_g>
+<colour_r>91</colour_r>
+<icon>UI/Buildings/Icons/empire_cat_defence.png</icon>
+<key>wh_main_set_defence</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Defence" last_edit_user="bob">Defence</onscreen_name>
+<sort_order>5</sort_order>
+</building_sets>
+<building_sets record_uuid="{478f47d4-758e-4177-b3b1-39834b035e2b}" record_timestamp="1452785477844" record_key="wh_main_set_dwarf_defence">
+<colour_b>47</colour_b>
+<colour_g>73</colour_g>
+<colour_r>91</colour_r>
+<icon>UI/Buildings/Icons/dwarf_cat_defence.png</icon>
+<key>wh_main_set_dwarf_defence</key>
+<onscreen_description state="APPROVED" last_approved_text="A solid gate or stout garrison keeps the invaders out." last_edit_user="bob">A solid gate or stout garrison keeps the invaders out.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Defence" last_edit_user="bob">Defence</onscreen_name>
+<sort_order>4</sort_order>
+</building_sets>
+<building_sets record_uuid="{524d36fc-f55f-4a71-93ef-7cdb2a112b07}" record_timestamp="1452785477845" record_key="wh_main_set_dwarf_economy">
+<colour_b>57</colour_b>
+<colour_g>71</colour_g>
+<colour_r>62</colour_r>
+<icon>UI/Buildings/Icons/dwarf_cat_civic.png</icon>
+<key>wh_main_set_dwarf_economy</key>
+<onscreen_description state="APPROVED" last_approved_text="Industry and infrastructure are the backbone of every successful Dwarfhold." last_edit_user="bob">Industry and infrastructure are the backbone of every successful Dwarfhold.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Infrastructure" last_edit_user="bob">Infrastructure</onscreen_name>
+<sort_order>5</sort_order>
+</building_sets>
+<building_sets record_uuid="{9b338ce3-bdfe-4dc3-8f0f-520dd453b9f4}" record_timestamp="1452785477846" record_key="wh_main_set_dwarf_military_recruitment">
+<colour_b>52</colour_b>
+<colour_g>57</colour_g>
+<colour_r>101</colour_r>
+<icon>UI/Buildings/Icons/dwarf_cat_recruitment.png</icon>
+<key>wh_main_set_dwarf_military_recruitment</key>
+<onscreen_description state="APPROVED" last_approved_text="Recruit Dwarf infantry and forge powerful artillery." last_edit_user="bob">Recruit Dwarf infantry and forge powerful artillery.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Military Recruitment" last_edit_user="bob">Military Recruitment</onscreen_name>
+<sort_order>2</sort_order>
+</building_sets>
+<building_sets record_uuid="{14bc0913-0ac7-4b80-b844-43523e6e36c6}" record_timestamp="1452785477846" record_key="wh_main_set_dwarf_military_support">
+<colour_b>88</colour_b>
+<colour_g>65</colour_g>
+<colour_r>75</colour_r>
+<icon>UI/Buildings/Icons/dwarf_cat_support.png</icon>
+<key>wh_main_set_dwarf_military_support</key>
+<onscreen_description state="APPROVED" last_approved_text="Halls belonging to various organisations that bolster the throngs." last_edit_user="bob">Halls belonging to various organisations that bolster the throngs.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Military Support" last_edit_user="bob">Military Support</onscreen_name>
+<sort_order>3</sort_order>
+</building_sets>
+<building_sets record_uuid="{79b2bab8-8ec5-495a-b878-cc11c099954d}" record_timestamp="1481887456458" record_key="wh_main_set_economy">
+<colour_b>57</colour_b>
+<colour_g>71</colour_g>
+<colour_r>62</colour_r>
+<icon>UI/Buildings/Icons/empire_cat_civic.png</icon>
+<key>wh_main_set_economy</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Economy" last_edit_user="bob">Economy</onscreen_name>
+<sort_order>6</sort_order>
+</building_sets>
+<building_sets record_uuid="{bbed8cef-3ebe-475a-a08f-5af683bf6737}" record_timestamp="1452785477847" record_key="wh_main_set_empire_defence">
+<colour_b>47</colour_b>
+<colour_g>73</colour_g>
+<colour_r>91</colour_r>
+<icon>UI/Buildings/Icons/empire_cat_defence.png</icon>
+<key>wh_main_set_empire_defence</key>
+<onscreen_description state="APPROVED" last_approved_text="Towers and garrisons to defend the city against invaders." last_edit_user="bob">Towers and garrisons to defend the city against invaders.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Defence" last_edit_user="bob">Defence</onscreen_name>
+<sort_order>5</sort_order>
+</building_sets>
+<building_sets record_uuid="{3b36250c-9cf6-43b5-9931-4c7ad74c2683}" record_timestamp="1452785477848" record_key="wh_main_set_empire_economy">
+<colour_b>57</colour_b>
+<colour_g>71</colour_g>
+<colour_r>62</colour_r>
+<icon>UI/Buildings/Icons/empire_cat_civic.png</icon>
+<key>wh_main_set_empire_economy</key>
+<onscreen_description state="APPROVED" last_approved_text="Even in times of war, industry and infrastructure will always be required." last_edit_user="bob">Even in times of war, industry and infrastructure will always be required.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Infrastructure" last_edit_user="bob">Infrastructure</onscreen_name>
+<sort_order>6</sort_order>
+</building_sets>
+<building_sets record_uuid="{ec3c422f-d5c5-4b57-8b81-e6d4395f8e7d}" record_timestamp="1486562947985" record_key="wh_main_set_empire_military_recruitment">
+<colour_b>52</colour_b>
+<colour_g>57</colour_g>
+<colour_r>101</colour_r>
+<icon>UI/Buildings/Icons/empire_cat_recruitment.png</icon>
+<key>wh_main_set_empire_military_recruitment</key>
+<onscreen_description state="APPROVED" last_approved_text="{{tr:building_set_military_recruitment}}" last_edit_user="bob">{{tr:building_set_military_recruitment}}</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Military Recruitment" last_edit_user="bob">Military Recruitment</onscreen_name>
+<sort_order>3</sort_order>
+</building_sets>
+<building_sets record_uuid="{02a5f26a-d346-4d29-9b26-9dbef5b538d7}" record_timestamp="1452785477849" record_key="wh_main_set_empire_military_support">
+<colour_b>88</colour_b>
+<colour_g>65</colour_g>
+<colour_r>75</colour_r>
+<icon>UI/Buildings/Icons/empire_cat_support.png</icon>
+<key>wh_main_set_empire_military_support</key>
+<onscreen_description state="APPROVED" last_approved_text="Improve the quality of your units and recruit mighty [[img:icon_hero]][[/img]]Heroes to bolster your armies." last_edit_user="bob">Improve the quality of your units and recruit mighty [[img:icon_hero]][[/img]]Heroes to bolster your armies.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Military Support" last_edit_user="bob">Military Support</onscreen_name>
+<sort_order>4</sort_order>
+</building_sets>
+<building_sets record_uuid="{d9af2aeb-edc8-4b93-97ce-5c106cc84218}" record_timestamp="1481887456473" record_key="wh_main_set_empire_wizards">
+<colour_b>255</colour_b>
+<colour_g>255</colour_g>
+<colour_r>255</colour_r>
+<icon>placeholder</icon>
+<key>wh_main_set_empire_wizards</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="[HIDDEN]" last_edit_user="bob">[HIDDEN]</onscreen_name>
+<sort_order>0</sort_order>
+</building_sets>
+<building_sets record_uuid="{4e33a1d6-1ea2-42cb-8a25-4ccd7142191b}" record_timestamp="1452785477850" record_key="wh_main_set_greenskin_defence">
+<colour_b>47</colour_b>
+<colour_g>73</colour_g>
+<colour_r>91</colour_r>
+<icon>UI/Buildings/Icons/greenskins_cat_defence.png</icon>
+<key>wh_main_set_greenskin_defence</key>
+<onscreen_description state="APPROVED" last_approved_text="Good for keepin' da enemy gits off our turf!" last_edit_user="bob">Good for keepin' da enemy gits off our turf!</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Defence" last_edit_user="bob">Defence</onscreen_name>
+<sort_order>4</sort_order>
+</building_sets>
+<building_sets record_uuid="{4dea3c5a-f82e-4f1c-bcc0-910d074cf602}" record_timestamp="1452785477850" record_key="wh_main_set_greenskin_economy">
+<colour_b>57</colour_b>
+<colour_g>71</colour_g>
+<colour_r>62</colour_r>
+<icon>UI/Buildings/Icons/greenskins_cat_civic.png</icon>
+<key>wh_main_set_greenskin_economy</key>
+<onscreen_description state="APPROVED" last_approved_text="Da thingz dat generate shiny stuff 'n keep da grubs under control." last_edit_user="bob">Da thingz dat generate shiny stuff 'n keep da grubs under control.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Infrastructure" last_edit_user="bob">Infrastructure</onscreen_name>
+<sort_order>5</sort_order>
+</building_sets>
+<building_sets record_uuid="{57322270-3f22-4171-84f7-d1e2093640be}" record_timestamp="1452785477851" record_key="wh_main_set_greenskin_military_recruitment">
+<colour_b>52</colour_b>
+<colour_g>57</colour_g>
+<colour_r>101</colour_r>
+<icon>UI/Buildings/Icons/greenskins_cat_recruitment.png</icon>
+<key>wh_main_set_greenskin_military_recruitment</key>
+<onscreen_description state="APPROVED" last_approved_text="Get yer Orc and Goblin units 'ere!" last_edit_user="bob">Get yer Orc and Goblin units 'ere!</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Military Recruitment" last_edit_user="bob">Military Recruitment</onscreen_name>
+<sort_order>2</sort_order>
+</building_sets>
+<building_sets record_uuid="{90a9c84a-b54e-46d3-9166-5ac3660500d2}" record_timestamp="1455902842123" record_key="wh_main_set_greenskin_military_support">
+<colour_b>88</colour_b>
+<colour_g>65</colour_g>
+<colour_r>75</colour_r>
+<icon>UI/Buildings/Icons/greenskins_cat_support.png</icon>
+<key>wh_main_set_greenskin_military_support</key>
+<onscreen_description state="APPROVED" last_approved_text="All da borin' stuff dat makes our boyz betta!" last_edit_user="bob">All da borin' stuff dat makes our boyz betta!</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Military Support" last_edit_user="bob">Military Support</onscreen_name>
+<sort_order>3</sort_order>
+</building_sets>
+<building_sets record_uuid="{45583a72-f52f-42a6-8d0d-a77af44783a1}" record_timestamp="1481887456477" record_key="wh_main_set_military_recruitment">
+<colour_b>52</colour_b>
+<colour_g>57</colour_g>
+<colour_r>101</colour_r>
+<icon>UI/Buildings/Icons/empire_cat_recruitment.png</icon>
+<key>wh_main_set_military_recruitment</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Military Recruitment" last_edit_user="bob">Military Recruitment</onscreen_name>
+<sort_order>3</sort_order>
+</building_sets>
+<building_sets record_uuid="{abc5e0d7-2d97-4985-a186-5fa8326c1e01}" record_timestamp="1481887456476" record_key="wh_main_set_military_support">
+<colour_b>88</colour_b>
+<colour_g>65</colour_g>
+<colour_r>75</colour_r>
+<icon>UI/Buildings/Icons/empire_cat_support.png</icon>
+<key>wh_main_set_military_support</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Military Support" last_edit_user="bob">Military Support</onscreen_name>
+<sort_order>4</sort_order>
+</building_sets>
+<building_sets record_uuid="{58389d3a-e6e1-456b-9f14-7fad7f908ccc}" record_timestamp="1481887456475" record_key="wh_main_set_newhorde_chaos">
+<colour_b>255</colour_b>
+<colour_g>255</colour_g>
+<colour_r>255</colour_r>
+<icon>placeholder</icon>
+<key>wh_main_set_newhorde_chaos</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="[HIDDEN]" last_edit_user="bob">[HIDDEN]</onscreen_name>
+<sort_order>0</sort_order>
+</building_sets>
+<building_sets record_uuid="{356d201a-562a-45c0-8740-5916e1644d28}" record_timestamp="1481887456478" record_key="wh_main_set_newhorde_savage_orcs">
+<colour_b>255</colour_b>
+<colour_g>255</colour_g>
+<colour_r>255</colour_r>
+<icon>placeholder</icon>
+<key>wh_main_set_newhorde_savage_orcs</key>
+<onscreen_description state="APPROVED" last_approved_text=" " last_edit_user="bob"> </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="[HIDDEN]" last_edit_user="bob">[HIDDEN]</onscreen_name>
+<sort_order>0</sort_order>
+</building_sets>
+<building_sets record_uuid="{d94a5375-bbe6-494f-8452-e0511a475c0f}" record_timestamp="1459935069700" record_key="wh_main_set_port">
+<colour_b>81</colour_b>
+<colour_g>69</colour_g>
+<colour_r>53</colour_r>
+<icon>placeholder</icon>
+<key>wh_main_set_port</key>
+<onscreen_description state="APPROVED" last_approved_text="Ports can generate income and growth, along with facilitating trade with factions from afar." last_edit_user="bob">Ports can generate income and growth, along with facilitating trade with factions from afar.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Port" last_edit_user="bob">Port</onscreen_name>
+<sort_order>1</sort_order>
+</building_sets>
+<building_sets record_uuid="{032ef341-99d8-4984-bd48-2c781b4ff7e8}" record_timestamp="1461152264028" record_key="wh_main_set_settlement_horde">
+<colour_b>56</colour_b>
+<colour_g>61</colour_g>
+<colour_r>62</colour_r>
+<icon>placeholder</icon>
+<key>wh_main_set_settlement_horde</key>
+<onscreen_description state="APPROVED" last_approved_text="An encampment of a travelling Warhost." last_edit_user="bob">An encampment of a travelling Warhost.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Horde Encampment" last_edit_user="bob">Horde Encampment</onscreen_name>
+<sort_order>0</sort_order>
+</building_sets>
+<building_sets record_uuid="{67c83b85-d65b-4c84-9565-d507dcda3917}" record_timestamp="1448530321591" record_key="wh_main_set_settlement_major">
+<colour_b>56</colour_b>
+<colour_g>61</colour_g>
+<colour_r>62</colour_r>
+<icon>placeholder</icon>
+<key>wh_main_set_settlement_major</key>
+<onscreen_description state="APPROVED" last_approved_text="A city or stronghold with the potential to grow larger than others in the province." last_edit_user="bob">A city or stronghold with the potential to grow larger than others in the province.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Province Capital" last_edit_user="bob">Province Capital</onscreen_name>
+<sort_order>0</sort_order>
+</building_sets>
+<building_sets record_uuid="{63d18e0b-58b4-4449-a079-f9d4aecdf767}" record_timestamp="1448530321601" record_key="wh_main_set_settlement_minor">
+<colour_b>56</colour_b>
+<colour_g>61</colour_g>
+<colour_r>62</colour_r>
+<icon>placeholder</icon>
+<key>wh_main_set_settlement_minor</key>
+<onscreen_description state="APPROVED" last_approved_text="A minor settlement." last_edit_user="bob">A minor settlement.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Settlement" last_edit_user="bob">Settlement</onscreen_name>
+<sort_order>0</sort_order>
+</building_sets>
+<building_sets record_uuid="{a945ded1-f09e-444b-bdbf-ea7d0e0c0aa9}" record_timestamp="1452785477857" record_key="wh_main_set_vampire_defence">
+<colour_b>47</colour_b>
+<colour_g>73</colour_g>
+<colour_r>91</colour_r>
+<icon>UI/Buildings/Icons/vampire_cat_defence.png</icon>
+<key>wh_main_set_vampire_defence</key>
+<onscreen_description state="APPROVED" last_approved_text="The dead will rise to assail anyone foolish enough to invade these lands." last_edit_user="bob">The dead will rise to assail anyone foolish enough to invade these lands.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Defence" last_edit_user="bob">Defence</onscreen_name>
+<sort_order>5</sort_order>
+</building_sets>
+<building_sets record_uuid="{671094c7-6b48-4c6d-9ce1-608ea6ada030}" record_timestamp="1452785477859" record_key="wh_main_set_vampire_economy">
+<colour_b>57</colour_b>
+<colour_g>71</colour_g>
+<colour_r>62</colour_r>
+<icon>UI/Buildings/Icons/vampire_cat_civic.png</icon>
+<key>wh_main_set_vampire_economy</key>
+<onscreen_description state="APPROVED" last_approved_text="Although in a state of decay, some structures can still be exploited economically." last_edit_user="bob">Although in a state of decay, some structures can still be exploited economically.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Infrastructure" last_edit_user="bob">Infrastructure</onscreen_name>
+<sort_order>6</sort_order>
+</building_sets>
+<building_sets record_uuid="{8dbd7359-6a50-4666-880f-f736ec1a7e12}" record_timestamp="1455902842106" record_key="wh_main_set_vampire_military_recruitment">
+<colour_b>52</colour_b>
+<colour_g>57</colour_g>
+<colour_r>101</colour_r>
+<icon>UI/Buildings/Icons/vampire_cat_recruitment.png</icon>
+<key>wh_main_set_vampire_military_recruitment</key>
+<onscreen_description state="APPROVED" last_approved_text="Accursed places where Undead minions can be pressed into service." last_edit_user="bob">Accursed places where Undead minions can be pressed into service.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Military Recruitment" last_edit_user="bob">Military Recruitment</onscreen_name>
+<sort_order>3</sort_order>
+</building_sets>
+<building_sets record_uuid="{4e0817a5-0338-405c-88fb-fb147100ea45}" record_timestamp="1452785477861" record_key="wh_main_set_vampire_military_support">
+<colour_b>88</colour_b>
+<colour_g>65</colour_g>
+<colour_r>75</colour_r>
+<icon>UI/Buildings/Icons/vampire_cat_support.png</icon>
+<key>wh_main_set_vampire_military_support</key>
+<onscreen_description state="APPROVED" last_approved_text="Supportive structures maintained by mortal underlings and vampires." last_edit_user="bob">Supportive structures maintained by mortal underlings and vampires.</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="Military Support" last_edit_user="bob">Military Support</onscreen_name>
+<sort_order>4</sort_order>
+</building_sets>
+</dataroot>

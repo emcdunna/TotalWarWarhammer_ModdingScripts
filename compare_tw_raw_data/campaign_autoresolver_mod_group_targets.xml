@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_autoresolver_mod_group_targets.xsd" export_time="Wed Nov 16 18:24:18 2016" revision="11" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e3b02ccf-6a60-4de2-a1fb-3e1c92b9ebbe</edit_uuid>
+<campaign_autoresolver_mod_group_targets record_uuid="{06911ba8-715d-4e7b-9efd-2cdf3d755ec5}" record_timestamp="1375899228492" record_key="ai_vs_human">
+<alliance_target></alliance_target>
+<id>ai_vs_human</id>
+<mechanic_target></mechanic_target>
+<player_target>ai_vs_human</player_target>
+</campaign_autoresolver_mod_group_targets>
+<campaign_autoresolver_mod_group_targets record_uuid="{f88b0454-cae0-4c92-9c8e-ccafc56e7051}" record_timestamp="1374752121817" record_key="attacker_target">
+<alliance_target>attacker</alliance_target>
+<id>attacker_target</id>
+<mechanic_target></mechanic_target>
+<player_target></player_target>
+</campaign_autoresolver_mod_group_targets>
+<campaign_autoresolver_mod_group_targets record_uuid="{4e3292b7-de24-429a-bfca-9f4ffdfa126a}" record_timestamp="1374752121914" record_key="defender_target">
+<alliance_target>defender</alliance_target>
+<id>defender_target</id>
+<mechanic_target></mechanic_target>
+<player_target></player_target>
+</campaign_autoresolver_mod_group_targets>
+<campaign_autoresolver_mod_group_targets record_uuid="{722a2619-1e7a-478c-97ac-4acb6ca31ec3}" record_timestamp="1479320658046" record_key="defending_human_vs_ai">
+<alliance_target>defender</alliance_target>
+<id>defending_human_vs_ai</id>
+<mechanic_target></mechanic_target>
+<player_target>human_vs_ai</player_target>
+</campaign_autoresolver_mod_group_targets>
+<campaign_autoresolver_mod_group_targets record_uuid="{af0d536e-bd78-41fe-a61d-c46ee7ea84b9}" record_timestamp="1374752121767" record_key="general_lvl_buff">
+<alliance_target></alliance_target>
+<id>general_lvl_buff</id>
+<mechanic_target>per_general_level</mechanic_target>
+<player_target></player_target>
+</campaign_autoresolver_mod_group_targets>
+<campaign_autoresolver_mod_group_targets record_uuid="{229987d1-c37e-46fe-b491-37f7bbd19583}" record_timestamp="1375899228473" record_key="human_vs_ai">
+<alliance_target></alliance_target>
+<id>human_vs_ai</id>
+<mechanic_target></mechanic_target>
+<player_target>human_vs_ai</player_target>
+</campaign_autoresolver_mod_group_targets>
+<campaign_autoresolver_mod_group_targets record_uuid="{0d93af2a-1a5e-4f22-bac5-9cd07a156610}" record_timestamp="1374752121866" record_key="none">
+<alliance_target></alliance_target>
+<id>none</id>
+<mechanic_target></mechanic_target>
+<player_target></player_target>
+</campaign_autoresolver_mod_group_targets>
+<campaign_autoresolver_mod_group_targets record_uuid="{1c2ecb6f-5c27-448b-bef9-94ddf6873eef}" record_timestamp="1408631789932" record_key="siege_eq_buff">
+<alliance_target></alliance_target>
+<id>siege_eq_buff</id>
+<mechanic_target>siege_equipment_strength</mechanic_target>
+<player_target></player_target>
+</campaign_autoresolver_mod_group_targets>
+<campaign_autoresolver_mod_group_targets record_uuid="{05e6a123-b93e-4319-9595-a69073e824a0}" record_timestamp="1479320658094" record_key="siege_eq_buff_ai_vs_human">
+<alliance_target></alliance_target>
+<id>siege_eq_buff_ai_vs_human</id>
+<mechanic_target>siege_equipment_strength</mechanic_target>
+<player_target>ai_vs_human</player_target>
+</campaign_autoresolver_mod_group_targets>
+<campaign_autoresolver_mod_group_targets record_uuid="{cae2fc0e-61a0-473f-898a-bbb20428e4e8}" record_timestamp="1434549750002" record_key="spells_buff_medium">
+<alliance_target></alliance_target>
+<id>spells_buff_medium</id>
+<mechanic_target>spell_target_buff_medium</mechanic_target>
+<player_target></player_target>
+</campaign_autoresolver_mod_group_targets>
+<campaign_autoresolver_mod_group_targets record_uuid="{a7fe9ddc-868f-4318-8d73-2f474a140c6e}" record_timestamp="1434549750012" record_key="spells_buff_strong">
+<alliance_target></alliance_target>
+<id>spells_buff_strong</id>
+<mechanic_target>spell_target_buff_strong</mechanic_target>
+<player_target></player_target>
+</campaign_autoresolver_mod_group_targets>
+<campaign_autoresolver_mod_group_targets record_uuid="{ac695f30-91be-45d9-bbdf-cb0860636bfc}" record_timestamp="1434549750012" record_key="spells_buff_weak">
+<alliance_target></alliance_target>
+<id>spells_buff_weak</id>
+<mechanic_target>spell_target_buff_weak</mechanic_target>
+<player_target></player_target>
+</campaign_autoresolver_mod_group_targets>
+<campaign_autoresolver_mod_group_targets record_uuid="{40a637f8-38e5-42e6-a9c9-83db386cbe03}" record_timestamp="1434549749992" record_key="spells_debuff_medium">
+<alliance_target></alliance_target>
+<id>spells_debuff_medium</id>
+<mechanic_target>spell_target_debuff_medium</mechanic_target>
+<player_target></player_target>
+</campaign_autoresolver_mod_group_targets>
+<campaign_autoresolver_mod_group_targets record_uuid="{c0f8bb27-ef6a-464d-80fe-067e0fb41e3e}" record_timestamp="1434549749982" record_key="spells_debuff_strong">
+<alliance_target></alliance_target>
+<id>spells_debuff_strong</id>
+<mechanic_target>spell_target_debuff_strong</mechanic_target>
+<player_target></player_target>
+</campaign_autoresolver_mod_group_targets>
+<campaign_autoresolver_mod_group_targets record_uuid="{6f425042-8534-4122-b914-3c1bb7b2ec39}" record_timestamp="1434549749982" record_key="spells_debuff_weak">
+<alliance_target></alliance_target>
+<id>spells_debuff_weak</id>
+<mechanic_target>spell_target_debuff_weak</mechanic_target>
+<player_target></player_target>
+</campaign_autoresolver_mod_group_targets>
+</dataroot>

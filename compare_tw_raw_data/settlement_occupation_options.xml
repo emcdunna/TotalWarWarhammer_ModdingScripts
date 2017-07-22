@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="settlement_occupation_options.xsd" export_time="Thu May 26 14:18:09 2016" revision="26" export_branch="E:/TotalWar/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>59bc389a-b263-47a3-8c69-b70812ee6b49</edit_uuid>
+<settlement_occupation_options record_uuid="{253276ad-a636-4cff-8353-8a82951d7d04}" record_timestamp="1444029384982" record_key="occupation_decision_colonise">
+<key>occupation_decision_colonise</key>
+<sort_order>7</sort_order>
+</settlement_occupation_options>
+<settlement_occupation_options record_uuid="{b325eaa3-30ae-46e4-b91e-fa4a7ee672ab}" record_timestamp="1453800052544" record_key="occupation_decision_do_nothing">
+<key>occupation_decision_do_nothing</key>
+<sort_order>8</sort_order>
+</settlement_occupation_options>
+<settlement_occupation_options record_uuid="{86fad7bd-3f37-483c-85f5-dd45b4ece7d2}" record_timestamp="1444217039829" record_key="occupation_decision_gift_to_another_faction">
+<key>occupation_decision_gift_to_another_faction</key>
+<sort_order>8</sort_order>
+</settlement_occupation_options>
+<settlement_occupation_options record_uuid="{a2ff841c-3e31-4952-961d-634accb3e441}" record_timestamp="1449222907938" record_key="occupation_decision_liberate">
+<key>occupation_decision_liberate</key>
+<sort_order>9</sort_order>
+</settlement_occupation_options>
+<settlement_occupation_options record_uuid="{74e454b6-50f6-430a-b29e-edb7d3080f1e}" record_timestamp="1449053979472" record_key="occupation_decision_loot">
+<key>occupation_decision_loot</key>
+<sort_order>1</sort_order>
+</settlement_occupation_options>
+<settlement_occupation_options record_uuid="{35c7a4b3-0e4f-40b5-b241-60a83374bed9}" record_timestamp="1461152142115" record_key="occupation_decision_occupy">
+<key>occupation_decision_occupy</key>
+<sort_order>0</sort_order>
+</settlement_occupation_options>
+<settlement_occupation_options record_uuid="{a8e5a9c7-a0e9-405d-a4ae-f8200e6e2282}" record_timestamp="1446456079348" record_key="occupation_decision_raze">
+<key>occupation_decision_raze</key>
+<sort_order>9</sort_order>
+</settlement_occupation_options>
+<settlement_occupation_options record_uuid="{beaca8a7-ffd5-4f9e-8ac4-d7403095ed7c}" record_timestamp="1444029384787" record_key="occupation_decision_raze_without_occupy">
+<key>occupation_decision_raze_without_occupy</key>
+<sort_order>4</sort_order>
+</settlement_occupation_options>
+<settlement_occupation_options record_uuid="{d1c5ed18-4e5c-42f3-b980-2930e8b4e60d}" record_timestamp="1452522494649" record_key="occupation_decision_resettle">
+<key>occupation_decision_resettle</key>
+<sort_order>9</sort_order>
+</settlement_occupation_options>
+<settlement_occupation_options record_uuid="{5961dc6a-56b8-48fc-bb07-641ec54da5aa}" record_timestamp="1449053979550" record_key="occupation_decision_sack">
+<key>occupation_decision_sack</key>
+<sort_order>2</sort_order>
+</settlement_occupation_options>
+<settlement_occupation_options record_uuid="{d0d1a558-b7b0-410d-8721-a3d962bcf113}" record_timestamp="1447245638996" record_key="occupation_decision_vassal">
+<key>occupation_decision_vassal</key>
+<sort_order>3</sort_order>
+</settlement_occupation_options>
+</dataroot>

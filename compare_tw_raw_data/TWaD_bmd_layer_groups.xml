@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_bmd_layer_groups>
+<root>
+<edit_uuid>cc3423a0-778a-4c26-9b5b-7697dea6caa0</edit_uuid>
+<field>
+<field_uuid>{a3c9052c-80b7-4904-ba22-11f61756bb54}</field_uuid>
+<primary_key>1</primary_key>
+<name>key</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<field_description>The name of the layer group. Used for loading default layers.</field_description>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+</field>
+</root>

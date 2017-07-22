@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="special_ability_to_auto_deactivate_flags.xsd" export_time="Thu Jan 26 16:33:54 2017" revision="59" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>416687f9-817f-4ad1-9603-22d9c6b7a60b</edit_uuid>
+<special_ability_to_auto_deactivate_flags record_uuid="{e4ccda51-49e4-4165-8df4-c9cb78764ce8}" record_timestamp="1455180663624" record_key="wh_dlc01_weapon_passive_auric_armourmorale_is_broken_or_lower">
+<deactivate_flag>morale_is_broken_or_lower</deactivate_flag>
+<special_ability>wh_dlc01_weapon_passive_auric_armour</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{61f476f4-96d2-407d-87ef-f8f2154a7b8d}" record_timestamp="1467712560020" record_key="wh_dlc02_unit_passive_the_flag_of_blood_keepengaged_in_melee">
+<deactivate_flag>engaged_in_melee</deactivate_flag>
+<special_ability>wh_dlc02_unit_passive_the_flag_of_blood_keep</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{cd5d06bf-1ec1-43fd-a378-a73d45ae6379}" record_timestamp="1477035609529" record_key="wh_dlc03_item_abilities_horn_of_the_first_beastmorale_is_lower_than_half_of_base_morale">
+<deactivate_flag>morale_is_lower_than_half_of_base_morale</deactivate_flag>
+<special_ability>wh_dlc03_item_abilities_horn_of_the_first_beast</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{dc281c55-0055-4828-8059-09fe7ed9cf4d}" record_timestamp="1460538321087" record_key="wh_dlc03_item_abilities_jagged_daggerout_of_melee">
+<deactivate_flag>out_of_melee</deactivate_flag>
+<special_ability>wh_dlc03_item_abilities_jagged_dagger</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{c9b97188-7e18-4681-a6bd-4b0ea34ac13b}" record_timestamp="1471865786196" record_key="wh_dlc03_item_passive_banner_of_the_fallen_kingshealth_above_20%">
+<deactivate_flag>health_above_20%</deactivate_flag>
+<special_ability>wh_dlc03_item_passive_banner_of_the_fallen_kings</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{ffc190f6-a5ea-4a22-8809-2aee44e21489}" record_timestamp="1460112580286" record_key="wh_dlc03_lore_passive_bestial_surgeother_abilities_none_on_wind_up">
+<deactivate_flag>other_abilities_none_on_wind_up</deactivate_flag>
+<special_ability>wh_dlc03_lore_passive_bestial_surge</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{77aab85a-015c-4a59-bde7-a38697e44240}" record_timestamp="1485448425385" record_key="wh_dlc03_quest_passive_poisoninghealth_above_20%">
+<deactivate_flag>health_above_20%</deactivate_flag>
+<special_ability>wh_dlc03_quest_passive_poisoning</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{d0ae9d3e-661c-41cd-b0ee-5f1087e33aff}" record_timestamp="1460538314180" record_key="wh_dlc03_unit_abilities_slaughterers_callout_of_melee">
+<deactivate_flag>out_of_melee</deactivate_flag>
+<special_ability>wh_dlc03_unit_abilities_slaughterers_call</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{dca8897f-32a2-4d3e-ad8c-f7da8b99f17f}" record_timestamp="1469108799535" record_key="wh_dlc03_unit_passive_bloodgreedcannot_find_enemies_in_intercept_range">
+<deactivate_flag>cannot_find_enemies_in_intercept_range</deactivate_flag>
+<special_ability>wh_dlc03_unit_passive_bloodgreed</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{e2a09e14-8ad3-4bfb-99a8-8c139aa6868a}" record_timestamp="1469638643593" record_key="wh_dlc03_unit_passive_bloodgreedmorale_is_broken_or_lower">
+<deactivate_flag>morale_is_broken_or_lower</deactivate_flag>
+<special_ability>wh_dlc03_unit_passive_bloodgreed</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{af2501c8-bcbf-405f-bf70-9e0d3b36301a}" record_timestamp="1458055688693" record_key="wh_dlc03_unit_passive_drunkenmorale_is_wavering_or_lower">
+<deactivate_flag>morale_is_wavering_or_lower</deactivate_flag>
+<special_ability>wh_dlc03_unit_passive_drunken</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{0dcf83b2-ff02-40e2-8efa-0639fa67f180}" record_timestamp="1477035609515" record_key="wh_dlc03_unit_passive_primal_furymorale_is_lower_than_half_of_base_morale">
+<deactivate_flag>morale_is_lower_than_half_of_base_morale</deactivate_flag>
+<special_ability>wh_dlc03_unit_passive_primal_fury</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{e85a175e-bb3a-4049-b5b9-715e1cad9fb7}" record_timestamp="1455123062579" record_key="wh_dlc03_weapon_passive_the_brass_cleaverout_of_melee">
+<deactivate_flag>out_of_melee</deactivate_flag>
+<special_ability>wh_dlc03_weapon_passive_the_brass_cleaver</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{d78ae31b-6c8a-4728-b15b-003d0c280191}" record_timestamp="1471865792925" record_key="wh_dlc04_unit_passive_strength_of_the_penitentout_of_melee">
+<deactivate_flag>out_of_melee</deactivate_flag>
+<special_ability>wh_dlc04_unit_passive_strength_of_the_penitent</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{d6401237-68a1-4261-850d-d54a7d261705}" record_timestamp="1481028463643" record_key="wh_dlc05_hero_passive_blessing_of_the_ancientsunit_is_not_in_forest">
+<deactivate_flag>unit_is_not_in_forest</deactivate_flag>
+<special_ability>wh_dlc05_hero_passive_blessing_of_the_ancients</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{e13e9211-0025-4803-935c-a7ecf9de5909}" record_timestamp="1481029487677" record_key="wh_dlc05_hero_passive_hawkish_finessecannot_find_enemies_in_intercept_range">
+<deactivate_flag>cannot_find_enemies_in_intercept_range</deactivate_flag>
+<special_ability>wh_dlc05_hero_passive_hawkish_finesse</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{5637a9c1-fec6-435b-8b59-4a0a48fee9d2}" record_timestamp="1481029487711" record_key="wh_dlc05_hero_passive_hawkish_precisionenemies_in_intercept_range">
+<deactivate_flag>enemies_in_intercept_range</deactivate_flag>
+<special_ability>wh_dlc05_hero_passive_hawkish_precision</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{d560f59a-9bc2-4ce4-8aaf-fc253ededf22}" record_timestamp="1481028463631" record_key="wh_dlc05_item_passive_cloak_of_ishahealth_above_20%">
+<deactivate_flag>health_above_20%</deactivate_flag>
+<special_ability>wh_dlc05_item_passive_cloak_of_isha</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{94512305-5396-4bed-a56f-13f77eed177b}" record_timestamp="1481037475946" record_key="wh_dlc05_unit_passive_guardians_of_the_wildwoodunit_is_not_in_forest">
+<deactivate_flag>unit_is_not_in_forest</deactivate_flag>
+<special_ability>wh_dlc05_unit_passive_guardians_of_the_wildwood</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{17263345-b262-4cee-a6b3-32e0e1a9ddf4}" record_timestamp="1477038877551" record_key="wh_dlc06_lord_passive_warpaint_of_wurrzagengaged_in_melee">
+<deactivate_flag>engaged_in_melee</deactivate_flag>
+<special_ability>wh_dlc06_lord_passive_warpaint_of_wurrzag</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{78d80d4f-b463-4cda-867b-9fb2bcbab014}" record_timestamp="1485448425648" record_key="wh_dlc06_quest_passive_squigs_go_boomout_of_melee">
+<deactivate_flag>out_of_melee</deactivate_flag>
+<special_ability>wh_dlc06_quest_passive_squigs_go_boom</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{51c41e07-d31f-455e-8871-f1f58417d647}" record_timestamp="1479323158912" record_key="wh_dlc06_unit_passive_liquid_fortificationmorale_is_wavering_or_lower">
+<deactivate_flag>morale_is_wavering_or_lower</deactivate_flag>
+<special_ability>wh_dlc06_unit_passive_liquid_fortification</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{cb87f47d-b52b-49d3-a2ab-80d5f6570638}" record_timestamp="1474281971190" record_key="wh_dlc06_unit_passive_opportunist_murdererout_of_melee">
+<deactivate_flag>out_of_melee</deactivate_flag>
+<special_ability>wh_dlc06_unit_passive_opportunist_murderer</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{1fd3280b-2c4d-4efd-b70b-d01cd5cf8c8e}" record_timestamp="1477035608951" record_key="wh_dlc06_unit_passive_power_of_the_dragon_backout_of_melee">
+<deactivate_flag>out_of_melee</deactivate_flag>
+<special_ability>wh_dlc06_unit_passive_power_of_the_dragon_back</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{6c03181c-87e8-488e-8df4-c4d2d7187c0d}" record_timestamp="1474282528935" record_key="wh_dlc06_unit_passive_squigs_go_wildout_of_melee">
+<deactivate_flag>out_of_melee</deactivate_flag>
+<special_ability>wh_dlc06_unit_passive_squigs_go_wild</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{1ba1e727-d343-41f2-a488-5a808a98365b}" record_timestamp="1477038874651" record_key="wh_dlc06_weapon_passive_hammer_of_angrundmorale_is_lower_than_half_of_base_morale">
+<deactivate_flag>morale_is_lower_than_half_of_base_morale</deactivate_flag>
+<special_ability>wh_dlc06_weapon_passive_hammer_of_angrund</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{38dd961f-0bb5-418e-8bb3-75f16e5fb794}" record_timestamp="1481733139002" record_key="wh_dlc07_hero_passive_sacred_guardianunit_is_not_in_forest">
+<deactivate_flag>unit_is_not_in_forest</deactivate_flag>
+<special_ability>wh_dlc07_hero_passive_sacred_guardian</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{052f249f-5b5f-46da-b0ab-d3e646a38f28}" record_timestamp="1477035609515" record_key="wh_main_banner_passive_banner_of_ragemorale_is_lower_than_half_of_base_morale">
+<deactivate_flag>morale_is_lower_than_half_of_base_morale</deactivate_flag>
+<special_ability>wh_main_banner_passive_banner_of_rage</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{e77b6330-0a21-4d42-9ad0-4eea8bacef2c}" record_timestamp="1467712559995" record_key="wh_main_character_passive_master_of_the_deadengaged_in_melee">
+<deactivate_flag>engaged_in_melee</deactivate_flag>
+<special_ability>wh_main_character_passive_master_of_the_dead</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{0cdb3c78-649c-415d-a833-bd92fdef38e1}" record_timestamp="1455180663611" record_key="wh_main_character_passive_master_of_the_deadmorale_is_broken_or_lower">
+<deactivate_flag>morale_is_broken_or_lower</deactivate_flag>
+<special_ability>wh_main_character_passive_master_of_the_dead</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{d2e1601e-a2e4-48c1-95e3-24b9c3de35b4}" record_timestamp="1455180663589" record_key="wh_main_item_passive_seed_of_rebirthmorale_is_broken_or_lower">
+<deactivate_flag>morale_is_broken_or_lower</deactivate_flag>
+<special_ability>wh_main_item_passive_seed_of_rebirth</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{e6c606cc-76e7-4ffb-9778-770b73295804}" record_timestamp="1433833910743" record_key="wh_main_item_passive_seed_of_rebirthout_of_melee">
+<deactivate_flag>out_of_melee</deactivate_flag>
+<special_ability>wh_main_item_passive_seed_of_rebirth</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{c4eda266-ccca-4e2e-95b0-bead51e7dd76}" record_timestamp="1479321673915" record_key="wh_main_lord_passive_beloved_son_of_bretonniamorale_is_higher_than_half_of_base_morale">
+<deactivate_flag>morale_is_higher_than_half_of_base_morale</deactivate_flag>
+<special_ability>wh_main_lord_passive_beloved_son_of_bretonnia</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{fabcb6b9-0427-4972-a414-000a258868af}" record_timestamp="1453798356598" record_key="wh_main_lord_passive_deathblowhealth_above_20%">
+<deactivate_flag>health_above_20%</deactivate_flag>
+<special_ability>wh_main_lord_passive_deathblow</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{7fce4e51-12e5-420a-ab4c-40ef7dccecf4}" record_timestamp="1479321673917" record_key="wh_main_lord_passive_high_kingmorale_is_higher_than_half_of_base_morale">
+<deactivate_flag>morale_is_higher_than_half_of_base_morale</deactivate_flag>
+<special_ability>wh_main_lord_passive_high_king</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{48bd1414-6696-4086-b4a9-6c81d0673422}" record_timestamp="1483635525359" record_key="wh_main_lord_passive_the_blessing_of_the_ladymorale_is_broken_or_lower">
+<deactivate_flag>morale_is_broken_or_lower</deactivate_flag>
+<special_ability>wh_main_lord_passive_the_blessing_of_the_lady</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{4261ffb2-dead-4e12-9de9-68323045e980}" record_timestamp="1455180663567" record_key="wh_main_lord_passive_the_hungermorale_is_broken_or_lower">
+<deactivate_flag>morale_is_broken_or_lower</deactivate_flag>
+<special_ability>wh_main_lord_passive_the_hunger</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{2699de47-c686-41b3-80d8-505c69cb219e}" record_timestamp="1455180663764" record_key="wh_main_lord_passive_the_hungerout_of_melee">
+<deactivate_flag>out_of_melee</deactivate_flag>
+<special_ability>wh_main_lord_passive_the_hunger</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{df0f3d40-7103-4eb8-911c-de3e1201c7e4}" record_timestamp="1455180663649" record_key="wh_main_lord_passive_the_ladys_championmorale_is_broken_or_lower">
+<deactivate_flag>morale_is_broken_or_lower</deactivate_flag>
+<special_ability>wh_main_lord_passive_the_ladys_champion</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{09f55a68-753a-43b7-b477-d997094a0284}" record_timestamp="1443186254437" record_key="wh_main_lore_passive_life_leechingother_abilities_none_on_wind_up">
+<deactivate_flag>other_abilities_none_on_wind_up</deactivate_flag>
+<special_ability>wh_main_lore_passive_life_leeching</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{4de2fc1f-4592-410e-839e-05b15619e077}" record_timestamp="1443186252389" record_key="wh_main_lore_passive_power_of_da_waaaghmorale_is_wavering_or_lower">
+<deactivate_flag>morale_is_wavering_or_lower</deactivate_flag>
+<special_ability>wh_main_lore_passive_power_of_da_waaagh</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{493fdb8c-94b1-4419-a428-15f11ed01af3}" record_timestamp="1455180663578" record_key="wh_main_lore_passive_the_curse_of_undeathmorale_is_broken_or_lower">
+<deactivate_flag>morale_is_broken_or_lower</deactivate_flag>
+<special_ability>wh_main_lore_passive_the_curse_of_undeath</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{b67af8b2-36e9-47a7-b2f4-5a17d5e09e92}" record_timestamp="1443186253030" record_key="wh_main_lore_passive_the_curse_of_undeathother_abilities_none_on_wind_up">
+<deactivate_flag>other_abilities_none_on_wind_up</deactivate_flag>
+<special_ability>wh_main_lore_passive_the_curse_of_undeath</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{a948e18c-d711-4175-9419-d9104a124234}" record_timestamp="1477035609518" record_key="wh_main_mark_passive_mark_of_khornemorale_is_lower_than_half_of_base_morale">
+<deactivate_flag>morale_is_lower_than_half_of_base_morale</deactivate_flag>
+<special_ability>wh_main_mark_passive_mark_of_khorne</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{cc257aed-e1d6-4d92-bca7-61fbb1fb7dbe}" record_timestamp="1474293462304" record_key="wh_main_unit_passive_deathblowhealth_above_20%">
+<deactivate_flag>health_above_20%</deactivate_flag>
+<special_ability>wh_main_unit_passive_deathblow</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{52772e18-4a47-4dae-93c5-744a2832ee7c}" record_timestamp="1477035609517" record_key="wh_main_unit_passive_frenzymorale_is_lower_than_half_of_base_morale">
+<deactivate_flag>morale_is_lower_than_half_of_base_morale</deactivate_flag>
+<special_ability>wh_main_unit_passive_frenzy</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{b87a0ef2-570e-4865-8ccd-0d01b7c1c75f}" record_timestamp="1481033248218" record_key="wh_main_unit_passive_unbinding_criticalhealth_above_20%">
+<deactivate_flag>health_above_20%</deactivate_flag>
+<special_ability>wh_main_unit_passive_unbinding_critical</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{04e14e57-9ac9-4369-bdfe-6de689e4b065}" record_timestamp="1470394611811" record_key="wh_main_unit_passive_unstable_mark_iimorale_is_higher_than_shattered">
+<deactivate_flag>morale_is_higher_than_shattered</deactivate_flag>
+<special_ability>wh_main_unit_passive_unstable_mark_ii</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{c42f8b6d-a6f3-4bb2-936d-94fd1a1f2170}" record_timestamp="1470394611811" record_key="wh_main_unit_passive_unstable_mark_iiphase_is_the_end_phase">
+<deactivate_flag>phase_is_the_end_phase</deactivate_flag>
+<special_ability>wh_main_unit_passive_unstable_mark_ii</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{8d08810f-cdcc-427d-8162-2d5085ec1822}" record_timestamp="1452774455440" record_key="wh_main_unit_passive_unstablemorale_is_higher_than_broken">
+<deactivate_flag>morale_is_higher_than_broken</deactivate_flag>
+<special_ability>wh_main_unit_passive_unstable</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{d127b980-abc2-49a8-a0d6-5d57e4424c83}" record_timestamp="1456496383433" record_key="wh_main_unit_passive_unstablephase_is_the_end_phase">
+<deactivate_flag>phase_is_the_end_phase</deactivate_flag>
+<special_ability>wh_main_unit_passive_unstable</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{e30fbd6c-b124-4832-8821-5e5229e1962a}" record_timestamp="1455180663637" record_key="wh_main_weapon_passive_chaos_tomb_blademorale_is_broken_or_lower">
+<deactivate_flag>morale_is_broken_or_lower</deactivate_flag>
+<special_ability>wh_main_weapon_passive_chaos_tomb_blade</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{916b0abb-b296-4236-b0ed-5341d88a4be9}" record_timestamp="1441639982175" record_key="wh_main_weapon_passive_chaos_tomb_bladeout_of_melee">
+<deactivate_flag>out_of_melee</deactivate_flag>
+<special_ability>wh_main_weapon_passive_chaos_tomb_blade</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{bdef1197-fa7a-4f48-8849-5dc06b33e5f6}" record_timestamp="1434959225323" record_key="wh_main_weapon_passive_sword_of_unholy_powerout_of_melee">
+<deactivate_flag>out_of_melee</deactivate_flag>
+<special_ability>wh_main_weapon_passive_sword_of_unholy_power</special_ability>
+</special_ability_to_auto_deactivate_flags>
+<special_ability_to_auto_deactivate_flags record_uuid="{ed562821-1384-48cf-acd4-ae5e25c58fc6}" record_timestamp="1477038874609" record_key="wh_pro01_item_passive_rune_helm_of_zhufbarhealth_above_50%">
+<deactivate_flag>health_above_50%</deactivate_flag>
+<special_ability>wh_pro01_item_passive_rune_helm_of_zhufbar</special_ability>
+</special_ability_to_auto_deactivate_flags>
+</dataroot>

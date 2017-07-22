@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_autoresolver_modifiers.xsd" export_time="Tue Sep 8 16:59:40 2015" revision="7" export_branch="D:/TW/warhammer/binaries" export_user="bob">
+<edit_uuid>08b44179-3d19-46ef-8efd-b233259f5fb9</edit_uuid>
+<campaign_autoresolver_modifiers record_uuid="{d6e10e05-c474-4672-a227-6bc07edc8c3b}" record_timestamp="1374752121406" record_key="cav_mis_missile_kps_multi">
+<class>cav_mis</class>
+<id>cav_mis_missile_kps_multi</id>
+<stat_variable_id>unit_missile_kps_multiplier</stat_variable_id>
+<vs_class></vs_class>
+</campaign_autoresolver_modifiers>
+<campaign_autoresolver_modifiers record_uuid="{cbc6f63a-5cfa-46b1-88e1-2078fd139e4d}" record_timestamp="1374752121458" record_key="inf_mis_missile_kps_multi">
+<class>inf_mis</class>
+<id>inf_mis_missile_kps_multi</id>
+<stat_variable_id>unit_missile_kps_multiplier</stat_variable_id>
+<vs_class></vs_class>
+</campaign_autoresolver_modifiers>
+<campaign_autoresolver_modifiers record_uuid="{b6fcf74c-f158-4ee5-842b-c5c0d4463ad1}" record_timestamp="1375809460232" record_key="melee_kps_additive_all_classes">
+<class></class>
+<id>melee_kps_additive_all_classes</id>
+<stat_variable_id>unit_melee_kps_addition</stat_variable_id>
+<vs_class></vs_class>
+</campaign_autoresolver_modifiers>
+<campaign_autoresolver_modifiers record_uuid="{a322ad48-b34e-47f5-b99d-28c3c773f558}" record_timestamp="1375809460087" record_key="melee_kps_additive_cav_mel">
+<class>cav_mel</class>
+<id>melee_kps_additive_cav_mel</id>
+<stat_variable_id>unit_melee_kps_addition</stat_variable_id>
+<vs_class></vs_class>
+</campaign_autoresolver_modifiers>
+<campaign_autoresolver_modifiers record_uuid="{29e6b335-cebe-4426-8f5e-ad15de9a1506}" record_timestamp="1375809460107" record_key="melee_kps_additive_cav_shk">
+<class>cav_shk</class>
+<id>melee_kps_additive_cav_shk</id>
+<stat_variable_id>unit_melee_kps_addition</stat_variable_id>
+<vs_class></vs_class>
+</campaign_autoresolver_modifiers>
+<campaign_autoresolver_modifiers record_uuid="{443003a7-be51-41c7-8979-2e6f6fab63e7}" record_timestamp="1375809460127" record_key="melee_kps_additive_pike_v_cav_mel">
+<class>inf_pik</class>
+<id>melee_kps_additive_pike_v_cav_mel</id>
+<stat_variable_id>unit_melee_kps_addition</stat_variable_id>
+<vs_class>cav_mel</vs_class>
+</campaign_autoresolver_modifiers>
+<campaign_autoresolver_modifiers record_uuid="{1a39e645-71bb-4a6a-a62a-726697520525}" record_timestamp="1375809460148" record_key="melee_kps_additive_pike_v_cav_shk">
+<class>inf_pik</class>
+<id>melee_kps_additive_pike_v_cav_shk</id>
+<stat_variable_id>unit_melee_kps_addition</stat_variable_id>
+<vs_class>cav_shk</vs_class>
+</campaign_autoresolver_modifiers>
+<campaign_autoresolver_modifiers record_uuid="{b798be10-3483-43f1-b483-78236e3e5900}" record_timestamp="1375809460169" record_key="melee_kps_additive_spear_v_cav_mel">
+<class>inf_spr</class>
+<id>melee_kps_additive_spear_v_cav_mel</id>
+<stat_variable_id>unit_melee_kps_addition</stat_variable_id>
+<vs_class>cav_mel</vs_class>
+</campaign_autoresolver_modifiers>
+<campaign_autoresolver_modifiers record_uuid="{36f62ed0-06be-42f1-9d11-23a2232223b9}" record_timestamp="1375809460190" record_key="melee_kps_additive_spear_v_cav_shk">
+<class>inf_spr</class>
+<id>melee_kps_additive_spear_v_cav_shk</id>
+<stat_variable_id>unit_melee_kps_addition</stat_variable_id>
+<vs_class>cav_shk</vs_class>
+</campaign_autoresolver_modifiers>
+<campaign_autoresolver_modifiers record_uuid="{2162fcc7-1d71-4c00-abf5-638ba25403ec}" record_timestamp="1374752121299" record_key="melee_kps_multi_all_classes">
+<class></class>
+<id>melee_kps_multi_all_classes</id>
+<stat_variable_id>unit_melee_kps_multiplier</stat_variable_id>
+<vs_class></vs_class>
+</campaign_autoresolver_modifiers>
+<campaign_autoresolver_modifiers record_uuid="{31363d42-a55e-4fd3-9c30-9941bdbc9589}" record_timestamp="1375809460211" record_key="missile_kps_additive_all_classes">
+<class></class>
+<id>missile_kps_additive_all_classes</id>
+<stat_variable_id>unit_missile_kps_addition</stat_variable_id>
+<vs_class></vs_class>
+</campaign_autoresolver_modifiers>
+<campaign_autoresolver_modifiers record_uuid="{b95e7ab3-20ad-4d4e-a255-bc325d1c2711}" record_timestamp="1374752121353" record_key="missile_kps_multi_all_classes">
+<class></class>
+<id>missile_kps_multi_all_classes</id>
+<stat_variable_id>unit_missile_kps_multiplier</stat_variable_id>
+<vs_class></vs_class>
+</campaign_autoresolver_modifiers>
+<campaign_autoresolver_modifiers record_uuid="{5d1e299f-a574-4523-9991-3e0423201ce0}" record_timestamp="1374752121189" record_key="retreat_all_classes">
+<class></class>
+<id>retreat_all_classes</id>
+<stat_variable_id>unit_retreat_mod</stat_variable_id>
+<vs_class></vs_class>
+</campaign_autoresolver_modifiers>
+</dataroot>

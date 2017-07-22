@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_map_playable_areas.xsd" export_time="Wed Feb 8 12:55:12 2017" revision="75" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>0a1c05eb-857e-455b-92f6-c229a8583514</edit_uuid>
+<campaign_map_playable_areas record_uuid="{e87c5084-4de5-4b32-8e84-8bbc76e2ff70}" record_timestamp="1486477844213" record_key="1564135533">
+<campaign_key>main_warhammer</campaign_key>
+<frontend_image></frontend_image>
+<game_expansion_key>tentpole</game_expansion_key>
+<index>1564135533</index>
+<is_available_in_custom_battle>1</is_available_in_custom_battle>
+<is_mpc_available>1</is_mpc_available>
+<map_file>wh_main_map.tga</map_file>
+<mapname>warhammer_map_1_1_beastmen</mapname>
+<maxx>678.5</maxx>
+<maxy>555.09</maxy>
+<meaningful_id>main_rome_map</meaningful_id>
+<minimap_lookup_file>wh_main_lookup_minimap.tga</minimap_lookup_file>
+<minx>0</minx>
+<miny>0</miny>
+<onscreen_description state="APPROVED" last_approved_text="Prepare thyself! The Old World trembles and the ground shakes with marching armies, for there is naught but war! In the Old World campaign you must make your race supreme amongst the rabble, the usurpers, and the many enemies you'll encounter as you conquer. This is the ultimate test of generalship and statecraft, with the fate of the Old World - and the lands beyond - in your hands. Eternal war and fleeting glory are yours to command - conquer this world! " last_edit_user="bob">Prepare thyself! The Old World trembles and the ground shakes with marching armies, for there is naught but war! In the Old World campaign you must make your race supreme amongst the rabble, the usurpers, and the many enemies you'll encounter as you conquer. This is the ultimate test of generalship and statecraft, with the fate of the Old World - and the lands beyond - in your hands. Eternal war and fleeting glory are yours to command - conquer this world! </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="The Old World" last_edit_user="bob">The Old World</onscreen_name>
+<overlay_file>wh_main_lookup.tga</overlay_file>
+<preview_border>0</preview_border>
+<preview_height>600</preview_height>
+<preview_width>750</preview_width>
+<radar_file>wh_main_map_minimap.png</radar_file>
+<sea_trade>0</sea_trade>
+<terrain_folder>terrain/battles/warhammer_map_1/</terrain_folder>
+<video>Warhammer/front_end_grand_campaign</video>
+</campaign_map_playable_areas>
+<campaign_map_playable_areas record_uuid="{284e30c8-61a9-4771-bf1f-2d4d20ee875e}" record_timestamp="1468497311951" record_key="1564135542">
+<campaign_key>wh_dlc03_beastmen</campaign_key>
+<frontend_image>ui/skins/default/campaign_select_beastmen.png</frontend_image>
+<game_expansion_key>beastmen</game_expansion_key>
+<index>1564135542</index>
+<is_available_in_custom_battle>1</is_available_in_custom_battle>
+<is_mpc_available>0</is_mpc_available>
+<map_file>wh_dlc03_beastmen_map.tga</map_file>
+<mapname>wh_dlc03_beastmen_map_1</mapname>
+<maxx>275.8</maxx>
+<maxy>192.2</maxy>
+<meaningful_id>main_rome_map</meaningful_id>
+<minimap_lookup_file>wh_dlc03_beastmen_lookup_minimap.tga</minimap_lookup_file>
+<minx>0</minx>
+<miny>0</miny>
+<onscreen_description state="APPROVED" last_approved_text="Among the bitterest rivalries of recent years is the struggle between the Elector Count of Middenland, Boris Todbringer, and the Beastlord, Khazrak the One-Eye. Both despise and yet grudgingly respect each other. The two rivals have clashed on several occasions since, but now the battle for the Great Forest is truly about to begin. This campaign is a more focused, narrative experience - a desperate clash between two legends of the Drakwald!" last_edit_user="bob">Among the bitterest rivalries of recent years is the struggle between the Elector Count of Middenland, Boris Todbringer, and the Beastlord, Khazrak the One-Eye. Both despise and yet grudgingly respect each other. The two rivals have clashed on several occasions since, but now the battle for the Great Forest is truly about to begin. This campaign is a more focused, narrative experience - a desperate clash between two legends of the Drakwald!</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="An Eye For An Eye" last_edit_user="bob">An Eye For An Eye</onscreen_name>
+<overlay_file>wh_dlc03_beastmen_lookup.tga</overlay_file>
+<preview_border>0</preview_border>
+<preview_height>600</preview_height>
+<preview_width>750</preview_width>
+<radar_file>wh_dlc03_beastmen_minimap.png</radar_file>
+<sea_trade>0</sea_trade>
+<terrain_folder>terrain/battles/wh_dlc03_beastmen_map_1/</terrain_folder>
+<video>Warhammer/front_end_bst_mini</video>
+</campaign_map_playable_areas>
+<campaign_map_playable_areas record_uuid="{792cea9c-6236-4137-b3eb-b15ab0604d95}" record_timestamp="1481045542366" record_key="1564135548">
+<campaign_key>wh_dlc05_wood_elves</campaign_key>
+<frontend_image>ui/skins/default/campaign_select_wood_elves.png</frontend_image>
+<game_expansion_key>wood_elves_owners</game_expansion_key>
+<index>1564135548</index>
+<is_available_in_custom_battle>1</is_available_in_custom_battle>
+<is_mpc_available>1</is_mpc_available>
+<map_file>wh_dlc05_wood_elves_map.tga</map_file>
+<mapname>wh_dlc05_wood_elves_map_1</mapname>
+<maxx>266.53</maxx>
+<maxy>338.9</maxy>
+<meaningful_id>main_rome_map</meaningful_id>
+<minimap_lookup_file>wh_dlc05_wood_elves_lookup_minimap.tga</minimap_lookup_file>
+<minx>0</minx>
+<miny>0</miny>
+<onscreen_description state="APPROVED" last_approved_text="The Wood Elves are, by their own reckoning, enjoying a period of relative calm. As life in the Old World carries on apace, the Asrai are rarely troubled by it. Incursions by the foolhardy have been dealt with; dazzling defeats inflicted, stunning victories won, and the forest roots nourished with the blood of trespassing outsiders. Now, something is coming back to terrorise the Athel Loren’s woodland glades – something altogether more dangerous than mere Greenskin raiders or Bretonnian treasure hunters. The entire forest must fight now, for its very existence is under the gravest threat. Prepare your kindred, for this is the Season of Revelation!" last_edit_user="bob">The Wood Elves are, by their own reckoning, enjoying a period of relative calm. As life in the Old World carries on apace, the Asrai are rarely troubled by it. Incursions by the foolhardy have been dealt with; dazzling defeats inflicted, stunning victories won, and the forest roots nourished with the blood of trespassing outsiders. Now, something is coming back to terrorise the Athel Loren’s woodland glades – something altogether more dangerous than mere Greenskin raiders or Bretonnian treasure hunters. The entire forest must fight now, for its very existence is under the gravest threat. Prepare your kindred, for this is the Season of Revelation!</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="The Season of Revelation" last_edit_user="bob">The Season of Revelation</onscreen_name>
+<overlay_file>wh_dlc05_wood_elves_lookup.tga</overlay_file>
+<preview_border>0</preview_border>
+<preview_height>600</preview_height>
+<preview_width>472</preview_width>
+<radar_file>wh_dlc05_wood_elves_minimap.png</radar_file>
+<sea_trade>0</sea_trade>
+<terrain_folder>terrain/battles/wh_dlc05_wood_elves_map_1/</terrain_folder>
+<video>Warhammer/front_end_wef_mini</video>
+</campaign_map_playable_areas>
+<campaign_map_playable_areas record_uuid="{191a1f5c-fc3d-46a3-a37a-1c65de1ea4b6}" record_timestamp="1486477844230" record_key="1564135551">
+<campaign_key>main_warhammer</campaign_key>
+<frontend_image></frontend_image>
+<game_expansion_key>tentpole</game_expansion_key>
+<index>1564135551</index>
+<is_available_in_custom_battle>1</is_available_in_custom_battle>
+<is_mpc_available>1</is_mpc_available>
+<map_file>wh_main_map.tga</map_file>
+<mapname>warhammer_map_1</mapname>
+<maxx>678.5</maxx>
+<maxy>555.09</maxy>
+<meaningful_id>main_rome_map</meaningful_id>
+<minimap_lookup_file>wh_main_lookup_minimap.tga</minimap_lookup_file>
+<minx>0</minx>
+<miny>0</miny>
+<onscreen_description state="APPROVED" last_approved_text="Prepare thyself! The Old World trembles and the ground shakes with marching armies, for there is naught but war! In the Old World campaign you must make your race supreme amongst the rabble, the usurpers, and the many enemies you'll encounter as you conquer. This is the ultimate test of generalship and statecraft, with the fate of the Old World - and the lands beyond - in your hands. Eternal war and fleeting glory are yours to command - conquer this world! " last_edit_user="bob">Prepare thyself! The Old World trembles and the ground shakes with marching armies, for there is naught but war! In the Old World campaign you must make your race supreme amongst the rabble, the usurpers, and the many enemies you'll encounter as you conquer. This is the ultimate test of generalship and statecraft, with the fate of the Old World - and the lands beyond - in your hands. Eternal war and fleeting glory are yours to command - conquer this world! </onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="The Old World" last_edit_user="bob">The Old World</onscreen_name>
+<overlay_file>wh_main_lookup.tga</overlay_file>
+<preview_border>0</preview_border>
+<preview_height>600</preview_height>
+<preview_width>750</preview_width>
+<radar_file>wh_main_map_minimap.png</radar_file>
+<sea_trade>0</sea_trade>
+<terrain_folder>terrain/battles/warhammer_map_1/</terrain_folder>
+<video>Warhammer/front_end_grand_campaign</video>
+</campaign_map_playable_areas>
+<campaign_map_playable_areas record_uuid="{5dbf95f3-557d-4640-bdaf-e4743ba3ef4c}" record_timestamp="1486477844248" record_key="1564135556">
+<campaign_key>main_warhammer</campaign_key>
+<frontend_image>ui/skins/default/campaign_select_grand_campaign.png</frontend_image>
+<game_expansion_key>tentpole</game_expansion_key>
+<index>1564135556</index>
+<is_available_in_custom_battle>1</is_available_in_custom_battle>
+<is_mpc_available>1</is_mpc_available>
+<map_file>wh_main_map.tga</map_file>
+<mapname>warhammer_map_1_1_wood_elves</mapname>
+<maxx>678.5</maxx>
+<maxy>555.09</maxy>
+<meaningful_id>main_rome_map</meaningful_id>
+<minimap_lookup_file>wh_main_lookup_minimap.tga</minimap_lookup_file>
+<minx>0</minx>
+<miny>0</miny>
+<onscreen_description state="APPROVED" last_approved_text="Prepare thyself! The Old World trembles and the ground shakes with marching armies, for there is naught but war! In the Old World campaign you must make your race supreme amongst the rabble, the usurpers, and the many enemies you'll encounter as you conquer. This is the ultimate test of generalship and statecraft, with the fate of the Old World - and the lands beyond - in your hands. Eternal war and fleeting glory are yours to command - conquer this world!" last_edit_user="bob">Prepare thyself! The Old World trembles and the ground shakes with marching armies, for there is naught but war! In the Old World campaign you must make your race supreme amongst the rabble, the usurpers, and the many enemies you'll encounter as you conquer. This is the ultimate test of generalship and statecraft, with the fate of the Old World - and the lands beyond - in your hands. Eternal war and fleeting glory are yours to command - conquer this world!</onscreen_description>
+<onscreen_name state="APPROVED" last_approved_text="The Old World" last_edit_user="bob">The Old World</onscreen_name>
+<overlay_file>wh_main_lookup.tga</overlay_file>
+<preview_border>0</preview_border>
+<preview_height>600</preview_height>
+<preview_width>750</preview_width>
+<radar_file>wh_main_map_minimap.png</radar_file>
+<sea_trade>0</sea_trade>
+<terrain_folder>terrain/battles/warhammer_map_1/</terrain_folder>
+<video>Warhammer/front_end_grand_campaign</video>
+</campaign_map_playable_areas>
+</dataroot>

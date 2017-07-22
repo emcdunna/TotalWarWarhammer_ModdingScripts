@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_markers.xsd" export_time="Fri Oct 21 10:22:07 2016" revision="7" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>baaab2ff-2efd-41a3-a634-51f8d43099e4</edit_uuid>
+<campaign_markers record_uuid="{52f86b8c-0781-4996-8661-3cd0640faee4}" record_timestamp="1448364558906" record_key="famous_battle_event_markerwh_feature_all">
+<file>prefabs\campaign\famous_battle_marker.bmd</file>
+<group>wh_feature_all</group>
+<key>famous_battle_event_marker</key>
+</campaign_markers>
+<campaign_markers record_uuid="{d3853dab-7ac4-458a-ad3b-4723484d6332}" record_timestamp="1477041725522" record_key="interactable_markerwh_feature_all">
+<file>prefabs/campaign/quest_battle_marker.bmd</file>
+<group>wh_feature_all</group>
+<key>interactable_marker</key>
+</campaign_markers>
+<campaign_markers record_uuid="{14a37fcf-00e7-496f-8cc1-ab8780189943}" record_timestamp="1448359343003" record_key="mission_quest_markerwh_feature_all">
+<file>prefabs/campaign/quest_battle_marker.bmd</file>
+<group>wh_feature_all</group>
+<key>mission_quest_marker</key>
+</campaign_markers>
+</dataroot>

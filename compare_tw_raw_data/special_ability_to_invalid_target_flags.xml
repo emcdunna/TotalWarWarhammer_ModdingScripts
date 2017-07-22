@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="special_ability_to_invalid_target_flags.xsd" export_time="Thu Jan 26 16:33:54 2017" revision="52" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>af2bdd96-cfc1-4121-b7e8-75e5d8c7c88d</edit_uuid>
+<special_ability_to_invalid_target_flags record_uuid="{8f1901e5-4507-4f49-a898-0bd9b02d12eb}" record_timestamp="1471865764350" record_key="wh_dlc01_weapon_abilities_sword_of_changeclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_dlc01_weapon_abilities_sword_of_change</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{77f79421-4a11-4c59-9c99-663f56fcf1cc}" record_timestamp="1468496801585" record_key="wh_dlc01_weapon_abilities_sword_of_changeon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc01_weapon_abilities_sword_of_change</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{2901f426-43ff-48fd-a333-beaaba1b8dfa}" record_timestamp="1484590747694" record_key="wh_dlc03_item_passive_the_dark_mailother_abilities_none_on_wind_up">
+<invalid_target>other_abilities_none_on_wind_up</invalid_target>
+<special_ability>wh_dlc03_item_passive_the_dark_mail</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{ce1ea30f-9592-4928-8e0e-d2c20ae73738}" record_timestamp="1479313209507" record_key="wh_dlc03_lord_passive_crush_the_weakmorale_is_higher_than_half_of_base_morale">
+<invalid_target>morale_is_higher_than_half_of_base_morale</invalid_target>
+<special_ability>wh_dlc03_lord_passive_crush_the_weak</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{7b472706-ea46-4156-9ecc-41744abe94f0}" record_timestamp="1471865764348" record_key="wh_dlc03_spell_beasts_transformation_of_kadonclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_dlc03_spell_beasts_transformation_of_kadon</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{0c9f0c1d-d3d0-4cb6-ae4e-52c560e6e73a}" record_timestamp="1452697939418" record_key="wh_dlc03_spell_beasts_transformation_of_kadonon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc03_spell_beasts_transformation_of_kadon</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{f20f275d-0867-42e6-8deb-46e524e655cb}" record_timestamp="1471865764348" record_key="wh_dlc03_spell_wild_savage_dominionclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_dlc03_spell_wild_savage_dominion</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{4081e56b-016f-4295-bebd-04f2c8bf97a9}" record_timestamp="1452697939427" record_key="wh_dlc03_spell_wild_savage_dominionon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc03_spell_wild_savage_dominion</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{32e04426-8dcb-4533-ac12-7f1db4331958}" record_timestamp="1485448425006" record_key="wh_dlc04_quest_abilities_servant_of_nagashhealth_above_20%">
+<invalid_target>health_above_20%</invalid_target>
+<special_ability>wh_dlc04_quest_abilities_servant_of_nagash</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{4cc52a7a-e5c9-439b-b50d-39729a951480}" record_timestamp="1474282561928" record_key="wh_dlc04_spell_bound_banishmenton_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc04_spell_bound_banishment</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{4175c57b-b618-4f7f-9e20-b12944af4885}" record_timestamp="1471865775714" record_key="wh_dlc04_spell_vampires_invocation_of_nehek_helmanhp_replenish_cap_reached">
+<invalid_target>hp_replenish_cap_reached</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_invocation_of_nehek_helman</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{ddbfff28-6432-4fa4-951c-eeecd19c999d}" record_timestamp="1470138005893" record_key="wh_dlc04_spell_vampires_invocation_of_nehek_helmanliving_unit">
+<invalid_target>living_unit</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_invocation_of_nehek_helman</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{2e2b1b28-e060-45d8-8f63-84184a9e91ca}" record_timestamp="1470138005898" record_key="wh_dlc04_spell_vampires_invocation_of_nehek_helmanon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_invocation_of_nehek_helman</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{5687b22c-b049-44ac-82d3-a55f474e87d4}" record_timestamp="1474282559019" record_key="wh_dlc04_spell_vampires_invocation_of_nehek_strigoihp_replenish_cap_reached">
+<invalid_target>hp_replenish_cap_reached</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_invocation_of_nehek_strigoi</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{c930b43c-9bcf-47e4-b084-1aa9ea8b0995}" record_timestamp="1474282559019" record_key="wh_dlc04_spell_vampires_invocation_of_nehek_strigoiliving_unit">
+<invalid_target>living_unit</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_invocation_of_nehek_strigoi</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{bcd36824-7e24-479e-83ed-4dc03c6628e9}" record_timestamp="1474282559020" record_key="wh_dlc04_spell_vampires_invocation_of_nehek_strigoion_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_invocation_of_nehek_strigoi</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{0c44f91a-88aa-40c2-881c-1df36563c9cb}" record_timestamp="1471865784956" record_key="wh_dlc04_spell_vampires_raise_dead_helmanclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_raise_dead_helman</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{fd5e79e7-ed23-4442-a9f7-7d38c1c3b5f4}" record_timestamp="1471865784955" record_key="wh_dlc04_spell_vampires_raise_dead_helmanon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_raise_dead_helman</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{45d7cf22-4d16-4ae6-8bc4-91bd7ab6db6b}" record_timestamp="1474282559024" record_key="wh_dlc04_spell_vampires_raise_dead_strigoiclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_raise_dead_strigoi</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{3f29e7ad-2c35-4d74-a961-48ad7c965ceb}" record_timestamp="1474282559025" record_key="wh_dlc04_spell_vampires_raise_dead_strigoion_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_raise_dead_strigoi</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{7d7abb15-fcd0-4b6e-afdd-16bf9f4b25e3}" record_timestamp="1471865784977" record_key="wh_dlc04_spell_vampires_raise_dead_upgraded_helmanclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_raise_dead_upgraded_helman</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{92b20193-bce5-40ed-b4cb-036d5d031480}" record_timestamp="1471865784977" record_key="wh_dlc04_spell_vampires_raise_dead_upgraded_helmanon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_raise_dead_upgraded_helman</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{c9e12040-8dbd-4926-818f-3acc91a07b6e}" record_timestamp="1474282559026" record_key="wh_dlc04_spell_vampires_raise_dead_upgraded_strigoiclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_raise_dead_upgraded_strigoi</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{9ec299de-3b74-40ba-b4bc-febff5e2aec3}" record_timestamp="1474282559025" record_key="wh_dlc04_spell_vampires_raise_dead_upgraded_strigoion_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_raise_dead_upgraded_strigoi</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{958ad1c6-4188-4140-a648-ca5606002ccb}" record_timestamp="1470138005883" record_key="wh_dlc04_spell_vampires_wind_of_death_helmanflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_wind_of_death_helman</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{560ea80f-a0c2-49fe-aba5-321ff32086df}" record_timestamp="1470138005887" record_key="wh_dlc04_spell_vampires_wind_of_death_helmanon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc04_spell_vampires_wind_of_death_helman</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{23b21b6e-2041-410e-8a63-007aebbf8d25}" record_timestamp="1474282561733" record_key="wh_dlc04_unit_passive_the_reliquary_bindingliving_unit">
+<invalid_target>living_unit</invalid_target>
+<special_ability>wh_dlc04_unit_passive_the_reliquary_binding</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{5e2531ab-9c9f-4878-807a-fc026aa4cad1}" record_timestamp="1474282561732" record_key="wh_dlc04_unit_passive_unholy_lodestoneliving_unit">
+<invalid_target>living_unit</invalid_target>
+<special_ability>wh_dlc04_unit_passive_unholy_lodestone</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{f12805bf-3c41-4408-a9ac-81009a06b3fe}" record_timestamp="1483980127015" record_key="wh_dlc05_lord_abilities_spirit_essence_of_chaoshealth_above_20%">
+<invalid_target>health_above_20%</invalid_target>
+<special_ability>wh_dlc05_lord_abilities_spirit_essence_of_chaos</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{b598cf99-8985-41d2-b62b-d41c47fa17c9}" record_timestamp="1479320660989" record_key="wh_dlc05_lord_abilities_spirit_essence_of_chaosunit_is_commander_class">
+<invalid_target>unit_is_commander_class</invalid_target>
+<special_ability>wh_dlc05_lord_abilities_spirit_essence_of_chaos</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{ead5d29e-f210-4995-b5db-c4ad65ae968f}" record_timestamp="1479320735746" record_key="wh_dlc05_lord_abilities_spirit_essence_of_eternal_chaosclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_dlc05_lord_abilities_spirit_essence_of_eternal_chaos</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{a22a8caa-d656-445e-9723-90ef2052d0b2}" record_timestamp="1479332218540" record_key="wh_dlc05_lord_abilities_spirit_essence_of_eternal_chaoshealth_above_20%">
+<invalid_target>health_above_20%</invalid_target>
+<special_ability>wh_dlc05_lord_abilities_spirit_essence_of_eternal_chaos</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{6af0ef2c-6f0a-41c2-a76b-6da6891dec01}" record_timestamp="1479332218294" record_key="wh_dlc05_lord_abilities_spirit_essence_of_eternal_chaoson_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc05_lord_abilities_spirit_essence_of_eternal_chaos</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{eb86698c-94ab-464f-af86-2b58d391e29e}" record_timestamp="1479320735746" record_key="wh_dlc05_lord_abilities_spirit_essence_of_eternal_chaosunit_is_commander_class">
+<invalid_target>unit_is_commander_class</invalid_target>
+<special_ability>wh_dlc05_lord_abilities_spirit_essence_of_eternal_chaos</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{7a213691-6e54-45c2-a269-00bbf13a57a5}" record_timestamp="1481035202704" record_key="wh_dlc05_lord_ablities_grey_wolvesflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_dlc05_lord_ablities_grey_wolves</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{e9133304-a9a6-4229-93b5-bc2e36be967f}" record_timestamp="1481035202705" record_key="wh_dlc05_lord_ablities_grey_wolveson_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc05_lord_ablities_grey_wolves</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{eb703f0b-493b-4a98-9913-7a22ea51ae75}" record_timestamp="1485354905617" record_key="wh_dlc05_spell_life_awakening_of_the_woodflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_dlc05_spell_life_awakening_of_the_wood</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{129017cb-b38c-4555-b62f-59af5784dbc0}" record_timestamp="1485354905617" record_key="wh_dlc05_spell_life_awakening_the_wood_branchwraithflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_dlc05_spell_life_awakening_the_wood_branchwraith</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{c37ab7bd-97ed-4fec-89a6-2858e7b20b4e}" record_timestamp="1479318990999" record_key="wh_dlc05_spell_life_earth_blood_branchwraithhp_replenish_cap_reached">
+<invalid_target>hp_replenish_cap_reached</invalid_target>
+<special_ability>wh_dlc05_spell_life_earth_blood_branchwraith</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{56bf9542-32ae-4ce9-a117-c9e337f1eca0}" record_timestamp="1471865776211" record_key="wh_dlc05_spell_life_earth_blood_upgradedhp_replenish_cap_reached">
+<invalid_target>hp_replenish_cap_reached</invalid_target>
+<special_ability>wh_dlc05_spell_life_earth_blood_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{c38f92bc-7a86-4117-97f5-94e6ab49fdfb}" record_timestamp="1471865776210" record_key="wh_dlc05_spell_life_earth_bloodhp_replenish_cap_reached">
+<invalid_target>hp_replenish_cap_reached</invalid_target>
+<special_ability>wh_dlc05_spell_life_earth_blood</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{7a558689-579c-40f0-90cf-6e63c566dd57}" record_timestamp="1479333276452" record_key="wh_dlc05_spell_life_regrowth_upgradedhp_replenish_cap_reached">
+<invalid_target>hp_replenish_cap_reached</invalid_target>
+<special_ability>wh_dlc05_spell_life_regrowth_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{8a8db5e5-0f67-43c2-8db2-3f056c908d57}" record_timestamp="1479333276451" record_key="wh_dlc05_spell_life_regrowthhp_replenish_cap_reached">
+<invalid_target>hp_replenish_cap_reached</invalid_target>
+<special_ability>wh_dlc05_spell_life_regrowth</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{c4b8c87f-05ca-492f-a94f-11188fbebb53}" record_timestamp="1481893148669" record_key="wh_dlc05_spell_life_the_dwellers_below_upgradedflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_dlc05_spell_life_the_dwellers_below_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{1423809e-9064-4556-a34e-7e4797ac6c69}" record_timestamp="1455623086832" record_key="wh_dlc05_spell_life_the_dwellers_below_upgradedon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc05_spell_life_the_dwellers_below_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{092c1718-bd2b-451b-9584-6d2dd4c05ee2}" record_timestamp="1481893148670" record_key="wh_dlc05_spell_life_the_dwellers_belowflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_dlc05_spell_life_the_dwellers_below</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{8c0f3078-1571-4087-9c99-e60d0c855eae}" record_timestamp="1455623086792" record_key="wh_dlc05_spell_life_the_dwellers_belowon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc05_spell_life_the_dwellers_below</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{ee7df898-cd4a-4ee3-bb77-00234a498626}" record_timestamp="1481910066084" record_key="wh_dlc05_spell_shadow_the_penumbral_pendulum_branchwraithflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_dlc05_spell_shadow_the_penumbral_pendulum_branchwraith</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{85d87b52-6759-4c7b-ba65-bb53b12699d3}" record_timestamp="1481910066083" record_key="wh_dlc05_spell_shadow_the_penumbral_pendulum_branchwraithon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc05_spell_shadow_the_penumbral_pendulum_branchwraith</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{6502e1c7-3b71-4e93-9e81-5d2dd3fbdec8}" record_timestamp="1481910066084" record_key="wh_dlc05_spell_shadow_the_penumbral_pendulum_upgradedflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_dlc05_spell_shadow_the_penumbral_pendulum_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{946d2124-2fe4-4600-8bac-bb613861b82e}" record_timestamp="1481910066082" record_key="wh_dlc05_spell_shadow_the_penumbral_pendulum_upgradedon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc05_spell_shadow_the_penumbral_pendulum_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{529e81e2-77e4-4f30-a506-038aec8d6d0c}" record_timestamp="1481910066085" record_key="wh_dlc05_spell_shadow_the_penumbral_pendulumflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_dlc05_spell_shadow_the_penumbral_pendulum</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{fb5529f6-a53a-4de7-a709-b5cae8215b81}" record_timestamp="1481910066083" record_key="wh_dlc05_spell_shadow_the_penumbral_pendulumon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc05_spell_shadow_the_penumbral_pendulum</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{d7edb4ca-0251-4433-a407-aa016bc3e481}" record_timestamp="1481029487547" record_key="wh_dlc05_weapon_abilities_el_syfunit_is_not_commander_class">
+<invalid_target>unit_is_not_commander_class</invalid_target>
+<special_ability>wh_dlc05_weapon_abilities_el_syf</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{ef218503-3ea9-4e49-8f75-91685d8787b8}" record_timestamp="1483980127012" record_key="wh_dlc05_weapon_abilities_stave_of_ruinous_corruptionclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_dlc05_weapon_abilities_stave_of_ruinous_corruption</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{61e2cecc-2a20-42a1-bfff-1860b90614d2}" record_timestamp="1483980127013" record_key="wh_dlc05_weapon_abilities_stave_of_ruinous_corruptionon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc05_weapon_abilities_stave_of_ruinous_corruption</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{a0485a03-b49f-448b-b30e-bac25d693f8a}" record_timestamp="1477035605516" record_key="wh_dlc06_unit_abilities_maternal_instinctclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_dlc06_unit_abilities_maternal_instinct</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{390404d1-b985-4b25-bcd1-dae931d2fe11}" record_timestamp="1477035605516" record_key="wh_dlc06_unit_abilities_maternal_instincton_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc06_unit_abilities_maternal_instinct</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{6fdd6b00-1625-4be6-8a45-8d25c08fdb50}" record_timestamp="1479308422476" record_key="wh_dlc06_unit_abilities_the_loons_of_eight_peaksclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_dlc06_unit_abilities_the_loons_of_eight_peaks</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{cec6f324-4c8e-4d42-86ff-a2d6f71b8de0}" record_timestamp="1479308422475" record_key="wh_dlc06_unit_abilities_the_loons_of_eight_peaksflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_dlc06_unit_abilities_the_loons_of_eight_peaks</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{ac23fd17-3a39-4dcd-b145-f099f33a0890}" record_timestamp="1479308422475" record_key="wh_dlc06_unit_abilities_the_loons_of_eight_peakson_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc06_unit_abilities_the_loons_of_eight_peaks</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{f9f48c8f-fb3e-4160-a9f8-1c217e21e10a}" record_timestamp="1485433115926" record_key="wh_dlc07_item_abilities_wrath_of_manannflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_dlc07_item_abilities_wrath_of_manann</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{16b8fc1e-1ab3-4bb7-b645-56748e2ef553}" record_timestamp="1485433115918" record_key="wh_dlc07_item_abilities_wrath_of_manannon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_dlc07_item_abilities_wrath_of_manann</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{7cf99f3d-56af-4577-a776-e396f44c977c}" record_timestamp="1434625481741" record_key="wh_main_banner_passive_scarecrow_bannergrounded">
+<invalid_target>grounded</invalid_target>
+<special_ability>wh_main_banner_passive_scarecrow_banner</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{34a553c4-c7ef-471b-b8fc-be0b29d7f1a0}" record_timestamp="1474282561733" record_key="wh_main_character_passive_master_of_the_deadliving_unit">
+<invalid_target>living_unit</invalid_target>
+<special_ability>wh_main_character_passive_master_of_the_dead</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{206c0bcc-00f1-4d35-95e4-28f607850f75}" record_timestamp="1457705541479" record_key="wh_main_hero_passive_extra_powdercannot_perform_missile_attack">
+<invalid_target>cannot_perform_missile_attack</invalid_target>
+<special_ability>wh_main_hero_passive_extra_powder</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{77d56282-ba31-44f7-a4ec-a6ef49582226}" record_timestamp="1453738524906" record_key="wh_main_item_abilities_fiery_ring_of_thoriflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_item_abilities_fiery_ring_of_thori</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{ef8dc565-7d68-41c0-a7ab-21d84d75ee0a}" record_timestamp="1433833907462" record_key="wh_main_item_passive_featherfoe_torcgrounded">
+<invalid_target>grounded</invalid_target>
+<special_ability>wh_main_item_passive_featherfoe_torc</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{0a1f8bbb-0520-4214-a896-2c3eb714e416}" record_timestamp="1474281953800" record_key="wh_main_item_passive_pidgeon_plucker_pendantground_unit">
+<invalid_target>ground_unit</invalid_target>
+<special_ability>wh_main_item_passive_pidgeon_plucker_pendant</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{126d3c34-844e-4984-a841-4ca5e37291d3}" record_timestamp="1443540950285" record_key="wh_main_lore_passive_exorcismliving_unit">
+<invalid_target>living_unit</invalid_target>
+<special_ability>wh_main_lore_passive_exorcism</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{73ede080-26ac-4160-b1f9-044800d902f2}" record_timestamp="1444382801108" record_key="wh_main_lore_passive_roiling_skiesgrounded">
+<invalid_target>grounded</invalid_target>
+<special_ability>wh_main_lore_passive_roiling_skies</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{48c11086-a925-4c3b-ade9-6e178e60c074}" record_timestamp="1463569212698" record_key="wh_main_lore_passive_the_curse_of_undeathliving_unit">
+<invalid_target>living_unit</invalid_target>
+<special_ability>wh_main_lore_passive_the_curse_of_undeath</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{d43e4818-f5b0-416f-a174-2849b98b324b}" record_timestamp="1453738524919" record_key="wh_main_spell_big_waaagh_brain_bursta_upgradedflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_spell_big_waaagh_brain_bursta_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{b7867b95-bfc7-4b0f-9b47-e104104163fa}" record_timestamp="1453738524857" record_key="wh_main_spell_big_waaagh_brain_burstaflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_spell_big_waaagh_brain_bursta</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{f298048b-8b20-4f7e-8275-fb4869ffec6c}" record_timestamp="1453738524829" record_key="wh_main_spell_big_waaagh_eadbutt_upgradedflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_spell_big_waaagh_eadbutt_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{1d131e3d-81bd-4852-a044-a8a65263bd63}" record_timestamp="1453738524845" record_key="wh_main_spell_big_waaagh_eadbuttflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_spell_big_waaagh_eadbutt</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{8183d5a4-a462-4b78-ad0e-72af236fd08a}" record_timestamp="1453738243849" record_key="wh_main_spell_big_waaagh_foot_of_gork_upgradedflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_spell_big_waaagh_foot_of_gork_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{787f463f-3b53-4165-8082-56aab944562c}" record_timestamp="1453738243828" record_key="wh_main_spell_big_waaagh_foot_of_gorkflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_spell_big_waaagh_foot_of_gork</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{95f60f77-7c07-4527-a503-358811335cbe}" record_timestamp="1448985294977" record_key="wh_main_spell_death_the_purple_sun_of_xereus_upgradedon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_death_the_purple_sun_of_xereus_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{c5d06391-06de-484c-90eb-c826a200f773}" record_timestamp="1440664938329" record_key="wh_main_spell_death_the_purple_sun_of_xereuson_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_death_the_purple_sun_of_xereus</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{3a212ee4-78bf-43f9-8d37-fcc885ffd7ac}" record_timestamp="1444231313151" record_key="wh_main_spell_fire_flame_storm_upgradedon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_fire_flame_storm_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{82961eb0-9a17-4ba4-8f05-4fbac97924a4}" record_timestamp="1444231313186" record_key="wh_main_spell_fire_flame_stormon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_fire_flame_storm</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{578329ea-4870-4585-a9c2-1a342aae0b8d}" record_timestamp="1453738524960" record_key="wh_main_spell_fire_the_burning_head_upgradedflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_spell_fire_the_burning_head_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{ccd849e7-e1f1-422a-afe8-82c656ac1ea2}" record_timestamp="1444231313169" record_key="wh_main_spell_fire_the_burning_head_upgradedon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_fire_the_burning_head_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{26bdde56-2365-4b3d-a561-0d244d9aefe0}" record_timestamp="1453738524974" record_key="wh_main_spell_fire_the_burning_headflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_spell_fire_the_burning_head</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{65d28794-137b-4cfe-9ab0-c5b9ce87f96d}" record_timestamp="1444231313160" record_key="wh_main_spell_fire_the_burning_headon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_fire_the_burning_head</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{0a314f93-261a-4cd7-8e18-b02f5278ebb9}" record_timestamp="1444231313177" record_key="wh_main_spell_heavens_chain_lightningon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_heavens_chain_lightning</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{a104d1a5-d72e-43e0-af58-0abe3ca6bfac}" record_timestamp="1453738524881" record_key="wh_main_spell_heavens_wind_blast_upgradedflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_spell_heavens_wind_blast_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{dad35fb4-5bad-4ea6-bbd6-5600a3de5574}" record_timestamp="1453738524893" record_key="wh_main_spell_heavens_wind_blastflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_spell_heavens_wind_blast</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{b686e195-1d22-4251-8f37-44777ba550cc}" record_timestamp="1444231313119" record_key="wh_main_spell_light_banishment_upgradedon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_light_banishment_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{32f74765-5d86-495b-baea-93bf1d2824c3}" record_timestamp="1444231313208" record_key="wh_main_spell_light_banishmenton_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_light_banishment</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{366bec69-0202-4944-83bf-d3c1b00f7860}" record_timestamp="1444231313132" record_key="wh_main_spell_lil_waaagh_curse_of_da_bad_moon_upgradedon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_lil_waaagh_curse_of_da_bad_moon_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{b8dc5d65-66bd-40ce-8d4b-4de9be17f028}" record_timestamp="1440664938348" record_key="wh_main_spell_lil_waaagh_curse_of_da_bad_moonon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_lil_waaagh_curse_of_da_bad_moon</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{b6aa2c80-a74c-4eff-8e59-abb5d1c77ccd}" record_timestamp="1453738524988" record_key="wh_main_spell_metal_gehennas_golden_hounds_upgradedflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_spell_metal_gehennas_golden_hounds_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{99fe10af-709f-4583-bc7e-42a389a10765}" record_timestamp="1444231313197" record_key="wh_main_spell_metal_gehennas_golden_hounds_upgradedon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_metal_gehennas_golden_hounds_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{a021744e-8905-46ef-bd1f-80f0c675ed31}" record_timestamp="1453738525003" record_key="wh_main_spell_metal_gehennas_golden_houndsflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_spell_metal_gehennas_golden_hounds</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{b5fe7b2b-8a02-4664-b50e-8a07e45345cf}" record_timestamp="1444231313142" record_key="wh_main_spell_metal_gehennas_golden_houndson_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_metal_gehennas_golden_hounds</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{dde19c79-2ef6-4873-9adc-8c277542cd4e}" record_timestamp="1471865775713" record_key="wh_main_spell_vampires_invocation_of_nehek_upgradedhp_replenish_cap_reached">
+<invalid_target>hp_replenish_cap_reached</invalid_target>
+<special_ability>wh_main_spell_vampires_invocation_of_nehek_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{48da6015-98bd-4eeb-807c-d1e3c05f0b8a}" record_timestamp="1463569212699" record_key="wh_main_spell_vampires_invocation_of_nehek_upgradedliving_unit">
+<invalid_target>living_unit</invalid_target>
+<special_ability>wh_main_spell_vampires_invocation_of_nehek_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{bee847b5-6c59-42e8-bd3e-e0107b2d504b}" record_timestamp="1444314064038" record_key="wh_main_spell_vampires_invocation_of_nehek_upgradedon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_vampires_invocation_of_nehek_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{c72a9968-032f-48fb-abe4-e6f6fee1cc88}" record_timestamp="1471865775714" record_key="wh_main_spell_vampires_invocation_of_nehekhp_replenish_cap_reached">
+<invalid_target>hp_replenish_cap_reached</invalid_target>
+<special_ability>wh_main_spell_vampires_invocation_of_nehek</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{20f8a337-cf67-491e-a76d-c16c0e13732b}" record_timestamp="1463569212699" record_key="wh_main_spell_vampires_invocation_of_nehekliving_unit">
+<invalid_target>living_unit</invalid_target>
+<special_ability>wh_main_spell_vampires_invocation_of_nehek</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{bfce5f33-76c3-4f1b-8910-0cbb7f06a582}" record_timestamp="1444314064048" record_key="wh_main_spell_vampires_invocation_of_nehekon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_vampires_invocation_of_nehek</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{e955c966-a327-47c1-b598-88b533b357bd}" record_timestamp="1471865764346" record_key="wh_main_spell_vampires_raise_dead_upgradedclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_main_spell_vampires_raise_dead_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{5282a377-3894-40cb-9ef8-e490735b8858}" record_timestamp="1449048121859" record_key="wh_main_spell_vampires_raise_dead_upgradedon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_vampires_raise_dead_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{36d7aac9-60a5-4b1c-a35f-6f1283e7d1b4}" record_timestamp="1471865764347" record_key="wh_main_spell_vampires_raise_deadclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_main_spell_vampires_raise_dead</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{366f5c81-a979-42d6-b808-25e17565436e}" record_timestamp="1449048121895" record_key="wh_main_spell_vampires_raise_deadon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_vampires_raise_dead</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{91044b60-3cba-4eaf-8033-6f51cf36a8b4}" record_timestamp="1453738524932" record_key="wh_main_spell_vampires_wind_of_death_upgradedflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_spell_vampires_wind_of_death_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{f605e41c-0728-4e9f-819b-ffbba8777116}" record_timestamp="1465229335863" record_key="wh_main_spell_vampires_wind_of_death_upgradedon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_vampires_wind_of_death_upgraded</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{71914f93-cc96-46e3-90c1-80e88c3c4ec5}" record_timestamp="1453738524869" record_key="wh_main_spell_vampires_wind_of_deathflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_spell_vampires_wind_of_death</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{d7b3f137-63f1-4278-acbf-c2d7a5d6263a}" record_timestamp="1465229335864" record_key="wh_main_spell_vampires_wind_of_deathon_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_spell_vampires_wind_of_death</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{300a8aeb-810f-4388-ac6b-88d031117dd3}" record_timestamp="1477035614620" record_key="wh_main_unit_abilities_entrenchmentclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_main_unit_abilities_entrenchment</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{d2fd66ea-b7a0-4722-b526-107489bf377e}" record_timestamp="1477035614619" record_key="wh_main_unit_abilities_entrenchmentflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_unit_abilities_entrenchment</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{123e22ab-7f51-4be3-93ae-7d3d3ace8f6e}" record_timestamp="1477035614618" record_key="wh_main_unit_abilities_entrenchmentmanning_equipment">
+<invalid_target>manning_equipment</invalid_target>
+<special_ability>wh_main_unit_abilities_entrenchment</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{d3fdcf9e-f1ab-4ecd-864a-6ecd134f3106}" record_timestamp="1479308422433" record_key="wh_main_unit_abilities_spinning_loonsclimbing">
+<invalid_target>climbing</invalid_target>
+<special_ability>wh_main_unit_abilities_spinning_loons</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{7068cb65-665c-4160-9c4a-8dd958ed90bd}" record_timestamp="1479308422433" record_key="wh_main_unit_abilities_spinning_loonsflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_unit_abilities_spinning_loons</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{174e0c98-408d-4a13-86de-9126c77ffa3f}" record_timestamp="1479308422432" record_key="wh_main_unit_abilities_spinning_loonson_a_platform">
+<invalid_target>on_a_platform</invalid_target>
+<special_ability>wh_main_unit_abilities_spinning_loons</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{04b557c5-cde4-4e03-8214-16667f32f22f}" record_timestamp="1453738524946" record_key="wh_main_weapon_abilities_skabscrathflying_currently">
+<invalid_target>flying_currently</invalid_target>
+<special_ability>wh_main_weapon_abilities_skabscrath</special_ability>
+</special_ability_to_invalid_target_flags>
+<special_ability_to_invalid_target_flags record_uuid="{161d675c-9878-4f7d-bbf2-85c5923c260c}" record_timestamp="1479333368205" record_key="wh_pro02_item_abilities_blood_chalice_of_bathoriunit_is_not_commander_class">
+<invalid_target>unit_is_not_commander_class</invalid_target>
+<special_ability>wh_pro02_item_abilities_blood_chalice_of_bathori</special_ability>
+</special_ability_to_invalid_target_flags>
+</dataroot>

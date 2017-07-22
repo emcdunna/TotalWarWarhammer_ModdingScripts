@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personalities_task_management_system_task_generator_profiles.xsd" export_time="Fri Jan 20 14:29:50 2017" revision="27" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>347f5a47-7c2d-474b-bc48-09851b125f81</edit_uuid>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{7bcb280b-8432-4278-b7e3-c5cfdbd89396}" record_timestamp="1455626115003" record_key="aggressive_anti_player_raider_task_generator_profile">
+<default_generator_group>aggressive_anti_player_raider</default_generator_group>
+<key>aggressive_anti_player_raider_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{674d063a-a6b5-4c3c-ad39-3be8de38dd91}" record_timestamp="1454089989688" record_key="aggressive_anti_player_recoloniser_task_generator_profile">
+<default_generator_group>basic</default_generator_group>
+<key>aggressive_anti_player_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{a201168b-b0ae-43ae-a181-5633073b06cf}" record_timestamp="1448903283942" record_key="aggressive_anti_player_task_generator_profile">
+<default_generator_group>aggressive_anti_player</default_generator_group>
+<key>aggressive_anti_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{c3c0138c-af68-4ce3-af22-56d2fea38ae2}" record_timestamp="1455626114660" record_key="aggressive_avoid_player_raider_task_generator_profile">
+<default_generator_group>aggressive_avoid_player_raider</default_generator_group>
+<key>aggressive_avoid_player_raider_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{79e602d1-8994-4af2-8a40-845d97305f96}" record_timestamp="1454089989832" record_key="aggressive_avoid_player_recoloniser_task_generator_profile">
+<default_generator_group>basic</default_generator_group>
+<key>aggressive_avoid_player_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{bee1be6e-eaef-4ab4-b1ae-da636f9d4728}" record_timestamp="1440090148602" record_key="aggressive_avoid_player_task_generator_profile">
+<default_generator_group>aggressive_avoid_player</default_generator_group>
+<key>aggressive_avoid_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{851504d9-df2e-452b-b879-aa22e9d24575}" record_timestamp="1454089989978" record_key="aggressive_destroyer_anti_player_recoloniser_task_generator_profile">
+<default_generator_group>basic</default_generator_group>
+<key>aggressive_destroyer_anti_player_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{7508b4db-e91c-476b-a8d8-d11da868c755}" record_timestamp="1448903283868" record_key="aggressive_destroyer_anti_player_task_generator_profile">
+<default_generator_group>aggressive_destroyer_anti_player</default_generator_group>
+<key>aggressive_destroyer_anti_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{5f9b056d-8f5c-47b9-a50a-1225b58fdb67}" record_timestamp="1454089990122" record_key="aggressive_destroyer_avoid_player_recoloniser_task_generator_profile">
+<default_generator_group>basic</default_generator_group>
+<key>aggressive_destroyer_avoid_player_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{7ed2b2cc-9aed-4f77-90b1-228984f04066}" record_timestamp="1440090148799" record_key="aggressive_destroyer_avoid_player_task_generator_profile">
+<default_generator_group>aggressive_destroyer_avoid_player</default_generator_group>
+<key>aggressive_destroyer_avoid_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{a84443f2-0b2f-44b4-b564-7a586642a3b5}" record_timestamp="1454089990266" record_key="aggressive_destroyer_recoloniser_task_generator_profile">
+<default_generator_group>basic</default_generator_group>
+<key>aggressive_destroyer_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{7d7af399-7d70-4780-b203-b79ab426b643}" record_timestamp="1440089000244" record_key="aggressive_destroyer_task_generator_profile">
+<default_generator_group>aggressive_destroyer</default_generator_group>
+<key>aggressive_destroyer_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{7f7dad6f-803e-484c-8d44-821843f4a2b2}" record_timestamp="1455626114729" record_key="aggressive_no_attack_chaos_anti_player_raider_task_generator_profile">
+<default_generator_group>aggressive_no_attack_chaos_anti_player_raider</default_generator_group>
+<key>aggressive_no_attack_chaos_anti_player_raider_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{2f3f9297-643c-4e30-8d29-f090065c4365}" record_timestamp="1454089990410" record_key="aggressive_no_attack_chaos_anti_player_recoloniser_task_generator_profile">
+<default_generator_group>aggressive_no_target_chaos_anti_player_recoloniser</default_generator_group>
+<key>aggressive_no_attack_chaos_anti_player_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{018e3b0c-fb71-4ed5-bae3-2b1518aba0b2}" record_timestamp="1448903283844" record_key="aggressive_no_attack_chaos_anti_player_task_generator_profile">
+<default_generator_group>aggressive_no_target_chaos_anti_player</default_generator_group>
+<key>aggressive_no_attack_chaos_anti_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{403b6e3e-88d5-4aaf-8634-2f99e6353d79}" record_timestamp="1455626114797" record_key="aggressive_no_attack_chaos_avoid_player_raider_task_generator_profile">
+<default_generator_group>aggressive_no_attack_chaos_avoid_player_raider</default_generator_group>
+<key>aggressive_no_attack_chaos_avoid_player_raider_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{42493744-cb68-405a-ae54-e232ba11b92c}" record_timestamp="1454089990699" record_key="aggressive_no_attack_chaos_avoid_player_recoloniser_task_generator_profile">
+<default_generator_group>aggressive_no_target_chaos_avoid_player_recoloniser</default_generator_group>
+<key>aggressive_no_attack_chaos_avoid_player_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{25059096-23c0-4695-8586-dda28076ec75}" record_timestamp="1440090148701" record_key="aggressive_no_attack_chaos_avoid_player_task_generator_profile">
+<default_generator_group>aggressive_no_target_chaos_avoid_player</default_generator_group>
+<key>aggressive_no_attack_chaos_avoid_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{e84ff7dc-8b20-4742-bd4f-c728eeec93fd}" record_timestamp="1455626114866" record_key="aggressive_no_attack_chaos_raider_task_generator_profile">
+<default_generator_group>aggressive_no_attack_chaos_raider</default_generator_group>
+<key>aggressive_no_attack_chaos_raider_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{97536d52-4499-4656-906a-c1d656313518}" record_timestamp="1454089990554" record_key="aggressive_no_attack_chaos_recoloniser_task_generator_profile">
+<default_generator_group>aggressive_no_target_chaos_recoloniser</default_generator_group>
+<key>aggressive_no_attack_chaos_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{22184bb7-a814-4f39-97fc-e91d4e8c7bfb}" record_timestamp="1440089023162" record_key="aggressive_no_attack_chaos_task_generator_profile">
+<default_generator_group>aggressive_no_target_chaos</default_generator_group>
+<key>aggressive_no_attack_chaos_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{3c7d83ca-6bac-4202-9f6d-0797db190d5b}" record_timestamp="1455626114934" record_key="aggressive_raider_task_generator_profile">
+<default_generator_group>aggressive_raider</default_generator_group>
+<key>aggressive_raider_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{69ee029e-27ef-44d8-9f01-b464bdff35ac}" record_timestamp="1454089990852" record_key="aggressive_recoloniser_task_generator_profile">
+<default_generator_group>basic</default_generator_group>
+<key>aggressive_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{ef26caff-7c88-41dc-8fbd-8168180f13eb}" record_timestamp="1440089001154" record_key="aggressive_task_generator_profile">
+<default_generator_group>aggressive</default_generator_group>
+<key>aggressive_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{025a3aa5-f4a9-41d5-89d5-9506a205a7bb}" record_timestamp="1449069298459" record_key="default_allied_anti_player_task_generator_profile">
+<default_generator_group>basic_allied_anti_player</default_generator_group>
+<key>default_allied_anti_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{3743d460-aa78-4c39-968b-156c078d31db}" record_timestamp="1449069298295" record_key="default_allied_avoid_player_task_generator_profile">
+<default_generator_group>basic_allied_avoid_player</default_generator_group>
+<key>default_allied_avoid_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{0a83112b-1da3-448e-9dc3-324afb3ffbf3}" record_timestamp="1449069298513" record_key="default_allied_task_generator_profile">
+<default_generator_group>basic_allied</default_generator_group>
+<key>default_allied_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{a1c5a250-64be-4e59-b9bc-3afd029308c2}" record_timestamp="1454089992803" record_key="default_anti_player_opportunist_task_generator_profile">
+<default_generator_group>basic_anti_player_opportunist</default_generator_group>
+<key>default_anti_player_opportunist_task_generator_profile</key>
+<long_description>personality_desc_long_opportunist</long_description>
+<short_description>personality_desc_short_opportunist</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{5d2951f8-a1f7-436b-98cf-7756158e97a3}" record_timestamp="1454089990998" record_key="default_anti_player_recoloniser_task_generator_profile">
+<default_generator_group>basic</default_generator_group>
+<key>default_anti_player_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{5412b523-04f4-4869-ae21-706516d526cd}" record_timestamp="1448903283917" record_key="default_anti_player_task_generator_profile">
+<default_generator_group>defensive_anti_player</default_generator_group>
+<key>default_anti_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{4dd6ad9c-2d71-47df-8a79-0afb132595f6}" record_timestamp="1454089992954" record_key="default_avoid_player_opportunist_task_generator_profile">
+<default_generator_group>basic_avoid_player_opportunist</default_generator_group>
+<key>default_avoid_player_opportunist_task_generator_profile</key>
+<long_description>personality_desc_long_opportunist</long_description>
+<short_description>personality_desc_short_opportunist</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{c1041779-8775-49ad-b12b-fed39321a8cf}" record_timestamp="1454089991144" record_key="default_avoid_player_recoloniser_task_generator_profile">
+<default_generator_group>basic</default_generator_group>
+<key>default_avoid_player_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{0e753ca2-fd41-41ff-b24c-b270d5aecebc}" record_timestamp="1440090149097" record_key="default_avoid_player_task_generator_profile">
+<default_generator_group>basic_avoid_player</default_generator_group>
+<key>default_avoid_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{8f7d7029-2515-49d8-a666-02e59132952b}" record_timestamp="1454089993104" record_key="default_no_attack_chaos_anti_player_opportunist_task_generator_profile">
+<default_generator_group>basic_no_target_chaos_anti_player_opportunist</default_generator_group>
+<key>default_no_attack_chaos_anti_player_opportunist_task_generator_profile</key>
+<long_description>personality_desc_long_opportunist</long_description>
+<short_description>personality_desc_short_opportunist</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{0e55e2bb-d4cb-4041-a86a-b7a588622fbf}" record_timestamp="1454089991449" record_key="default_no_attack_chaos_anti_player_recoloniser_task_generator_profile">
+<default_generator_group>basic_no_target_chaos_anti_player_recoloniser</default_generator_group>
+<key>default_no_attack_chaos_anti_player_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{6e3972e8-78a5-423b-b7ff-5f42fa00674f}" record_timestamp="1448903283893" record_key="default_no_attack_chaos_anti_player_task_generator_profile">
+<default_generator_group>defensive_no_target_chaos_anti_player</default_generator_group>
+<key>default_no_attack_chaos_anti_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{102cf4a9-d425-4f14-829b-7b8780471ffd}" record_timestamp="1454089993255" record_key="default_no_attack_chaos_avoid_player_opportunist_task_generator_profile">
+<default_generator_group>basic_no_target_chaos_avoid_player_opportunist</default_generator_group>
+<key>default_no_attack_chaos_avoid_player_opportunist_task_generator_profile</key>
+<long_description>personality_desc_long_opportunist</long_description>
+<short_description>personality_desc_short_opportunist</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{be73a708-1c3e-40ff-9b35-0c77ca446838}" record_timestamp="1454089991293" record_key="default_no_attack_chaos_avoid_player_recoloniser_task_generator_profile">
+<default_generator_group>basic_no_target_chaos_avoid_player_recoloniser</default_generator_group>
+<key>default_no_attack_chaos_avoid_player_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{2dfe98bf-c64e-422e-9af9-010a4df71c20}" record_timestamp="1440090148502" record_key="default_no_attack_chaos_avoid_player_task_generator_profile">
+<default_generator_group>basic_no_target_chaos_avoid_player</default_generator_group>
+<key>default_no_attack_chaos_avoid_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{9e1d00c4-57ad-4b8b-bbb5-ab77dc11310f}" record_timestamp="1454089993405" record_key="default_no_attack_chaos_opportunist_task_generator_profile">
+<default_generator_group>basic_no_target_chaos_opportunist</default_generator_group>
+<key>default_no_attack_chaos_opportunist_task_generator_profile</key>
+<long_description>personality_desc_long_opportunist</long_description>
+<short_description>personality_desc_short_opportunist</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{1f074a42-04c4-4aac-b8c4-e42a846880cc}" record_timestamp="1454089991599" record_key="default_no_attack_chaos_recoloniser_task_generator_profile">
+<default_generator_group>basic_no_target_chaos_recoloniser</default_generator_group>
+<key>default_no_attack_chaos_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{049e63aa-cc67-4ca6-8ebb-410dd9e20e66}" record_timestamp="1440089023265" record_key="default_no_attack_chaos_task_generator_profile">
+<default_generator_group>basic_no_target_chaos</default_generator_group>
+<key>default_no_attack_chaos_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{c4554add-7d82-4c68-9d3e-e86499f5ff31}" record_timestamp="1454089993556" record_key="default_opportunist_task_generator_profile">
+<default_generator_group>basic_opportunist</default_generator_group>
+<key>default_opportunist_task_generator_profile</key>
+<long_description>personality_desc_long_opportunist</long_description>
+<short_description>personality_desc_short_opportunist</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{1f0a5dbd-74c6-4aaf-81ea-1e314a746033}" record_timestamp="1454089991752" record_key="default_recoloniser_task_generator_profile">
+<default_generator_group>basic</default_generator_group>
+<key>default_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{f592e28f-6a86-4a4d-880f-dc0c9ce7d3b3}" record_timestamp="1440089008076" record_key="default_task_generator_profile">
+<default_generator_group>basic</default_generator_group>
+<key>default_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{23053fd8-545a-45e3-92f2-4707f899c54f}" record_timestamp="1440089020087" record_key="default_waagh_task_generator_profile">
+<default_generator_group>waaagh</default_generator_group>
+<key>default_waagh_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{d0b37a5a-52d7-42cf-837c-1c0a35107c4b}" record_timestamp="1449069298405" record_key="defensive_allied_anti_player_task_generator_profile">
+<default_generator_group>defensive_allied_anti_player</default_generator_group>
+<key>defensive_allied_anti_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{32c33fb9-f579-4882-aa5b-e986d7709089}" record_timestamp="1449069298350" record_key="defensive_allied_avoid_player_task_generator_profile">
+<default_generator_group>defensive_allied_avoid_player</default_generator_group>
+<key>defensive_allied_avoid_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{61ebf384-38eb-41de-bdc2-a6001e3f60ca}" record_timestamp="1449069298239" record_key="defensive_allied_task_generator_profile">
+<default_generator_group>defensive_allied</default_generator_group>
+<key>defensive_allied_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{a86b4af6-c603-4aa5-851e-28963c8d71ed}" record_timestamp="1454089991907" record_key="defensive_anti_player_recoloniser_task_generator_profile">
+<default_generator_group>basic</default_generator_group>
+<key>defensive_anti_player_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{7639bbb7-eb53-49e1-bc06-eef2ed144930}" record_timestamp="1448903283993" record_key="defensive_anti_player_task_generator_profile">
+<default_generator_group>defensive_anti_player</default_generator_group>
+<key>defensive_anti_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{fece36dd-bcf1-42eb-a395-c6a2d8c1eceb}" record_timestamp="1454089992059" record_key="defensive_avoid_player_recoloniser_task_generator_profile">
+<default_generator_group>basic</default_generator_group>
+<key>defensive_avoid_player_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{331f8d41-821f-4eea-be6a-7334a8ef2652}" record_timestamp="1440090148898" record_key="defensive_avoid_player_task_generator_profile">
+<default_generator_group>defensive_avoid_player</default_generator_group>
+<key>defensive_avoid_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{c17e2cc0-45c1-4dbc-9e97-ea1a8053871b}" record_timestamp="1454089992207" record_key="defensive_no_attack_chaos_anti_player_recoloniser_task_generator_profile">
+<default_generator_group>defensive_no_target_chaos_anti_player_recoloniser</default_generator_group>
+<key>defensive_no_attack_chaos_anti_player_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{a4021ab1-63b4-45dc-8101-2e6a5bf93fc7}" record_timestamp="1448903283967" record_key="defensive_no_attack_chaos_anti_player_task_generator_profile">
+<default_generator_group>defensive_no_target_chaos_anti_player</default_generator_group>
+<key>defensive_no_attack_chaos_anti_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{75e4e777-a333-442c-a3ef-9711f6ff6cb9}" record_timestamp="1454089992356" record_key="defensive_no_attack_chaos_avoid_player_recoloniser_task_generator_profile">
+<default_generator_group>defensive_no_target_chaos_avoid_player_recoloniser</default_generator_group>
+<key>defensive_no_attack_chaos_avoid_player_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{e84899c8-baa7-4159-81e4-e3c5ac905955}" record_timestamp="1440090148996" record_key="defensive_no_attack_chaos_avoid_player_task_generator_profile">
+<default_generator_group>defensive_no_target_chaos_avoid_player</default_generator_group>
+<key>defensive_no_attack_chaos_avoid_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{14af98c2-43b8-4d48-a792-88d673789751}" record_timestamp="1454089992504" record_key="defensive_no_attack_chaos_recoloniser_task_generator_profile">
+<default_generator_group>defensive_no_target_chaos_recoloniser</default_generator_group>
+<key>defensive_no_attack_chaos_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{5e637ed6-1075-4ca6-89fb-23cc092377e4}" record_timestamp="1440089023367" record_key="defensive_no_attack_chaos_task_generator_profile">
+<default_generator_group>defensive_no_target_chaos</default_generator_group>
+<key>defensive_no_attack_chaos_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{04cec448-20ef-4e8d-9582-e843ecd2643c}" record_timestamp="1454089992652" record_key="defensive_recoloniser_task_generator_profile">
+<default_generator_group>basic</default_generator_group>
+<key>defensive_recoloniser_task_generator_profile</key>
+<long_description>personality_desc_long_recoloniser</long_description>
+<short_description>personality_desc_short_recoloniser</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{3558c76a-4d40-4afb-9b20-41feaec6d502}" record_timestamp="1440089014061" record_key="defensive_task_generator_profile">
+<default_generator_group>defensive</default_generator_group>
+<key>defensive_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{306e95bb-ae4e-46e1-a630-7d7962f672de}" record_timestamp="1469454492069" record_key="dlc03_aggressive_no_raiding_for_morale">
+<default_generator_group>dlc03_aggressive_anti_player_raider</default_generator_group>
+<key>dlc03_aggressive_no_raiding_for_morale</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{6b06e3dc-5b70-432c-92a8-718938514037}" record_timestamp="1460532114721" record_key="dlc03_defensive_anti_player_no_colony">
+<default_generator_group>defensive_anti_player</default_generator_group>
+<key>dlc03_defensive_anti_player_no_colony</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{0755c6c6-aaa9-446f-9f88-5fcbf8c20541}" record_timestamp="1481036607050" record_key="dlc05_beastmen_victory_wood_elves_task_generator_profile_1">
+<default_generator_group>dlc05_beastmen_victory_region_wood_elves_1</default_generator_group>
+<key>dlc05_beastmen_victory_wood_elves_task_generator_profile_1</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{a5819d0d-f74e-4bed-8ae3-047ce28d7dca}" record_timestamp="1481036607050" record_key="dlc05_beastmen_victory_wood_elves_task_generator_profile_2">
+<default_generator_group>dlc05_beastmen_victory_region_wood_elves_2</default_generator_group>
+<key>dlc05_beastmen_victory_wood_elves_task_generator_profile_2</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{4246c517-6d52-4b9f-a24a-a2d5c5704a29}" record_timestamp="1481036607051" record_key="dlc05_beastmen_victory_wood_elves_task_generator_profile_3">
+<default_generator_group>dlc05_beastmen_victory_region_wood_elves_3</default_generator_group>
+<key>dlc05_beastmen_victory_wood_elves_task_generator_profile_3</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{2244a78f-af28-4ee5-93c0-16e32c9e12aa}" record_timestamp="1481036607052" record_key="dlc05_beastmen_victory_wood_elves_task_generator_profile_4">
+<default_generator_group>dlc05_beastmen_victory_region_wood_elves_4</default_generator_group>
+<key>dlc05_beastmen_victory_wood_elves_task_generator_profile_4</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{492bbfd5-f596-46b2-bc12-87c04ae8578d}" record_timestamp="1481036607045" record_key="dlc05_brettonia_main_victory_wood_elves_generator_profile_1">
+<default_generator_group>dlc05_brettonia_main_victory_region_wood_elves_1</default_generator_group>
+<key>dlc05_brettonia_main_victory_wood_elves_generator_profile_1</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{4d78306b-90ba-4ab9-be59-4d1d2e43b149}" record_timestamp="1481036607046" record_key="dlc05_brettonia_main_victory_wood_elves_generator_profile_2">
+<default_generator_group>dlc05_brettonia_main_victory_region_wood_elves_2</default_generator_group>
+<key>dlc05_brettonia_main_victory_wood_elves_generator_profile_2</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{ae14023e-a43c-4bc7-837c-06668b27aad5}" record_timestamp="1481036607046" record_key="dlc05_brettonia_main_victory_wood_elves_generator_profile_3">
+<default_generator_group>dlc05_brettonia_main_victory_region_wood_elves_3</default_generator_group>
+<key>dlc05_brettonia_main_victory_wood_elves_generator_profile_3</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{5d4366d6-0f60-435e-aff3-e3fddc15a5bf}" record_timestamp="1481036607047" record_key="dlc05_brettonia_main_victory_wood_elves_task_generator_profile_4">
+<default_generator_group>dlc05_brettonia_main_victory_region_wood_elves_4</default_generator_group>
+<key>dlc05_brettonia_main_victory_wood_elves_task_generator_profile_4</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{35e56be4-c99e-4ad5-8bce-ecea4077cea2}" record_timestamp="1481036607047" record_key="dlc05_brettonia_rest_victory_wood_elves_task_generator_profile_1">
+<default_generator_group>dlc05_brettonia_rest_victory_region_wood_elves_1</default_generator_group>
+<key>dlc05_brettonia_rest_victory_wood_elves_task_generator_profile_1</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{2619cf0b-d135-4d60-9024-9a080fbe8cf4}" record_timestamp="1481036607048" record_key="dlc05_brettonia_rest_victory_wood_elves_task_generator_profile_2">
+<default_generator_group>dlc05_brettonia_rest_victory_region_wood_elves_2</default_generator_group>
+<key>dlc05_brettonia_rest_victory_wood_elves_task_generator_profile_2</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{63ab7e80-6c78-47a1-9664-52007241a172}" record_timestamp="1481036607049" record_key="dlc05_brettonia_rest_victory_wood_elves_task_generator_profile_3">
+<default_generator_group>dlc05_brettonia_rest_victory_region_wood_elves_3</default_generator_group>
+<key>dlc05_brettonia_rest_victory_wood_elves_task_generator_profile_3</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{a345fe76-f664-4ab6-b80f-44c4ff463c0c}" record_timestamp="1481036607049" record_key="dlc05_brettonia_rest_victory_wood_elves_task_generator_profile_4">
+<default_generator_group>dlc05_brettonia_rest_victory_region_wood_elves_4</default_generator_group>
+<key>dlc05_brettonia_rest_victory_wood_elves_task_generator_profile_4</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{644cc326-605d-4798-b83f-c4f2fcee5840}" record_timestamp="1484922586300" record_key="isolationist_task_generator_profile">
+<default_generator_group>isolationist</default_generator_group>
+<key>isolationist_task_generator_profile</key>
+<long_description>dlc05_personality_desc_long_isolationist</long_description>
+<short_description>dlc05_personality_desc_short_isolationist</short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+<cai_personalities_task_management_system_task_generator_profiles record_uuid="{9b2deb78-933f-4ced-ba9a-4212938f294c}" record_timestamp="1477035592171" record_key="pro01_aggressive_anti_player_task_generator_profile">
+<default_generator_group>dlc06_aggressive_anti_player</default_generator_group>
+<key>pro01_aggressive_anti_player_task_generator_profile</key>
+<long_description></long_description>
+<short_description></short_description>
+</cai_personalities_task_management_system_task_generator_profiles>
+</dataroot>

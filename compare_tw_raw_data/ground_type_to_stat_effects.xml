@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ground_type_to_stat_effects.xsd" export_time="Tue Dec 6 15:40:33 2016" revision="21" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>45678595-8b28-4216-bc68-cb9e766450d8</edit_uuid>
+<ground_type_to_stat_effects record_uuid="{1266fb93-2582-4ee8-9470-12c85af4b70b}" record_timestamp="1436366783877" record_key="deep_waterscalar_speed">
+<affected_group></affected_group>
+<affected_stat>scalar_speed</affected_stat>
+<ground_type>deep_water</ground_type>
+<multiplier>0.7</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{402f12d5-acc0-4938-b567-eef585b2d9ae}" record_timestamp="1477041652072" record_key="forestscalar_speedelves_wef">
+<affected_group>elves_wef</affected_group>
+<affected_stat>scalar_speed</affected_stat>
+<ground_type>forest</ground_type>
+<multiplier>1.1</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{c1bae8e3-56ed-46e1-9114-1d12d67d108e}" record_timestamp="1443779216849" record_key="forestscalar_speedlarge">
+<affected_group>large</affected_group>
+<affected_stat>scalar_speed</affected_stat>
+<ground_type>forest</ground_type>
+<multiplier>0.8</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{7220f55f-fb7e-45b5-9430-a0adc4588869}" record_timestamp="1481038831890" record_key="foreststat_accuracyelves_wef">
+<affected_group>elves_wef</affected_group>
+<affected_stat>stat_accuracy</affected_stat>
+<ground_type>forest</ground_type>
+<multiplier>1.5</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{a337690c-6079-4fdf-bf20-e2a5b7de0165}" record_timestamp="1443779216932" record_key="foreststat_melee_attacklarge">
+<affected_group>large</affected_group>
+<affected_stat>stat_melee_attack</affected_stat>
+<ground_type>forest</ground_type>
+<multiplier>0.8</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{61d7d2d2-c38f-43ba-9694-8b72ab0235dd}" record_timestamp="1436366783877" record_key="rockscalar_speed">
+<affected_group></affected_group>
+<affected_stat>scalar_speed</affected_stat>
+<ground_type>rock</ground_type>
+<multiplier>0.95</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{79a17e2e-a42b-4315-bf30-943cdf34662c}" record_timestamp="1445591560228" record_key="rockscalar_speedethereal">
+<affected_group>ethereal</affected_group>
+<affected_stat>scalar_speed</affected_stat>
+<ground_type>rock</ground_type>
+<multiplier>1</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{5d348a60-172d-4697-b719-0e9f0f7bd83b}" record_timestamp="1436366783877" record_key="scrubscalar_speed">
+<affected_group></affected_group>
+<affected_stat>scalar_speed</affected_stat>
+<ground_type>scrub</ground_type>
+<multiplier>0.95</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{8c9dce7f-0957-46d0-ae6c-47305604f449}" record_timestamp="1445591560238" record_key="scrubscalar_speedethereal">
+<affected_group>ethereal</affected_group>
+<affected_stat>scalar_speed</affected_stat>
+<ground_type>scrub</ground_type>
+<multiplier>1</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{f1eb4aed-8982-42ab-84c0-fd4cc21ecca0}" record_timestamp="1477041652073" record_key="shallow_waterscalar_speedelves_wef">
+<affected_group>elves_wef</affected_group>
+<affected_stat>scalar_speed</affected_stat>
+<ground_type>shallow_water</ground_type>
+<multiplier>0.8</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{dcf5537b-33b2-4b94-be10-a7fa10122769}" record_timestamp="1444834901280" record_key="shallow_waterscalar_speedsmall">
+<affected_group>small</affected_group>
+<affected_stat>scalar_speed</affected_stat>
+<ground_type>shallow_water</ground_type>
+<multiplier>0.8</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{da282d4e-381d-42a6-b1a2-d5cc0aad530d}" record_timestamp="1477041652075" record_key="shallow_waterstat_melee_attackelves_wef">
+<affected_group>elves_wef</affected_group>
+<affected_stat>stat_melee_attack</affected_stat>
+<ground_type>shallow_water</ground_type>
+<multiplier>0.8</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{586536ef-c490-416e-a6e0-4bf92f18cada}" record_timestamp="1444834901338" record_key="shallow_waterstat_melee_attacksmall">
+<affected_group>small</affected_group>
+<affected_stat>stat_melee_attack</affected_stat>
+<ground_type>shallow_water</ground_type>
+<multiplier>0.8</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{7607456c-010b-4f0c-b7ad-a1a6c7811032}" record_timestamp="1436366783877" record_key="sharp_stonesscalar_speed">
+<affected_group></affected_group>
+<affected_stat>scalar_speed</affected_stat>
+<ground_type>sharp_stones</ground_type>
+<multiplier>0.7</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{8059f4c0-140f-4779-a0e2-bd069fbfce32}" record_timestamp="1445591560181" record_key="sharp_stonesscalar_speedlarge">
+<affected_group>large</affected_group>
+<affected_stat>scalar_speed</affected_stat>
+<ground_type>sharp_stones</ground_type>
+<multiplier>1</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{8023b502-ddc5-46de-b55e-4246ccb27efb}" record_timestamp="1466598022124" record_key="sharp_stonesscalar_speedlarge_bst">
+<affected_group>large_bst</affected_group>
+<affected_stat>scalar_speed</affected_stat>
+<ground_type>sharp_stones</ground_type>
+<multiplier>1</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{706b1e6d-6692-493d-9ed9-b48707a6668f}" record_timestamp="1477041652074" record_key="snowscalar_speedelves_wef">
+<affected_group>elves_wef</affected_group>
+<affected_stat>scalar_speed</affected_stat>
+<ground_type>snow</ground_type>
+<multiplier>0.8</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{e3b9be1b-9c8a-49e0-8a0c-f31cd5ac6123}" record_timestamp="1445591560158" record_key="snowscalar_speedsmall">
+<affected_group>small</affected_group>
+<affected_stat>scalar_speed</affected_stat>
+<ground_type>snow</ground_type>
+<multiplier>0.8</multiplier>
+</ground_type_to_stat_effects>
+<ground_type_to_stat_effects record_uuid="{1219e3f1-bb1d-4335-8027-4346a0003062}" record_timestamp="1445591560214" record_key="snowstat_melee_attackethereal">
+<affected_group>ethereal</affected_group>
+<affected_stat>stat_melee_attack</affected_stat>
+<ground_type>snow</ground_type>
+<multiplier>1</multiplier>
+</ground_type_to_stat_effects>
+</dataroot>

@@ -1,0 +1,2054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdir_military_generator_template_ratios.xsd" export_time="Thu Feb 16 13:49:43 2017" revision="49" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>4c726129-3315-4eb8-81f1-ff3f079acacd</edit_uuid>
+<cdir_military_generator_template_ratios record_uuid="{21811410-c512-444b-baa2-665c1ed36ee5}" record_timestamp="1481036622981" record_key="WH_Beastmen_landDefault_land_animal_pack">
+<ratio>1</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_animal_pack</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f47141e7-decc-48f8-b8fa-9943584ffc38}" record_timestamp="1481036622980" record_key="WH_Beastmen_landDefault_land_animal_pack_flying">
+<ratio>5</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_animal_pack_flying</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{aa6c0336-1673-4f81-8d1d-730674bf898e}" record_timestamp="1471865780012" record_key="WH_Beastmen_landDefault_land_artillery">
+<ratio>15</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c2bd3619-cd8c-4533-8598-ca369193f290}" record_timestamp="1471865780013" record_key="WH_Beastmen_landDefault_land_cavalry_melee">
+<ratio>3</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f249ae19-28f6-4290-9697-008ddf9ec907}" record_timestamp="1471865780013" record_key="WH_Beastmen_landDefault_land_cavalry_missile">
+<ratio>3</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{a237735a-9670-431b-b3b6-a59c83ae9a6a}" record_timestamp="1471865780014" record_key="WH_Beastmen_landDefault_land_cavalry_shock">
+<ratio>4</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_cavalry_shock</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{3ff2bc50-7c15-480b-b87b-781066a4a1ac}" record_timestamp="1471865780014" record_key="WH_Beastmen_landDefault_land_command">
+<ratio>15</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{de8797f2-701d-4de7-a92d-7a04b57f4b78}" record_timestamp="1471865780015" record_key="WH_Beastmen_landDefault_land_giant">
+<ratio>1</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_giant</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{694b2cfc-239b-40c2-9362-fb23b7891d4c}" record_timestamp="1471865780015" record_key="WH_Beastmen_landDefault_land_infantry_melee">
+<ratio>15</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8816ccd8-d86e-4d06-b738-29e56ea9b609}" record_timestamp="1470396363182" record_key="WH_Beastmen_landDefault_land_infantry_missile">
+<ratio>5</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e79a9e8e-c7dd-4061-a848-611854bae947}" record_timestamp="1471865780016" record_key="WH_Beastmen_landDefault_land_infantry_monterous">
+<ratio>1</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{d2947e8e-8779-484b-9501-712ac0fdbf5c}" record_timestamp="1471865780016" record_key="WH_Beastmen_landDefault_land_infantry_spearmen">
+<ratio>10</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4029ca1a-06a1-45cd-b75f-16c87b5f15e1}" record_timestamp="1471865780016" record_key="WH_Beastmen_landDefault_land_magic">
+<ratio>10</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{eda2fd04-004d-4f6e-9a71-8b6cbb4f3b62}" record_timestamp="1471865780017" record_key="WH_Beastmen_landDefault_land_monster">
+<ratio>10</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2c5f8a63-40cf-4e6f-a6a7-7819e5e8fc72}" record_timestamp="1400161447229" record_key="WH_Beastmen_landDefault_land_vehicle">
+<ratio>1</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{56d42224-388c-48b9-80dd-063d57de205d}" record_timestamp="1400161450562" record_key="WH_Beastmen_landDefault_land_vehicle_flying">
+<ratio>1</ratio>
+<template_key>WH_Beastmen_land</template_key>
+<unit_group_key>Default_land_vehicle_flying</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{da03584c-c75f-42c8-aeb0-338af5899d9c}" record_timestamp="1486548377758" record_key="WH_Bretonnia_landDefault_land_artillery">
+<ratio>5</ratio>
+<template_key>WH_Bretonnia_land</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{d48e048f-19df-4c81-818a-2ba8a50c39cf}" record_timestamp="1485515606033" record_key="WH_Bretonnia_landDefault_land_aura">
+<ratio>1</ratio>
+<template_key>WH_Bretonnia_land</template_key>
+<unit_group_key>Default_land_aura</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{a8e3856e-dab4-498b-a562-fcf3f1c7034b}" record_timestamp="1486548377777" record_key="WH_Bretonnia_landDefault_land_cavalry_melee">
+<ratio>34</ratio>
+<template_key>WH_Bretonnia_land</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{9058bb9d-57c2-408c-901c-1cbe3a7de0fd}" record_timestamp="1482333374562" record_key="WH_Bretonnia_landDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_Bretonnia_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1b2c857b-844f-4cf9-8efb-c6a7897c122a}" record_timestamp="1485515607855" record_key="WH_Bretonnia_landDefault_land_infantry_melee">
+<ratio>20</ratio>
+<template_key>WH_Bretonnia_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{3733b903-1591-4c82-9cee-8ae5009d0ddf}" record_timestamp="1482333374562" record_key="WH_Bretonnia_landDefault_land_infantry_missile">
+<ratio>20</ratio>
+<template_key>WH_Bretonnia_land</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{82f245f5-a5ea-49f0-be60-665b333be33a}" record_timestamp="1438951620097" record_key="WH_Bretonnia_landDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_Bretonnia_land</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{247be0d2-c039-4c28-94ad-f992a7f62039}" record_timestamp="1485515607995" record_key="WH_Bretonnia_landDefault_land_support">
+<ratio>15</ratio>
+<template_key>WH_Bretonnia_land</template_key>
+<unit_group_key>Default_land_support</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{620833e7-2e14-4074-a847-7661a2219913}" record_timestamp="1485515608324" record_key="WH_Bretonnia_land_cavDefault_land_artillery">
+<ratio>5</ratio>
+<template_key>WH_Bretonnia_land_cav</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c3058665-573c-4d7c-8c56-eef865d4f2ef}" record_timestamp="1485515608183" record_key="WH_Bretonnia_land_cavDefault_land_aura">
+<ratio>1</ratio>
+<template_key>WH_Bretonnia_land_cav</template_key>
+<unit_group_key>Default_land_aura</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{3fdb06d2-0801-4c9d-b9be-60753ada99ca}" record_timestamp="1485515608219" record_key="WH_Bretonnia_land_cavDefault_land_cavalry_melee">
+<ratio>60</ratio>
+<template_key>WH_Bretonnia_land_cav</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8d6db01e-4caa-4aff-beba-da8997f86493}" record_timestamp="1485515608254" record_key="WH_Bretonnia_land_cavDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_Bretonnia_land_cav</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{d8a56598-c33a-4aec-bc70-d05b89362994}" record_timestamp="1485515608288" record_key="WH_Bretonnia_land_cavDefault_land_infantry_melee">
+<ratio>10</ratio>
+<template_key>WH_Bretonnia_land_cav</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{84d38d64-3cb1-43d7-98e3-a358908c1fd8}" record_timestamp="1485515608360" record_key="WH_Bretonnia_land_cavDefault_land_infantry_missile">
+<ratio>10</ratio>
+<template_key>WH_Bretonnia_land_cav</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{420dc20b-549f-44e9-bb48-aa25d1a82a58}" record_timestamp="1485515608394" record_key="WH_Bretonnia_land_cavDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_Bretonnia_land_cav</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c390e9db-ab82-447c-97eb-ec3af929153c}" record_timestamp="1485515608434" record_key="WH_Bretonnia_land_cavDefault_land_support">
+<ratio>10</ratio>
+<template_key>WH_Bretonnia_land_cav</template_key>
+<unit_group_key>Default_land_support</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{bbc360ee-9c94-4b35-b05b-52921af113f1}" record_timestamp="1486548377975" record_key="WH_Bretonnia_land_flyingDefault_land_artillery">
+<ratio>5</ratio>
+<template_key>WH_Bretonnia_land_flying</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6b87bb51-a574-4afa-a118-cff0cfce72f9}" record_timestamp="1486548377946" record_key="WH_Bretonnia_land_flyingDefault_land_aura">
+<ratio>1</ratio>
+<template_key>WH_Bretonnia_land_flying</template_key>
+<unit_group_key>Default_land_aura</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e185527b-932a-4043-8afd-52c5c8adfcf4}" record_timestamp="1486548377922" record_key="WH_Bretonnia_land_flyingDefault_land_cavalry_melee">
+<ratio>20</ratio>
+<template_key>WH_Bretonnia_land_flying</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2cd5563a-0a94-4e47-b9a3-ce7deeba5c54}" record_timestamp="1486548377898" record_key="WH_Bretonnia_land_flyingDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_Bretonnia_land_flying</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e21c3fc0-b316-4f17-b4ce-50202ac27b2f}" record_timestamp="1486548377875" record_key="WH_Bretonnia_land_flyingDefault_land_infantry_melee">
+<ratio>9</ratio>
+<template_key>WH_Bretonnia_land_flying</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{17488368-9ef2-442b-8f38-3be1004bf606}" record_timestamp="1486548377855" record_key="WH_Bretonnia_land_flyingDefault_land_infantry_missile">
+<ratio>9</ratio>
+<template_key>WH_Bretonnia_land_flying</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ad70e5a0-2375-4729-b1ed-66f12e6d5665}" record_timestamp="1486548377835" record_key="WH_Bretonnia_land_flyingDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_Bretonnia_land_flying</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c7e6afe1-8d1d-4d25-9ff4-c4a9cb192b84}" record_timestamp="1486548377816" record_key="WH_Bretonnia_land_flyingDefault_land_support">
+<ratio>50</ratio>
+<template_key>WH_Bretonnia_land_flying</template_key>
+<unit_group_key>Default_land_support</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{74f980ed-0878-492d-81b1-9bbc99ba30ec}" record_timestamp="1430407328516" record_key="WH_Chaos_landDefault_land_animal_pack">
+<ratio>10</ratio>
+<template_key>WH_Chaos_land</template_key>
+<unit_group_key>Default_land_animal_pack</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{90ff8fb5-0592-433e-be8d-da52ce20d3c1}" record_timestamp="1430407328540" record_key="WH_Chaos_landDefault_land_artillery">
+<ratio>10</ratio>
+<template_key>WH_Chaos_land</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ff9b635f-2c79-43c6-ab51-c459337ff101}" record_timestamp="1430407328564" record_key="WH_Chaos_landDefault_land_cavalry_melee">
+<ratio>10</ratio>
+<template_key>WH_Chaos_land</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{48611d8e-1154-4eec-bb24-9eb895d877e0}" record_timestamp="1430407328589" record_key="WH_Chaos_landDefault_land_cavalry_missile">
+<ratio>10</ratio>
+<template_key>WH_Chaos_land</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8650ccf1-d390-46a7-876f-a1aa7dd3560f}" record_timestamp="1448619520487" record_key="WH_Chaos_landDefault_land_command">
+<ratio>5</ratio>
+<template_key>WH_Chaos_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{a684e3b5-722e-43c0-bcc1-0258ff74f583}" record_timestamp="1430407328639" record_key="WH_Chaos_landDefault_land_giant">
+<ratio>1</ratio>
+<template_key>WH_Chaos_land</template_key>
+<unit_group_key>Default_land_giant</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{28b9065a-5b3b-4b2b-bdd9-8a4addbe074d}" record_timestamp="1438951620097" record_key="WH_Chaos_landDefault_land_infantry_melee">
+<ratio>25</ratio>
+<template_key>WH_Chaos_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{a4c14dbd-6662-43f1-b42a-991c700170f0}" record_timestamp="1430407328689" record_key="WH_Chaos_landDefault_land_infantry_monterous">
+<ratio>10</ratio>
+<template_key>WH_Chaos_land</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0d7cc08d-fff8-4a8c-b294-d02aa768ec77}" record_timestamp="1438951620097" record_key="WH_Chaos_landDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_Chaos_land</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{36f31dc0-7035-4e3d-bef5-afed6c9c2685}" record_timestamp="1430407328715" record_key="WH_Chaos_landDefault_land_monster">
+<ratio>10</ratio>
+<template_key>WH_Chaos_land</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8f317d6d-5d4b-4e2b-ae6c-61062174ef08}" record_timestamp="1430407328740" record_key="WH_Chaos_landDefault_land_vehicle">
+<ratio>10</ratio>
+<template_key>WH_Chaos_land</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{636e2af6-5e0b-42d3-bb36-c0db12f1253a}" record_timestamp="1449673091016" record_key="WH_Dwarfs_landDefault_land_artillery">
+<ratio>15</ratio>
+<template_key>WH_Dwarfs_land</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{64463838-5f03-487b-8efb-09925dfa7fc8}" record_timestamp="1448619520539" record_key="WH_Dwarfs_landDefault_land_command">
+<ratio>5</ratio>
+<template_key>WH_Dwarfs_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{7ae6cd6e-c4bc-4992-ada9-04dd009c8b54}" record_timestamp="1449673091129" record_key="WH_Dwarfs_landDefault_land_infantry_melee">
+<ratio>45</ratio>
+<template_key>WH_Dwarfs_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{919c7250-ba52-41b9-a172-d02fd42f06f4}" record_timestamp="1449673091158" record_key="WH_Dwarfs_landDefault_land_infantry_missile">
+<ratio>25</ratio>
+<template_key>WH_Dwarfs_land</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{9e1ef6e6-3d28-4585-bbe6-4ced2f54dabd}" record_timestamp="1449673091045" record_key="WH_Dwarfs_landDefault_land_vehicle_flying">
+<ratio>10</ratio>
+<template_key>WH_Dwarfs_land</template_key>
+<unit_group_key>Default_land_vehicle_flying</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1613af3c-8147-459a-a804-0fc6bc66949e}" record_timestamp="1486640346366" record_key="WH_Empire_landDefault_land_artillery">
+<ratio>10</ratio>
+<template_key>WH_Empire_land</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{dd51edac-9e71-4734-ab2f-3bd9c80886cd}" record_timestamp="1486640346401" record_key="WH_Empire_landDefault_land_cavalry_melee">
+<ratio>12</ratio>
+<template_key>WH_Empire_land</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{73ba17b3-afef-4d68-ab3d-a8f297ffd238}" record_timestamp="1486640346509" record_key="WH_Empire_landDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_Empire_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0cb786d0-5ab8-4cba-a99e-a6b12cea19a8}" record_timestamp="1486640346473" record_key="WH_Empire_landDefault_land_infantry_melee">
+<ratio>40</ratio>
+<template_key>WH_Empire_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b74f7540-4c13-4410-b01f-012203c1cec8}" record_timestamp="1486640346436" record_key="WH_Empire_landDefault_land_infantry_missile">
+<ratio>22</ratio>
+<template_key>WH_Empire_land</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{63177d99-aec8-4fe8-97fa-82893b7237b6}" record_timestamp="1438951620097" record_key="WH_Empire_landDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_Empire_land</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ba2cadc3-c02e-4f50-a597-c76e3c90fbeb}" record_timestamp="1486640346331" record_key="WH_Empire_landDefault_land_support">
+<ratio>10</ratio>
+<template_key>WH_Empire_land</template_key>
+<unit_group_key>Default_land_support</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{99a86f5a-f483-4d62-83fd-f63ca974ec6b}" record_timestamp="1486401451591" record_key="WH_Greenskin_Rebels_landDefault_land_artillery">
+<ratio>1</ratio>
+<template_key>WH_Greenskin_Rebels_land</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8423fd73-bf2e-46a2-be12-ba736d0e5955}" record_timestamp="1486401451610" record_key="WH_Greenskin_Rebels_landDefault_land_cavalry_melee">
+<ratio>10</ratio>
+<template_key>WH_Greenskin_Rebels_land</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{27729ed7-92f0-4e34-aeb3-a75662bb264c}" record_timestamp="1486401451630" record_key="WH_Greenskin_Rebels_landDefault_land_cavalry_missile">
+<ratio>5</ratio>
+<template_key>WH_Greenskin_Rebels_land</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{a93a7edb-7e0d-4988-b7e2-8c8f618e0631}" record_timestamp="1486401451651" record_key="WH_Greenskin_Rebels_landDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_Greenskin_Rebels_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1a8625fe-f51a-47c4-9310-f2b80bc0ea00}" record_timestamp="1486401451681" record_key="WH_Greenskin_Rebels_landDefault_land_giant">
+<ratio>10</ratio>
+<template_key>WH_Greenskin_Rebels_land</template_key>
+<unit_group_key>Default_land_giant</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6e793524-ed64-4073-a507-9c35db27d6b7}" record_timestamp="1486401453474" record_key="WH_Greenskin_Rebels_landDefault_land_infantry_melee">
+<ratio>25</ratio>
+<template_key>WH_Greenskin_Rebels_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{98226dec-ff62-4a39-b241-236be4a7e51f}" record_timestamp="1486401451727" record_key="WH_Greenskin_Rebels_landDefault_land_infantry_missile">
+<ratio>15</ratio>
+<template_key>WH_Greenskin_Rebels_land</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{fc89e35b-04ca-4289-9c58-1d47ee931ba0}" record_timestamp="1486401451749" record_key="WH_Greenskin_Rebels_landDefault_land_infantry_monterous">
+<ratio>10</ratio>
+<template_key>WH_Greenskin_Rebels_land</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{efef9fb3-233c-4083-9764-feca995ad9c3}" record_timestamp="1486401453508" record_key="WH_Greenskin_Rebels_landDefault_land_infantry_spearmen">
+<ratio>10</ratio>
+<template_key>WH_Greenskin_Rebels_land</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{84b918cd-b4ad-4707-84a4-e0a76f4ec58f}" record_timestamp="1486401451774" record_key="WH_Greenskin_Rebels_landDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_Greenskin_Rebels_land</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{a93c37eb-7fef-4b52-8857-eb9e92fc8891}" record_timestamp="1486401451837" record_key="WH_Greenskin_Rebels_landDefault_land_monster">
+<ratio>5</ratio>
+<template_key>WH_Greenskin_Rebels_land</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0e1025af-4b3d-4528-bc60-c5f0d5c11de9}" record_timestamp="1486401451863" record_key="WH_Greenskin_Rebels_landDefault_land_vehicle">
+<ratio>5</ratio>
+<template_key>WH_Greenskin_Rebels_land</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{32ccf5f9-7872-4dc2-bd30-dae6629560a1}" record_timestamp="1461152293165" record_key="WH_Greenskins_Waaagh_landDefault_land_artillery">
+<ratio>1</ratio>
+<template_key>WH_Greenskins_Waaagh_land</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{cc188521-5fea-4ea2-b7f7-ce60e3df7cf8}" record_timestamp="1461152293164" record_key="WH_Greenskins_Waaagh_landDefault_land_cavalry_melee">
+<ratio>15</ratio>
+<template_key>WH_Greenskins_Waaagh_land</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{5ff21321-0b68-488c-b3c9-e5e160c8d05e}" record_timestamp="1461152293166" record_key="WH_Greenskins_Waaagh_landDefault_land_cavalry_missile">
+<ratio>10</ratio>
+<template_key>WH_Greenskins_Waaagh_land</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0d767be6-cc0c-45b3-a397-11585deba214}" record_timestamp="1461152293165" record_key="WH_Greenskins_Waaagh_landDefault_land_command">
+<ratio>5</ratio>
+<template_key>WH_Greenskins_Waaagh_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0e073f03-611c-475a-9ea9-17ff020779e0}" record_timestamp="1461152315521" record_key="WH_Greenskins_Waaagh_landDefault_land_giant">
+<ratio>1</ratio>
+<template_key>WH_Greenskins_Waaagh_land</template_key>
+<unit_group_key>Default_land_giant</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{38cf0f5a-cfa7-48b1-be3a-d0209d7dc13a}" record_timestamp="1461152315521" record_key="WH_Greenskins_Waaagh_landDefault_land_infantry_melee">
+<ratio>24</ratio>
+<template_key>WH_Greenskins_Waaagh_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e5010197-0e0c-4df6-8c74-29bf321fd56f}" record_timestamp="1461152293168" record_key="WH_Greenskins_Waaagh_landDefault_land_infantry_missile">
+<ratio>15</ratio>
+<template_key>WH_Greenskins_Waaagh_land</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ce67be87-ce94-42c2-b7d1-eda9e9e6bd96}" record_timestamp="1461152293167" record_key="WH_Greenskins_Waaagh_landDefault_land_infantry_monterous">
+<ratio>10</ratio>
+<template_key>WH_Greenskins_Waaagh_land</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f7ee5ac7-2bfb-47c8-9812-5e2d501908fb}" record_timestamp="1461152293169" record_key="WH_Greenskins_Waaagh_landDefault_land_infantry_spearmen">
+<ratio>10</ratio>
+<template_key>WH_Greenskins_Waaagh_land</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0a2af5d5-fec4-43be-a85e-cb208861a532}" record_timestamp="1461152293168" record_key="WH_Greenskins_Waaagh_landDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_Greenskins_Waaagh_land</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{7eb7bb16-960a-40fc-955b-6d0759ce50ce}" record_timestamp="1461152293170" record_key="WH_Greenskins_Waaagh_landDefault_land_monster">
+<ratio>5</ratio>
+<template_key>WH_Greenskins_Waaagh_land</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{165cc5d1-5804-44b0-ab88-f8a91091155f}" record_timestamp="1461152293169" record_key="WH_Greenskins_Waaagh_landDefault_land_vehicle">
+<ratio>5</ratio>
+<template_key>WH_Greenskins_Waaagh_land</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b045ce87-9a7a-4f3f-9a8d-64f08526776d}" record_timestamp="1400161447871" record_key="WH_Greenskins_landDefault_land_artillery">
+<ratio>1</ratio>
+<template_key>WH_Greenskins_land</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{50eb232b-f125-460e-b6bd-03a11e0bf6a1}" record_timestamp="1438951620097" record_key="WH_Greenskins_landDefault_land_cavalry_melee">
+<ratio>15</ratio>
+<template_key>WH_Greenskins_land</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c5ae63c8-8ce4-4b2c-8bf8-28d8807afe13}" record_timestamp="1430407329270" record_key="WH_Greenskins_landDefault_land_cavalry_missile">
+<ratio>10</ratio>
+<template_key>WH_Greenskins_land</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{54aacf6f-21ef-4f44-8fd3-07ed5dc1386a}" record_timestamp="1448619520590" record_key="WH_Greenskins_landDefault_land_command">
+<ratio>5</ratio>
+<template_key>WH_Greenskins_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f6a646ce-a7bb-48b0-8e2b-1b5e604a38fb}" record_timestamp="1430407329298" record_key="WH_Greenskins_landDefault_land_giant">
+<ratio>10</ratio>
+<template_key>WH_Greenskins_land</template_key>
+<unit_group_key>Default_land_giant</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1cb18caa-7db4-40e7-a143-a1f2529fbac8}" record_timestamp="1430407329325" record_key="WH_Greenskins_landDefault_land_infantry_melee">
+<ratio>10</ratio>
+<template_key>WH_Greenskins_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6c68b5e7-67e4-435d-9f06-42954b19ffce}" record_timestamp="1430407329354" record_key="WH_Greenskins_landDefault_land_infantry_missile">
+<ratio>15</ratio>
+<template_key>WH_Greenskins_land</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e8963d1d-4a60-401a-ac87-74abfac30885}" record_timestamp="1430407329410" record_key="WH_Greenskins_landDefault_land_infantry_monterous">
+<ratio>10</ratio>
+<template_key>WH_Greenskins_land</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1a2ad513-df7a-4d58-82f8-1feeb081367f}" record_timestamp="1430407329382" record_key="WH_Greenskins_landDefault_land_infantry_spearmen">
+<ratio>10</ratio>
+<template_key>WH_Greenskins_land</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{78ff03f9-e74c-4cc9-b0db-6f028ae67ad9}" record_timestamp="1438951620097" record_key="WH_Greenskins_landDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_Greenskins_land</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{252731f0-fe62-404f-b7f4-730600b60821}" record_timestamp="1430407329439" record_key="WH_Greenskins_landDefault_land_monster">
+<ratio>10</ratio>
+<template_key>WH_Greenskins_land</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4ed8d5df-94c1-4444-81be-9acdae6740df}" record_timestamp="1430407329468" record_key="WH_Greenskins_landDefault_land_vehicle">
+<ratio>5</ratio>
+<template_key>WH_Greenskins_land</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c745a477-63e2-470c-918f-f80663b15af7}" record_timestamp="1400161448083" record_key="WH_Kislev_landDefault_land_artillery">
+<ratio>1</ratio>
+<template_key>WH_Kislev_land</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{733f850b-4be5-42b5-9e13-e407ecad96bc}" record_timestamp="1400161448095" record_key="WH_Kislev_landDefault_land_cavalry_melee">
+<ratio>1</ratio>
+<template_key>WH_Kislev_land</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{95a68cfc-e070-447d-9c7d-0c78f365c783}" record_timestamp="1430407329704" record_key="WH_Kislev_landDefault_land_cavalry_missile">
+<ratio>25</ratio>
+<template_key>WH_Kislev_land</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4382d6a8-9816-4c52-845f-48ff1b3c6237}" record_timestamp="1400161448118" record_key="WH_Kislev_landDefault_land_cavalry_shock">
+<ratio>1</ratio>
+<template_key>WH_Kislev_land</template_key>
+<unit_group_key>Default_land_cavalry_shock</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{a01fce44-ab12-4bf8-ab47-83a2bbdd0779}" record_timestamp="1448619520641" record_key="WH_Kislev_landDefault_land_command">
+<ratio>5</ratio>
+<template_key>WH_Kislev_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c7aefa73-c148-48fb-9949-e84d912f5ef0}" record_timestamp="1430407329674" record_key="WH_Kislev_landDefault_land_infantry_melee">
+<ratio>25</ratio>
+<template_key>WH_Kislev_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{5fdbbb5f-4798-4180-b282-b2ac6ef5d441}" record_timestamp="1430407329645" record_key="WH_Kislev_landDefault_land_infantry_missile">
+<ratio>25</ratio>
+<template_key>WH_Kislev_land</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{9de9f66e-7cb4-4f80-a1ee-c7c4b9167fff}" record_timestamp="1438951620097" record_key="WH_Kislev_landDefault_land_infantry_spearmen">
+<ratio>20</ratio>
+<template_key>WH_Kislev_land</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1b59eea7-173f-4fd2-b74b-10acf7a237e4}" record_timestamp="1438951620097" record_key="WH_Kislev_landDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_Kislev_land</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{270ba688-f198-4d14-bdf0-e7902a31e70a}" record_timestamp="1400161448177" record_key="WH_Kislev_landDefault_land_vehicle">
+<ratio>1</ratio>
+<template_key>WH_Kislev_land</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e3202b8f-63ab-4141-9ac6-bf658e2814bf}" record_timestamp="1487252982873" record_key="WH_Norsca_landDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_Norsca_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0b3d3ea3-1bb2-4a3d-9882-af226491e4db}" record_timestamp="1487252982873" record_key="WH_Norsca_landDefault_land_infantry_melee">
+<ratio>55</ratio>
+<template_key>WH_Norsca_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{636a4338-525f-49b3-adb1-fe882bf27cac}" record_timestamp="1487252982873" record_key="WH_Norsca_landDefault_land_infantry_monterous">
+<ratio>15</ratio>
+<template_key>WH_Norsca_land</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{341c2aec-6b9e-4c63-9923-76add32535cc}" record_timestamp="1487252982873" record_key="WH_Norsca_landDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_Norsca_land</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{424756e6-e17d-42ac-adf9-eaeeef103a90}" record_timestamp="1487252982873" record_key="WH_Norsca_landDefault_land_support">
+<ratio>30</ratio>
+<template_key>WH_Norsca_land</template_key>
+<unit_group_key>Default_land_support</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f82ad364-0d67-498f-85ad-365af8b131f8}" record_timestamp="1400161448612" record_key="WH_TEB_landDefault_land_artillery">
+<ratio>1</ratio>
+<template_key>WH_TEB_land</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{28c01b9a-3c31-454f-987f-c38cf1dbb0e0}" record_timestamp="1400161448623" record_key="WH_TEB_landDefault_land_cavalry_melee">
+<ratio>1</ratio>
+<template_key>WH_TEB_land</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4e3d3f93-122a-45ef-aac9-a4843ffe85b8}" record_timestamp="1430407329884" record_key="WH_TEB_landDefault_land_cavalry_missile">
+<ratio>25</ratio>
+<template_key>WH_TEB_land</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2e497e9b-eaa2-4468-b851-b4fcfca2a8ef}" record_timestamp="1400161448650" record_key="WH_TEB_landDefault_land_cavalry_shock">
+<ratio>1</ratio>
+<template_key>WH_TEB_land</template_key>
+<unit_group_key>Default_land_cavalry_shock</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{979c2bfa-2164-4138-b6d7-6cf5d1d1f9a4}" record_timestamp="1448619520624" record_key="WH_TEB_landDefault_land_command">
+<ratio>5</ratio>
+<template_key>WH_TEB_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4ff0595b-f292-4ce8-85d6-37f1a71278f1}" record_timestamp="1430407329914" record_key="WH_TEB_landDefault_land_infantry_melee">
+<ratio>25</ratio>
+<template_key>WH_TEB_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c1ea6816-44c5-4865-83d2-74d821ee7c52}" record_timestamp="1430407329944" record_key="WH_TEB_landDefault_land_infantry_missile">
+<ratio>25</ratio>
+<template_key>WH_TEB_land</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{51da8e82-77ee-4c51-af1e-92b0908c9235}" record_timestamp="1430407329975" record_key="WH_TEB_landDefault_land_infantry_spearmen">
+<ratio>25</ratio>
+<template_key>WH_TEB_land</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{75e21e48-b5df-45c0-9df8-a737e5c83087}" record_timestamp="1400161453845" record_key="WH_TEB_landDefault_land_magic">
+<ratio>1</ratio>
+<template_key>WH_TEB_land</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2c17ff52-7b36-436a-b49f-f84dfc33c846}" record_timestamp="1400161448707" record_key="WH_TEB_landDefault_land_vehicle">
+<ratio>1</ratio>
+<template_key>WH_TEB_land</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{36595fa1-00f5-4ced-8eec-deb6f404d8b8}" record_timestamp="1448377813633" record_key="WH_Vampire_Counts_landDefault_land_animal_pack_flying">
+<ratio>5</ratio>
+<template_key>WH_Vampire_Counts_land</template_key>
+<unit_group_key>Default_land_animal_pack_flying</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1de8cb85-69cf-4e8c-ac4d-5d1fee64818f}" record_timestamp="1463569078683" record_key="WH_Vampire_Counts_landDefault_land_cavalry_melee">
+<ratio>20</ratio>
+<template_key>WH_Vampire_Counts_land</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c3659daa-0330-4cce-9899-fdffb7d6ad86}" record_timestamp="1400161448858" record_key="WH_Vampire_Counts_landDefault_land_cavalry_shock">
+<ratio>1</ratio>
+<template_key>WH_Vampire_Counts_land</template_key>
+<unit_group_key>Default_land_cavalry_shock</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{d216d19b-c741-4d79-a785-b9fac516bef7}" record_timestamp="1448619520658" record_key="WH_Vampire_Counts_landDefault_land_command">
+<ratio>5</ratio>
+<template_key>WH_Vampire_Counts_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{40ca9f0f-b87e-4919-95f8-285d5df918a8}" record_timestamp="1463569078683" record_key="WH_Vampire_Counts_landDefault_land_infantry_melee">
+<ratio>20</ratio>
+<template_key>WH_Vampire_Counts_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1279f662-9490-443a-bb09-770efbbe3e32}" record_timestamp="1463569078682" record_key="WH_Vampire_Counts_landDefault_land_infantry_melee_low_quality">
+<ratio>5</ratio>
+<template_key>WH_Vampire_Counts_land</template_key>
+<unit_group_key>Default_land_infantry_melee_low_quality</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{10450bef-d539-4437-a0a8-456767c6921d}" record_timestamp="1463569078683" record_key="WH_Vampire_Counts_landDefault_land_infantry_monterous">
+<ratio>20</ratio>
+<template_key>WH_Vampire_Counts_land</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1b1d6eeb-04cd-4938-8266-a85e47c2f8a1}" record_timestamp="1448619520675" record_key="WH_Vampire_Counts_landDefault_land_magic">
+<ratio>10</ratio>
+<template_key>WH_Vampire_Counts_land</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{936a62bd-a0bd-4ff3-bb3e-77bc05929789}" record_timestamp="1461152315272" record_key="WH_Vampire_Counts_landDefault_land_monster">
+<ratio>15</ratio>
+<template_key>WH_Vampire_Counts_land</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{54651ac0-a5a8-4c46-a11b-924a37f71f3a}" record_timestamp="1430407330254" record_key="WH_Vampire_Counts_landDefault_land_vehicle">
+<ratio>5</ratio>
+<template_key>WH_Vampire_Counts_land</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{fa805ce8-965c-45ca-95a4-d58d8bb0d0fa}" record_timestamp="1479309460396" record_key="WH_Wood_Elves_Durthu_landDefault_land_cavalry_melee">
+<ratio>24</ratio>
+<template_key>WH_Wood_Elves_Durthu_land</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f6ad0785-5da4-4a03-9db3-69b1fb12990e}" record_timestamp="1479309460390" record_key="WH_Wood_Elves_Durthu_landDefault_land_cavalry_missile">
+<ratio>10</ratio>
+<template_key>WH_Wood_Elves_Durthu_land</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0438a7ab-e5e9-4f06-b0de-8bbba6282d48}" record_timestamp="1479309460390" record_key="WH_Wood_Elves_Durthu_landDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_Wood_Elves_Durthu_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{59f6fbe7-9aa1-4b3e-a0d8-b150bacdb484}" record_timestamp="1479309460391" record_key="WH_Wood_Elves_Durthu_landDefault_land_infantry_melee">
+<ratio>10</ratio>
+<template_key>WH_Wood_Elves_Durthu_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2adbea0a-0f6c-4001-8643-730e097e40fc}" record_timestamp="1479309460391" record_key="WH_Wood_Elves_Durthu_landDefault_land_infantry_missile">
+<ratio>10</ratio>
+<template_key>WH_Wood_Elves_Durthu_land</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c0ae97a9-152b-4cc4-81f6-2bd1876e30e4}" record_timestamp="1479309460392" record_key="WH_Wood_Elves_Durthu_landDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_Wood_Elves_Durthu_land</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{49f27b18-3cfc-4465-a69c-cbd24795447b}" record_timestamp="1479309460392" record_key="WH_Wood_Elves_Durthu_landDefault_land_monster">
+<ratio>40</ratio>
+<template_key>WH_Wood_Elves_Durthu_land</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{d20462ac-a702-40c7-84ec-1ee7e8275ac3}" record_timestamp="1479309460393" record_key="WH_Wood_Elves_Orion_landDefault_land_cavalry_melee">
+<ratio>30</ratio>
+<template_key>WH_Wood_Elves_Orion_land</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{603c758a-cb2e-4ca3-a8fd-21c2c68a30ff}" record_timestamp="1479309460393" record_key="WH_Wood_Elves_Orion_landDefault_land_cavalry_missile">
+<ratio>9</ratio>
+<template_key>WH_Wood_Elves_Orion_land</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6baea19b-c8dd-4013-be68-50a9efea3986}" record_timestamp="1479309460395" record_key="WH_Wood_Elves_Orion_landDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_Wood_Elves_Orion_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e869ea10-8da6-41fe-a318-b861319849bb}" record_timestamp="1479309460394" record_key="WH_Wood_Elves_Orion_landDefault_land_infantry_melee">
+<ratio>30</ratio>
+<template_key>WH_Wood_Elves_Orion_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{aaa1c31e-eba7-4798-a5dd-9ca6b80dc6a8}" record_timestamp="1479309460396" record_key="WH_Wood_Elves_Orion_landDefault_land_infantry_missile">
+<ratio>15</ratio>
+<template_key>WH_Wood_Elves_Orion_land</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{13c156c1-646c-4ab6-97a5-a20a5740bee6}" record_timestamp="1479309460395" record_key="WH_Wood_Elves_Orion_landDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_Wood_Elves_Orion_land</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f52491be-525c-4bac-b9fa-a65057135e70}" record_timestamp="1479309460389" record_key="WH_Wood_Elves_Orion_landDefault_land_monster">
+<ratio>10</ratio>
+<template_key>WH_Wood_Elves_Orion_land</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{7a034a1b-8828-4c21-9a5d-a8d24e3b6e85}" record_timestamp="1479309460386" record_key="WH_Wood_Elves_landDefault_land_cavalry_melee">
+<ratio>14</ratio>
+<template_key>WH_Wood_Elves_land</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ef3fe60b-aae4-414e-8966-055b7d2fd6a8}" record_timestamp="1479309460386" record_key="WH_Wood_Elves_landDefault_land_cavalry_missile">
+<ratio>10</ratio>
+<template_key>WH_Wood_Elves_land</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{567ddcf8-58f0-4cad-85cf-f6e29e4eb583}" record_timestamp="1400161448974" record_key="WH_Wood_Elves_landDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_Wood_Elves_land</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4d8a5160-547c-49ed-b357-dacc53b303eb}" record_timestamp="1481031023860" record_key="WH_Wood_Elves_landDefault_land_infantry_melee">
+<ratio>20</ratio>
+<template_key>WH_Wood_Elves_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{7179c8f2-2e07-4e36-874a-dd980ccb0b0d}" record_timestamp="1481031023866" record_key="WH_Wood_Elves_landDefault_land_infantry_missile">
+<ratio>30</ratio>
+<template_key>WH_Wood_Elves_land</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2b1911fd-7485-457c-a4b8-dc82214669d9}" record_timestamp="1479309460388" record_key="WH_Wood_Elves_landDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_Wood_Elves_land</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{63d35b9e-d6db-4463-aa67-0d349521d54d}" record_timestamp="1479309460388" record_key="WH_Wood_Elves_landDefault_land_monster">
+<ratio>20</ratio>
+<template_key>WH_Wood_Elves_land</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ded1f2ba-fcbc-4793-a64e-22f2e3970044}" record_timestamp="1474299177048" record_key="WH_dcl06_Greenskins_land_wurrzagDefault_dlc06_land_artillery_wurrzag_waaagh">
+<ratio>1</ratio>
+<template_key>WH_dcl06_Greenskins_land_wurrzag</template_key>
+<unit_group_key>Default_dlc06_land_artillery_wurrzag_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{566af869-14ce-4575-87b1-122dc96f3efd}" record_timestamp="1474299177077" record_key="WH_dcl06_Greenskins_land_wurrzagDefault_dlc06_land_cavalry_melee_wurrzag_waaagh">
+<ratio>15</ratio>
+<template_key>WH_dcl06_Greenskins_land_wurrzag</template_key>
+<unit_group_key>Default_dlc06_land_cavalry_melee_wurrzag_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{da3b3467-b6e1-40a0-b6fb-a2e5eb902a77}" record_timestamp="1474299177111" record_key="WH_dcl06_Greenskins_land_wurrzagDefault_dlc06_land_cavalry_missile_wurrzag_waaagh">
+<ratio>10</ratio>
+<template_key>WH_dcl06_Greenskins_land_wurrzag</template_key>
+<unit_group_key>Default_dlc06_land_cavalry_missile_wurrzag_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{57b69305-caef-46d6-b98a-be18d75a5dfe}" record_timestamp="1474299177142" record_key="WH_dcl06_Greenskins_land_wurrzagDefault_dlc06_land_command_wurrzag_waaagh">
+<ratio>5</ratio>
+<template_key>WH_dcl06_Greenskins_land_wurrzag</template_key>
+<unit_group_key>Default_dlc06_land_command_wurrzag_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{773a4c34-8646-4394-a655-1c3b9bffc102}" record_timestamp="1474299177173" record_key="WH_dcl06_Greenskins_land_wurrzagDefault_dlc06_land_giant_wurrzag_waaagh">
+<ratio>1</ratio>
+<template_key>WH_dcl06_Greenskins_land_wurrzag</template_key>
+<unit_group_key>Default_dlc06_land_giant_wurrzag_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{98d6639b-8f76-449f-a810-5b77ea04c9a7}" record_timestamp="1474299177205" record_key="WH_dcl06_Greenskins_land_wurrzagDefault_dlc06_land_infantry_melee_wurrzag_waaagh">
+<ratio>24</ratio>
+<template_key>WH_dcl06_Greenskins_land_wurrzag</template_key>
+<unit_group_key>Default_dlc06_land_infantry_melee_wurrzag_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1c13851f-b3e7-4a78-a63d-3e4279a56627}" record_timestamp="1474299177235" record_key="WH_dcl06_Greenskins_land_wurrzagDefault_dlc06_land_infantry_missile_wurrzag_waaagh">
+<ratio>15</ratio>
+<template_key>WH_dcl06_Greenskins_land_wurrzag</template_key>
+<unit_group_key>Default_dlc06_land_infantry_missile_wurrzag_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{31e6fe5e-4e9b-4325-8542-62d53d8f96b8}" record_timestamp="1474299177284" record_key="WH_dcl06_Greenskins_land_wurrzagDefault_dlc06_land_infantry_monterous_wurrzag_waaagh">
+<ratio>10</ratio>
+<template_key>WH_dcl06_Greenskins_land_wurrzag</template_key>
+<unit_group_key>Default_dlc06_land_infantry_monterous_wurrzag_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0cf22605-a9c8-43e0-bc13-8d29b2ee6df1}" record_timestamp="1474299177319" record_key="WH_dcl06_Greenskins_land_wurrzagDefault_dlc06_land_infantry_spearmen_wurrzag_waaagh">
+<ratio>10</ratio>
+<template_key>WH_dcl06_Greenskins_land_wurrzag</template_key>
+<unit_group_key>Default_dlc06_land_infantry_spearmen_wurrzag_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{436a7aeb-9aec-4410-af09-58ca75b9bf25}" record_timestamp="1474299177348" record_key="WH_dcl06_Greenskins_land_wurrzagDefault_dlc06_land_magic_wurrzag_waaagh">
+<ratio>5</ratio>
+<template_key>WH_dcl06_Greenskins_land_wurrzag</template_key>
+<unit_group_key>Default_dlc06_land_magic_wurrzag_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{63ed477a-4c5d-4cce-8923-2be5677d1b68}" record_timestamp="1474299177391" record_key="WH_dcl06_Greenskins_land_wurrzagDefault_dlc06_land_monster_wurrzag_waaagh">
+<ratio>5</ratio>
+<template_key>WH_dcl06_Greenskins_land_wurrzag</template_key>
+<unit_group_key>Default_dlc06_land_monster_wurrzag_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4eb3ff92-20b6-42a8-ae03-f551a4bac79b}" record_timestamp="1474299177418" record_key="WH_dcl06_Greenskins_land_wurrzagDefault_dlc06_land_vehicle_wurrzag_waaagh">
+<ratio>5</ratio>
+<template_key>WH_dcl06_Greenskins_land_wurrzag</template_key>
+<unit_group_key>Default_dlc06_land_vehicle_wurrzag_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{3b5123ac-812c-49a9-b0ee-15ea100e2977}" record_timestamp="1429529481865" record_key="WH_default_navalDefault_naval_melee">
+<ratio>1</ratio>
+<template_key>WH_default_naval</template_key>
+<unit_group_key>Default_naval_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8b9b7bd9-bd6f-4b59-88a9-e5e5761e5f7d}" record_timestamp="1460532114831" record_key="WH_dlc03_Empire_land_cavalryDefault_land_artillery">
+<ratio>15</ratio>
+<template_key>WH_dlc03_Empire_land_cavalry</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6e59c173-c9e8-4e8b-9792-7521475ff5c7}" record_timestamp="1460532114831" record_key="WH_dlc03_Empire_land_cavalryDefault_land_cavalry_melee">
+<ratio>50</ratio>
+<template_key>WH_dlc03_Empire_land_cavalry</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ad892887-4f12-48ce-9cad-8965cbfe9d8f}" record_timestamp="1486640346617" record_key="WH_dlc03_Empire_land_cavalryDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_dlc03_Empire_land_cavalry</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{378a622b-82f3-4e1f-99c9-2f01d7d09c0e}" record_timestamp="1460532114831" record_key="WH_dlc03_Empire_land_cavalryDefault_land_infantry_melee">
+<ratio>20</ratio>
+<template_key>WH_dlc03_Empire_land_cavalry</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c531c544-5537-4509-8f2e-8696f5b4c35e}" record_timestamp="1460532114831" record_key="WH_dlc03_Empire_land_cavalryDefault_land_infantry_missile">
+<ratio>10</ratio>
+<template_key>WH_dlc03_Empire_land_cavalry</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{38c979f4-e99d-42f2-947f-257a976dcd83}" record_timestamp="1460532114831" record_key="WH_dlc03_Empire_land_cavalryDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_dlc03_Empire_land_cavalry</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{cdd29666-0c32-4e9e-9411-f557a360ab5f}" record_timestamp="1486640346544" record_key="WH_dlc03_Empire_land_cavalryDefault_land_support">
+<ratio>10</ratio>
+<template_key>WH_dlc03_Empire_land_cavalry</template_key>
+<unit_group_key>Default_land_support</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{7cc19820-0a6f-4371-abe4-1b525101e600}" record_timestamp="1460532114831" record_key="WH_dlc03_Empire_land_infantryDefault_land_artillery">
+<ratio>15</ratio>
+<template_key>WH_dlc03_Empire_land_infantry</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b5a4865f-15ca-4365-8d08-9749eff6c9c2}" record_timestamp="1460532114831" record_key="WH_dlc03_Empire_land_infantryDefault_land_cavalry_melee">
+<ratio>10</ratio>
+<template_key>WH_dlc03_Empire_land_infantry</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{152792eb-e92d-40a2-89e7-8c74b1c145c0}" record_timestamp="1460532114831" record_key="WH_dlc03_Empire_land_infantryDefault_land_command">
+<ratio>5</ratio>
+<template_key>WH_dlc03_Empire_land_infantry</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{16c5e91a-f178-4a55-a08c-050a3b787fa7}" record_timestamp="1460532114831" record_key="WH_dlc03_Empire_land_infantryDefault_land_infantry_melee">
+<ratio>50</ratio>
+<template_key>WH_dlc03_Empire_land_infantry</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{79d066d8-5970-45e7-972d-3c5fb78d5ce4}" record_timestamp="1460532114831" record_key="WH_dlc03_Empire_land_infantryDefault_land_infantry_missile">
+<ratio>50</ratio>
+<template_key>WH_dlc03_Empire_land_infantry</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6046b227-b486-4669-aa0d-1f849b906a4d}" record_timestamp="1460532114831" record_key="WH_dlc03_Empire_land_infantryDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_dlc03_Empire_land_infantry</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{467bf2d5-c37d-462c-a906-05f35f270dd7}" record_timestamp="1486640346580" record_key="WH_dlc03_Empire_land_infantryDefault_land_support">
+<ratio>10</ratio>
+<template_key>WH_dlc03_Empire_land_infantry</template_key>
+<unit_group_key>Default_land_support</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{cd510080-b7f9-41a4-96c1-767f44364dad}" record_timestamp="1474299177034" record_key="WH_dlc06_Greenskins_land_skarsnikDefault_dlc06_land_artillery_skarsnik_waaagh">
+<ratio>1</ratio>
+<template_key>WH_dlc06_Greenskins_land_skarsnik</template_key>
+<unit_group_key>Default_dlc06_land_artillery_skarsnik_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{bb08a2ac-6468-4d3c-bad1-ee444d4b15ee}" record_timestamp="1474299177061" record_key="WH_dlc06_Greenskins_land_skarsnikDefault_dlc06_land_cavalry_melee_skarsnik_waaagh">
+<ratio>15</ratio>
+<template_key>WH_dlc06_Greenskins_land_skarsnik</template_key>
+<unit_group_key>Default_dlc06_land_cavalry_melee_skarsnik_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{84394b96-9a03-41c2-b93a-9f7937732b59}" record_timestamp="1474299177097" record_key="WH_dlc06_Greenskins_land_skarsnikDefault_dlc06_land_cavalry_missile_skarsnik_waaagh">
+<ratio>10</ratio>
+<template_key>WH_dlc06_Greenskins_land_skarsnik</template_key>
+<unit_group_key>Default_dlc06_land_cavalry_missile_skarsnik_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e742d890-4d63-4242-90eb-f73eac125c56}" record_timestamp="1474299177125" record_key="WH_dlc06_Greenskins_land_skarsnikDefault_dlc06_land_command_skarsnik_waaagh">
+<ratio>5</ratio>
+<template_key>WH_dlc06_Greenskins_land_skarsnik</template_key>
+<unit_group_key>Default_dlc06_land_command_skarsnik_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{22c1d90f-f775-462a-b82a-e37a1983b6a6}" record_timestamp="1474299177159" record_key="WH_dlc06_Greenskins_land_skarsnikDefault_dlc06_land_giant_skarsnik_waaagh">
+<ratio>1</ratio>
+<template_key>WH_dlc06_Greenskins_land_skarsnik</template_key>
+<unit_group_key>Default_dlc06_land_giant_skarsnik_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{22623f85-f8fc-4fee-b9e3-81d77afb05fb}" record_timestamp="1474299177186" record_key="WH_dlc06_Greenskins_land_skarsnikDefault_dlc06_land_infantry_melee_skarsnik_waaagh">
+<ratio>24</ratio>
+<template_key>WH_dlc06_Greenskins_land_skarsnik</template_key>
+<unit_group_key>Default_dlc06_land_infantry_melee_skarsnik_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{fe1a2174-f27c-4187-affa-8859d3f5f7f3}" record_timestamp="1474299177221" record_key="WH_dlc06_Greenskins_land_skarsnikDefault_dlc06_land_infantry_missile_skarsnik_waaagh">
+<ratio>15</ratio>
+<template_key>WH_dlc06_Greenskins_land_skarsnik</template_key>
+<unit_group_key>Default_dlc06_land_infantry_missile_skarsnik_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4372eade-5e51-4eca-a6e3-d41b2a5e1a31}" record_timestamp="1474299177262" record_key="WH_dlc06_Greenskins_land_skarsnikDefault_dlc06_land_infantry_monterous_skarsnik_waaagh">
+<ratio>10</ratio>
+<template_key>WH_dlc06_Greenskins_land_skarsnik</template_key>
+<unit_group_key>Default_dlc06_land_infantry_monterous_skarsnik_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b76e377f-70e0-4cc1-8480-536f946b5e8c}" record_timestamp="1474299177297" record_key="WH_dlc06_Greenskins_land_skarsnikDefault_dlc06_land_infantry_spearmen_skarsnik_waaagh">
+<ratio>10</ratio>
+<template_key>WH_dlc06_Greenskins_land_skarsnik</template_key>
+<unit_group_key>Default_dlc06_land_infantry_spearmen_skarsnik_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{3865637f-dc5b-4971-9898-ce2cd9272920}" record_timestamp="1474299177332" record_key="WH_dlc06_Greenskins_land_skarsnikDefault_dlc06_land_magic_skarsnik_waaagh">
+<ratio>5</ratio>
+<template_key>WH_dlc06_Greenskins_land_skarsnik</template_key>
+<unit_group_key>Default_dlc06_land_magic_skarsnik_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6b2dac5a-d1c4-43a0-ab10-0f715971b034}" record_timestamp="1474299177374" record_key="WH_dlc06_Greenskins_land_skarsnikDefault_dlc06_land_monster_skarsnik_waaagh">
+<ratio>5</ratio>
+<template_key>WH_dlc06_Greenskins_land_skarsnik</template_key>
+<unit_group_key>Default_dlc06_land_monster_skarsnik_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f37f165e-3728-480b-b6c1-73366a87cb2f}" record_timestamp="1474299177405" record_key="WH_dlc06_Greenskins_land_skarsnikDefault_dlc06_land_vehicle_skarsnik_waaagh">
+<ratio>5</ratio>
+<template_key>WH_dlc06_Greenskins_land_skarsnik</template_key>
+<unit_group_key>Default_dlc06_land_vehicle_skarsnik_waaagh</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ecb1261b-e944-488d-854f-f90210bfc5d6}" record_timestamp="1481036622983" record_key="WH_mp_Beastmen_siege_attackDefault_land_animal_pack">
+<ratio>1</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_animal_pack</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{81d0ddba-e1d6-42e0-86e3-9603f2362d75}" record_timestamp="1481036622982" record_key="WH_mp_Beastmen_siege_attackDefault_land_animal_pack_flying">
+<ratio>10</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_animal_pack_flying</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{adf8aea9-280e-4c80-876b-c6cd141344cf}" record_timestamp="1470401509810" record_key="WH_mp_Beastmen_siege_attackDefault_land_artillery">
+<ratio>10</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{dc4e9991-6231-4cff-9f01-a43f2adbca70}" record_timestamp="1470401509872" record_key="WH_mp_Beastmen_siege_attackDefault_land_cavalry_melee">
+<ratio>10</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6fbdef34-ee2b-4e50-bb34-27624c1ac061}" record_timestamp="1470401509933" record_key="WH_mp_Beastmen_siege_attackDefault_land_cavalry_missile">
+<ratio>10</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{78682e1f-83e6-4290-8faa-6e9ddca45968}" record_timestamp="1470401509995" record_key="WH_mp_Beastmen_siege_attackDefault_land_cavalry_shock">
+<ratio>10</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_shock</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b168440e-88ae-4e41-b056-3388dabe5682}" record_timestamp="1470401510056" record_key="WH_mp_Beastmen_siege_attackDefault_land_command">
+<ratio>5</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6f960ff5-0d98-434c-8f6c-2a21bb35154b}" record_timestamp="1470401510118" record_key="WH_mp_Beastmen_siege_attackDefault_land_giant">
+<ratio>3</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_giant</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2a19f7a1-0732-40f8-b1f0-3e02eb86d75d}" record_timestamp="1470401510181" record_key="WH_mp_Beastmen_siege_attackDefault_land_infantry_melee">
+<ratio>5</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6ca3199e-0195-4ce4-b6ae-d7a127675d85}" record_timestamp="1470401510244" record_key="WH_mp_Beastmen_siege_attackDefault_land_infantry_missile">
+<ratio>5</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{928d11aa-ae5a-4541-b31c-d5af4febc90f}" record_timestamp="1470401510307" record_key="WH_mp_Beastmen_siege_attackDefault_land_infantry_monterous">
+<ratio>5</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{9354fbe9-fadf-4d08-9e31-f0a0097fe7c5}" record_timestamp="1429538276613" record_key="WH_mp_Beastmen_siege_attackDefault_land_infantry_spearmen">
+<ratio>1</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{5c3db6e4-8457-43e5-9381-fd02d8b74adb}" record_timestamp="1470401510369" record_key="WH_mp_Beastmen_siege_attackDefault_land_magic">
+<ratio>3</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{3c429967-a4e7-4a5d-8d15-d723ac9d8759}" record_timestamp="1470401510433" record_key="WH_mp_Beastmen_siege_attackDefault_land_monster">
+<ratio>5</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{500871ea-9aea-46e7-8aee-702f30de0752}" record_timestamp="1429538275950" record_key="WH_mp_Beastmen_siege_attackDefault_land_vehicle">
+<ratio>1</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{cf380140-49c8-4909-97e9-9ddd45b6d2c3}" record_timestamp="1429538275890" record_key="WH_mp_Beastmen_siege_attackDefault_land_vehicle_flying">
+<ratio>1</ratio>
+<template_key>WH_mp_Beastmen_siege_attack</template_key>
+<unit_group_key>Default_land_vehicle_flying</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{93439a7d-f953-4dab-a51e-1aa573345803}" record_timestamp="1481036622984" record_key="WH_mp_Beastmen_siege_defenceDefault_land_animal_pack">
+<ratio>1</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_animal_pack</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2b48dfbb-4163-432e-89f1-06234fafeb71}" record_timestamp="1481036622985" record_key="WH_mp_Beastmen_siege_defenceDefault_land_animal_pack_flying">
+<ratio>10</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_animal_pack_flying</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b8d6f3dc-fc21-4741-8e90-ec94b0f37e8b}" record_timestamp="1470401510559" record_key="WH_mp_Beastmen_siege_defenceDefault_land_artillery">
+<ratio>10</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{d98d23a8-d2da-45b3-b7ba-a307640bc7b2}" record_timestamp="1470401510622" record_key="WH_mp_Beastmen_siege_defenceDefault_land_cavalry_melee">
+<ratio>10</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f782193e-78d3-4a46-bbc7-43d0d61d32d1}" record_timestamp="1470401510685" record_key="WH_mp_Beastmen_siege_defenceDefault_land_cavalry_missile">
+<ratio>10</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{82227fa1-1a5d-4bf9-b395-8d7d8b591208}" record_timestamp="1470401510749" record_key="WH_mp_Beastmen_siege_defenceDefault_land_cavalry_shock">
+<ratio>10</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_shock</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{022f9bd4-4c00-4160-88c1-55ec3396ef57}" record_timestamp="1470401510812" record_key="WH_mp_Beastmen_siege_defenceDefault_land_command">
+<ratio>5</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0bfb4a60-4186-4751-a929-3ea37db43c62}" record_timestamp="1470401510876" record_key="WH_mp_Beastmen_siege_defenceDefault_land_giant">
+<ratio>3</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_giant</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e00505af-0b00-4112-923a-51297a692ad0}" record_timestamp="1470401510940" record_key="WH_mp_Beastmen_siege_defenceDefault_land_infantry_melee">
+<ratio>5</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{9ed32f8c-0d5f-4eec-88cb-4405f2f661b4}" record_timestamp="1470401511005" record_key="WH_mp_Beastmen_siege_defenceDefault_land_infantry_missile">
+<ratio>5</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{eb8b760e-28e5-40b6-a07c-daf9032c8b7a}" record_timestamp="1470401511069" record_key="WH_mp_Beastmen_siege_defenceDefault_land_infantry_monterous">
+<ratio>5</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{79cb5198-3689-41cf-bee6-a473665964a0}" record_timestamp="1429538275647" record_key="WH_mp_Beastmen_siege_defenceDefault_land_infantry_spearmen">
+<ratio>1</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4c1b8733-45ef-4a3d-bf14-74f236e03ff1}" record_timestamp="1470401511133" record_key="WH_mp_Beastmen_siege_defenceDefault_land_magic">
+<ratio>3</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ce5968b3-0b7a-48d1-952e-1844124c95a8}" record_timestamp="1470401511198" record_key="WH_mp_Beastmen_siege_defenceDefault_land_monster">
+<ratio>5</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2dedc52e-bb61-48d9-b92f-bf836628abdd}" record_timestamp="1429538274981" record_key="WH_mp_Beastmen_siege_defenceDefault_land_vehicle">
+<ratio>1</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{dbe8b3d9-b7e1-4d66-9922-fc59179dced6}" record_timestamp="1429538274921" record_key="WH_mp_Beastmen_siege_defenceDefault_land_vehicle_flying">
+<ratio>1</ratio>
+<template_key>WH_mp_Beastmen_siege_defence</template_key>
+<unit_group_key>Default_land_vehicle_flying</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{49aa9f4d-a62b-4f16-a166-1d893942e955}" record_timestamp="1482333374565" record_key="WH_mp_Bretonnia_siege_attackDefault_land_artillery">
+<ratio>12</ratio>
+<template_key>WH_mp_Bretonnia_siege_attack</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{a4638f7c-207d-4db9-84d2-1385d91193f8}" record_timestamp="1482333374563" record_key="WH_mp_Bretonnia_siege_attackDefault_land_cavalry_melee">
+<ratio>15</ratio>
+<template_key>WH_mp_Bretonnia_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{071a10a8-2d92-496e-84bf-6bd269f535fd}" record_timestamp="1429538274487" record_key="WH_mp_Bretonnia_siege_attackDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Bretonnia_siege_attack</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{95e341a4-5da5-47f1-8014-16a6b285a042}" record_timestamp="1482333374562" record_key="WH_mp_Bretonnia_siege_attackDefault_land_infantry_melee">
+<ratio>27</ratio>
+<template_key>WH_mp_Bretonnia_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{73b4ccbf-615d-4b12-9c1f-fee8e95865e8}" record_timestamp="1482333374565" record_key="WH_mp_Bretonnia_siege_attackDefault_land_infantry_missile">
+<ratio>20</ratio>
+<template_key>WH_mp_Bretonnia_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6770b02e-60fe-47ad-9ad5-ec968ee1dbe0}" record_timestamp="1438951620097" record_key="WH_mp_Bretonnia_siege_attackDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_mp_Bretonnia_siege_attack</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{051f540b-e9e2-46bb-9a58-c22629021675}" record_timestamp="1482333374562" record_key="WH_mp_Bretonnia_siege_attackDefault_land_support">
+<ratio>20</ratio>
+<template_key>WH_mp_Bretonnia_siege_attack</template_key>
+<unit_group_key>Default_land_support</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{9117014a-7a3c-4837-8257-255388465724}" record_timestamp="1482333374566" record_key="WH_mp_Bretonnia_siege_defenceDefault_land_artillery">
+<ratio>8</ratio>
+<template_key>WH_mp_Bretonnia_siege_defence</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{03031493-3079-4d3d-91bb-734890634825}" record_timestamp="1482333374566" record_key="WH_mp_Bretonnia_siege_defenceDefault_land_cavalry_melee">
+<ratio>14</ratio>
+<template_key>WH_mp_Bretonnia_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{92102f14-88d7-4ffc-ade0-ef2c220b8eea}" record_timestamp="1429538273514" record_key="WH_mp_Bretonnia_siege_defenceDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Bretonnia_siege_defence</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{86cb5c90-61fc-46f4-b791-7856880ba034}" record_timestamp="1482333374566" record_key="WH_mp_Bretonnia_siege_defenceDefault_land_infantry_melee">
+<ratio>27</ratio>
+<template_key>WH_mp_Bretonnia_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{dbd8739c-67de-4a42-98c6-2c9191bae75c}" record_timestamp="1442330070918" record_key="WH_mp_Bretonnia_siege_defenceDefault_land_infantry_missile">
+<ratio>25</ratio>
+<template_key>WH_mp_Bretonnia_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{18b801d9-0ca9-4f11-a46f-c76bd986be7c}" record_timestamp="1438951620097" record_key="WH_mp_Bretonnia_siege_defenceDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_mp_Bretonnia_siege_defence</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{243f4081-3e38-4168-93b7-846d20fbcddc}" record_timestamp="1482333374566" record_key="WH_mp_Bretonnia_siege_defenceDefault_land_support">
+<ratio>20</ratio>
+<template_key>WH_mp_Bretonnia_siege_defence</template_key>
+<unit_group_key>Default_land_support</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{fee5295e-1d6b-426d-a7af-79b1edefc89c}" record_timestamp="1438951620097" record_key="WH_mp_Chaos_siege_attackDefault_land_animal_pack">
+<ratio>5</ratio>
+<template_key>WH_mp_Chaos_siege_attack</template_key>
+<unit_group_key>Default_land_animal_pack</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{700cfedd-5f16-4667-897f-b3f95d47c97a}" record_timestamp="1442330070949" record_key="WH_mp_Chaos_siege_attackDefault_land_artillery">
+<ratio>5</ratio>
+<template_key>WH_mp_Chaos_siege_attack</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4c1172f4-0444-4c15-a63e-50c9d8743e9d}" record_timestamp="1438951620097" record_key="WH_mp_Chaos_siege_attackDefault_land_cavalry_melee">
+<ratio>5</ratio>
+<template_key>WH_mp_Chaos_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6a54042c-1076-48b4-8a96-5c1a8f068619}" record_timestamp="1438951620097" record_key="WH_mp_Chaos_siege_attackDefault_land_cavalry_missile">
+<ratio>1</ratio>
+<template_key>WH_mp_Chaos_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2379be76-fba6-453c-9fb4-65a0ab0cbd55}" record_timestamp="1429538268749" record_key="WH_mp_Chaos_siege_attackDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Chaos_siege_attack</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{823acf11-4745-47d9-939c-46bc8ffa7288}" record_timestamp="1429538268691" record_key="WH_mp_Chaos_siege_attackDefault_land_giant">
+<ratio>1</ratio>
+<template_key>WH_mp_Chaos_siege_attack</template_key>
+<unit_group_key>Default_land_giant</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8c6088bc-ffa9-4f17-b54b-40fcad8bf6cb}" record_timestamp="1442330071231" record_key="WH_mp_Chaos_siege_attackDefault_land_infantry_melee">
+<ratio>45</ratio>
+<template_key>WH_mp_Chaos_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{3d966fc0-dfb3-49ee-9de6-827e8e54250c}" record_timestamp="1439196681531" record_key="WH_mp_Chaos_siege_attackDefault_land_infantry_monterous">
+<ratio>10</ratio>
+<template_key>WH_mp_Chaos_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{98320e9d-91fa-4db9-9e46-b95dd1549d42}" record_timestamp="1442330071250" record_key="WH_mp_Chaos_siege_attackDefault_land_magic">
+<ratio>10</ratio>
+<template_key>WH_mp_Chaos_siege_attack</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{fbcd9d6f-80b4-47cf-99c3-aab8c60d1d4e}" record_timestamp="1442330071012" record_key="WH_mp_Chaos_siege_attackDefault_land_monster">
+<ratio>10</ratio>
+<template_key>WH_mp_Chaos_siege_attack</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b080c759-1987-41fd-b3de-152d56770d62}" record_timestamp="1438951620085" record_key="WH_mp_Chaos_siege_attackDefault_land_vehicle">
+<ratio>10</ratio>
+<template_key>WH_mp_Chaos_siege_attack</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2250fec0-af6c-476a-9ba7-ab5513f44c4c}" record_timestamp="1442330071045" record_key="WH_mp_Chaos_siege_defenceDefault_land_animal_pack">
+<ratio>5</ratio>
+<template_key>WH_mp_Chaos_siege_defence</template_key>
+<unit_group_key>Default_land_animal_pack</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b82bc62c-b3a6-4568-852a-b46de3ea79a4}" record_timestamp="1442330071063" record_key="WH_mp_Chaos_siege_defenceDefault_land_artillery">
+<ratio>0</ratio>
+<template_key>WH_mp_Chaos_siege_defence</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c8ed4ab6-11e0-45ba-81c3-9ae60da099ea}" record_timestamp="1442330071193" record_key="WH_mp_Chaos_siege_defenceDefault_land_cavalry_melee">
+<ratio>15</ratio>
+<template_key>WH_mp_Chaos_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{825887c1-6299-4c9b-a074-eefd93c6ccaa}" record_timestamp="1438951620097" record_key="WH_mp_Chaos_siege_defenceDefault_land_cavalry_missile">
+<ratio>1</ratio>
+<template_key>WH_mp_Chaos_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{28ea6d16-673c-44cc-8776-5785e4c741ad}" record_timestamp="1429538267807" record_key="WH_mp_Chaos_siege_defenceDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Chaos_siege_defence</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ae89d733-cbc2-404f-ae7b-7196201a70e4}" record_timestamp="1429538267748" record_key="WH_mp_Chaos_siege_defenceDefault_land_giant">
+<ratio>1</ratio>
+<template_key>WH_mp_Chaos_siege_defence</template_key>
+<unit_group_key>Default_land_giant</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{d50626d9-e89d-4472-a8c0-51b6392051b6}" record_timestamp="1442330071174" record_key="WH_mp_Chaos_siege_defenceDefault_land_infantry_melee">
+<ratio>45</ratio>
+<template_key>WH_mp_Chaos_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0bbf032c-7a77-45c0-a431-764cf14a3fa2}" record_timestamp="1438951620085" record_key="WH_mp_Chaos_siege_defenceDefault_land_infantry_monterous">
+<ratio>10</ratio>
+<template_key>WH_mp_Chaos_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{3d006898-b8e6-4621-9633-0511288abcc3}" record_timestamp="1442330071135" record_key="WH_mp_Chaos_siege_defenceDefault_land_magic">
+<ratio>10</ratio>
+<template_key>WH_mp_Chaos_siege_defence</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4f0978af-2954-4936-a41a-3e7ddd228a7d}" record_timestamp="1438951620085" record_key="WH_mp_Chaos_siege_defenceDefault_land_monster">
+<ratio>10</ratio>
+<template_key>WH_mp_Chaos_siege_defence</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c066509d-0443-4e83-bdec-d0d404c0a25f}" record_timestamp="1442330071117" record_key="WH_mp_Chaos_siege_defenceDefault_land_vehicle">
+<ratio>5</ratio>
+<template_key>WH_mp_Chaos_siege_defence</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{5070158f-0c66-4c08-969d-a158cfb2f3fc}" record_timestamp="1442330071269" record_key="WH_mp_Dwarfs_siege_attackDefault_land_artillery">
+<ratio>20</ratio>
+<template_key>WH_mp_Dwarfs_siege_attack</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{297437f2-bf12-4058-aa53-37f8e0e5fbb0}" record_timestamp="1461152293163" record_key="WH_mp_Dwarfs_siege_attackDefault_land_command">
+<ratio>5</ratio>
+<template_key>WH_mp_Dwarfs_siege_attack</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{5395255e-1ef2-4e0b-a29a-157bee9f7b54}" record_timestamp="1442330071327" record_key="WH_mp_Dwarfs_siege_attackDefault_land_infantry_melee">
+<ratio>45</ratio>
+<template_key>WH_mp_Dwarfs_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{5e5b2fe3-8985-497e-8894-e6749f70cb0a}" record_timestamp="1442330071308" record_key="WH_mp_Dwarfs_siege_attackDefault_land_infantry_missile">
+<ratio>15</ratio>
+<template_key>WH_mp_Dwarfs_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{81fb9be7-3e0f-450b-86b2-4c9e12193c6d}" record_timestamp="1438951620097" record_key="WH_mp_Dwarfs_siege_attackDefault_land_vehicle_flying">
+<ratio>15</ratio>
+<template_key>WH_mp_Dwarfs_siege_attack</template_key>
+<unit_group_key>Default_land_vehicle_flying</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6bdbc612-1ef8-43f2-8b82-da76f6284068}" record_timestamp="1442330071800" record_key="WH_mp_Dwarfs_siege_defenceDefault_land_artillery">
+<ratio>5</ratio>
+<template_key>WH_mp_Dwarfs_siege_defence</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8bba95a8-619c-4c75-ba06-1baa436dbaa6}" record_timestamp="1461152293163" record_key="WH_mp_Dwarfs_siege_defenceDefault_land_command">
+<ratio>5</ratio>
+<template_key>WH_mp_Dwarfs_siege_defence</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{37a81351-2076-4db5-a6f6-ac20efde7812}" record_timestamp="1442330071868" record_key="WH_mp_Dwarfs_siege_defenceDefault_land_infantry_melee">
+<ratio>40</ratio>
+<template_key>WH_mp_Dwarfs_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{da0fe94f-a76c-4da6-8641-f35e410cfc1b}" record_timestamp="1442330071822" record_key="WH_mp_Dwarfs_siege_defenceDefault_land_infantry_missile">
+<ratio>40</ratio>
+<template_key>WH_mp_Dwarfs_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{87a68dac-264f-429c-98ae-2ecad9037f2d}" record_timestamp="1442330071845" record_key="WH_mp_Dwarfs_siege_defenceDefault_land_vehicle_flying">
+<ratio>10</ratio>
+<template_key>WH_mp_Dwarfs_siege_defence</template_key>
+<unit_group_key>Default_land_vehicle_flying</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{965f79ff-1cb4-4789-a8d5-64a8a2f9e010}" record_timestamp="1438951620098" record_key="WH_mp_Empire_siege_attackDefault_land_artillery">
+<ratio>20</ratio>
+<template_key>WH_mp_Empire_siege_attack</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{fc3b8246-aa15-40ca-b05c-edcc1dc8693a}" record_timestamp="1438951620098" record_key="WH_mp_Empire_siege_attackDefault_land_cavalry_melee">
+<ratio>5</ratio>
+<template_key>WH_mp_Empire_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{59fede5a-87e4-4867-a5c8-acbe1908e6f2}" record_timestamp="1429538289162" record_key="WH_mp_Empire_siege_attackDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Empire_siege_attack</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{bff27b18-0f5a-44f8-86ac-93be6cae2120}" record_timestamp="1442330071438" record_key="WH_mp_Empire_siege_attackDefault_land_infantry_melee">
+<ratio>30</ratio>
+<template_key>WH_mp_Empire_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{002dcdaa-2be4-4431-a3b5-9ee5eae6b0df}" record_timestamp="1439196681564" record_key="WH_mp_Empire_siege_attackDefault_land_infantry_missile">
+<ratio>10</ratio>
+<template_key>WH_mp_Empire_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{3fddc418-cba3-4206-a7d4-b36cff88313d}" record_timestamp="1438951620098" record_key="WH_mp_Empire_siege_attackDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_mp_Empire_siege_attack</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ea8effe3-4117-4fef-b91a-8c78c077fcbe}" record_timestamp="1486640346692" record_key="WH_mp_Empire_siege_attackDefault_land_support">
+<ratio>10</ratio>
+<template_key>WH_mp_Empire_siege_attack</template_key>
+<unit_group_key>Default_land_support</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f3dc1880-e0ad-4db2-92b9-ff22d97f9cb6}" record_timestamp="1442330071479" record_key="WH_mp_Empire_siege_defenceDefault_land_artillery">
+<ratio>5</ratio>
+<template_key>WH_mp_Empire_siege_defence</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e72fd3af-11ce-45f4-9fb8-0712166170ab}" record_timestamp="1438951620098" record_key="WH_mp_Empire_siege_defenceDefault_land_cavalry_melee">
+<ratio>5</ratio>
+<template_key>WH_mp_Empire_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{49de380e-99ac-44d9-9754-6c1880af4841}" record_timestamp="1429538288168" record_key="WH_mp_Empire_siege_defenceDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Empire_siege_defence</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6a2b4fd5-d0c5-4212-b916-cf0b49d9b8f1}" record_timestamp="1442330071583" record_key="WH_mp_Empire_siege_defenceDefault_land_infantry_melee">
+<ratio>25</ratio>
+<template_key>WH_mp_Empire_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{5438412f-714a-44ff-8e17-96506c9a26f6}" record_timestamp="1442330071604" record_key="WH_mp_Empire_siege_defenceDefault_land_infantry_missile">
+<ratio>30</ratio>
+<template_key>WH_mp_Empire_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{7e1014e3-84e9-407a-a054-24d0dd57466b}" record_timestamp="1438951620098" record_key="WH_mp_Empire_siege_defenceDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_mp_Empire_siege_defence</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1a48f9fe-7948-4d25-a33e-b80614d741e9}" record_timestamp="1486640346655" record_key="WH_mp_Empire_siege_defenceDefault_land_support">
+<ratio>10</ratio>
+<template_key>WH_mp_Empire_siege_defence</template_key>
+<unit_group_key>Default_land_support</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{52406f4e-b01c-4900-8746-6b43aa5219a1}" record_timestamp="1439196681608" record_key="WH_mp_Greenskins_siege_attackDefault_land_artillery">
+<ratio>10</ratio>
+<template_key>WH_mp_Greenskins_siege_attack</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{25ff2825-a753-48d3-b598-96251eefb1b6}" record_timestamp="1438951620098" record_key="WH_mp_Greenskins_siege_attackDefault_land_cavalry_melee">
+<ratio>5</ratio>
+<template_key>WH_mp_Greenskins_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{7153986d-f8e1-4be0-82cc-7fbee862b1cf}" record_timestamp="1442330071625" record_key="WH_mp_Greenskins_siege_attackDefault_land_cavalry_missile">
+<ratio>0</ratio>
+<template_key>WH_mp_Greenskins_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{13906070-5317-461c-9067-5c5d36a27bb5}" record_timestamp="1429538287170" record_key="WH_mp_Greenskins_siege_attackDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Greenskins_siege_attack</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8b6d0444-a658-49fb-b505-10a49e7fe913}" record_timestamp="1442330072079" record_key="WH_mp_Greenskins_siege_attackDefault_land_giant">
+<ratio>5</ratio>
+<template_key>WH_mp_Greenskins_siege_attack</template_key>
+<unit_group_key>Default_land_giant</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6e21cfb6-8c3f-4720-a907-cef48efb43e6}" record_timestamp="1442330072103" record_key="WH_mp_Greenskins_siege_attackDefault_land_infantry_melee">
+<ratio>35</ratio>
+<template_key>WH_mp_Greenskins_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e9031361-df99-4f20-9ae4-267c55c3e1fc}" record_timestamp="1439196681599" record_key="WH_mp_Greenskins_siege_attackDefault_land_infantry_missile">
+<ratio>10</ratio>
+<template_key>WH_mp_Greenskins_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{359998ff-d6a9-441b-aaf9-2abc916a11e6}" record_timestamp="1439196681583" record_key="WH_mp_Greenskins_siege_attackDefault_land_infantry_monterous">
+<ratio>10</ratio>
+<template_key>WH_mp_Greenskins_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e1603c8e-2927-4468-9c12-c100fd4a0b7e}" record_timestamp="1442330071891" record_key="WH_mp_Greenskins_siege_attackDefault_land_infantry_spearmen">
+<ratio>10</ratio>
+<template_key>WH_mp_Greenskins_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f4f3492b-2f2f-452e-aacd-eded1fdcca56}" record_timestamp="1438951620098" record_key="WH_mp_Greenskins_siege_attackDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_mp_Greenskins_siege_attack</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{757a2cb2-4bb5-4414-8949-8903395f4002}" record_timestamp="1442330071668" record_key="WH_mp_Greenskins_siege_attackDefault_land_monster">
+<ratio>5</ratio>
+<template_key>WH_mp_Greenskins_siege_attack</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{81f69bb9-dc94-451e-9578-220dbe562c69}" record_timestamp="1438951620086" record_key="WH_mp_Greenskins_siege_attackDefault_land_vehicle">
+<ratio>5</ratio>
+<template_key>WH_mp_Greenskins_siege_attack</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{9371c919-32cb-4bb5-9d6d-95f1e9204268}" record_timestamp="1429538286914" record_key="WH_mp_Greenskins_siege_defenceDefault_land_artillery">
+<ratio>1</ratio>
+<template_key>WH_mp_Greenskins_siege_defence</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{fc64d922-1ac2-47f2-af8c-34d09e90a758}" record_timestamp="1438951620098" record_key="WH_mp_Greenskins_siege_defenceDefault_land_cavalry_melee">
+<ratio>5</ratio>
+<template_key>WH_mp_Greenskins_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{5080a268-7812-4d99-8cbe-804cb323c444}" record_timestamp="1442330071711" record_key="WH_mp_Greenskins_siege_defenceDefault_land_cavalry_missile">
+<ratio>0</ratio>
+<template_key>WH_mp_Greenskins_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c17e7bd4-0eb7-47c4-812b-3b3ed31bf4d0}" record_timestamp="1429538286174" record_key="WH_mp_Greenskins_siege_defenceDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Greenskins_siege_defence</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{051b764b-4b9a-4f9c-afee-797eb61ea25a}" record_timestamp="1442330072127" record_key="WH_mp_Greenskins_siege_defenceDefault_land_giant">
+<ratio>5</ratio>
+<template_key>WH_mp_Greenskins_siege_defence</template_key>
+<unit_group_key>Default_land_giant</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1b6014f4-d07d-4679-b25a-28498b2dd805}" record_timestamp="1442330072151" record_key="WH_mp_Greenskins_siege_defenceDefault_land_infantry_melee">
+<ratio>35</ratio>
+<template_key>WH_mp_Greenskins_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{afac0053-80f5-4449-8dc1-0ccfc3b1de2c}" record_timestamp="1442330072055" record_key="WH_mp_Greenskins_siege_defenceDefault_land_infantry_missile">
+<ratio>25</ratio>
+<template_key>WH_mp_Greenskins_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{7c4f7866-9936-4189-882b-109476d7959f}" record_timestamp="1442330071755" record_key="WH_mp_Greenskins_siege_defenceDefault_land_infantry_monterous">
+<ratio>10</ratio>
+<template_key>WH_mp_Greenskins_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{97e96d4c-37c6-4adc-939b-74468ae4f448}" record_timestamp="1442330071937" record_key="WH_mp_Greenskins_siege_defenceDefault_land_infantry_spearmen">
+<ratio>10</ratio>
+<template_key>WH_mp_Greenskins_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{9117d8a8-434d-4b55-9294-96be664bf6fc}" record_timestamp="1438951620098" record_key="WH_mp_Greenskins_siege_defenceDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_mp_Greenskins_siege_defence</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8f6f8fdd-f2a4-4afa-a3a6-18bf9a72b288}" record_timestamp="1442330071961" record_key="WH_mp_Greenskins_siege_defenceDefault_land_monster">
+<ratio>5</ratio>
+<template_key>WH_mp_Greenskins_siege_defence</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{d7afbd8e-80ca-4f6f-9a83-6999cd28aed2}" record_timestamp="1442330071984" record_key="WH_mp_Greenskins_siege_defenceDefault_land_vehicle">
+<ratio>1</ratio>
+<template_key>WH_mp_Greenskins_siege_defence</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0a2e14f2-14e6-441f-9b20-a2c2b87904a3}" record_timestamp="1429538283921" record_key="WH_mp_Kislev_siege_attackDefault_land_artillery">
+<ratio>1</ratio>
+<template_key>WH_mp_Kislev_siege_attack</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{5efeecee-7790-4096-8865-327294377cf7}" record_timestamp="1429538283859" record_key="WH_mp_Kislev_siege_attackDefault_land_cavalry_melee">
+<ratio>1</ratio>
+<template_key>WH_mp_Kislev_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{67552332-fb85-4011-9c67-95e895df286d}" record_timestamp="1438951620098" record_key="WH_mp_Kislev_siege_attackDefault_land_cavalry_missile">
+<ratio>5</ratio>
+<template_key>WH_mp_Kislev_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{40673be3-ab95-4ee3-a7ed-bff7dcd43851}" record_timestamp="1429538283993" record_key="WH_mp_Kislev_siege_attackDefault_land_cavalry_shock">
+<ratio>1</ratio>
+<template_key>WH_mp_Kislev_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_shock</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f170ee3d-edaa-40ec-b1b2-67e8836808d1}" record_timestamp="1429538283181" record_key="WH_mp_Kislev_siege_attackDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Kislev_siege_attack</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1a6be6ac-cef8-4c38-abc4-1ab12aa1d985}" record_timestamp="1439196681629" record_key="WH_mp_Kislev_siege_attackDefault_land_infantry_melee">
+<ratio>40</ratio>
+<template_key>WH_mp_Kislev_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e5793c7a-a746-41f6-9da7-032a35e9340f}" record_timestamp="1439196681618" record_key="WH_mp_Kislev_siege_attackDefault_land_infantry_missile">
+<ratio>25</ratio>
+<template_key>WH_mp_Kislev_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1ed13f23-a9a7-45da-9325-428d3160cecb}" record_timestamp="1438951620098" record_key="WH_mp_Kislev_siege_attackDefault_land_infantry_spearmen">
+<ratio>30</ratio>
+<template_key>WH_mp_Kislev_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{9d85c981-52ee-4349-97d2-89b6aa465125}" record_timestamp="1429538283551" record_key="WH_mp_Kislev_siege_attackDefault_land_magic">
+<ratio>1</ratio>
+<template_key>WH_mp_Kislev_siege_attack</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ffa50292-c551-485c-9867-bad465aa6293}" record_timestamp="1429538282679" record_key="WH_mp_Kislev_siege_attackDefault_land_vehicle">
+<ratio>1</ratio>
+<template_key>WH_mp_Kislev_siege_attack</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b6a3d072-9ca5-4770-9568-8ff4361ca51a}" record_timestamp="1429538282930" record_key="WH_mp_Kislev_siege_defenceDefault_land_artillery">
+<ratio>1</ratio>
+<template_key>WH_mp_Kislev_siege_defence</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{74a8d537-4bb0-4f40-b077-5871592cb527}" record_timestamp="1429538282865" record_key="WH_mp_Kislev_siege_defenceDefault_land_cavalry_melee">
+<ratio>1</ratio>
+<template_key>WH_mp_Kislev_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{50edf1a5-4e21-40c5-b7eb-3b0c0d6eeea1}" record_timestamp="1438951620098" record_key="WH_mp_Kislev_siege_defenceDefault_land_cavalry_missile">
+<ratio>5</ratio>
+<template_key>WH_mp_Kislev_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e8f36646-e129-44b1-b5db-04fab8bcd514}" record_timestamp="1429538282995" record_key="WH_mp_Kislev_siege_defenceDefault_land_cavalry_shock">
+<ratio>1</ratio>
+<template_key>WH_mp_Kislev_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_shock</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f08253ad-c9bd-48a8-afa4-144c7a5da227}" record_timestamp="1429538282185" record_key="WH_mp_Kislev_siege_defenceDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Kislev_siege_defence</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{544e876e-0e76-40ac-990c-23db78a578db}" record_timestamp="1438951620098" record_key="WH_mp_Kislev_siege_defenceDefault_land_infantry_melee">
+<ratio>30</ratio>
+<template_key>WH_mp_Kislev_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2b54f5e1-a149-4f02-9517-2c4fd864a071}" record_timestamp="1438951620098" record_key="WH_mp_Kislev_siege_defenceDefault_land_infantry_missile">
+<ratio>35</ratio>
+<template_key>WH_mp_Kislev_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f8342c6b-2c49-43f8-91bd-aaf87c43f288}" record_timestamp="1438951620098" record_key="WH_mp_Kislev_siege_defenceDefault_land_infantry_spearmen">
+<ratio>30</ratio>
+<template_key>WH_mp_Kislev_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{7f9bae77-6ad3-471e-967d-5dd3b894a74f}" record_timestamp="1429538282555" record_key="WH_mp_Kislev_siege_defenceDefault_land_magic">
+<ratio>1</ratio>
+<template_key>WH_mp_Kislev_siege_defence</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{df55f061-2b82-4d17-8893-a2d7c39207a2}" record_timestamp="1429538281683" record_key="WH_mp_Kislev_siege_defenceDefault_land_vehicle">
+<ratio>1</ratio>
+<template_key>WH_mp_Kislev_siege_defence</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4abf5c73-e3d3-4812-912e-77a0621d22a7}" record_timestamp="1438951620098" record_key="WH_mp_Norsca_siege_attackDefault_land_animal_pack">
+<ratio>15</ratio>
+<template_key>WH_mp_Norsca_siege_attack</template_key>
+<unit_group_key>Default_land_animal_pack</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{57ab9146-32a5-4585-b0d9-df975902cc43}" record_timestamp="1438951620098" record_key="WH_mp_Norsca_siege_attackDefault_land_cavalry_missile">
+<ratio>10</ratio>
+<template_key>WH_mp_Norsca_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{7ef42380-787e-4be3-8e86-25b6c38058e2}" record_timestamp="1429538279220" record_key="WH_mp_Norsca_siege_attackDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Norsca_siege_attack</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{a5716b43-c037-4639-a312-907d4174c0dd}" record_timestamp="1438951620098" record_key="WH_mp_Norsca_siege_attackDefault_land_infantry_melee">
+<ratio>50</ratio>
+<template_key>WH_mp_Norsca_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8b93113a-1f76-4421-b864-bf7889fd91eb}" record_timestamp="1438951620098" record_key="WH_mp_Norsca_siege_attackDefault_land_infantry_monterous">
+<ratio>20</ratio>
+<template_key>WH_mp_Norsca_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ea78645b-0244-4bc4-a2e4-48754b2cea3e}" record_timestamp="1429538279585" record_key="WH_mp_Norsca_siege_attackDefault_land_magic">
+<ratio>1</ratio>
+<template_key>WH_mp_Norsca_siege_attack</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{71745670-5067-4eeb-aa0b-f65039798fa4}" record_timestamp="1438951620098" record_key="WH_mp_Norsca_siege_attackDefault_land_vehicle">
+<ratio>5</ratio>
+<template_key>WH_mp_Norsca_siege_attack</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{04a1a538-fecb-4354-9345-f7497fbb3016}" record_timestamp="1438951620098" record_key="WH_mp_Norsca_siege_defenceDefault_land_animal_pack">
+<ratio>15</ratio>
+<template_key>WH_mp_Norsca_siege_defence</template_key>
+<unit_group_key>Default_land_animal_pack</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{3cff2fdb-58dd-44d5-8343-fa02631f188b}" record_timestamp="1438951620098" record_key="WH_mp_Norsca_siege_defenceDefault_land_cavalry_missile">
+<ratio>10</ratio>
+<template_key>WH_mp_Norsca_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f7e909ac-37e1-49f2-b78a-2d1a7b548783}" record_timestamp="1429538278242" record_key="WH_mp_Norsca_siege_defenceDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Norsca_siege_defence</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0c058645-9d07-47f8-b618-f7dc188b8216}" record_timestamp="1438951620098" record_key="WH_mp_Norsca_siege_defenceDefault_land_infantry_melee">
+<ratio>50</ratio>
+<template_key>WH_mp_Norsca_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8b211dec-604f-4cad-af89-5b7f914242a4}" record_timestamp="1438951620099" record_key="WH_mp_Norsca_siege_defenceDefault_land_infantry_monterous">
+<ratio>20</ratio>
+<template_key>WH_mp_Norsca_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{22ae7418-4383-448c-9ce4-3d59898cf9c1}" record_timestamp="1429538278608" record_key="WH_mp_Norsca_siege_defenceDefault_land_magic">
+<ratio>1</ratio>
+<template_key>WH_mp_Norsca_siege_defence</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{9cfc8579-ad15-4fd6-937f-54947da51cb6}" record_timestamp="1438951620099" record_key="WH_mp_Norsca_siege_defenceDefault_land_vehicle">
+<ratio>5</ratio>
+<template_key>WH_mp_Norsca_siege_defence</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ec91ab99-0c1c-4229-97be-0e87ace94adf}" record_timestamp="1429538263806" record_key="WH_mp_TEB_siege_attackDefault_land_artillery">
+<ratio>1</ratio>
+<template_key>WH_mp_TEB_siege_attack</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c4c929e0-efa0-415a-ad35-5122a19cdec2}" record_timestamp="1429538263748" record_key="WH_mp_TEB_siege_attackDefault_land_cavalry_melee">
+<ratio>1</ratio>
+<template_key>WH_mp_TEB_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{655c5197-d555-46ad-91fa-8b33d336e060}" record_timestamp="1438951620099" record_key="WH_mp_TEB_siege_attackDefault_land_cavalry_missile">
+<ratio>5</ratio>
+<template_key>WH_mp_TEB_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2cdd166c-c886-4208-98f0-90b62f09495a}" record_timestamp="1429538263865" record_key="WH_mp_TEB_siege_attackDefault_land_cavalry_shock">
+<ratio>1</ratio>
+<template_key>WH_mp_TEB_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_shock</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{7d5469c1-2b57-41b2-a814-208323bb67e5}" record_timestamp="1429538263097" record_key="WH_mp_TEB_siege_attackDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_TEB_siege_attack</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{880e24c4-55ee-4928-a565-e0a419b78d75}" record_timestamp="1439196681652" record_key="WH_mp_TEB_siege_attackDefault_land_infantry_melee">
+<ratio>40</ratio>
+<template_key>WH_mp_TEB_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6f113911-bf3f-4962-a567-3df9799c6681}" record_timestamp="1439196681641" record_key="WH_mp_TEB_siege_attackDefault_land_infantry_missile">
+<ratio>20</ratio>
+<template_key>WH_mp_TEB_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{68e2e76a-e654-4678-aa7e-7a09a50e0012}" record_timestamp="1438951620099" record_key="WH_mp_TEB_siege_attackDefault_land_infantry_spearmen">
+<ratio>35</ratio>
+<template_key>WH_mp_TEB_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{323cd62b-b659-4f6c-a4c3-29f9d2134f31}" record_timestamp="1429538263456" record_key="WH_mp_TEB_siege_attackDefault_land_magic">
+<ratio>1</ratio>
+<template_key>WH_mp_TEB_siege_attack</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{77409d9f-a99d-465d-b767-46d4f64e76ae}" record_timestamp="1429538262627" record_key="WH_mp_TEB_siege_attackDefault_land_vehicle">
+<ratio>1</ratio>
+<template_key>WH_mp_TEB_siege_attack</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{561b4f6d-a8f5-4715-941f-ffeedc8ee3fd}" record_timestamp="1429538262862" record_key="WH_mp_TEB_siege_defenceDefault_land_artillery">
+<ratio>1</ratio>
+<template_key>WH_mp_TEB_siege_defence</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{d4f314f4-baab-4125-bbc9-805fe467afcb}" record_timestamp="1429538262803" record_key="WH_mp_TEB_siege_defenceDefault_land_cavalry_melee">
+<ratio>1</ratio>
+<template_key>WH_mp_TEB_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e9bd17a3-4abd-420c-af4b-c3194cc962b1}" record_timestamp="1438951620099" record_key="WH_mp_TEB_siege_defenceDefault_land_cavalry_missile">
+<ratio>5</ratio>
+<template_key>WH_mp_TEB_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{d37fe43b-f4c9-4431-97fd-707e48f52af3}" record_timestamp="1429538262921" record_key="WH_mp_TEB_siege_defenceDefault_land_cavalry_shock">
+<ratio>1</ratio>
+<template_key>WH_mp_TEB_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_shock</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{a82a3bb1-9cd9-4578-a1f9-2caaed816ce4}" record_timestamp="1429538299222" record_key="WH_mp_TEB_siege_defenceDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_TEB_siege_defence</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{57e86e72-aa4f-4520-99f0-dd4cca3b06f1}" record_timestamp="1438951620099" record_key="WH_mp_TEB_siege_defenceDefault_land_infantry_melee">
+<ratio>30</ratio>
+<template_key>WH_mp_TEB_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{61de1cd0-3972-479e-9990-29af90c4e168}" record_timestamp="1438951620099" record_key="WH_mp_TEB_siege_defenceDefault_land_infantry_missile">
+<ratio>35</ratio>
+<template_key>WH_mp_TEB_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f1a8977e-e399-42ce-8c0c-1b06723e19d6}" record_timestamp="1438951620099" record_key="WH_mp_TEB_siege_defenceDefault_land_infantry_spearmen">
+<ratio>30</ratio>
+<template_key>WH_mp_TEB_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b49c26de-a27b-41db-b387-b6b7f1106b1e}" record_timestamp="1429538299598" record_key="WH_mp_TEB_siege_defenceDefault_land_magic">
+<ratio>1</ratio>
+<template_key>WH_mp_TEB_siege_defence</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b226a380-1ab4-4fba-93c4-21a5646ee8c3}" record_timestamp="1429538298728" record_key="WH_mp_TEB_siege_defenceDefault_land_vehicle">
+<ratio>1</ratio>
+<template_key>WH_mp_TEB_siege_defence</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c29ee0e3-a568-4f98-89b6-8497e063a617}" record_timestamp="1438951620087" record_key="WH_mp_Vampire_Counts_siege_attackDefault_land_animal_pack_flying">
+<ratio>10</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_attack</template_key>
+<unit_group_key>Default_land_animal_pack_flying</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{57e34725-312a-4298-a7b7-51d63bab12d5}" record_timestamp="1438951620099" record_key="WH_mp_Vampire_Counts_siege_attackDefault_land_cavalry_melee">
+<ratio>5</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b3e6a35a-8b1f-4503-8047-608e596104b5}" record_timestamp="1429538297038" record_key="WH_mp_Vampire_Counts_siege_attackDefault_land_cavalry_shock">
+<ratio>1</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_shock</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b9fe08f4-e5f9-44c5-8172-f5a66943aa84}" record_timestamp="1429538296228" record_key="WH_mp_Vampire_Counts_siege_attackDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_attack</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{d7df3965-3488-4fac-8ac7-50850f6c3d73}" record_timestamp="1438951620099" record_key="WH_mp_Vampire_Counts_siege_attackDefault_land_infantry_melee">
+<ratio>15</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{7c21afb8-77dd-457a-9e64-5373b8a09e70}" record_timestamp="1463569078683" record_key="WH_mp_Vampire_Counts_siege_attackDefault_land_infantry_melee_low_quality">
+<ratio>10</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_melee_low_quality</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b1b98c66-8e77-4cc2-874f-4542df09c4c7}" record_timestamp="1463569078683" record_key="WH_mp_Vampire_Counts_siege_attackDefault_land_infantry_monterous">
+<ratio>20</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4a0f2332-fa8f-44d9-bbf5-c6aef68534f5}" record_timestamp="1448619520693" record_key="WH_mp_Vampire_Counts_siege_attackDefault_land_magic">
+<ratio>10</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_attack</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{684eff24-3443-4506-84b9-a985a02dd6df}" record_timestamp="1438951620087" record_key="WH_mp_Vampire_Counts_siege_attackDefault_land_monster">
+<ratio>20</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_attack</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8861afc2-5a8e-4159-95c3-2f8212d2c690}" record_timestamp="1438951620087" record_key="WH_mp_Vampire_Counts_siege_attackDefault_land_vehicle">
+<ratio>5</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_attack</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{d90ac256-0fea-48b1-9297-db6b15d3a12c}" record_timestamp="1448377813729" record_key="WH_mp_Vampire_Counts_siege_defenceDefault_land_animal_pack_flying">
+<ratio>5</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_defence</template_key>
+<unit_group_key>Default_land_animal_pack_flying</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{842be370-9b3d-4fa6-a4e2-a392202a157b}" record_timestamp="1438951620099" record_key="WH_mp_Vampire_Counts_siege_defenceDefault_land_cavalry_melee">
+<ratio>5</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6b7db4bb-5ca9-415a-84b7-c131b6aac53a}" record_timestamp="1429538296043" record_key="WH_mp_Vampire_Counts_siege_defenceDefault_land_cavalry_shock">
+<ratio>1</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_shock</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{eff97c8c-3e47-461e-a2ba-b1021a24034c}" record_timestamp="1429538295231" record_key="WH_mp_Vampire_Counts_siege_defenceDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_defence</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{29ca432e-2f09-4868-a4bf-4fc6eb765bb5}" record_timestamp="1463569078683" record_key="WH_mp_Vampire_Counts_siege_defenceDefault_land_infantry_melee">
+<ratio>25</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0a45f2df-254d-4ada-a485-5715ce60320a}" record_timestamp="1463569078683" record_key="WH_mp_Vampire_Counts_siege_defenceDefault_land_infantry_melee_low_quality">
+<ratio>10</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_melee_low_quality</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{541d62c6-f690-4d25-adc0-ba888d0701ef}" record_timestamp="1463569078683" record_key="WH_mp_Vampire_Counts_siege_defenceDefault_land_infantry_monterous">
+<ratio>15</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_monterous</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{622cb98e-47fc-4aa4-b979-c760a8aeb7bf}" record_timestamp="1448619520710" record_key="WH_mp_Vampire_Counts_siege_defenceDefault_land_magic">
+<ratio>10</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_defence</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{9dfe8abe-36a8-4aaf-880b-569dedae5245}" record_timestamp="1439196681674" record_key="WH_mp_Vampire_Counts_siege_defenceDefault_land_monster">
+<ratio>25</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_defence</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b32f7e4e-ad26-4419-966d-6db4d804a53c}" record_timestamp="1438951620087" record_key="WH_mp_Vampire_Counts_siege_defenceDefault_land_vehicle">
+<ratio>5</ratio>
+<template_key>WH_mp_Vampire_Counts_siege_defence</template_key>
+<unit_group_key>Default_land_vehicle</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e87af9dc-73db-4ccb-9d80-fb3488de6f4a}" record_timestamp="1479317201086" record_key="WH_mp_Wood_Elves_siege_attackDefault_land_cavalry_melee">
+<ratio>10</ratio>
+<template_key>WH_mp_Wood_Elves_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{ab876d22-9629-45ab-a5f2-069bcafe3e77}" record_timestamp="1479317201089" record_key="WH_mp_Wood_Elves_siege_attackDefault_land_cavalry_missile">
+<ratio>5</ratio>
+<template_key>WH_mp_Wood_Elves_siege_attack</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c11ef2b8-5c46-436a-a2c9-2151aea59739}" record_timestamp="1429538294247" record_key="WH_mp_Wood_Elves_siege_attackDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Wood_Elves_siege_attack</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{1f79b18a-72a8-48a4-8bf6-3eeb58e047c2}" record_timestamp="1479317201099" record_key="WH_mp_Wood_Elves_siege_attackDefault_land_infantry_melee">
+<ratio>44</ratio>
+<template_key>WH_mp_Wood_Elves_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{d9e82acd-a970-4492-bbbc-f1ab4c8f3565}" record_timestamp="1479317201091" record_key="WH_mp_Wood_Elves_siege_attackDefault_land_infantry_missile">
+<ratio>20</ratio>
+<template_key>WH_mp_Wood_Elves_siege_attack</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{a5e07eca-bc4a-4a74-8eb5-973c5035e2c4}" record_timestamp="1479317201091" record_key="WH_mp_Wood_Elves_siege_attackDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_mp_Wood_Elves_siege_attack</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{5348df3c-8d7c-4ff3-8b58-19245c02bc9e}" record_timestamp="1479317201100" record_key="WH_mp_Wood_Elves_siege_attackDefault_land_monster">
+<ratio>15</ratio>
+<template_key>WH_mp_Wood_Elves_siege_attack</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{7314853e-3220-43a2-9624-6794011043f0}" record_timestamp="1479317201092" record_key="WH_mp_Wood_Elves_siege_defenceDefault_land_cavalry_melee">
+<ratio>10</ratio>
+<template_key>WH_mp_Wood_Elves_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2cf4bdbd-910c-44e3-bb71-31ac6c543283}" record_timestamp="1479317201096" record_key="WH_mp_Wood_Elves_siege_defenceDefault_land_cavalry_missile">
+<ratio>5</ratio>
+<template_key>WH_mp_Wood_Elves_siege_defence</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{dce0751e-266b-4765-845d-5f919f3d29cc}" record_timestamp="1429538293259" record_key="WH_mp_Wood_Elves_siege_defenceDefault_land_command">
+<ratio>1</ratio>
+<template_key>WH_mp_Wood_Elves_siege_defence</template_key>
+<unit_group_key>Default_land_command</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8f6fa224-84e6-4952-9c95-10b05e4bdb74}" record_timestamp="1479317201101" record_key="WH_mp_Wood_Elves_siege_defenceDefault_land_infantry_melee">
+<ratio>34</ratio>
+<template_key>WH_mp_Wood_Elves_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{2cd74769-1f6a-4d48-857f-1cdeffb3b192}" record_timestamp="1479317201097" record_key="WH_mp_Wood_Elves_siege_defenceDefault_land_infantry_missile">
+<ratio>30</ratio>
+<template_key>WH_mp_Wood_Elves_siege_defence</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{6973ca5a-2e93-4c1d-ad61-82ef50f48224}" record_timestamp="1479317201098" record_key="WH_mp_Wood_Elves_siege_defenceDefault_land_magic">
+<ratio>5</ratio>
+<template_key>WH_mp_Wood_Elves_siege_defence</template_key>
+<unit_group_key>Default_land_magic</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8d6d7165-7e5a-4589-bb88-f22f7368fad0}" record_timestamp="1479317201100" record_key="WH_mp_Wood_Elves_siege_defenceDefault_land_monster">
+<ratio>15</ratio>
+<template_key>WH_mp_Wood_Elves_siege_defence</template_key>
+<unit_group_key>Default_land_monster</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4a1b470d-cd82-4ff9-a520-e2ace27b48cd}" record_timestamp="1368026752583" record_key="default_landDefault_land_artillery">
+<ratio>1</ratio>
+<template_key>default_land</template_key>
+<unit_group_key>Default_land_artillery</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{0b5af4ef-3070-42c3-a696-9a815585c450}" record_timestamp="1368026752613" record_key="default_landDefault_land_camels">
+<ratio>1</ratio>
+<template_key>default_land</template_key>
+<unit_group_key>Default_land_camels</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{e5aabec2-4329-475d-be1b-3fe7b2d8467b}" record_timestamp="1368026752843" record_key="default_landDefault_land_cavalry_melee">
+<ratio>1</ratio>
+<template_key>default_land</template_key>
+<unit_group_key>Default_land_cavalry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{b07ccd5a-7841-4887-9e44-a77c22cd546a}" record_timestamp="1368026752733" record_key="default_landDefault_land_cavalry_missile">
+<ratio>1</ratio>
+<template_key>default_land</template_key>
+<unit_group_key>Default_land_cavalry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{5a749a8e-fef7-41cc-832c-b455eb8a57b0}" record_timestamp="1368026752653" record_key="default_landDefault_land_cavalry_shock">
+<ratio>1</ratio>
+<template_key>default_land</template_key>
+<unit_group_key>Default_land_cavalry_shock</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{fc73c3f3-966d-4d76-857a-db9a0db18a4c}" record_timestamp="1368026752883" record_key="default_landDefault_land_elephants">
+<ratio>1</ratio>
+<template_key>default_land</template_key>
+<unit_group_key>Default_land_elephants</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{cede9fa0-b723-44a0-b707-ae20d0edc01e}" record_timestamp="1368026752803" record_key="default_landDefault_land_infantry_melee">
+<ratio>1</ratio>
+<template_key>default_land</template_key>
+<unit_group_key>Default_land_infantry_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{c3d76ca1-2ce6-4bcb-9d63-eeba6b7a0f82}" record_timestamp="1368026752773" record_key="default_landDefault_land_infantry_missile">
+<ratio>1</ratio>
+<template_key>default_land</template_key>
+<unit_group_key>Default_land_infantry_missile</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{8d0ce52e-5751-4ca6-997b-91aa76cba19c}" record_timestamp="1368026752693" record_key="default_landDefault_land_infantry_spearmen">
+<ratio>1</ratio>
+<template_key>default_land</template_key>
+<unit_group_key>Default_land_infantry_spearmen</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{4b881337-6015-4842-8659-ac8b0e0b6518}" record_timestamp="1374680379302" record_key="default_navalDefault_naval_melee">
+<ratio>2</ratio>
+<template_key>default_naval</template_key>
+<unit_group_key>Default_naval_melee</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{45640155-84e0-4213-bfe5-0b8056a8231a}" record_timestamp="1374680379336" record_key="default_navalDefault_naval_ranged">
+<ratio>2</ratio>
+<template_key>default_naval</template_key>
+<unit_group_key>Default_naval_ranged</unit_group_key>
+</cdir_military_generator_template_ratios>
+<cdir_military_generator_template_ratios record_uuid="{f09f2fe9-8837-4189-8b03-d2cd60b31b3a}" record_timestamp="1374680379370" record_key="default_navalDefault_naval_special">
+<ratio>1</ratio>
+<template_key>default_naval</template_key>
+<unit_group_key>Default_naval_special</unit_group_key>
+</cdir_military_generator_template_ratios>
+</dataroot>

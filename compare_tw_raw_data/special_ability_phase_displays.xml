@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="special_ability_phase_displays.xsd" export_time="Tue Dec 6 13:32:29 2016" revision="56" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>0a681a22-7fb3-41c5-8958-348c1439e126</edit_uuid>
+<special_ability_phase_displays record_uuid="{a632d0fa-4cf8-456d-bb25-d5da534f9a36}" record_timestamp="1466001633814" record_key="wh_dlc03_spell_beast_flock_of_doom">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_dlc03_beasts_flock_of_doom_debuff</entity_vfx>
+<key>wh_dlc03_spell_beast_flock_of_doom</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{1fda1bbb-b4c4-4a86-9099-d7ea299a0340}" record_timestamp="1466001633829" record_key="wh_dlc03_spell_beasts_flock_of_doom_upgraded">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_dlc03_beasts_flock_of_doom_debuff</entity_vfx>
+<key>wh_dlc03_spell_beasts_flock_of_doom_upgraded</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{fa4ddd4f-4c83-43bc-8050-5cb05fbc3f2a}" record_timestamp="1460538319379" record_key="wh_dlc03_spell_beasts_panns_impenetrable_pelt">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_dlc03_beasts_panns_impenetrable_pelt_buff</entity_vfx>
+<key>wh_dlc03_spell_beasts_panns_impenetrable_pelt</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{aeddbc34-44cb-4c23-a584-4616ab51e587}" record_timestamp="1460538319419" record_key="wh_dlc03_spell_beasts_the_curse_of_anraheir">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_dlc03_beasts_curse_of_anraheir_debuff</entity_vfx>
+<key>wh_dlc03_spell_beasts_the_curse_of_anraheir</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{ff3af1e3-b7df-44ba-9bdd-ae0639a30bc4}" record_timestamp="1460538319457" record_key="wh_dlc03_spell_beasts_wyssans_wildform">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_dlc03_beasts_wyssans_wildform_buff</entity_vfx>
+<key>wh_dlc03_spell_beasts_wyssans_wildform</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{db5dce6f-5c6f-4206-aed5-99422cc16c46}" record_timestamp="1460538319496" record_key="wh_dlc03_spell_wild_devolve">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_dlc03_wild_devolve_entity_debuff</entity_vfx>
+<key>wh_dlc03_spell_wild_devolve</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{d48c381b-a238-4595-a371-ca273caaffe8}" record_timestamp="1460538319537" record_key="wh_dlc03_spell_wild_mantle_of_ghorok">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_dlc03_wild_mantle_of_ghorok_entity_buff</entity_vfx>
+<key>wh_dlc03_spell_wild_mantle_of_ghorok</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{9f5854c0-1f5e-427b-bbe7-eddf9f2f6fbd}" record_timestamp="1460538319576" record_key="wh_dlc03_spell_wild_mantle_of_ghorok_debuff">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_dlc03_wild_mantle_of_ghorok_unit_debuff</entity_vfx>
+<key>wh_dlc03_spell_wild_mantle_of_ghorok_debuff</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{0ff9f711-0663-4841-9404-70ffb4ce7e85}" record_timestamp="1460538319614" record_key="wh_dlc03_spell_wild_traitor_kin">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_dlc03_wild_traitor_kin_entity_debuff</entity_vfx>
+<key>wh_dlc03_spell_wild_traitor_kin</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{a5b41a34-5a52-4140-bc11-68b9150ca735}" record_timestamp="1469108799558" record_key="wh_dlc03_unit_passive_bloodgreed">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_buff_morale</entity_vfx>
+<key>wh_dlc03_unit_passive_bloodgreed</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{c0a12032-0c37-44a4-bbaa-5cdbfac66399}" record_timestamp="1479331185585" record_key="wh_dlc05_abilities_aura_of_transmutation">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_dlc05_abilities_aura_of_transmutation</entity_vfx>
+<key>wh_dlc05_abilities_aura_of_transmutation</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{081d8d70-1b7d-4e7b-8e57-a04b3e1301a8}" record_timestamp="1479308735188" record_key="wh_dlc05_ability_pray_of_anath_raema">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_dlc05_pray_of_anath_entity_debuff</entity_vfx>
+<key>wh_dlc05_ability_pray_of_anath_raema</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{0401dcbe-2103-4fe7-bd6a-326ecb5f6548}" record_timestamp="1477037069685" record_key="wh_dlc05_spell_life_earth_blood">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_dlc05_life_earthblood_entity_buff</entity_vfx>
+<key>wh_dlc05_spell_life_earth_blood</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{eea52df7-c3fe-4452-abe0-733880482174}" record_timestamp="1477037069685" record_key="wh_dlc05_spell_life_earth_blood_upgraded">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_dlc05_life_earthblood_entity_buff</entity_vfx>
+<key>wh_dlc05_spell_life_earth_blood_upgraded</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{81216100-ee1d-4b12-ac93-33c09e491e3a}" record_timestamp="1477037069697" record_key="wh_dlc05_spell_life_flesh_to_stone">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_dlc05_life_flesh_to_stone_entity_buff</entity_vfx>
+<key>wh_dlc05_spell_life_flesh_to_stone</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{35f6d5f7-f936-4e98-ac44-6f7473ec9069}" record_timestamp="1477037069698" record_key="wh_dlc05_spell_life_flesh_to_stone_upgraded">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_dlc05_life_flesh_to_stone_entity_buff</entity_vfx>
+<key>wh_dlc05_spell_life_flesh_to_stone_upgraded</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{cae6de1b-cdf1-47d3-8cd0-78600517a5a2}" record_timestamp="1475074248657" record_key="wh_dlc05_spell_life_regrowth">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_dlc05_life_regrowth_entity_buff</entity_vfx>
+<key>wh_dlc05_spell_life_regrowth</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{e082222b-5c55-471f-a249-91cd317ea43d}" record_timestamp="1475074248695" record_key="wh_dlc05_spell_life_regrowth_upgraded">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_dlc05_life_regrowth_entity_buff</entity_vfx>
+<key>wh_dlc05_spell_life_regrowth_upgraded</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{d3632bd5-64d3-4e1f-bb82-dab2f1a7d8a2}" record_timestamp="1477037069709" record_key="wh_dlc05_spell_life_shield_of_thorns">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_dlc05_life_shield_of_thornes_entity_buff</entity_vfx>
+<key>wh_dlc05_spell_life_shield_of_thorns</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{d56c0084-f208-43b4-bb99-ba5aad9a076f}" record_timestamp="1477037069709" record_key="wh_dlc05_spell_life_shield_of_thorns_upgraded">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_dlc05_life_shield_of_thornes_entity_buff</entity_vfx>
+<key>wh_dlc05_spell_life_shield_of_thorns_upgraded</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{cb116d12-311f-4e37-b725-c4c3237cea58}" record_timestamp="1481031148288" record_key="wh_dlc05_spell_shadow_melkoths_mystifying_miasma">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_dlc05_shadow_melkoths_entity_debuff</entity_vfx>
+<key>wh_dlc05_spell_shadow_melkoths_mystifying_miasma</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{39ce02fc-94c0-4aa2-84ef-11e43c12e553}" record_timestamp="1474558586038" record_key="wh_dlc05_spell_shadow_the_enfeebling_foe">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_dlc05_shadow_enfeebling_foe_entity_debuff</entity_vfx>
+<key>wh_dlc05_spell_shadow_the_enfeebling_foe</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{e51e0d87-0159-412b-a41a-5f849fde41ae}" record_timestamp="1474558586025" record_key="wh_dlc05_spell_shadow_the_withering">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_dlc05_shadow_withering_entity_debuff</entity_vfx>
+<key>wh_dlc05_spell_shadow_the_withering</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{559a5624-d5f7-42d1-bb3f-7479ed7e30c6}" record_timestamp="1477035618804" record_key="wh_dlc06_character_abilities_effagee_of_da_git">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_lib_voodoo</entity_vfx>
+<key>wh_dlc06_character_abilities_effagee_of_da_git</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{2186fb95-0832-460b-a71e-0c510944d55d}" record_timestamp="1479325015732" record_key="wh_main_bound_entity_energy_large">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_bound_entity_energy_large</entity_vfx>
+<key>wh_main_bound_entity_energy_large</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{c2a02089-ae6b-4a40-aaac-e165fa8b6702}" record_timestamp="1479326056142" record_key="wh_main_bound_entity_energy_manticore">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_bound_entity_energy_manticore</entity_vfx>
+<key>wh_main_bound_entity_energy_manticore</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{c395ad56-f737-4cba-b413-5a82b7eb86df}" record_timestamp="1479325015730" record_key="wh_main_bound_entity_energy_small">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_bound_entity_energy_small</entity_vfx>
+<key>wh_main_bound_entity_energy_small</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{f7c6d80c-cf34-4b71-acc7-cdba980bcf9e}" record_timestamp="1443631132848" record_key="wh_main_generic_buff_attack">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_buff_attack</entity_vfx>
+<key>wh_main_generic_buff_attack</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{1ded2bec-a349-4be4-b78d-93577170567a}" record_timestamp="1443631132781" record_key="wh_main_generic_buff_attack_banner">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_generic_buff_attack_banner</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{7feb190d-7fc7-4cc2-8fb3-f2823a8dad50}" record_timestamp="1443631133126" record_key="wh_main_generic_buff_attack_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_buff_attack</entity_vfx>
+<key>wh_main_generic_buff_attack_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{0ba80271-7d85-4daa-9c71-28fcd0a28577}" record_timestamp="1443631131741" record_key="wh_main_generic_buff_defence">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_buff_defence</entity_vfx>
+<key>wh_main_generic_buff_defence</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{95a29bf5-f098-46c0-9330-5513230a8e0e}" record_timestamp="1454600524343" record_key="wh_main_generic_buff_defence_attack">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_buff_defence_attack</entity_vfx>
+<key>wh_main_generic_buff_defence_attack</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{5e2479ad-9ee5-4f1d-826b-e4c7f1c93fd7}" record_timestamp="1454600523667" record_key="wh_main_generic_buff_defence_attack_banner">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_generic_buff_defence_attack_banner</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{320f2ffc-432b-4859-a305-8f8d4baaed60}" record_timestamp="1454600523749" record_key="wh_main_generic_buff_defence_attack_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_buff_defence_attack</entity_vfx>
+<key>wh_main_generic_buff_defence_attack_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{66277b6c-6144-4607-96f9-a9b0fac4d8d2}" record_timestamp="1443631129192" record_key="wh_main_generic_buff_defence_banner">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_generic_buff_defence_banner</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{52930248-b39f-43b2-81c1-88cb3a37ae81}" record_timestamp="1454600523501" record_key="wh_main_generic_buff_defence_morale">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_buff_defence_morale</entity_vfx>
+<key>wh_main_generic_buff_defence_morale</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{e600405b-0bfe-4c50-a06f-039f58eeecf9}" record_timestamp="1454600523584" record_key="wh_main_generic_buff_defence_morale_banner">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_generic_buff_defence_morale_banner</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{559e45c2-7945-43f5-b3e7-f313f27f7815}" record_timestamp="1454600523999" record_key="wh_main_generic_buff_defence_morale_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_buff_defence_morale</entity_vfx>
+<key>wh_main_generic_buff_defence_morale_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{f26eb92c-9c32-46e2-9aad-7d8c432a37b1}" record_timestamp="1443631131666" record_key="wh_main_generic_buff_defence_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_buff_defence</entity_vfx>
+<key>wh_main_generic_buff_defence_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{d26508f6-609f-4723-9379-0896481990b3}" record_timestamp="1454600524041" record_key="wh_main_generic_buff_morale">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_buff_morale</entity_vfx>
+<key>wh_main_generic_buff_morale</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{beb7683b-239e-425c-ad8f-33a696e0a0a7}" record_timestamp="1454600524166" record_key="wh_main_generic_buff_morale_attack">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_buff_morale_attack</entity_vfx>
+<key>wh_main_generic_buff_morale_attack</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{f993cd48-17dc-4e51-b20e-cbe06b92c34c}" record_timestamp="1454600524209" record_key="wh_main_generic_buff_morale_attack_banner">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_generic_buff_morale_attack_banner</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{238c691e-a15b-489d-84cd-096b2a33c0a9}" record_timestamp="1454600524083" record_key="wh_main_generic_buff_morale_attack_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_buff_morale_attack</entity_vfx>
+<key>wh_main_generic_buff_morale_attack_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{612710c6-6bfb-41ff-ac18-6863fc0bbfb1}" record_timestamp="1454600523914" record_key="wh_main_generic_buff_morale_banner">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_generic_buff_morale_banner</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{d4d7ef8e-edc8-43b6-8514-5f8eafa1e4d1}" record_timestamp="1454600523957" record_key="wh_main_generic_buff_morale_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_buff_morale</entity_vfx>
+<key>wh_main_generic_buff_morale_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{e3c7d7c4-7408-466a-8fa5-82b4471c932d}" record_timestamp="1455011095485" record_key="wh_main_generic_crumble">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_vampires_banner_unstable</banner_vfx>
+<entity_vfx>wh_main_vampires_unstable</entity_vfx>
+<key>wh_main_generic_crumble</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{7473e860-baea-438f-8ee8-bf0c308cff04}" record_timestamp="1459937660906" record_key="wh_main_generic_crumble_II">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_vampires_banner_unstable_severe</banner_vfx>
+<entity_vfx>wh_main_vampires_unstable_severe</entity_vfx>
+<key>wh_main_generic_crumble_II</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{d37ed993-46f3-4ea0-9a5f-4f51ebd00d8b}" record_timestamp="1443631133058" record_key="wh_main_generic_debuff_attack">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_debuff_attack</entity_vfx>
+<key>wh_main_generic_debuff_attack</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{5a7d5f31-f832-40fd-9369-4175ba9ae368}" record_timestamp="1443631132988" record_key="wh_main_generic_debuff_attack_banner">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_generic_debuff_attack_banner</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{6e9ce7b5-2c93-4058-a1e0-d3b62717c773}" record_timestamp="1443631132917" record_key="wh_main_generic_debuff_attack_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_debuff_attack</entity_vfx>
+<key>wh_main_generic_debuff_attack_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{446d0543-afc7-4001-8a97-71c5476dfea4}" record_timestamp="1443631131597" record_key="wh_main_generic_debuff_defence">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_debuff_defence</entity_vfx>
+<key>wh_main_generic_debuff_defence</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{15de636b-aef8-472e-a080-0ed943d54d72}" record_timestamp="1454600524124" record_key="wh_main_generic_debuff_defence_attack">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_debuff_defence_attack</entity_vfx>
+<key>wh_main_generic_debuff_defence_attack</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{c81e52f6-59b4-4e7e-b621-1859dec2a296}" record_timestamp="1454600524391" record_key="wh_main_generic_debuff_defence_attack_banner">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_generic_debuff_defence_attack_banner</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{3dd038f9-18f8-43b8-96e3-5ce18511c7a8}" record_timestamp="1454600524252" record_key="wh_main_generic_debuff_defence_attack_morale">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_debuff_defence_attack_morale</entity_vfx>
+<key>wh_main_generic_debuff_defence_attack_morale</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{6911948a-d909-4afb-9386-e031f9e11e28}" record_timestamp="1454600524294" record_key="wh_main_generic_debuff_defence_attack_morale_banner">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_generic_debuff_defence_attack_morale_banner</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{68b85144-7000-4894-a1e3-e34e395ed797}" record_timestamp="1454600523625" record_key="wh_main_generic_debuff_defence_attack_morale_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_debuff_defence_attack_morale</entity_vfx>
+<key>wh_main_generic_debuff_defence_attack_morale_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{8658d6dc-980d-42ff-bd65-0bd77df1a7d0}" record_timestamp="1454600524440" record_key="wh_main_generic_debuff_defence_attack_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_debuff_defence_attack</entity_vfx>
+<key>wh_main_generic_debuff_defence_attack_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{502b6bf8-a3a4-42a5-8ab5-f1bf33841a35}" record_timestamp="1443631130838" record_key="wh_main_generic_debuff_defence_banner">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_generic_debuff_defence_banner</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{e6cccfb3-84d4-45eb-af4c-f0abf8cc487f}" record_timestamp="1443631131529" record_key="wh_main_generic_debuff_defence_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_debuff_defence</entity_vfx>
+<key>wh_main_generic_debuff_defence_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{6f3b8140-e99e-411a-a1d2-c8da80247699}" record_timestamp="1454600523708" record_key="wh_main_generic_debuff_moral">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_debuff_moral</entity_vfx>
+<key>wh_main_generic_debuff_moral</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{5bdd87d4-7c3a-425a-8698-7c1701a97eb8}" record_timestamp="1454600523832" record_key="wh_main_generic_debuff_moral_attack">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_debuff_moral_attack</entity_vfx>
+<key>wh_main_generic_debuff_moral_attack</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{b27723fe-b75d-4b6b-a740-f96e3db1e89a}" record_timestamp="1454600523873" record_key="wh_main_generic_debuff_moral_attack_banner">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_generic_debuff_moral_attack_banner</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{c192164b-057c-422e-bc53-83f2e453b6c3}" record_timestamp="1454600523791" record_key="wh_main_generic_debuff_moral_attack_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_debuff_moral_attack</entity_vfx>
+<key>wh_main_generic_debuff_moral_attack_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{cbc292b7-ce8b-4e18-a403-90e1f971cd4d}" record_timestamp="1454600523458" record_key="wh_main_generic_debuff_moral_banner">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_generic_debuff_moral_banner</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{270463c1-27fa-45d5-a810-9631f941fc1c}" record_timestamp="1454600523543" record_key="wh_main_generic_debuff_moral_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_debuff_moral</entity_vfx>
+<key>wh_main_generic_debuff_moral_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{39f3b3bc-37b7-4dc6-acec-0aec5c68a187}" record_timestamp="1446736651743" record_key="wh_main_generic_hp_damage_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_hp_damage_burst</entity_vfx>
+<key>wh_main_generic_hp_damage_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{01d63f93-8454-4d07-9e08-ee1548f4c31b}" record_timestamp="1443540950000" record_key="wh_main_generic_hp_regen">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_hp_regen</entity_vfx>
+<key>wh_main_generic_hp_regen</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{8b9782ee-c357-4926-b92c-c08c1dc3f01f}" record_timestamp="1446736651696" record_key="wh_main_generic_hp_regen_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_entity_hp_regen_burst</entity_vfx>
+<key>wh_main_generic_hp_regen_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{54c6cff1-8a04-43e2-b46c-597574ef3f9a}" record_timestamp="1468496091519" record_key="wh_main_generic_imbuement_poison">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_generic_imbuement_poison</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{ceef08c8-e9c3-43e1-be14-82370cb09f5a}" record_timestamp="1461152306464" record_key="wh_main_generic_ward_save_all">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_generic_ward_save_all</entity_vfx>
+<key>wh_main_generic_ward_save_all</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{e0b14e1a-c9a2-49bd-a10a-157693f4c863}" record_timestamp="1454600530123" record_key="wh_main_generic_ward_save_all_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_ward_save_all</entity_vfx>
+<key>wh_main_generic_ward_save_all_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{17a92ce0-e22c-483a-af3e-c00c2e788705}" record_timestamp="1461152306463" record_key="wh_main_generic_ward_save_magic">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_generic_ward_save_magic</entity_vfx>
+<key>wh_main_generic_ward_save_magic</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{e4db2439-4263-46eb-98d8-0c042e8a254b}" record_timestamp="1454600529786" record_key="wh_main_generic_ward_save_magic_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_ward_save_magic</entity_vfx>
+<key>wh_main_generic_ward_save_magic_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{7edbe1b2-b3d1-4cfe-b828-583e9c7b659a}" record_timestamp="1461152306464" record_key="wh_main_generic_ward_save_missile">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_generic_ward_save_missile</entity_vfx>
+<key>wh_main_generic_ward_save_missile</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{dfd4d6f3-6e0f-4440-a615-d29f1c2fb623}" record_timestamp="1454600530170" record_key="wh_main_generic_ward_save_missile_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_generic_ward_save_missile</entity_vfx>
+<key>wh_main_generic_ward_save_missile_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{c4d8e553-e990-42c0-b6ca-a514ee4288d1}" record_timestamp="1442936271733" record_key="wh_main_hero_abilities_accusation">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_hp_damage</entity_vfx>
+<key>wh_main_hero_abilities_accusation</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{fb015897-3220-42f5-a97c-8636a89fa653}" record_timestamp="1442936271758" record_key="wh_main_hero_abilities_immortal_will">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_hp_regen</entity_vfx>
+<key>wh_main_hero_abilities_immortal_will</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{7cedad2a-e512-487f-b12f-c63090f105db}" record_timestamp="1442936271636" record_key="wh_main_hero_abilities_magic_mushrooms">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_hero_abilities_magic_mushrooms</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{8a11e256-2a3f-4a9e-acf0-31d12c00e82b}" record_timestamp="1481031078212" record_key="wh_main_shadow_buff_attack_passive">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_dlc05_shadow_okkams_entity_buff</entity_vfx>
+<key>wh_main_shadow_buff_attack_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{6f23fc62-e3eb-43f6-a5a9-0a21c7b0299d}" record_timestamp="1452096958839" record_key="wh_main_spell_big_waaagh_ere_we_go">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_big_waaagh_ere_we_go_entity_buff</entity_vfx>
+<key>wh_main_spell_big_waaagh_ere_we_go</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{c633d41d-82bf-4df6-a86f-c8e385d759ea}" record_timestamp="1452096958852" record_key="wh_main_spell_big_waaagh_fists_of_gork">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_big_waaagh_fists_of_gork_entity_buff</entity_vfx>
+<key>wh_main_spell_big_waaagh_fists_of_gork</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{03a4db30-9db4-4bef-9020-7578af717ca1}" record_timestamp="1452096958863" record_key="wh_main_spell_death_aspect_of_the_dreadknight">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_death_aspect_of_the_dreadknight_entity_buff</entity_vfx>
+<key>wh_main_spell_death_aspect_of_the_dreadknight</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{52d2c409-c7b0-4817-97f3-6f0e1c62885c}" record_timestamp="1452096958873" record_key="wh_main_spell_death_doom_and_darkness">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_death_doom_and_darkness_entity_debuff</entity_vfx>
+<key>wh_main_spell_death_doom_and_darkness</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{d20cee16-a614-4d30-9260-7f0eeea9782f}" record_timestamp="1452096958885" record_key="wh_main_spell_death_soulblight">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_death_soulblight_entity_debuff</entity_vfx>
+<key>wh_main_spell_death_soulblight</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{4df1d997-b716-40f6-bf81-73fc82c30a75}" record_timestamp="1452096958895" record_key="wh_main_spell_death_spirit_leech">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_death_spirit_leech_entity_debuff</entity_vfx>
+<key>wh_main_spell_death_spirit_leech</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{90e531e7-4cc9-4b74-9ac8-ea1c03a14d81}" record_timestamp="1452096958906" record_key="wh_main_spell_death_the_fate_of_bjuna">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_death_the_fate_of_bjuna_entity_debuff</entity_vfx>
+<key>wh_main_spell_death_the_fate_of_bjuna</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{0543a62c-cca6-4f2d-823d-885e14435184}" record_timestamp="1452096958917" record_key="wh_main_spell_fire_cascading_fire_cloak">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_fire_cascading_fire_cloak_entity_buff</entity_vfx>
+<key>wh_main_spell_fire_cascading_fire_cloak</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{6da9c086-2b45-4183-a5ba-2dbebd8b806c}" record_timestamp="1452096958928" record_key="wh_main_spell_fire_flaming_sword_of_rhuin">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_fire_flaming_sword_of_rhuin_entity_buff</entity_vfx>
+<key>wh_main_spell_fire_flaming_sword_of_rhuin</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{3c9ff547-6d36-4e31-8fb2-0523183963e9}" record_timestamp="1443100379292" record_key="wh_main_spell_fire_passive">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_fire_flaming_sword_of_rhuin_entity_buff</entity_vfx>
+<key>wh_main_spell_fire_passive</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{913199eb-486c-4f20-9d3b-796b40e9ba30}" record_timestamp="1452096958939" record_key="wh_main_spell_heavens_curse_of_the_midnight_wind">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_heavens_curse_of_the_midnight_wind_entity_debuff</entity_vfx>
+<key>wh_main_spell_heavens_curse_of_the_midnight_wind</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{cd402f7a-2bac-45e4-a931-6ef612e3db9a}" record_timestamp="1452096959056" record_key="wh_main_spell_heavens_harmonic_convergence">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_heavens_harmonic_convergence_entity_buff</entity_vfx>
+<key>wh_main_spell_heavens_harmonic_convergence</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{139ee4e9-a395-4de8-b0a9-764e3a003d94}" record_timestamp="1452096959070" record_key="wh_main_spell_light_bironas_timewarp">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_light_bironas_timewarp_entity_buff</entity_vfx>
+<key>wh_main_spell_light_bironas_timewarp</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{1b225431-37b6-4d74-88ab-870e466b8680}" record_timestamp="1452096959085" record_key="wh_main_spell_light_light_of_battle">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_light_light_of_battle_entity_buff</entity_vfx>
+<key>wh_main_spell_light_light_of_battle</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{c3d2a5d3-9402-4a3b-90bf-8024017cb301}" record_timestamp="1452096958951" record_key="wh_main_spell_light_net_of_amyntok">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_light_net_of_amyntok_entity_debuff</entity_vfx>
+<key>wh_main_spell_light_net_of_amyntok</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{dd2396da-b6d0-49ce-8855-8e067b0b08b0}" record_timestamp="1452096959099" record_key="wh_main_spell_light_phas_protection">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_light_phas_protection_entity_buff</entity_vfx>
+<key>wh_main_spell_light_phas_protection</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{6b0bab59-1416-4e50-8712-b5101a51dd56}" record_timestamp="1452096958962" record_key="wh_main_spell_lil_waaagh_gorkll_fix_it">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_lil_waaagh_gorkll_fix_it_entity_debuff</entity_vfx>
+<key>wh_main_spell_lil_waaagh_gorkll_fix_it</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{c10101ba-e72c-447b-ac6b-0be365597db9}" record_timestamp="1452096958976" record_key="wh_main_spell_lil_waaagh_itchy_nuisance">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_lil_waaagh_itchy_nuisance_entity_debuff</entity_vfx>
+<key>wh_main_spell_lil_waaagh_itchy_nuisance</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{7d37f7b8-eea8-453c-9247-2d73f48816e4}" record_timestamp="1452096958989" record_key="wh_main_spell_lil_waaagh_night_shroud">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_lil_waaagh_night_shroud_entity_debuff</entity_vfx>
+<key>wh_main_spell_lil_waaagh_night_shroud</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{5803282b-29af-470f-8e57-a83324d25e8b}" record_timestamp="1452096959113" record_key="wh_main_spell_lil_waaagh_sneaky_stabbin">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_lil_waaagh_sneaky_stabbin_entity_buff</entity_vfx>
+<key>wh_main_spell_lil_waaagh_sneaky_stabbin</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{4ac21542-6189-4ab4-87d7-e126b8b90111}" record_timestamp="1452096959002" record_key="wh_main_spell_metal_final_transmutation">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_metal_final_transmutation_entity_debuff</entity_vfx>
+<key>wh_main_spell_metal_final_transmutation</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{1a4d8490-f070-442f-bb11-d67426f5ef7e}" record_timestamp="1442395408600" record_key="wh_main_spell_metal_gehennas_golden_hounds">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_spell_metal_gehennas_golden_hounds</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{45de092d-c087-4abc-8afa-bea7bb85f3e1}" record_timestamp="1452096959127" record_key="wh_main_spell_metal_glittering_robe">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_metal_glittering_robe_entity_buff</entity_vfx>
+<key>wh_main_spell_metal_glittering_robe</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{a680bf64-7b9b-438e-9f86-1db19c44c6f6}" record_timestamp="1452096959016" record_key="wh_main_spell_metal_plague_of_rust">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_metal_plague_of_rust_entity_debuff</entity_vfx>
+<key>wh_main_spell_metal_plague_of_rust</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{8b981acb-dee2-4151-83ac-bfb127f3b859}" record_timestamp="1452096959029" record_key="wh_main_spell_metal_transmutation_of_lead">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_metal_transmutation_of_lead_entity_debuff</entity_vfx>
+<key>wh_main_spell_metal_transmutation_of_lead</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{5b693068-6d85-43c3-9199-750c42d04c91}" record_timestamp="1452096959042" record_key="wh_main_spell_vampires_curse_of_years">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_debuff</banner_vfx>
+<entity_vfx>wh_main_vampires_curse_of_years_entity_debuff</entity_vfx>
+<key>wh_main_spell_vampires_curse_of_years</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{eac300f6-fd3b-4151-ab4d-236970048c2e}" record_timestamp="1452096959141" record_key="wh_main_spell_vampires_invocation_of_nehek">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_generic_entity_hp_regen</entity_vfx>
+<key>wh_main_spell_vampires_invocation_of_nehek</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{7951c37a-673f-4a7d-b6d5-1033f26cab56}" record_timestamp="1452096959157" record_key="wh_main_spell_vampires_raise_dead">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx></entity_vfx>
+<key>wh_main_spell_vampires_raise_dead</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{5073082e-da18-4329-ad84-aa8f5c6fff55}" record_timestamp="1452096959171" record_key="wh_main_spell_vampires_vanhels_danse_macabre">
+<active_vfx></active_vfx>
+<banner_vfx>wh_main_generic_banner_buff</banner_vfx>
+<entity_vfx>wh_main_vampires_vanhels_danse_macabre_entity_buff</entity_vfx>
+<key>wh_main_spell_vampires_vanhels_danse_macabre</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{b1c0bde4-9e74-4792-9de2-73e6e6d35e6f}" record_timestamp="1444145074940" record_key="wh_main_spell_vampires_wind_of_death">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_vampires_wind_of_death_target</entity_vfx>
+<key>wh_main_spell_vampires_wind_of_death</key>
+</special_ability_phase_displays>
+<special_ability_phase_displays record_uuid="{06e30f9e-0f6f-4836-b9d0-e94e3e1572c0}" record_timestamp="1442936271983" record_key="wh_main_weapon_passive_glittering_scales">
+<active_vfx></active_vfx>
+<banner_vfx></banner_vfx>
+<entity_vfx>wh_main_metal_glittering_robe_entity_buff</entity_vfx>
+<key>wh_main_weapon_passive_glittering_scales</key>
+</special_ability_phase_displays>
+</dataroot>

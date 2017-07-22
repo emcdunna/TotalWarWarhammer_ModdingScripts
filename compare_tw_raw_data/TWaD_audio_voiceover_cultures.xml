@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_audio_voiceover_cultures>
+<root>
+<edit_uuid>8391133f-cb1f-49f1-b0f1-565b2abfede5</edit_uuid>
+<field>
+<field_uuid>{216c4053-16ca-41e3-9fbe-ed982d8e3edb}</field_uuid>
+<primary_key>1</primary_key>
+<name>name</name>
+<field_type>text</field_type>
+<fragment_path>sound/states/vo_culture</fragment_path>
+<required>1</required>
+<max_length>255</max_length>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+</field>
+</root>

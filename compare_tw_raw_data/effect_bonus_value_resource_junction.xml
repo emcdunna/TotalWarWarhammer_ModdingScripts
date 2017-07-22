@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_resource_junction.xsd" export_time="Tue Oct 6 13:21:58 2015" revision="18" export_branch="T:/common/TWeak/Framework" export_user="bob">
+<edit_uuid>5295655e-5adc-4ed6-8ddf-0419dbb2b0e5</edit_uuid>
+<effect_bonus_value_resource_junction record_uuid="{0748811a-020f-4ca4-a424-871d43816f02}" record_timestamp="1429871806252" record_key="wh_main_effect_region_resource_beer_productionproductionres_rom_glass">
+<bonus_value_id>production</bonus_value_id>
+<effect>wh_main_effect_region_resource_beer_production</effect>
+<resource>res_rom_glass</resource>
+</effect_bonus_value_resource_junction>
+<effect_bonus_value_resource_junction record_uuid="{4e2d61f4-3a0d-4fb0-915b-269ce0933a84}" record_timestamp="1429871806340" record_key="wh_main_effect_region_resource_dyes_productionproductionres_dyes">
+<bonus_value_id>production</bonus_value_id>
+<effect>wh_main_effect_region_resource_dyes_production</effect>
+<resource>res_dyes</resource>
+</effect_bonus_value_resource_junction>
+<effect_bonus_value_resource_junction record_uuid="{710ae206-8e9e-4cb4-8226-ea048fcd9a33}" record_timestamp="1429871806426" record_key="wh_main_effect_region_resource_furs_productionproductionres_rom_furs">
+<bonus_value_id>production</bonus_value_id>
+<effect>wh_main_effect_region_resource_furs_production</effect>
+<resource>res_rom_furs</resource>
+</effect_bonus_value_resource_junction>
+<effect_bonus_value_resource_junction record_uuid="{2f6b7615-4310-4b13-b02c-343b09a3ae32}" record_timestamp="1429871806513" record_key="wh_main_effect_region_resource_gem_productionproductionres_gems">
+<bonus_value_id>production</bonus_value_id>
+<effect>wh_main_effect_region_resource_gem_production</effect>
+<resource>res_gems</resource>
+</effect_bonus_value_resource_junction>
+<effect_bonus_value_resource_junction record_uuid="{1804418a-205d-4950-b567-36abbff8687d}" record_timestamp="1429871805905" record_key="wh_main_effect_region_resource_iron_productionproductionres_rom_iron">
+<bonus_value_id>production</bonus_value_id>
+<effect>wh_main_effect_region_resource_iron_production</effect>
+<resource>res_rom_iron</resource>
+</effect_bonus_value_resource_junction>
+<effect_bonus_value_resource_junction record_uuid="{18d39361-97e3-49c1-8178-92fbdd2ccfc4}" record_timestamp="1429871805992" record_key="wh_main_effect_region_resource_marble_productionproductionres_rom_marble">
+<bonus_value_id>production</bonus_value_id>
+<effect>wh_main_effect_region_resource_marble_production</effect>
+<resource>res_rom_marble</resource>
+</effect_bonus_value_resource_junction>
+<effect_bonus_value_resource_junction record_uuid="{52a06a77-fecb-42ce-a867-b67bc21b18c2}" record_timestamp="1429871806078" record_key="wh_main_effect_region_resource_pottery_productionproductionres_rom_textiles">
+<bonus_value_id>production</bonus_value_id>
+<effect>wh_main_effect_region_resource_pottery_production</effect>
+<resource>res_rom_textiles</resource>
+</effect_bonus_value_resource_junction>
+<effect_bonus_value_resource_junction record_uuid="{c79fb0a6-a9ad-4e6f-9a2f-8926a7ece1b1}" record_timestamp="1429871806165" record_key="wh_main_effect_region_resource_salt_productionproductionres_rom_lead">
+<bonus_value_id>production</bonus_value_id>
+<effect>wh_main_effect_region_resource_salt_production</effect>
+<resource>res_rom_lead</resource>
+</effect_bonus_value_resource_junction>
+<effect_bonus_value_resource_junction record_uuid="{fcd4ee6a-0cba-4211-b543-492bdeefd488}" record_timestamp="1429871805731" record_key="wh_main_effect_region_resource_timber_productionproductionres_rom_timber">
+<bonus_value_id>production</bonus_value_id>
+<effect>wh_main_effect_region_resource_timber_production</effect>
+<resource>res_rom_timber</resource>
+</effect_bonus_value_resource_junction>
+<effect_bonus_value_resource_junction record_uuid="{12e82b73-ae41-47ee-a2bc-7673f93346e5}" record_timestamp="1429871805818" record_key="wh_main_effect_region_resource_wine_productionproductionres_rom_wine">
+<bonus_value_id>production</bonus_value_id>
+<effect>wh_main_effect_region_resource_wine_production</effect>
+<resource>res_rom_wine</resource>
+</effect_bonus_value_resource_junction>
+</dataroot>

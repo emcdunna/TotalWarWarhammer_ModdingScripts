@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_climate_weather_descriptions.xsd" export_time="Wed Aug 24 13:47:28 2016" revision="40" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>aa21c5c9-7b3a-4cbb-a68c-37ddd805796c</edit_uuid>
+<battle_climate_weather_descriptions record_uuid="{548668cd-05d4-4237-abb4-1081728bd83c}" record_timestamp="1446817076576" record_key="brt_chsseason_autumndry">
+<climate_type>brt_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_chs_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{c55f8d0b-88b0-4153-bf0c-c9c9c6b9a4e6}" record_timestamp="1446817076471" record_key="brt_chsseason_springdry">
+<climate_type>brt_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_chs_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{e0eba714-a4aa-4bb3-9822-cf8e440e6420}" record_timestamp="1446817076911" record_key="brt_chsseason_summerdry">
+<climate_type>brt_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_chs_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{6e368dfb-ae11-4edc-b1d3-eb182ead7007}" record_timestamp="1446817076736" record_key="brt_chsseason_winterdry">
+<climate_type>brt_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_chs_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{2c8673cd-e4bf-4cb0-b377-fd5444e98231}" record_timestamp="1446817076606" record_key="brt_moorlandsseason_autumndry">
+<climate_type>brt_moorlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_moorlands_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{ecace16b-8937-4aca-93f0-d5ba66810518}" record_timestamp="1446817076461" record_key="brt_moorlandsseason_springdry">
+<climate_type>brt_moorlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_moorlands_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{3751144d-a937-4ec8-887c-eb0069ed4b9e}" record_timestamp="1446817076946" record_key="brt_moorlandsseason_summerdry">
+<climate_type>brt_moorlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_moorlands_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{fd492bf5-e556-4b79-8a2c-5ababc2bf3e2}" record_timestamp="1446817076726" record_key="brt_moorlandsseason_winterdry">
+<climate_type>brt_moorlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_moorlands_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{9d832521-808e-4238-b6d5-b690541d9566}" record_timestamp="1446817076596" record_key="brt_vmpseason_autumndry">
+<climate_type>brt_vmp</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_vmp_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{e59b4ef4-e532-40f7-a1b8-cc12a3e26c15}" record_timestamp="1446817076491" record_key="brt_vmpseason_springdry">
+<climate_type>brt_vmp</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_vmp_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{381b3611-f7b7-4f41-b37e-db978f0bd5cb}" record_timestamp="1446817076936" record_key="brt_vmpseason_summerdry">
+<climate_type>brt_vmp</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_vmp_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{b012a619-6b78-4751-8f9b-3396a2de29fb}" record_timestamp="1446817076756" record_key="brt_vmpseason_winterdry">
+<climate_type>brt_vmp</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_vmp_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{391aa305-69a4-4722-9741-c26fe67a59b6}" record_timestamp="1467719421555" record_key="bst_pathsseason_autumndry">
+<climate_type>bst_paths</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_bst_paths_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{3e403393-784b-4f29-9494-778f8aff7560}" record_timestamp="1467719421556" record_key="bst_pathsseason_springdry">
+<climate_type>bst_paths</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_bst_paths_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{0814e45e-6e98-46f9-8da6-3b4dceafd72b}" record_timestamp="1467719421558" record_key="bst_pathsseason_summerdry">
+<climate_type>bst_paths</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_bst_paths_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{3607400d-8ea2-42e8-9945-08c2a32ad7b5}" record_timestamp="1467719421562" record_key="bst_pathsseason_winterdry">
+<climate_type>bst_paths</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_bst_paths_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{1ff6e59f-a1f7-49eb-94e3-e70698a85f16}" record_timestamp="1461852217082" record_key="bstseason_autumndry">
+<climate_type>bst</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{d814d59c-20bf-4c92-b14e-af779eea8a05}" record_timestamp="1461852217070" record_key="bstseason_springdry">
+<climate_type>bst</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{7c4add0f-55e6-444a-8278-b29fa8a149f6}" record_timestamp="1461852217103" record_key="bstseason_summerdry">
+<climate_type>bst</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{2d186ae6-7f5c-4aef-b717-e2ea432b2e6c}" record_timestamp="1461852217094" record_key="bstseason_winterdry">
+<climate_type>bst</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_brt_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{efd6f27e-5475-44e5-85d8-dea4b04d7041}" record_timestamp="1446817076626" record_key="chs_wastesseason_autumndry">
+<climate_type>chs_wastes</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_chs_wastes_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{cdea172d-a28e-47f4-ac35-b06cdf486679}" record_timestamp="1446817076481" record_key="chs_wastesseason_springdry">
+<climate_type>chs_wastes</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_chs_wastes_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{74fd87a7-d96f-4003-93e1-0397dc5b439f}" record_timestamp="1446817076346" record_key="chs_wastesseason_summerdry">
+<climate_type>chs_wastes</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_chs_wastes_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{ebe8b0d8-d02a-4152-b55c-0a2f73cafec4}" record_timestamp="1446817076746" record_key="chs_wastesseason_winterdry">
+<climate_type>chs_wastes</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_chs_wastes_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{018852ff-42d4-404b-b171-e65f301200db}" record_timestamp="1446817076616" record_key="defaultseason_autumndry">
+<climate_type>default</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_default_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{c7fbd090-5dfa-4e17-a70c-3d595475339f}" record_timestamp="1446817076506" record_key="defaultseason_springdry">
+<climate_type>default</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_default_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{92170694-3786-4950-b586-0c0bd5df2c5a}" record_timestamp="1446817076336" record_key="defaultseason_summerdry">
+<climate_type>default</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_default_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{e4394fb1-c337-47b1-814d-a6a0a9722412}" record_timestamp="1446817076781" record_key="defaultseason_winterdry">
+<climate_type>default</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_default_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{79963970-97ea-4c8d-ba79-b38e0e24bc2d}" record_timestamp="1446817076381" record_key="dwf_subterraneanseason_autumndry">
+<climate_type>dwf_subterranean</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_dwf_subterranean_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{f1c767cb-d81a-47d7-945d-703cc6b88707}" record_timestamp="1446817076496" record_key="dwf_subterraneanseason_springdry">
+<climate_type>dwf_subterranean</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_dwf_subterranean_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{05dca40e-a826-43fa-986e-30705ced3cc8}" record_timestamp="1446817076366" record_key="dwf_subterraneanseason_summerdry">
+<climate_type>dwf_subterranean</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_dwf_subterranean_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{eb7a20b5-6b3a-4ddd-a813-83f4a4822f87}" record_timestamp="1446817076771" record_key="dwf_subterraneanseason_winterdry">
+<climate_type>dwf_subterranean</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_dwf_subterranean_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{ac1b5644-1a8d-4a9f-8a9a-3a5c46e22339}" record_timestamp="1446817076371" record_key="emp_chsseason_autumndry">
+<climate_type>emp_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_chs_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{74f97b0f-1940-4373-8c7b-b0b8f9e9df32}" record_timestamp="1446817076826" record_key="emp_chsseason_springdry">
+<climate_type>emp_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_chs_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{e7012298-0968-46c0-ac47-2f90a2f97458}" record_timestamp="1446817076356" record_key="emp_chsseason_summerdry">
+<climate_type>emp_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_chs_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{0f9da666-8836-4c5b-8bc7-cfa52da37a44}" record_timestamp="1446817076801" record_key="emp_chsseason_winterdry">
+<climate_type>emp_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_chs_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{0a3aac11-4ba2-411e-927d-eb9af805c316}" record_timestamp="1446817076401" record_key="emp_highlandsseason_autumndry">
+<climate_type>emp_highlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_highlands_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{5ea9ed98-8031-4539-bcf3-3055956c642b}" record_timestamp="1446817076816" record_key="emp_highlandsseason_springdry">
+<climate_type>emp_highlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_highlands_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{a26a65a4-b64c-42e0-b4ab-c12544acda9c}" record_timestamp="1446817076646" record_key="emp_highlandsseason_summerdry">
+<climate_type>emp_highlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_highlands_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{f06a4762-8c6d-438e-84c4-097ea68956ee}" record_timestamp="1446817076791" record_key="emp_highlandsseason_winterdry">
+<climate_type>emp_highlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_highlands_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{04ae013e-ce4c-4526-9aad-dea6442c1989}" record_timestamp="1446817076391" record_key="emp_lowlandsseason_autumndry">
+<climate_type>emp_lowlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_lowlands_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{c860c561-2a58-44f6-9869-792dbf75f87c}" record_timestamp="1446817076851" record_key="emp_lowlandsseason_springdry">
+<climate_type>emp_lowlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_lowlands_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{3236b2c0-a36a-45ec-ae21-e887e9680b24}" record_timestamp="1446817076636" record_key="emp_lowlandsseason_summerdry">
+<climate_type>emp_lowlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_lowlands_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{9b23345e-db1f-44fa-a965-39f1e3420cdf}" record_timestamp="1446817076526" record_key="emp_lowlandsseason_winterdry">
+<climate_type>emp_lowlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_lowlands_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{e440dc84-7a83-49c7-b8d4-2853bf2636da}" record_timestamp="1446817076416" record_key="emp_vmpseason_autumndry">
+<climate_type>emp_vmp</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_vmp_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{c2abaa9f-9d36-4875-8c1d-e3ebefaa6500}" record_timestamp="1446817076836" record_key="emp_vmpseason_springdry">
+<climate_type>emp_vmp</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_vmp_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{d925bb51-aaf7-456e-b3ca-6c8697b07165}" record_timestamp="1446817076671" record_key="emp_vmpseason_summerdry">
+<climate_type>emp_vmp</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_vmp_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{907ce650-0453-4be0-8043-6fe945ba60bb}" record_timestamp="1446817076516" record_key="emp_vmpseason_winterdry">
+<climate_type>emp_vmp</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_emp_vmp_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{8542850f-9b26-4466-9b6b-93c7bbe1e049}" record_timestamp="1446817076411" record_key="grn_badlandsseason_autumndry">
+<climate_type>grn_badlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_grn_badlands_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{c751c763-18c2-4796-88f6-c2f29cf8ffde}" record_timestamp="1446817076871" record_key="grn_badlandsseason_springdry">
+<climate_type>grn_badlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_grn_badlands_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{1a3eb0ac-b85f-4fc0-b3c6-b0ac08527674}" record_timestamp="1446817076661" record_key="grn_badlandsseason_summerdry">
+<climate_type>grn_badlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_grn_badlands_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{bfcb4f1b-3bf4-4959-812f-442d588e3ff2}" record_timestamp="1446817076546" record_key="grn_badlandsseason_winterdry">
+<climate_type>grn_badlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_grn_badlands_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{6ca358aa-ea6d-4630-9d32-8ae1b9d61c26}" record_timestamp="1460466697102" record_key="grn_chsseason_autumndry">
+<climate_type>grn_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_grn_chs_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{a422bf61-4a55-4de1-bb68-a2ecdf30d223}" record_timestamp="1460466697146" record_key="grn_chsseason_springdry">
+<climate_type>grn_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_grn_chs_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{50db0f7f-cebb-4cb4-9677-9cde444d613d}" record_timestamp="1460466697194" record_key="grn_chsseason_summerdry">
+<climate_type>grn_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_grn_chs_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{71706621-df29-4ac3-9306-df205785dd29}" record_timestamp="1460466697245" record_key="grn_chsseason_winterdry">
+<climate_type>grn_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_grn_chs_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{8e754372-ed36-4623-a6df-e668f9e46b4b}" record_timestamp="1459951253493" record_key="mtn_pass_snowseason_autumndry">
+<climate_type>mtn_pass_snow</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_mtn_pass_snow_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{357dac22-ae9b-4dd3-aea2-d2e005929142}" record_timestamp="1459951253494" record_key="mtn_pass_snowseason_springdry">
+<climate_type>mtn_pass_snow</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_mtn_pass_snow_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{1dcedfc6-a5c3-430e-af09-e9f4e2ac6184}" record_timestamp="1459951253496" record_key="mtn_pass_snowseason_summerdry">
+<climate_type>mtn_pass_snow</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_mtn_pass_snow_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{b4d1ff1e-12ea-4596-83a1-69864398e5f0}" record_timestamp="1459951253497" record_key="mtn_pass_snowseason_winterdry">
+<climate_type>mtn_pass_snow</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_mtn_pass_snow_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{e402b595-3dcf-4de8-8af7-9d224d0bcce0}" record_timestamp="1446817076436" record_key="mtn_passseason_autumndry">
+<climate_type>mtn_pass</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_mtn_pass_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{69a4846c-7d33-4ba7-9927-860d755e8a4b}" record_timestamp="1446817076861" record_key="mtn_passseason_springdry">
+<climate_type>mtn_pass</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_mtn_pass_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{35cfa693-6832-446e-918f-6fe36041b910}" record_timestamp="1446817076691" record_key="mtn_passseason_summerdry">
+<climate_type>mtn_pass</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_mtn_pass_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{a4a638eb-b26c-4b95-bc79-600f38a82937}" record_timestamp="1446817076536" record_key="mtn_passseason_winterdry">
+<climate_type>mtn_pass</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_mtn_pass_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{8d36e2a6-4ac3-43fd-bf8f-d188c8b7df10}" record_timestamp="1446817076426" record_key="nor_highlandsseason_autumndry">
+<climate_type>nor_highlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_nor_highlands_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{f06a50e1-9caf-458d-b779-e9fc0796b43a}" record_timestamp="1446817076896" record_key="nor_highlandsseason_springdry">
+<climate_type>nor_highlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_nor_highlands_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{70895958-df51-4ddd-a25b-dc266bd78aa8}" record_timestamp="1446817076681" record_key="nor_highlandsseason_summerdry">
+<climate_type>nor_highlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_nor_highlands_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{690b7b46-a131-465e-82e3-2cb7b33d1e33}" record_timestamp="1446817076566" record_key="nor_highlandsseason_winterdry">
+<climate_type>nor_highlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_nor_highlands_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{fbb506f5-8916-4411-a6a9-eaaed6252174}" record_timestamp="1446817076451" record_key="nor_lowlandsseason_autumndry">
+<climate_type>nor_lowlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_nor_lowlands_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{57517b3d-49b5-47dd-93af-9828678cb06d}" record_timestamp="1446817076886" record_key="nor_lowlandsseason_springdry">
+<climate_type>nor_lowlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_nor_lowlands_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{4aeaa2ac-92f3-4f1f-9230-184d577d9fa2}" record_timestamp="1446817076711" record_key="nor_lowlandsseason_summerdry">
+<climate_type>nor_lowlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_nor_lowlands_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{d2b2d0a7-b6cd-4224-a541-e775ca61cc75}" record_timestamp="1446817076556" record_key="nor_lowlandsseason_winterdry">
+<climate_type>nor_lowlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_nor_lowlands_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{81b4dcad-8f11-4c72-bd40-a109451f8700}" record_timestamp="1446817076446" record_key="vmp_marshlandsseason_autumndry">
+<climate_type>vmp_marshlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_vmp_marshlands_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{0bff9c6d-6f93-4aad-bed1-835e8bab7e6f}" record_timestamp="1446817076921" record_key="vmp_marshlandsseason_springdry">
+<climate_type>vmp_marshlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_vmp_marshlands_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{2d380fbd-e509-4f78-a988-3ff9cdf7e6d4}" record_timestamp="1446817076701" record_key="vmp_marshlandsseason_summerdry">
+<climate_type>vmp_marshlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_vmp_marshlands_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{34fb4a3e-7cc3-4a43-bec5-3c989462ac7b}" record_timestamp="1446817076586" record_key="vmp_marshlandsseason_winterdry">
+<climate_type>vmp_marshlands</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_vmp_marshlands_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{a64ae3ef-2f09-4e38-b2c7-335f27799a69}" record_timestamp="1472042683284" record_key="wef_ashseason_autumndry">
+<climate_type>wef_ash</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_ash_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{a69d7d94-5d26-4f09-b996-9becc66ba07d}" record_timestamp="1472042683291" record_key="wef_ashseason_springdry">
+<climate_type>wef_ash</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_ash_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{e9770596-3e54-4f86-b4f7-9cf5e5a6bab0}" record_timestamp="1472042683306" record_key="wef_ashseason_summerdry">
+<climate_type>wef_ash</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_ash_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{ca949a40-f913-47ce-b1bd-92f93edf1e15}" record_timestamp="1472042698268" record_key="wef_ashseason_winterdry">
+<climate_type>wef_ash</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_ash_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{cd2f5330-7e34-42aa-b923-1f1191b747cf}" record_timestamp="1472042585649" record_key="wef_chsseason_autumndry">
+<climate_type>wef_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_chs_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{833d8cff-78c1-4db8-bbfa-8bbbeb8c0dcf}" record_timestamp="1472042585645" record_key="wef_chsseason_springdry">
+<climate_type>wef_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_chs_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{ab7d969c-e66d-4b08-a909-613e5bd9880c}" record_timestamp="1472042585660" record_key="wef_chsseason_summerdry">
+<climate_type>wef_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_chs_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{240c07ca-137a-4c1f-8022-8803b50e62e0}" record_timestamp="1472042585654" record_key="wef_chsseason_winterdry">
+<climate_type>wef_chs</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_chs_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{069f4b3c-9f76-42de-acc5-9747870f500a}" record_timestamp="1472042848843" record_key="wef_nitseason_autumndry">
+<climate_type>wef_nit</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_nit_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{0df62369-6de2-4d76-899d-11de81bbf472}" record_timestamp="1472042848828" record_key="wef_nitseason_springdry">
+<climate_type>wef_nit</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_nit_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{12f54f32-c17a-4e94-932d-e3235558af02}" record_timestamp="1472042848867" record_key="wef_nitseason_summerdry">
+<climate_type>wef_nit</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_nit_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{7a12f7a2-058e-4a28-ac49-a06c4a59eab2}" record_timestamp="1472042848856" record_key="wef_nitseason_winterdry">
+<climate_type>wef_nit</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_nit_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{b37d06f4-a25c-4999-b01f-b8054d00e8f8}" record_timestamp="1472042773956" record_key="wef_winseason_autumndry">
+<climate_type>wef_win</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_win_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{24f69570-b155-4cd6-8c6e-fb1c1e64c926}" record_timestamp="1472042773948" record_key="wef_winseason_springdry">
+<climate_type>wef_win</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_win_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{01f0026c-5693-4ea0-a401-628cd4523124}" record_timestamp="1472042773971" record_key="wef_winseason_summerdry">
+<climate_type>wef_win</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_win_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{3944b71f-f84a-4414-9ca4-e31caf62b4fb}" record_timestamp="1472042773963" record_key="wef_winseason_winterdry">
+<climate_type>wef_win</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_win_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{a3ae4c1a-87de-4e42-8351-7fb232d9dc3c}" record_timestamp="1467715193853" record_key="wefseason_autumndry">
+<climate_type>wef</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_autumn</key>
+<probability>100</probability>
+<season>season_autumn</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{75e8ac57-af79-47e2-86a9-4f816a41ddb6}" record_timestamp="1467715193854" record_key="wefseason_springdry">
+<climate_type>wef</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_spring</key>
+<probability>100</probability>
+<season>season_spring</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{d6b5b4b8-d69e-4463-b0d0-18a0de07d68b}" record_timestamp="1467715193852" record_key="wefseason_summerdry">
+<climate_type>wef</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_summer</key>
+<probability>100</probability>
+<season>season_summer</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+<battle_climate_weather_descriptions record_uuid="{63408e95-7ebe-46e3-b801-8f2e2fc69d4b}" record_timestamp="1467715193853" record_key="wefseason_winterdry">
+<climate_type>wef</climate_type>
+<cold_fatigue>0</cold_fatigue>
+<heat_fatigue>0</heat_fatigue>
+<key>wh_wef_winter</key>
+<probability>100</probability>
+<season>season_winter</season>
+<spotting_scalar>1</spotting_scalar>
+<weather_type>dry</weather_type>
+</battle_climate_weather_descriptions>
+</dataroot>

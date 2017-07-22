@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ancillaries_categories.xsd" export_time="Wed May 18 12:05:51 2016" revision="25" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>41311b9d-dfc8-4600-8ae6-2c693e65c7c6</edit_uuid>
+<ancillaries_categories record_uuid="{d836786d-3950-4a63-b69c-6d4070dbf670}" record_timestamp="1459948653041" record_key="arcane_item">
+<category>arcane_item</category>
+<default_entry_name state="APPROVED" last_approved_text="Casting Item" last_edit_user="bob">Casting Item</default_entry_name>
+<default_entry_tooltip state="APPROVED" last_approved_text="Obtain and equip an [[col:yellow]]arcane item[[/col]] here to improve your character.||Arcane items are only available to spellcasters." last_edit_user="bob">Obtain and equip an [[col:yellow]]arcane item[[/col]] here to improve your character.||Arcane items are only available to spellcasters.</default_entry_tooltip>
+<icon_name>equipment_items_arcane</icon_name>
+<onscreen_name state="APPROVED" last_approved_text="Arcane Item" last_edit_user="bob">Arcane Item</onscreen_name>
+<sort_order>5</sort_order>
+</ancillaries_categories>
+<ancillaries_categories record_uuid="{36266dba-9fb4-45ee-a44b-02f97d6f5cd9}" record_timestamp="1459945059047" record_key="armour">
+<category>armour</category>
+<default_entry_name state="APPROVED" last_approved_text="Basic Armour" last_edit_user="bob">Basic Armour</default_entry_name>
+<default_entry_tooltip state="APPROVED" last_approved_text="Obtain and equip [[col:yellow]]armour[[/col]] here to improve your character." last_edit_user="bob">Obtain and equip [[col:yellow]]armour[[/col]] here to improve your character.</default_entry_tooltip>
+<icon_name>equipment_items_armour</icon_name>
+<onscreen_name state="APPROVED" last_approved_text="Armour" last_edit_user="bob">Armour</onscreen_name>
+<sort_order>0</sort_order>
+</ancillaries_categories>
+<ancillaries_categories record_uuid="{b0f9cf14-4d5a-4a76-b125-fcefa094ae9c}" record_timestamp="1459945059030" record_key="enchanted_item">
+<category>enchanted_item</category>
+<default_entry_name state="APPROVED" last_approved_text="None" last_edit_user="bob">None</default_entry_name>
+<default_entry_tooltip state="APPROVED" last_approved_text="Obtain and equip an [[col:yellow]]enchanted item[[/col]] here to improve your character." last_edit_user="bob">Obtain and equip an [[col:yellow]]enchanted item[[/col]] here to improve your character.</default_entry_tooltip>
+<icon_name>equipment_items_enchanted</icon_name>
+<onscreen_name state="APPROVED" last_approved_text="Enchanted Item" last_edit_user="bob">Enchanted Item</onscreen_name>
+<sort_order>4</sort_order>
+</ancillaries_categories>
+<ancillaries_categories record_uuid="{20c554e7-8928-4690-9b43-bdaf30d72b91}" record_timestamp="1453291895109" record_key="general">
+<category>general</category>
+<default_entry_name state="APPROVED" last_approved_text="None" last_edit_user="bob">None</default_entry_name>
+<default_entry_tooltip state="APPROVED" last_approved_text="{{tr:followers_and_banners_cat_tooltip}}" last_edit_user="bob">{{tr:followers_and_banners_cat_tooltip}}</default_entry_tooltip>
+<icon_name>equipment_items_mount</icon_name>
+<onscreen_name state="APPROVED" last_approved_text="General" last_edit_user="bob">General</onscreen_name>
+<sort_order>6</sort_order>
+</ancillaries_categories>
+<ancillaries_categories record_uuid="{be9ae154-1dd4-444c-b8e3-28c103e28d3e}" record_timestamp="1459945059042" record_key="mount">
+<category>mount</category>
+<default_entry_name state="APPROVED" last_approved_text="None" last_edit_user="bob">None</default_entry_name>
+<default_entry_tooltip state="APPROVED" last_approved_text="Characters will be on foot unless given a [[col:yellow]]mount[[/col]], or required to be mounted by default.||Mounts can be obtained via spending skill points on the relevant skills." last_edit_user="bob">Characters will be on foot unless given a [[col:yellow]]mount[[/col]], or required to be mounted by default.||Mounts can be obtained via spending skill points on the relevant skills.</default_entry_tooltip>
+<icon_name>equipment_items_mount</icon_name>
+<onscreen_name state="APPROVED" last_approved_text="{{tr:mount_header}}" last_edit_user="bob">{{tr:mount_header}}</onscreen_name>
+<sort_order>2</sort_order>
+</ancillaries_categories>
+<ancillaries_categories record_uuid="{069c04e8-9a20-4049-a1b7-4f11cbca99d7}" record_timestamp="1459945059043" record_key="talisman">
+<category>talisman</category>
+<default_entry_name state="APPROVED" last_approved_text="None" last_edit_user="bob">None</default_entry_name>
+<default_entry_tooltip state="APPROVED" last_approved_text="Obtain and equip a [[col:yellow]]talisman[[/col]] here to improve your character." last_edit_user="bob">Obtain and equip a [[col:yellow]]talisman[[/col]] here to improve your character.</default_entry_tooltip>
+<icon_name>equipment_items_talisman</icon_name>
+<onscreen_name state="APPROVED" last_approved_text="Talisman" last_edit_user="bob">Talisman</onscreen_name>
+<sort_order>3</sort_order>
+</ancillaries_categories>
+<ancillaries_categories record_uuid="{e94f8434-8138-4db0-b93c-2432d997d3b1}" record_timestamp="1463569483611" record_key="weapon">
+<category>weapon</category>
+<default_entry_name state="APPROVED" last_approved_text="Hand Weapon" last_edit_user="bob">Hand Weapon</default_entry_name>
+<default_entry_tooltip state="APPROVED" last_approved_text="Obtain and equip a [[col:yellow]]weapon[[/col]] here to improve your character.||All weapons will grant the character with [[img:ui/skins/default/modifier_icon_magical.png]][[/img]]magical attacks." last_edit_user="bob">Obtain and equip a [[col:yellow]]weapon[[/col]] here to improve your character.||All weapons will grant the character with [[img:ui/skins/default/modifier_icon_magical.png]][[/img]]magical attacks.</default_entry_tooltip>
+<icon_name>equipment_items_weapon</icon_name>
+<onscreen_name state="APPROVED" last_approved_text="Weapon" last_edit_user="bob">Weapon</onscreen_name>
+<sort_order>1</sort_order>
+</ancillaries_categories>
+</dataroot>

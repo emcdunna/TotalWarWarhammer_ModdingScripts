@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_construction_system_strategic_context_template_policies.xsd" export_time="Wed Sep 9 16:12:57 2015" revision="8" export_branch="E:/TW/warhammer/src" export_user="bob">
+<edit_uuid>0b984577-a02c-45cc-b98e-1d0414b2ec75</edit_uuid>
+<cai_construction_system_strategic_context_template_policies record_uuid="{f6ac6687-8fd8-4bc1-b1f3-7855a7d94d4c}" record_timestamp="1356082576903" record_key="cai_cs_basic_context_template_assignment_policy">
+<default_cai_construction_system_template>cai_construction_system_template_basic_balanced</default_cai_construction_system_template>
+<key>cai_cs_basic_context_template_assignment_policy</key>
+</cai_construction_system_strategic_context_template_policies>
+<cai_construction_system_strategic_context_template_policies record_uuid="{5dec1076-0785-418b-9f35-8542e1d4b884}" record_timestamp="1361874546477" record_key="cai_cs_economist_context_template_assignment_policy">
+<default_cai_construction_system_template>cai_construction_system_template_economist_balanced</default_cai_construction_system_template>
+<key>cai_cs_economist_context_template_assignment_policy</key>
+</cai_construction_system_strategic_context_template_policies>
+<cai_construction_system_strategic_context_template_policies record_uuid="{c8bdaf2c-f625-4f3c-870f-9ce6e0f4b35a}" record_timestamp="1361874546435" record_key="cai_cs_militaristic_context_template_assignment_policy">
+<default_cai_construction_system_template>cai_construction_system_template_militaristic_balanced</default_cai_construction_system_template>
+<key>cai_cs_militaristic_context_template_assignment_policy</key>
+</cai_construction_system_strategic_context_template_policies>
+</dataroot>

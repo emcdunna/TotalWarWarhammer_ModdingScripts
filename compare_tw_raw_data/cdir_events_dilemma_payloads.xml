@@ -1,0 +1,3035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdir_events_dilemma_payloads.xsd" export_time="Wed Feb 15 12:20:22 2017" revision="113" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>4096d093-0aed-4f7d-a317-2d283cbea765</edit_uuid>
+<cdir_events_dilemma_payloads record_uuid="{168e2ff8-2529-453c-968a-ad273d27f90e}" record_timestamp="1466593266728" record_key="1009">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_bst_boris_defeated</dilemma_key>
+<id>1009</id>
+<payload_key>CHARACTER_EXPERIENCE</payload_key>
+<value>AMOUNT[5000]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{aa21d2b7-00f3-48c5-861e-75dcdba6039a}" record_timestamp="1455630111061" record_key="101">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_grn_lootas</dilemma_key>
+<id>101</id>
+<payload_key>DIPLOMATIC_STANDING</payload_key>
+<value>AMOUNT[-2]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b80be24b-9a54-4336-921b-da4bdfd41eb6}" record_timestamp="1466593266740" record_key="1010">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_bst_boris_defeated</dilemma_key>
+<id>1010</id>
+<payload_key>CHARACTER_EXPERIENCE</payload_key>
+<value>AMOUNT[5000]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{70430723-057c-46f7-8729-9f40495d4120}" record_timestamp="1466593266821" record_key="1014">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_bst_boris_defeated</dilemma_key>
+<id>1014</id>
+<payload_key>wh_dlc03_payload_eat_the_eye</payload_key>
+<value>DURATION[0]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{22786676-50fc-41ef-b76c-141c24e37a54}" record_timestamp="1466593266833" record_key="1016">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_bst_boris_defeated</dilemma_key>
+<id>1016</id>
+<payload_key>wh_dlc03_payload_keep_the_eye</payload_key>
+<value>DURATION[0]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{1681115d-dcae-4cee-bca3-f4ec1c93e7f0}" record_timestamp="1468499507243" record_key="1017">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_agent_choice</dilemma_key>
+<id>1017</id>
+<payload_key>SPAWN_AGENT</payload_key>
+<value>AGENT[champion];AGENT_SUBTYPE[dlc03_bst_gorebull];AP_FACTOR[1.0]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{077b381e-fe27-4fc1-9050-9254a2adcc8c}" record_timestamp="1469107623031" record_key="1024">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_agent_choice</dilemma_key>
+<id>1024</id>
+<payload_key>SPAWN_AGENT</payload_key>
+<value>AGENT[wizard];AP_FACTOR[1.0]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{1adf2f92-f9b0-4167-8407-1f207935d08a}" record_timestamp="1468499525891" record_key="1027">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_agent_choice</dilemma_key>
+<id>1027</id>
+<payload_key>TARGET</payload_key>
+<value>CAPITAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{441b5754-2b6a-466c-8e46-85406ca34714}" record_timestamp="1468499525892" record_key="1034">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_agent_choice</dilemma_key>
+<id>1034</id>
+<payload_key>TARGET</payload_key>
+<value>CAPITAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{2fe139af-860c-402a-94bc-8eabccddcef7}" record_timestamp="1469456393785" record_key="1040">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_9</dilemma_key>
+<id>1040</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{0e775b7a-aaf9-4e30-8fe3-16b6220b52fb}" record_timestamp="1469456393785" record_key="1046">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_10</dilemma_key>
+<id>1046</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4b2f8817-95ca-4f3b-a988-f7f87da7abe8}" record_timestamp="1469456393786" record_key="1054">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_11</dilemma_key>
+<id>1054</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{13b2718f-999e-42a4-a836-8250d16527c6}" record_timestamp="1455630111082" record_key="106">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_grn_lootas</dilemma_key>
+<id>106</id>
+<payload_key>TARGET</payload_key>
+<value>EVENT</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4c1fea09-2139-4ec6-b62c-00ddbff6bc78}" record_timestamp="1469456393786" record_key="1063">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_12</dilemma_key>
+<id>1063</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{37ef4fc4-2a97-4e01-9d54-db97f6867b6d}" record_timestamp="1469456393786" record_key="1064">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_13</dilemma_key>
+<id>1064</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{58ef5e1c-8023-4fff-b1eb-73b04a653c15}" record_timestamp="1469456393787" record_key="1066">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_14</dilemma_key>
+<id>1066</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{671e9bb3-d42d-40be-8501-78b6cbbdfa3e}" record_timestamp="1469456393787" record_key="1072">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_15</dilemma_key>
+<id>1072</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e1c5ffe9-3750-46a0-90e2-569c30a0a532}" record_timestamp="1469456393787" record_key="1076">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_16</dilemma_key>
+<id>1076</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{cd859f20-8422-4dc1-b970-d99a6fc6ce09}" record_timestamp="1469456393788" record_key="1079">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_17</dilemma_key>
+<id>1079</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{355b9f48-01b0-43bb-8416-bdee25306335}" record_timestamp="1469456393788" record_key="1082">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_18</dilemma_key>
+<id>1082</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7ba5dfee-e77b-42fc-a19b-d8db8984fbbb}" record_timestamp="1469456393788" record_key="1092">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_19</dilemma_key>
+<id>1092</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{14b3a5ac-ca1d-466d-a5c6-fe98490a0d9a}" record_timestamp="1469456393789" record_key="1097">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_20</dilemma_key>
+<id>1097</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{3d854c15-f602-4e49-bfbd-5bcaafc97ab3}" record_timestamp="1455630111104" record_key="110">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_grn_lootas</dilemma_key>
+<id>110</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[1500]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c284347c-10d0-45b4-bc12-ba4c7e33ea14}" record_timestamp="1469456393789" record_key="1105">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_1</dilemma_key>
+<id>1105</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e4af5f0d-bca5-4021-9c1b-1f3fc5124258}" record_timestamp="1469456393789" record_key="1109">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_2</dilemma_key>
+<id>1109</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{a19c9d2e-732e-4873-9127-68645ba3a75e}" record_timestamp="1469456393790" record_key="1112">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_3</dilemma_key>
+<id>1112</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b37e6edc-b0e6-4906-885b-b5b8355ed90d}" record_timestamp="1469456393790" record_key="1121">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_4</dilemma_key>
+<id>1121</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{91978603-0f99-418a-941c-f6afdd121174}" record_timestamp="1469456393791" record_key="1124">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_5</dilemma_key>
+<id>1124</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{55cd14fe-1d3c-4f1d-ac28-7350589a0cd6}" record_timestamp="1469456393791" record_key="1131">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_6</dilemma_key>
+<id>1131</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{abab4c24-6ce2-4520-8602-7033da55bfac}" record_timestamp="1469456393791" record_key="1141">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_7</dilemma_key>
+<id>1141</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{a7c99775-9e3b-486c-bc19-814b16d9fc4b}" record_timestamp="1469456393792" record_key="1145">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_8</dilemma_key>
+<id>1145</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b5998808-85b5-441e-805d-1ca2a7863db6}" record_timestamp="1469456393792" record_key="1155">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_9</dilemma_key>
+<id>1155</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{799df6ac-1e7a-4c56-b82e-9d362c50e210}" record_timestamp="1469456393792" record_key="1162">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_10</dilemma_key>
+<id>1162</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{24f79665-7ca1-4127-9a3f-b56927f66e6d}" record_timestamp="1455630111681" record_key="117">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_grn_get_out_of_da_way</dilemma_key>
+<id>117</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[-750]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{78563cad-7dc4-4e29-a4b6-fe4105a269ec}" record_timestamp="1469456393793" record_key="1171">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_11</dilemma_key>
+<id>1171</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{812309df-a372-4d9c-b4b8-b4383395f021}" record_timestamp="1469456393793" record_key="1179">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_12</dilemma_key>
+<id>1179</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{3f773b8a-fa2f-4e82-ae0f-a80f8286e3b3}" record_timestamp="1469456393793" record_key="1183">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_13</dilemma_key>
+<id>1183</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ad9e74ba-b6f2-4416-87d4-f42f88d91192}" record_timestamp="1469456393794" record_key="1188">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_14</dilemma_key>
+<id>1188</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b4ce62ce-0483-4346-8909-6bbf1e99495a}" record_timestamp="1469456393794" record_key="1194">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_15</dilemma_key>
+<id>1194</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ccdb82f7-a719-4ec9-a950-ed95a5217ec7}" record_timestamp="1469456393795" record_key="1199">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_16</dilemma_key>
+<id>1199</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{56e51cc6-1cc8-4c4b-b002-961f129190a8}" record_timestamp="1469456393795" record_key="1200">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_17</dilemma_key>
+<id>1200</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e21da41d-9008-4f12-8f4a-81693b004fc3}" record_timestamp="1469456393795" record_key="1205">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_18</dilemma_key>
+<id>1205</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{47e3b02d-c8db-4a62-85c4-dafea1f2544e}" record_timestamp="1469456393796" record_key="1209">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_19</dilemma_key>
+<id>1209</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{790861bf-79f4-40ae-b8dc-d3d6c5a06b4b}" record_timestamp="1469456393796" record_key="1214">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_20</dilemma_key>
+<id>1214</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_medium</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ab49b4df-06bb-4422-b23b-02296dd8e95f}" record_timestamp="1469456393796" record_key="1216">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_1</dilemma_key>
+<id>1216</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{17a7aa44-2f08-46d2-98ac-5a2c13532ea3}" record_timestamp="1469456393797" record_key="1221">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_2</dilemma_key>
+<id>1221</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ec094058-b493-448a-a572-b3ceeceb0a97}" record_timestamp="1469456393797" record_key="1225">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_3</dilemma_key>
+<id>1225</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{773720b8-a0dc-45f3-9ccf-37b03909e050}" record_timestamp="1469456393797" record_key="1229">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_4</dilemma_key>
+<id>1229</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{a193d918-01ee-47d7-a91e-01737f1b6bc1}" record_timestamp="1469456393798" record_key="1238">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_5</dilemma_key>
+<id>1238</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b004bfcb-d4b7-4172-8556-2046a6afa4b4}" record_timestamp="1455630111710" record_key="124">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_grn_get_out_of_da_way</dilemma_key>
+<id>124</id>
+<payload_key>wh_main_payload_morale_all</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{01398e68-c49e-4e0c-a65b-c7b383dc4032}" record_timestamp="1469456393798" record_key="1244">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_6</dilemma_key>
+<id>1244</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b11d21e9-977d-4c2a-bfd0-977f7fb696e0}" record_timestamp="1469456393799" record_key="1253">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_7</dilemma_key>
+<id>1253</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7734060c-11cf-4dd6-84d4-853d05772773}" record_timestamp="1469456393799" record_key="1259">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_8</dilemma_key>
+<id>1259</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{44e46a97-67a5-4147-bdf1-b57d5ea84ff8}" record_timestamp="1469456393799" record_key="1263">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_9</dilemma_key>
+<id>1263</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e398e386-0f9c-486c-9613-2ea688e09a37}" record_timestamp="1469456393800" record_key="1272">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_10</dilemma_key>
+<id>1272</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{bc7d54ad-e788-47a2-84c4-8d8a2f559c9e}" record_timestamp="1469456393800" record_key="1274">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_11</dilemma_key>
+<id>1274</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{cb5710ed-8072-4d91-aaf0-1503bda9709c}" record_timestamp="1469456393800" record_key="1282">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_12</dilemma_key>
+<id>1282</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{acba73fc-06ae-46d7-aff3-fa3d27daaee8}" record_timestamp="1469456393801" record_key="1287">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_13</dilemma_key>
+<id>1287</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{52a2a543-a422-4461-9e32-539ce7fac82d}" record_timestamp="1469456393801" record_key="1294">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_14</dilemma_key>
+<id>1294</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{524cba80-98ed-4b91-b807-0f96f07f2107}" record_timestamp="1469456393801" record_key="1303">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_15</dilemma_key>
+<id>1303</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ad8e9bc1-f48c-4895-8c28-89a7803f03bc}" record_timestamp="1455630113601" record_key="131">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_grn_get_out_of_da_way</dilemma_key>
+<id>131</id>
+<payload_key>wh_main_payload_event_get_out_of_da_way_second</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{dc0ec8aa-98d8-4f07-8625-6c833c86ba83}" record_timestamp="1469456393802" record_key="1312">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_16</dilemma_key>
+<id>1312</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{0a39fbd1-29df-462f-9d60-4a09d29e2a19}" record_timestamp="1469456393802" record_key="1321">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_17</dilemma_key>
+<id>1321</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{610a3bb6-c420-4380-ab36-457cbc92ef93}" record_timestamp="1469456393802" record_key="1326">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_18</dilemma_key>
+<id>1326</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4e12559d-dc55-4382-be64-8ced6301d542}" record_timestamp="1469456393803" record_key="1330">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_19</dilemma_key>
+<id>1330</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{d4d23b5c-c624-4169-8858-fa86778d37ef}" record_timestamp="1469456393803" record_key="1334">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_20</dilemma_key>
+<id>1334</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_high</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4288c0d5-9e7a-4872-9c59-fef1aefb387d}" record_timestamp="1469456393803" record_key="1344">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_1</dilemma_key>
+<id>1344</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{98457568-51ee-430f-8638-106de3edca76}" record_timestamp="1469456393804" record_key="1347">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_2</dilemma_key>
+<id>1347</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c4049ef9-e418-4e7c-9b6f-4858118bf95c}" record_timestamp="1455630112343" record_key="135">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_grn_gork_or_mork</dilemma_key>
+<id>135</id>
+<payload_key>wh_main_payload_event_gork</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{801061aa-950b-4f89-a990-34351d02e930}" record_timestamp="1469456393804" record_key="1357">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_3</dilemma_key>
+<id>1357</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{66c74c54-3840-4163-a736-b91bb2fc7661}" record_timestamp="1455630112395" record_key="136">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_grn_gork_or_mork</dilemma_key>
+<id>136</id>
+<payload_key>wh_main_payload_event_mork</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{a7696b12-56df-48b6-a80b-651aad1c8c55}" record_timestamp="1469456393804" record_key="1366">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_4</dilemma_key>
+<id>1366</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{607b988d-cc86-4a5a-aa70-77f496d6eaa7}" record_timestamp="1469456393805" record_key="1367">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_5</dilemma_key>
+<id>1367</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{79557da9-78ae-4d13-a634-f149e61c0583}" record_timestamp="1469456393805" record_key="1373">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_6</dilemma_key>
+<id>1373</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{373a32d8-0dd4-47ce-b25f-580f991b63e6}" record_timestamp="1469456393806" record_key="1376">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_7</dilemma_key>
+<id>1376</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{9a832bd4-8800-4cbf-a053-222ae44abdb5}" record_timestamp="1469456393806" record_key="1377">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_8</dilemma_key>
+<id>1377</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ee9be238-4fa6-4dca-85c8-53d5fc939fd7}" record_timestamp="1469456393806" record_key="1381">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_9</dilemma_key>
+<id>1381</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{9a5a6054-aa4b-4ec9-a5fe-a5f703575f95}" record_timestamp="1469456393807" record_key="1383">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_10</dilemma_key>
+<id>1383</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{fff1d07b-54e7-4377-b664-ff4d02f7f3ae}" record_timestamp="1469456393739" record_key="1388">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_11</dilemma_key>
+<id>1388</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b4f08a8d-b05d-43fa-b562-c4fd7bb74dfc}" record_timestamp="1469456393740" record_key="1390">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_12</dilemma_key>
+<id>1390</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{573d9eb6-dbc6-4d60-9df6-000b51952cf9}" record_timestamp="1469456393740" record_key="1393">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_13</dilemma_key>
+<id>1393</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{3cf93efc-e104-460f-ba40-87c3a909fe7e}" record_timestamp="1469456393740" record_key="1398">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_14</dilemma_key>
+<id>1398</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c694553b-8559-4ed2-ad81-b726bb743988}" record_timestamp="1469456393741" record_key="1406">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_15</dilemma_key>
+<id>1406</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{6310871c-92bf-435a-af90-0d5579fb47a4}" record_timestamp="1469456393741" record_key="1411">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_16</dilemma_key>
+<id>1411</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{422ea791-7b6b-4a4e-87b8-0f0bf4772051}" record_timestamp="1469456393814" record_key="1414">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_17</dilemma_key>
+<id>1414</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_low</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ffbc0e2b-0c48-4426-8bf6-c17d678bff1c}" record_timestamp="1455630113532" record_key="142">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_grn_wanderin_gits</dilemma_key>
+<id>142</id>
+<payload_key>wh_main_payload_event_wanderin_gits_first</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5f99c7ae-35bb-4b3b-a9fc-63336053ae0f}" record_timestamp="1469456393814" record_key="1420">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_18</dilemma_key>
+<id>1420</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_low</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{3ac556ca-2822-4439-b8c3-41ca21b93b08}" record_timestamp="1469456393815" record_key="1429">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_19</dilemma_key>
+<id>1429</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_low</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e81fef3d-f55a-4a88-8521-31bfa4908b25}" record_timestamp="1469456393750" record_key="1434">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_20</dilemma_key>
+<id>1434</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5faee451-8841-4118-837e-14bd48a21f84}" record_timestamp="1469456393742" record_key="1439">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_1</dilemma_key>
+<id>1439</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{1854626e-8a71-439e-97e7-dcba1913a109}" record_timestamp="1469456393742" record_key="1446">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_2</dilemma_key>
+<id>1446</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{922c69c3-1237-466b-b5c7-6f948ae2cfe0}" record_timestamp="1469456393742" record_key="1451">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_3</dilemma_key>
+<id>1451</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ad504f4a-ddc0-4e57-b105-2ec5580c1f72}" record_timestamp="1469456393743" record_key="1459">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_4</dilemma_key>
+<id>1459</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{836f6b19-edcb-4aad-a648-e3702e215c54}" record_timestamp="1469456393815" record_key="1469">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_5</dilemma_key>
+<id>1469</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_low</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{d8def797-fa01-4b5b-a7ee-99dcaa60bfb5}" record_timestamp="1455704055793" record_key="147">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_grn_wanderin_gits</dilemma_key>
+<id>147</id>
+<payload_key>wh_main_payload_migration</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5b1cab14-be3d-4049-bef4-fba31a08f538}" record_timestamp="1469456393815" record_key="1474">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_6</dilemma_key>
+<id>1474</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_low</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{8e42e9cf-6d1f-4774-8028-24a4e7a96cdc}" record_timestamp="1469456393816" record_key="1478">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_7</dilemma_key>
+<id>1478</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_low</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{f0f7b424-3ec5-4c81-a7c5-ec6350982047}" record_timestamp="1469456393750" record_key="1482">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_8</dilemma_key>
+<id>1482</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{639db302-0c14-484e-827a-6b13343d81b1}" record_timestamp="1469456393751" record_key="1489">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_9</dilemma_key>
+<id>1489</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{fcfa75a8-69e6-4d0e-a7e7-8d4edead9dce}" record_timestamp="1469456393760" record_key="1498">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_10</dilemma_key>
+<id>1498</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_low</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{927d18ba-9e16-4f39-90c7-3720cc6fde0f}" record_timestamp="1455622797314" record_key="15">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_emp_looters</dilemma_key>
+<id>15</id>
+<payload_key>wh_main_payload_morale_all</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{6ef1ddd2-9b88-438d-8f07-255d4b909057}" record_timestamp="1469456393816" record_key="1500">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_11</dilemma_key>
+<id>1500</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_low</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{81b7e96e-cd9a-494c-8c70-182bb4efd7a7}" record_timestamp="1469456393816" record_key="1509">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_12</dilemma_key>
+<id>1509</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_low</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{562933fe-3a7e-49e7-a678-8858eed41adf}" record_timestamp="1469456393817" record_key="1514">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_13</dilemma_key>
+<id>1514</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_low</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b3b0cd4a-ed09-4339-9d4c-2953e1c0e592}" record_timestamp="1469456393751" record_key="1517">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_14</dilemma_key>
+<id>1517</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{bf16c256-2e58-4af9-9cb9-c1769430b5ed}" record_timestamp="1469456393751" record_key="1520">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_15</dilemma_key>
+<id>1520</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{58b5704e-979e-4e6b-8282-be31cef34ed7}" record_timestamp="1469456393761" record_key="1524">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_16</dilemma_key>
+<id>1524</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_low</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c06bce0c-cdf6-4417-9c7b-6859e918db97}" record_timestamp="1455630114378" record_key="153">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_grn_wheres_ma_teef</dilemma_key>
+<id>153</id>
+<payload_key>wh_main_payload_event_wheres_ma_teef_first</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7159555b-6fe3-4751-9dc9-cb87f4a4ca62}" record_timestamp="1469456393752" record_key="1532">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_17</dilemma_key>
+<id>1532</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{64eb1e19-ff2a-46ae-90b3-a838618c7993}" record_timestamp="1469456393752" record_key="1534">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_18</dilemma_key>
+<id>1534</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7eebf28b-1d8e-4d00-8343-2c249b4d2d44}" record_timestamp="1469456393761" record_key="1541">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_19</dilemma_key>
+<id>1541</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_low</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{52484e80-a680-4b6c-819a-c052b9a8f4bd}" record_timestamp="1469456393761" record_key="1545">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_20</dilemma_key>
+<id>1545</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_low</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{898722aa-bd72-4a20-bf57-25a989f1e79f}" record_timestamp="1469456393817" record_key="1554">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_1</dilemma_key>
+<id>1554</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_low</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{58a70589-b207-43cc-89d5-9659e01530e3}" record_timestamp="1469456393752" record_key="1564">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_2</dilemma_key>
+<id>1564</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{87efb772-fd5a-424b-b46e-e0b3bba54588}" record_timestamp="1469456393762" record_key="1572">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_3</dilemma_key>
+<id>1572</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_low</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b80be102-43d4-466c-bf80-8abdc6cad907}" record_timestamp="1469456393771" record_key="1575">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_4</dilemma_key>
+<id>1575</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{f084dbd8-eb06-496b-8856-45390ba4cbbb}" record_timestamp="1469456393753" record_key="1576">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_5</dilemma_key>
+<id>1576</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{63a4110c-87fb-42fd-a366-9fae272158a0}" record_timestamp="1469456393762" record_key="1578">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_6</dilemma_key>
+<id>1578</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_low</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{3a53dba3-487f-468c-8f82-416384d830b3}" record_timestamp="1455630114414" record_key="158">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_grn_wheres_ma_teef</dilemma_key>
+<id>158</id>
+<payload_key>wh_main_payload_event_wheres_ma_teef_second</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{133a45f9-5966-4652-83ca-7339b16104e9}" record_timestamp="1469456393771" record_key="1582">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_7</dilemma_key>
+<id>1582</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{dbbd5dd4-ef57-421b-a498-28a119a8be9a}" record_timestamp="1469456393763" record_key="1592">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_8</dilemma_key>
+<id>1592</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_low</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ed7efc55-1b11-42c1-9ec3-d0da4d657a17}" record_timestamp="1469456393772" record_key="1599">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_9</dilemma_key>
+<id>1599</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5a4808ba-f7b0-4f37-b5a1-250f8ccae98f}" record_timestamp="1469456393772" record_key="1605">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_10</dilemma_key>
+<id>1605</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{a6a9bc23-5235-456a-8796-1b2947082ca6}" record_timestamp="1469456393753" record_key="1610">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_11</dilemma_key>
+<id>1610</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{93fea176-92e8-4199-aa56-edb624c781d8}" record_timestamp="1469456393763" record_key="1611">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_12</dilemma_key>
+<id>1611</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_low</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e39dd7e4-567e-455c-9531-90df768170e0}" record_timestamp="1469456393773" record_key="1615">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_13</dilemma_key>
+<id>1615</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4629d197-2514-4d53-af11-ee4cc8545e0b}" record_timestamp="1469456393763" record_key="1617">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_14</dilemma_key>
+<id>1617</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_low</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{51c3c230-a28d-47bc-a094-06aec01d6481}" record_timestamp="1469456393773" record_key="1619">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_15</dilemma_key>
+<id>1619</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c83ee84a-d188-4390-9033-f42103f9e6db}" record_timestamp="1469456393773" record_key="1622">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_16</dilemma_key>
+<id>1622</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4487ca4a-8de3-45b3-932a-b7711cc16a0c}" record_timestamp="1469456393764" record_key="1632">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_17</dilemma_key>
+<id>1632</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_low</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7316a605-c1da-4f57-8395-49da485e4146}" record_timestamp="1469456393774" record_key="1640">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_18</dilemma_key>
+<id>1640</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7a8bed44-648b-4566-9bd5-ff26849099ed}" record_timestamp="1469456393774" record_key="1644">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_19</dilemma_key>
+<id>1644</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7c4655dd-0e0c-49f7-ab1d-d6c9b8e0711e}" record_timestamp="1469456393774" record_key="1648">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_20</dilemma_key>
+<id>1648</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_low</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{847e5a7b-6783-4005-8bca-d2fc3c010e39}" record_timestamp="1469456393807" record_key="1658">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_1</dilemma_key>
+<id>1658</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c568dcd8-060a-4615-8626-6a491e516e47}" record_timestamp="1462358733941" record_key="166">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_chs_the_eye_opens</dilemma_key>
+<id>166</id>
+<payload_key>wh_main_payload_event_the_eye_opens_first</payload_key>
+<value>DURATION[6]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{98c3de81-6798-47df-a711-fbcb370b53b2}" record_timestamp="1469456393807" record_key="1667">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_2</dilemma_key>
+<id>1667</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7818d17c-86c4-4895-b8ad-8960e43bdee3}" record_timestamp="1469456393808" record_key="1671">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_3</dilemma_key>
+<id>1671</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{0234c3dc-98e2-480b-986b-246d30ced626}" record_timestamp="1469456393808" record_key="1675">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_4</dilemma_key>
+<id>1675</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{a4dc71ad-62c9-4d4a-9110-2ed548031726}" record_timestamp="1469456393808" record_key="1678">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_5</dilemma_key>
+<id>1678</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{8fab600f-8e52-4fcd-b7ad-a76f6855a1cf}" record_timestamp="1469456393809" record_key="1687">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_6</dilemma_key>
+<id>1687</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{6e136fbc-b9ae-453f-83ed-e031409ccf88}" record_timestamp="1469456393809" record_key="1694">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_7</dilemma_key>
+<id>1694</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{cca7013c-6c5d-4d08-a07e-c9200f75f430}" record_timestamp="1469456393809" record_key="1698">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_8</dilemma_key>
+<id>1698</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{6f9668fb-9f4b-407e-862e-e78cf1922b23}" record_timestamp="1455622797302" record_key="17">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_emp_looters</dilemma_key>
+<id>17</id>
+<payload_key>wh_main_payload_sacking_positive</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{3d62e289-c09e-40f6-95a5-13312406a722}" record_timestamp="1469456393810" record_key="1700">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_9</dilemma_key>
+<id>1700</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{8439234d-91f7-45ee-80d9-1218b93f9463}" record_timestamp="1469456393810" record_key="1702">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_10</dilemma_key>
+<id>1702</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4f2f8141-6719-475d-8672-be5c76f29a27}" record_timestamp="1469456393747" record_key="1710">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_11</dilemma_key>
+<id>1710</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{fd9225cf-0c8d-4157-aec6-a2863b58c69f}" record_timestamp="1469456393747" record_key="1711">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_12</dilemma_key>
+<id>1711</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b836a72d-69f3-440b-a289-9e83505e391b}" record_timestamp="1469456393747" record_key="1719">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_13</dilemma_key>
+<id>1719</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b9f21c5d-aad6-4880-9535-bd25c3e0e397}" record_timestamp="1469456393746" record_key="1722">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_14</dilemma_key>
+<id>1722</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{dd032b94-4961-480d-b533-8672f65f115c}" record_timestamp="1469456393748" record_key="1725">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_15</dilemma_key>
+<id>1725</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{bc7babcb-602e-4f65-aff8-ec038dfdb7f3}" record_timestamp="1462358733941" record_key="173">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_chs_the_eye_opens</dilemma_key>
+<id>173</id>
+<payload_key>wh_main_payload_event_the_eye_opens_second</payload_key>
+<value>DURATION[6]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{bbd5f4bd-4b19-4bb6-8946-b791beb2beeb}" record_timestamp="1469456393746" record_key="1732">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_16</dilemma_key>
+<id>1732</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{17c11755-a092-450d-8ec8-b1f1b4424adc}" record_timestamp="1469456393817" record_key="1739">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_17</dilemma_key>
+<id>1739</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_medium</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{33150bfb-2b8a-49b4-be35-6bf01a874445}" record_timestamp="1469456393818" record_key="1745">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_18</dilemma_key>
+<id>1745</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_medium</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{04ff9214-69e1-44a1-8186-0e7a5610074d}" record_timestamp="1469456393818" record_key="1749">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_19</dilemma_key>
+<id>1749</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_medium</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{43b8770c-a0a1-42f0-ad34-45485ca6b05f}" record_timestamp="1469456393753" record_key="1756">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_20</dilemma_key>
+<id>1756</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{d4f0760b-8013-4a56-afee-e23a27bb656c}" record_timestamp="1469456393748" record_key="1765">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_1</dilemma_key>
+<id>1765</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{29b83793-e386-41e7-8392-d82548a431ca}" record_timestamp="1469456393749" record_key="1766">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_2</dilemma_key>
+<id>1766</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7dd3e84c-e509-458b-b588-92b915b99e88}" record_timestamp="1469456393749" record_key="1770">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_3</dilemma_key>
+<id>1770</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7a2259ef-6d64-407b-aa5e-4987db734ea5}" record_timestamp="1469456393749" record_key="1777">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_4</dilemma_key>
+<id>1777</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{6da65d8f-54e3-42e9-993c-5260f3ce8e0e}" record_timestamp="1469456393818" record_key="1784">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_5</dilemma_key>
+<id>1784</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_medium</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{daa7d4ac-6a34-41d0-896f-059fc0493173}" record_timestamp="1469456393819" record_key="1786">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_6</dilemma_key>
+<id>1786</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_medium</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b2a6543e-4f89-4519-866e-455c9ac5d04e}" record_timestamp="1469456393819" record_key="1795">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_7</dilemma_key>
+<id>1795</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_medium</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{6ef80a98-1733-4a23-89c0-8b992973380e}" record_timestamp="1469456393754" record_key="1804">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_8</dilemma_key>
+<id>1804</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{064d18dc-44e6-450c-a999-3a205f8a1e8b}" record_timestamp="1469456393754" record_key="1810">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_9</dilemma_key>
+<id>1810</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ae82c290-9513-43b4-96a7-58725aaad611}" record_timestamp="1469456393764" record_key="1817">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_10</dilemma_key>
+<id>1817</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_medium</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{04357e1b-9001-46af-9033-a1b3c46d61d4}" record_timestamp="1469456393819" record_key="1821">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_11</dilemma_key>
+<id>1821</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_medium</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{73d31045-4882-4b19-a263-8458ebd0b87a}" record_timestamp="1469456393820" record_key="1824">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_12</dilemma_key>
+<id>1824</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_medium</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e1ebf2e4-4429-411f-a985-d7f0dce85d34}" record_timestamp="1462358733940" record_key="183">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_chs_the_eye_opens_wider</dilemma_key>
+<id>183</id>
+<payload_key>wh_main_payload_event_the_eye_opens_wider_first</payload_key>
+<value>DURATION[6]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e178c7a6-1bb0-4a9f-b8ee-678e0ddb4911}" record_timestamp="1469456393820" record_key="1833">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_13</dilemma_key>
+<id>1833</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_medium</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7396bddb-d0a0-4824-b1d9-a2b4d79063e1}" record_timestamp="1469456393754" record_key="1836">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_14</dilemma_key>
+<id>1836</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{832d380e-2df2-44be-851b-2c43cbe01743}" record_timestamp="1469456393755" record_key="1845">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_15</dilemma_key>
+<id>1845</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{472768e6-bcc4-4c21-9bc0-1a9479523159}" record_timestamp="1469456393764" record_key="1852">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_16</dilemma_key>
+<id>1852</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_medium</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{be1232dd-02f9-4747-9661-e1c6b1ec191c}" record_timestamp="1469456393755" record_key="1861">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_17</dilemma_key>
+<id>1861</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4ce4f2ea-20d6-42d9-b6a2-24fe09a32552}" record_timestamp="1469456393756" record_key="1864">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_18</dilemma_key>
+<id>1864</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ba0aa827-6e1c-47b0-9f52-92d08728b7d6}" record_timestamp="1469456393765" record_key="1865">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_19</dilemma_key>
+<id>1865</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_medium</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{d5cade3e-be6a-4207-9993-72ef55c97b92}" record_timestamp="1469456393765" record_key="1872">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_20</dilemma_key>
+<id>1872</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_medium</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{353a8514-911d-4b26-92f2-4313af0a919a}" record_timestamp="1469456393821" record_key="1873">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_1</dilemma_key>
+<id>1873</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_medium</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7700a66f-da2e-4130-bd57-a47dd149ac9c}" record_timestamp="1469456393756" record_key="1880">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_2</dilemma_key>
+<id>1880</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{9a9454bd-9969-4f4b-bb1b-08793ea54ee1}" record_timestamp="1469456393765" record_key="1886">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_3</dilemma_key>
+<id>1886</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_medium</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{fe3c0e64-30cf-4348-9b1d-94372105f474}" record_timestamp="1469456393775" record_key="1887">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_4</dilemma_key>
+<id>1887</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ddc889ee-0d7e-43c8-a663-a9b6041bef83}" record_timestamp="1469456393756" record_key="1897">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_5</dilemma_key>
+<id>1897</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{db8b9a10-c445-42b4-a786-365cb33a0cd2}" record_timestamp="1469456393766" record_key="1899">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_6</dilemma_key>
+<id>1899</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_medium</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{97f89202-ae5f-4e70-bea9-46dd4c07d131}" record_timestamp="1469456393775" record_key="1903">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_7</dilemma_key>
+<id>1903</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{76a3e2c9-7755-463d-b18f-e6ced3172b21}" record_timestamp="1469456393766" record_key="1909">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_8</dilemma_key>
+<id>1909</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_medium</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b2b57bae-dc5b-43d7-b78b-a4771fdd3189}" record_timestamp="1469456393775" record_key="1912">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_9</dilemma_key>
+<id>1912</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{d04b9d54-a887-4bc2-9fd2-9e92fb174ef7}" record_timestamp="1469456393776" record_key="1915">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_10</dilemma_key>
+<id>1915</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5a7fca7c-1343-4837-8db2-06aa63c4143e}" record_timestamp="1469456393757" record_key="1921">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_11</dilemma_key>
+<id>1921</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{d5d87dd8-1f32-457b-9376-d541d5f8de05}" record_timestamp="1469456393767" record_key="1923">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_12</dilemma_key>
+<id>1923</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_medium</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{af9b12b9-4d3d-4d5e-be78-b1315cf8fad0}" record_timestamp="1462358733940" record_key="193">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_chs_the_eye_opens_wider</dilemma_key>
+<id>193</id>
+<payload_key>wh_main_payload_event_the_eye_opens_wider_second</payload_key>
+<value>DURATION[6]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{126f05df-493d-4cc9-ac7d-91f90eb83366}" record_timestamp="1469456393776" record_key="1930">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_13</dilemma_key>
+<id>1930</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{976d4f61-4d24-4172-a5d4-fef69e73c9f6}" record_timestamp="1469456393767" record_key="1937">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_14</dilemma_key>
+<id>1937</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_medium</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b37da9fe-8eca-41cb-a028-37f44541c654}" record_timestamp="1469456393776" record_key="1945">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_15</dilemma_key>
+<id>1945</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{8b3a862e-f2a6-4405-b864-9e65055d3b0a}" record_timestamp="1462358733940" record_key="195">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_chs_the_eye_closes</dilemma_key>
+<id>195</id>
+<payload_key>wh_main_payload_event_the_eye_closes_second</payload_key>
+<value>DURATION[8]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e3da6cec-d690-40bb-827c-3dd8589a9c16}" record_timestamp="1469456393777" record_key="1955">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_16</dilemma_key>
+<id>1955</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{93e8da54-4033-4ef1-b00c-c71c3d68c564}" record_timestamp="1469456393767" record_key="1958">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_17</dilemma_key>
+<id>1958</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_medium</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{61240c8f-0b27-4ecd-82eb-ed90863f2de1}" record_timestamp="1469456393777" record_key="1960">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_18</dilemma_key>
+<id>1960</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{a02b12e7-286e-4eff-bf48-a6190c9b3e90}" record_timestamp="1455632292169" record_key="197">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_chs_the_eye_closes</dilemma_key>
+<id>197</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[-10000]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4a9d61ca-ce9c-435a-b663-61bd30d1271f}" record_timestamp="1469456393778" record_key="1970">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_19</dilemma_key>
+<id>1970</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{f4a2cd91-0245-4564-87db-a663e01497ed}" record_timestamp="1469456393778" record_key="1975">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_lunar_eclipse_20</dilemma_key>
+<id>1975</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_medium</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{9366819f-bb9b-4e7e-bac4-b90d0c36fe08}" record_timestamp="1469456393810" record_key="1978">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_1</dilemma_key>
+<id>1978</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b804968c-3a0d-48e8-aa27-fbfb3d5dec20}" record_timestamp="1469456393811" record_key="1984">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_2</dilemma_key>
+<id>1984</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7eb05397-ec99-4776-8aca-96d5658f7563}" record_timestamp="1469456393811" record_key="1993">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_3</dilemma_key>
+<id>1993</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{bcaeb396-4f46-4e5e-88f9-77da02d4f215}" record_timestamp="1469456393811" record_key="1997">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_4</dilemma_key>
+<id>1997</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5bfd5ea4-50ce-43fc-aa8e-2da6cae91664}" record_timestamp="1469456393812" record_key="1999">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_5</dilemma_key>
+<id>1999</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b31f1e4a-adf5-4254-95c0-28d4444af129}" record_timestamp="1469456393812" record_key="2008">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_6</dilemma_key>
+<id>2008</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ed307ace-fddc-4716-aa1b-69aac0c6f64f}" record_timestamp="1469456393812" record_key="2014">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_7</dilemma_key>
+<id>2014</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7f568e02-f5b1-4fca-aad6-4ee0d4ea52ef}" record_timestamp="1455637532703" record_key="202">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_dwf_a_shameful_display</dilemma_key>
+<id>202</id>
+<payload_key>DIPLOMATIC_STANDING</payload_key>
+<value>AMOUNT[-2]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b919bd50-2105-4795-bd04-7bc712fac082}" record_timestamp="1469456393813" record_key="2021">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_8</dilemma_key>
+<id>2021</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4830c1a2-2606-4b7e-937a-9adfdd32eb3f}" record_timestamp="1469456393813" record_key="2028">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_9</dilemma_key>
+<id>2028</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e52b2ce1-1fc8-44ab-b251-7fd5d2212365}" record_timestamp="1469456393814" record_key="2035">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_10</dilemma_key>
+<id>2035</id>
+<payload_key>wh_dlc03_payload_prep_moon_bestial_rage_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7ce10950-ba07-4d65-8e31-f328433a46c1}" record_timestamp="1469456393750" record_key="2037">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_11</dilemma_key>
+<id>2037</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{6db32c18-7597-4604-a8a0-cd45a66018a1}" record_timestamp="1469456393746" record_key="2042">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_12</dilemma_key>
+<id>2042</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{d851558c-f2fb-416d-9061-73e2a8e5ee26}" record_timestamp="1469456393745" record_key="2047">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_13</dilemma_key>
+<id>2047</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{eaee0067-f373-4e79-98c6-d28a7f2c0d0d}" record_timestamp="1469456393745" record_key="2056">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_14</dilemma_key>
+<id>2056</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{59d5ce6f-eda8-4b9b-9ca8-99e6e5c113ac}" record_timestamp="1469456393745" record_key="2057">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_15</dilemma_key>
+<id>2057</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{f2124165-98ec-4c12-8c63-c0808af7bd93}" record_timestamp="1469456393744" record_key="2065">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_16</dilemma_key>
+<id>2065</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{2cba2e59-4ed8-4b96-87ad-480b3cce8da0}" record_timestamp="1469456393821" record_key="2068">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_17</dilemma_key>
+<id>2068</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_high</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ccc971a5-ca27-4d32-be87-8953f3a37650}" record_timestamp="1469456393821" record_key="2069">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_18</dilemma_key>
+<id>2069</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_high</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{70aec1e7-f720-4b85-ba70-7d148338cba0}" record_timestamp="1469456393822" record_key="2074">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_19</dilemma_key>
+<id>2074</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_high</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c2abeedb-8431-4dfd-b484-2bfa0c5bb839}" record_timestamp="1469456393757" record_key="2076">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_20</dilemma_key>
+<id>2076</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c4654885-fa25-4faf-b3c4-ece69edb527c}" record_timestamp="1469456393744" record_key="2079">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_1</dilemma_key>
+<id>2079</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{0f0aaad3-cf0e-4314-9ed7-14005cad8044}" record_timestamp="1455637533376" record_key="208">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_dwf_a_shameful_display</dilemma_key>
+<id>208</id>
+<payload_key>TARGET</payload_key>
+<value>EVENT</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{bbfd6817-758d-4625-8e08-df05e2bdf41e}" record_timestamp="1469456393744" record_key="2084">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_2</dilemma_key>
+<id>2084</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{8ba5b417-28ab-46e9-b3b6-335732d65839}" record_timestamp="1469456393743" record_key="2092">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_3</dilemma_key>
+<id>2092</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{bcdb2964-b0c4-4a3a-9b40-8f17d55518b8}" record_timestamp="1469456393743" record_key="2101">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_4</dilemma_key>
+<id>2101</id>
+<payload_key>wh_dlc03_payload_prep_moon_movement_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e15b06e0-ee78-4609-8439-0cd148028912}" record_timestamp="1469456393822" record_key="2111">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_5</dilemma_key>
+<id>2111</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_high</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4791e54f-b947-4644-a10c-4abf1080ac73}" record_timestamp="1469456393822" record_key="2121">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_6</dilemma_key>
+<id>2121</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_high</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{2ff84661-d25d-4226-b977-dd092d6abb39}" record_timestamp="1469456393823" record_key="2122">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_7</dilemma_key>
+<id>2122</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_high</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{9e5b2ff0-f306-461b-adee-ed61f5dda09e}" record_timestamp="1469456393757" record_key="2127">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_8</dilemma_key>
+<id>2127</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{3e901cf4-2093-4f9a-99a8-6f87eee1f1d8}" record_timestamp="1469456393758" record_key="2130">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_9</dilemma_key>
+<id>2130</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{378dc20d-2593-4ac1-8aa5-172e3f01bde4}" record_timestamp="1469456393768" record_key="2132">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_10</dilemma_key>
+<id>2132</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_high</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{58bdb225-627f-4158-8075-a6e230c6b522}" record_timestamp="1469456393823" record_key="2136">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_11</dilemma_key>
+<id>2136</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_high</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{fe13d501-c3c6-4919-9118-086dc13caa71}" record_timestamp="1469456393823" record_key="2140">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_12</dilemma_key>
+<id>2140</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_high</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{9482fe57-3110-4e9a-901b-1606e1a71094}" record_timestamp="1455637533277" record_key="215">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_dwf_a_shameful_display</dilemma_key>
+<id>215</id>
+<payload_key>wh_main_payload_event_a_shameful_display_second</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{bb3f4ab5-f8ce-48c2-9c82-db706d76e3c6}" record_timestamp="1469456393824" record_key="2150">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_13</dilemma_key>
+<id>2150</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_high</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{f3d052ea-1b5d-4ca8-8825-b152114c4d7a}" record_timestamp="1469456393758" record_key="2157">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_14</dilemma_key>
+<id>2157</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{f59bfd11-7d75-49d6-81d8-bb25ef7d9b18}" record_timestamp="1469456393758" record_key="2167">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_15</dilemma_key>
+<id>2167</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c30bcb47-a657-4c11-a243-dd451221b0f0}" record_timestamp="1469456393768" record_key="2177">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_16</dilemma_key>
+<id>2177</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_high</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{62a21070-8aa5-4ea6-a2b3-c4ca3150c48a}" record_timestamp="1469456393759" record_key="2187">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_17</dilemma_key>
+<id>2187</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{013e91fd-446e-4075-b3a0-22c32dd95fe7}" record_timestamp="1469456393759" record_key="2196">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_18</dilemma_key>
+<id>2196</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5f9cb048-11fc-4877-9a53-92ca0c251abc}" record_timestamp="1469456393768" record_key="2202">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_19</dilemma_key>
+<id>2202</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_high</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{f347b861-0ac3-4881-9bd9-0af7489629e2}" record_timestamp="1469456393769" record_key="2205">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_20</dilemma_key>
+<id>2205</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_high</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4d9cc860-b6b0-401e-8d3b-f99935030ef9}" record_timestamp="1469456393824" record_key="2212">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_1</dilemma_key>
+<id>2212</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_exp_high</payload_key>
+<value>DURATION[5];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{f1e7f4e2-c9f0-4b36-a843-333d71c497cf}" record_timestamp="1469456393759" record_key="2213">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_2</dilemma_key>
+<id>2213</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{669caad1-684f-4e84-9390-bcf266020c1f}" record_timestamp="1469456393769" record_key="2218">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_3</dilemma_key>
+<id>2218</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_high</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e30411d4-8380-4df5-b1ae-09ff2c1fc21f}" record_timestamp="1469456393778" record_key="2228">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_4</dilemma_key>
+<id>2228</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{97f1fcc4-b76c-4187-b4f0-5e8bdfd3027c}" record_timestamp="1469456393760" record_key="2232">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_5</dilemma_key>
+<id>2232</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{a04ab3cb-117b-4182-b563-0aaaac038ec4}" record_timestamp="1469456393769" record_key="2238">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_6</dilemma_key>
+<id>2238</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_high</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{63518e68-82e5-4669-a28c-f1b36b2ce78d}" record_timestamp="1469456393779" record_key="2240">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_7</dilemma_key>
+<id>2240</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{332a0971-a037-49e2-a5a6-385409a70155}" record_timestamp="1469456393770" record_key="2246">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_8</dilemma_key>
+<id>2246</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_high</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{47e9c6b4-8f82-4ca5-9889-92f8d6949ef7}" record_timestamp="1469456393779" record_key="2255">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_9</dilemma_key>
+<id>2255</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{bb29f054-dde6-4b64-8bc2-b42489661a38}" record_timestamp="1469456393779" record_key="2258">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_10</dilemma_key>
+<id>2258</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{931b089a-1aee-4cd1-befe-61fb054ae2b4}" record_timestamp="1469456393760" record_key="2265">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_11</dilemma_key>
+<id>2265</id>
+<payload_key>wh_dlc03_payload_prep_moon_unit_stats_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{51eac99f-5486-44cf-84a4-3d7ccb2cd188}" record_timestamp="1469456393770" record_key="2275">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_12</dilemma_key>
+<id>2275</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_high</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{fde7ca4a-60a0-4c01-b44a-e25d9217814b}" record_timestamp="1469456393780" record_key="2278">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_13</dilemma_key>
+<id>2278</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{3a94efc9-709f-492c-b282-4a3ee7e29fbc}" record_timestamp="1469456393770" record_key="2284">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_14</dilemma_key>
+<id>2284</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_high</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4e585e0e-2560-4da5-8da7-5c0cfe3e1b0c}" record_timestamp="1469456393780" record_key="2287">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_15</dilemma_key>
+<id>2287</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{248e6dd9-4308-4510-b9b2-ff9f3da7243b}" record_timestamp="1469456393780" record_key="2296">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_16</dilemma_key>
+<id>2296</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5857b7e9-97a0-4f4c-8bd7-908cb11cd54f}" record_timestamp="1469456393771" record_key="2303">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_17</dilemma_key>
+<id>2303</id>
+<payload_key>wh_dlc03_payload_prep_moon_growth_high</payload_key>
+<value>DURATION[6];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c1e079a7-6e13-4261-b356-c89137fedc65}" record_timestamp="1469456393781" record_key="2312">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_18</dilemma_key>
+<id>2312</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{f84f21cb-d715-4d08-9cef-fff9fbfdc2fa}" record_timestamp="1469456393781" record_key="2314">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_19</dilemma_key>
+<id>2314</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7737c762-0fbc-40ac-9529-3dde36c8ef7a}" record_timestamp="1469456393781" record_key="2317">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_solar_eclipse_20</dilemma_key>
+<id>2317</id>
+<payload_key>wh_dlc03_payload_prep_moon_recruit_cost_high</payload_key>
+<value>DURATION[3];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{f900653f-c314-4d66-af09-c63a1fe1101d}" record_timestamp="1477035617199" record_key="2325">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_white_dwarf_25</dilemma_key>
+<id>2325</id>
+<payload_key>wh_pro01_payload_god_choice_grimnir</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{14e2530d-c256-4062-a555-ef26dbb3fb64}" record_timestamp="1477035617200" record_key="2328">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_white_dwarf_25</dilemma_key>
+<id>2328</id>
+<payload_key>wh_pro01_payload_god_choice_valaya</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7ecd6ee3-212f-4274-bba3-cf415f3f56cf}" record_timestamp="1477035617201" record_key="2334">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_white_dwarf_25</dilemma_key>
+<id>2334</id>
+<payload_key>wh_pro01_payload_god_choice_grungni</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{2a3c2810-68d4-4849-a788-7590c57d5da9}" record_timestamp="1477035617201" record_key="2336">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_white_dwarf_25</dilemma_key>
+<id>2336</id>
+<payload_key>wh_pro01_payload_god_choice_white_dwarf</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{fed4cc05-1da6-4321-b0d3-c9a60c9bfa21}" record_timestamp="1477035617202" record_key="2344">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grimnir_25</dilemma_key>
+<id>2344</id>
+<payload_key>wh_pro01_payload_god_choice_grimnir</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{69073d74-5cff-4972-860c-3404dc2a1377}" record_timestamp="1477035617202" record_key="2349">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grimnir_25</dilemma_key>
+<id>2349</id>
+<payload_key>wh_pro01_payload_god_choice_valaya</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{36131b0a-8691-40d4-8c6a-317e25c184ef}" record_timestamp="1477035617203" record_key="2350">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grimnir_25</dilemma_key>
+<id>2350</id>
+<payload_key>wh_pro01_payload_god_choice_grungni</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{63f187bf-019b-4e1d-bcd5-d514241f6143}" record_timestamp="1477035617203" record_key="2353">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grimnir_25</dilemma_key>
+<id>2353</id>
+<payload_key>wh_pro01_payload_god_choice_white_dwarf</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ab0eae41-e143-49d6-a17d-239a9ca73467}" record_timestamp="1477035617204" record_key="2356">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_valaya_25</dilemma_key>
+<id>2356</id>
+<payload_key>wh_pro01_payload_god_choice_grimnir</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5ee72f53-fa24-4ef9-9b41-8454708c03ee}" record_timestamp="1477035617204" record_key="2362">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_valaya_25</dilemma_key>
+<id>2362</id>
+<payload_key>wh_pro01_payload_god_choice_valaya</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{6f357601-daf7-485f-886c-0fda26589b9a}" record_timestamp="1477035617205" record_key="2367">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_valaya_25</dilemma_key>
+<id>2367</id>
+<payload_key>wh_pro01_payload_god_choice_grungni</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c872ef12-45cc-41a7-95e5-e3c191237835}" record_timestamp="1455637533409" record_key="237">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_dwf_a_grudge_too_far</dilemma_key>
+<id>237</id>
+<payload_key>wh_main_payload_event_a_grudge_too_far</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e169a811-6892-4a85-ba94-d1b222ab2069}" record_timestamp="1477035617205" record_key="2376">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_valaya_25</dilemma_key>
+<id>2376</id>
+<payload_key>wh_pro01_payload_god_choice_white_dwarf</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{a9f537a6-5e02-4d96-9a1f-fa239448e55d}" record_timestamp="1477035617206" record_key="2383">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grungni_25</dilemma_key>
+<id>2383</id>
+<payload_key>wh_pro01_payload_god_choice_grimnir</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ea9ecde8-e6b4-4e14-99e8-3dd986b9f964}" record_timestamp="1477035617206" record_key="2388">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grungni_25</dilemma_key>
+<id>2388</id>
+<payload_key>wh_pro01_payload_god_choice_valaya</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7b1d92c3-f9dd-4a41-bbc7-82af39a78955}" record_timestamp="1477035617207" record_key="2398">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grungni_25</dilemma_key>
+<id>2398</id>
+<payload_key>wh_pro01_payload_god_choice_grungni</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e86bda3f-6979-4689-82bc-e3178103aadc}" record_timestamp="1477035617207" record_key="2404">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grungni_25</dilemma_key>
+<id>2404</id>
+<payload_key>wh_pro01_payload_god_choice_white_dwarf</payload_key>
+<value>DURATION[25];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{d29e6791-6db1-4f78-a871-7403a93403cd}" record_timestamp="1477035617230" record_key="2406">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_white_dwarf_15</dilemma_key>
+<id>2406</id>
+<payload_key>wh_pro01_payload_god_choice_grimnir</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{51b53927-0e5e-4fbb-9058-96b261c75b07}" record_timestamp="1477035617227" record_key="2416">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_white_dwarf_15</dilemma_key>
+<id>2416</id>
+<payload_key>wh_pro01_payload_god_choice_valaya</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{14f1022d-20d8-4a39-9bd2-128448e115db}" record_timestamp="1477035617232" record_key="2419">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_white_dwarf_15</dilemma_key>
+<id>2419</id>
+<payload_key>wh_pro01_payload_god_choice_grungni</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{48384a81-0965-4519-b38f-f31499c9fed4}" record_timestamp="1477035617231" record_key="2428">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_white_dwarf_15</dilemma_key>
+<id>2428</id>
+<payload_key>wh_pro01_payload_god_choice_white_dwarf</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{095547f4-223a-4ed6-bac0-5cb6a9edacd2}" record_timestamp="1477035617211" record_key="2438">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grimnir_15</dilemma_key>
+<id>2438</id>
+<payload_key>wh_pro01_payload_god_choice_grimnir</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e91e19b6-fbe6-4828-bd97-0651b8038d46}" record_timestamp="1477035617209" record_key="2448">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grimnir_15</dilemma_key>
+<id>2448</id>
+<payload_key>wh_pro01_payload_god_choice_valaya</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b94d7f00-4df3-419e-9203-061622a6e5f9}" record_timestamp="1477035617216" record_key="2450">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grimnir_15</dilemma_key>
+<id>2450</id>
+<payload_key>wh_pro01_payload_god_choice_grungni</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b9c58ae0-fee2-4a15-a150-e2df40903564}" record_timestamp="1477035617214" record_key="2453">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grimnir_15</dilemma_key>
+<id>2453</id>
+<payload_key>wh_pro01_payload_god_choice_white_dwarf</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b1349f6d-a2f8-4cd8-9b5f-9816d98ae956}" record_timestamp="1477035617219" record_key="2462">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_valaya_15</dilemma_key>
+<id>2462</id>
+<payload_key>wh_pro01_payload_god_choice_grimnir</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{05b805d6-c6b4-4323-afd7-c18fbc794178}" record_timestamp="1455637533440" record_key="247">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_dwf_a_grudge_too_far</dilemma_key>
+<id>247</id>
+<payload_key>wh_main_payload_event_a_grudge_too_far</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4e4accb6-0732-4d05-bfe8-eb3a7a4b304b}" record_timestamp="1477035617218" record_key="2470">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_valaya_15</dilemma_key>
+<id>2470</id>
+<payload_key>wh_pro01_payload_god_choice_valaya</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{61095dfa-bf54-4cbf-a4bd-c6408fe815db}" record_timestamp="1477035617222" record_key="2472">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_valaya_15</dilemma_key>
+<id>2472</id>
+<payload_key>wh_pro01_payload_god_choice_grungni</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{10500818-949e-4b01-90c4-8895f483554c}" record_timestamp="1477035617221" record_key="2478">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_valaya_15</dilemma_key>
+<id>2478</id>
+<payload_key>wh_pro01_payload_god_choice_white_dwarf</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{89bbbfbd-1472-4bd5-90d0-bcfd0f6f6ebe}" record_timestamp="1477035617225" record_key="2486">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grungni_15</dilemma_key>
+<id>2486</id>
+<payload_key>wh_pro01_payload_god_choice_grimnir</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e871fac3-1723-4f8e-a6f0-7650fbd14bac}" record_timestamp="1477035617223" record_key="2491">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grungni_15</dilemma_key>
+<id>2491</id>
+<payload_key>wh_pro01_payload_god_choice_valaya</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{75a63898-9d0b-41ab-8c6c-45baf5ab4adb}" record_timestamp="1455637534138" record_key="250">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_dwf_what_would_grungni_do</dilemma_key>
+<id>250</id>
+<payload_key>wh_main_payload_event_what_would_grungni_do_first</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ae030bec-7fc1-4d79-835f-ae385bd5d5bd}" record_timestamp="1477035617228" record_key="2501">
+<choice_key>THIRD</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grungni_15</dilemma_key>
+<id>2501</id>
+<payload_key>wh_pro01_payload_god_choice_grungni</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{9ae7370b-ca77-4455-b3dc-5cebb4743153}" record_timestamp="1477035617226" record_key="2509">
+<choice_key>FOURTH</choice_key>
+<dilemma_key>wh_pro01_dwf_grombrindal_god_choice_grungni_15</dilemma_key>
+<id>2509</id>
+<payload_key>wh_pro01_payload_god_choice_white_dwarf</payload_key>
+<value>DURATION[15];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{08cbe703-2082-40f5-8c2f-c4af2ac57bf4}" record_timestamp="1479330214499" record_key="2519">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc05_wef_the_dreaming_wood</dilemma_key>
+<id>2519</id>
+<payload_key>wh_main_payload_chaos_corruption</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{162f9b80-5888-48db-9f3b-3bb74e196a97}" record_timestamp="1479330214500" record_key="2521">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc05_wef_the_dreaming_wood</dilemma_key>
+<id>2521</id>
+<payload_key>ADD_ANCILLARY</payload_key>
+<value>RANDOM_ANCILLARY;TARGET_OWNING_FACTION</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{af0df3ba-b836-4dde-bfd9-a34f72d29292}" record_timestamp="1455637534170" record_key="253">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_dwf_what_would_grungni_do</dilemma_key>
+<id>253</id>
+<payload_key>DIPLOMATIC_STANDING</payload_key>
+<value>AMOUNT[2]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{36ade35a-4007-4c66-a3b1-83f54131ddd9}" record_timestamp="1479330214501" record_key="2530">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc05_wef_the_dreaming_wood</dilemma_key>
+<id>2530</id>
+<payload_key>TEXT_DISPLAY</payload_key>
+<value>LOOKUP[dummy_do_nothing]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{32c231b4-ca24-45b4-92c8-c567f19efbd1}" record_timestamp="1479330214544" record_key="2537">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc05_wef_the_great_stag</dilemma_key>
+<id>2537</id>
+<payload_key>wh_dlc05_payload_event_the_great_stag_first</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{848b0458-daaf-4789-9c4f-afbe10aecbd9}" record_timestamp="1455637534204" record_key="254">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_dwf_what_would_grungni_do</dilemma_key>
+<id>254</id>
+<payload_key>TARGET</payload_key>
+<value>EVENT</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{aa6a3e67-ca72-4ce0-addd-11fc62972f1d}" record_timestamp="1479330214685" record_key="2540">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc05_wef_the_great_stag</dilemma_key>
+<id>2540</id>
+<payload_key>wh_dlc05_payload_event_the_great_stag_second</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{1e117cd3-d68f-41b7-b2d6-cf9ac69adcd6}" record_timestamp="1479330214532" record_key="2549">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc05_wef_the_great_stag</dilemma_key>
+<id>2549</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[-750]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e78edd4b-3299-42a8-81e7-bb68c43c4541}" record_timestamp="1479330215403" record_key="2550">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc05_wef_the_fate_of_the_body</dilemma_key>
+<id>2550</id>
+<payload_key>wh_dlc05_payload_event_the_fate_of_the_body_first</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{95e01a7b-7df6-49a3-98a2-76d64253f43c}" record_timestamp="1455637534372" record_key="256">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_dwf_besieged_khazid</dilemma_key>
+<id>256</id>
+<payload_key>wh_main_payload_event_besieged_khazid_first</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{2114ad3e-06f2-4047-a513-45deb8b2014e}" record_timestamp="1479330215404" record_key="2560">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc05_wef_the_fate_of_the_body</dilemma_key>
+<id>2560</id>
+<payload_key>wh_dlc05_payload_event_the_fate_of_the_body_second</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{171e8d0a-dcb6-44cc-aaba-e66177c6a99f}" record_timestamp="1479330215472" record_key="2567">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc05_wef_shape_shifters</dilemma_key>
+<id>2567</id>
+<payload_key>DIPLOMATIC_STANDING</payload_key>
+<value>AMOUNT[-2]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5dfa05ef-7e03-40b5-aa64-101c997ec5eb}" record_timestamp="1479330215473" record_key="2574">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc05_wef_shape_shifters</dilemma_key>
+<id>2574</id>
+<payload_key>TARGET</payload_key>
+<value>EVENT</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{05bb759c-dbf9-4277-8c45-777e1c8976ad}" record_timestamp="1479330215474" record_key="2575">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc05_wef_shape_shifters</dilemma_key>
+<id>2575</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[1500]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{1640f59e-cdc1-4d4f-9cad-a3936b282155}" record_timestamp="1479330215475" record_key="2584">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc05_wef_shape_shifters</dilemma_key>
+<id>2584</id>
+<payload_key>DIPLOMATIC_STANDING</payload_key>
+<value>AMOUNT[2]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{8108ba73-2410-4d3f-9295-b4f718194d78}" record_timestamp="1479330215471" record_key="2587">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc05_wef_shape_shifters</dilemma_key>
+<id>2587</id>
+<payload_key>TARGET</payload_key>
+<value>EVENT</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5cb1f665-eb7b-41b1-9a6f-fb34d40bb923}" record_timestamp="1479330215484" record_key="2594">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc05_wef_heavens_or_the_underworld</dilemma_key>
+<id>2594</id>
+<payload_key>wh_dlc05_payload_event_heavens_or_the_underworld_first</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e9899599-5ef2-4479-b3bb-a624d0317fb0}" record_timestamp="1455637534405" record_key="260">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_dwf_besieged_khazid</dilemma_key>
+<id>260</id>
+<payload_key>wh_main_payload_event_besieged_khazid_second</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{334018f5-f7b6-4188-b472-be0c01859ab4}" record_timestamp="1479330215485" record_key="2604">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc05_wef_heavens_or_the_underworld</dilemma_key>
+<id>2604</id>
+<payload_key>wh_dlc05_payload_event_heavens_or_the_underworld_second</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{416e1393-faa7-49c0-9d51-71fe50f56646}" record_timestamp="1479333286408" record_key="2612">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc05_wef_children_of_eternity</dilemma_key>
+<id>2612</id>
+<payload_key>wh_dlc05_payload_event_children_of_eternity_first</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{49387c86-b9e3-4219-841e-2b1b40dbb5b3}" record_timestamp="1479333286410" record_key="2620">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc05_wef_children_of_eternity</dilemma_key>
+<id>2620</id>
+<payload_key>wh_dlc05_payload_event_children_of_eternity_second</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{a81386ac-e091-47b9-b253-32b1c878de7e}" record_timestamp="1479333287917" record_key="2622">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc05_wef_vaults_of_winter</dilemma_key>
+<id>2622</id>
+<payload_key>wh_dlc05_payload_event_vaults_of_winter_first</payload_key>
+<value>DURATION[6]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e3d810be-f268-4c73-aeb1-8fcf9812685f}" record_timestamp="1481035165072" record_key="2630">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc05_wef_vaults_of_winter</dilemma_key>
+<id>2630</id>
+<payload_key>wh_dlc05_payload_event_vaults_of_winter_second</payload_key>
+<value>DURATION[6]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{562c91eb-783d-4512-a321-34fc0921bb66}" record_timestamp="1479333287922" record_key="2632">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc05_wef_the_night_glens</dilemma_key>
+<id>2632</id>
+<payload_key>TEXT_DISPLAY</payload_key>
+<value>LOOKUP[dummy_do_nothing]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{1bc2b657-af0e-4874-a6f9-5b516af971d4}" record_timestamp="1479333287923" record_key="2640">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc05_wef_the_night_glens</dilemma_key>
+<id>2640</id>
+<payload_key>wh_dlc05_payload_event_the_night_glens</payload_key>
+<value>DURATION[6]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{52e7071d-b481-4a93-b54d-834031cca1b1}" record_timestamp="1479333287965" record_key="2650">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc05_wef_asrai_asur_druchii</dilemma_key>
+<id>2650</id>
+<payload_key>wh_dlc05_payload_event_asrai_asur_druchii</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c9733b15-a58a-4bce-9408-968ff9257a90}" record_timestamp="1479333287966" record_key="2653">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc05_wef_asrai_asur_druchii</dilemma_key>
+<id>2653</id>
+<payload_key>TEXT_DISPLAY</payload_key>
+<value>LOOKUP[dummy_do_nothing]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{d5fa1496-01d3-4081-a567-cf28102cd181}" record_timestamp="1479333426462" record_key="2654">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc05_wef_festival_of_the_equinox</dilemma_key>
+<id>2654</id>
+<payload_key>wh_dlc05_payload_event_festival_of_the_equinox_first</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{2af5372c-e842-4f6f-b744-d52d95f64220}" record_timestamp="1479333426465" record_key="2663">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc05_wef_festival_of_the_equinox</dilemma_key>
+<id>2663</id>
+<payload_key>wh_dlc05_payload_event_festival_of_the_equinox_second</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5e952074-9eaf-432b-9ada-02210278cc24}" record_timestamp="1486404097397" record_key="2665">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc07_brt_qb_alberic_trident_of_manann_stage_5</dilemma_key>
+<id>2665</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[-3500]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{0067a4df-47af-4714-b6e1-58adef4d4b88}" record_timestamp="1487011529495" record_key="2674">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc07_brt_the_price_of_chivalry</dilemma_key>
+<id>2674</id>
+<payload_key>TEXT_DISPLAY</payload_key>
+<value>LOOKUP[chivalry_increase]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{3ef492ab-20e7-42ca-be32-aeb5eaaab1b9}" record_timestamp="1487161201136" record_key="2675">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc07_brt_qb_alberic_trident_of_manann_stage_5</dilemma_key>
+<id>2675</id>
+<payload_key>TEXT_DISPLAY</payload_key>
+<value>LOOKUP[chivalry_decrease]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b9240108-a846-4a9c-89b2-e5fbfb4010a6}" record_timestamp="1487011529530" record_key="2679">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc07_brt_the_price_of_chivalry</dilemma_key>
+<id>2679</id>
+<payload_key>TEXT_DISPLAY</payload_key>
+<value>LOOKUP[chivalry_increase]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5274a897-9b9b-4e0c-a6a7-d06592326498}" record_timestamp="1456402529042" record_key="268">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_dwf_empire_in_flames</dilemma_key>
+<id>268</id>
+<payload_key>DIPLOMATIC_STANDING</payload_key>
+<value>AMOUNT[2]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7337b433-7a56-4066-bc54-402e557bf201}" record_timestamp="1486556120429" record_key="2685">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc07_brt_hidden_statue</dilemma_key>
+<id>2685</id>
+<payload_key>wh_dlc07_payload_hidden_statue_first</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b3b80aaf-c87e-4f26-93a4-1f545e375d66}" record_timestamp="1456402529037" record_key="269">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_dwf_empire_in_flames</dilemma_key>
+<id>269</id>
+<payload_key>TARGET</payload_key>
+<value>EVENT</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{1a2c7fc3-bb9b-4b26-90fc-b78a91498510}" record_timestamp="1486556120495" record_key="2698">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc07_brt_hidden_statue</dilemma_key>
+<id>2698</id>
+<payload_key>wh_dlc07_payload_hidden_statue_second</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{9ecd7138-47fa-4a5c-a16e-c6c37b853736}" record_timestamp="1455622797325" record_key="27">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_emp_tax_riots</dilemma_key>
+<id>27</id>
+<payload_key>wh_main_payload_festag_faction</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{782c9d83-7ef6-4feb-9c17-fc39190b950b}" record_timestamp="1486556120760" record_key="2706">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc07_brt_mockery_of_our_vows</dilemma_key>
+<id>2706</id>
+<payload_key>wh_dlc07_payload_mockery_of_our_vows_first</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{28ae16a5-8631-4f09-9d2c-f0b52703229e}" record_timestamp="1486556120693" record_key="2715">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc07_brt_mockery_of_our_vows</dilemma_key>
+<id>2715</id>
+<payload_key>wh_dlc07_payload_mockery_of_our_vows_second</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{96e9dae2-846e-42d8-a539-61e1db8b5570}" record_timestamp="1486556120958" record_key="2725">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc07_brt_gifted_children</dilemma_key>
+<id>2725</id>
+<payload_key>wh_dlc07_payload_gifted_children_first</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{9214e89a-9793-4c9e-9512-9a95638c3036}" record_timestamp="1486556120892" record_key="2732">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc07_brt_gifted_children</dilemma_key>
+<id>2732</id>
+<payload_key>wh_dlc07_payload_gifted_children_second</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{1b4f744e-70f7-4a6f-a280-1da45bd42d26}" record_timestamp="1486660335797" record_key="2736">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc07_brt_prosperous_harvest</dilemma_key>
+<id>2736</id>
+<payload_key>wh_dlc07_payload_prosperous_harvest_first</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{bedd0b5b-05dc-4e68-a023-6ceabdd7ad2f}" record_timestamp="1486660335806" record_key="2743">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc07_brt_prosperous_harvest</dilemma_key>
+<id>2743</id>
+<payload_key>wh_dlc07_payload_prosperous_harvest_second</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{a48d28db-f826-4b77-8947-a390b0c00cb6}" record_timestamp="1486556121155" record_key="2746">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc07_brt_knowledge_from_the_lady</dilemma_key>
+<id>2746</id>
+<payload_key>wh_dlc07_payload_knowledge_from_the_lady_first</payload_key>
+<value>DURATION[15]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c9c6d2ee-0ddb-41f1-bcb0-e0d00aeb617d}" record_timestamp="1486556121220" record_key="2750">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc07_brt_knowledge_from_the_lady</dilemma_key>
+<id>2750</id>
+<payload_key>wh_dlc07_payload_knowledge_from_the_lady_second</payload_key>
+<value>DURATION[15]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{0ee949b7-92e7-4812-bd99-ff3d28ba4de4}" record_timestamp="1486660335816" record_key="2753">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc07_brt_dedicated_service</dilemma_key>
+<id>2753</id>
+<payload_key>wh_dlc07_payload_dedicated_service_first</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{68ce720f-49d0-4a6e-afcb-ea95c8890368}" record_timestamp="1486660335826" record_key="2761">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc07_brt_dedicated_service</dilemma_key>
+<id>2761</id>
+<payload_key>wh_dlc07_payload_dedicated_service_second</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{90030096-5292-4647-8696-d0b2bd76d98b}" record_timestamp="1486556114847" record_key="2766">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc07_brt_pimples_and_brown_spots</dilemma_key>
+<id>2766</id>
+<payload_key>wh_dlc07_payload_pimples_and_brown_spots_first</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ad9f4a24-e212-490c-82b8-90863e9910ea}" record_timestamp="1455704053576" record_key="277">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_all_under_the_dark_moons_glare</dilemma_key>
+<id>277</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[-1500]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ebeb2179-f972-445a-a88c-c9209df3e3ab}" record_timestamp="1486556114912" record_key="2775">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc07_brt_pimples_and_brown_spots</dilemma_key>
+<id>2775</id>
+<payload_key>wh_dlc07_payload_pimples_and_brown_spots_second</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{df6e20ad-55f5-4856-b647-1a5cbdc0f86f}" record_timestamp="1486743466819" record_key="2780">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc07_brt_whispers_of_witchcraft</dilemma_key>
+<id>2780</id>
+<payload_key>wh_dlc07_payload_whispers_of_witchcraft_first</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ac147f21-6dd1-4adc-ae6b-126d9e430201}" record_timestamp="1486743466835" record_key="2783">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc07_brt_whispers_of_witchcraft</dilemma_key>
+<id>2783</id>
+<payload_key>wh_dlc07_payload_whispers_of_witchcraft_second</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{bb38f987-94c8-4da6-be5d-4c0fec753fbd}" record_timestamp="1486743466868" record_key="2788">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc07_brt_a_noble_feast</dilemma_key>
+<id>2788</id>
+<payload_key>wh_dlc07_payload_a_noble_feast_first</payload_key>
+<value>DURATION[15]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c3414d34-5df5-40c9-9a92-1b2d1ba787ef}" record_timestamp="1486556121485" record_key="2798">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc07_brt_a_noble_feast</dilemma_key>
+<id>2798</id>
+<payload_key>wh_dlc07_payload_a_noble_feast_second</payload_key>
+<value>DURATION[15]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{f98e4d5c-a5c2-4d85-a861-43139eddae59}" record_timestamp="1486556121551" record_key="2807">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc07_brt_hunting_grounds</dilemma_key>
+<id>2807</id>
+<payload_key>wh_dlc07_payload_hunting_grounds_first</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{11555cff-d50c-4bdf-83db-258b51ca72cf}" record_timestamp="1486556121617" record_key="2814">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc07_brt_hunting_grounds</dilemma_key>
+<id>2814</id>
+<payload_key>wh_dlc07_payload_hunting_grounds_second</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7a487297-1dd1-49cf-adf4-3b3004679dbc}" record_timestamp="1486743466917" record_key="2820">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc07_brt_food_hoarder</dilemma_key>
+<id>2820</id>
+<payload_key>wh_dlc07_payload_food_hoarder_first</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{02b57696-ce21-49d7-b9cb-f5d2c741caaf}" record_timestamp="1486743466935" record_key="2828">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc07_brt_food_hoarder</dilemma_key>
+<id>2828</id>
+<payload_key>wh_dlc07_payload_food_hoarder_second</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{6be354a7-d4f4-437e-b08c-79d57fecfecb}" record_timestamp="1455704053591" record_key="283">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_all_under_the_dark_moons_glare</dilemma_key>
+<id>283</id>
+<payload_key>wh_main_payload_morale_all</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{1601ab07-a380-4268-968e-e123ea4b4fb5}" record_timestamp="1486556120296" record_key="2837">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc07_brt_the_price_of_chivalry</dilemma_key>
+<id>2837</id>
+<payload_key>wh_dlc07_payload_the_price_of_chivalry_first</payload_key>
+<value>DURATION[15]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{810c8f8a-6c84-4ae7-a477-3fa06568a218}" record_timestamp="1455704054823" record_key="284">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_all_a_stranger_comes</dilemma_key>
+<id>284</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[3000]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{a660b3f7-5f99-46ad-b64a-66ead13f667f}" record_timestamp="1486556120362" record_key="2847">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc07_brt_the_price_of_chivalry</dilemma_key>
+<id>2847</id>
+<payload_key>wh_dlc07_payload_the_price_of_chivalry_second</payload_key>
+<value>DURATION[15]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4e08ed5d-d495-4204-aac7-1f583debba8c}" record_timestamp="1455704054850" record_key="291">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_all_a_stranger_comes</dilemma_key>
+<id>291</id>
+<payload_key>wh_main_payload_chaos_corruption</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7bd5c9d4-58c3-4f27-b510-bfd523f2d445}" record_timestamp="1455704054796" record_key="300">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_all_a_stranger_comes</dilemma_key>
+<id>300</id>
+<payload_key>wh_main_payload_untainted</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{d2f303aa-0f65-4d24-a3c1-20527159b172}" record_timestamp="1455704054962" record_key="309">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_all_a_stranger_comes_vmp</dilemma_key>
+<id>309</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[3000]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{1d5e3f70-d83d-4bc1-9287-0b5c04e7a045}" record_timestamp="1455704054990" record_key="311">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_all_a_stranger_comes_vmp</dilemma_key>
+<id>311</id>
+<payload_key>wh_main_payload_chaos_corruption</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ec45984f-32cd-411a-9279-86df1871b4ad}" record_timestamp="1455704055135" record_key="312">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_all_a_stranger_comes_vmp</dilemma_key>
+<id>312</id>
+<payload_key>wh_main_payload_vampiric_corruption</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ed9c0ba1-5fb6-4c01-bd99-222c8dc0bc00}" record_timestamp="1455704055866" record_key="330">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_all_the_migration</dilemma_key>
+<id>330</id>
+<payload_key>wh_main_payload_migration</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{76d465f9-aaec-4db9-9dfa-5422a286fcf4}" record_timestamp="1455704055992" record_key="332">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_all_the_migration</dilemma_key>
+<id>332</id>
+<payload_key>TEXT_DISPLAY</payload_key>
+<value>LOOKUP[dummy_do_nothing]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{d0b86b5d-bd89-4cf5-b6fa-ab0614671ef8}" record_timestamp="1455704056023" record_key="334">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_chs_the_eye_closes</dilemma_key>
+<id>334</id>
+<payload_key>TEXT_DISPLAY</payload_key>
+<value>LOOKUP[dummy_do_nothing]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{99a9280a-5af7-49ef-8384-b4268130d8b8}" record_timestamp="1455704055961" record_key="336">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_all_under_the_dark_moons_glare</dilemma_key>
+<id>336</id>
+<payload_key>TEXT_DISPLAY</payload_key>
+<value>LOOKUP[dummy_do_nothing]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{32c26345-fce4-430e-bcb3-0466ca5c65c6}" record_timestamp="1455704056351" record_key="339">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_all_foolish_vainglory</dilemma_key>
+<id>339</id>
+<payload_key>wh_main_payload_morale_all</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{d456dbbe-e93f-4c10-b1cb-ee56e2cfcf71}" record_timestamp="1455704056383" record_key="343">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_all_foolish_vainglory</dilemma_key>
+<id>343</id>
+<payload_key>wh_main_payload_event_recruiting_surplus</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{63d5bc8f-2259-42e8-9fd2-03c2f96d594d}" record_timestamp="1455704056415" record_key="351">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_all_the_gods_are_angry</dilemma_key>
+<id>351</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[-1000]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{320352c6-c7cc-4480-af27-8540de958948}" record_timestamp="1455704056746" record_key="355">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_all_the_gods_are_angry</dilemma_key>
+<id>355</id>
+<payload_key>wh_main_payload_event_the_gods_are_angry_first</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{9842264f-999a-4b78-a452-54b371f7fe78}" record_timestamp="1455704056779" record_key="357">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_all_the_gods_are_angry</dilemma_key>
+<id>357</id>
+<payload_key>wh_main_payload_event_the_gods_are_angry_second</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{06047904-ab4c-486c-9dca-620bf3d300e0}" record_timestamp="1455622797336" record_key="36">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_emp_tax_riots</dilemma_key>
+<id>36</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[-1000]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{fac5f6b3-09e9-4512-8823-fbb9ebbb777e}" record_timestamp="1455712091564" record_key="363">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_vmp_feasting_on_the_smallfolk</dilemma_key>
+<id>363</id>
+<payload_key>DIPLOMATIC_STANDING</payload_key>
+<value>AMOUNT[-1]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{61b51816-cb6c-4865-93f7-c404d0608241}" record_timestamp="1455712091534" record_key="367">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_vmp_feasting_on_the_smallfolk</dilemma_key>
+<id>367</id>
+<payload_key>wh_main_payload_event_feasting_on_the_smallfolk_second</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c2265860-e887-4b1e-82ad-5b1b3b197fce}" record_timestamp="1455712091503" record_key="373">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_vmp_feasting_on_the_smallfolk</dilemma_key>
+<id>373</id>
+<payload_key>TARGET</payload_key>
+<value>EVENT</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{eb5052ea-7258-41a3-9d92-3b274b9dd0f8}" record_timestamp="1455712092225" record_key="376">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_vmp_legacy_of_nagash</dilemma_key>
+<id>376</id>
+<payload_key>wh_main_payload_event_legacy_of_nagash_first</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{98ecc8fc-f0cc-43b9-aa72-74a36f40ceec}" record_timestamp="1455712092194" record_key="378">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_vmp_legacy_of_nagash</dilemma_key>
+<id>378</id>
+<payload_key>wh_main_payload_event_legacy_of_nagash_second</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{80ebdfeb-348a-48cf-9c2a-ad02bc393626}" record_timestamp="1455712092164" record_key="383">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_vmp_legacy_of_nagash</dilemma_key>
+<id>383</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[-2000]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b1e7a6a6-8338-4fb4-8b5a-5c7daa99daef}" record_timestamp="1455712092707" record_key="389">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_vmp_the_prince_of_nothing</dilemma_key>
+<id>389</id>
+<payload_key>wh_main_payload_event_the_prince_of_nothing_first</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{3e1f34d6-f41b-41f0-b9e9-9f9ca18497a6}" record_timestamp="1455712092676" record_key="393">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_vmp_the_prince_of_nothing</dilemma_key>
+<id>393</id>
+<payload_key>wh_main_payload_morale_all</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5fb7cf61-1991-426f-a5af-812b0e01f99f}" record_timestamp="1455712093111" record_key="401">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_vmp_an_enemy_within</dilemma_key>
+<id>401</id>
+<payload_key>wh_main_payload_event_an_enemy_within_first</payload_key>
+<value>DURATION[2]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{983742ed-406e-41aa-8e11-7a851aeb3ded}" record_timestamp="1455712093142" record_key="407">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_vmp_an_enemy_within</dilemma_key>
+<id>407</id>
+<payload_key>wh_main_payload_event_an_enemy_within_second</payload_key>
+<value>DURATION[2]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4c99794f-b6e6-48ba-a84f-a8dc95597a21}" record_timestamp="1455712093205" record_key="411">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_vmp_the_bloody_princes</dilemma_key>
+<id>411</id>
+<payload_key>wh_main_payload_morale_versus_empire</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5bf04e6d-ddc1-4a60-8feb-26dbe2ef3553}" record_timestamp="1455712093174" record_key="412">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_vmp_the_bloody_princes</dilemma_key>
+<id>412</id>
+<payload_key>wh_main_payload_event_the_prince_of_nothing_first</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{6a5f3786-38a7-4618-a549-9a2619cada70}" record_timestamp="1456402529047" record_key="413">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_dwf_empire_in_flames</dilemma_key>
+<id>413</id>
+<payload_key>DIPLOMATIC_STANDING</payload_key>
+<value>AMOUNT[-1]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{0e6f22d6-5c07-4518-b891-184709d33e40}" record_timestamp="1456420067915" record_key="415">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_dwf_empire_in_flames</dilemma_key>
+<id>415</id>
+<payload_key>TARGET</payload_key>
+<value>AMOUNT[1000]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{3ea2e342-635b-4370-a550-8d5a8e9e48d5}" record_timestamp="1455622797407" record_key="42">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_emp_tax_riots</dilemma_key>
+<id>42</id>
+<payload_key>wh_main_payload_taxes</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{e764b52e-4a2a-4001-967a-b9dd3b3f6e44}" record_timestamp="1456420068827" record_key="426">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_bst_blood_or_flesh</dilemma_key>
+<id>426</id>
+<payload_key>wh_dlc03_payload_blood_of_empire</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{4defd601-3315-4af5-b7d5-73367fa9be16}" record_timestamp="1456420068865" record_key="434">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_bst_blood_or_flesh</dilemma_key>
+<id>434</id>
+<payload_key>wh_dlc03_payload_blood_of_bretonnia</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{f9a08e05-3a77-4cc9-bb30-fc9d349daa62}" record_timestamp="1456420071890" record_key="435">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_bst_command_of_the_herd</dilemma_key>
+<id>435</id>
+<payload_key>wh_dlc03_payload_removed_horns</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{082955db-8c77-4f87-8298-5397bf032957}" record_timestamp="1456420071846" record_key="441">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_bst_command_of_the_herd</dilemma_key>
+<id>441</id>
+<payload_key>wh_dlc03_payload_beastlords_execution</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{780e573b-0438-4e53-aadb-d378317f6693}" record_timestamp="1456420069327" record_key="442">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_bst_dont_lick_a_toad</dilemma_key>
+<id>442</id>
+<payload_key>wh_dlc03_payload_jabberslythe_battle</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{123a4178-4f84-4eee-b845-86cb96346adc}" record_timestamp="1456420071979" record_key="445">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_bst_gaze_of_darkness</dilemma_key>
+<id>445</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[2000]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5d032b7f-0232-4d88-af81-0fb7aa7c05cf}" record_timestamp="1456420072112" record_key="455">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_bst_gaze_of_darkness</dilemma_key>
+<id>455</id>
+<payload_key>wh_dlc03_payload_assured_leadership</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c0f475eb-47be-4c46-9db0-db59c70c41c6}" record_timestamp="1466437721955" record_key="464">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_bst_gluttony</dilemma_key>
+<id>464</id>
+<payload_key>wh_dlc03_payload_gluttony</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{a1af6d07-0d84-497b-9338-b2d038458d83}" record_timestamp="1466437721918" record_key="472">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_bst_gluttony</dilemma_key>
+<id>472</id>
+<payload_key>wh_dlc03_payload_chaos_corruption</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{c9dee142-17c7-43cc-a6ff-984a667b866c}" record_timestamp="1458213057616" record_key="479">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_bst_into_the_heart_of_the_dark</dilemma_key>
+<id>479</id>
+<payload_key>wh_dlc03_payload_chaos_corruption</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{a0a0dc33-3dc9-4099-b81d-86026ab0a5a9}" record_timestamp="1458213057632" record_key="483">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_bst_into_the_heart_of_the_dark</dilemma_key>
+<id>483</id>
+<payload_key>wh_dlc03_payload_shamans_magic</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{87be1f00-9226-4112-8eae-df474c4c240f}" record_timestamp="1465837576618" record_key="488">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_bst_ruinous_rituals</dilemma_key>
+<id>488</id>
+<payload_key>wh_dlc03_payload_sacrificed_warriors</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{9340e32d-6851-4ef5-922b-c3807ee67f2f}" record_timestamp="1455622797634" record_key="49">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_emp_the_brass_sentinel_speaks</dilemma_key>
+<id>49</id>
+<payload_key>wh_main_payload_chaos_corruption</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b9c3c11e-3aca-4034-971b-6a9d364e2e94}" record_timestamp="1465837576740" record_key="494">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_bst_ruinous_rituals</dilemma_key>
+<id>494</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[1000]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7d3c8012-b2a1-4636-bfbe-c9a907eb8790}" record_timestamp="1458213057569" record_key="504">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_bst_the_brayherd_calls</dilemma_key>
+<id>504</id>
+<payload_key>wh_dlc03_payload_answering_the_brayherd</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{48de908d-b965-4cb2-9495-f31fa92b9650}" record_timestamp="1455622797691" record_key="51">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_emp_the_brass_sentinel_speaks</dilemma_key>
+<id>51</id>
+<payload_key>wh_main_payload_movement_restriction</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{119fb776-d224-479e-980c-eebbd0c2d1e6}" record_timestamp="1458213057554" record_key="516">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_bst_the_enemy_within</dilemma_key>
+<id>516</id>
+<payload_key>wh_dlc03_payload_chaos_corruption</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{99a5b3b0-5035-4a07-8082-f699d146ae84}" record_timestamp="1458213057538" record_key="520">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_bst_the_enemy_within</dilemma_key>
+<id>520</id>
+<payload_key>wh_dlc03_payload_empire_lord_blood</payload_key>
+<value>DURATION[1]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{94fc4c02-e4e3-47c7-9618-6182e8c9dca5}" record_timestamp="1456420070039" record_key="523">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_bst_blasphemy</dilemma_key>
+<id>523</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[1000]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b3a12cc6-a4e8-41b6-b6c9-b2f1ef0ffd3c}" record_timestamp="1456420070289" record_key="526">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_bst_blasphemy</dilemma_key>
+<id>526</id>
+<payload_key>wh_dlc03_payload_chaos_corruption</payload_key>
+<value>DURATION[4]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{78fa085a-660f-4570-bcb7-a573f306112b}" record_timestamp="1456768870566" record_key="529">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_bst_dont_lick_a_toad</dilemma_key>
+<id>529</id>
+<payload_key>TEXT_DISPLAY</payload_key>
+<value>LOOKUP[dummy_do_nothing]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{d254239f-825c-4c2d-aa4c-f4b097d84f98}" record_timestamp="1456768870566" record_key="537">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_bst_the_brayherd_calls</dilemma_key>
+<id>537</id>
+<payload_key>TEXT_DISPLAY</payload_key>
+<value>LOOKUP[dummy_do_nothing]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{eb4d7aa4-4e45-4f89-b6b9-876841f7858e}" record_timestamp="1460466420590" record_key="546">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_grn_wheres_ma_teef</dilemma_key>
+<id>546</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[1200]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ae4926e1-8993-44fa-bf2e-7e75134e2a95}" record_timestamp="1466176850956" record_key="553">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_bst_blood_or_flesh_mini</dilemma_key>
+<id>553</id>
+<payload_key>wh_dlc03_payload_blood_of_middenheim</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{606498e6-6d62-416c-88d1-311842fdc3fa}" record_timestamp="1466176837299" record_key="557">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_bst_blood_or_flesh_mini</dilemma_key>
+<id>557</id>
+<payload_key>wh_dlc03_payload_blood_of_hochland</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{bfdb265d-fdff-4577-ac63-668f6af81132}" record_timestamp="1455622797848" record_key="57">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_emp_the_moot_petitions</dilemma_key>
+<id>57</id>
+<payload_key>wh_main_payload_morale_versus_vampires</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{faca11c8-1aef-4850-9160-eb0cbff21905}" record_timestamp="1461060716576" record_key="585">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_bst_blood_or_flesh_mini_2</dilemma_key>
+<id>585</id>
+<payload_key>wh_dlc03_payload_blood_of_carroburg</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{b6b6d844-ba9e-41e5-a77b-79a5b87ed3f6}" record_timestamp="1461060716591" record_key="595">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_dlc03_bst_blood_or_flesh_mini_2</dilemma_key>
+<id>595</id>
+<payload_key>wh_dlc03_payload_blood_of_cult_of_ulric</payload_key>
+<value>DURATION[10]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{32ee7e3a-1f87-4b08-8443-f3a66eb35780}" record_timestamp="1469456393782" record_key="622">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_1</dilemma_key>
+<id>622</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{0b712af7-dc3c-4332-bd8b-46c014aeeee0}" record_timestamp="1455622797833" record_key="64">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_emp_the_moot_petitions</dilemma_key>
+<id>64</id>
+<payload_key>wh_main_payload_morale_versus_empire</payload_key>
+<value>DURATION[5]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{ba29b40d-d038-4572-b310-d64f0d19c605}" record_timestamp="1469456393782" record_key="643">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_2</dilemma_key>
+<id>643</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{9ab31885-fa14-4297-8124-71d3c75ad688}" record_timestamp="1469456393783" record_key="659">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_3</dilemma_key>
+<id>659</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{7ceabe0d-5c62-4608-a046-60d691e707bf}" record_timestamp="1469456393783" record_key="670">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_4</dilemma_key>
+<id>670</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{5707abd6-a447-4d0e-be9f-6c71a8c9c8e0}" record_timestamp="1469456393783" record_key="683">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_5</dilemma_key>
+<id>683</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{07d19b79-7290-4c5b-8e9b-70ba59c9917c}" record_timestamp="1469456393784" record_key="691">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_6</dilemma_key>
+<id>691</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{9967d611-56e3-402a-bc67-d01a6af044ee}" record_timestamp="1469456393784" record_key="704">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_7</dilemma_key>
+<id>704</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{70b30894-15a6-452d-97ee-66cb88bdae08}" record_timestamp="1469456393785" record_key="715">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_dlc03_full_moon_preparations_full_moon_8</dilemma_key>
+<id>715</id>
+<payload_key>wh_dlc03_payload_prep_moon_replenishment_low</payload_key>
+<value>DURATION[2];GLOBAL</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{687a3dff-c387-4eb8-8cac-106216361af4}" record_timestamp="1455622798013" record_key="73">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_emp_elector_greed</dilemma_key>
+<id>73</id>
+<payload_key>TREASURY</payload_key>
+<value>AMOUNT[1500]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{2356121f-135c-41b9-94a0-fe59b00b1baf}" record_timestamp="1455622798028" record_key="78">
+<choice_key>SECOND</choice_key>
+<dilemma_key>wh_main_emp_elector_greed</dilemma_key>
+<id>78</id>
+<payload_key>wh_main_payload_morale_versus_empire_negative</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{d55218d0-6c02-4631-90ab-9ae26179bdd6}" record_timestamp="1455630111016" record_key="84">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_emp_elector_greed</dilemma_key>
+<id>84</id>
+<payload_key>wh_main_payload_event_elector_greed</payload_key>
+<value>DURATION[3]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{8f119f12-b3b4-4b4e-934f-45d4126707b0}" record_timestamp="1455630111127" record_key="93">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_grn_lootas</dilemma_key>
+<id>93</id>
+<payload_key>DIPLOMATIC_STANDING</payload_key>
+<value>AMOUNT[2]</value>
+</cdir_events_dilemma_payloads>
+<cdir_events_dilemma_payloads record_uuid="{6cd62ac1-9b0a-4010-843b-b3cf38096788}" record_timestamp="1455630111039" record_key="99">
+<choice_key>FIRST</choice_key>
+<dilemma_key>wh_main_grn_lootas</dilemma_key>
+<id>99</id>
+<payload_key>TARGET</payload_key>
+<value>EVENT</value>
+</cdir_events_dilemma_payloads>
+</dataroot>

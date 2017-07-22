@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_technology_categories.xsd" export_time="Wed Apr 20 12:45:00 2016" revision="8" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e1450eca-0958-44c6-911c-49f252a5bd23</edit_uuid>
+<campaign_bonus_value_ids_technology_categories record_uuid="{813efe5b-18c9-4691-b5e7-54b35b1e4574}" record_timestamp="1461152289162" record_key="research_cost_mod">
+<key>research_cost_mod</key>
+<notes>Percentage modifier to technology research costs (positive increases cost). Used at faction bonuses.</notes>
+</campaign_bonus_value_ids_technology_categories>
+<campaign_bonus_value_ids_technology_categories record_uuid="{5c48d4a9-67d7-4669-9081-82c32868d955}" record_timestamp="1461152289162" record_key="research_points">
+<key>research_points</key>
+<notes>Adds to technology research points available. Used at faction bonuses.</notes>
+</campaign_bonus_value_ids_technology_categories>
+<campaign_bonus_value_ids_technology_categories record_uuid="{6e130038-69a9-46c2-b075-5c59cd268015}" record_timestamp="1461152289163" record_key="research_rate_mod">
+<key>research_rate_mod</key>
+<notes>Percentage modifier on base tech research rate. Used at faction bonuses.</notes>
+</campaign_bonus_value_ids_technology_categories>
+</dataroot>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_technologies.xsd" export_time="Fri Oct 21 10:17:09 2016" revision="6" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>b3fd2fce-2b83-44ea-9162-2a8a7d9b020c</edit_uuid>
+<campaign_bonus_value_ids_technologies record_uuid="{57b9fa17-8cd0-4501-aa9d-d457ec52e6e0}" record_timestamp="1425655717572" record_key="disable_tech">
+<key>disable_tech</key>
+<notes>placeholder</notes>
+</campaign_bonus_value_ids_technologies>
+<campaign_bonus_value_ids_technologies record_uuid="{861b923a-9ce5-45f5-ba39-5a084a2154d6}" record_timestamp="1477041414778" record_key="food_cost_mod">
+<key>food_cost_mod</key>
+<notes>Straight numeric modifier to food cost for a tech</notes>
+</campaign_bonus_value_ids_technologies>
+</dataroot>

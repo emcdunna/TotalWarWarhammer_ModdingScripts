@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="diplomacy_keys.xsd" export_time="Mon Aug 24 09:58:07 2015" revision="11" export_branch="C:/fetch_c/warhammer/binaries" export_user="bob">
+<edit_uuid>cd9fbe50-4157-4b5d-adf0-18597b578a35</edit_uuid>
+<diplomacy_keys record_uuid="{9999e20d-31c5-44e1-b343-6ce2e2112306}" record_key="accept">
+<key>accept</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{8f013ffa-4bea-45cb-821b-6caaee80ecdd}" record_key="acknowledge_accept">
+<key>acknowledge_accept</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{600a28e7-7157-495b-a9c4-19756be190a3}" record_timestamp="1363973631810" record_key="acknowledge_cancel_client_state">
+<key>acknowledge_cancel_client_state</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{a4d17f6a-d43d-425c-ab5c-6a6ea236d61a}" record_key="acknowledge_cancel_defensive_alliance">
+<key>acknowledge_cancel_defensive_alliance</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{3f5f503e-8549-4fd0-8913-48068b83dae1}" record_key="acknowledge_cancel_military_alliance">
+<key>acknowledge_cancel_military_alliance</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{b0d8993a-d946-4efa-b92c-2c9596104a1e}" record_key="acknowledge_cancel_non_aggression_pact">
+<key>acknowledge_cancel_non_aggression_pact</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{ea869955-3549-42da-86db-41be4446371c}" record_key="acknowledge_cancel_soft_military_access">
+<key>acknowledge_cancel_soft_military_access</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{b0d4f078-f0bb-4752-afe5-f4e40e210ceb}" record_key="acknowledge_cancel_trade">
+<key>acknowledge_cancel_trade</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{5acae08f-9179-468f-b728-80bf4acb0c88}" record_timestamp="1363973631828" record_key="acknowledge_cancel_vassal">
+<key>acknowledge_cancel_vassal</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{f0b6bb4f-992d-4f6c-9a1c-503024f2be6a}" record_key="acknowledge_client_state">
+<key>acknowledge_client_state</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{e73c4733-423b-4360-85b6-33517c7cc3ba}" record_key="acknowledge_counter_accept">
+<key>acknowledge_counter_accept</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{40973380-b9cc-4a81-8bcb-c7f7aabe58d5}" record_key="acknowledge_counter_reject">
+<key>acknowledge_counter_reject</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{ef12e249-8f41-4f76-b8fe-d3dafa495985}" record_key="acknowledge_hostage">
+<key>acknowledge_hostage</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{d9403c20-405a-4fbb-a65f-9a440881afe0}" record_key="acknowledge_marriage">
+<key>acknowledge_marriage</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{ef1a5804-4400-4d2a-81db-85c4b1f36d0d}" record_key="acknowledge_reject">
+<key>acknowledge_reject</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{8e607e08-fb19-4409-9458-a885f70bac80}" record_key="acknowledge_state_gift">
+<key>acknowledge_state_gift</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{358cac68-df9e-47ee-bd89-1e9cc7239cae}" record_key="acknowledge_vassal">
+<key>acknowledge_vassal</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{2028e108-3871-4635-b4c6-795deb1e7556}" record_key="acknowledge_war">
+<key>acknowledge_war</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{e44ca3a4-060f-4a68-a730-e523c8879674}" record_key="approach">
+<key>approach</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{7fe694d1-7e7d-4a6b-bf89-72d6b947b423}" record_timestamp="1363973631841" record_key="cancel_client_state">
+<key>cancel_client_state</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{515412f3-938f-4873-a9d4-cb3a3788c40f}" record_key="cancel_defensive_alliance">
+<key>cancel_defensive_alliance</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{a8865af5-b4b0-41f1-b550-ccae260551a8}" record_key="cancel_military_alliance">
+<key>cancel_military_alliance</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{ff6f4385-cf9d-4ac7-8fae-c7c4181eef11}" record_key="cancel_non_aggression_pact">
+<key>cancel_non_aggression_pact</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{405db91b-27fb-4c91-b1a9-fbadb48716a1}" record_key="cancel_soft_military_access">
+<key>cancel_soft_military_access</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{723ac930-5602-4488-bef0-139fa98733d0}" record_key="cancel_trade">
+<key>cancel_trade</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{d062913d-dde4-4b87-b526-ccc34a8c640c}" record_timestamp="1363973631853" record_key="cancel_vassal">
+<key>cancel_vassal</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{3f210a43-b168-42a5-bd8b-e7810916e8b2}" record_key="counter_accept">
+<key>counter_accept</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{8f6e7540-dd44-424a-bfdf-b938dfdd4485}" record_key="counter_reject">
+<key>counter_reject</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{9541c824-17d1-4806-8369-48e27667993c}" record_key="demand_break_client_state">
+<key>demand_break_client_state</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{8f812d89-f071-4263-9f0d-e4b917719cce}" record_key="demand_break_defensive_alliance">
+<key>demand_break_defensive_alliance</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{12fce77b-89e9-4a5e-b153-c1a014a7aec8}" record_key="demand_break_military_alliance">
+<key>demand_break_military_alliance</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{629b2dbb-6ef1-4e30-a8c4-686376cd500c}" record_key="demand_break_non_aggression_pact">
+<key>demand_break_non_aggression_pact</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{08cd9489-dc28-4b5a-b848-3ed0f66815ae}" record_key="demand_break_soft_military_access">
+<key>demand_break_soft_military_access</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{2879f12e-f420-4d0f-8cc4-e448feb974c7}" record_key="demand_break_trade_agreement">
+<key>demand_break_trade_agreement</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{5813ca25-572a-4817-b371-02879756c247}" record_key="demand_break_vassal">
+<key>demand_break_vassal</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{b418db45-3dd8-4350-ba6a-19bb66f0b287}" record_key="demand_client_state">
+<key>demand_client_state</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{bee9563e-17e2-417c-b6ea-4cdea5186a5c}" record_key="demand_confederation">
+<key>demand_confederation</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{dbfbe426-b086-43bb-b24a-c17ccf432930}" record_key="demand_hostage">
+<key>demand_hostage</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{f549be8e-1dfa-446a-b0bd-b9a3116bda6d}" record_key="demand_join_war">
+<key>demand_join_war</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{82faa097-379a-431d-a495-d9229afe9610}" record_key="demand_regions">
+<key>demand_regions</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{836de866-67b1-416d-b090-bf0ef92c9f27}" record_key="demand_regular_payment">
+<key>demand_regular_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{5476766a-e21e-482f-822d-08712b454eb3}" record_key="demand_single_payment">
+<key>demand_single_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{f8c2f785-3c76-47c2-9d7c-4f4b5269a357}" record_key="demand_soft_military_access">
+<key>demand_soft_military_access</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{aafaa118-3541-48e1-bdaa-7258cff5c6e2}" record_timestamp="1361812848429" record_key="demand_state_gift_regular_payment">
+<key>demand_state_gift_regular_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{afb08f28-33b8-4e52-bf99-7594c2fe9af7}" record_timestamp="1361812848440" record_key="demand_state_gift_single_payment">
+<key>demand_state_gift_single_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{5f08cc56-1cf1-40d7-a2dd-4868290df6e0}" record_key="demand_technology">
+<key>demand_technology</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{cab1c344-f6b6-455d-978f-d6223333870d}" record_key="demand_vassal">
+<key>demand_vassal</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{496e02d4-b224-4ae2-ba69-170ac1fb4840}" record_key="generic_offer_demand">
+<key>generic_offer_demand</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{c5b0b612-aaae-4bad-9824-a968b52488d8}" record_key="generic_reject">
+<key>generic_reject</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{8b1fca3a-7815-422c-a66b-8e3614c5396c}" record_key="offer_demand_defensive_alliance">
+<key>offer_demand_defensive_alliance</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{e035c1e4-c633-422b-8727-0fe04c68c471}" record_key="offer_demand_military_alliance">
+<key>offer_demand_military_alliance</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{03e4af7e-b970-42ec-b88d-28ab720183e9}" record_key="offer_demand_non_aggression_pact">
+<key>offer_demand_non_aggression_pact</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{cd1fdd93-2387-4187-8be0-32289821ebfe}" record_key="offer_demand_peace">
+<key>offer_demand_peace</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{1ca11fe4-501f-4537-9f4e-765d7479bdfe}" record_key="offer_demand_trade">
+<key>offer_demand_trade</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{eba2c2bc-568d-49dd-9b31-3435d1fd4d11}" record_key="offer_join_war">
+<key>offer_join_war</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{5abfce93-f00c-458e-aaa3-e49e370144e6}" record_key="offer_marriage">
+<key>offer_marriage</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{97b6c551-282b-4315-b404-f0a5dc02df4b}" record_key="offer_regions">
+<key>offer_regions</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{080e98cf-25bf-4578-89cd-4b60cac83043}" record_key="offer_regular_payment">
+<key>offer_regular_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{22874b4d-8d43-4135-aebc-c06bf5888af3}" record_key="offer_single_payment">
+<key>offer_single_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{d1de7977-c5f2-4236-a321-82a19145c70f}" record_timestamp="1361812848453" record_key="offer_state_gift_regular_payment">
+<key>offer_state_gift_regular_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{b6441fe7-9467-4e6c-a8bb-8b572d7764f0}" record_timestamp="1361812848469" record_key="offer_state_gift_single_payment">
+<key>offer_state_gift_single_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{2c6b0649-3b75-4543-9d26-dc9626996fc4}" record_key="offer_technology">
+<key>offer_technology</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{80115d8e-bcb9-4186-a413-5bd95c9cee64}" record_key="receive">
+<key>receive</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{8edde091-d021-434a-8d48-6293748b6d1d}" record_key="reject_demand_client_state">
+<key>reject_demand_client_state</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{15ce8712-f216-4bb3-bbe5-a8297cb50eb6}" record_key="reject_demand_confederation">
+<key>reject_demand_confederation</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{377850e8-5179-401d-afb4-b0e920ede411}" record_key="reject_demand_hostage">
+<key>reject_demand_hostage</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{50cb6b8b-56eb-4f7e-b654-db30ef3c96b0}" record_key="reject_demand_join_war">
+<key>reject_demand_join_war</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{4e00c046-e4a3-45c7-b79d-596c89496193}" record_key="reject_demand_marriage">
+<key>reject_demand_marriage</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{d2ea0b20-f4ba-4a62-936f-fd433bf0b531}" record_key="reject_demand_regions">
+<key>reject_demand_regions</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{d7885e6a-075a-470f-87ff-dc65ee1c000b}" record_key="reject_demand_regular_payment">
+<key>reject_demand_regular_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{19696b3c-da0c-4649-9d00-cc1fa8225bd2}" record_key="reject_demand_single_payment">
+<key>reject_demand_single_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{690da5e3-8c30-411a-b07b-537b29ab287e}" record_key="reject_demand_soft_military_access">
+<key>reject_demand_soft_military_access</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{5b776c4b-33b2-4070-8378-e19917e77b4f}" record_timestamp="1361812848486" record_key="reject_demand_state_gift_regular_payment">
+<key>reject_demand_state_gift_regular_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{a2bfa3c1-d7a9-48ec-ac7e-01548b073669}" record_timestamp="1361812848505" record_key="reject_demand_state_gift_single_payment">
+<key>reject_demand_state_gift_single_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{37928dd7-41d8-4912-99c7-a0038152e011}" record_key="reject_demand_technology">
+<key>reject_demand_technology</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{cf16820e-850c-4efc-b267-b9e8f8b83f19}" record_key="reject_demand_vassal">
+<key>reject_demand_vassal</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{45097ccf-6748-4260-9027-1c26f99619fc}" record_key="reject_offer_demand_defensive_alliance">
+<key>reject_offer_demand_defensive_alliance</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{ea02527d-eddc-4ad2-bdb5-14ecc26468ff}" record_key="reject_offer_demand_military_alliance">
+<key>reject_offer_demand_military_alliance</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{997c3c3a-bafd-4222-939b-071d035bab1b}" record_key="reject_offer_demand_non_aggression_pact">
+<key>reject_offer_demand_non_aggression_pact</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{ea791db2-a23b-46a4-9691-12198ae9c42d}" record_key="reject_offer_demand_peace">
+<key>reject_offer_demand_peace</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{bbdb75c5-d5ff-4f24-8d64-c927d5e0c773}" record_key="reject_offer_demand_trade">
+<key>reject_offer_demand_trade</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{de8f3ba4-ecf3-437d-85d3-91001e0d9d91}" record_key="reject_offer_hostage">
+<key>reject_offer_hostage</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{8673234a-0352-40f1-a7db-190a643f7b37}" record_key="reject_offer_marriage">
+<key>reject_offer_marriage</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{9f44d3de-b565-4da4-b670-7e3f3ac7a8d9}" record_key="reject_offer_regions">
+<key>reject_offer_regions</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{c05ddb52-cbf6-4167-b222-825f54292f63}" record_key="reject_offer_regular_payment">
+<key>reject_offer_regular_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{36968590-4e89-46c5-94de-74e015c7f0cb}" record_key="reject_offer_single_payment">
+<key>reject_offer_single_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{996a3e12-db03-471d-b527-12415f01dc0d}" record_timestamp="1361812848396" record_key="reject_offer_state_gift_regular_payment">
+<key>reject_offer_state_gift_regular_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{ef6e80cb-434a-452e-8e57-10157c6a7c1f}" record_timestamp="1361812848419" record_key="reject_offer_state_gift_single_payment">
+<key>reject_offer_state_gift_single_payment</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{1ae3d5d4-9cba-4367-ac63-769afbb0a24c}" record_key="state_gift">
+<key>state_gift</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{64acb25b-5f3c-40b6-9e2b-d2310bad3994}" record_key="too_many_counters">
+<key>too_many_counters</key>
+</diplomacy_keys>
+<diplomacy_keys record_uuid="{e9af47b3-ee6c-4960-b1ed-0027cdac88ec}" record_key="war">
+<key>war</key>
+</diplomacy_keys>
+</dataroot>

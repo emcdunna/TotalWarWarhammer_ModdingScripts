@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_diplomatic_relations_attitudes>
+<root>
+<edit_uuid>d221f070-d26a-46dd-82de-6f5847a96fa6</edit_uuid>
+<field>
+<field_uuid>{1afe66b5-c744-4f2c-8cdc-41f595811cbd}</field_uuid>
+<primary_key>1</primary_key>
+<name>attitude</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>50</max_length>
+</field>
+<field>
+<field_uuid>{13b74b19-c8c0-40f4-b45a-daa331e2a364}</field_uuid>
+<primary_key>0</primary_key>
+<name>value</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>50</max_length>
+</field>
+</root>

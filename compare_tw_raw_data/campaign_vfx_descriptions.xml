@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_vfx_descriptions.xsd" export_time="Fri Feb 3 08:16:46 2017" revision="54" export_branch="E:/TW/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>c4a99cee-740c-44cd-ab48-898dbd9dc2ff</edit_uuid>
+<campaign_vfx_descriptions record_uuid="{e9b6e2c6-6c36-48d8-84b1-6de59d1d6e1e}" record_timestamp="1435595319402" record_key="2xtime_army">
+<key>2xtime_army</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{6412c630-e29c-415c-b8a3-2fb15efbda5e}" record_timestamp="1435595319408" record_key="2xtime_navy">
+<key>2xtime_navy</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{bc2b2216-77a0-457b-b8cb-52c03bf3c55f}" record_timestamp="1450802019886" record_key="advice_character_highlight">
+<key>advice_character_highlight</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_ui_advice_character_select</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{1ca88c1c-9fc1-4530-ab65-b0b17a5433c6}" record_timestamp="1450802019881" record_key="advice_settlement_highlight">
+<key>advice_settlement_highlight</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_ui_advice_settle_select</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{1a5acfec-52db-4bb9-8125-a61d157ab5dd}" record_timestamp="1448288217996" record_key="agent_deployed">
+<key>agent_deployed</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_shaman_draining</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{1f40b513-b42f-4c41-aa06-287dd000a9ab}" record_timestamp="1448288218007" record_key="agent_deployed_foreign_region">
+<key>agent_deployed_foreign_region</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_shaman_draining</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{c0805d82-a8c7-4eac-8782-38b1141ede8e}" record_timestamp="1448288218029" record_key="agent_deployed_foreign_region_generic">
+<key>agent_deployed_foreign_region_generic</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_deploy_enemy_region</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{8424dea5-e50a-4039-bb32-17b50ba51e95}" record_timestamp="1448288218039" record_key="agent_deployed_generic">
+<key>agent_deployed_generic</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_deploy_own_region</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{3985d12e-b0ed-4074-ab56-eb8ed11613f8}" record_timestamp="1435595319419" record_key="ambush">
+<key>ambush</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{44d4d347-c1c3-492e-8e2a-648845f5e889}" record_timestamp="1447926531041" record_key="army_low_morale">
+<key>army_low_morale</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_low_waaagh_morale</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{c14c8f83-5b95-41bd-abe3-d52a65416b27}" record_timestamp="1450260576802" record_key="army_vampire_recruitement">
+<key>army_vampire_recruitement</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_raise_dead_buff</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{51761864-db66-4977-8b9a-e5b97a3cb694}" record_timestamp="1445444531472" record_key="army_waaagh_army">
+<key>army_waaagh_army</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_ui_waaagh_selection</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{683b033e-2796-48c3-bd96-e9ebbd1402aa}" record_timestamp="1445444531479" record_key="army_war_coordination_target">
+<key>army_war_coordination_target</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_ui_waaagh_target</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{95a48056-9269-4146-ae3d-60b99b4ca6c8}" record_timestamp="1452595131424" record_key="army_war_coordination_target_generic">
+<key>army_war_coordination_target_generic</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_ui_generic_target</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{2143d45f-38ac-4ae1-b414-2e556c1a7c7b}" record_timestamp="1435595319424" record_key="attacking">
+<key>attacking</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{a71d8cfe-4c8d-4ceb-89c5-45a89a31813b}" record_timestamp="1447254270971" record_key="attrition_army">
+<key>attrition_army</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_character_attrition</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{6d5f6869-53ee-4b8a-bf44-532ec261528b}" record_timestamp="1435595319438" record_key="attrition_navy">
+<key>attrition_navy</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{dca620eb-5481-45f3-bd28-0cc2d83d1b05}" record_timestamp="1486109806448" record_key="blessing_of_the_lady">
+<key>blessing_of_the_lady</key>
+<one_shot>0</one_shot>
+<vfx>wh_dlc07_campaign_blessing_of_lady</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{08cff83c-ced5-44ae-9633-4b4098dbb164}" record_timestamp="1435595319446" record_key="buff_army">
+<key>buff_army</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{b5612dc4-a6e7-4baf-a0f5-ebcd0e0818bf}" record_timestamp="1435595319454" record_key="buff_navy">
+<key>buff_navy</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{dcd89292-be3e-4568-8ab0-a18e56330a49}" record_timestamp="1435595319463" record_key="debuff_army">
+<key>debuff_army</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{368ba633-ea16-4b0d-a1b8-ce3752983313}" record_timestamp="1435595319472" record_key="debuff_navy">
+<key>debuff_navy</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{0317b481-7700-4901-ba24-695a76b4c895}" record_timestamp="1435595319481" record_key="defence_army">
+<key>defence_army</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{c44fffa0-2b57-43d9-ac17-bdaa24d140da}" record_timestamp="1435595319491" record_key="desertion">
+<key>desertion</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{63545303-de97-408e-a19e-a5574f755d74}" record_timestamp="1435595319501" record_key="destruction_fire">
+<key>destruction_fire</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{127d1435-e298-45fd-97f3-b310bc94346e}" record_timestamp="1435595319510" record_key="destruction_fire_res">
+<key>destruction_fire_res</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{f6d8d110-ee06-4ae0-a549-ae72ed2fcbca}" record_timestamp="1435595319521" record_key="destruction_smoke_res">
+<key>destruction_smoke_res</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{ea9a1270-8a37-4070-b514-6afdcfe24627}" record_timestamp="1435595319531" record_key="disease">
+<key>disease</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{6843353e-23c5-4af9-b0d4-7de970d3433a}" record_timestamp="1435595319541" record_key="edict_army">
+<key>edict_army</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{ee974103-7403-403a-8646-171661761bca}" record_timestamp="1435595319551" record_key="edict_money">
+<key>edict_money</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{412680f5-7f7c-48ae-b2f2-f6fa1eb7e732}" record_timestamp="1435595319562" record_key="edict_population">
+<key>edict_population</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{1b177024-fa45-4ddc-898e-9c5d17914901}" record_timestamp="1447770800093" record_key="level_up">
+<key>level_up</key>
+<one_shot>1</one_shot>
+<vfx>wh_main_campaign_ui_level_up</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{29ebaa4b-0509-47b0-ae2f-d901de84dd78}" record_timestamp="1435595319583" record_key="looted">
+<key>looted</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{819e51ce-371c-404b-9d6b-2bbbd97e6a2b}" record_timestamp="1435595319593" record_key="movement_extents">
+<key>movement_extents</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{3dd3d57c-e11e-451c-820c-bed6de493918}" record_timestamp="1445434723213" record_key="navy_war_coordination_target">
+<key>navy_war_coordination_target</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_generic_fire_smoke_loop</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{9c480f7f-ff9a-433c-9697-46e815d8f2ff}" record_timestamp="1435595319604" record_key="patrol_navy">
+<key>patrol_navy</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{f54f8cb5-baf8-4a39-8783-51309f10d0f5}" record_timestamp="1435595319615" record_key="placeholder_selection">
+<key>placeholder_selection</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>5</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{64aeb8f2-1782-44bb-af98-051842ef4563}" record_timestamp="1455210492376" record_key="post_battle_looser">
+<key>post_battle_looser</key>
+<one_shot>1</one_shot>
+<vfx>wh_main_campaign_autoresolve_actor_lose</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{4a417825-71b0-408a-b615-9d80fe969d54}" record_timestamp="1455210492385" record_key="post_battle_winner">
+<key>post_battle_winner</key>
+<one_shot>1</one_shot>
+<vfx>wh_main_campaign_autoresolve_actor_win</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{106db252-7f3a-421f-823e-8f5d3bc5ea6a}" record_timestamp="1435595319626" record_key="raid_army">
+<key>raid_army</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{53679545-bc78-4ac6-8e5e-4d41fb43d004}" record_timestamp="1435595319637" record_key="raid_navy">
+<key>raid_navy</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{8f08b8e6-72b1-44d9-b2f2-9c9ff5ce0b0f}" record_timestamp="1435595319648" record_key="raze">
+<key>raze</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{4d1bb1af-22c7-44fd-b103-4d2ab4beb30d}" record_timestamp="1435595319660" record_key="sabotage">
+<key>sabotage</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{3ee3b942-1e08-4019-ac07-acbf7ee86cc4}" record_timestamp="1444312685635" record_key="select_agent">
+<key>select_agent</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_ui_agent_selection</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{b9461509-5b43-44d6-a245-8ff26a8229d8}" record_timestamp="1450802019874" record_key="select_army">
+<key>select_army</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_ui_agent_selection</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{91541990-0bae-471e-87bc-0abf0bab1833}" record_timestamp="1444312685642" record_key="select_navy">
+<key>select_navy</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_ui_agent_selection</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{7aa1815c-4784-42b4-b30c-08b3ea5b5cf7}" record_timestamp="1435595319707" record_key="select_tutorial">
+<key>select_tutorial</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{2e06f061-4b9a-4eee-ae8b-a5826f407bda}" record_timestamp="1435595319719" record_key="settle_construct">
+<key>settle_construct</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{7aebd67f-f6c1-4a83-ab5f-0bbb5a3f5567}" record_timestamp="1435595319731" record_key="settle_devpoint">
+<key>settle_devpoint</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{57b4c71b-2a7f-44ad-9015-9143b3bca9e3}" record_timestamp="1450802019865" record_key="settle_select">
+<key>settle_select</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_ui_settle_selection</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{f25b4c4b-1229-4468-87fc-2130b6f85031}" record_timestamp="1445856812455" record_key="settlement_war_coordination_target">
+<key>settlement_war_coordination_target</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_ui_waaagh_target</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{ed7508f7-56d5-4fce-98c4-7c7ebea8400d}" record_timestamp="1435595319756" record_key="under_attack">
+<key>under_attack</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_placeholder</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+<campaign_vfx_descriptions record_uuid="{4b7a3877-a6ec-4f18-b0d0-6361c2104c18}" record_timestamp="1459944115061" record_key="zone_of_control">
+<key>zone_of_control</key>
+<one_shot>0</one_shot>
+<vfx>wh_main_campaign_zone_of_control</vfx>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+<z_offset>0</z_offset>
+</campaign_vfx_descriptions>
+</dataroot>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaigns.xsd" export_time="Tue Dec 6 13:32:57 2016" revision="61" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>566033b0-be6c-4b09-b22f-d1293dce4db2</edit_uuid>
+<campaigns record_uuid="{662d0bc8-2b4d-4133-81d3-c0ad62c7c260}" record_timestamp="1481031176899" record_key="main_warhammer">
+<available_for_mp>0</available_for_mp>
+<battle_path>warhammer_map_1</battle_path>
+<bullet_list></bullet_list>
+<campaign_name>main_warhammer</campaign_name>
+<description state="APPROVED" last_approved_text="Main game map" last_edit_user="bob">Main game map</description>
+<display_location>warhammer_map_1_1_wood_elves</display_location>
+<exportable>1</exportable>
+<game_expansion_key>tentpole</game_expansion_key>
+<is_tutorial>0</is_tutorial>
+<map_name>warhammer_map_1_1_wood_elves</map_name>
+<mask></mask>
+<mp_sort_order>0</mp_sort_order>
+<onscreen_name state="APPROVED" last_approved_text="Warhammer" last_edit_user="bob">Warhammer</onscreen_name>
+<script_path>script/campaign/main_warhammer</script_path>
+</campaigns>
+<campaigns record_uuid="{9b9174cb-a3e0-4f6b-a2e3-738cdefb32fd}" record_timestamp="1481031176890" record_key="wh_dlc03_beastmen">
+<available_for_mp>0</available_for_mp>
+<battle_path>wh_dlc03_beastmen_map_1</battle_path>
+<bullet_list></bullet_list>
+<campaign_name>wh_dlc03_beastmen</campaign_name>
+<description state="IGNORED" last_approved_text="" last_edit_user="bob">Beastmen mini campaign map</description>
+<display_location>wh_dlc03_beastmen_map_1</display_location>
+<exportable>1</exportable>
+<game_expansion_key>beastmen</game_expansion_key>
+<is_tutorial>0</is_tutorial>
+<map_name>wh_dlc03_beastmen_map_1</map_name>
+<mask>8</mask>
+<mp_sort_order>0</mp_sort_order>
+<onscreen_name state="APPROVED" last_approved_text="An Eye For An Eye" last_edit_user="bob">An Eye For An Eye</onscreen_name>
+<script_path>script/campaign/wh_dlc03_beastmen</script_path>
+</campaigns>
+<campaigns record_uuid="{4aa17368-ecdb-47fb-aa7a-af50f38544dc}" record_timestamp="1481031176894" record_key="wh_dlc05_wood_elves">
+<available_for_mp>1</available_for_mp>
+<battle_path>wh_dlc05_wood_elves_map_1</battle_path>
+<bullet_list></bullet_list>
+<campaign_name>wh_dlc05_wood_elves</campaign_name>
+<description state="IGNORED" last_approved_text="" last_edit_user="bob">Wood Elves mini campaign map</description>
+<display_location>wh_dlc05_wood_elves_map_1</display_location>
+<exportable>1</exportable>
+<game_expansion_key>wood_elves_owners</game_expansion_key>
+<is_tutorial>0</is_tutorial>
+<map_name>wh_dlc05_wood_elves_map_1</map_name>
+<mask>32</mask>
+<mp_sort_order>0</mp_sort_order>
+<onscreen_name state="APPROVED" last_approved_text="The Season of Revelation" last_edit_user="bob">The Season of Revelation</onscreen_name>
+<script_path>script/campaign/wh_dlc05_wood_elves</script_path>
+</campaigns>
+</dataroot>

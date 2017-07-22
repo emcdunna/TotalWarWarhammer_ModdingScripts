@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="special_ability_to_recharge_contexts.xsd" export_time="Fri Feb 10 17:22:43 2017" revision="33" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>675a7afd-c295-4a0f-ba70-033fd23c8365</edit_uuid>
+<special_ability_to_recharge_contexts record_uuid="{bbe85351-2c0d-463a-8479-cff21f15ad64}" record_timestamp="1441983498096" record_key="wh_dlc01_weapon_abilities_sword_of_changeengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_dlc01_weapon_abilities_sword_of_change</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{5a5d8883-a0df-495b-a36c-d889f646503c}" record_timestamp="1441788087580" record_key="wh_dlc01_weapon_abilities_the_slayer_of_kingsengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_dlc01_weapon_abilities_the_slayer_of_kings</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{951d2dac-3312-404a-8bed-6ca9291a248a}" record_timestamp="1455123048369" record_key="wh_dlc03_item_abilities_jagged_daggerengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_dlc03_item_abilities_jagged_dagger</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{42732656-1d5a-4e48-a2f2-d3872b94611e}" record_timestamp="1455123057922" record_key="wh_dlc03_weapon_abilities_axe_of_menengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_dlc03_weapon_abilities_axe_of_men</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{65d7a3da-66cf-48da-aea7-65c740a63735}" record_timestamp="1471865792924" record_key="wh_dlc04_unit_passive_strength_of_the_penitentlosing_melee_combat">
+<recharge_context>losing_melee_combat</recharge_context>
+<special_ability>wh_dlc04_unit_passive_strength_of_the_penitent</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{0327efa3-79ba-4439-b721-4d0de41840ff}" record_timestamp="1477035616638" record_key="wh_dlc05_lore_passive_life_bloomother_abilities_at_least_one_on_wind_up">
+<recharge_context>other_abilities_at_least_one_on_wind_up</recharge_context>
+<special_ability>wh_dlc05_lore_passive_life_bloom</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{1c4c6447-ef1b-4b7c-83b4-8adbcaaf4830}" record_timestamp="1486123187920" record_key="wh_dlc05_weapon_abilities_stave_of_ruinous_corruptionengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_dlc05_weapon_abilities_stave_of_ruinous_corruption</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{34d564f2-8be1-4fe6-b37d-8f662e0693a8}" record_timestamp="1485448426587" record_key="wh_dlc06_quest_passive_inquisitor_of_sigmarcannot_find_enemies_in_intercept_range">
+<recharge_context>cannot_find_enemies_in_intercept_range</recharge_context>
+<special_ability>wh_dlc06_quest_passive_inquisitor_of_sigmar</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{abd00299-f8b8-4da1-af64-5513f66cc368}" record_timestamp="1474281971186" record_key="wh_dlc06_unit_passive_opportunist_murdererwinning_melee_combat">
+<recharge_context>winning_melee_combat</recharge_context>
+<special_ability>wh_dlc06_unit_passive_opportunist_murderer</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{d66033e1-cc95-4499-abb1-d0dad64fba8b}" record_timestamp="1474282528969" record_key="wh_dlc06_unit_passive_squigs_go_wildmorale_is_wavering_or_lower">
+<recharge_context>morale_is_wavering_or_lower</recharge_context>
+<special_ability>wh_dlc06_unit_passive_squigs_go_wild</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{4a6f69bd-a800-4193-b6d7-b327496bbbb6}" record_timestamp="1477035615389" record_key="wh_dlc06_weapon_passive_bonewood_staffother_abilities_at_least_one_on_wind_up">
+<recharge_context>other_abilities_at_least_one_on_wind_up</recharge_context>
+<special_ability>wh_dlc06_weapon_passive_bonewood_staff</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{6e049d5d-d23a-4ad9-8d4c-dd4f99ac76c6}" record_timestamp="1486743835439" record_key="wh_dlc07_hero_abilities_dolorous_bladeengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_dlc07_hero_abilities_dolorous_blade</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{5109dd2b-cb73-4fc1-aa6a-e58f93fbf14a}" record_timestamp="1485442613529" record_key="wh_main_unit_abilities_black_nimbusengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_main_unit_abilities_black_nimbus</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{b79fd2fa-f1eb-411b-874f-6e8fa23bfca5}" record_timestamp="1485442613486" record_key="wh_main_unit_abilities_black_scythesengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_main_unit_abilities_black_scythes</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{e4e48e56-aad6-4cf1-8fe3-36446b47114f}" record_timestamp="1485442613441" record_key="wh_main_unit_abilities_unholy_vigourengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_main_unit_abilities_unholy_vigour</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{437c5b8d-0286-44cf-9205-0f115f844806}" record_timestamp="1434360168311" record_key="wh_main_weapon_abilities_filth_maceengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_main_weapon_abilities_filth_mace</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{52101c92-a33d-49b9-8e0a-e4cf7daceef9}" record_timestamp="1441631005183" record_key="wh_main_weapon_abilities_hellfire_swordengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_main_weapon_abilities_hellfire_sword</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{266a9e34-bf71-4983-ac85-c3d59cddc1f5}" record_timestamp="1435223942634" record_key="wh_main_weapon_abilities_helm_of_discordengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_main_weapon_abilities_helm_of_discord</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{88e0f7e5-dba5-4fd5-b9f2-82815fe28ea6}" record_timestamp="1435223942616" record_key="wh_main_weapon_abilities_the_hammer_of_karak_drazhengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_main_weapon_abilities_the_hammer_of_karak_drazh</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{f3842495-3060-4d85-9754-f38b65f1a923}" record_timestamp="1432825362647" record_key="wh_main_weapon_abilities_tormentor_swordengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_main_weapon_abilities_tormentor_sword</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{e7c70f58-92be-41cc-b464-57f06a211d60}" record_timestamp="1434959239975" record_key="wh_main_weapon_passive_sword_of_unholy_powerengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_main_weapon_passive_sword_of_unholy_power</special_ability>
+</special_ability_to_recharge_contexts>
+<special_ability_to_recharge_contexts record_uuid="{d9b38c9c-6004-490b-affd-0e023e086dc8}" record_timestamp="1477035615459" record_key="wh_pro01_lord_abilities_flash_bombengaged_in_melee">
+<recharge_context>engaged_in_melee</recharge_context>
+<special_ability>wh_pro01_lord_abilities_flash_bomb</special_ability>
+</special_ability_to_recharge_contexts>
+</dataroot>

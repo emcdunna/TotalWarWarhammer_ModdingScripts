@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_statistics_strings.xsd" export_time="Wed Nov 16 15:00:59 2016" revision="29" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>f575cb62-ce4a-4d29-8b86-ced036404f04</edit_uuid>
+<campaign_statistics_strings record_uuid="{d8384a93-5b12-49ea-af32-ee60f5719a56}" record_timestamp="1443452431610" record_key="agents_assassinated">
+<campaign_statistic>agents_assassinated</campaign_statistic>
+<campaign_statistic_category>stat_cat_agents_actions</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Heroes assassinated:" last_edit_user="bob">Heroes assassinated:</localised_description>
+<statistic_order>180</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{e8a9bf2a-a7d3-4b21-938e-a0573571a4de}" record_timestamp="1443452431646" record_key="agents_failed_actions">
+<campaign_statistic>agents_failed_actions</campaign_statistic>
+<campaign_statistic_category>stat_cat_agents_actions</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Failed Hero actions:" last_edit_user="bob">Failed Hero actions:</localised_description>
+<statistic_order>140</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{114c6949-ca85-4f0d-b46d-efc7dfa61321}" record_timestamp="1443452431522" record_key="agents_lost">
+<campaign_statistic>agents_lost</campaign_statistic>
+<campaign_statistic_category>stat_cat_agents_general</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Heroes lost:" last_edit_user="bob">Heroes lost:</localised_description>
+<statistic_order>50</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{ca4ead4d-d1dd-4b53-a0a8-02d70fcfb77d}" record_timestamp="1443452431488" record_key="agents_recruited">
+<campaign_statistic>agents_recruited</campaign_statistic>
+<campaign_statistic_category>stat_cat_agents_general</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Heroes recruited:" last_edit_user="bob">Heroes recruited:</localised_description>
+<statistic_order>10</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{625c370d-a969-4161-be08-b50c4c570747}" record_timestamp="1443452431628" record_key="agents_successful_actions">
+<campaign_statistic>agents_successful_actions</campaign_statistic>
+<campaign_statistic_category>stat_cat_agents_actions</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Successful Hero actions:" last_edit_user="bob">Successful Hero actions:</localised_description>
+<statistic_order>100</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{e053ad2d-324d-428c-bb9a-cec300dd1cac}" record_timestamp="1443452431540" record_key="agents_total_actions">
+<campaign_statistic>agents_total_actions</campaign_statistic>
+<campaign_statistic_category>stat_cat_agents_actions</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Total Hero actions:" last_edit_user="bob">Total Hero actions:</localised_description>
+<statistic_order>90</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{c69472ec-e2fa-43e9-9379-c663f7b70a44}" record_timestamp="1447923385315" record_key="completed_missions">
+<campaign_statistic>completed_missions</campaign_statistic>
+<campaign_statistic_category>stat_cat_empire</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Missions completed:" last_edit_user="bob">Missions completed:</localised_description>
+<statistic_order>90</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{d4e54204-a1a4-422f-875f-ad646b06788c}" record_timestamp="1424433912474" record_key="current_turn">
+<campaign_statistic>current_turn</campaign_statistic>
+<campaign_statistic_category>stat_cat_general</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Current turn:" last_edit_user="bob">Current turn:</localised_description>
+<statistic_order>10</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{92c985ec-5964-45cd-b99b-c55135a16af3}" record_timestamp="1424433918681" record_key="diplomacy_allies_current">
+<campaign_statistic>diplomacy_allies_current</campaign_statistic>
+<campaign_statistic_category>stat_cat_diplomacy</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Current allies:" last_edit_user="bob">Current allies:</localised_description>
+<statistic_order>60</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{ab5f5048-c504-41f4-a1b9-5aea6ebab735}" record_timestamp="1424433919889" record_key="diplomacy_allies_max">
+<campaign_statistic>diplomacy_allies_max</campaign_statistic>
+<campaign_statistic_category>stat_cat_diplomacy</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Most allies" last_edit_user="bob">Most allies</localised_description>
+<statistic_order>70</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{ae3d62a1-9067-4e96-bf59-d3c3686e7cca}" record_timestamp="1424433921047" record_key="diplomacy_trade_current">
+<campaign_statistic>diplomacy_trade_current</campaign_statistic>
+<campaign_statistic_category>stat_cat_diplomacy</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Current trade agreements:" last_edit_user="bob">Current trade agreements:</localised_description>
+<statistic_order>80</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{72694d34-8e92-4862-9ef0-4e5579c46c5a}" record_timestamp="1424433922191" record_key="diplomacy_trade_max">
+<campaign_statistic>diplomacy_trade_max</campaign_statistic>
+<campaign_statistic_category>stat_cat_diplomacy</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Most trade agreements:" last_edit_user="bob">Most trade agreements:</localised_description>
+<statistic_order>90</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{9d65e96e-c3dc-43d9-b6e6-daf33ba73156}" record_timestamp="1424433916392" record_key="diplomacy_war_current">
+<campaign_statistic>diplomacy_war_current</campaign_statistic>
+<campaign_statistic_category>stat_cat_diplomacy</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Current wars:" last_edit_user="bob">Current wars:</localised_description>
+<statistic_order>40</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{3a334083-d9c1-4823-95db-34c36436c214}" record_timestamp="1424433917536" record_key="diplomacy_war_max">
+<campaign_statistic>diplomacy_war_max</campaign_statistic>
+<campaign_statistic_category>stat_cat_diplomacy</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Most wars:" last_edit_user="bob">Most wars:</localised_description>
+<statistic_order>50</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{5d1b49e6-4dde-404b-82f1-de4fdf0696be}" record_timestamp="1443452431347" record_key="diplomacy_war_total_declarations">
+<campaign_statistic>diplomacy_war_total_declarations</campaign_statistic>
+<campaign_statistic_category>stat_cat_diplomacy</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="War declarations:" last_edit_user="bob">War declarations:</localised_description>
+<statistic_order>50</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{ba37a151-c810-4cec-ac26-69b1b2073a39}" record_timestamp="1424433948620" record_key="economy_expenditure_current">
+<campaign_statistic>economy_expenditure_current</campaign_statistic>
+<campaign_statistic_category>stat_cat_economy_expenditure</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Current expenditure:" last_edit_user="bob">Current expenditure:</localised_description>
+<statistic_order>90</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{a69e119a-0c28-4929-ad77-6024044afc22}" record_timestamp="1424433949746" record_key="economy_expenditure_max">
+<campaign_statistic>economy_expenditure_max</campaign_statistic>
+<campaign_statistic_category>stat_cat_economy_expenditure</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Highest ever expenditure:" last_edit_user="bob">Highest ever expenditure:</localised_description>
+<statistic_order>140</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{6310ff05-5631-4221-8231-56590919245f}" record_timestamp="1424433948395" record_key="economy_expenditure_total">
+<campaign_statistic>economy_expenditure_total</campaign_statistic>
+<campaign_statistic_category>stat_cat_economy_expenditure</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Total expenditure:" last_edit_user="bob">Total expenditure:</localised_description>
+<statistic_order>80</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{5e4b6381-8a71-4300-a6c9-697710dbb4a2}" record_timestamp="1424433949521" record_key="economy_expenditure_total_construction">
+<campaign_statistic>economy_expenditure_total_construction</campaign_statistic>
+<campaign_statistic_category>stat_cat_economy_expenditure</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Expenditure on construction:" last_edit_user="bob">Expenditure on construction:</localised_description>
+<statistic_order>130</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{9d5b05e7-b0a9-4a1f-a9fd-bf78c4e132f0}" record_timestamp="1424433948845" record_key="economy_expenditure_total_recruitment">
+<campaign_statistic>economy_expenditure_total_recruitment</campaign_statistic>
+<campaign_statistic_category>stat_cat_economy_expenditure</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Expenditure on recruitment:" last_edit_user="bob">Expenditure on recruitment:</localised_description>
+<statistic_order>100</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{ea41d2bd-0d54-40be-a869-0d8f1043a310}" record_timestamp="1424433949294" record_key="economy_expenditure_total_upkeep">
+<campaign_statistic>economy_expenditure_total_upkeep</campaign_statistic>
+<campaign_statistic_category>stat_cat_economy_expenditure</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Expenditure on upkeep:" last_edit_user="bob">Expenditure on upkeep:</localised_description>
+<statistic_order>120</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{92304be9-0ad2-4a08-9aae-0deefddeca39}" record_timestamp="1424433914096" record_key="economy_income_current">
+<campaign_statistic>economy_income_current</campaign_statistic>
+<campaign_statistic_category>stat_cat_economy_income</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Current income:" last_edit_user="bob">Current income:</localised_description>
+<statistic_order>20</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{f98dee66-8191-465d-9b7a-3ff4256c0f3b}" record_timestamp="1424433920121" record_key="economy_income_max">
+<campaign_statistic>economy_income_max</campaign_statistic>
+<campaign_statistic_category>stat_cat_economy_income</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Highest ever income:" last_edit_user="bob">Highest ever income:</localised_description>
+<statistic_order>70</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{9c3e4d80-62ac-4a39-baf6-4b871e05acf3}" record_timestamp="1424433912705" record_key="economy_income_total">
+<campaign_statistic>economy_income_total</campaign_statistic>
+<campaign_statistic_category>stat_cat_economy_income</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Total income:" last_edit_user="bob">Total income:</localised_description>
+<statistic_order>10</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{4f5cdcf7-9834-4a13-8948-e9c3a7f9f60a}" record_timestamp="1424433917765" record_key="economy_income_total_looting">
+<campaign_statistic>economy_income_total_looting</campaign_statistic>
+<campaign_statistic_category>stat_cat_economy_income</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Income from looting/sacking:" last_edit_user="bob">Income from looting/sacking:</localised_description>
+<statistic_order>50</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{9bdf3c55-6cf3-4849-9781-c5519cf14147}" record_timestamp="1424433918920" record_key="economy_income_total_raiding">
+<campaign_statistic>economy_income_total_raiding</campaign_statistic>
+<campaign_statistic_category>stat_cat_economy_income</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Income from raiding:" last_edit_user="bob">Income from raiding:</localised_description>
+<statistic_order>60</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{f899f7af-4673-447d-8c4b-928741524a28}" record_timestamp="1424433915247" record_key="economy_income_total_tax">
+<campaign_statistic>economy_income_total_tax</campaign_statistic>
+<campaign_statistic_category>stat_cat_economy_income</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Income from tax:" last_edit_user="bob">Income from tax:</localised_description>
+<statistic_order>30</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{31c9a499-4381-4826-9e3a-1dc728117eab}" record_timestamp="1424433916623" record_key="economy_income_total_trade">
+<campaign_statistic>economy_income_total_trade</campaign_statistic>
+<campaign_statistic_category>stat_cat_economy_income</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Income from trade:" last_edit_user="bob">Income from trade:</localised_description>
+<statistic_order>40</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{3f10cff9-90c0-481e-abed-386c2aa40297}" record_timestamp="1443452431306" record_key="edicts_issued">
+<campaign_statistic>edicts_issued</campaign_statistic>
+<campaign_statistic_category>stat_cat_empire</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Commandments issued:" last_edit_user="bob">Commandments issued:</localised_description>
+<statistic_order>70</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{092371e2-1360-49da-94b8-917529e461b3}" record_timestamp="1424433921506" record_key="empire_buildings_constructed">
+<campaign_statistic>empire_buildings_constructed</campaign_statistic>
+<campaign_statistic_category>stat_cat_empire</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Buildings constructed:" last_edit_user="bob">Buildings constructed:</localised_description>
+<statistic_order>80</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{12c12f8d-fe30-4e64-a6bd-d97fc7afe290}" record_timestamp="1443452431322" record_key="empire_factions_client_vassal">
+<campaign_statistic>empire_factions_client_vassal</campaign_statistic>
+<campaign_statistic_category>stat_cat_diplomacy</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Vassals established:" last_edit_user="bob">Vassals established:</localised_description>
+<statistic_order>30</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{f739d0f0-6ace-4e70-befe-396d5422cc4b}" record_timestamp="1424433914327" record_key="empire_factions_destroyed">
+<campaign_statistic>empire_factions_destroyed</campaign_statistic>
+<campaign_statistic_category>stat_cat_diplomacy</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Factions destroyed:" last_edit_user="bob">Factions destroyed:</localised_description>
+<statistic_order>20</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{8ea4f5bb-35a2-4508-8eac-f6298c66b508}" record_timestamp="1424433912938" record_key="empire_factions_encountered">
+<campaign_statistic>empire_factions_encountered</campaign_statistic>
+<campaign_statistic_category>stat_cat_diplomacy</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Factions encountered:" last_edit_user="bob">Factions encountered:</localised_description>
+<statistic_order>10</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{da8e19c8-7682-4f9a-8e6e-75c95053dcf9}" record_timestamp="1424433917993" record_key="empire_provinces_current">
+<campaign_statistic>empire_provinces_current</campaign_statistic>
+<campaign_statistic_category>stat_cat_empire</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Current provinces held:" last_edit_user="bob">Current provinces held:</localised_description>
+<statistic_order>50</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{95f95cc1-83ab-4587-926d-2883dca04dc7}" record_timestamp="1424433919153" record_key="empire_provinces_max">
+<campaign_statistic>empire_provinces_max</campaign_statistic>
+<campaign_statistic_category>stat_cat_empire</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Most provinces held:" last_edit_user="bob">Most provinces held:</localised_description>
+<statistic_order>60</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{0b8e8842-b37d-42f1-9811-5debbaa8a587}" record_timestamp="1424433925427" record_key="empire_resources_total">
+<campaign_statistic>empire_resources_total</campaign_statistic>
+<campaign_statistic_category>stat_cat_empire</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Total resources held:" last_edit_user="bob">Total resources held:</localised_description>
+<statistic_order>120</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{d0858afd-9c98-4a61-a098-bd7119d52336}" record_timestamp="1424433926451" record_key="empire_resources_unique">
+<campaign_statistic>empire_resources_unique</campaign_statistic>
+<campaign_statistic_category>stat_cat_empire</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Unique resources held:" last_edit_user="bob">Unique resources held:</localised_description>
+<statistic_order>130</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{9fb828e6-6318-480a-b3fd-80f43d4eb6b6}" record_timestamp="1424433914555" record_key="empire_settlements_captured">
+<campaign_statistic>empire_settlements_captured</campaign_statistic>
+<campaign_statistic_category>stat_cat_empire</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Settlements captured:" last_edit_user="bob">Settlements captured:</localised_description>
+<statistic_order>20</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{0e61c043-998e-42da-a82d-9a5b01f65c30}" record_timestamp="1424433913169" record_key="empire_settlements_current">
+<campaign_statistic>empire_settlements_current</campaign_statistic>
+<campaign_statistic_category>stat_cat_empire</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Current settlements held:" last_edit_user="bob">Current settlements held:</localised_description>
+<statistic_order>10</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{9303776f-c413-41c5-aac4-7b3a45d8d3d4}" record_timestamp="1424433915704" record_key="empire_settlements_lost">
+<campaign_statistic>empire_settlements_lost</campaign_statistic>
+<campaign_statistic_category>stat_cat_empire</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Settlements lost:" last_edit_user="bob">Settlements lost:</localised_description>
+<statistic_order>30</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{8e028bad-5fd1-40c2-9fbe-813bfebacae7}" record_timestamp="1424433916851" record_key="empire_settlements_max">
+<campaign_statistic>empire_settlements_max</campaign_statistic>
+<campaign_statistic_category>stat_cat_empire</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Most settlements held:" last_edit_user="bob">Most settlements held:</localised_description>
+<statistic_order>40</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{16d8e99a-da9d-4ab1-927b-183f886ba560}" record_timestamp="1424433922676" record_key="empire_technologies_all">
+<campaign_statistic>empire_technologies_all</campaign_statistic>
+<campaign_statistic_category>stat_cat_empire</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Technologies researched:" last_edit_user="bob">Technologies researched:</localised_description>
+<statistic_order>90</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{9e638342-aa62-4730-a745-2acd9bf9a9ea}" record_timestamp="1424433918222" record_key="military_armies_current">
+<campaign_statistic>military_armies_current</campaign_statistic>
+<campaign_statistic_category>stat_cat_military_forces</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Current armies:" last_edit_user="bob">Current armies:</localised_description>
+<statistic_order>50</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{5f598f09-e848-4712-bd3c-243314dd8283}" record_timestamp="1424433917079" record_key="military_armies_established">
+<campaign_statistic>military_armies_established</campaign_statistic>
+<campaign_statistic_category>stat_cat_military_forces</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Total armies established:" last_edit_user="bob">Total armies established:</localised_description>
+<statistic_order>40</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{5e15eeec-5070-43f4-821c-f3604d9831a0}" record_timestamp="1424433919385" record_key="military_armies_max">
+<campaign_statistic>military_armies_max</campaign_statistic>
+<campaign_statistic_category>stat_cat_military_forces</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Most concurrent armies:" last_edit_user="bob">Most concurrent armies:</localised_description>
+<statistic_order>60</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{0e54c6dc-b632-48ed-ac44-c91debdbfc2a}" record_timestamp="1424433928340" record_key="military_battles_ambush">
+<campaign_statistic>military_battles_ambush</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_general</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Ambush battles:" last_edit_user="bob">Ambush battles:</localised_description>
+<statistic_order>160</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{de2fe246-1493-4b40-84d5-1092de869f52}" record_timestamp="1424433925677" record_key="military_battles_autoresolved">
+<campaign_statistic>military_battles_autoresolved</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_general</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Battles autoresolved:" last_edit_user="bob">Battles autoresolved:</localised_description>
+<statistic_order>120</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{cee36acd-fb35-4dca-9d02-9a08ce7c99ac}" record_timestamp="1424433946087" record_key="military_battles_crushing_defeats">
+<campaign_statistic>military_battles_crushing_defeats</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_defeats</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Crushing defeats:" last_edit_user="bob">Crushing defeats:</localised_description>
+<statistic_order>370</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{afbda799-3c28-413a-8996-c2b15fc3365e}" record_timestamp="1424433944184" record_key="military_battles_defeats">
+<campaign_statistic>military_battles_defeats</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_defeats</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Total defeats:" last_edit_user="bob">Total defeats:</localised_description>
+<statistic_order>280</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{04170340-cf30-455d-a85f-7019622bcf16}" record_timestamp="1424433945133" record_key="military_battles_defeats_ambush">
+<campaign_statistic>military_battles_defeats_ambush</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_defeats</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Ambush battle defeats:" last_edit_user="bob">Ambush battle defeats:</localised_description>
+<statistic_order>320</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{da44eadf-273b-426c-a49a-4035252b62f5}" record_timestamp="1424433944412" record_key="military_battles_defeats_land">
+<campaign_statistic>military_battles_defeats_land</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_defeats</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Land battle defeats:" last_edit_user="bob">Land battle defeats:</localised_description>
+<statistic_order>290</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{eb0ea7b1-33cc-4bc3-b1ef-1e58ab5f0f74}" record_timestamp="1452167014389" record_key="military_battles_defeats_settlement">
+<campaign_statistic>military_battles_defeats_settlement</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_defeats</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Minor settlement battle defeats:" last_edit_user="bob">Minor settlement battle defeats:</localised_description>
+<statistic_order>360</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{1de7d04a-1b85-405c-b995-018460f330fe}" record_timestamp="1459943641479" record_key="military_battles_defeats_siege">
+<campaign_statistic>military_battles_defeats_siege</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_defeats</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Siege battle defeats:" last_edit_user="bob">Siege battle defeats:</localised_description>
+<statistic_order>350</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{ed99aea2-9de2-4983-84fd-a1c644f7d112}" record_timestamp="1454690537858" record_key="military_battles_defeats_subterranean_intercept">
+<campaign_statistic>military_battles_defeats_subterranean_intercept</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_defeats</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Subterranean intercept defeats:" last_edit_user="bob">Subterranean intercept defeats:</localised_description>
+<statistic_order>380</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{f59e0fee-9bc7-4d76-aa06-1c556e01f0f3}" record_timestamp="1424433924741" record_key="military_battles_fought">
+<campaign_statistic>military_battles_fought</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_general</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Battles fought personally:" last_edit_user="bob">Battles fought personally:</localised_description>
+<statistic_order>110</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{96aa4670-8a36-4325-add8-e762564acb12}" record_timestamp="1424433946323" record_key="military_battles_heroic_victories">
+<campaign_statistic>military_battles_heroic_victories</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_victories</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Heroic victories:" last_edit_user="bob">Heroic victories:</localised_description>
+<statistic_order>360</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{d626af80-2083-435a-8111-21f94d927df8}" record_timestamp="1424433926683" record_key="military_battles_land">
+<campaign_statistic>military_battles_land</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_general</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Land battles:" last_edit_user="bob">Land battles:</localised_description>
+<statistic_order>130</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{bf8df653-f28a-4f1e-aefe-f5b6ae72adcc}" record_timestamp="1452167014339" record_key="military_battles_settlement">
+<campaign_statistic>military_battles_settlement</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_general</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Minor settlement battles:" last_edit_user="bob">Minor settlement battles:</localised_description>
+<statistic_order>200</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{2b24c873-9929-4b32-8b02-cdb7b11c2b97}" record_timestamp="1459943641481" record_key="military_battles_siege">
+<campaign_statistic>military_battles_siege</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_general</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Siege battles:" last_edit_user="bob">Siege battles:</localised_description>
+<statistic_order>190</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{cca673b4-5aeb-4414-bccc-cbaf5afb5e8f}" record_timestamp="1454690537843" record_key="military_battles_subterranean_intercept">
+<campaign_statistic>military_battles_subterranean_intercept</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_general</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Subterranean intercept battles:" last_edit_user="bob">Subterranean intercept battles:</localised_description>
+<statistic_order>210</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{bdc43dbb-3d06-4480-b05b-1bb123e549a1}" record_timestamp="1424433923816" record_key="military_battles_total">
+<campaign_statistic>military_battles_total</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_general</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Total battles fought:" last_edit_user="bob">Total battles fought:</localised_description>
+<statistic_order>100</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{76ba756f-eaa3-4c6c-8794-00f3f1a586ab}" record_timestamp="1424433942278" record_key="military_battles_victories">
+<campaign_statistic>military_battles_victories</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_victories</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Total victories:" last_edit_user="bob">Total victories:</localised_description>
+<statistic_order>200</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{626c0137-e01c-4232-8d4f-ee5e9b5d3fa8}" record_timestamp="1424433943234" record_key="military_battles_victories_ambush">
+<campaign_statistic>military_battles_victories_ambush</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_victories</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Ambush battle victories:" last_edit_user="bob">Ambush battle victories:</localised_description>
+<statistic_order>240</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{97c0b5a3-1122-4aad-8149-6e2f470da0b4}" record_timestamp="1424433942511" record_key="military_battles_victories_land">
+<campaign_statistic>military_battles_victories_land</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_victories</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Land battle victories:" last_edit_user="bob">Land battle victories:</localised_description>
+<statistic_order>210</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{dcc13247-db1a-46ec-a9a1-47fdabae7df3}" record_timestamp="1452167014369" record_key="military_battles_victories_settlement">
+<campaign_statistic>military_battles_victories_settlement</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_victories</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Minor settlement battle victories:" last_edit_user="bob">Minor settlement battle victories:</localised_description>
+<statistic_order>280</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{94556142-e313-4518-b48a-63b3ae1f127c}" record_timestamp="1459943641482" record_key="military_battles_victories_siege">
+<campaign_statistic>military_battles_victories_siege</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_victories</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Siege battle victories:" last_edit_user="bob">Siege battle victories:</localised_description>
+<statistic_order>270</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{dcbd5b45-82ba-4253-b7a0-cf921ce0f0e1}" record_timestamp="1454690537835" record_key="military_battles_victories_subterranean_intercept">
+<campaign_statistic>military_battles_victories_subterranean_intercept</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_victories</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Subterranean intercept victories:" last_edit_user="bob">Subterranean intercept victories:</localised_description>
+<statistic_order>370</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{16d3937b-3482-4e43-973a-e56ef4a18849}" record_timestamp="1479307756710" record_key="military_captives_enslaved">
+<campaign_statistic>military_captives_enslaved</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_aftermath</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="{{tr:statistics_captives_enslaved}}" last_edit_user="bob">{{tr:statistics_captives_enslaved}}</localised_description>
+<statistic_order>560</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{cafb46e4-0d70-420c-8b0b-b87e59f0286b}" record_timestamp="1479307756706" record_key="military_captives_executed">
+<campaign_statistic>military_captives_executed</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_aftermath</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="{{tr:statistics_captives_executed}}" last_edit_user="bob">{{tr:statistics_captives_executed}}</localised_description>
+<statistic_order>550</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{f226afc8-60e8-4c40-90fe-34adb171b601}" record_timestamp="1479307756709" record_key="military_captives_released">
+<campaign_statistic>military_captives_released</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_aftermath</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="{{tr:statistics_captives_released}}" last_edit_user="bob">{{tr:statistics_captives_released}}</localised_description>
+<statistic_order>540</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{3327bfcb-28d4-450a-a050-95d953eb66d1}" record_timestamp="1424433914785" record_key="military_forces_current">
+<campaign_statistic>military_forces_current</campaign_statistic>
+<campaign_statistic_category>stat_cat_military_forces</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Current forces:" last_edit_user="bob">Current forces:</localised_description>
+<statistic_order>20</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{e34a50a9-d6ac-4931-b6ff-a033f18f88f8}" record_timestamp="1424433913402" record_key="military_forces_established">
+<campaign_statistic>military_forces_established</campaign_statistic>
+<campaign_statistic_category>stat_cat_military_forces</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Total military forces established:" last_edit_user="bob">Total military forces established:</localised_description>
+<statistic_order>10</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{bfbc2864-ddfa-46d8-8dc1-42bc2f826ae5}" record_timestamp="1424433915933" record_key="military_forces_max">
+<campaign_statistic>military_forces_max</campaign_statistic>
+<campaign_statistic_category>stat_cat_military_forces</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Most concurrent forces:" last_edit_user="bob">Most concurrent forces:</localised_description>
+<statistic_order>30</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{d58503d8-3f90-4b55-ab9a-bc411e61613a}" record_timestamp="1443452431368" record_key="military_generals_killed">
+<campaign_statistic>military_generals_killed</campaign_statistic>
+<campaign_statistic_category>stat_cat_military_units</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Lords killed:" last_edit_user="bob">Lords killed:</localised_description>
+<statistic_order>470</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{29037341-d4ed-41d2-a047-fb3dcd966fb2}" record_timestamp="1443452431385" record_key="military_generals_lost">
+<campaign_statistic>military_generals_lost</campaign_statistic>
+<campaign_statistic_category>stat_cat_military_units</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Lords lost:" last_edit_user="bob">Lords lost:</localised_description>
+<statistic_order>480</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{dd52a340-2cbb-456c-be8e-d59748ee4d81}" record_timestamp="1443452431402" record_key="military_generals_recruited">
+<campaign_statistic>military_generals_recruited</campaign_statistic>
+<campaign_statistic_category>stat_cat_military_units</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Lords recruited:" last_edit_user="bob">Lords recruited:</localised_description>
+<statistic_order>460</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{ebeb63ea-587a-4288-bc58-bb8f856c808d}" record_timestamp="1452158264291" record_key="military_settlements_looted">
+<campaign_statistic>military_settlements_looted</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_aftermath</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Settlements looted and occupied:" last_edit_user="bob">Settlements looted and occupied:</localised_description>
+<statistic_order>410</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{72101d59-390f-4668-88c8-31fec7f29a63}" record_timestamp="1424433947934" record_key="military_settlements_occupied">
+<campaign_statistic>military_settlements_occupied</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_aftermath</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Settlements occupied:" last_edit_user="bob">Settlements occupied:</localised_description>
+<statistic_order>440</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{22110d44-01e1-44bb-b4da-30fb1a2c6f8f}" record_timestamp="1424433947480" record_key="military_settlements_raised">
+<campaign_statistic>military_settlements_raised</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_aftermath</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Settlements razed:" last_edit_user="bob">Settlements razed:</localised_description>
+<statistic_order>420</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{4d858448-da00-402c-87d1-f504c8dcb905}" record_timestamp="1424433947707" record_key="military_settlements_sacked">
+<campaign_statistic>military_settlements_sacked</campaign_statistic>
+<campaign_statistic_category>stat_cat_battles_aftermath</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Settlements sacked:" last_edit_user="bob">Settlements sacked:</localised_description>
+<statistic_order>430</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{4b4eec38-9b6c-4730-b841-cb1473569365}" record_timestamp="1424433951371" record_key="military_units_total_destroyed">
+<campaign_statistic>military_units_total_destroyed</campaign_statistic>
+<campaign_statistic_category>stat_cat_military_units</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Units destroyed:" last_edit_user="bob">Units destroyed:</localised_description>
+<statistic_order>520</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{d409d39f-faa5-443c-bf03-054fd3e51259}" record_timestamp="1452079394667" record_key="military_units_total_lost">
+<campaign_statistic>military_units_total_lost</campaign_statistic>
+<campaign_statistic_category>stat_cat_military_units</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Units lost:" last_edit_user="bob">Units lost:</localised_description>
+<statistic_order>530</statistic_order>
+</campaign_statistics_strings>
+<campaign_statistics_strings record_uuid="{0d9802aa-b3df-42ef-bfbd-8496d3fd1b9c}" record_timestamp="1452079394739" record_key="military_units_total_recruited">
+<campaign_statistic>military_units_total_recruited</campaign_statistic>
+<campaign_statistic_category>stat_cat_military_units</campaign_statistic_category>
+<localised_description state="APPROVED" last_approved_text="Units recruited:" last_edit_user="bob">Units recruited:</localised_description>
+<statistic_order>490</statistic_order>
+</campaign_statistics_strings>
+</dataroot>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_effect_scope_categories.xsd" export_time="Mon Aug 24 09:57:51 2015" revision="8" export_branch="C:/fetch_c/warhammer/binaries" export_user="bob">
+<edit_uuid>f9bfe0e1-6cf7-4bcb-a1dd-835b16976e37</edit_uuid>
+<campaign_effect_scope_categories record_uuid="{db08b709-344c-4e20-afab-4d9ab66267f6}" record_timestamp="1425551890159" record_key="scope_category_agent_action">
+<category_icon></category_icon>
+<key>scope_category_agent_action</key>
+<name_localised state="APPROVED" last_approved_text="Actions" last_edit_user="bob">Actions</name_localised>
+<sort_order>1</sort_order>
+</campaign_effect_scope_categories>
+<campaign_effect_scope_categories record_uuid="{5dbac659-0600-45de-833f-0773d01bcb21}" record_timestamp="1425551890159" record_key="scope_category_characters">
+<category_icon></category_icon>
+<key>scope_category_characters</key>
+<name_localised state="APPROVED" last_approved_text="Character" last_edit_user="bob">Character</name_localised>
+<sort_order>2</sort_order>
+</campaign_effect_scope_categories>
+<campaign_effect_scope_categories record_uuid="{be701975-2155-4c5d-89ca-af6f249002db}" record_timestamp="1425551890159" record_key="scope_category_enemy">
+<category_icon></category_icon>
+<key>scope_category_enemy</key>
+<name_localised state="APPROVED" last_approved_text="Enemy" last_edit_user="bob">Enemy</name_localised>
+<sort_order>7</sort_order>
+</campaign_effect_scope_categories>
+<campaign_effect_scope_categories record_uuid="{00e5f5ca-7853-468a-9e9b-f6ceea354f44}" record_timestamp="1425551890159" record_key="scope_category_faction">
+<category_icon></category_icon>
+<key>scope_category_faction</key>
+<name_localised state="APPROVED" last_approved_text="Faction" last_edit_user="bob">Faction</name_localised>
+<sort_order>5</sort_order>
+</campaign_effect_scope_categories>
+<campaign_effect_scope_categories record_uuid="{e982373d-cc1b-4a6f-a7db-964e841861fc}" record_timestamp="1425551890159" record_key="scope_category_force">
+<category_icon></category_icon>
+<key>scope_category_force</key>
+<name_localised state="APPROVED" last_approved_text="Military Force" last_edit_user="bob">Military Force</name_localised>
+<sort_order>3</sort_order>
+</campaign_effect_scope_categories>
+<campaign_effect_scope_categories record_uuid="{45bbe40e-c53b-4b1b-835d-1f8466030208}" record_timestamp="1425551890159" record_key="scope_category_horde">
+<category_icon></category_icon>
+<key>scope_category_horde</key>
+<name_localised state="APPROVED" last_approved_text="Horde Encampment" last_edit_user="bob">Horde Encampment</name_localised>
+<sort_order>4</sort_order>
+</campaign_effect_scope_categories>
+<campaign_effect_scope_categories record_uuid="{b1219d58-cae2-457e-90a8-b3be7b71959e}" record_timestamp="1425551890159" record_key="scope_category_province">
+<category_icon></category_icon>
+<key>scope_category_province</key>
+<name_localised state="APPROVED" last_approved_text="Region &amp; Province" last_edit_user="bob">Region &amp; Province</name_localised>
+<sort_order>4</sort_order>
+</campaign_effect_scope_categories>
+<campaign_effect_scope_categories record_uuid="{61ba6a76-6654-41f0-a8b0-b1bfb90721b8}" record_timestamp="1425551890159" record_key="scope_category_wife">
+<category_icon></category_icon>
+<key>scope_category_wife</key>
+<name_localised state="APPROVED" last_approved_text="Wife" last_edit_user="bob">Wife</name_localised>
+<sort_order>6</sort_order>
+</campaign_effect_scope_categories>
+</dataroot>

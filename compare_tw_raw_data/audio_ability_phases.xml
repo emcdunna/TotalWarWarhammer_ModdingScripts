@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="audio_ability_phases.xsd" export_time="Thu Feb 2 17:37:30 2017" revision="30" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>c38778a0-5448-4f94-9c30-d2623fa96885</edit_uuid>
+<audio_ability_phases record_uuid="{73a0c736-ec2b-48c9-be8c-ec9e6dbfa930}" record_timestamp="1468495368009" record_key="wh_ability_negative">
+<group_sound>wh_ability_negative_group</group_sound>
+<key>wh_ability_negative</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>300</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{2bcd87c2-0f31-41ca-bcba-51cd3eee49a8}" record_timestamp="1460467539257" record_key="wh_ability_negative_banner">
+<group_sound></group_sound>
+<key>wh_ability_negative_banner</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>300</max_distance>
+<start_event>Battle_IND_Magic_Generic_Debuff_One_Shot</start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{8b7b3499-8020-4277-9f06-581ac938af45}" record_timestamp="1486057050195" record_key="wh_ability_positive">
+<group_sound>wh_ability_positive_group</group_sound>
+<key>wh_ability_positive</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>300</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{c8f89dcc-3d50-4148-9b17-11ecb43cd72d}" record_timestamp="1460467539210" record_key="wh_ability_positive_banner">
+<group_sound></group_sound>
+<key>wh_ability_positive_banner</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>300</max_distance>
+<start_event>Battle_IND_Magic_Generic_Buff_One_Shot</start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{ec48db19-bc97-45f3-b74d-ec50ef54f84c}" record_timestamp="1468504191943" record_key="wh_dlc03_spell_beasts_curse_of_anraheir">
+<group_sound>wh_dlc03_spell_beasts_curse_of_anraheir</group_sound>
+<key>wh_dlc03_spell_beasts_curse_of_anraheir</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{77e6e1cf-8920-4b49-8908-82ad996d71f0}" record_timestamp="1468504191942" record_key="wh_dlc03_spell_beasts_flock_of_doom">
+<group_sound>wh_dlc03_spell_beasts_flock_of_doom</group_sound>
+<key>wh_dlc03_spell_beasts_flock_of_doom</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{dc16bcff-4aaf-4cf8-b6dd-44a0c8275c0d}" record_timestamp="1468504191943" record_key="wh_dlc03_spell_beasts_panns_impenetrable_pelt">
+<group_sound>wh_dlc03_spell_beasts_panns_impenetrable_pelt</group_sound>
+<key>wh_dlc03_spell_beasts_panns_impenetrable_pelt</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{63d3fa5c-0b0a-4213-9987-563b4aaa2bd3}" record_timestamp="1468504191942" record_key="wh_dlc03_spell_beasts_wyssans_wildform">
+<group_sound>wh_dlc03_spell_beasts_wyssans_wildform</group_sound>
+<key>wh_dlc03_spell_beasts_wyssans_wildform</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{75f1e139-0fcb-4d29-8f82-8467c27ed2a0}" record_timestamp="1468504191950" record_key="wh_dlc03_spell_wild_devolve">
+<group_sound>wh_dlc03_spell_wild_devolve</group_sound>
+<key>wh_dlc03_spell_wild_devolve</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{53b46402-9203-43b5-b42d-a14ef9d75d58}" record_timestamp="1468504191945" record_key="wh_dlc03_spell_wild_mantle_of_ghorok">
+<group_sound>wh_dlc03_spell_wild_mantle_of_ghorok</group_sound>
+<key>wh_dlc03_spell_wild_mantle_of_ghorok</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{3d3d6a5b-ae44-4966-b034-cd05b7075461}" record_timestamp="1468504191951" record_key="wh_dlc03_spell_wild_traitor_kin">
+<group_sound>wh_dlc03_spell_wild_traitor_kin</group_sound>
+<key>wh_dlc03_spell_wild_traitor_kin</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{4b4d8545-6115-4ca4-a837-bc03e9b039a7}" record_timestamp="1474282560018" record_key="wh_dlc04_unit_abilities_vigour_mortis">
+<group_sound></group_sound>
+<key>wh_dlc04_unit_abilities_vigour_mortis</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{a7e2f549-c2d3-49a1-afa3-e27573fe8e93}" record_timestamp="1486048141474" record_key="wh_dlc05_ability_shadows_coil">
+<group_sound>wh_dlc05_ability_shadows_coil</group_sound>
+<key>wh_dlc05_ability_shadows_coil</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{8db1585c-bada-437d-975b-e86768f7aa1c}" record_timestamp="1481038152467" record_key="wh_dlc05_spell_life_earth_blood">
+<group_sound>wh_dlc05_spell_life_earth_blood</group_sound>
+<key>wh_dlc05_spell_life_earth_blood</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{7e5eee68-ba8e-465a-af64-c3587ac006d1}" record_timestamp="1481038152473" record_key="wh_dlc05_spell_life_flesh_to_stone">
+<group_sound>wh_dlc05_spell_life_flesh_to_stone</group_sound>
+<key>wh_dlc05_spell_life_flesh_to_stone</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{2adf548f-19e9-473a-befc-b1bd8af49f1a}" record_timestamp="1481038152475" record_key="wh_dlc05_spell_life_regrowth">
+<group_sound>wh_dlc05_spell_life_regrowth</group_sound>
+<key>wh_dlc05_spell_life_regrowth</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{701edd67-cf3b-4f1a-af62-a2aa048544c7}" record_timestamp="1481038152474" record_key="wh_dlc05_spell_life_shield_of_thorns">
+<group_sound>wh_dlc05_spell_life_shield_of_thorns</group_sound>
+<key>wh_dlc05_spell_life_shield_of_thorns</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{3ba27b85-213e-4066-9463-e7d19be60b6b}" record_timestamp="1481037409664" record_key="wh_dlc05_spell_shadow_melkoths_mystifying_miasma">
+<group_sound>wh_dlc05_spell_shadow_melkoths_mystifying_miasma</group_sound>
+<key>wh_dlc05_spell_shadow_melkoths_mystifying_miasma</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{09b3f525-e8da-4685-b5bb-bb20a32af876}" record_timestamp="1481894420952" record_key="wh_dlc05_spell_shadow_okkams_mindrazor">
+<group_sound>wh_dlc05_spell_shadow_okkams_mindrazor</group_sound>
+<key>wh_dlc05_spell_shadow_okkams_mindrazor</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{5c589e99-f212-4876-a564-1ead47c26239}" record_timestamp="1481037409754" record_key="wh_dlc05_spell_shadow_the_enfeebling_foe">
+<group_sound>wh_dlc05_spell_shadow_the_enfeebling_foe</group_sound>
+<key>wh_dlc05_spell_shadow_the_enfeebling_foe</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{a6e25626-ad63-483f-9a92-ab6a217a0214}" record_timestamp="1481037409798" record_key="wh_dlc05_spell_shadow_the_withering">
+<group_sound>wh_dlc05_spell_shadow_the_withering</group_sound>
+<key>wh_dlc05_spell_shadow_the_withering</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{bab97464-b154-408d-ba9a-3a60cedff0f7}" record_timestamp="1479309440126" record_key="wh_dlc05_spell_shadow_the_withering_upgraded">
+<group_sound></group_sound>
+<key>wh_dlc05_spell_shadow_the_withering_upgraded</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>0</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>0</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{9b98d5a9-0c55-459b-b6e7-78258aaf3559}" record_timestamp="1477038872788" record_key="wh_dlc06_character_abilities_effagee_of_da_git">
+<group_sound>wh_dlc06_character_abilities_effagee_of_da_git</group_sound>
+<key>wh_dlc06_character_abilities_effagee_of_da_git</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>500</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{7dff6dfe-5296-4201-8e76-489394e1d51a}" record_timestamp="1486057050196" record_key="wh_dlc07_ability_favour_of_the_fay">
+<group_sound>wh_dlc07_ability_favour_of_the_fay_group</group_sound>
+<key>wh_dlc07_ability_favour_of_the_fay</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>300</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{1e0919c9-32e9-4624-b58c-7a34b31107e4}" record_timestamp="1474307046035" record_key="wh_main_character_abilities_foe_seeker">
+<group_sound>wh_ability_negative_group</group_sound>
+<key>wh_main_character_abilities_foe_seeker</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{ce91be5f-a648-4782-9771-092edf069581}" record_timestamp="1474307046033" record_key="wh_main_character_abilities_red_fury">
+<group_sound>wh_ability_positive_group</group_sound>
+<key>wh_main_character_abilities_red_fury</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{0e81894a-2d51-4e3b-8698-b39683a91b0c}" record_timestamp="1456322130631" record_key="wh_main_item_abilities_forbidden_rod">
+<group_sound>wh_main_spell_vampires_vanhels_danse_macabre</group_sound>
+<key>wh_main_item_abilities_forbidden_rod</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{cd22a8aa-0d07-471e-9bbc-c8a0298a880f}" record_timestamp="1460467533438" record_key="wh_main_item_abilities_potion_of_healing">
+<group_sound></group_sound>
+<key>wh_main_item_abilities_potion_of_healing</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>150</max_distance>
+<start_event>Battle_IND_Magic_Generic_Buff_One_Shot</start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{09ad1948-4e6b-46fd-9752-f93c2da745a3}" record_timestamp="1460467532756" record_key="wh_main_spell_big_waaagh_ere_we_go">
+<group_sound>wh_main_spell_big_waaagh_ere_we_go</group_sound>
+<key>wh_main_spell_big_waaagh_ere_we_go</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>500</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{6cacd75e-3d73-4603-9848-625a23863412}" record_timestamp="1455216867756" record_key="wh_main_spell_big_waaagh_fists_of_gork">
+<group_sound>wh_main_spell_big_waaagh_fists_of_gork</group_sound>
+<key>wh_main_spell_big_waaagh_fists_of_gork</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{48fabadb-c5f8-4a04-be2c-2b126d3b734f}" record_timestamp="1460467533391" record_key="wh_main_spell_death_aspect_of_the_dreadknight">
+<group_sound>wh_main_spell_death_aspect_of_the_dreadknight</group_sound>
+<key>wh_main_spell_death_aspect_of_the_dreadknight</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>500</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{d6dbb816-dfce-4618-85af-3cdf7b2545c9}" record_timestamp="1455216867748" record_key="wh_main_spell_death_doom_and_darkness">
+<group_sound>wh_main_spell_death_doom_and_darkness</group_sound>
+<key>wh_main_spell_death_doom_and_darkness</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{7ba287f4-bc32-40e0-a9aa-f4131be221e3}" record_timestamp="1455275889893" record_key="wh_main_spell_death_soulblight">
+<group_sound>wh_main_spell_death_soulblight</group_sound>
+<key>wh_main_spell_death_soulblight</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{8f45e953-6487-4efb-80c9-c2bd1294f39e}" record_timestamp="1461152292504" record_key="wh_main_spell_death_spirit_leech">
+<group_sound>wh_main_spell_death_spirit_leech</group_sound>
+<key>wh_main_spell_death_spirit_leech</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{eee86c83-8f8f-4507-b2c4-2e92741d2474}" record_timestamp="1455216867749" record_key="wh_main_spell_death_the_fate_of_bjuna">
+<group_sound>wh_main_spell_death_the_fate_of_bjuna</group_sound>
+<key>wh_main_spell_death_the_fate_of_bjuna</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{fe053788-225e-4724-ae28-b1a1b558611a}" record_timestamp="1455216867750" record_key="wh_main_spell_fire_cascading_fire_cloak">
+<group_sound>wh_main_spell_fire_cascading_fire_cloak</group_sound>
+<key>wh_main_spell_fire_cascading_fire_cloak</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{544a6642-fc07-42e0-9f6f-bbbc1079b773}" record_timestamp="1455216867750" record_key="wh_main_spell_fire_flaming_sword_of_rhuin">
+<group_sound>wh_main_spell_fire_flaming_sword_of_rhuin</group_sound>
+<key>wh_main_spell_fire_flaming_sword_of_rhuin</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{9d56d1c4-ef5e-434f-ae87-e105986689e1}" record_timestamp="1455216867751" record_key="wh_main_spell_heavens_curse_of_the_midnight_wind">
+<group_sound>wh_main_spell_heavens_curse_of_the_midnight_wind</group_sound>
+<key>wh_main_spell_heavens_curse_of_the_midnight_wind</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{6791dfe9-68d4-4ca6-80a0-903177de0008}" record_timestamp="1455216867750" record_key="wh_main_spell_heavens_harmonic_convergence">
+<group_sound>wh_main_spell_heavens_harmonic_convergence</group_sound>
+<key>wh_main_spell_heavens_harmonic_convergence</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{90ab1bf8-7a9b-46e3-923d-ea32e69d9d39}" record_timestamp="1454931169840" record_key="wh_main_spell_invocation_of_nehek">
+<group_sound>wh_main_spell_invocation_of_nehek</group_sound>
+<key>wh_main_spell_invocation_of_nehek</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{ae566e86-14de-4c7d-a7c1-f0ad0cf62882}" record_timestamp="1455216867751" record_key="wh_main_spell_light_bironas_timewarp">
+<group_sound>wh_main_spell_light_bironas_timewarp</group_sound>
+<key>wh_main_spell_light_bironas_timewarp</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{c720578d-64a8-424a-97eb-ce1d33d45613}" record_timestamp="1455216867752" record_key="wh_main_spell_light_light_of_battle">
+<group_sound>wh_main_spell_light_light_of_battle</group_sound>
+<key>wh_main_spell_light_light_of_battle</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{10a0e895-a235-4fcd-b1b5-7ddf1927369f}" record_timestamp="1455216867752" record_key="wh_main_spell_light_net_of_amyntok">
+<group_sound>wh_main_spell_light_net_of_amyntok</group_sound>
+<key>wh_main_spell_light_net_of_amyntok</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{1f8696da-b64a-4161-9a4b-08278ecde632}" record_timestamp="1455216867751" record_key="wh_main_spell_light_phas_protection">
+<group_sound>wh_main_spell_light_phas_protection</group_sound>
+<key>wh_main_spell_light_phas_protection</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{dcee736a-73a7-4fcc-8e83-4202ba87f4b0}" record_timestamp="1455216867753" record_key="wh_main_spell_lil_waaagh_gorkll_fix_it">
+<group_sound>wh_main_spell_lil_waaagh_gorkll_fix_it</group_sound>
+<key>wh_main_spell_lil_waaagh_gorkll_fix_it</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{0a2c69ee-109f-435a-8de7-400d883be634}" record_timestamp="1455216867753" record_key="wh_main_spell_lil_waaagh_itchy_nuisance">
+<group_sound>wh_main_spell_lil_waaagh_itchy_nuisance</group_sound>
+<key>wh_main_spell_lil_waaagh_itchy_nuisance</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{0115cf1f-089d-4e87-b7a3-712e5ee3d45c}" record_timestamp="1460467533341" record_key="wh_main_spell_lil_waaagh_night_shroud">
+<group_sound>wh_main_spell_lil_waaagh_night_shroud</group_sound>
+<key>wh_main_spell_lil_waaagh_night_shroud</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>150</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{38b99689-5ced-4c31-a9bc-a5e75f0a4753}" record_timestamp="1455216867753" record_key="wh_main_spell_lil_waaagh_sneaky_stabbin">
+<group_sound>wh_main_spell_lil_waaagh_sneaky_stabbin</group_sound>
+<key>wh_main_spell_lil_waaagh_sneaky_stabbin</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{aa746eea-d6c2-4d8e-b54f-775e509e99a6}" record_timestamp="1461152292504" record_key="wh_main_spell_metal_final_transmutation">
+<group_sound>wh_main_spell_metal_final_transmutation</group_sound>
+<key>wh_main_spell_metal_final_transmutation</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{8a4d6498-f987-4d9b-b739-52260d33c7aa}" record_timestamp="1455216867754" record_key="wh_main_spell_metal_glittering_robe">
+<group_sound>wh_main_spell_metal_glittering_robe</group_sound>
+<key>wh_main_spell_metal_glittering_robe</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{7c8770de-7d9b-4d4e-9bce-cd0a7256dd9f}" record_timestamp="1455216867755" record_key="wh_main_spell_metal_plague_of_rust">
+<group_sound>wh_main_spell_metal_plague_of_rust</group_sound>
+<key>wh_main_spell_metal_plague_of_rust</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{295c310e-6ca6-4239-90c1-e49b9b8e7a40}" record_timestamp="1455216867754" record_key="wh_main_spell_metal_transmutation_of_lead">
+<group_sound>wh_main_spell_metal_transmutation_of_lead</group_sound>
+<key>wh_main_spell_metal_transmutation_of_lead</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{28afb200-7006-417b-acee-459dc5da49c3}" record_timestamp="1454931169842" record_key="wh_main_spell_vampires_curse_of_years">
+<group_sound>wh_main_spell_vampires_curse_of_years</group_sound>
+<key>wh_main_spell_vampires_curse_of_years</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{7dfcf41d-a0f4-439a-8482-4e4ef9d79157}" record_timestamp="1454931169842" record_key="wh_main_spell_vampires_vanhels_danse_macabre">
+<group_sound>wh_main_spell_vampires_vanhels_danse_macabre</group_sound>
+<key>wh_main_spell_vampires_vanhels_danse_macabre</key>
+<looping_group_sound>0</looping_group_sound>
+<max_distance>700</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+<audio_ability_phases record_uuid="{12392563-65d5-41f7-ba25-cc78627c82c0}" record_timestamp="1479323158771" record_key="wh_main_unit_abilities_entrenchment">
+<group_sound>wh_ability_positive_group</group_sound>
+<key>wh_main_unit_abilities_entrenchment</key>
+<looping_group_sound>1</looping_group_sound>
+<max_distance>300</max_distance>
+<start_event></start_event>
+<stop_event></stop_event>
+<switch></switch>
+<use_reverb>1</use_reverb>
+</audio_ability_phases>
+</dataroot>

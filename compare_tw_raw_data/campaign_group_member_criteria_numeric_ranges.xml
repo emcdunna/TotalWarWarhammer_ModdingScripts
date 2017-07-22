@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_group_member_criteria_numeric_ranges.xsd" export_time="Mon Feb 13 18:45:31 2017" revision="5" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>76660088-a730-4d43-a3a5-e3b39fb6bdbf</edit_uuid>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{acd0abfa-ff94-423a-94b1-a377c3946ac7}" record_timestamp="1477041415417" record_key="wh_beastmen_morale_high">
+<max_range>100</max_range>
+<member>wh_beastmen_morale_high</member>
+<min_range>71</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{13276f36-3ba6-47fc-b820-f5060761b30d}" record_timestamp="1477041415420" record_key="wh_beastmen_morale_low">
+<max_range>40</max_range>
+<member>wh_beastmen_morale_low</member>
+<min_range>21</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{461aad47-34b1-4c32-b133-ac2ab7210981}" record_timestamp="1477041415424" record_key="wh_beastmen_morale_mid">
+<max_range>70</max_range>
+<member>wh_beastmen_morale_mid</member>
+<min_range>41</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{89e0ebf8-3ff4-4221-a605-427084afca6e}" record_timestamp="1477041415427" record_key="wh_beastmen_morale_very_low">
+<max_range>20</max_range>
+<member>wh_beastmen_morale_very_low</member>
+<min_range>0</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{33d152df-33f4-45d3-b50c-a57d9b7f1787}" record_timestamp="1479336394413" record_key="wh_dlc05_wood_elves_food_-10_-20">
+<max_range>-11</max_range>
+<member>wh_dlc05_wood_elves_food_-10_-20</member>
+<min_range>-20</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{e303d74b-9b0d-444b-94ef-f50cb7404135}" record_timestamp="1479336394414" record_key="wh_dlc05_wood_elves_food_-20_-100">
+<max_range>-21</max_range>
+<member>wh_dlc05_wood_elves_food_-20_-100</member>
+<min_range>-2147483647</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{974b2acb-c053-4dff-b4d9-7d3cdacbb339}" record_timestamp="1479336396418" record_key="wh_dlc05_wood_elves_food_0_-10">
+<max_range>-1</max_range>
+<member>wh_dlc05_wood_elves_food_0_-10</member>
+<min_range>-10</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{39c35bac-3ee5-4bd2-9f7c-1ed13583c20f}" record_timestamp="1487011526016" record_key="wh_dlc07_bretonnia_chivalry_0_200">
+<max_range>199</max_range>
+<member>wh_dlc07_bretonnia_chivalry_0_200</member>
+<min_range>0</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{7a9cc95a-251b-4d72-b9d1-ffe4657419c3}" record_timestamp="1487011526157" record_key="wh_dlc07_bretonnia_chivalry_201_400">
+<max_range>399</max_range>
+<member>wh_dlc07_bretonnia_chivalry_201_400</member>
+<min_range>200</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{eb779354-e5d2-4e90-85c3-fda80fe7bb88}" record_timestamp="1487011526136" record_key="wh_dlc07_bretonnia_chivalry_401_600">
+<max_range>599</max_range>
+<member>wh_dlc07_bretonnia_chivalry_401_600</member>
+<min_range>400</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{6b30738b-5774-44fd-9306-66a108d51d3f}" record_timestamp="1487011526114" record_key="wh_dlc07_bretonnia_chivalry_601_800">
+<max_range>799</max_range>
+<member>wh_dlc07_bretonnia_chivalry_601_800</member>
+<min_range>600</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{a4ff5b1a-bdf3-4575-b8ec-fdd6018f1016}" record_timestamp="1487011526094" record_key="wh_dlc07_bretonnia_chivalry_801_1000">
+<max_range>9999999</max_range>
+<member>wh_dlc07_bretonnia_chivalry_801_1000</member>
+<min_range>800</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{49895977-e4f8-437d-b5f2-23be5dfc314d}" record_timestamp="1483637671140" record_key="wh_dlc07_bretonnia_chivalry_negative">
+<max_range>-1</max_range>
+<member>wh_dlc07_bretonnia_chivalry_negative</member>
+<min_range>-9999999</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{1027edd0-91fe-4107-8d0e-09e7a1e16c3b}" record_timestamp="1477041415431" record_key="wh_greenskins_morale_high">
+<max_range>100</max_range>
+<member>wh_greenskins_morale_high</member>
+<min_range>71</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{85b47c3c-0fdf-40cd-8d52-998f8397a46b}" record_timestamp="1477041415434" record_key="wh_greenskins_morale_low">
+<max_range>40</max_range>
+<member>wh_greenskins_morale_low</member>
+<min_range>21</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{c97c7a18-ee56-4096-b220-5533e2c60ed1}" record_timestamp="1477041415437" record_key="wh_greenskins_morale_mid">
+<max_range>70</max_range>
+<member>wh_greenskins_morale_mid</member>
+<min_range>41</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+<campaign_group_member_criteria_numeric_ranges record_uuid="{1c48e5ea-0d0d-4c26-8a57-f06960310aeb}" record_timestamp="1477041415441" record_key="wh_greenskins_morale_very_low">
+<max_range>20</max_range>
+<member>wh_greenskins_morale_very_low</member>
+<min_range>0</min_range>
+</campaign_group_member_criteria_numeric_ranges>
+</dataroot>

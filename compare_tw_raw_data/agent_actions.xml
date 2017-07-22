@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="agent_actions.xsd" export_time="Mon Sep 19 14:59:34 2016" revision="115" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>8468f328-8b35-4c40-9257-29b88c22c8a1</edit_uuid>
+<agent_actions record_uuid="{5d0742d7-19c3-406a-846e-446cf32a2bfc}" record_timestamp="1453975924768" record_key="wh_main_agent_action_champion_assist_army">
+<ability>assist_army</ability>
+<agent>champion</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_champion_assist_army_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Grants %n experience per turn to units serving in the parent army.[[/col]]" last_edit_user="bob">[[col:yellow]]Grants %n experience per turn to units serving in the parent army.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Training" last_edit_user="bob">Training</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_champion_assist_army</unique_id>
+<voiceover>vo_campaign_action_own_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{4b198ede-61a1-4ba2-aac0-0ba845457fb3}" record_timestamp="1453975924834" record_key="wh_main_agent_action_champion_assist_army_default">
+<ability>assist_army</ability>
+<agent>champion</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_all_assist_army_default_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Embeds the [[img:icon_hero]][[/img]]Hero into the army, joining it in battle.[[/col]]" last_edit_user="bob">[[col:yellow]]Embeds the [[img:icon_hero]][[/img]]Hero into the army, joining it in battle.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Embed Hero" last_edit_user="bob">Embed Hero</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_champion_assist_army_default</unique_id>
+<voiceover>vo_campaign_action_own_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{7375e7fe-96a8-47b7-a037-33e298c5f7b4}" record_timestamp="1453975925517" record_key="wh_main_agent_action_champion_assist_province">
+<ability>assist_province</ability>
+<agent>champion</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_champion_assist_province_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Increases [[img:icon_public_order]][[/img]]{{tr:public_order}} in the local province by %n.[[/col]]" last_edit_user="bob">[[col:yellow]]Increases [[img:icon_public_order]][[/img]]{{tr:public_order}} in the local province by %n.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Inspire Populace" last_edit_user="bob">Inspire Populace</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_champion_assist_province</unique_id>
+<voiceover>vo_campaign_action_own_region</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{7d814260-93ff-47f3-bc45-b8f67d5d155d}" record_timestamp="1453975925941" record_key="wh_main_agent_action_champion_hinder_army">
+<ability>hinder_army</ability>
+<agent>champion</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>50</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_army_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>0.75</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_champion_hinder_army_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_army_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Inflicts damage upon all units in the target army.[[/col]]" last_edit_user="bob">[[col:yellow]]Inflicts damage upon all units in the target army.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Assault Units" last_edit_user="bob">Assault Units</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_army_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_champion_hinder_army_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_champion_hinder_army</unique_id>
+<voiceover>vo_campaign_action_enemy_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{642c4617-28b8-4fe9-87ce-bcb3aae29047}" record_timestamp="1455785524791" record_key="wh_main_agent_action_champion_hinder_army_horde">
+<ability>hinder_army</ability>
+<agent>champion</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_dignitary_hinder_army_success</cannot_fail>
+<chance_of_success>45</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_army_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dignitary_hinder_army_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_army_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies the [[img:icon_morale]][[/img]]leadership of the target army by %n.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies the [[img:icon_morale]][[/img]]leadership of the target army by %n.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Demoralise Army" last_edit_user="bob">Demoralise Army</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_army_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dignitary_hinder_army_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_champion_hinder_army_horde</unique_id>
+<voiceover>vo_campaign_action_enemy_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{08063d7b-95d1-44fc-bab2-068c3ef9ccb4}" record_timestamp="1453975926539" record_key="wh_main_agent_action_champion_hinder_character">
+<ability>hinder_character</ability>
+<agent>champion</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>30</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_character_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_all_hinder_character_critical_success</critical_success>
+<critical_success_proportion_modifier>3</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_character_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Kills the target character.[[/col]]" last_edit_user="bob">[[col:yellow]]Kills the target character.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Assassinate" last_edit_user="bob">Assassinate</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_character_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_all_hinder_character_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_champion_hinder_character</unique_id>
+<voiceover>vo_campaign_action_enemy_character</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{03b1468a-1584-458e-acdc-7922e63b9ab3}" record_timestamp="1455785524779" record_key="wh_main_agent_action_champion_hinder_province">
+<ability>hinder_province</ability>
+<agent>champion</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_champion_hinder_province_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies [[img:icon_public_order]][[/img]]{{tr:public_order}} in the local province by %n.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies [[img:icon_public_order]][[/img]]{{tr:public_order}} in the local province by %n.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Discourage Populace" last_edit_user="bob">Discourage Populace</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_champion_hinder_province</unique_id>
+<voiceover>vo_campaign_action_enemy_region</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{2a3ca9c4-07d3-437c-acc2-495ef63fbd17}" record_timestamp="1453975927486" record_key="wh_main_agent_action_champion_hinder_settlement">
+<ability>hinder_settlement</ability>
+<agent>champion</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>50</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_settlement_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>0.75</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_champion_hinder_settlement_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_settlement_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Inflicts damage upon a member of the garrison in the target settlement.[[/col]]" last_edit_user="bob">[[col:yellow]]Inflicts damage upon a member of the garrison in the target settlement.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Assault Garrison" last_edit_user="bob">Assault Garrison</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_settlement_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_champion_hinder_settlement_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_champion_hinder_settlement</unique_id>
+<voiceover>vo_campaign_action_enemy_settlement</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{aa4e3c7b-4a0d-47d0-88dd-9975ef4a67fd}" record_timestamp="1453975927562" record_key="wh_main_agent_action_champion_hinder_settlement_horde">
+<ability>hinder_settlement</ability>
+<agent>champion</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>50</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_settlement_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>0.75</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_champion_hinder_settlement_horde_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_settlement_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Inflicts damage upon the entire garrison in the target settlement.[[/col]]" last_edit_user="bob">[[col:yellow]]Inflicts damage upon the entire garrison in the target settlement.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Storm Garrison" last_edit_user="bob">Storm Garrison</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_settlement_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_champion_hinder_settlement_horde_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_champion_hinder_settlement_horde</unique_id>
+<voiceover>vo_campaign_action_enemy_settlement</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{77843bd7-b10a-4785-8ba9-a19b2ba56279}" record_timestamp="1456304422307" record_key="wh_main_agent_action_champion_passive">
+<ability>passive_ability</ability>
+<agent>champion</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Reduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Reduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Cleanse Corruption" last_edit_user="bob">Cleanse Corruption</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_champion_passive</unique_id>
+<voiceover>vo_campaign_action_passive</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{8f44ba30-d6dc-4767-9c85-c4007f4f1bd1}" record_timestamp="1471865779674" record_key="wh_main_agent_action_dignitary_assist_army">
+<ability>assist_army</ability>
+<agent>dignitary</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_dignitary_assist_army_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Increases [[img:icon_replenishment]][[/img]]replenishment of the parent army by %n%.[[/col]]" last_edit_user="bob">[[col:yellow]]Increases [[img:icon_replenishment]][[/img]]replenishment of the parent army by %n%.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Heal Troops" last_edit_user="bob">Heal Troops</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_dignitary_assist_army</unique_id>
+<voiceover>vo_campaign_action_own_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{851d0b0b-27a4-4bd7-bd22-3cd185114c65}" record_timestamp="1453975924945" record_key="wh_main_agent_action_dignitary_assist_army_default">
+<ability>assist_army</ability>
+<agent>dignitary</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_all_assist_army_default_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Embeds the [[img:icon_hero]][[/img]]Hero into the army, joining it in battle.[[/col]]" last_edit_user="bob">[[col:yellow]]Embeds the [[img:icon_hero]][[/img]]Hero into the army, joining it in battle.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Embed Hero" last_edit_user="bob">Embed Hero</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_dignitary_assist_army_default</unique_id>
+<voiceover>vo_campaign_action_own_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{b46de4b3-2d6a-4160-b071-b097db249e1b}" record_timestamp="1453975925588" record_key="wh_main_agent_action_dignitary_assist_province">
+<ability>assist_province</ability>
+<agent>dignitary</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_dignitary_assist_province_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Increases [[img:icon_growth]][[/img]]growth in the local province by %n.[[/col]]" last_edit_user="bob">[[col:yellow]]Increases [[img:icon_growth]][[/img]]growth in the local province by %n.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Pray" last_edit_user="bob">Pray</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_dignitary_assist_province</unique_id>
+<voiceover>vo_campaign_action_own_region</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{7b0f25ee-1517-4e44-831d-fd8b0cf24aa0}" record_timestamp="1455785524804" record_key="wh_main_agent_action_dignitary_hinder_army">
+<ability>hinder_army</ability>
+<agent>dignitary</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_dignitary_hinder_army_success</cannot_fail>
+<chance_of_success>45</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_army_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dignitary_hinder_army_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_army_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies the [[img:icon_morale]][[/img]]leadership of the target army by %n.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies the [[img:icon_morale]][[/img]]leadership of the target army by %n.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Demoralise Army" last_edit_user="bob">Demoralise Army</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_army_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dignitary_hinder_army_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_dignitary_hinder_army</unique_id>
+<voiceover>vo_campaign_action_enemy_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{38f8fecc-5ac2-4e99-b357-cdb26554728b}" record_timestamp="1453975926613" record_key="wh_main_agent_action_dignitary_hinder_character">
+<ability>hinder_character</ability>
+<agent>dignitary</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>25</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_character_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1.5</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_all_hinder_character_critical_success</critical_success>
+<critical_success_proportion_modifier>3</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_character_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Kills the target character.[[/col]]" last_edit_user="bob">[[col:yellow]]Kills the target character.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Assassinate" last_edit_user="bob">Assassinate</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_character_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_all_hinder_character_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_dignitary_hinder_character</unique_id>
+<voiceover>vo_campaign_action_enemy_character</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{f15443ea-f9da-4b52-b837-9d7ff4f0cebe}" record_timestamp="1455785524817" record_key="wh_main_agent_action_dignitary_hinder_province">
+<ability>hinder_province</ability>
+<agent>dignitary</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_dignitary_hinder_province_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies [[img:icon_growth]][[/img]]growth in the local province by %n.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies [[img:icon_growth]][[/img]]growth in the local province by %n.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Inhibit" last_edit_user="bob">Inhibit</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_dignitary_hinder_province</unique_id>
+<voiceover>vo_campaign_action_enemy_region</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{61515491-a6db-470e-a933-be9eb0de36ce}" record_timestamp="1453975927639" record_key="wh_main_agent_action_dignitary_hinder_settlement">
+<ability>hinder_settlement</ability>
+<agent>dignitary</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>45</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_settlement_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dignitary_hinder_settlement_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_settlement_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Inflicts damage upon a building in the target settlement.[[/col]]" last_edit_user="bob">[[col:yellow]]Inflicts damage upon a building in the target settlement.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Damage Building" last_edit_user="bob">Damage Building</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_settlement_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dignitary_hinder_settlement_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_dignitary_hinder_settlement</unique_id>
+<voiceover>vo_campaign_action_enemy_settlement</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{8cb7f0b9-b523-4f90-8471-e6dcc655a62e}" record_timestamp="1456304422327" record_key="wh_main_agent_action_dignitary_passive">
+<ability>passive_ability</ability>
+<agent>dignitary</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Reduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Reduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Cleanse Corruption" last_edit_user="bob">Cleanse Corruption</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_dignitary_passive</unique_id>
+<voiceover>vo_campaign_action_passive</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{658565ac-10d6-46eb-9876-05a6ad8ca71d}" record_timestamp="1453975925005" record_key="wh_main_agent_action_engineer_assist_army">
+<ability>assist_army</ability>
+<agent>engineer</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_engineer_assist_army_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Increases the campaign movement range of the parent army by %n%.[[/col]]" last_edit_user="bob">[[col:yellow]]Increases the campaign movement range of the parent army by %n%.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Heavy Lifting" last_edit_user="bob">Heavy Lifting</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_engineer_assist_army</unique_id>
+<voiceover>vo_campaign_action_own_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{b00e41c6-63fa-401c-8f99-021b80bf78d1}" record_timestamp="1453975925063" record_key="wh_main_agent_action_engineer_assist_army_default">
+<ability>assist_army</ability>
+<agent>engineer</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_all_assist_army_default_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Embeds the [[img:icon_hero]][[/img]]Hero into the army, joining it in battle.[[/col]]" last_edit_user="bob">[[col:yellow]]Embeds the [[img:icon_hero]][[/img]]Hero into the army, joining it in battle.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Embed Hero" last_edit_user="bob">Embed Hero</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_engineer_assist_army_default</unique_id>
+<voiceover>vo_campaign_action_own_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{ef23be3d-580b-4e10-afed-f79dc3d97c5b}" record_timestamp="1455785524892" record_key="wh_main_agent_action_engineer_assist_province">
+<ability>assist_province</ability>
+<agent>engineer</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_engineer_assist_province_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies {{tr:icon_money}}construction costs in the local province by %n%.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies {{tr:icon_money}}construction costs in the local province by %n%.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Knuckle Down" last_edit_user="bob">Knuckle Down</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_engineer_assist_province</unique_id>
+<voiceover>vo_campaign_action_own_region</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{aab51c34-65a6-4ff7-b7ff-cb60a1c89981}" record_timestamp="1455785524909" record_key="wh_main_agent_action_engineer_hinder_army">
+<ability>hinder_army</ability>
+<agent>engineer</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_engineer_hinder_army_success</cannot_fail>
+<chance_of_success>50</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_army_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>0.75</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_engineer_hinder_army_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_army_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies the campaign movement range of the target army by %n%.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies the campaign movement range of the target army by %n%.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Sabotage" last_edit_user="bob">Sabotage</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_army_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_engineer_hinder_army_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_engineer_hinder_army</unique_id>
+<voiceover>vo_campaign_action_enemy_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{2899644a-8235-4be7-beb0-0a4d559e3d1e}" record_timestamp="1453975926686" record_key="wh_main_agent_action_engineer_hinder_character">
+<ability>hinder_character</ability>
+<agent>engineer</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>25</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_character_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1.5</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_all_hinder_character_critical_success</critical_success>
+<critical_success_proportion_modifier>3</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_character_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Kills the target character.[[/col]]" last_edit_user="bob">[[col:yellow]]Kills the target character.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Assassinate" last_edit_user="bob">Assassinate</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_character_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_all_hinder_character_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_engineer_hinder_character</unique_id>
+<voiceover>vo_campaign_action_enemy_character</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{ecd9cf89-e431-4f8e-b74f-e3573bb8cc84}" record_timestamp="1455785524926" record_key="wh_main_agent_action_engineer_hinder_province">
+<ability>hinder_province</ability>
+<agent>engineer</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_engineer_hinder_province_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies the ammunition of enemy armies' artillery in the local province by %n%.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies the ammunition of enemy armies' artillery in the local province by %n%.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Tinker" last_edit_user="bob">Tinker</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_engineer_hinder_province</unique_id>
+<voiceover>vo_campaign_action_enemy_region</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{bf3c6611-0000-40d7-b774-ab19a274725d}" record_timestamp="1453975927717" record_key="wh_main_agent_action_engineer_hinder_settlement">
+<ability>hinder_settlement</ability>
+<agent>engineer</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>50</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_settlement_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>0.75</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_engineer_hinder_settlement_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_settlement_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Damages the walls of the target settlement.[[/col]]" last_edit_user="bob">[[col:yellow]]Damages the walls of the target settlement.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Damage Walls" last_edit_user="bob">Damage Walls</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_settlement_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_engineer_hinder_settlement_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_engineer_hinder_settlement</unique_id>
+<voiceover>vo_campaign_action_enemy_settlement</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{005a57f7-273e-417d-9c7d-9c11b82be568}" record_timestamp="1456304422347" record_key="wh_main_agent_action_engineer_passive">
+<ability>passive_ability</ability>
+<agent>engineer</agent>
+<attribute>zeal</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/placeholder.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Reduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Reduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Cleanse Corruption" last_edit_user="bob">Cleanse Corruption</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>zeal</target_attribute>
+<unique_id>wh_main_agent_action_engineer_passive</unique_id>
+<voiceover>vo_campaign_action_passive</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{9a48f8cc-e92d-4eed-86f5-cff41b95ea06}" record_timestamp="1455785524977" record_key="wh_main_agent_action_runesmith_assist_army">
+<ability>assist_army</ability>
+<agent>runesmith</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_runesmith_assist_army_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against the parent army by %n%.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against the parent army by %n%.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Awareness" last_edit_user="bob">Awareness</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_runesmith_assist_army</unique_id>
+<voiceover>vo_campaign_action_own_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{82b039df-c8b7-4bcd-abcc-52f812b14ec4}" record_timestamp="1453975925186" record_key="wh_main_agent_action_runesmith_assist_army_default">
+<ability>assist_army</ability>
+<agent>runesmith</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_all_assist_army_default_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Embeds the [[img:icon_hero]][[/img]]Hero into the army, joining it in battle.[[/col]]" last_edit_user="bob">[[col:yellow]]Embeds the [[img:icon_hero]][[/img]]Hero into the army, joining it in battle.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Embed Hero" last_edit_user="bob">Embed Hero</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_runesmith_assist_army_default</unique_id>
+<voiceover>vo_campaign_action_own_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{5e5c9f6d-8ac2-4f6e-b0a8-73d992f9e677}" record_timestamp="1474291326627" record_key="wh_main_agent_action_runesmith_assist_province">
+<ability>assist_province</ability>
+<agent>runesmith</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_runesmith_assist_province_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against settlements in the local province by %n%.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against settlements in the local province by %n%.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Runic Seal" last_edit_user="bob">Runic Seal</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_runesmith_assist_province</unique_id>
+<voiceover>vo_campaign_action_own_region</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{31d98b51-ec60-431d-87a5-32b2361fa6be}" record_timestamp="1460469405426" record_key="wh_main_agent_action_runesmith_hinder_army">
+<ability>hinder_army</ability>
+<agent>runesmith</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_runesmith_hinder_army_success</cannot_fail>
+<chance_of_success>45</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_army_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_runesmith_hinder_army_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_army_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies the Winds of Magic [[img:icon_wom_power]][[/img]]power reserve for the target army by %n.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies the Winds of Magic [[img:icon_wom_power]][[/img]]power reserve for the target army by %n.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Block Magic" last_edit_user="bob">Block Magic</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_army_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_runesmith_hinder_army_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_runesmith_hinder_army</unique_id>
+<voiceover>vo_campaign_action_enemy_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{607d857f-26c7-4604-9467-a820a6484c87}" record_timestamp="1453975926777" record_key="wh_main_agent_action_runesmith_hinder_character">
+<ability>hinder_character</ability>
+<agent>runesmith</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>25</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_character_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1.5</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_all_hinder_character_critical_success</critical_success>
+<critical_success_proportion_modifier>3</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_character_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Kills the target character.[[/col]]" last_edit_user="bob">[[col:yellow]]Kills the target character.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Assassinate" last_edit_user="bob">Assassinate</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_character_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_all_hinder_character_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_runesmith_hinder_character</unique_id>
+<voiceover>vo_campaign_action_enemy_character</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{2e7d312c-c34b-4c6f-9d1e-b2eece1ba013}" record_timestamp="1453975927255" record_key="wh_main_agent_action_runesmith_hinder_province">
+<ability>hinder_province</ability>
+<agent>runesmith</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_runesmith_hinder_province_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Reduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by %n.[[/col]]" last_edit_user="bob">[[col:yellow]]Reduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by %n.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Runic Protection" last_edit_user="bob">Runic Protection</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_runesmith_hinder_province</unique_id>
+<voiceover>vo_campaign_action_enemy_region</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{296b933f-cfa8-46b5-bcd7-de938df7a722}" record_timestamp="1453975927796" record_key="wh_main_agent_action_runesmith_hinder_settlement">
+<ability>hinder_settlement</ability>
+<agent>runesmith</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>45</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_settlement_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_runesmith_hinder_settlement_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_settlement_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Inflicts damage upon all buildings in the target settlement.[[/col]]" last_edit_user="bob">[[col:yellow]]Inflicts damage upon all buildings in the target settlement.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Damage Settlement" last_edit_user="bob">Damage Settlement</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_settlement_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_runesmith_hinder_settlement_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_runesmith_hinder_settlement</unique_id>
+<voiceover>vo_campaign_action_enemy_settlement</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{734c0b50-5319-4842-84cb-b775d15b8eb5}" record_timestamp="1456304422367" record_key="wh_main_agent_action_runesmith_passive">
+<ability>passive_ability</ability>
+<agent>runesmith</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Reduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Reduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Cleanse Corruption" last_edit_user="bob">Cleanse Corruption</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_runesmith_passive</unique_id>
+<voiceover>vo_campaign_action_passive</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{003a99da-97ab-461d-a3e4-aceaf5a82be9}" record_timestamp="1455785524831" record_key="wh_main_agent_action_spy_assist_army">
+<ability>assist_army</ability>
+<agent>spy</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_spy_assist_army_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against the parent army by %n%.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against the parent army by %n%.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Guard" last_edit_user="bob">Guard</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_spy_assist_army</unique_id>
+<voiceover>vo_campaign_action_own_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{a30e05df-8391-4c40-aedd-dbc806f96351}" record_timestamp="1453975925312" record_key="wh_main_agent_action_spy_assist_army_default">
+<ability>assist_army</ability>
+<agent>spy</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_all_assist_army_default_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Embeds the [[img:icon_hero]][[/img]]Hero into the army, joining it in battle.[[/col]]" last_edit_user="bob">[[col:yellow]]Embeds the [[img:icon_hero]][[/img]]Hero into the army, joining it in battle.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Embed Hero" last_edit_user="bob">Embed Hero</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_spy_assist_army_default</unique_id>
+<voiceover>vo_campaign_action_own_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{6522081d-d3f0-4d03-b891-352bd2267cac}" record_timestamp="1474291326628" record_key="wh_main_agent_action_spy_assist_province">
+<ability>assist_province</ability>
+<agent>spy</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_spy_assist_province_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against settlements in the local province by %n%.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies the success chance of enemy [[img:icon_hero]][[/img]]Hero actions against settlements in the local province by %n%.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Scout" last_edit_user="bob">Scout</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_spy_assist_province</unique_id>
+<voiceover>vo_campaign_action_own_region</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{086539f9-860a-4d78-89dd-89abd4c89a7a}" record_timestamp="1455785524861" record_key="wh_main_agent_action_spy_hinder_army">
+<ability>hinder_army</ability>
+<agent>spy</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_spy_hinder_army_success</cannot_fail>
+<chance_of_success>60</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_army_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>0.5</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_spy_hinder_army_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_army_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies the campaign movement range of the target army by %n%.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies the campaign movement range of the target army by %n%.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Block Army" last_edit_user="bob">Block Army</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_army_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_spy_hinder_army_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_spy_hinder_army</unique_id>
+<voiceover>vo_campaign_action_enemy_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{297af31b-53f0-4c65-8b8d-fbcdcf803b9f}" record_timestamp="1453975926854" record_key="wh_main_agent_action_spy_hinder_character">
+<ability>hinder_character</ability>
+<agent>spy</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>35</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_character_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>0.5</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_all_hinder_character_critical_success</critical_success>
+<critical_success_proportion_modifier>3</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_character_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Kills the target character.[[/col]]" last_edit_user="bob">[[col:yellow]]Kills the target character.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Assassinate" last_edit_user="bob">Assassinate</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_character_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_all_hinder_character_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_spy_hinder_character</unique_id>
+<voiceover>vo_campaign_action_enemy_character</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{bcfb1d70-3d75-499c-beb0-731e4f6475a7}" record_timestamp="1455785524876" record_key="wh_main_agent_action_spy_hinder_province">
+<ability>hinder_province</ability>
+<agent>spy</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_spy_hinder_province_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies the {{tr:icon_income}}income generated by enemy buildings in local province by %n%.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies the {{tr:icon_income}}income generated by enemy buildings in local province by %n%.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Infiltrate" last_edit_user="bob">Infiltrate</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_spy_hinder_province</unique_id>
+<voiceover>vo_campaign_action_enemy_region</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{a754163d-3811-468b-9a6c-21f3ff8ba846}" record_timestamp="1453975927873" record_key="wh_main_agent_action_spy_hinder_settlement">
+<ability>hinder_settlement</ability>
+<agent>spy</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>60</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_settlement_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>0.5</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_spy_hinder_settlement_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_settlement_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Damages the walls of the target settlement.[[/col]]" last_edit_user="bob">[[col:yellow]]Damages the walls of the target settlement.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Damage Walls" last_edit_user="bob">Damage Walls</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_settlement_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_spy_hinder_settlement_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_spy_hinder_settlement</unique_id>
+<voiceover>vo_campaign_action_enemy_settlement</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{d1747387-3f71-4290-88e0-e4705c904f66}" record_timestamp="1456304422390" record_key="wh_main_agent_action_spy_passive">
+<ability>passive_ability</ability>
+<agent>spy</agent>
+<attribute>subterfuge</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Reduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Reduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Cleanse Corruption" last_edit_user="bob">Cleanse Corruption</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>subterfuge</target_attribute>
+<unique_id>wh_main_agent_action_spy_passive</unique_id>
+<voiceover>vo_campaign_action_passive</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{c9468f5e-026b-4589-b88a-046270701883}" record_timestamp="1453975925380" record_key="wh_main_agent_action_wizard_assist_army">
+<ability>assist_army</ability>
+<agent>wizard</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_wizard_assist_army_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Increases the chance of post-battle magic item drops for the parent army by %n%.[[/col]]" last_edit_user="bob">[[col:yellow]]Increases the chance of post-battle magic item drops for the parent army by %n%.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Scouting" last_edit_user="bob">Scouting</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_wizard_assist_army</unique_id>
+<voiceover>vo_campaign_action_own_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{606d48a1-b184-4894-96ef-ed1f7a578d32}" record_timestamp="1453975925446" record_key="wh_main_agent_action_wizard_assist_army_default">
+<ability>assist_army</ability>
+<agent>wizard</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_all_assist_army_default_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Embeds the [[img:icon_hero]][[/img]]Hero into the army, joining it in battle.[[/col]]" last_edit_user="bob">[[col:yellow]]Embeds the [[img:icon_hero]][[/img]]Hero into the army, joining it in battle.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Embed Hero" last_edit_user="bob">Embed Hero</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_wizard_assist_army_default</unique_id>
+<voiceover>vo_campaign_action_own_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{8bb7be43-4c09-4b19-b30c-f6365c5f8d5e}" record_timestamp="1455785524759" record_key="wh_main_agent_action_wizard_assist_province">
+<ability>assist_province</ability>
+<agent>wizard</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_wizard_assist_province_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies {{tr:icon_money}}construction costs in the local province by %n%.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies {{tr:icon_money}}construction costs in the local province by %n%.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Planning" last_edit_user="bob">Planning</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_wizard_assist_province</unique_id>
+<voiceover>vo_campaign_action_own_region</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{da735597-077f-4e00-b088-bdd5c26edf39}" record_timestamp="1453975926386" record_key="wh_main_agent_action_wizard_hinder_army">
+<ability>hinder_army</ability>
+<agent>wizard</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>45</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_army_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_wizard_hinder_army_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_army_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Inflicts damage upon a unit in the target army.[[/col]]" last_edit_user="bob">[[col:yellow]]Inflicts damage upon a unit in the target army.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Assault Unit" last_edit_user="bob">Assault Unit</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_army_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_wizard_hinder_army_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_wizard_hinder_army</unique_id>
+<voiceover>vo_campaign_action_enemy_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{502dbc0e-d8b6-4f3a-9cc1-48f1a854e48a}" record_timestamp="1455785524748" record_key="wh_main_agent_action_wizard_hinder_army_horde">
+<ability>hinder_army</ability>
+<agent>wizard</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_spy_hinder_army_success</cannot_fail>
+<chance_of_success>60</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_army_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>0.5</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_spy_hinder_army_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_army_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies the campaign movement range of the target army by %n%.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies the campaign movement range of the target army by %n%.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Block Army" last_edit_user="bob">Block Army</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_army_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_spy_hinder_army_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_wizard_hinder_army_horde</unique_id>
+<voiceover>vo_campaign_action_enemy_army</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{be320291-4022-4466-88d8-4adb2d2ea0be}" record_timestamp="1453975926934" record_key="wh_main_agent_action_wizard_hinder_character">
+<ability>hinder_character</ability>
+<agent>wizard</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>25</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_character_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1.5</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_all_hinder_character_critical_success</critical_success>
+<critical_success_proportion_modifier>3</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_character_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Kills the target character.[[/col]]" last_edit_user="bob">[[col:yellow]]Kills the target character.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Assassinate" last_edit_user="bob">Assassinate</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_character_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_all_hinder_character_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_wizard_hinder_character</unique_id>
+<voiceover>vo_campaign_action_enemy_character</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{47e18127-57b1-4bae-a293-4653d0ced536}" record_timestamp="1460469405490" record_key="wh_main_agent_action_wizard_hinder_province">
+<ability>hinder_province</ability>
+<agent>wizard</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_wizard_hinder_province_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Modifies the Winds of Magic [[img:icon_wom_power]][[/img]]power reserve for enemy armies in the local province by %n.[[/col]]" last_edit_user="bob">[[col:yellow]]Modifies the Winds of Magic [[img:icon_wom_power]][[/img]]power reserve for enemy armies in the local province by %n.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Magical Interference" last_edit_user="bob">Magical Interference</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_wizard_hinder_province</unique_id>
+<voiceover>vo_campaign_action_enemy_region</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{c5ab0d52-4eff-4de8-b0d7-755d8d4e429d}" record_timestamp="1453975927959" record_key="wh_main_agent_action_wizard_hinder_settlement">
+<ability>hinder_settlement</ability>
+<agent>wizard</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>45</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_settlement_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_wizard_hinder_settlement_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_settlement_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Inflicts damage upon a building in the target settlement.[[/col]]" last_edit_user="bob">[[col:yellow]]Inflicts damage upon a building in the target settlement.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Damage Building" last_edit_user="bob">Damage Building</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_settlement_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_wizard_hinder_settlement_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_wizard_hinder_settlement</unique_id>
+<voiceover>vo_campaign_action_enemy_settlement</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{eb2284fc-2fda-41cf-890d-eecda22e7100}" record_timestamp="1465227633129" record_key="wh_main_agent_action_wizard_hinder_settlement_horde">
+<ability>hinder_settlement</ability>
+<agent>wizard</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>45</chance_of_success>
+<critical_failure>wh_main_agent_action_all_hinder_settlement_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_wizard_hinder_settlement_horde_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_all_hinder_settlement_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Inflicts damage upon all buildings in the target settlement.[[/col]]" last_edit_user="bob">[[col:yellow]]Inflicts damage upon all buildings in the target settlement.[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Damage Buildings" last_edit_user="bob">Damage Buildings</localised_action_name>
+<opportune_failure>wh_main_agent_action_all_hinder_settlement_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_wizard_hinder_settlement_horde_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_wizard_hinder_settlement_horde</unique_id>
+<voiceover>vo_campaign_action_enemy_settlement</voiceover>
+</agent_actions>
+<agent_actions record_uuid="{3ef8024b-dd32-4fbc-83f7-fae90d25831c}" record_timestamp="1456304422411" record_key="wh_main_agent_action_wizard_passive">
+<ability>passive_ability</ability>
+<agent>wizard</agent>
+<attribute>authority</attribute>
+<cannot_fail>wh_main_agent_action_dummy_cannot_fail</cannot_fail>
+<chance_of_success>100</chance_of_success>
+<critical_failure>wh_main_agent_action_dummy_critical_failure</critical_failure>
+<critical_failure_proportion_modifier>1</critical_failure_proportion_modifier>
+<critical_success>wh_main_agent_action_dummy_critical_success</critical_success>
+<critical_success_proportion_modifier>0</critical_success_proportion_modifier>
+<failure>wh_main_agent_action_dummy_failure</failure>
+<icon_path>ui/skins/default/icon_agent.png</icon_path>
+<localised_action_description state="APPROVED" last_approved_text="[[col:yellow]]Reduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]" last_edit_user="bob">[[col:yellow]]Reduces the amount of [[img:icon_corruption_chs]][[/img]]Chaos and [[img:icon_corruption_vmp]][[/img]]Vampiric corruption influence in the local province by 2 (constant passive effect).[[/col]]</localised_action_description>
+<localised_action_name state="APPROVED" last_approved_text="Cleanse Corruption" last_edit_user="bob">Cleanse Corruption</localised_action_name>
+<opportune_failure>wh_main_agent_action_dummy_failure</opportune_failure>
+<opportune_failure_proportion_modifier>0</opportune_failure_proportion_modifier>
+<success>wh_main_agent_action_dummy_success</success>
+<target_attribute>authority</target_attribute>
+<unique_id>wh_main_agent_action_wizard_passive</unique_id>
+<voiceover>vo_campaign_action_passive</voiceover>
+</agent_actions>
+</dataroot>

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ancillary_types.xsd" export_time="Tue Jan 24 14:55:53 2017" revision="44" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>96f93286-5808-459b-a28f-be6c167e5134</edit_uuid>
+<ancillary_types record_uuid="{f4e545fa-5059-42eb-9d27-be646df76546}" record_timestamp="1468500656684" record_key="wh_dlc03_anc_beastmen_bray_shaman">
+<type>wh_dlc03_anc_beastmen_bray_shaman</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_beastmen_bray_shaman.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{04428a79-2098-4871-985a-920e4d414b7c}" record_timestamp="1468500656685" record_key="wh_dlc03_anc_beastmen_gor">
+<type>wh_dlc03_anc_beastmen_gor</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_beastmen_gor.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{07e873a6-8b10-4477-82d0-05404152f326}" record_timestamp="1468500711308" record_key="wh_dlc03_anc_beastmen_gor_2">
+<type>wh_dlc03_anc_beastmen_gor_2</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_beastmen_gor2.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{fd9d44dd-c4cd-4ce4-8e40-37dd566261ef}" record_timestamp="1470221632958" record_key="wh_dlc03_anc_beastmen_harpy">
+<type>wh_dlc03_anc_beastmen_harpy</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_beastmen_harpy.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{0d159685-e1e6-4ed1-a75b-6140e99a6748}" record_timestamp="1468500656685" record_key="wh_dlc03_anc_beastmen_hound">
+<type>wh_dlc03_anc_beastmen_hound</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_beastmen_hound.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{62363717-2927-48ef-b601-51973d9ef298}" record_timestamp="1468500656686" record_key="wh_dlc03_anc_beastmen_ungor">
+<type>wh_dlc03_anc_beastmen_ungor</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_beastmen_ungor.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{f82ebb16-99bb-4f15-909a-110e8a853916}" record_timestamp="1455123055853" record_key="wh_dlc03_anc_magic_standard_banner_of_outrage">
+<type>wh_dlc03_anc_magic_standard_banner_of_outrage</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_magic_standard_banner_of_outrage.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{c5b981e0-1cb7-47e0-9f9e-cd9f4821f261}" record_timestamp="1468497403678" record_key="wh_dlc03_anc_magic_standard_banner_of_the_fallen_kings">
+<type>wh_dlc03_anc_magic_standard_banner_of_the_fallen_kings</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_magic_standard_banner_of_the_fallen_kings.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{647c24b3-1e49-41a9-856b-eff589390d30}" record_timestamp="1455123055898" record_key="wh_dlc03_anc_magic_standard_manbane_standard">
+<type>wh_dlc03_anc_magic_standard_manbane_standard</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_magic_standard_manbane_standard.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{1f1d478c-b7e6-4e1f-ba64-e76419a0d865}" record_timestamp="1455123055945" record_key="wh_dlc03_anc_magic_standard_the_beast_banner">
+<type>wh_dlc03_anc_magic_standard_the_beast_banner</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_magic_standard_the_beast_banner.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{cec2d519-6be2-4fbf-83ca-9101af89bb95}" record_timestamp="1455123055991" record_key="wh_dlc03_anc_magic_standard_totem_of_rust">
+<type>wh_dlc03_anc_magic_standard_totem_of_rust</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_magic_standard_totem_of_rust.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{8500c6b1-bc78-4afc-9b21-df9696fc4e86}" record_timestamp="1455123055767" record_key="wh_dlc03_anc_mark_of_chaos_crown_of_horns">
+<type>wh_dlc03_anc_mark_of_chaos_crown_of_horns</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_mark_of_chaos_crown_of_horns.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{53f5776b-4ba8-4c74-add1-8bb508f5065f}" record_timestamp="1455123049567" record_key="wh_dlc03_anc_mark_of_chaos_gnarled_hide">
+<type>wh_dlc03_anc_mark_of_chaos_gnarled_hide</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_mark_of_chaos_gnarled_hide.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{121c51c8-0dfb-400e-bf70-21caaf3e6f07}" record_timestamp="1455123049537" record_key="wh_dlc03_anc_mark_of_chaos_gouge_tusks">
+<type>wh_dlc03_anc_mark_of_chaos_gouge_tusks</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_mark_of_chaos_gouge_tusks.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{7dbf549b-1ace-4e26-9126-0367c128ce83}" record_timestamp="1455123049507" record_key="wh_dlc03_anc_mark_of_chaos_many_limbed_fiend">
+<type>wh_dlc03_anc_mark_of_chaos_many_limbed_fiend</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_mark_of_chaos_many_limbed_fiend.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{94bc4060-b73c-48e5-aa46-d5b37b7bafc0}" record_timestamp="1455123055810" record_key="wh_dlc03_anc_mark_of_chaos_shadow_hide">
+<type>wh_dlc03_anc_mark_of_chaos_shadow_hide</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_mark_of_chaos_shadow_hide.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{825007b0-c222-4b16-90c3-93ac192a24b0}" record_timestamp="1455123049442" record_key="wh_dlc03_anc_mark_of_chaos_slug_skin">
+<type>wh_dlc03_anc_mark_of_chaos_slug_skin</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_mark_of_chaos_slug_skin.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{24ad97c2-a5e0-4c8b-8ed5-948c2abd6dca}" record_timestamp="1455123049413" record_key="wh_dlc03_anc_mark_of_chaos_uncanny_senses">
+<type>wh_dlc03_anc_mark_of_chaos_uncanny_senses</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc03_anc_mark_of_chaos_uncanny_senses.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{c8335452-eae3-4102-9b1a-efc0e23d68cc}" record_timestamp="1468334793606" record_key="wh_dlc04_anc_mount_corpse_cart">
+<type>wh_dlc04_anc_mount_corpse_cart</type>
+<ui_icon>ui/campaign ui/mounts/mount_corpse_cart.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{7ac8d395-5aeb-408e-b4f6-007667a2167b}" record_timestamp="1471865778477" record_key="wh_dlc04_anc_mount_corpse_cart_balefire">
+<type>wh_dlc04_anc_mount_corpse_cart_balefire</type>
+<ui_icon>ui/campaign ui/mounts/mount_corpse_cart_with_balefire.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{b84c1537-1d8a-4414-b786-5415a1475178}" record_timestamp="1471865778477" record_key="wh_dlc04_anc_mount_corpse_cart_lodestone">
+<type>wh_dlc04_anc_mount_corpse_cart_lodestone</type>
+<ui_icon>ui/campaign ui/mounts/mount_corpse_cart_with_lodestone.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{4b9387c8-a372-4638-880f-ba7d965e60d2}" record_timestamp="1468335665355" record_key="wh_dlc04_anc_mount_terrorgheist">
+<type>wh_dlc04_anc_mount_terrorgheist</type>
+<ui_icon>ui/campaign ui/mounts/mount_terrorgheist.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{2207879b-ca8f-4339-803e-d81ec5103da3}" record_timestamp="1468334470320" record_key="wh_dlc04_anc_mount_war_altar_of_sigmar">
+<type>wh_dlc04_anc_mount_war_altar_of_sigmar</type>
+<ui_icon>ui/campaign ui/mounts/mount_war_altar_of_sigmar.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{78fe39a3-dc4a-412b-9245-21468777233e}" record_timestamp="1481028817694" record_key="wh_dlc05_anc_magic_standard_the_banner_of_the_eternal_queen">
+<type>wh_dlc05_anc_magic_standard_the_banner_of_the_eternal_queen</type>
+<ui_icon>ui/battle ui/ability_icons/wh_dlc05_banner_passive_the_banner_of_the_eternal_queen.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{92484b52-fc15-456b-bde9-2abc6923062d}" record_timestamp="1481028817694" record_key="wh_dlc05_anc_magic_standard_the_banner_of_the_hunter_king">
+<type>wh_dlc05_anc_magic_standard_the_banner_of_the_hunter_king</type>
+<ui_icon>ui/battle ui/ability_icons/wh_dlc05_banner_passive_the_banner_of_the_hunter_king.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{9cb5e5b0-41ca-4f5c-908f-ba82c693ecfd}" record_timestamp="1460015901598" record_key="wh_dlc05_anc_mount_wef_elven_steed">
+<type>wh_dlc05_anc_mount_wef_elven_steed</type>
+<ui_icon>ui/campaign ui/mounts/mount_warhorse.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{0e90327f-bdef-4ecc-ab16-c4893b4db3a2}" record_timestamp="1481035893423" record_key="wh_dlc05_anc_mount_wef_forest_dragon">
+<type>wh_dlc05_anc_mount_wef_forest_dragon</type>
+<ui_icon>ui/campaign ui/mounts/mount_forest_dragon.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{8b45fdb2-d399-47f4-86d3-baccb924dd2c}" record_timestamp="1481035893424" record_key="wh_dlc05_anc_mount_wef_great_eagle">
+<type>wh_dlc05_anc_mount_wef_great_eagle</type>
+<ui_icon>ui/campaign ui/mounts/mount_great_eagle.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{6e6d7300-9a44-4bbb-9b29-2d2ec9b44c2a}" record_timestamp="1481035893422" record_key="wh_dlc05_anc_mount_wef_unicorn">
+<type>wh_dlc05_anc_mount_wef_unicorn</type>
+<ui_icon>ui/campaign ui/mounts/mount_unicorn.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{c62d3c93-8023-472c-a62d-01d1c1cf6787}" record_timestamp="1474291988267" record_key="wh_dlc06_anc_magic_standard_skarsniks_boyz">
+<type>wh_dlc06_anc_magic_standard_skarsniks_boyz</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_the_bad_moon_banner.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{2895e24c-33bc-4865-b2fe-6d8d2f60a88e}" record_timestamp="1474281892104" record_key="wh_dlc06_anc_mount_dwf_runelord_anvil_of_doom">
+<type>wh_dlc06_anc_mount_dwf_runelord_anvil_of_doom</type>
+<ui_icon>ui/campaign ui/mounts/mount_anvil_of_doom.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{b4f93a68-eaa6-40e7-b233-59e5f2d095bd}" record_timestamp="1474287836525" record_key="wh_dlc06_anc_mount_grn_night_goblin_warboss_great_cave_squig">
+<type>wh_dlc06_anc_mount_grn_night_goblin_warboss_great_cave_squig</type>
+<ui_icon>ui/campaign ui/mounts/mount_great_cave_squig.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{6e7b51ef-5fef-4727-b8e1-827729932ab2}" record_timestamp="1474290615261" record_key="wh_dlc06_anc_mount_grn_wurrzag_spleenrippa">
+<type>wh_dlc06_anc_mount_grn_wurrzag_spleenrippa</type>
+<ui_icon>ui/campaign ui/mounts/mount_war_boar.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{13f126da-450a-40c1-93d3-b6dd49677cd6}" record_timestamp="1485269753288" record_key="wh_dlc07_anc_magic_standard_banner_of_defence">
+<type>wh_dlc07_anc_magic_standard_banner_of_defence</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc07_anc_magic_standard_banner_of_defence.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{f21dc98a-04e5-4379-bc47-b646d5647c50}" record_timestamp="1485269753268" record_key="wh_dlc07_anc_magic_standard_errantry_banner">
+<type>wh_dlc07_anc_magic_standard_errantry_banner</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc07_anc_magic_standard_errantry_banner.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{cc7aefed-c9eb-46bf-b01e-b27cd70616dc}" record_timestamp="1485269753278" record_key="wh_dlc07_anc_magic_standard_twilight_banner">
+<type>wh_dlc07_anc_magic_standard_twilight_banner</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc07_anc_magic_standard_twilight_banner.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{852b99fd-f513-442b-84c7-2e1741b0e9dd}" record_timestamp="1485269753298" record_key="wh_dlc07_anc_magic_standard_valorous_standard">
+<type>wh_dlc07_anc_magic_standard_valorous_standard</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_dlc07_anc_magic_standard_valorous_standard.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{995d13cd-cc14-4b4e-838a-b25256045f55}" record_timestamp="1443776692335" record_key="wh_main_anc_arcane_item">
+<type>wh_main_anc_arcane_item</type>
+<ui_icon>ui/skins/default/equipment_items_arcane.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{726c8dc4-14fe-46e4-b72d-8ecf57d62dfc}" record_timestamp="1443776692306" record_key="wh_main_anc_armour">
+<type>wh_main_anc_armour</type>
+<ui_icon>ui/skins/default/equipment_items_armour.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{38c7334a-1c6e-4f60-becb-e96545809836}" record_timestamp="1443773313201" record_key="wh_main_anc_chaos_demon">
+<type>wh_main_anc_chaos_demon</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_chaos_demon.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{e5cdc2b7-62bd-4efc-9a3b-6f199d1794f0}" record_timestamp="1448963323351" record_key="wh_main_anc_chaos_human">
+<type>wh_main_anc_chaos_human</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_chaos_human.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{1b415166-9be9-429c-9248-0c837a8ae9ec}" record_timestamp="1443773313201" record_key="wh_main_anc_chaos_monster">
+<type>wh_main_anc_chaos_monster</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_chaos_monster.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{bf799265-5dce-4790-b7a0-cb7795de3cfa}" record_timestamp="1443773313201" record_key="wh_main_anc_chaos_warrior">
+<type>wh_main_anc_chaos_warrior</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_chaos_warrior.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{767c0729-e943-4034-bbc8-317a3fb6f253}" record_timestamp="1443773313201" record_key="wh_main_anc_dwarfs_dwarf">
+<type>wh_main_anc_dwarfs_dwarf</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_dwarfs_dwarf.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{639090e8-23bf-43c2-897d-5416f9af06cd}" record_timestamp="1443773313201" record_key="wh_main_anc_dwarfs_engineer">
+<type>wh_main_anc_dwarfs_engineer</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_dwarfs_engineer.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{d1b8af55-a0d1-4084-8b15-bf0959533266}" record_timestamp="1448963323581" record_key="wh_main_anc_dwarfs_female">
+<type>wh_main_anc_dwarfs_female</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_dwarfs_female.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{deba41c6-3dfa-487e-bb20-57c5016613a6}" record_timestamp="1443773313201" record_key="wh_main_anc_dwarfs_miner">
+<type>wh_main_anc_dwarfs_miner</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_dwarfs_miner.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{6912cfc9-2c82-47f7-b915-4a5d64c80fb7}" record_timestamp="1443776692275" record_key="wh_main_anc_enchanted_item">
+<type>wh_main_anc_enchanted_item</type>
+<ui_icon>ui/skins/default/equipment_items_enchanted.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{166606c7-ac29-416d-9873-e29f81d6d734}" record_timestamp="1443773313201" record_key="wh_main_anc_greenskins_goblin">
+<type>wh_main_anc_greenskins_goblin</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_greenskins_goblin.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{91a079f3-0acf-42c4-a5e1-ae7eeeb91369}" record_timestamp="1443773313201" record_key="wh_main_anc_greenskins_orc">
+<type>wh_main_anc_greenskins_orc</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_greenskins_orc.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{74de759f-adc3-4974-8402-593528276ecc}" record_timestamp="1448892609074" record_key="wh_main_anc_greenskins_orc_shaman">
+<type>wh_main_anc_greenskins_orc_shaman</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_greenskins_orc_shaman.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{32e34076-0d7a-464b-a4f7-c3d9b6f07a0d}" record_timestamp="1448892609074" record_key="wh_main_anc_greenskins_savage_orc">
+<type>wh_main_anc_greenskins_savage_orc</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_greenskins_savage_orc.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{9848a18e-ba3a-42b5-8f75-fc172fcdadd3}" record_timestamp="1443773313201" record_key="wh_main_anc_greenskins_snotling">
+<type>wh_main_anc_greenskins_snotling</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_greenskins_snotling.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{16bca59d-423c-4216-b36e-fb549e97f3a7}" record_timestamp="1452873569020" record_key="wh_main_anc_greenskins_squig">
+<type>wh_main_anc_greenskins_squig</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_greenskins_squig.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{0f176b4b-060f-4e75-8c78-3cf4b15fd634}" record_timestamp="1443773313201" record_key="wh_main_anc_greenskins_troll">
+<type>wh_main_anc_greenskins_troll</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_greenskins_troll.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{fad61d2d-493c-4ce8-b89b-e3a03aaa0214}" record_timestamp="1443773313201" record_key="wh_main_anc_human_man">
+<type>wh_main_anc_human_man</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_human_man.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{beef2d2f-d805-489f-8035-ab956a410a58}" record_timestamp="1443773313201" record_key="wh_main_anc_human_old_man">
+<type>wh_main_anc_human_old_man</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_human_old_man.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{f6a51185-c2b0-4ec9-9525-21f0aff8e23e}" record_timestamp="1443773313201" record_key="wh_main_anc_human_spy">
+<type>wh_main_anc_human_spy</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_human_spy.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{291306a7-3f29-4d98-958b-cfec8d9d4aac}" record_timestamp="1444124055795" record_key="wh_main_anc_magic_standard_banner_of_eternal_flame">
+<type>wh_main_anc_magic_standard_banner_of_eternal_flame</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_banner_passive_banner_of_eternal_flame.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{52054547-19c6-431d-b326-341fd955e992}" record_timestamp="1444124055841" record_key="wh_main_anc_magic_standard_banner_of_lost_holds">
+<type>wh_main_anc_magic_standard_banner_of_lost_holds</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_banner_passive_banner_of_lost_holds.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{b12bd370-0222-4526-8b74-e6ab7d6efe35}" record_timestamp="1444124055873" record_key="wh_main_anc_magic_standard_banner_of_rage">
+<type>wh_main_anc_magic_standard_banner_of_rage</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_banner_passive_banner_of_rage.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{35cbb9e7-c0e5-4af3-931e-92081da00ba3}" record_timestamp="1443773313202" record_key="wh_main_anc_magic_standard_banner_of_swiftness">
+<type>wh_main_anc_magic_standard_banner_of_swiftness</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_banner_of_swiftness.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{7329ba98-7462-482c-883e-2dc92dee8762}" record_timestamp="1443773313202" record_key="wh_main_anc_magic_standard_banner_of_the_barrows">
+<type>wh_main_anc_magic_standard_banner_of_the_barrows</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_banner_of_the_barrows.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{1c757d2a-3a59-445f-a8df-85d5e9eb8f46}" record_timestamp="1443773313202" record_key="wh_main_anc_magic_standard_blasted_standard">
+<type>wh_main_anc_magic_standard_blasted_standard</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_blasted_standard.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{fdcc5786-b023-4966-b2fa-5eec14d22435}" record_timestamp="1459933463674" record_key="wh_main_anc_magic_standard_da_immortulz">
+<type>wh_main_anc_magic_standard_da_immortulz</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_da_immortulz.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{9ffed50f-b042-46fa-9c10-0b1588fc9af5}" record_timestamp="1444124055888" record_key="wh_main_anc_magic_standard_gleaming_pennant">
+<type>wh_main_anc_magic_standard_gleaming_pennant</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_banner_passive_gleaming_pennant.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{82862ab1-3e03-4c09-a8a7-c971ab5051df}" record_timestamp="1444124055935" record_key="wh_main_anc_magic_standard_griffon_banner">
+<type>wh_main_anc_magic_standard_griffon_banner</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_banner_passive_griffon_banner.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{bcecdbfa-29d9-47f2-b958-e265dffa6534}" record_timestamp="1443773313202" record_key="wh_main_anc_magic_standard_lichbone_pennant">
+<type>wh_main_anc_magic_standard_lichbone_pennant</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_lichbone_pennant.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{d931acf3-6482-41c5-bcc2-b45bdb909d86}" record_timestamp="1443773313202" record_key="wh_main_anc_magic_standard_morks_war_banner">
+<type>wh_main_anc_magic_standard_morks_war_banner</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_morks_war_banner.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{211d7925-4f84-4c49-8be9-4f66387c0f25}" record_timestamp="1443773313202" record_key="wh_main_anc_magic_standard_rampagers_standard">
+<type>wh_main_anc_magic_standard_rampagers_standard</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_rampagers_standard.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{297dc24a-e127-4452-8001-00e4f484b4a9}" record_timestamp="1443773313202" record_key="wh_main_anc_magic_standard_rangers_standard">
+<type>wh_main_anc_magic_standard_rangers_standard</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_rangers_standard.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{2c16acb7-3ea5-466a-9feb-f072a2fa7d13}" record_timestamp="1443773313202" record_key="wh_main_anc_magic_standard_razor_standard">
+<type>wh_main_anc_magic_standard_razor_standard</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_razor_standard.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{88de09fa-5942-4533-b3a1-b9229fe1c681}" record_timestamp="1444124056091" record_key="wh_main_anc_magic_standard_scarecrow_banner">
+<type>wh_main_anc_magic_standard_scarecrow_banner</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_banner_passive_scarecrow_banner.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{7ffdb0c6-f2a7-4dfe-a247-7ae0cb59462e}" record_timestamp="1444124056060" record_key="wh_main_anc_magic_standard_spider_banner">
+<type>wh_main_anc_magic_standard_spider_banner</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_banner_passive_spider_banner.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{c437095c-de75-4e99-89fd-f8c2acd69bb8}" record_timestamp="1443773313202" record_key="wh_main_anc_magic_standard_standard_of_discipline">
+<type>wh_main_anc_magic_standard_standard_of_discipline</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_standard_of_discipline.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{4c1bbe52-ac82-44e6-b841-2d9e0ee75a1f}" record_timestamp="1443773313202" record_key="wh_main_anc_magic_standard_steel_standard">
+<type>wh_main_anc_magic_standard_steel_standard</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_steel_standard.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{959ee562-a1fb-4cc7-9f9d-4c1972cfea6c}" record_timestamp="1443773313202" record_key="wh_main_anc_magic_standard_the_bad_moon_banner">
+<type>wh_main_anc_magic_standard_the_bad_moon_banner</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_the_bad_moon_banner.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{d8edf146-111a-4069-9c6d-fa2f09797f40}" record_timestamp="1444124056013" record_key="wh_main_anc_magic_standard_the_screaming_banner">
+<type>wh_main_anc_magic_standard_the_screaming_banner</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_banner_passive_the_screaming_banner.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{08025f0c-bf75-41a2-a637-27d984c02aa6}" record_timestamp="1450264300787" record_key="wh_main_anc_magic_standard_wailing_banner">
+<type>wh_main_anc_magic_standard_wailing_banner</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_wailing_banner.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{5e7c29b9-aa31-40b6-a519-0ad3e249ae52}" record_timestamp="1443773313202" record_key="wh_main_anc_magic_standard_war_banner">
+<type>wh_main_anc_magic_standard_war_banner</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_magic_standard_war_banner.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{e2b740be-b968-4069-ae08-8d03366567d6}" record_timestamp="1444124056107" record_key="wh_main_anc_mark_of_chaos_mark_of_khorne">
+<type>wh_main_anc_mark_of_chaos_mark_of_khorne</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_mark_passive_mark_of_khorne.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{5bb7f2d8-50ed-4041-9080-7e9619684112}" record_timestamp="1443773313202" record_key="wh_main_anc_mark_of_chaos_mark_of_nurgle">
+<type>wh_main_anc_mark_of_chaos_mark_of_nurgle</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_mark_of_chaos_mark_of_nurgle.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{f84f5881-4dfc-43da-a2f9-3799fc76c788}" record_timestamp="1443773313202" record_key="wh_main_anc_mark_of_chaos_mark_of_slaanesh">
+<type>wh_main_anc_mark_of_chaos_mark_of_slaanesh</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_mark_of_chaos_mark_of_slaanesh.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{7e9efb57-10a2-4c94-abcb-d9daff2c9989}" record_timestamp="1443773313202" record_key="wh_main_anc_mark_of_chaos_mark_of_tzeentch">
+<type>wh_main_anc_mark_of_chaos_mark_of_tzeentch</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_mark_of_chaos_mark_of_tzeentch.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{77186d7a-a726-464b-bbc4-ff880d5f09c9}" record_timestamp="1447341827040" record_key="wh_main_anc_mount_barded_chaos_steed">
+<type>wh_main_anc_mount_barded_chaos_steed</type>
+<ui_icon>ui/campaign ui/mounts/mount_barded_chaos_steed.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{f4d53742-73cc-43da-8972-9e5047f760f9}" record_timestamp="1447341827379" record_key="wh_main_anc_mount_barded_nightmare">
+<type>wh_main_anc_mount_barded_nightmare</type>
+<ui_icon>ui/campaign ui/mounts/mount_barded_nightmare.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{e0b06585-d0dd-4180-b370-6751773e5b73}" record_timestamp="1447341827514" record_key="wh_main_anc_mount_barded_skeletal_steed">
+<type>wh_main_anc_mount_barded_skeletal_steed</type>
+<ui_icon>ui/campaign ui/mounts/mount_barded_skeletal_steed.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{6f381d58-c2f1-4aeb-a078-688213e49dd1}" record_timestamp="1447341828535" record_key="wh_main_anc_mount_barded_warhorse">
+<type>wh_main_anc_mount_barded_warhorse</type>
+<ui_icon>ui/campaign ui/mounts/mount_barded_warhorse.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{c07250ca-1ba8-42e3-8f2b-484d76049d7e}" record_timestamp="1447341828679" record_key="wh_main_anc_mount_beaquis">
+<type>wh_main_anc_mount_beaquis</type>
+<ui_icon>ui/campaign ui/mounts/mount_beaquis.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{bdf7f306-7e06-4a00-a2e7-5fa6fb3cfc02}" record_timestamp="1447341829850" record_key="wh_main_anc_mount_chaos_dragon">
+<type>wh_main_anc_mount_chaos_dragon</type>
+<ui_icon>ui/campaign ui/mounts/mount_chaos_dragon.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{601a1339-c06e-45f9-9403-1a9d35f4fd91}" record_timestamp="1447341830470" record_key="wh_main_anc_mount_chaos_steed">
+<type>wh_main_anc_mount_chaos_steed</type>
+<ui_icon>ui/campaign ui/mounts/mount_chaos_steed.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{d7e7655e-9bd8-43c1-9805-4a0b0b95dea0}" record_timestamp="1447341830615" record_key="wh_main_anc_mount_deathclaw">
+<type>wh_main_anc_mount_deathclaw</type>
+<ui_icon>ui/campaign ui/mounts/mount_deathclaw.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{2356f929-5907-4a27-bf40-cc296ad8ed34}" record_timestamp="1447341830757" record_key="wh_main_anc_mount_dorghar">
+<type>wh_main_anc_mount_dorghar</type>
+<ui_icon>ui/campaign ui/mounts/mount_dorghar.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{e216fb14-04ca-4533-9808-5697ae8be9ce}" record_timestamp="1447341831177" record_key="wh_main_anc_mount_giant_spider">
+<type>wh_main_anc_mount_giant_spider</type>
+<ui_icon>ui/campaign ui/mounts/mount_giant_spider.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{6407cb9b-b770-40b4-aacb-3327103ef493}" record_timestamp="1447341831392" record_key="wh_main_anc_mount_giant_wolf">
+<type>wh_main_anc_mount_giant_wolf</type>
+<ui_icon>ui/campaign ui/mounts/mount_giant_wolf.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{e9d515fe-52f9-48b0-ac63-b5fc938b1e88}" record_timestamp="1447341832530" record_key="wh_main_anc_mount_hellsteed">
+<type>wh_main_anc_mount_hellsteed</type>
+<ui_icon>ui/campaign ui/mounts/mount_hellsteed.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{0f982d3e-0515-4091-b304-ef3255c52ecd}" record_timestamp="1447341832682" record_key="wh_main_anc_mount_hippogryph">
+<type>wh_main_anc_mount_hippogryph</type>
+<ui_icon>ui/campaign ui/mounts/mount_hippogryph.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{eaa71d7b-b050-461c-af19-35d108fe7eb5}" record_timestamp="1447341832817" record_key="wh_main_anc_mount_imperial_griffon">
+<type>wh_main_anc_mount_imperial_griffon</type>
+<ui_icon>ui/campaign ui/mounts/mount_imperial_griffon.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{1b6fbd03-6aef-4573-a82b-c1b2bbad4b5e}" record_timestamp="1447341833169" record_key="wh_main_anc_mount_imperial_pegasus">
+<type>wh_main_anc_mount_imperial_pegasus</type>
+<ui_icon>ui/campaign ui/mounts/mount_imperial_pegasus.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{525af560-08fc-4c35-9717-82bef3c03f93}" record_timestamp="1447341833586" record_key="wh_main_anc_mount_manticore">
+<type>wh_main_anc_mount_manticore</type>
+<ui_icon>ui/campaign ui/mounts/mount_manticore.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{b2098715-a437-400b-a4fb-6784d95e83d1}" record_timestamp="1447341833721" record_key="wh_main_anc_mount_nightmare">
+<type>wh_main_anc_mount_nightmare</type>
+<ui_icon>ui/campaign ui/mounts/mount_nightmare.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{bb655d23-d967-4cab-b4ae-c229b7098a65}" record_timestamp="1447341833996" record_key="wh_main_anc_mount_pegasus">
+<type>wh_main_anc_mount_pegasus</type>
+<ui_icon>ui/campaign ui/mounts/mount_pegasus.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{d3b6ee82-1c57-4970-9589-b55a05b8bbc7}" record_timestamp="1447341834134" record_key="wh_main_anc_mount_royal_pegasus">
+<type>wh_main_anc_mount_royal_pegasus</type>
+<ui_icon>ui/campaign ui/mounts/mount_royal_pegasus.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{485b6cb3-76ce-4e05-9ce7-c3ec2a634355}" record_timestamp="1447341834269" record_key="wh_main_anc_mount_skeletal_steed">
+<type>wh_main_anc_mount_skeletal_steed</type>
+<ui_icon>ui/campaign ui/mounts/mount_skeletal_steed.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{111eac03-550c-48ed-bb7e-4bfdae4acfb9}" record_timestamp="1447341834424" record_key="wh_main_anc_mount_skullmuncha">
+<type>wh_main_anc_mount_skullmuncha</type>
+<ui_icon>ui/campaign ui/mounts/mount_skullmuncha.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{8805e543-5a4c-4a55-87d6-3ee10b340031}" record_timestamp="1447341834641" record_key="wh_main_anc_mount_war_boar">
+<type>wh_main_anc_mount_war_boar</type>
+<ui_icon>ui/campaign ui/mounts/mount_war_boar.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{a2cac98c-3ebd-475e-9d3e-d52edcc1d987}" record_timestamp="1447341834776" record_key="wh_main_anc_mount_war_boar_chariot">
+<type>wh_main_anc_mount_war_boar_chariot</type>
+<ui_icon>ui/campaign ui/mounts/mount_war_boar_chariot.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{c47011e8-9722-4d57-997a-c7fe688e29af}" record_timestamp="1447341836041" record_key="wh_main_anc_mount_warhorse">
+<type>wh_main_anc_mount_warhorse</type>
+<ui_icon>ui/campaign ui/mounts/mount_warhorse.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{6ed8fe2a-c5be-4891-8a14-64310c53dd38}" record_timestamp="1447341836404" record_key="wh_main_anc_mount_wyvern">
+<type>wh_main_anc_mount_wyvern</type>
+<ui_icon>ui/campaign ui/mounts/mount_wyvern.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{9ceafccd-f6fc-41c3-9c30-717a35dd4e41}" record_timestamp="1447341836609" record_key="wh_main_anc_mount_zombie_dragon">
+<type>wh_main_anc_mount_zombie_dragon</type>
+<ui_icon>ui/campaign ui/mounts/mount_zombie_dragon.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{1dda94ae-e56f-4c72-aa00-295f50ff28fd}" record_timestamp="1444124056169" record_key="wh_main_anc_rune_ancestor_rune">
+<type>wh_main_anc_rune_ancestor_rune</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_rune_abilities_ancestor_rune.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{339e8dc7-ef55-4ef3-a3db-ba311a36e1ff}" record_timestamp="1443773313202" record_key="wh_main_anc_rune_master_rune_of_battle">
+<type>wh_main_anc_rune_master_rune_of_battle</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_rune_master_rune_of_battle.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{ff38bc5a-d204-4c93-8e3d-85f54d246fcb}" record_timestamp="1451906276299" record_key="wh_main_anc_rune_master_rune_of_courage">
+<type>wh_main_anc_rune_master_rune_of_courage</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_rune_abilities_rune_of_courage.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{77955d52-c3df-435d-ac94-fb0214fee12e}" record_timestamp="1444124056309" record_key="wh_main_anc_rune_master_rune_of_groth_one-eye">
+<type>wh_main_anc_rune_master_rune_of_groth_one-eye</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_rune_passive_master_rune_of_groth_one_eye.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{fbac06da-4311-4d79-aa71-4e05a646a1b8}" record_timestamp="1444124056356" record_key="wh_main_anc_rune_master_rune_of_grungni">
+<type>wh_main_anc_rune_master_rune_of_grungni</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_rune_passive_master_rune_of_grungni.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{8a45931b-5e80-439d-8aee-351dc13cdb44}" record_timestamp="1443773313202" record_key="wh_main_anc_rune_master_rune_of_sanctuary">
+<type>wh_main_anc_rune_master_rune_of_sanctuary</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_rune_master_rune_of_sanctuary.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{a3bde3fb-77d7-4c05-94b2-71be11ad473c}" record_timestamp="1451906276369" record_key="wh_main_anc_rune_master_rune_of_slowness">
+<type>wh_main_anc_rune_master_rune_of_slowness</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_rune_passive_rune_of_slowness.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{02e4aee1-a897-431b-bce1-efed6a2a787e}" record_timestamp="1451906276335" record_key="wh_main_anc_rune_master_rune_of_stoicism">
+<type>wh_main_anc_rune_master_rune_of_stoicism</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_rune_abilities_rune_of_stoicism.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{26996035-f25d-46a7-a0fc-8e1fafebd31c}" record_timestamp="1444124056465" record_key="wh_main_anc_rune_master_rune_of_stromni_redbeard">
+<type>wh_main_anc_rune_master_rune_of_stromni_redbeard</type>
+<ui_icon>ui/battle ui/ability_icons/wh_main_rune_passive_master_rune_of_stromni_redbeard.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{bd9074f3-2302-4766-a8b3-9d261ecf1ff0}" record_timestamp="1443773313202" record_key="wh_main_anc_rune_master_rune_of_valaya">
+<type>wh_main_anc_rune_master_rune_of_valaya</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_rune_master_rune_of_valaya.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{096d66fd-530b-4e0e-afff-b44e249779e0}" record_timestamp="1443773313202" record_key="wh_main_anc_rune_rune_of_fury">
+<type>wh_main_anc_rune_rune_of_fury</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_rune_rune_of_fury.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{f11a8134-5bea-436b-a0b5-40d0a12b655f}" record_timestamp="1443773313202" record_key="wh_main_anc_rune_rune_of_might">
+<type>wh_main_anc_rune_rune_of_might</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_rune_rune_of_might.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{c089338c-7028-4707-a5af-10326ed5b299}" record_timestamp="1443773313202" record_key="wh_main_anc_rune_rune_of_parrying">
+<type>wh_main_anc_rune_rune_of_parrying</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_rune_rune_of_parrying.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{aa0f91d1-9689-4244-a84c-d7084aea6e5e}" record_timestamp="1443773313202" record_key="wh_main_anc_rune_rune_of_striking">
+<type>wh_main_anc_rune_rune_of_striking</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_rune_rune_of_striking.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{8236ea54-4bec-4033-be61-8e01a40d654b}" record_timestamp="1443773313202" record_key="wh_main_anc_rune_strollaz_rune">
+<type>wh_main_anc_rune_strollaz_rune</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_rune_strollaz_rune.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{dac4324c-240a-40af-9f5c-5f0488d03625}" record_timestamp="1443776692367" record_key="wh_main_anc_talisman">
+<type>wh_main_anc_talisman</type>
+<ui_icon>ui/skins/default/equipment_items_talisman.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{1b6864ba-3be8-4664-ba31-98a7740d94d9}" record_timestamp="1448963323466" record_key="wh_main_anc_vampire_counts_black_cat">
+<type>wh_main_anc_vampire_counts_black_cat</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_vampire_counts_black_cat.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{6cffcf1f-5acc-4cbc-8b30-7850e1ab4e59}" record_timestamp="1448963323234" record_key="wh_main_anc_vampire_counts_carrion">
+<type>wh_main_anc_vampire_counts_carrion</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_vampire_counts_carrion.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{e08d9b13-045f-42ac-b2cf-e3908355deda}" record_timestamp="1443773313202" record_key="wh_main_anc_vampire_counts_female">
+<type>wh_main_anc_vampire_counts_female</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_vampire_counts_female.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{f09b1ca1-d591-4198-8e56-aa417532b373}" record_timestamp="1443773313202" record_key="wh_main_anc_vampire_counts_male">
+<type>wh_main_anc_vampire_counts_male</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_vampire_counts_male.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{182415a9-b0e6-4b52-8c74-c4105cf163da}" record_timestamp="1448963323117" record_key="wh_main_anc_vampire_counts_mirror">
+<type>wh_main_anc_vampire_counts_mirror</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_vampire_counts_mirror.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{ae6a38c4-354c-45df-96ac-40773342912b}" record_timestamp="1443773313202" record_key="wh_main_anc_vampire_counts_necromancer">
+<type>wh_main_anc_vampire_counts_necromancer</type>
+<ui_icon>ui/campaign ui/ancillaries/wh_main_anc_vampire_counts_necromancer.png</ui_icon>
+</ancillary_types>
+<ancillary_types record_uuid="{3c7acac6-c296-4e24-a641-4130a9aef9c2}" record_timestamp="1443776692396" record_key="wh_main_anc_weapon">
+<type>wh_main_anc_weapon</type>
+<ui_icon>ui/skins/default/equipment_items_weapon.png</ui_icon>
+</ancillary_types>
+</dataroot>

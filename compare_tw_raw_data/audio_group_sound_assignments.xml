@@ -1,0 +1,2626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="audio_group_sound_assignments.xsd" export_time="Fri Feb 10 17:07:19 2017" revision="74" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e7c1b4f5-d200-443c-86aa-14f6a2cc68c9</edit_uuid>
+<audio_group_sound_assignments record_uuid="{b72115a2-ee2a-435f-adec-23b49797af09}" record_timestamp="1456336593150" record_key="wh_chaos_archaon_LHcharge">
+<ability></ability>
+<entity_type>wh_chaos_archaon_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{fa16bf56-5768-4e55-bd57-d08eb0ccc528}" record_timestamp="1456336593150" record_key="wh_chaos_archaon_LHcheering">
+<ability></ability>
+<entity_type>wh_chaos_archaon_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{aa79bc05-9513-42d0-8fd8-71877d33baad}" record_timestamp="1456336593149" record_key="wh_chaos_archaon_LHencouragement">
+<ability></ability>
+<entity_type>wh_chaos_archaon_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6904359b-a247-4cc5-a883-1d0f14cb7c7c}" record_timestamp="1456336593149" record_key="wh_chaos_archaon_LHfighting">
+<ability></ability>
+<entity_type>wh_chaos_archaon_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2dd78866-5944-448f-9c2a-1221c75147f2}" record_timestamp="1456336593149" record_key="wh_chaos_archaon_LHinjured">
+<ability></ability>
+<entity_type>wh_chaos_archaon_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f67be620-3f39-411b-975b-a93c09999d4c}" record_timestamp="1456336593149" record_key="wh_chaos_archaon_LHresponse">
+<ability></ability>
+<entity_type>wh_chaos_archaon_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{b34313dc-d4d8-47d1-a061-dd61b5e7d14b}" record_timestamp="1456336593149" record_key="wh_chaos_archaon_LHselection">
+<ability></ability>
+<entity_type>wh_chaos_archaon_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{b07570d0-739a-4ba8-8b1c-aa01f00b58df}" record_timestamp="1456336593149" record_key="wh_chaos_archaon_LHtaunting">
+<ability></ability>
+<entity_type>wh_chaos_archaon_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7a0801d7-ec22-4f42-a3bd-b9a9097c25e6}" record_timestamp="1453734609538" record_key="wh_chaos_default_LHcharge">
+<ability></ability>
+<entity_type>wh_chaos_default_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{b7d96e6f-4657-495d-ace6-fd20fefa5946}" record_timestamp="1453734609538" record_key="wh_chaos_default_LHcheering">
+<ability></ability>
+<entity_type>wh_chaos_default_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a6c802d0-351e-48ce-9eb2-d623f5c0dbc1}" record_timestamp="1453734609538" record_key="wh_chaos_default_LHencouragement">
+<ability></ability>
+<entity_type>wh_chaos_default_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c71250a3-8249-4476-b5a8-218602ed36d4}" record_timestamp="1453734609539" record_key="wh_chaos_default_LHfighting">
+<ability></ability>
+<entity_type>wh_chaos_default_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d4af509a-cc92-43b2-be66-c687f5856c29}" record_timestamp="1453734609539" record_key="wh_chaos_default_LHinjured">
+<ability></ability>
+<entity_type>wh_chaos_default_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{61df0e68-df55-465b-a54b-d2a61cc0e975}" record_timestamp="1453734609539" record_key="wh_chaos_default_LHresponse">
+<ability></ability>
+<entity_type>wh_chaos_default_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{67212a12-9ab1-457d-bdac-52a99ab2b324}" record_timestamp="1453734609539" record_key="wh_chaos_default_LHselection">
+<ability></ability>
+<entity_type>wh_chaos_default_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a24be52b-1818-4eed-8154-cfe5c7ece90e}" record_timestamp="1434384228572" record_key="wh_chaos_defaultcharge">
+<ability></ability>
+<entity_type>wh_chaos_default</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{bd27689f-b695-4599-b144-981abb88be87}" record_timestamp="1453131974776" record_key="wh_chaos_defaultcheering">
+<ability></ability>
+<entity_type>wh_chaos_default</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d392e217-6860-4691-88f2-eaae673fe0f7}" record_timestamp="1434384228645" record_key="wh_chaos_defaultencouragement">
+<ability></ability>
+<entity_type>wh_chaos_default</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{bea36505-b4d2-49f7-bfea-d286129d3c31}" record_timestamp="1434384228620" record_key="wh_chaos_defaultfighting">
+<ability></ability>
+<entity_type>wh_chaos_default</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{fd7637f6-e775-4106-9593-dbb0b952e4f9}" record_timestamp="1434384229218" record_key="wh_chaos_defaultinjured">
+<ability></ability>
+<entity_type>wh_chaos_default</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2a35bdc2-d253-42d9-b168-6f30f6ac4198}" record_timestamp="1459935722191" record_key="wh_chaos_defaultmoving_taunt">
+<ability></ability>
+<entity_type>wh_chaos_default</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_moving_taunt</group_sound>
+<situation>moving_taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{decee529-a681-417a-a127-443c7e68a443}" record_timestamp="1434384228868" record_key="wh_chaos_defaultresponse">
+<ability></ability>
+<entity_type>wh_chaos_default</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{20b5bd65-aa93-4779-a760-e0df8208fdc4}" record_timestamp="1438167606929" record_key="wh_chaos_defaultselection">
+<ability></ability>
+<entity_type>wh_chaos_default</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7a148c8d-69c5-444b-a90d-05e293410540}" record_timestamp="1434384228741" record_key="wh_chaos_defaulttaunting">
+<ability></ability>
+<entity_type>wh_chaos_default</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{0e12c1ee-682d-4b87-af8f-61bf908a88b4}" record_timestamp="1448646122218" record_key="wh_chaos_maraudercharge">
+<ability></ability>
+<entity_type>wh_chaos_marauder</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{29782e39-cb10-4182-9bbc-88896dd15d5c}" record_timestamp="1453131974776" record_key="wh_chaos_maraudercheering">
+<ability></ability>
+<entity_type>wh_chaos_marauder</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{aad97e62-01a9-49f4-ad52-8e430819fae8}" record_timestamp="1448646122222" record_key="wh_chaos_marauderencouragement">
+<ability></ability>
+<entity_type>wh_chaos_marauder</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{57f290ec-2294-4032-a2da-4839785be661}" record_timestamp="1448646122227" record_key="wh_chaos_marauderfighting">
+<ability></ability>
+<entity_type>wh_chaos_marauder</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d2b90ef0-4f85-4aee-8a83-bb7ed70bf7a9}" record_timestamp="1448646122232" record_key="wh_chaos_marauderinjured">
+<ability></ability>
+<entity_type>wh_chaos_marauder</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{cbefa8b2-b12f-4c28-9ef2-be2ccb94cab8}" record_timestamp="1459935722190" record_key="wh_chaos_maraudermoving_taunt">
+<ability></ability>
+<entity_type>wh_chaos_marauder</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_moving_taunt</group_sound>
+<situation>moving_taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{71a8d676-0d05-468b-a496-e5f526297999}" record_timestamp="1438073525399" record_key="wh_chaos_marauderresponse">
+<ability></ability>
+<entity_type>wh_chaos_marauder</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1b085f32-6632-4cf8-a5dc-5aaf0b342c0f}" record_timestamp="1438167606913" record_key="wh_chaos_marauderselection">
+<ability></ability>
+<entity_type>wh_chaos_marauder</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{e88fe7bf-296d-426d-948c-2ad2e1ab376b}" record_timestamp="1455808541994" record_key="wh_chaos_maraudertaunt">
+<ability></ability>
+<entity_type>wh_chaos_marauder</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_taunt</group_sound>
+<situation>taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{551864c0-f98c-4219-8bd5-2b11d1383452}" record_timestamp="1448646122238" record_key="wh_chaos_maraudertaunting">
+<ability></ability>
+<entity_type>wh_chaos_marauder</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{eda6635e-f1c9-4707-8060-cc4edc5b46ef}" record_timestamp="1453734609567" record_key="wh_chaos_sigvald_LHcharge">
+<ability></ability>
+<entity_type>wh_chaos_sigvald_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{ac4a7819-e2f1-4c07-856c-ba0036100fa7}" record_timestamp="1453734609567" record_key="wh_chaos_sigvald_LHcheering">
+<ability></ability>
+<entity_type>wh_chaos_sigvald_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{9d79190e-76b6-4cc4-93f6-c4eb8e4ce79c}" record_timestamp="1453734609567" record_key="wh_chaos_sigvald_LHencouragement">
+<ability></ability>
+<entity_type>wh_chaos_sigvald_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{4830433e-d587-486e-af25-80ea5f044938}" record_timestamp="1453734609567" record_key="wh_chaos_sigvald_LHfighting">
+<ability></ability>
+<entity_type>wh_chaos_sigvald_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{15f28705-ed1d-4bc0-9b83-fd1cb5d0aa14}" record_timestamp="1453734609567" record_key="wh_chaos_sigvald_LHinjured">
+<ability></ability>
+<entity_type>wh_chaos_sigvald_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{af0c1c27-3a94-4c80-ad8a-ab7360415270}" record_timestamp="1453734609567" record_key="wh_chaos_sigvald_LHresponse">
+<ability></ability>
+<entity_type>wh_chaos_sigvald_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f52ccf03-bb34-4357-8e69-8034875b2abe}" record_timestamp="1455018821104" record_key="wh_chaos_sigvald_LHselection">
+<ability></ability>
+<entity_type>wh_chaos_sigvald_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{51586b74-581c-49d6-b737-9080c6f6e927}" record_timestamp="1453734609567" record_key="wh_chaos_sigvald_LHtaunting">
+<ability></ability>
+<entity_type>wh_chaos_sigvald_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{23521959-587f-4072-9e72-f0c3327cfbad}" record_timestamp="1470145101150" record_key="wh_crypt_ghoul_LHcharge">
+<ability></ability>
+<entity_type>wh_crypt_ghoul_LH</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{337cda99-94e9-436f-9a78-6f6acbd4eefd}" record_timestamp="1470145101151" record_key="wh_crypt_ghoul_LHencouragement">
+<ability></ability>
+<entity_type>wh_crypt_ghoul_LH</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{b9a24073-f98f-4e28-a9c2-553b96c2e551}" record_timestamp="1470145101151" record_key="wh_crypt_ghoul_LHfighting">
+<ability></ability>
+<entity_type>wh_crypt_ghoul_LH</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{86ba9c16-4645-474e-b03a-cf9f05780e9e}" record_timestamp="1470145101151" record_key="wh_crypt_ghoul_LHinjured">
+<ability></ability>
+<entity_type>wh_crypt_ghoul_LH</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{8d14a799-5686-4792-8caa-ba6c94531a0f}" record_timestamp="1470145101151" record_key="wh_crypt_ghoul_LHresponse">
+<ability></ability>
+<entity_type>wh_crypt_ghoul_LH</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{dbf400c3-7577-405d-9e63-a8b53bc0e4a0}" record_timestamp="1470145101151" record_key="wh_crypt_ghoul_LHselection">
+<ability></ability>
+<entity_type>wh_crypt_ghoul_LH</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c54b35e7-ff42-473b-b11c-880cf6693c37}" record_timestamp="1423503624083" record_key="wh_crypt_ghoulcharge">
+<ability></ability>
+<entity_type>wh_crypt_ghoul</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{5ca12ab5-169a-4b64-ba40-cdb2b08627f8}" record_timestamp="1426848052806" record_key="wh_crypt_ghoulencouragement">
+<ability></ability>
+<entity_type>wh_crypt_ghoul</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1abe4ce5-3048-42e9-9f00-8e1615fd2100}" record_timestamp="1423503624143" record_key="wh_crypt_ghoulfighting">
+<ability></ability>
+<entity_type>wh_crypt_ghoul</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{803285ea-9500-45e7-b0b7-4849279906ff}" record_timestamp="1423503624203" record_key="wh_crypt_ghoulinjured">
+<ability></ability>
+<entity_type>wh_crypt_ghoul</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{035491f4-c933-438e-90ea-1c66d060590f}" record_timestamp="1423503624382" record_key="wh_crypt_ghoulresponse">
+<ability></ability>
+<entity_type>wh_crypt_ghoul</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{11d33815-8f8b-4b7f-90f2-712053d61084}" record_timestamp="1455018821030" record_key="wh_crypt_ghoulselection">
+<ability></ability>
+<entity_type>wh_crypt_ghoul</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{704ae1e2-137c-44db-a1ea-e676e157b289}" record_timestamp="1455811500841" record_key="wh_crypt_ghoultaunt">
+<ability></ability>
+<entity_type>wh_crypt_ghoul</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_taunt</group_sound>
+<situation>taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a7e3d006-b6b7-427d-84bd-62cfaa9fe54c}" record_timestamp="1470145101151" record_key="wh_crypt_horror_LHcharge">
+<ability></ability>
+<entity_type>wh_crypt_horror_LH</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{719ef224-447b-409b-8f00-3bd40026fc66}" record_timestamp="1470145101151" record_key="wh_crypt_horror_LHencouragement">
+<ability></ability>
+<entity_type>wh_crypt_horror_LH</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{e9ca3f8e-3240-40bd-9494-42d84838ece5}" record_timestamp="1470145101152" record_key="wh_crypt_horror_LHfighting">
+<ability></ability>
+<entity_type>wh_crypt_horror_LH</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{fe07f239-3678-4c03-a35b-5f897b5b70cd}" record_timestamp="1470145101152" record_key="wh_crypt_horror_LHinjured">
+<ability></ability>
+<entity_type>wh_crypt_horror_LH</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{feafb63b-9799-412a-884d-4c464f0b41ab}" record_timestamp="1470145101152" record_key="wh_crypt_horror_LHresponse">
+<ability></ability>
+<entity_type>wh_crypt_horror_LH</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{230fbc0f-1556-4e54-8e75-e3afe354027b}" record_timestamp="1470145101152" record_key="wh_crypt_horror_LHselection">
+<ability></ability>
+<entity_type>wh_crypt_horror_LH</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f8d40d58-6707-4421-895a-32dd8726a4e4}" record_timestamp="1470145101152" record_key="wh_crypt_horror_LHtaunting">
+<ability></ability>
+<entity_type>wh_crypt_horror_LH</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2a8ec559-87b5-4386-bcb9-8e6ae6045299}" record_timestamp="1423503624441" record_key="wh_crypt_horrorcharge">
+<ability></ability>
+<entity_type>wh_crypt_horror</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{e04a4e9e-9034-4fea-a40a-cb8aa92db699}" record_timestamp="1426848052819" record_key="wh_crypt_horrorencouragement">
+<ability></ability>
+<entity_type>wh_crypt_horror</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{34f4cdaf-c4a5-4dce-91d0-432d1d353a28}" record_timestamp="1423503624499" record_key="wh_crypt_horrorfighting">
+<ability></ability>
+<entity_type>wh_crypt_horror</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7f880628-36bf-490e-9526-2e79233ce8af}" record_timestamp="1423503624556" record_key="wh_crypt_horrorinjured">
+<ability></ability>
+<entity_type>wh_crypt_horror</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1ed72357-c127-4d26-a0b4-09e711e6e074}" record_timestamp="1423503624738" record_key="wh_crypt_horrorresponse">
+<ability></ability>
+<entity_type>wh_crypt_horror</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{aa31fb53-ed68-4647-8326-7ae8989fd873}" record_timestamp="1455018821230" record_key="wh_crypt_horrorselection">
+<ability></ability>
+<entity_type>wh_crypt_horror</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d80e39bf-454a-4856-852b-af39e70a6692}" record_timestamp="1431354012047" record_key="wh_crypt_horrortaunting">
+<ability></ability>
+<entity_type>wh_crypt_horror</entity_type>
+<group_sound>wh_grp_vocalisation_crypt_ghoul_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c4124958-713d-467f-b08f-6024576a8c5e}" record_timestamp="1423503624796" record_key="wh_demigryphcharge">
+<ability></ability>
+<entity_type>wh_demigryph</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{acb968c1-7ddd-46cc-9d26-8e3b347fc7df}" record_timestamp="1426848052833" record_key="wh_demigryphencouragement">
+<ability></ability>
+<entity_type>wh_demigryph</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{712806d1-5a06-4623-8f94-00cf11b5571a}" record_timestamp="1423503624854" record_key="wh_demigryphfighting">
+<ability></ability>
+<entity_type>wh_demigryph</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{3f7212cb-2bfa-40a8-a3a9-78edcc7e32bb}" record_timestamp="1423503624912" record_key="wh_demigryphinjured">
+<ability></ability>
+<entity_type>wh_demigryph</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1e9a579e-38fe-4799-bf66-171991e6ef51}" record_timestamp="1423503625086" record_key="wh_demigryphresponse">
+<ability></ability>
+<entity_type>wh_demigryph</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a1460ddc-08b8-4072-8ac0-22552863dcff}" record_timestamp="1431354012224" record_key="wh_demigryphtaunting">
+<ability></ability>
+<entity_type>wh_demigryph</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{4547964c-18f6-4582-ad34-60ae6e8572be}" record_timestamp="1456746340691" record_key="wh_dire_wolve_warhound_LHcharge">
+<ability></ability>
+<entity_type>wh_dire_wolve_warhound_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dire_wolves_and_chaos_warhound_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{0a2f5467-7c67-4f1d-bbf3-226baa96ad50}" record_timestamp="1456746340691" record_key="wh_dire_wolve_warhound_LHencouragement">
+<ability></ability>
+<entity_type>wh_dire_wolve_warhound_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dire_wolves_and_chaos_warhound_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{08577463-9204-4c82-a793-4d054b15f3a1}" record_timestamp="1456746340692" record_key="wh_dire_wolve_warhound_LHfighting">
+<ability></ability>
+<entity_type>wh_dire_wolve_warhound_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dire_wolves_and_chaos_warhound_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{ba065d6d-ee32-4f81-ae1b-a7424a63c282}" record_timestamp="1456746340692" record_key="wh_dire_wolve_warhound_LHinjured">
+<ability></ability>
+<entity_type>wh_dire_wolve_warhound_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dire_wolves_and_chaos_warhound_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6ab6898e-9ea1-4011-a88e-964ca61bd398}" record_timestamp="1456746340692" record_key="wh_dire_wolve_warhound_LHresponse">
+<ability></ability>
+<entity_type>wh_dire_wolve_warhound_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dire_wolves_and_chaos_warhound_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d48a117c-6c15-4a9b-866e-4dc1246aa200}" record_timestamp="1456746340692" record_key="wh_dire_wolve_warhound_LHselection">
+<ability></ability>
+<entity_type>wh_dire_wolve_warhound_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dire_wolves_and_chaos_warhound_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6a70b0d9-56d6-4821-8181-6f08c0e45bcf}" record_timestamp="1423503625144" record_key="wh_dire_wolve_warhoundcharge">
+<ability></ability>
+<entity_type>wh_dire_wolve_warhound</entity_type>
+<group_sound>wh_grp_vocalisation_dire_wolves_and_chaos_warhound_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{0c2fa1de-b18f-40b6-92af-bd899a862a80}" record_timestamp="1426848052846" record_key="wh_dire_wolve_warhoundencouragement">
+<ability></ability>
+<entity_type>wh_dire_wolve_warhound</entity_type>
+<group_sound>wh_grp_vocalisation_dire_wolves_and_chaos_warhound_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6cb83bdc-3a00-4e63-88fb-4ed870c1c7f0}" record_timestamp="1423503625203" record_key="wh_dire_wolve_warhoundfighting">
+<ability></ability>
+<entity_type>wh_dire_wolve_warhound</entity_type>
+<group_sound>wh_grp_vocalisation_dire_wolves_and_chaos_warhound_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{193cc8d0-11ff-4e12-8816-bb5d1194baa3}" record_timestamp="1423503625260" record_key="wh_dire_wolve_warhoundinjured">
+<ability></ability>
+<entity_type>wh_dire_wolve_warhound</entity_type>
+<group_sound>wh_grp_vocalisation_dire_wolves_and_chaos_warhound_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c6ec690a-ed93-45ad-bc64-d38aa677e6e4}" record_timestamp="1423503625430" record_key="wh_dire_wolve_warhoundresponse">
+<ability></ability>
+<entity_type>wh_dire_wolve_warhound</entity_type>
+<group_sound>wh_grp_vocalisation_dire_wolves_and_chaos_warhound_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1cc7053e-aba0-4ebf-af1b-806460132d56}" record_timestamp="1455018820996" record_key="wh_dire_wolve_warhoundselection">
+<ability></ability>
+<entity_type>wh_dire_wolve_warhound</entity_type>
+<group_sound>wh_grp_vocalisation_dire_wolves_and_chaos_warhound_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{35294983-4344-49be-b92f-7609aac73f0a}" record_timestamp="1455811500862" record_key="wh_dire_wolve_warhoundtaunt">
+<ability></ability>
+<entity_type>wh_dire_wolve_warhound</entity_type>
+<group_sound>wh_grp_vocalisation_dire_wolves_and_chaos_warhound_taunt</group_sound>
+<situation>taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{88c9e6fd-0a6f-4d04-9091-a6a94b9d8485}" record_timestamp="1486746439448" record_key="wh_dlc_brt_grailcharge">
+<ability></ability>
+<entity_type>wh_dlc_brt_grail</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_french_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2c345e2c-49d7-45ee-858f-5c4f2339148b}" record_timestamp="1486746439448" record_key="wh_dlc_brt_grailcheering">
+<ability></ability>
+<entity_type>wh_dlc_brt_grail</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_french_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2ade664c-d668-4b57-9813-4aa90bcb8b27}" record_timestamp="1486746439448" record_key="wh_dlc_brt_grailencouragement">
+<ability></ability>
+<entity_type>wh_dlc_brt_grail</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_french_taunting</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{4db9643b-fa9d-428f-b01e-4ff9fcd916d0}" record_timestamp="1486746439448" record_key="wh_dlc_brt_grailfighting">
+<ability></ability>
+<entity_type>wh_dlc_brt_grail</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{861d0fd5-e61f-401f-aa1b-fd9ab9fa8c32}" record_timestamp="1486746439448" record_key="wh_dlc_brt_grailinjured">
+<ability></ability>
+<entity_type>wh_dlc_brt_grail</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d5d4e48a-a668-4b44-81e8-0263843da2c4}" record_timestamp="1486746439448" record_key="wh_dlc_brt_grailresponse">
+<ability></ability>
+<entity_type>wh_dlc_brt_grail</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_french_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a9e982c7-5eef-4a08-b5e1-09c7a239fd1a}" record_timestamp="1486746439448" record_key="wh_dlc_brt_grailselection">
+<ability></ability>
+<entity_type>wh_dlc_brt_grail</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_french_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c965116e-4812-4f1a-b561-1807ec6eae7f}" record_timestamp="1486746439448" record_key="wh_dlc_brt_grailtaunting">
+<ability></ability>
+<entity_type>wh_dlc_brt_grail</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_french_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{db796f93-61fb-4624-9670-f23110a6c27f}" record_timestamp="1465065297600" record_key="wh_dlc_centigorcharge">
+<ability></ability>
+<entity_type>wh_dlc_centigor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7f01fa11-f853-436b-a0f5-e7db20ab5c42}" record_timestamp="1465065297600" record_key="wh_dlc_centigorcheering">
+<ability></ability>
+<entity_type>wh_dlc_centigor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f8eb0214-70e5-4985-82a6-651f5e7c2c18}" record_timestamp="1465065297600" record_key="wh_dlc_centigorencouragement">
+<ability></ability>
+<entity_type>wh_dlc_centigor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{74cfa9ab-0a13-412d-8e92-6c5990e97f94}" record_timestamp="1465065297600" record_key="wh_dlc_centigorfighting">
+<ability></ability>
+<entity_type>wh_dlc_centigor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{42616b7e-bdec-4345-91e6-6509be50bb52}" record_timestamp="1465065297601" record_key="wh_dlc_centigorinjured">
+<ability></ability>
+<entity_type>wh_dlc_centigor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{09455606-2809-4c63-96b7-e05c1fb49a79}" record_timestamp="1466680701476" record_key="wh_dlc_centigormoving_taunt">
+<ability></ability>
+<entity_type>wh_dlc_centigor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_moving_taunt</group_sound>
+<situation>moving_taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{b20f11f1-ef62-43f9-9e6d-ebac6a46df4b}" record_timestamp="1465065297601" record_key="wh_dlc_centigorresponse">
+<ability></ability>
+<entity_type>wh_dlc_centigor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{fb1beb60-afb0-47b1-8ec1-d928c8c3bbd5}" record_timestamp="1465065297601" record_key="wh_dlc_centigorselection">
+<ability></ability>
+<entity_type>wh_dlc_centigor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{760a9314-c5f5-464a-9038-3c454a360667}" record_timestamp="1465065297600" record_key="wh_dlc_centigortaunting">
+<ability></ability>
+<entity_type>wh_dlc_centigor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{45bbf36a-adcc-46ad-b2fb-88453023ee25}" record_timestamp="1453131974776" record_key="wh_dlc_chaos_forsakencharge">
+<ability></ability>
+<entity_type>wh_dlc_chaos_forsaken</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_forsaken_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2d7dfcfe-6d60-409e-9e3b-556b04d0434a}" record_timestamp="1453131974776" record_key="wh_dlc_chaos_forsakencheering">
+<ability></ability>
+<entity_type>wh_dlc_chaos_forsaken</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_forsaken_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{268efe68-33ff-4c39-b577-6c6936e2e6f4}" record_timestamp="1453131974776" record_key="wh_dlc_chaos_forsakenencouragement">
+<ability></ability>
+<entity_type>wh_dlc_chaos_forsaken</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_forsaken_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{3969619e-889f-4f73-b841-d0a920c4671b}" record_timestamp="1453131974776" record_key="wh_dlc_chaos_forsakenfighting">
+<ability></ability>
+<entity_type>wh_dlc_chaos_forsaken</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_forsaken_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{233bf290-94a7-4037-ad42-7c1a76885d04}" record_timestamp="1453131974776" record_key="wh_dlc_chaos_forsakeninjured">
+<ability></ability>
+<entity_type>wh_dlc_chaos_forsaken</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_forsaken_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{48fa749a-8087-4eab-8bab-cc9e3396ab94}" record_timestamp="1459935722199" record_key="wh_dlc_chaos_forsakenmoving_taunt">
+<ability></ability>
+<entity_type>wh_dlc_chaos_forsaken</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_forsaken_moving_taunt</group_sound>
+<situation>moving_taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f634f1f7-7598-4178-87b5-5adb72dc3ec6}" record_timestamp="1453131974776" record_key="wh_dlc_chaos_forsakenresponse">
+<ability></ability>
+<entity_type>wh_dlc_chaos_forsaken</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_forsaken_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d9cc9e8f-f61d-4245-9739-cb3c462f6485}" record_timestamp="1453131974776" record_key="wh_dlc_chaos_forsakenselection">
+<ability></ability>
+<entity_type>wh_dlc_chaos_forsaken</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_forsaken_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a802929d-37ee-46b0-b257-66b409c3e82a}" record_timestamp="1455808542171" record_key="wh_dlc_chaos_forsakentaunt">
+<ability></ability>
+<entity_type>wh_dlc_chaos_forsaken</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_forsaken_taunt</group_sound>
+<situation>taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f1a4d9c4-6f47-4242-9f6e-dfab2c9464f0}" record_timestamp="1460470711581" record_key="wh_dlc_chaos_forsakentaunting">
+<ability></ability>
+<entity_type>wh_dlc_chaos_forsaken</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_forsaken_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{bd3d61ac-c6c4-4900-86c6-99a35ba3a2ad}" record_timestamp="1466254426191" record_key="wh_dlc_gor_LHcharge">
+<ability></ability>
+<entity_type>wh_dlc_gor_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{99a7451a-30e1-4b65-b8ac-1bbd99d2e5f7}" record_timestamp="1466254426191" record_key="wh_dlc_gor_LHcheering">
+<ability></ability>
+<entity_type>wh_dlc_gor_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{5de99c50-be80-49da-8d32-4b68c3954ad0}" record_timestamp="1466254426191" record_key="wh_dlc_gor_LHencouragement">
+<ability></ability>
+<entity_type>wh_dlc_gor_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{44334cc3-270d-42d8-bc49-e7b2341ed055}" record_timestamp="1466254426191" record_key="wh_dlc_gor_LHfighting">
+<ability></ability>
+<entity_type>wh_dlc_gor_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{decca1a9-9310-447d-a15e-ad7ad31b0a43}" record_timestamp="1466254426192" record_key="wh_dlc_gor_LHinjured">
+<ability></ability>
+<entity_type>wh_dlc_gor_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{b72f0cc9-78aa-4371-ad56-bd99a9e71052}" record_timestamp="1466254426192" record_key="wh_dlc_gor_LHresponse">
+<ability></ability>
+<entity_type>wh_dlc_gor_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c0f0bc09-f804-4cf2-b534-ed885edc3f0c}" record_timestamp="1466254426192" record_key="wh_dlc_gor_LHselection">
+<ability></ability>
+<entity_type>wh_dlc_gor_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{44250ef7-30a3-437c-b1d3-0d70a80c48c3}" record_timestamp="1466254426191" record_key="wh_dlc_gor_LHtaunting">
+<ability></ability>
+<entity_type>wh_dlc_gor_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7c60e254-39fe-4340-a24c-55846bfda09c}" record_timestamp="1466592767581" record_key="wh_dlc_gor_bray_shamen_LHcharge">
+<ability></ability>
+<entity_type>wh_dlc_gor_bray_shamen_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1d80563c-1860-43ad-b19d-7ec679fe9edf}" record_timestamp="1466592767581" record_key="wh_dlc_gor_bray_shamen_LHcheering">
+<ability></ability>
+<entity_type>wh_dlc_gor_bray_shamen_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2bcfcbd3-0432-4981-a22a-415b9589f0dd}" record_timestamp="1466592767581" record_key="wh_dlc_gor_bray_shamen_LHencouragement">
+<ability></ability>
+<entity_type>wh_dlc_gor_bray_shamen_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{3588187f-5829-4a00-9af4-065d34a6e9d2}" record_timestamp="1466592767582" record_key="wh_dlc_gor_bray_shamen_LHfighting">
+<ability></ability>
+<entity_type>wh_dlc_gor_bray_shamen_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2a207a93-0f01-4585-851a-433209293daa}" record_timestamp="1466592767582" record_key="wh_dlc_gor_bray_shamen_LHinjured">
+<ability></ability>
+<entity_type>wh_dlc_gor_bray_shamen_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{3437ce5e-bc0e-4749-84bd-150e3015a622}" record_timestamp="1466592767582" record_key="wh_dlc_gor_bray_shamen_LHresponse">
+<ability></ability>
+<entity_type>wh_dlc_gor_bray_shamen_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{bcde743c-4358-4ef6-a4ec-601b85420a03}" record_timestamp="1466592767582" record_key="wh_dlc_gor_bray_shamen_LHselection">
+<ability></ability>
+<entity_type>wh_dlc_gor_bray_shamen_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1f603856-6479-4512-8ef3-33ffc1025d62}" record_timestamp="1466592767582" record_key="wh_dlc_gor_bray_shamen_LHtaunting">
+<ability></ability>
+<entity_type>wh_dlc_gor_bray_shamen_LH</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1102196e-1c97-4511-aadb-af7194c019ab}" record_timestamp="1465065297601" record_key="wh_dlc_gorcharge">
+<ability></ability>
+<entity_type>wh_dlc_gor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{e45908ce-defd-47aa-b130-458e8103653b}" record_timestamp="1465065297601" record_key="wh_dlc_gorcheering">
+<ability></ability>
+<entity_type>wh_dlc_gor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f8a34a19-9479-4c30-b8ec-abfca3304c34}" record_timestamp="1465065297601" record_key="wh_dlc_gorencouragement">
+<ability></ability>
+<entity_type>wh_dlc_gor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a14716df-9772-4377-848b-f5e0f45194f6}" record_timestamp="1465065297601" record_key="wh_dlc_gorfighting">
+<ability></ability>
+<entity_type>wh_dlc_gor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{271c485c-4703-41ce-ae51-9436598404c5}" record_timestamp="1465065297601" record_key="wh_dlc_gorinjured">
+<ability></ability>
+<entity_type>wh_dlc_gor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{79c69670-fed7-4d80-9868-6fb48882a02c}" record_timestamp="1466680701484" record_key="wh_dlc_gormoving_taunt">
+<ability></ability>
+<entity_type>wh_dlc_gor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_moving_taunt</group_sound>
+<situation>moving_taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{5ca63786-0d33-4edb-b636-de269cbf1707}" record_timestamp="1465065297601" record_key="wh_dlc_gorresponse">
+<ability></ability>
+<entity_type>wh_dlc_gor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{83c6f0bd-a96f-4edd-b469-656863068244}" record_timestamp="1465065297602" record_key="wh_dlc_gorselection">
+<ability></ability>
+<entity_type>wh_dlc_gor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{950236d4-7169-4769-9aec-b12ed392c600}" record_timestamp="1465065297601" record_key="wh_dlc_gortaunting">
+<ability></ability>
+<entity_type>wh_dlc_gor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{b09818b1-19ff-4e2d-b62a-99020cc69a64}" record_timestamp="1466593079094" record_key="wh_dlc_minotaurcharge">
+<ability></ability>
+<entity_type>wh_dlc_minotaur</entity_type>
+<group_sound>wh_grp_vocalisation_minotaur_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{e5050a98-226c-4a81-a0f7-4e81a3c4867a}" record_timestamp="1466593079094" record_key="wh_dlc_minotaurcheering">
+<ability></ability>
+<entity_type>wh_dlc_minotaur</entity_type>
+<group_sound>wh_grp_vocalisation_minotaur_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c8b122ea-2f5a-46a4-9734-244398dcc951}" record_timestamp="1466593079094" record_key="wh_dlc_minotaurencouragement">
+<ability></ability>
+<entity_type>wh_dlc_minotaur</entity_type>
+<group_sound>wh_grp_vocalisation_minotaur_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{3ff47ab1-4f09-4faa-846f-cf82e60d2c45}" record_timestamp="1466593079094" record_key="wh_dlc_minotaurfighting">
+<ability></ability>
+<entity_type>wh_dlc_minotaur</entity_type>
+<group_sound>wh_grp_vocalisation_minotaur_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{993ab192-2f09-49da-86b2-6e232c751db0}" record_timestamp="1466593079094" record_key="wh_dlc_minotaurinjured">
+<ability></ability>
+<entity_type>wh_dlc_minotaur</entity_type>
+<group_sound>wh_grp_vocalisation_minotaur_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{5e193acc-eeab-4bad-943a-c4b18d13f709}" record_timestamp="1466593079094" record_key="wh_dlc_minotaurresponse">
+<ability></ability>
+<entity_type>wh_dlc_minotaur</entity_type>
+<group_sound>wh_grp_vocalisation_minotaur_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{191c03f3-7603-43ab-9fbf-b0cf1c200c82}" record_timestamp="1466593079095" record_key="wh_dlc_minotaurselection">
+<ability></ability>
+<entity_type>wh_dlc_minotaur</entity_type>
+<group_sound>wh_grp_vocalisation_minotaur_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7c13ea6e-97a6-46b5-8b64-ea7be9f3f643}" record_timestamp="1466593079094" record_key="wh_dlc_minotaurtaunting">
+<ability></ability>
+<entity_type>wh_dlc_minotaur</entity_type>
+<group_sound>wh_grp_vocalisation_minotaur_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{31a375b7-e18e-4d64-8d8b-ec4f8e6b8e0d}" record_timestamp="1474283882217" record_key="wh_dlc_squig_LHcharge">
+<ability></ability>
+<entity_type>wh_dlc_squig_LH</entity_type>
+<group_sound>wh_grp_vocalisation_squig_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{17e5a3b0-df57-4fc0-a5bb-02fb90c0c532}" record_timestamp="1474283882218" record_key="wh_dlc_squig_LHencouragement">
+<ability></ability>
+<entity_type>wh_dlc_squig_LH</entity_type>
+<group_sound>wh_grp_vocalisation_squig_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c68f8d12-495e-461e-ab91-f0c38e35e302}" record_timestamp="1474283882219" record_key="wh_dlc_squig_LHfighting">
+<ability></ability>
+<entity_type>wh_dlc_squig_LH</entity_type>
+<group_sound>wh_grp_vocalisation_squig_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f70942f0-f281-4454-9a05-c87a8f75e905}" record_timestamp="1474283882219" record_key="wh_dlc_squig_LHinjured">
+<ability></ability>
+<entity_type>wh_dlc_squig_LH</entity_type>
+<group_sound>wh_grp_vocalisation_squig_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{5f9f5002-f586-4134-8543-2c3b099093d0}" record_timestamp="1477035609261" record_key="wh_dlc_squig_LHresponse">
+<ability></ability>
+<entity_type>wh_dlc_squig_LH</entity_type>
+<group_sound>wh_grp_vocalisation_squig_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{39e80346-a330-4a47-9fe5-428c3a1e7208}" record_timestamp="1477035609260" record_key="wh_dlc_squig_LHselection">
+<ability></ability>
+<entity_type>wh_dlc_squig_LH</entity_type>
+<group_sound>wh_grp_vocalisation_squig_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{b4ede8a7-fc66-41b9-999d-ba7ca386593f}" record_timestamp="1471865790329" record_key="wh_dlc_squigcharge">
+<ability></ability>
+<entity_type>wh_dlc_squig</entity_type>
+<group_sound>wh_grp_vocalisation_squig_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{45617153-57b0-49a0-8d43-fdd9794394a9}" record_timestamp="1471865790327" record_key="wh_dlc_squigencouragement">
+<ability></ability>
+<entity_type>wh_dlc_squig</entity_type>
+<group_sound>wh_grp_vocalisation_squig_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{02d70774-b37a-42e4-88b7-b604c92fb3a1}" record_timestamp="1471865790328" record_key="wh_dlc_squigfighting">
+<ability></ability>
+<entity_type>wh_dlc_squig</entity_type>
+<group_sound>wh_grp_vocalisation_squig_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{28ff22ed-2a12-438c-822d-40ced7a81178}" record_timestamp="1471865790332" record_key="wh_dlc_squiginjured">
+<ability></ability>
+<entity_type>wh_dlc_squig</entity_type>
+<group_sound>wh_grp_vocalisation_squig_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{83ec46f1-d557-472d-9a9f-a73dc40696c0}" record_timestamp="1477035609249" record_key="wh_dlc_squigmoving">
+<ability></ability>
+<entity_type>wh_dlc_squig</entity_type>
+<group_sound>wh_grp_vocalisation_squig_running</group_sound>
+<situation>moving</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c8601a6e-28ed-44da-a191-e5d5a9a5304f}" record_timestamp="1477035609260" record_key="wh_dlc_squigresponse">
+<ability></ability>
+<entity_type>wh_dlc_squig</entity_type>
+<group_sound>wh_grp_vocalisation_squig_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7ff89b9a-c65b-4213-9e96-35f3a8e2aa3c}" record_timestamp="1477035609282" record_key="wh_dlc_squigselection">
+<ability></ability>
+<entity_type>wh_dlc_squig</entity_type>
+<group_sound>wh_grp_vocalisation_squig_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6f74f9dd-a941-4f07-a628-f61028ef645a}" record_timestamp="1466593079095" record_key="wh_dlc_ungorcharge">
+<ability></ability>
+<entity_type>wh_dlc_ungor</entity_type>
+<group_sound>wh_grp_vocalisation_ungor_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{af9a314c-9193-41f6-87ae-1631a9338a6e}" record_timestamp="1466593079095" record_key="wh_dlc_ungorcheering">
+<ability></ability>
+<entity_type>wh_dlc_ungor</entity_type>
+<group_sound>wh_grp_vocalisation_ungor_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{50f9a99f-051a-4499-89b1-41c1280cac1d}" record_timestamp="1466593079095" record_key="wh_dlc_ungorencouragement">
+<ability></ability>
+<entity_type>wh_dlc_ungor</entity_type>
+<group_sound>wh_grp_vocalisation_ungor_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{db3a31aa-a32c-483d-815a-68776c3600bb}" record_timestamp="1466593079095" record_key="wh_dlc_ungorfighting">
+<ability></ability>
+<entity_type>wh_dlc_ungor</entity_type>
+<group_sound>wh_grp_vocalisation_ungor_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a8debcd1-90e1-4f7d-b265-ae148214b24a}" record_timestamp="1466593079095" record_key="wh_dlc_ungorinjured">
+<ability></ability>
+<entity_type>wh_dlc_ungor</entity_type>
+<group_sound>wh_grp_vocalisation_ungor_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{abaa535c-e94e-4129-892c-285de3c9a865}" record_timestamp="1466680701467" record_key="wh_dlc_ungormoving_taunt">
+<ability></ability>
+<entity_type>wh_dlc_ungor</entity_type>
+<group_sound>wh_grp_vocalisation_beastmen_moving_taunt</group_sound>
+<situation>moving_taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1d8ab2d3-efb0-446a-a48d-4b104587cbe6}" record_timestamp="1466593079095" record_key="wh_dlc_ungorresponse">
+<ability></ability>
+<entity_type>wh_dlc_ungor</entity_type>
+<group_sound>wh_grp_vocalisation_ungor_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{18227992-859a-422c-a34b-369d5d67043e}" record_timestamp="1466593079095" record_key="wh_dlc_ungorselection">
+<ability></ability>
+<entity_type>wh_dlc_ungor</entity_type>
+<group_sound>wh_grp_vocalisation_ungor_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{fe26daa1-a90d-4ba7-af28-224a2057ad4c}" record_timestamp="1466593079095" record_key="wh_dlc_ungortaunting">
+<ability></ability>
+<entity_type>wh_dlc_ungor</entity_type>
+<group_sound>wh_grp_vocalisation_ungor_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{151a7d03-da52-4534-8028-55c91087ddd5}" record_timestamp="1479307731479" record_key="wh_dlc_wef_dryadcharge">
+<ability></ability>
+<entity_type>wh_dlc_wef_dryad</entity_type>
+<group_sound>wh_grp_vocalisation_dryads_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{507f101f-ca2f-41e0-a80a-a9325a351672}" record_timestamp="1479307731480" record_key="wh_dlc_wef_dryadencouragement">
+<ability></ability>
+<entity_type>wh_dlc_wef_dryad</entity_type>
+<group_sound>wh_grp_vocalisation_dryads_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{3db898a6-9412-44c8-9615-a2a5aa6f68f5}" record_timestamp="1479307731479" record_key="wh_dlc_wef_dryadfighting">
+<ability></ability>
+<entity_type>wh_dlc_wef_dryad</entity_type>
+<group_sound>wh_grp_vocalisation_dryads_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{35373e01-6325-416e-981a-4c1887cd2050}" record_timestamp="1479308737468" record_key="wh_dlc_wef_dryadidle">
+<ability></ability>
+<entity_type>wh_dlc_wef_dryad</entity_type>
+<group_sound>wh_grp_vocalisation_dryads_idle</group_sound>
+<situation>idle</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{43ee1969-38c0-497f-b5d5-db90a15e3f06}" record_timestamp="1479307731479" record_key="wh_dlc_wef_dryadinjured">
+<ability></ability>
+<entity_type>wh_dlc_wef_dryad</entity_type>
+<group_sound>wh_grp_vocalisation_dryads_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f3fa4ea0-8aa8-47e3-8f0f-5e3eb65f4469}" record_timestamp="1479307731479" record_key="wh_dlc_wef_dryadresponse">
+<ability></ability>
+<entity_type>wh_dlc_wef_dryad</entity_type>
+<group_sound>wh_grp_vocalisation_dryads_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{61dcc972-9da5-40bc-a6ed-36e454dd6797}" record_timestamp="1479307755284" record_key="wh_dlc_wef_dryadselection">
+<ability></ability>
+<entity_type>wh_dlc_wef_dryad</entity_type>
+<group_sound>wh_grp_vocalisation_dryads_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{13bbb4f0-3122-483c-87d1-6822f23a7e3c}" record_timestamp="1479307731480" record_key="wh_dlc_wef_dryadtaunting">
+<ability></ability>
+<entity_type>wh_dlc_wef_dryad</entity_type>
+<group_sound>wh_grp_vocalisation_dryads_melee</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{9287d513-774e-43d6-bdb0-6cba0a9c580f}" record_timestamp="1479315871776" record_key="wh_dlc_wef_elf_female_LHcharge">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female_LH</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_female_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{dba56635-0e99-41e2-9d78-20182316d8f4}" record_timestamp="1479315873843" record_key="wh_dlc_wef_elf_female_LHcheering">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female_LH</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_female_melee</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c69f1c7e-5345-4761-a9fc-f6eb7e73d256}" record_timestamp="1479315871778" record_key="wh_dlc_wef_elf_female_LHencouragement">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female_LH</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f5671086-b0de-4405-9137-ba9cd54d5487}" record_timestamp="1479315871778" record_key="wh_dlc_wef_elf_female_LHfighting">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female_LH</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2511e87c-d4aa-40c3-8441-9cf86b0be506}" record_timestamp="1479315871779" record_key="wh_dlc_wef_elf_female_LHinjured">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female_LH</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_female_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d6ed8a4a-4439-4156-8dc7-d25f13def1d1}" record_timestamp="1479315871780" record_key="wh_dlc_wef_elf_female_LHresponse">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female_LH</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_female_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d441fa5d-baec-4aee-8b06-49acacb2b8ee}" record_timestamp="1479315873841" record_key="wh_dlc_wef_elf_female_LHselection">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female_LH</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_female_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{44323802-82cc-477b-b604-0b888dc18854}" record_timestamp="1479314474456" record_key="wh_dlc_wef_elf_femalecharge">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_female_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{622bdcfa-621c-4e76-95c3-9ed8ba1b90cb}" record_timestamp="1479314474480" record_key="wh_dlc_wef_elf_femalecheering">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_female_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{bfd3e051-292c-4f80-9733-70a3c56ea98b}" record_timestamp="1479314474456" record_key="wh_dlc_wef_elf_femaleencouragement">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_female_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{9a70559a-459f-4715-9aaa-a80d326a56eb}" record_timestamp="1479314474457" record_key="wh_dlc_wef_elf_femalefighting">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_female_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2515bca4-38b1-4b20-8d47-38c37294deff}" record_timestamp="1479314474458" record_key="wh_dlc_wef_elf_femaleinjured">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_female_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{fcd6a859-9ccf-4d25-8a56-55873ab14cb5}" record_timestamp="1479314474459" record_key="wh_dlc_wef_elf_femaleresponse">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_female_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7fdee783-cbfa-44b7-b313-80f7159d5942}" record_timestamp="1479314474460" record_key="wh_dlc_wef_elf_femaleselection">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_female_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7c120f4c-d9eb-4c49-9042-11f9e0ce81a0}" record_timestamp="1479315873837" record_key="wh_dlc_wef_elf_femaletaunt">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_female_taunt</group_sound>
+<situation>taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7a50b2d5-6da9-4dea-b854-9605dfc84669}" record_timestamp="1479315873838" record_key="wh_dlc_wef_elf_femaletaunting">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_female</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_female_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d9347862-1168-46b2-b08c-5a91ac8278c8}" record_timestamp="1479315871795" record_key="wh_dlc_wef_elf_male_LHcharge">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male_LH</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c4ca678b-7405-49d9-9c69-927f83ace7f5}" record_timestamp="1479315873842" record_key="wh_dlc_wef_elf_male_LHcheering">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male_LH</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_melee</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{57c7e772-f9b1-431d-b6fd-49b1a5f31955}" record_timestamp="1479315871796" record_key="wh_dlc_wef_elf_male_LHencouragement">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male_LH</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1c771f38-1e5e-455c-90cf-2d8a92c2b35a}" record_timestamp="1479315871797" record_key="wh_dlc_wef_elf_male_LHfighting">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male_LH</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6e19c0c3-947f-4429-a829-e3767d3caf94}" record_timestamp="1479315871798" record_key="wh_dlc_wef_elf_male_LHinjured">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male_LH</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{448f7f49-61cc-4467-b026-769eba23b270}" record_timestamp="1479315871798" record_key="wh_dlc_wef_elf_male_LHresponse">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male_LH</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{74aa3fc6-cadc-435e-866d-9bcc76030848}" record_timestamp="1479315873843" record_key="wh_dlc_wef_elf_male_LHselection">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male_LH</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c8167af3-8bb6-433e-ab88-759c5882ffa5}" record_timestamp="1479314474481" record_key="wh_dlc_wef_elf_malecharge">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{e961f59a-a287-4540-b89a-0b56cc2b4ed8}" record_timestamp="1479315873835" record_key="wh_dlc_wef_elf_malecheering">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_melee</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{fcf09113-dcdc-46f6-998b-6cc92afaae46}" record_timestamp="1479314474483" record_key="wh_dlc_wef_elf_maleencouragement">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7fc09195-beaa-4bb0-84e0-b99e3b3f499e}" record_timestamp="1479314474493" record_key="wh_dlc_wef_elf_malefighting">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{b12f83c6-ef02-4bb5-bf0d-6e3ba5f928c1}" record_timestamp="1479314474494" record_key="wh_dlc_wef_elf_maleinjured">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{57f1ac60-5dae-497c-872f-531892455053}" record_timestamp="1479314474495" record_key="wh_dlc_wef_elf_maleresponse">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1ddcda0d-a13b-4998-8a29-e1c8a2730ad8}" record_timestamp="1479315873840" record_key="wh_dlc_wef_elf_maleselection">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{95d967f6-02e1-45b1-93de-1485d8422013}" record_timestamp="1479315873839" record_key="wh_dlc_wef_elf_maletaunt">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_taunt</group_sound>
+<situation>taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{9ffd2708-77f7-414b-96d7-dacd52f8f575}" record_timestamp="1479315873840" record_key="wh_dlc_wef_elf_maletaunting">
+<ability></ability>
+<entity_type>wh_dlc_wef_elf_male</entity_type>
+<group_sound>wh_grp_vocalisation_woodelf_male_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d9b13bc9-8344-4a14-a0b5-989a31080109}" record_timestamp="1481909455591" record_key="wh_dlc_wef_harpiescharge">
+<ability></ability>
+<entity_type>wh_dlc_wef_harpies</entity_type>
+<group_sound>wh_grp_vocalisation_harpies_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{57e78247-1c26-460b-b17e-576857ef3064}" record_timestamp="1481035885453" record_key="wh_dlc_wef_harpiesfighting">
+<ability></ability>
+<entity_type>wh_dlc_wef_harpies</entity_type>
+<group_sound>wh_grp_vocalisation_harpies_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{4f438b98-06b8-414e-842f-2e26eba60eb4}" record_timestamp="1481035885448" record_key="wh_dlc_wef_harpiesidle">
+<ability></ability>
+<entity_type>wh_dlc_wef_harpies</entity_type>
+<group_sound>wh_grp_vocalisation_harpies_idle</group_sound>
+<situation>idle</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{9876e690-43eb-438a-828e-6f11e62cccb8}" record_timestamp="1481035885454" record_key="wh_dlc_wef_harpiesinjured">
+<ability></ability>
+<entity_type>wh_dlc_wef_harpies</entity_type>
+<group_sound>wh_grp_vocalisation_harpies_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1f833798-0a69-4e47-8f4a-9c47d2b4191a}" record_timestamp="1481045526138" record_key="wh_dlc_wef_harpiesmoving">
+<ability></ability>
+<entity_type>wh_dlc_wef_harpies</entity_type>
+<group_sound>wh_grp_vocalisation_harpies_running</group_sound>
+<situation>moving</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1c1d1204-3734-4d80-ad86-82f039ebd48c}" record_timestamp="1481035885455" record_key="wh_dlc_wef_harpiesresponse">
+<ability></ability>
+<entity_type>wh_dlc_wef_harpies</entity_type>
+<group_sound>wh_grp_vocalisation_harpies_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{4ae38b04-2133-4377-9128-dbd715702826}" record_timestamp="1481910074342" record_key="wh_dlc_wef_harpiesselection">
+<ability></ability>
+<entity_type>wh_dlc_wef_harpies</entity_type>
+<group_sound>wh_grp_vocalisation_harpies_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2bab66f3-ba32-4c15-b3e5-6bd6bbb4e232}" record_timestamp="1481032054849" record_key="wh_dlc_wef_medium_bird_hawkcharge">
+<ability></ability>
+<entity_type>wh_dlc_wef_medium_bird_hawk</entity_type>
+<group_sound>wh_grp_vocalisation_medium_bird_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{51e378fb-a1e1-4ae3-8d8b-63a14108b93a}" record_timestamp="1481032054850" record_key="wh_dlc_wef_medium_bird_hawkencouragement">
+<ability></ability>
+<entity_type>wh_dlc_wef_medium_bird_hawk</entity_type>
+<group_sound>wh_grp_vocalisation_medium_bird_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{20ce8c3d-0968-4c6b-96fa-3f5af18c9d17}" record_timestamp="1481032054850" record_key="wh_dlc_wef_medium_bird_hawkfighting">
+<ability></ability>
+<entity_type>wh_dlc_wef_medium_bird_hawk</entity_type>
+<group_sound>wh_grp_vocalisation_medium_bird_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{b29767a6-29a4-4669-b3a0-52736888ed5e}" record_timestamp="1481032054848" record_key="wh_dlc_wef_medium_bird_hawkidle">
+<ability></ability>
+<entity_type>wh_dlc_wef_medium_bird_hawk</entity_type>
+<group_sound>wh_grp_vocalisation_medium_bird_idle</group_sound>
+<situation>idle</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{08293e03-a1f7-42f4-9139-56da5932000b}" record_timestamp="1481032054852" record_key="wh_dlc_wef_medium_bird_hawkinjured">
+<ability></ability>
+<entity_type>wh_dlc_wef_medium_bird_hawk</entity_type>
+<group_sound>wh_grp_vocalisation_medium_bird_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a5ebe5e5-f480-401e-adba-6ee580a0ee78}" record_timestamp="1481032054852" record_key="wh_dlc_wef_medium_bird_hawkmoving">
+<ability></ability>
+<entity_type>wh_dlc_wef_medium_bird_hawk</entity_type>
+<group_sound>wh_grp_vocalisation_medium_bird_running</group_sound>
+<situation>moving</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{8c3af7bb-562e-47b0-b644-0db7b0a0ff75}" record_timestamp="1481032054851" record_key="wh_dlc_wef_medium_bird_hawkresponse">
+<ability></ability>
+<entity_type>wh_dlc_wef_medium_bird_hawk</entity_type>
+<group_sound>wh_grp_vocalisation_medium_bird_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c0d0d9be-51f1-457f-8151-6be818baa7f1}" record_timestamp="1481037386008" record_key="wh_dlc_wef_stagcharge">
+<ability></ability>
+<entity_type>wh_dlc_wef_stag</entity_type>
+<group_sound>wh_grp_vocalisation_stag_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{961d8ec2-4007-4ce1-be4f-6717085db589}" record_timestamp="1481037386012" record_key="wh_dlc_wef_stagcheering">
+<ability></ability>
+<entity_type>wh_dlc_wef_stag</entity_type>
+<group_sound>wh_grp_vocalisation_stag_charge</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2da2fc39-1696-4efb-8816-8d8abd538aea}" record_timestamp="1481037386009" record_key="wh_dlc_wef_stagencouragement">
+<ability></ability>
+<entity_type>wh_dlc_wef_stag</entity_type>
+<group_sound>wh_grp_vocalisation_stag_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{300aba9b-83e9-4667-8028-097d75670927}" record_timestamp="1481037386010" record_key="wh_dlc_wef_stagfighting">
+<ability></ability>
+<entity_type>wh_dlc_wef_stag</entity_type>
+<group_sound>wh_grp_vocalisation_stag_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1972f68f-ffd4-446f-bd84-95ddbe37c2db}" record_timestamp="1481037386007" record_key="wh_dlc_wef_stagidle">
+<ability></ability>
+<entity_type>wh_dlc_wef_stag</entity_type>
+<group_sound>wh_grp_vocalisation_stag_idle</group_sound>
+<situation>idle</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6083f554-6f40-4230-b3ff-55bad5adb94f}" record_timestamp="1481037386010" record_key="wh_dlc_wef_staginjured">
+<ability></ability>
+<entity_type>wh_dlc_wef_stag</entity_type>
+<group_sound>wh_grp_vocalisation_stag_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c442603d-047a-4ac0-95de-60213d42aadc}" record_timestamp="1481045527819" record_key="wh_dlc_wef_stagmoving">
+<ability></ability>
+<entity_type>wh_dlc_wef_stag</entity_type>
+<group_sound>wh_grp_vocalisation_stag_running</group_sound>
+<situation>moving</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{eecf68a6-cf20-4c54-a1c9-7076d6c8fbec}" record_timestamp="1481037386011" record_key="wh_dlc_wef_stagresponse">
+<ability></ability>
+<entity_type>wh_dlc_wef_stag</entity_type>
+<group_sound>wh_grp_vocalisation_stag_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{ddfad50a-8d90-46a2-a94b-b8165a10ee2a}" record_timestamp="1453734609539" record_key="wh_dwarf_default_LHcharge">
+<ability></ability>
+<entity_type>wh_dwarf_default_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{646eafcd-8931-4352-b90a-6a62e56a30c2}" record_timestamp="1453734609539" record_key="wh_dwarf_default_LHcheering">
+<ability></ability>
+<entity_type>wh_dwarf_default_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_melee</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2d0e7a17-c5f7-4df6-8220-596afe6c029f}" record_timestamp="1453734609540" record_key="wh_dwarf_default_LHencouragement">
+<ability></ability>
+<entity_type>wh_dwarf_default_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{e7c18552-f6cd-4516-93d0-90b900987a12}" record_timestamp="1453734609540" record_key="wh_dwarf_default_LHfighting">
+<ability></ability>
+<entity_type>wh_dwarf_default_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6c655a1b-fdad-421b-8211-c9d5e4aedf74}" record_timestamp="1453734609540" record_key="wh_dwarf_default_LHinjured">
+<ability></ability>
+<entity_type>wh_dwarf_default_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{57fcb174-f3c8-4bd3-b99c-f22d29d22184}" record_timestamp="1453734609540" record_key="wh_dwarf_default_LHresponse">
+<ability></ability>
+<entity_type>wh_dwarf_default_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a7c025db-02f4-4834-8cd5-26736629f69d}" record_timestamp="1453734609540" record_key="wh_dwarf_default_LHselection">
+<ability></ability>
+<entity_type>wh_dwarf_default_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{38e7ba72-d723-4e75-83a1-de016fc830ff}" record_timestamp="1434384229383" record_key="wh_dwarf_defaultcharge">
+<ability></ability>
+<entity_type>wh_dwarf_default</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{4e81ac1a-1b95-4338-b96b-0741b6b7a00c}" record_timestamp="1439894114893" record_key="wh_dwarf_defaultcheering">
+<ability></ability>
+<entity_type>wh_dwarf_default</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_melee</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{bf95f261-e26c-496a-818b-cd7b2af6fcd8}" record_timestamp="1434384229409" record_key="wh_dwarf_defaultencouragement">
+<ability></ability>
+<entity_type>wh_dwarf_default</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{563b1896-a232-44ec-8a59-c2253c7ac9e4}" record_timestamp="1434384229329" record_key="wh_dwarf_defaultfighting">
+<ability></ability>
+<entity_type>wh_dwarf_default</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{8272cce0-4d16-4fdf-a07d-3ec576846d40}" record_timestamp="1434384229356" record_key="wh_dwarf_defaultinjured">
+<ability></ability>
+<entity_type>wh_dwarf_default</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a2851002-c6a9-4f14-996e-ca7b5c67d63f}" record_timestamp="1459935722198" record_key="wh_dwarf_defaultmoving_taunt">
+<ability></ability>
+<entity_type>wh_dwarf_default</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_moving_taunt</group_sound>
+<situation>moving_taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{278d907c-b9c3-4142-b512-cd7137fab224}" record_timestamp="1434384229274" record_key="wh_dwarf_defaultresponse">
+<ability></ability>
+<entity_type>wh_dwarf_default</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{21d1d50e-d33e-450d-a322-2a7e3990b06f}" record_timestamp="1434384229586" record_key="wh_dwarf_defaultselection">
+<ability></ability>
+<entity_type>wh_dwarf_default</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f70d93d1-02c5-424e-9fdc-a8390ba075df}" record_timestamp="1439911311165" record_key="wh_dwarf_defaulttaunt">
+<ability></ability>
+<entity_type>wh_dwarf_default</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_taunt</group_sound>
+<situation>taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a52b6137-c1fb-4037-acb7-213866bc4555}" record_timestamp="1434384229302" record_key="wh_dwarf_defaulttaunting">
+<ability></ability>
+<entity_type>wh_dwarf_default</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c8b67a43-7847-4c2f-99cc-bb7ff506b133}" record_timestamp="1456761124568" record_key="wh_dwarf_runemsith_LHcharge">
+<ability></ability>
+<entity_type>wh_dwarf_runemsith_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{88ac39cd-83f5-43e6-bd9a-80a30f780ad9}" record_timestamp="1456761124568" record_key="wh_dwarf_runemsith_LHencouragement">
+<ability></ability>
+<entity_type>wh_dwarf_runemsith_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a54f68c3-b01a-4fd9-a3f8-eb4f1a1f4012}" record_timestamp="1456761124568" record_key="wh_dwarf_runemsith_LHfighting">
+<ability></ability>
+<entity_type>wh_dwarf_runemsith_LH</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2121fc3d-c104-41a4-ba6d-997d98c4fb4c}" record_timestamp="1456761124568" record_key="wh_dwarf_runemsith_LHinjured">
+<ability></ability>
+<entity_type>wh_dwarf_runemsith_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{8d5e1ce2-a876-4195-8d6a-1a162cd8d380}" record_timestamp="1456761124568" record_key="wh_dwarf_runemsith_LHresponse">
+<ability></ability>
+<entity_type>wh_dwarf_runemsith_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d22c5fda-3e77-470f-9920-32a40610df7d}" record_timestamp="1456761124568" record_key="wh_dwarf_runemsith_LHselection">
+<ability></ability>
+<entity_type>wh_dwarf_runemsith_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{80399af2-4e77-4990-953c-ee02eb976b39}" record_timestamp="1456761124568" record_key="wh_dwarf_runemsith_LHtaunting">
+<ability></ability>
+<entity_type>wh_dwarf_runemsith_LH</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{cd8e53f4-9f3a-44e5-8db2-d51ccd4fb8b8}" record_timestamp="1434384229611" record_key="wh_dwarf_runemsithcharge">
+<ability></ability>
+<entity_type>wh_dwarf_runemsith</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c4f5991a-b9cf-4438-8799-68605acd6e08}" record_timestamp="1434384229536" record_key="wh_dwarf_runemsithencouragement">
+<ability></ability>
+<entity_type>wh_dwarf_runemsith</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{ee0d362b-648d-49ab-b235-e6fac71e4ce6}" record_timestamp="1434384229561" record_key="wh_dwarf_runemsithfighting">
+<ability></ability>
+<entity_type>wh_dwarf_runemsith</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_default_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{b03a6f36-7f65-431b-9ee0-3edacbca8ae3}" record_timestamp="1434384229486" record_key="wh_dwarf_runemsithinjured">
+<ability></ability>
+<entity_type>wh_dwarf_runemsith</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1beb1729-ddf5-4701-86d2-253785b82024}" record_timestamp="1434384229511" record_key="wh_dwarf_runemsithresponse">
+<ability></ability>
+<entity_type>wh_dwarf_runemsith</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{74d01c6d-b39f-428b-8c7c-959c355ad9d3}" record_timestamp="1434384229461" record_key="wh_dwarf_runemsithselection">
+<ability></ability>
+<entity_type>wh_dwarf_runemsith</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a5be5f0d-d800-42f9-a5cf-ca3bdffeb55c}" record_timestamp="1434384229435" record_key="wh_dwarf_runemsithtaunting">
+<ability></ability>
+<entity_type>wh_dwarf_runemsith</entity_type>
+<group_sound>wh_grp_vocalisation_dwarf_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{ba149ab5-ff04-4079-9912-4dac343d62bf}" record_timestamp="1423503625486" record_key="wh_fell_batcharge">
+<ability></ability>
+<entity_type>wh_fell_bat</entity_type>
+<group_sound>wh_grp_vocalisation_fell_bat_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{276ae7a3-4ab1-461e-a2ec-a92a5aa0d9e8}" record_timestamp="1426848052862" record_key="wh_fell_batencouragement">
+<ability></ability>
+<entity_type>wh_fell_bat</entity_type>
+<group_sound>wh_grp_vocalisation_fell_bat_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d4d17139-f409-4825-9db3-97b997bafb01}" record_timestamp="1423503625543" record_key="wh_fell_batfighting">
+<ability></ability>
+<entity_type>wh_fell_bat</entity_type>
+<group_sound>wh_grp_vocalisation_fell_bat_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{07be3088-2453-4692-9c92-54131afa52b4}" record_timestamp="1423503625604" record_key="wh_fell_batinjured">
+<ability></ability>
+<entity_type>wh_fell_bat</entity_type>
+<group_sound>wh_grp_vocalisation_fell_bat_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{bce08a93-a679-4794-b327-fc7d6525420f}" record_timestamp="1423503625776" record_key="wh_fell_batresponse">
+<ability></ability>
+<entity_type>wh_fell_bat</entity_type>
+<group_sound>wh_grp_vocalisation_fell_bat_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{ad248bb6-1e05-439d-8d68-88a0857bffa8}" record_timestamp="1452688599907" record_key="wh_fell_batselection">
+<ability></ability>
+<entity_type>wh_fell_bat</entity_type>
+<group_sound>wh_grp_vocalisation_fell_bat_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7420dba2-66f6-4146-aa42-1f44a84bd498}" record_timestamp="1431354012116" record_key="wh_fell_battaunting">
+<ability></ability>
+<entity_type>wh_fell_bat</entity_type>
+<group_sound>wh_grp_vocalisation_fell_bat_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{8e574364-063a-4590-b218-21adf8fdad31}" record_timestamp="1453734609569" record_key="wh_goblin_LHcharge">
+<ability></ability>
+<entity_type>wh_goblin_LH</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2a7a4bda-0cae-448e-bf02-8d795a895344}" record_timestamp="1453734609569" record_key="wh_goblin_LHcheering">
+<ability></ability>
+<entity_type>wh_goblin_LH</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1cc3bb6b-ae46-4dd5-abbe-a9cdc3d60a85}" record_timestamp="1453734609569" record_key="wh_goblin_LHencouragement">
+<ability></ability>
+<entity_type>wh_goblin_LH</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{ff93e084-7323-45c8-875c-6eb24973601b}" record_timestamp="1453734609569" record_key="wh_goblin_LHfighting">
+<ability></ability>
+<entity_type>wh_goblin_LH</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{21f28d07-e49d-4ea4-814a-bdd7013917a5}" record_timestamp="1453734609569" record_key="wh_goblin_LHinjured">
+<ability></ability>
+<entity_type>wh_goblin_LH</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{de02ee27-c135-4f1d-a357-80be80abbf32}" record_timestamp="1453734609569" record_key="wh_goblin_LHresponse">
+<ability></ability>
+<entity_type>wh_goblin_LH</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{39de5225-1946-4250-af16-d4e345a22621}" record_timestamp="1453734609569" record_key="wh_goblin_LHselection">
+<ability></ability>
+<entity_type>wh_goblin_LH</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{44c16b78-6543-4dbd-b16c-11224c7ba46f}" record_timestamp="1423503629890" record_key="wh_goblincharge">
+<ability></ability>
+<entity_type>wh_goblin</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{5ad7a8ed-5ef4-4a44-8be1-5e9c3d578e70}" record_timestamp="1431354012146" record_key="wh_goblincheering">
+<ability></ability>
+<entity_type>wh_goblin</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{61862a82-d9c7-4237-bbea-9ecf39997725}" record_timestamp="1426848052878" record_key="wh_goblinencouragement">
+<ability></ability>
+<entity_type>wh_goblin</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{00f919ae-6352-42a8-8d82-d73906017cce}" record_timestamp="1423503629836" record_key="wh_goblinfighting">
+<ability></ability>
+<entity_type>wh_goblin</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6b96078e-fd3a-46af-8707-016cfac97b37}" record_timestamp="1423503630053" record_key="wh_goblininjured">
+<ability></ability>
+<entity_type>wh_goblin</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1b649440-1bcf-4037-b740-38e9b10f54a4}" record_timestamp="1459935722191" record_key="wh_goblinmoving_taunt">
+<ability></ability>
+<entity_type>wh_goblin</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_moving_taunt</group_sound>
+<situation>moving_taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{52e9e239-19a8-4b46-906e-a589f9b8a13c}" record_timestamp="1423503629943" record_key="wh_goblinresponse">
+<ability></ability>
+<entity_type>wh_goblin</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{ba262f7e-465d-4884-91ec-da4d2190cc2c}" record_timestamp="1431440248491" record_key="wh_goblinselection">
+<ability></ability>
+<entity_type>wh_goblin</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{233cd38e-0b5c-4efe-83f6-27931928b432}" record_timestamp="1477035593414" record_key="wh_goblinspecial_ability_targetedwh_group_waaagh">
+<ability>wh_group_waaagh</ability>
+<entity_type>wh_goblin</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_charge</group_sound>
+<situation>special_ability_targeted</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{de4d2bd2-1e05-4fd7-84ed-76b16c9310aa}" record_timestamp="1455808542008" record_key="wh_goblintaunt">
+<ability></ability>
+<entity_type>wh_goblin</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_taunt</group_sound>
+<situation>taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d0927d8c-eebc-4210-85be-37f81d5467e4}" record_timestamp="1431354012161" record_key="wh_goblintaunting">
+<ability></ability>
+<entity_type>wh_goblin</entity_type>
+<group_sound>wh_grp_vocalisation_goblin_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d08e37ec-218a-492e-9008-4dcb48b284cd}" record_timestamp="1453734609567" record_key="wh_griffin_LHcharge">
+<ability></ability>
+<entity_type>wh_griffin_LH</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{55b32ac4-38a8-42a5-a1b0-d9199b593191}" record_timestamp="1453734609568" record_key="wh_griffin_LHencouragement">
+<ability></ability>
+<entity_type>wh_griffin_LH</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{385ebc9f-c62a-4b59-8160-ee120b095ea5}" record_timestamp="1453734609568" record_key="wh_griffin_LHfighting">
+<ability></ability>
+<entity_type>wh_griffin_LH</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{23a1bb94-cac9-4d42-a1ce-98a63d11c49c}" record_timestamp="1453734609568" record_key="wh_griffin_LHinjured">
+<ability></ability>
+<entity_type>wh_griffin_LH</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{9f7ee111-8fef-46e6-8340-4dfca29365c5}" record_timestamp="1453734609568" record_key="wh_griffin_LHresponse">
+<ability></ability>
+<entity_type>wh_griffin_LH</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{179fcc53-78b7-4301-86bf-1b74f3f7bf16}" record_timestamp="1455018821054" record_key="wh_griffin_LHselection">
+<ability></ability>
+<entity_type>wh_griffin_LH</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{32f8c6df-d7f4-4787-8c1b-f12cedf43d91}" record_timestamp="1423503626175" record_key="wh_griffincharge">
+<ability></ability>
+<entity_type>wh_griffin</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{179c3e24-336c-482b-9a95-04979081965c}" record_timestamp="1426848052891" record_key="wh_griffinencouragement">
+<ability></ability>
+<entity_type>wh_griffin</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{58e54a1f-6c84-4c70-b99a-80577f72833f}" record_timestamp="1423503626232" record_key="wh_griffinfighting">
+<ability></ability>
+<entity_type>wh_griffin</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{9e6f5f30-a5e0-4ab7-9b3c-d3d0bb187447}" record_timestamp="1423503626288" record_key="wh_griffininjured">
+<ability></ability>
+<entity_type>wh_griffin</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6ba32d38-5177-46c1-bf81-4a4e97a0a2f1}" record_timestamp="1423503626458" record_key="wh_griffinresponse">
+<ability></ability>
+<entity_type>wh_griffin</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a3bf55d1-ea4e-4dfb-9270-16a06f046ea4}" record_timestamp="1455018821079" record_key="wh_griffinselection">
+<ability></ability>
+<entity_type>wh_griffin</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f7c9a61b-549c-41a0-9c4b-ed5c8a01965f}" record_timestamp="1431354012208" record_key="wh_griffintaunting">
+<ability></ability>
+<entity_type>wh_griffin</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{03acf7d5-6de8-46aa-885a-6a60989066cc}" record_timestamp="1462359126325" record_key="wh_hell_cannoncharge">
+<ability></ability>
+<entity_type>wh_hell_cannon</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{87eeff6a-2a91-4241-8e3a-aba830b4a577}" record_timestamp="1462359126323" record_key="wh_hell_cannoncheering">
+<ability></ability>
+<entity_type>wh_hell_cannon</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{cc85ebbc-18d7-4f76-b168-74b99114a0b4}" record_timestamp="1462359126323" record_key="wh_hell_cannonencouragement">
+<ability></ability>
+<entity_type>wh_hell_cannon</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f9ec0612-3ed3-4c2e-ab23-578b73d90768}" record_timestamp="1462359126324" record_key="wh_hell_cannonfighting">
+<ability></ability>
+<entity_type>wh_hell_cannon</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{3bbebb07-6606-45e3-bc48-2d2e436a86f2}" record_timestamp="1462359126324" record_key="wh_hell_cannonmoving_taunt">
+<ability></ability>
+<entity_type>wh_hell_cannon</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_moving_taunt</group_sound>
+<situation>moving_taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f5f5a7b4-80af-4483-8cff-61cf9b1ff56c}" record_timestamp="1462359126325" record_key="wh_hell_cannonresponse">
+<ability></ability>
+<entity_type>wh_hell_cannon</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{e35f3540-4afa-4b10-909e-23e52cc3250e}" record_timestamp="1462359126326" record_key="wh_hell_cannonselection">
+<ability></ability>
+<entity_type>wh_hell_cannon</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f2ce233d-8491-4561-9190-dc38e4e97d52}" record_timestamp="1462359126326" record_key="wh_hell_cannontaunt">
+<ability></ability>
+<entity_type>wh_hell_cannon</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_taunt</group_sound>
+<situation>taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{3bfebb73-6f7c-4b28-bf8c-967918a14a42}" record_timestamp="1462359126327" record_key="wh_hell_cannontaunting">
+<ability></ability>
+<entity_type>wh_hell_cannon</entity_type>
+<group_sound>wh_grp_vocalisation_chaos_marauder_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c3c7355e-356c-4a8e-a2a4-31d8d9e197ba}" record_timestamp="1453734609538" record_key="wh_hippogryph_LHcharge">
+<ability></ability>
+<entity_type>wh_hippogryph_LH</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{e4c5f538-6bba-4d71-b302-cf0f0e3e76ae}" record_timestamp="1453734609538" record_key="wh_hippogryph_LHencouragement">
+<ability></ability>
+<entity_type>wh_hippogryph_LH</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{3a2ca537-3106-4db1-8f17-35362514fe30}" record_timestamp="1453734609538" record_key="wh_hippogryph_LHfighting">
+<ability></ability>
+<entity_type>wh_hippogryph_LH</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{008317a4-08ef-4a11-9ef5-2a02ca5f92b8}" record_timestamp="1453734609538" record_key="wh_hippogryph_LHinjured">
+<ability></ability>
+<entity_type>wh_hippogryph_LH</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{9ac42cad-a389-4b36-a044-78a0ff1261cc}" record_timestamp="1453734609538" record_key="wh_hippogryph_LHresponse">
+<ability></ability>
+<entity_type>wh_hippogryph_LH</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{93700845-d369-4f2a-9324-d832b5e09897}" record_timestamp="1455018821155" record_key="wh_hippogryph_LHselection">
+<ability></ability>
+<entity_type>wh_hippogryph_LH</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{90064640-f727-4c0a-952d-372a3637dca7}" record_timestamp="1423503626514" record_key="wh_hippogryphcharge">
+<ability></ability>
+<entity_type>wh_hippogryph</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6a626f88-ba99-4477-8336-26392f12e44c}" record_timestamp="1426848052907" record_key="wh_hippogryphencouragement">
+<ability></ability>
+<entity_type>wh_hippogryph</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{37e6fb7c-a119-4d03-9639-c6ebe1736c67}" record_timestamp="1423503626570" record_key="wh_hippogryphfighting">
+<ability></ability>
+<entity_type>wh_hippogryph</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{fcfafabd-e109-463a-bb15-ca5a72ddef54}" record_timestamp="1423503626630" record_key="wh_hippogryphinjured">
+<ability></ability>
+<entity_type>wh_hippogryph</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f50e82c3-eb74-40a2-8ae9-30d543e47d39}" record_timestamp="1423503626797" record_key="wh_hippogryphresponse">
+<ability></ability>
+<entity_type>wh_hippogryph</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{93a6e343-709d-4490-b301-5d37114dc758}" record_timestamp="1455018821180" record_key="wh_hippogryphselection">
+<ability></ability>
+<entity_type>wh_hippogryph</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{74994236-9760-4c0a-ba9b-d227d124d10c}" record_timestamp="1431354012192" record_key="wh_hippogryphtaunting">
+<ability></ability>
+<entity_type>wh_hippogryph</entity_type>
+<group_sound>wh_grp_vocalisation_griffin_and_demigryph_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{8172e6c4-f0ad-4bd3-9599-31a2a51ab921}" record_timestamp="1454961547272" record_key="wh_human_female_LHcharge">
+<ability></ability>
+<entity_type>wh_human_female_LH</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d53fcd5f-bde8-44af-892c-3df80ba37b13}" record_timestamp="1454961547272" record_key="wh_human_female_LHcheering">
+<ability></ability>
+<entity_type>wh_human_female_LH</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{ac7d3f67-6071-4d4b-92ed-9600c39611fc}" record_timestamp="1454961547272" record_key="wh_human_female_LHencouragement">
+<ability></ability>
+<entity_type>wh_human_female_LH</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{98460d38-0ae0-43bf-b90e-cf90bc06abc3}" record_timestamp="1454961547272" record_key="wh_human_female_LHfighting">
+<ability></ability>
+<entity_type>wh_human_female_LH</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{8f647318-545a-4725-ad88-d1ea225e3ab4}" record_timestamp="1454961547272" record_key="wh_human_female_LHinjured">
+<ability></ability>
+<entity_type>wh_human_female_LH</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{03250b7b-19a7-4a19-a381-959cd37bc6ab}" record_timestamp="1454961547272" record_key="wh_human_female_LHresponse">
+<ability></ability>
+<entity_type>wh_human_female_LH</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{8703fce5-dab5-49e2-bd37-08d1a0565a10}" record_timestamp="1454961547272" record_key="wh_human_female_LHselection">
+<ability></ability>
+<entity_type>wh_human_female_LH</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{e321543a-7ee7-4edc-a365-b8bf3ff84176}" record_timestamp="1474282562254" record_key="wh_human_femalecharge">
+<ability></ability>
+<entity_type>wh_human_female</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{ab15dce5-859c-48c1-902e-fc10146db6e5}" record_timestamp="1474282562255" record_key="wh_human_femalecheering">
+<ability></ability>
+<entity_type>wh_human_female</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{4d185bda-7837-41c9-8e11-4f1fd902cd0a}" record_timestamp="1474282562257" record_key="wh_human_femaleencouragement">
+<ability></ability>
+<entity_type>wh_human_female</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{0d4bdef9-4e72-4d24-882e-42aaf58de216}" record_timestamp="1474282562256" record_key="wh_human_femalefighting">
+<ability></ability>
+<entity_type>wh_human_female</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{673ecf30-7957-43d8-853f-45b9daaa0df4}" record_timestamp="1474282562257" record_key="wh_human_femaleinjured">
+<ability></ability>
+<entity_type>wh_human_female</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{203abc0c-487f-4444-ab49-a8fe9de3e55b}" record_timestamp="1462358745021" record_key="wh_human_femalemoving_taunt">
+<ability></ability>
+<entity_type>wh_human_female</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_moving_taunt</group_sound>
+<situation>moving_taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c7118eb7-9e77-490c-b730-e965b9a942b9}" record_timestamp="1474282562258" record_key="wh_human_femaleresponse">
+<ability></ability>
+<entity_type>wh_human_female</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{31687440-d614-4ce4-b6df-fa80872f3c5a}" record_timestamp="1474282562259" record_key="wh_human_femaleselection">
+<ability></ability>
+<entity_type>wh_human_female</entity_type>
+<group_sound>wh_grp_vocalisation_human_female_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d155167b-e96d-4413-a036-f8f63297a995}" record_timestamp="1453734609537" record_key="wh_human_male_LHcharge">
+<ability></ability>
+<entity_type>wh_human_male_LH</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{974fc6be-d6cb-46b6-926f-9d3886722df3}" record_timestamp="1453734609537" record_key="wh_human_male_LHcheering">
+<ability></ability>
+<entity_type>wh_human_male_LH</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2ebf1a0f-96e4-4bdd-8852-d838233e776d}" record_timestamp="1453734609537" record_key="wh_human_male_LHencouragement">
+<ability></ability>
+<entity_type>wh_human_male_LH</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{bef05ae4-c3d3-4bfb-8aa2-6cb2781509d8}" record_timestamp="1453734609537" record_key="wh_human_male_LHfighting">
+<ability></ability>
+<entity_type>wh_human_male_LH</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c7749e10-e562-44db-931c-e99db69865d8}" record_timestamp="1453734609537" record_key="wh_human_male_LHinjured">
+<ability></ability>
+<entity_type>wh_human_male_LH</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{5e7a8a2a-9a34-40cb-a6b6-facfbd9d0a7b}" record_timestamp="1453734609537" record_key="wh_human_male_LHresponse">
+<ability></ability>
+<entity_type>wh_human_male_LH</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a94fd944-a29c-4c4e-aeb4-7d9f600f34a8}" record_timestamp="1453734609537" record_key="wh_human_male_LHselection">
+<ability></ability>
+<entity_type>wh_human_male_LH</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{61a5b6b6-b3d2-4691-bc69-8853fc53e9af}" record_timestamp="1485443636932" record_key="wh_human_male_bret_frenchcharge">
+<ability></ability>
+<entity_type>wh_human_male_bret_french</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_french_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{ccde262a-8a7a-4950-a580-d307912f6466}" record_timestamp="1485443636934" record_key="wh_human_male_bret_frenchcheering">
+<ability></ability>
+<entity_type>wh_human_male_bret_french</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_french_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{de2ea9b5-428f-4083-9ca4-1bda613d8d08}" record_timestamp="1485443636930" record_key="wh_human_male_bret_frenchencouragement">
+<ability></ability>
+<entity_type>wh_human_male_bret_french</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{73e68627-08e3-42df-ba20-cc480327f933}" record_timestamp="1485443636930" record_key="wh_human_male_bret_frenchfighting">
+<ability></ability>
+<entity_type>wh_human_male_bret_french</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f94117b4-6664-416d-b25f-aad5d5edadd1}" record_timestamp="1485443636931" record_key="wh_human_male_bret_frenchinjured">
+<ability></ability>
+<entity_type>wh_human_male_bret_french</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{75edb669-1d90-4ae2-bfd6-10bd7004ab11}" record_timestamp="1485443636934" record_key="wh_human_male_bret_frenchresponse">
+<ability></ability>
+<entity_type>wh_human_male_bret_french</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_french_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6d31f3ef-a039-48b2-bc01-7efe68b63fc3}" record_timestamp="1485443636934" record_key="wh_human_male_bret_frenchselection">
+<ability></ability>
+<entity_type>wh_human_male_bret_french</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_french_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{80cc2faa-7bb1-43e7-881d-286415f465ec}" record_timestamp="1485443636933" record_key="wh_human_male_bret_frenchtaunting">
+<ability></ability>
+<entity_type>wh_human_male_bret_french</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_french_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{77c73e3f-1515-4e60-b4b9-38aac7ed47dd}" record_timestamp="1485443636939" record_key="wh_human_male_bret_west_countrycharge">
+<ability></ability>
+<entity_type>wh_human_male_bret_west_country</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_west_country_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{0d240926-0050-40d4-981d-2dbe92cd7165}" record_timestamp="1485443636938" record_key="wh_human_male_bret_west_countrycheering">
+<ability></ability>
+<entity_type>wh_human_male_bret_west_country</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_west_country_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{76251cd6-81b7-48eb-b87e-c331336827d2}" record_timestamp="1485443636937" record_key="wh_human_male_bret_west_countryencouragement">
+<ability></ability>
+<entity_type>wh_human_male_bret_west_country</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{930e6934-23b5-492c-bab2-92f2d7a5275f}" record_timestamp="1485443636937" record_key="wh_human_male_bret_west_countryfighting">
+<ability></ability>
+<entity_type>wh_human_male_bret_west_country</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{66d04de4-f262-49e3-ac21-83d56a42f45b}" record_timestamp="1485443636937" record_key="wh_human_male_bret_west_countryinjured">
+<ability></ability>
+<entity_type>wh_human_male_bret_west_country</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7635ba49-b88f-43eb-ab6a-a11f2cd1d724}" record_timestamp="1485443636939" record_key="wh_human_male_bret_west_countryresponse">
+<ability></ability>
+<entity_type>wh_human_male_bret_west_country</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_west_country_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{18a61fb3-5d41-4a5a-b9c4-9649575002d9}" record_timestamp="1485443636939" record_key="wh_human_male_bret_west_countryselection">
+<ability></ability>
+<entity_type>wh_human_male_bret_west_country</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_west_country_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{8a8c0f46-d956-4285-b2b5-2ca41075c406}" record_timestamp="1485443636938" record_key="wh_human_male_bret_west_countrytaunting">
+<ability></ability>
+<entity_type>wh_human_male_bret_west_country</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_bret_west_country_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{eb7375bd-8049-4469-b10e-0e670edc1cc9}" record_timestamp="1471865792914" record_key="wh_human_male_flagellantcharge">
+<ability></ability>
+<entity_type>wh_human_male_flagellant</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{0ec0bbcd-276e-4a08-a2af-40694a267a31}" record_timestamp="1471865792912" record_key="wh_human_male_flagellantcheering">
+<ability></ability>
+<entity_type>wh_human_male_flagellant</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6db4bc32-3a85-4193-9e58-1fd249046228}" record_timestamp="1471865792913" record_key="wh_human_male_flagellantencouragement">
+<ability></ability>
+<entity_type>wh_human_male_flagellant</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{38b04d22-9910-43b1-84ba-61fed0cb3acd}" record_timestamp="1471865792912" record_key="wh_human_male_flagellantfighting">
+<ability></ability>
+<entity_type>wh_human_male_flagellant</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{80eb1e82-3fc7-4fd7-8377-511c9c5f2f6b}" record_timestamp="1471865792913" record_key="wh_human_male_flagellantinjured">
+<ability></ability>
+<entity_type>wh_human_male_flagellant</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{9ebce87c-7493-4341-9210-b2e653971019}" record_timestamp="1471865792913" record_key="wh_human_male_flagellantresponse">
+<ability></ability>
+<entity_type>wh_human_male_flagellant</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6b79714a-33b5-4bdd-8244-f81ba2706af0}" record_timestamp="1471865792912" record_key="wh_human_male_flagellantselection">
+<ability></ability>
+<entity_type>wh_human_male_flagellant</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7532050c-67a2-4427-ba58-10c71dada9ad}" record_timestamp="1471865792913" record_key="wh_human_male_flagellanttaunting">
+<ability></ability>
+<entity_type>wh_human_male_flagellant</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{46e3981c-ef3c-4b7a-b715-d9c61cbcd66e}" record_timestamp="1434363520081" record_key="wh_human_malecharge">
+<ability></ability>
+<entity_type>wh_human_male</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{84ec90d0-8056-4c09-9214-49b36ab03fdb}" record_timestamp="1434363519983" record_key="wh_human_malecheering">
+<ability></ability>
+<entity_type>wh_human_male</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{070ff662-2023-4b59-89e8-a5e4101b5fe6}" record_timestamp="1434363520022" record_key="wh_human_maleencouragement">
+<ability></ability>
+<entity_type>wh_human_male</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c44d2c8b-4636-495f-bb2f-fc1777810fe5}" record_timestamp="1434363520062" record_key="wh_human_malefighting">
+<ability></ability>
+<entity_type>wh_human_male</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{8d90624b-acef-4170-9453-e90aa26ac47a}" record_timestamp="1434363519945" record_key="wh_human_maleinjured">
+<ability></ability>
+<entity_type>wh_human_male</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{6679404c-b378-4129-a59c-5acf02148c72}" record_timestamp="1462358745019" record_key="wh_human_malemoving_taunt">
+<ability></ability>
+<entity_type>wh_human_male</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_moving_taunt</group_sound>
+<situation>moving_taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d6cd73c5-bc2e-444b-ae26-679892ffb82c}" record_timestamp="1434363520042" record_key="wh_human_maleresponse">
+<ability></ability>
+<entity_type>wh_human_male</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{398c8fd9-36db-4646-9375-71a8f61eb73c}" record_timestamp="1438942979480" record_key="wh_human_maleselection">
+<ability></ability>
+<entity_type>wh_human_male</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{209125bf-832b-425b-9dc0-bd4e45e6bb6a}" record_timestamp="1455808542022" record_key="wh_human_maletaunt">
+<ability></ability>
+<entity_type>wh_human_male</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_taunt</group_sound>
+<situation>taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c99770e7-8cc0-4355-a55d-ff684d36d1aa}" record_timestamp="1434363520003" record_key="wh_human_maletaunting">
+<ability></ability>
+<entity_type>wh_human_male</entity_type>
+<group_sound>wh_grp_vocalisation_human_male_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{efb3092a-9a21-44d0-9757-f5081df14bb2}" record_timestamp="1453734609568" record_key="wh_orc_LHcharge">
+<ability></ability>
+<entity_type>wh_orc_LH</entity_type>
+<group_sound>wh_grp_vocalisation_orc_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{3ea72c57-9972-4109-ba0d-9c040a58d002}" record_timestamp="1453734609568" record_key="wh_orc_LHcheering">
+<ability></ability>
+<entity_type>wh_orc_LH</entity_type>
+<group_sound>wh_grp_vocalisation_orc_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{36bc0be1-b512-496f-9922-c2aed292f684}" record_timestamp="1453734609568" record_key="wh_orc_LHencouragement">
+<ability></ability>
+<entity_type>wh_orc_LH</entity_type>
+<group_sound>wh_grp_vocalisation_orc_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{35b39262-6ded-4e3c-a034-182499483c92}" record_timestamp="1453734609568" record_key="wh_orc_LHfighting">
+<ability></ability>
+<entity_type>wh_orc_LH</entity_type>
+<group_sound>wh_grp_vocalisation_orc_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{81634a90-c536-4766-ab7d-dd186a9fe3ae}" record_timestamp="1453734609568" record_key="wh_orc_LHinjured">
+<ability></ability>
+<entity_type>wh_orc_LH</entity_type>
+<group_sound>wh_grp_vocalisation_orc_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{152ef374-f199-4c90-9d41-2a8d9983d36c}" record_timestamp="1453734609568" record_key="wh_orc_LHresponse">
+<ability></ability>
+<entity_type>wh_orc_LH</entity_type>
+<group_sound>wh_grp_vocalisation_orc_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{79c6347d-7f04-4521-8c51-e4ef19de45cc}" record_timestamp="1453734609568" record_key="wh_orc_LHselection">
+<ability></ability>
+<entity_type>wh_orc_LH</entity_type>
+<group_sound>wh_grp_vocalisation_orc_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{37f6c35e-6a7a-46fd-b34f-d9f66ab10bef}" record_timestamp="1423503627193" record_key="wh_orccharge">
+<ability></ability>
+<entity_type>wh_orc</entity_type>
+<group_sound>wh_grp_vocalisation_orc_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2b3ce261-f5c5-472d-b25e-6f54ed656927}" record_timestamp="1431354011987" record_key="wh_orccheering">
+<ability></ability>
+<entity_type>wh_orc</entity_type>
+<group_sound>wh_grp_vocalisation_orc_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2cbab847-2891-4630-ac81-f613df5b44a7}" record_timestamp="1426848052951" record_key="wh_orcencouragement">
+<ability></ability>
+<entity_type>wh_orc</entity_type>
+<group_sound>wh_grp_vocalisation_orc_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{11a77f3d-eb0c-4687-a52c-e19b63b8e324}" record_timestamp="1423503627250" record_key="wh_orcfighting">
+<ability></ability>
+<entity_type>wh_orc</entity_type>
+<group_sound>wh_grp_vocalisation_orc_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{58cb1543-f38c-47bf-9cc8-39eba7db681d}" record_timestamp="1423503627308" record_key="wh_orcinjured">
+<ability></ability>
+<entity_type>wh_orc</entity_type>
+<group_sound>wh_grp_vocalisation_orc_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{727d5d86-be4f-462d-8275-56aa2f08d563}" record_timestamp="1459934265210" record_key="wh_orcmoving_taunt">
+<ability></ability>
+<entity_type>wh_orc</entity_type>
+<group_sound>wh_grp_vocalisation_orc_moving_taunt</group_sound>
+<situation>moving_taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f62cf105-f5b2-41e2-a630-8885576c65bb}" record_timestamp="1423503627477" record_key="wh_orcresponse">
+<ability></ability>
+<entity_type>wh_orc</entity_type>
+<group_sound>wh_grp_vocalisation_orc_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{9cd31d98-a31f-4c57-9260-07681f629ddc}" record_timestamp="1431440248499" record_key="wh_orcselection">
+<ability></ability>
+<entity_type>wh_orc</entity_type>
+<group_sound>wh_grp_vocalisation_orc_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{5df08f25-78b5-4bff-8ead-f5c0d8938157}" record_timestamp="1477035593415" record_key="wh_orcspecial_ability_targetedwh_group_waaagh">
+<ability>wh_group_waaagh</ability>
+<entity_type>wh_orc</entity_type>
+<group_sound>wh_grp_vocalisation_orc_charge</group_sound>
+<situation>special_ability_targeted</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{bd4b4c3d-9daa-4327-a54c-6c06d5a16b66}" record_timestamp="1431354583766" record_key="wh_orctaunt">
+<ability></ability>
+<entity_type>wh_orc</entity_type>
+<group_sound>wh_grp_vocalisation_orc_taunt</group_sound>
+<situation>taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{e5687089-dd52-4c02-9303-79d7a21cd255}" record_timestamp="1431354011991" record_key="wh_orctaunting">
+<ability></ability>
+<entity_type>wh_orc</entity_type>
+<group_sound>wh_grp_vocalisation_orc_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{41172e09-5d74-4142-bea9-e7fb4be14b46}" record_timestamp="1456756186548" record_key="wh_skeleton_LHcharge">
+<ability></ability>
+<entity_type>wh_skeleton_LH</entity_type>
+<group_sound>wh_grp_vocalisation_skeleton_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{00e1ad4d-bc0f-4c13-bd06-d1095c3d2f5d}" record_timestamp="1456756186548" record_key="wh_skeleton_LHfighting">
+<ability></ability>
+<entity_type>wh_skeleton_LH</entity_type>
+<group_sound>wh_grp_vocalisation_skeleton_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{0517349b-4a58-4350-9785-5b25b9074b35}" record_timestamp="1456756186548" record_key="wh_skeleton_LHinjured">
+<ability></ability>
+<entity_type>wh_skeleton_LH</entity_type>
+<group_sound>wh_grp_vocalisation_skeleton_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{4b4bbf42-1a2c-4aae-bec7-cdafe469b1a4}" record_timestamp="1456756266179" record_key="wh_skeleton_LHresponse">
+<ability></ability>
+<entity_type>wh_skeleton_LH</entity_type>
+<group_sound>wh_grp_vocalisation_skeleton_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{4f374ba7-05cc-49a3-bc15-f39f1e3a5e83}" record_timestamp="1456756270101" record_key="wh_skeleton_LHselection">
+<ability></ability>
+<entity_type>wh_skeleton_LH</entity_type>
+<group_sound>wh_grp_vocalisation_skeleton_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{3f373af1-accf-4c3a-9079-93b8d4386714}" record_timestamp="1456756186548" record_key="wh_skeletoncharge">
+<ability></ability>
+<entity_type>wh_skeleton</entity_type>
+<group_sound>wh_grp_vocalisation_skeleton_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{369b4c47-ccec-4081-bf4b-a3f57474be69}" record_timestamp="1456756186548" record_key="wh_skeletonfighting">
+<ability></ability>
+<entity_type>wh_skeleton</entity_type>
+<group_sound>wh_grp_vocalisation_skeleton_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{e724f03b-0319-4ca7-aa91-3b4575914498}" record_timestamp="1456756186549" record_key="wh_skeletoninjured">
+<ability></ability>
+<entity_type>wh_skeleton</entity_type>
+<group_sound>wh_grp_vocalisation_skeleton_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{e579e84b-9e3e-47c6-a321-fe30de965fc3}" record_timestamp="1456756266179" record_key="wh_skeletonresponse">
+<ability></ability>
+<entity_type>wh_skeleton</entity_type>
+<group_sound>wh_grp_vocalisation_skeleton_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1a25dec9-966f-48c1-9de5-353fd7d4e1bc}" record_timestamp="1456756186549" record_key="wh_skeletonresurrecting">
+<ability></ability>
+<entity_type>wh_skeleton</entity_type>
+<group_sound>wh_grp_vocalisation_skeleton_resurrecting</group_sound>
+<situation>resurrecting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{347617d5-8ee8-4f13-a8d1-e755858365a2}" record_timestamp="1456756270101" record_key="wh_skeletonselection">
+<ability></ability>
+<entity_type>wh_skeleton</entity_type>
+<group_sound>wh_grp_vocalisation_skeleton_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c5c0d43f-2ea6-4e78-8da1-4050069314f4}" record_timestamp="1456756186549" record_key="wh_skeletontaunt">
+<ability></ability>
+<entity_type>wh_skeleton</entity_type>
+<group_sound>wh_grp_vocalisation_skeleton_taunt</group_sound>
+<situation>taunt</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{c2468f5f-a06f-45f1-a26b-d43563a5576d}" record_timestamp="1456756186550" record_key="wh_skeletontaunting">
+<ability></ability>
+<entity_type>wh_skeleton</entity_type>
+<group_sound>wh_grp_vocalisation_skeleton_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{03ae780c-01ec-490e-baec-98a1f37f6f5f}" record_timestamp="1481897372589" record_key="wh_spawnresurrecting">
+<ability></ability>
+<entity_type>wh_spawn</entity_type>
+<group_sound>wh_grp_vocalisation_spawn_resurrecting</group_sound>
+<situation>resurrecting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d9f46c10-2b38-46d1-9e05-524ddcce6659}" record_timestamp="1426848052983" record_key="wh_spider_smallencouragement">
+<ability></ability>
+<entity_type>wh_spider_small</entity_type>
+<group_sound>wh_grp_vocalisation_spider_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7341187a-93f8-4874-a54f-105b0cfadd23}" record_timestamp="1423503627922" record_key="wh_spider_smallfighting">
+<ability></ability>
+<entity_type>wh_spider_small</entity_type>
+<group_sound>wh_grp_vocalisation_spider_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{ef337dfc-72c8-438f-8e44-1a355f91d9c8}" record_timestamp="1438788489816" record_key="wh_spider_smallmoving">
+<ability></ability>
+<entity_type>wh_spider_small</entity_type>
+<group_sound>wh_grp_vocalisation_spider_movement</group_sound>
+<situation>moving</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{f1c5ad78-48eb-4db1-b118-70a75eccd35e}" record_timestamp="1477038876792" record_key="wh_spider_smallresurrecting">
+<ability></ability>
+<entity_type>wh_spider_small</entity_type>
+<group_sound>wh_grp_vocalisation_spider_resurrecting</group_sound>
+<situation>resurrecting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{8361892d-0921-4caa-b21d-92f224cf0d82}" record_timestamp="1465227074242" record_key="wh_trollmoving">
+<ability></ability>
+<entity_type>wh_troll</entity_type>
+<group_sound>wh_grp_vocalisation_troll_movement</group_sound>
+<situation>moving</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{8f015ef9-8182-4290-8ea4-ad6d1d081cd0}" record_timestamp="1465231944131" record_key="wh_vampire_blood_knightscharge">
+<ability></ability>
+<entity_type>wh_vampire_blood_knights</entity_type>
+<group_sound>wh_grp_vocalisation_blood_knight_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{da05fae7-6bb4-4cf2-b7a4-074869980774}" record_timestamp="1465231944132" record_key="wh_vampire_blood_knightscheering">
+<ability></ability>
+<entity_type>wh_vampire_blood_knights</entity_type>
+<group_sound>wh_grp_vocalisation_blood_knight_taunting</group_sound>
+<situation>cheering</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{ad00dc85-dcb2-40fb-875b-e81db13971d4}" record_timestamp="1465231944133" record_key="wh_vampire_blood_knightsencouragement">
+<ability></ability>
+<entity_type>wh_vampire_blood_knights</entity_type>
+<group_sound>wh_grp_vocalisation_blood_knight_melee</group_sound>
+<situation>encouragement</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{19b84e59-de00-43d6-bfdf-2888447b11b9}" record_timestamp="1465231944132" record_key="wh_vampire_blood_knightsfighting">
+<ability></ability>
+<entity_type>wh_vampire_blood_knights</entity_type>
+<group_sound>wh_grp_vocalisation_blood_knight_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7fc124f6-05a7-4a72-a9eb-2a0e2a04479b}" record_timestamp="1465231944134" record_key="wh_vampire_blood_knightsinjured">
+<ability></ability>
+<entity_type>wh_vampire_blood_knights</entity_type>
+<group_sound>wh_grp_vocalisation_blood_knight_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{aaf4cf1c-ff51-4afe-a8fd-aa060108779b}" record_timestamp="1465231944138" record_key="wh_vampire_blood_knightsresponse">
+<ability></ability>
+<entity_type>wh_vampire_blood_knights</entity_type>
+<group_sound>wh_grp_vocalisation_blood_knight_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a4eef03e-feb0-49a2-8ba2-a3f4b4c00e02}" record_timestamp="1465231944136" record_key="wh_vampire_blood_knightsselection">
+<ability></ability>
+<entity_type>wh_vampire_blood_knights</entity_type>
+<group_sound>wh_grp_vocalisation_blood_knight_unit_response</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{fb2a82ca-16a7-4a0f-bea9-e86c085ece6f}" record_timestamp="1465231944134" record_key="wh_vampire_blood_knightstaunting">
+<ability></ability>
+<entity_type>wh_vampire_blood_knights</entity_type>
+<group_sound>wh_grp_vocalisation_blood_knight_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{7be01974-b66c-4ed0-810e-c5dba00124cf}" record_timestamp="1461152299372" record_key="wh_wraithcharge">
+<ability></ability>
+<entity_type>wh_wraith</entity_type>
+<group_sound>wh_grp_vocalisation_wraith_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{a163050c-fc65-46d0-adc5-2f59237b9727}" record_timestamp="1461152299373" record_key="wh_wraithfighting">
+<ability></ability>
+<entity_type>wh_wraith</entity_type>
+<group_sound>wh_grp_vocalisation_wraith_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{cb616875-e66c-4419-bb20-bb208c655be8}" record_timestamp="1461152299375" record_key="wh_wraithinjured">
+<ability></ability>
+<entity_type>wh_wraith</entity_type>
+<group_sound>wh_grp_vocalisation_wraith_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{d0f3b2c6-c5d0-4ec1-b728-9d95fe0b37ac}" record_timestamp="1461152299375" record_key="wh_wraithresponse">
+<ability></ability>
+<entity_type>wh_wraith</entity_type>
+<group_sound>wh_grp_vocalisation_wraith_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{5b9301dc-adfa-446e-90e8-665922ff81e2}" record_timestamp="1461152299376" record_key="wh_wraithselection">
+<ability></ability>
+<entity_type>wh_wraith</entity_type>
+<group_sound>wh_grp_vocalisation_wraith_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{fc823881-1cc3-491f-9723-24fbe968e6b4}" record_timestamp="1461152299374" record_key="wh_wraithtaunting">
+<ability></ability>
+<entity_type>wh_wraith</entity_type>
+<group_sound>wh_grp_vocalisation_wraith_taunting</group_sound>
+<situation>taunting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{1223fbd2-fdda-4cc9-b978-a5e6e355c79b}" record_timestamp="1456756273267" record_key="wh_zombiecharge">
+<ability></ability>
+<entity_type>wh_zombie</entity_type>
+<group_sound>wh_grp_vocalisation_zombie_charge</group_sound>
+<situation>charge</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{23167b5a-08cd-4e70-9ab9-2cf689ff553b}" record_timestamp="1450349252266" record_key="wh_zombiefighting">
+<ability></ability>
+<entity_type>wh_zombie</entity_type>
+<group_sound>wh_grp_vocalisation_zombie_melee</group_sound>
+<situation>fighting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{3dafe282-84c0-456c-bce3-a33e494a1376}" record_timestamp="1456756276060" record_key="wh_zombieinjured">
+<ability></ability>
+<entity_type>wh_zombie</entity_type>
+<group_sound>wh_grp_vocalisation_zombie_pain</group_sound>
+<situation>injured</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{ad0e05e2-0b86-4036-98e3-8d56da24758d}" record_timestamp="1450349252486" record_key="wh_zombieresponse">
+<ability></ability>
+<entity_type>wh_zombie</entity_type>
+<group_sound>wh_grp_vocalisation_zombie_unit_response</group_sound>
+<situation>response</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{2fe2fa74-948d-4668-9deb-bdfc5ba96b18}" record_timestamp="1454670711468" record_key="wh_zombieresurrecting">
+<ability></ability>
+<entity_type>wh_zombie</entity_type>
+<group_sound>wh_grp_vocalisation_zombie_resurrecting</group_sound>
+<situation>resurrecting</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{0a2c7be8-ce2a-4850-871a-5a4a19ad2cf7}" record_timestamp="1450349252687" record_key="wh_zombieselection">
+<ability></ability>
+<entity_type>wh_zombie</entity_type>
+<group_sound>wh_grp_vocalisation_zombie_unit_selection</group_sound>
+<situation>selection</situation>
+</audio_group_sound_assignments>
+<audio_group_sound_assignments record_uuid="{76350c81-b856-4cf0-bd76-f07b1a1aba23}" record_timestamp="1455811500906" record_key="wh_zombietaunt">
+<ability></ability>
+<entity_type>wh_zombie</entity_type>
+<group_sound>wh_grp_vocalisation_zombie_taunt</group_sound>
+<situation>taunt</situation>
+</audio_group_sound_assignments>
+</dataroot>

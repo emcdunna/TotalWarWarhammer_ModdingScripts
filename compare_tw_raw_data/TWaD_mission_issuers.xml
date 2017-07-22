@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_mission_issuers>
+<root>
+<edit_uuid>6a9daf6d-39e4-4041-9f92-4263ce0ca5a9</edit_uuid>
+<field>
+<field_uuid>{d74f5a07-b93e-4922-b3cd-2839dfcc6a37}</field_uuid>
+<primary_key>1</primary_key>
+<name>issuer_key</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+</field>
+</root>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="confederation_effect_bundles.xsd" export_time="Mon Jan 30 18:55:58 2017" revision="10" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>d225bc3a-d88f-496d-b836-776a8afc1e9f</edit_uuid>
+<confederation_effect_bundles record_uuid="{829f4893-9dfd-4a11-a24b-a3574aafb9c8}" record_timestamp="1469459596989" record_key="wh_dlc03_bst_beastmen">
+<culture>wh_dlc03_bst_beastmen</culture>
+<effect_bundle>wh_dlc03_beastmen_confederation_help</effect_bundle>
+<turns>5</turns>
+</confederation_effect_bundles>
+<confederation_effect_bundles record_uuid="{4f166706-dc0c-4b41-ba9d-5db414b153e8}" record_timestamp="1481886736403" record_key="wh_dlc05_wef_wood_elves">
+<culture>wh_dlc05_wef_wood_elves</culture>
+<effect_bundle>wh_main_bundle_confederation_wef</effect_bundle>
+<turns>5</turns>
+</confederation_effect_bundles>
+<confederation_effect_bundles record_uuid="{3b566a44-fe2b-459d-9a2a-f5d372f85be9}" record_timestamp="1485802556194" record_key="wh_main_brt_bretonnia">
+<culture>wh_main_brt_bretonnia</culture>
+<effect_bundle>wh_main_bundle_confederation_brt</effect_bundle>
+<turns>4</turns>
+</confederation_effect_bundles>
+<confederation_effect_bundles record_uuid="{f2cf2204-1610-49ce-acb4-187d0d65f6fb}" record_timestamp="1452849278632" record_key="wh_main_dwf_dwarfs">
+<culture>wh_main_dwf_dwarfs</culture>
+<effect_bundle>wh_main_bundle_confederation_dwf</effect_bundle>
+<turns>5</turns>
+</confederation_effect_bundles>
+<confederation_effect_bundles record_uuid="{0a5898f1-125f-44ea-a0e1-d23ace08b404}" record_timestamp="1452849262134" record_key="wh_main_emp_empire">
+<culture>wh_main_emp_empire</culture>
+<effect_bundle>wh_main_bundle_confederation_emp</effect_bundle>
+<turns>5</turns>
+</confederation_effect_bundles>
+<confederation_effect_bundles record_uuid="{a6d79ab0-cae9-4f3b-92be-37d389782bcb}" record_timestamp="1452849278676" record_key="wh_main_grn_greenskins">
+<culture>wh_main_grn_greenskins</culture>
+<effect_bundle>wh_main_bundle_confederation_grn</effect_bundle>
+<turns>5</turns>
+</confederation_effect_bundles>
+<confederation_effect_bundles record_uuid="{500d7350-4100-4e0c-b9e5-66d6d27b4028}" record_timestamp="1452849278700" record_key="wh_main_vmp_vampire_counts">
+<culture>wh_main_vmp_vampire_counts</culture>
+<effect_bundle>wh_main_bundle_confederation_vmp</effect_bundle>
+<turns>5</turns>
+</confederation_effect_bundles>
+</dataroot>

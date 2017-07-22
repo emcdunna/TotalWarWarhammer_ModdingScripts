@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="special_ability_group_parents.xsd" export_time="Wed Nov 16 17:56:36 2016" revision="4" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>bd55ac97-8bcd-4685-9308-562790276176</edit_uuid>
+<special_ability_group_parents record_uuid="{f562ec88-7da3-4f21-aedd-322e66728bf6}" record_timestamp="1470302909724" record_key="wh_dlc04_lore_helman_ghorstwh_main_lore_vampires">
+<child>wh_dlc04_lore_helman_ghorst</child>
+<parent>wh_main_lore_vampires</parent>
+</special_ability_group_parents>
+<special_ability_group_parents record_uuid="{7f449323-356e-45d7-90f9-6bb854a876a9}" record_timestamp="1471865791379" record_key="wh_dlc04_lore_strigoiwh_main_lore_vampires">
+<child>wh_dlc04_lore_strigoi</child>
+<parent>wh_main_lore_vampires</parent>
+</special_ability_group_parents>
+<special_ability_group_parents record_uuid="{4acca9a3-7d0a-4a29-b548-80883b126016}" record_timestamp="1479318991015" record_key="wh_dlc05_lore_branchwraithwh_dlc05_lore_shadows">
+<child>wh_dlc05_lore_branchwraith</child>
+<parent>wh_dlc05_lore_shadows</parent>
+</special_ability_group_parents>
+</dataroot>

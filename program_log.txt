@@ -1,0 +1,294 @@
+variantmesh_NODE:bst_minotaurs_great_weapons	Parent:None	Q_size:0
+Since parent = None, new parent = bst_minotaurs_great_weapons
+variantmesh_NODE:bst_minotaur_bROR	Parent:bst_minotaurs_great_weapons	Q_size:0
+PARENT:bst_minotaurs_great_weapons gains child:bst_minotaur_bROR
+Queue.put(bst_minotaurs_great_weapons), new parent = bst_minotaur_bROR
+rigidmodel_NODE:hu12\bst\bst_minotaurs\bst_minotaur_head_R1	Parent:bst_minotaur_bROR	Q_size:1
+PARENT:bst_minotaur_bROR gains child:hu12\bst\bst_minotaurs\bst_minotaur_head_R1
+Queue.put(bst_minotaur_bROR), new parent = hu12\bst\bst_minotaurs\bst_minotaur_head_R1
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_normal
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_R1_diffuse
+END OF rigidmodel	(hu12\bst\bst_minotaurs\bst_minotaur_head_01)		Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R1	Q_size:2
+NEW parent = bst_minotaur_bROR
+rigidmodel_NODE:hu12\bst\bst_minotaurs\bst_minotaur_head_R2	Parent:bst_minotaur_bROR	Q_size:1
+PARENT:bst_minotaur_bROR gains child:hu12\bst\bst_minotaurs\bst_minotaur_head_R2
+Queue.put(bst_minotaur_bROR), new parent = hu12\bst\bst_minotaurs\bst_minotaur_head_R2
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_normal
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_R1_diffuse
+END OF rigidmodel	(hu12\bst\bst_minotaurs\bst_minotaur_head_02)		Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R2	Q_size:2
+NEW parent = bst_minotaur_bROR
+rigidmodel_NODE:hu12\bst\bst_minotaurs\bst_minotaur_head_R3	Parent:bst_minotaur_bROR	Q_size:1
+PARENT:bst_minotaur_bROR gains child:hu12\bst\bst_minotaurs\bst_minotaur_head_R3
+Queue.put(bst_minotaur_bROR), new parent = hu12\bst\bst_minotaurs\bst_minotaur_head_R3
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_normal
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_01_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_head_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_head_R1_diffuse
+END OF rigidmodel	(hu12\bst\bst_minotaurs\bst_minotaur_head_03)		Parent:hu12\bst\bst_minotaurs\bst_minotaur_head_R3	Q_size:2
+NEW parent = bst_minotaur_bROR
+rigidmodel_NODE:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Parent:bst_minotaur_bROR	Q_size:1
+PARENT:bst_minotaur_bROR gains child:hu12\bst\bst_minotaurs\bst_minotaur_body_R1
+Queue.put(bst_minotaur_bROR), new parent = hu12\bst\bst_minotaurs\bst_minotaur_body_R1
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_normal
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_lowlod_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_lowlod_normal
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_R1_diffuse
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_lowlod_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_lowlod_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_lowlod_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_lowlod_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_lowlod_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_lowlod_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_lowlod_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_lowlod_diffuse
+END OF rigidmodel	(hu12\bst\bst_minotaurs\bst_minotaur_body_01)		Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R1	Q_size:2
+NEW parent = bst_minotaur_bROR
+rigidmodel_NODE:hu12\bst\bst_minotaurs\bst_minotaur_body_R2	Parent:bst_minotaur_bROR	Q_size:1
+PARENT:bst_minotaur_bROR gains child:hu12\bst\bst_minotaurs\bst_minotaur_body_R2
+Queue.put(bst_minotaur_bROR), new parent = hu12\bst\bst_minotaurs\bst_minotaur_body_R2
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal
+END OF rigidmodel	(hu12\bst\bst_minotaurs\bst_minotaur_body_02)		Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R2	Q_size:2
+NEW parent = bst_minotaur_bROR
+rigidmodel_NODE:hu12\bst\bst_minotaurs\bst_minotaur_body_R3	Parent:bst_minotaur_bROR	Q_size:1
+PARENT:bst_minotaur_bROR gains child:hu12\bst\bst_minotaurs\bst_minotaur_body_R3
+Queue.put(bst_minotaur_bROR), new parent = hu12\bst\bst_minotaurs\bst_minotaur_body_R3
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal
+END OF rigidmodel	(hu12\bst\bst_minotaurs\bst_minotaur_body_03)		Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R3	Q_size:2
+NEW parent = bst_minotaur_bROR
+rigidmodel_NODE:hu12\bst\bst_minotaurs\bst_minotaur_body_R4	Parent:bst_minotaur_bROR	Q_size:1
+PARENT:bst_minotaur_bROR gains child:hu12\bst\bst_minotaurs\bst_minotaur_body_R4
+Queue.put(bst_minotaur_bROR), new parent = hu12\bst\bst_minotaurs\bst_minotaur_body_R4
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R4	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R4 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R4	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R4 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R4	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R4 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R4	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R4 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R4	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R4 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal
+END OF rigidmodel	(hu12\bst\bst_minotaurs\bst_minotaur_body_04)		Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R4	Q_size:2
+NEW parent = bst_minotaur_bROR
+rigidmodel_NODE:hu12\bst\bst_minotaurs\bst_minotaur_body_R5	Parent:bst_minotaur_bROR	Q_size:1
+PARENT:bst_minotaur_bROR gains child:hu12\bst\bst_minotaurs\bst_minotaur_body_R5
+Queue.put(bst_minotaur_bROR), new parent = hu12\bst\bst_minotaurs\bst_minotaur_body_R5
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R5	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R5 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R5	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R5 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_normal
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R5	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R5 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R5	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R5 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_R1_diffuse
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R5	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R5 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R5	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R5 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R5	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R5 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R5	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R5 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R5	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R5 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R5	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_body_R5 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal
+END OF rigidmodel	(hu12\bst\bst_minotaurs\bst_minotaur_body_05)		Parent:hu12\bst\bst_minotaurs\bst_minotaur_body_R5	Q_size:2
+NEW parent = bst_minotaur_bROR
+rigidmodel_NODE:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1	Parent:bst_minotaur_bROR	Q_size:1
+PARENT:bst_minotaur_bROR gains child:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1
+Queue.put(bst_minotaur_bROR), new parent = hu12\bst\bst_minotaurs\bst_minotaur_legs_R1
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_normal
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_R1_diffuse
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal
+END OF rigidmodel	(hu12\bst\bst_minotaurs\bst_minotaur_legs_01)		Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R1	Q_size:2
+NEW parent = bst_minotaur_bROR
+rigidmodel_NODE:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2	Parent:bst_minotaur_bROR	Q_size:1
+PARENT:bst_minotaur_bROR gains child:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2
+Queue.put(bst_minotaur_bROR), new parent = hu12\bst\bst_minotaurs\bst_minotaur_legs_R2
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_normal
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_R1_diffuse
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_gloss_map
+END OF rigidmodel	(hu12\bst\bst_minotaurs\bst_minotaur_legs_02)		Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R2	Q_size:2
+NEW parent = bst_minotaur_bROR
+rigidmodel_NODE:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3	Parent:bst_minotaur_bROR	Q_size:1
+PARENT:bst_minotaur_bROR gains child:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3
+Queue.put(bst_minotaur_bROR), new parent = hu12\bst\bst_minotaurs\bst_minotaur_legs_R3
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_R1_diffuse
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_normal
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_R1_diffuse	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_R1_diffuse
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_normal
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_specular
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_mask
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_body_01_gloss_map
+dds_file_NODE:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_gloss_map	Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3	Q_size:2
+PARENT:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3 gains child:hu12/bst/bst_minotaurs/tex/bst_minotaur_legs_01_gloss_map
+END OF rigidmodel	(hu12\bst\bst_minotaurs\bst_minotaur_legs_03)		Parent:hu12\bst\bst_minotaurs\bst_minotaur_legs_R3	Q_size:2
+NEW parent = bst_minotaur_bROR
+END OF variantmesh	(bst_minotaur_base)		Parent:bst_minotaur_bROR	Q_size:1
+NEW parent = bst_minotaurs_great_weapons
+rigidmodel_NODE:hu12/bst/bst_props/bst_minotaur_2h_axe_01	Parent:bst_minotaurs_great_weapons	Q_size:0
+PARENT:bst_minotaurs_great_weapons gains child:hu12/bst/bst_props/bst_minotaur_2h_axe_01
+Queue.put(bst_minotaurs_great_weapons), new parent = hu12/bst/bst_props/bst_minotaur_2h_axe_01
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_specular	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_01	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_01 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_specular
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_diffuse	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_01	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_01 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_diffuse
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_mask	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_01	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_01 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_mask
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_normal	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_01	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_01 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_normal
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_gloss_map	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_01	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_01 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_gloss_map
+END OF rigidmodel	(hu12/bst/bst_props/bst_minotaur_2h_axe_01)		Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_01	Q_size:1
+NEW parent = bst_minotaurs_great_weapons
+rigidmodel_NODE:hu12/bst/bst_props/bst_minotaur_2h_axe_02	Parent:bst_minotaurs_great_weapons	Q_size:0
+PARENT:bst_minotaurs_great_weapons gains child:hu12/bst/bst_props/bst_minotaur_2h_axe_02
+Queue.put(bst_minotaurs_great_weapons), new parent = hu12/bst/bst_props/bst_minotaur_2h_axe_02
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_specular	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_02	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_02 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_specular
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_diffuse	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_02	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_02 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_diffuse
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_mask	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_02	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_02 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_mask
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_normal	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_02	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_02 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_normal
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_gloss_map	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_02	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_02 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_gloss_map
+END OF rigidmodel	(hu12/bst/bst_props/bst_minotaur_2h_axe_02)		Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_02	Q_size:1
+NEW parent = bst_minotaurs_great_weapons
+rigidmodel_NODE:hu12/bst/bst_props/bst_minotaur_2h_axe_03	Parent:bst_minotaurs_great_weapons	Q_size:0
+PARENT:bst_minotaurs_great_weapons gains child:hu12/bst/bst_props/bst_minotaur_2h_axe_03
+Queue.put(bst_minotaurs_great_weapons), new parent = hu12/bst/bst_props/bst_minotaur_2h_axe_03
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_specular	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_03	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_03 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_specular
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_diffuse	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_03	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_03 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_diffuse
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_mask	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_03	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_03 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_mask
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_normal	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_03	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_03 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_normal
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_gloss_map	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_03	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_03 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_gloss_map
+END OF rigidmodel	(hu12/bst/bst_props/bst_minotaur_2h_axe_03)		Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_03	Q_size:1
+NEW parent = bst_minotaurs_great_weapons
+rigidmodel_NODE:hu12/bst/bst_props/bst_minotaur_2h_axe_04	Parent:bst_minotaurs_great_weapons	Q_size:0
+PARENT:bst_minotaurs_great_weapons gains child:hu12/bst/bst_props/bst_minotaur_2h_axe_04
+Queue.put(bst_minotaurs_great_weapons), new parent = hu12/bst/bst_props/bst_minotaur_2h_axe_04
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_specular	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_04	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_04 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_specular
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_diffuse	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_04	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_04 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_diffuse
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_mask	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_04	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_04 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_mask
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_normal	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_04	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_04 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_normal
+dds_file_NODE:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_gloss_map	Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_04	Q_size:1
+PARENT:hu12/bst/bst_props/bst_minotaur_2h_axe_04 gains child:hu12/bst/bst_props/tex/bst_minotaur_2h_axe_01_gloss_map
+END OF rigidmodel	(hu12/bst/bst_props/bst_minotaur_2h_axe_04)		Parent:hu12/bst/bst_props/bst_minotaur_2h_axe_04	Q_size:1
+NEW parent = bst_minotaurs_great_weapons
+END OF variantmesh	(bst_minotaurs_great_weapons)	Parent:bst_minotaurs_great_weapons	Q_size:0
+TREE_LST ADD --> bst_minotaurs_great_weapons

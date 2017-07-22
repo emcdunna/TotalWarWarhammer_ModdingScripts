@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mounts.xsd" export_time="Thu Feb 9 16:47:33 2017" revision="217" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>a834180d-70ef-48b6-8ec5-e73a74a4ed54</edit_uuid>
+<mounts record_uuid="{4943bfcb-f529-4b3d-9dee-ee0817f5ae8d}" record_timestamp="1479324802857" record_key="wh_dlc01_chs_mnt_dragon">
+<animation>dr1b_chaos_dragon</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_main_flying_dragon_blood</entity>
+<key>wh_dlc01_chs_mnt_dragon</key>
+<variant>wh_chs_dragon</variant>
+<voiceover>wh_main_vo_culture_Dragon_Large</voiceover>
+</mounts>
+<mounts record_uuid="{350289de-f718-497b-9235-d4db884d26fb}" record_timestamp="1479324804227" record_key="wh_dlc01_chs_mnt_gorebeast">
+<animation>ap1_gorebeast</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_dlc01_vehicle_chs_chariot_gorebeast</entity>
+<key>wh_dlc01_chs_mnt_gorebeast</key>
+<variant>wh_chs_gorebeast</variant>
+<voiceover>wh_dlc01_vo_culture_Gorebeast</voiceover>
+</mounts>
+<mounts record_uuid="{58e746a6-eff1-4348-9e96-370e387bc770}" record_timestamp="1479324808162" record_key="wh_dlc01_chs_mnt_manticore">
+<animation>bc3_manticore</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_dlc01_flying_manticore_blood</entity>
+<key>wh_dlc01_chs_mnt_manticore</key>
+<variant>wh_chs_manticore</variant>
+<voiceover>wh_main_vo_culture_Manticore</voiceover>
+</mounts>
+<mounts record_uuid="{b81ca90b-2c1b-48bc-b0a3-e570e9b7c595}" record_timestamp="1479324814573" record_key="wh_dlc02_vmp_mnt_blood_knights_steed">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_dlc02_vmp_cavalry_standard_blood_knight_blood</entity>
+<key>wh_dlc02_vmp_mnt_blood_knights_steed</key>
+<variant>wh_dlc02_vmp_blood_knights_steed</variant>
+<voiceover>wh_main_vo_culture_Skeletal_horse</voiceover>
+</mounts>
+<mounts record_uuid="{30b3d50b-d23d-4849-b899-2c94a8dcb15a}" record_timestamp="1479324802236" record_key="wh_dlc03_bst_mnt_razorgor">
+<animation>bo1_razorgor</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_dlc03_bst_mon_razorgor</entity>
+<key>wh_dlc03_bst_mnt_razorgor</key>
+<variant>wh_dlc03_bst_razorgors</variant>
+<voiceover>wh_dlc03_vo_culture_Beastmen</voiceover>
+</mounts>
+<mounts record_uuid="{5ee7a07b-47ea-42ad-aa9f-40119a025d69}" record_timestamp="1479324802284" record_key="wh_dlc03_bst_mnt_razorgor_chariot">
+<animation>bo1_razorgor</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_dlc03_vehicle_bst_chariot_razorgor_blood</entity>
+<key>wh_dlc03_bst_mnt_razorgor_chariot</key>
+<variant>wh_dlc03_bst_razorgor_chariot</variant>
+<voiceover>wh_dlc03_vo_culture_Boar</voiceover>
+</mounts>
+<mounts record_uuid="{97e2f7b0-afd3-44ec-acc5-999607b94501}" record_timestamp="1479324802237" record_key="wh_dlc03_bst_mnt_razorgor_mount">
+<animation>bo1_razorgor</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_dlc03_bst_mon_razorgor</entity>
+<key>wh_dlc03_bst_mnt_razorgor_mount</key>
+<variant>wh_dlc03_bst_razorgor_mount</variant>
+<voiceover>wh_dlc03_vo_culture_Beastmen</voiceover>
+</mounts>
+<mounts record_uuid="{ed547ca8-52d5-49b2-8df9-2c984808f327}" record_timestamp="1479324804420" record_key="wh_dlc03_emp_mnt_amber_wizard_griffon">
+<animation>bc2_griffon</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_flying_griffon_blood</entity>
+<key>wh_dlc03_emp_mnt_amber_wizard_griffon</key>
+<variant>wh_dlc03_emp_amber_wizard_griffon</variant>
+<voiceover>wh_main_vo_culture_Griffin_DemiGryph_Hippogryph</voiceover>
+</mounts>
+<mounts record_uuid="{e0dc6965-992b-4d08-a31e-d3582bcaa235}" record_timestamp="1479324802238" record_key="wh_dlc04_emp_mnt_blazing_sun_warhorse">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_dlc04_emp_cavalry_blazing_sun_blood</entity>
+<key>wh_dlc04_emp_mnt_blazing_sun_warhorse</key>
+<variant>wh_dlc04_emp_knight_blazing_sun_warhorse</variant>
+<voiceover>wh_dlc03_vo_culture_Beastmen</voiceover>
+</mounts>
+<mounts record_uuid="{14ed2c48-72c5-4f7d-b0a0-a9cc8b13b323}" record_timestamp="1479324802238" record_key="wh_dlc04_emp_mnt_demigryph_altdorf">
+<animation>bc2_demigryph</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_monster_demigryph_blood</entity>
+<key>wh_dlc04_emp_mnt_demigryph_altdorf</key>
+<variant>wh_dlc04_emp_demigryph_altdorf</variant>
+<voiceover>wh_dlc03_vo_culture_Beastmen</voiceover>
+</mounts>
+<mounts record_uuid="{9bf19231-ca56-4fd8-8984-758fbbf2b57d}" record_timestamp="1479324805779" record_key="wh_dlc04_emp_mnt_warhorse_arch_lector">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_dlc04_cavalry_very_slow_hero_blood</entity>
+<key>wh_dlc04_emp_mnt_warhorse_arch_lector</key>
+<variant>wh_emp_warhorse</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{392c1610-a1c8-4e37-b1f9-8be3591a9e1d}" record_timestamp="1479324805793" record_key="wh_dlc04_emp_mnt_warhorse_barded_arch_lector">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_dlc04_cavalry_ultra_slow_hero_blood</entity>
+<key>wh_dlc04_emp_mnt_warhorse_barded_arch_lector</key>
+<variant>wh_emp_warhorse_armoured</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{39e8452a-ef6c-4dc1-afa9-31a0aee89455}" record_timestamp="1479324802234" record_key="wh_dlc04_emp_mnt_warhorse_reiksguard_zintlers">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_cavalry_slow_blood</entity>
+<key>wh_dlc04_emp_mnt_warhorse_reiksguard_zintlers</key>
+<variant>wh_dlc04_emp_warhorse_reiksguard_zintlers</variant>
+<voiceover>wh_dlc03_vo_culture_Beastmen</voiceover>
+</mounts>
+<mounts record_uuid="{3073670b-c395-448a-8b8f-9ea2b5b35c90}" record_timestamp="1479324805789" record_key="wh_dlc04_emp_warhorse_armoured_war_altar">
+<animation>hr1_warhorse_draught</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_emp_luminark_draught_blood</entity>
+<key>wh_dlc04_emp_warhorse_armoured_war_altar</key>
+<variant>wh_dlc04_emp_warhorse_armoured_war_altar</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{82c0540d-34ce-4d35-b9de-5ef99fdaad76}" record_timestamp="1479324814562" record_key="wh_dlc04_vmp_mnt_skeletal_steed_mortis_engine">
+<animation>hr1_vmp_skeletal_steed_mortisengine</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_cavalry_slow_blood</entity>
+<key>wh_dlc04_vmp_mnt_skeletal_steed_mortis_engine</key>
+<variant>wh_vmp_barded_skeletal_steed</variant>
+<voiceover>wh_main_vo_culture_Skeletal_horse</voiceover>
+</mounts>
+<mounts record_uuid="{87b7fbda-e0aa-438f-ba64-6c658dcaba7a}" record_timestamp="1479324822440" record_key="wh_dlc04_vmp_mnt_terrorgheist">
+<animation>bi2_terrorgheist</animation>
+<audio_armour_type>bone</audio_armour_type>
+<entity>wh_main_flying_dragon_blood</entity>
+<key>wh_dlc04_vmp_mnt_terrorgheist</key>
+<variant>wh_vmp_terrorgheist</variant>
+<voiceover>wh_main_vo_culture_Terrorgheist</voiceover>
+</mounts>
+<mounts record_uuid="{2bf07fc0-8eb2-4d8a-845e-db23334038a1}" record_timestamp="1479324814575" record_key="wh_dlc04_vmp_mnt_zombie_corpse_cart">
+<animation>hu1_vampire_zombie_sword_draught</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_dlc04_vehicle_zombie_corpse_cart</entity>
+<key>wh_dlc04_vmp_mnt_zombie_corpse_cart</key>
+<variant>wh_dlc04_vmp_zombie_corpse_cart</variant>
+<voiceover>wh_main_vo_culture_Skeletal_horse</voiceover>
+</mounts>
+<mounts record_uuid="{fcbdb74f-9ddd-4d57-975f-68a2bf0d130c}" record_timestamp="1479325041518" record_key="wh_dlc05_wef_mnt_elven_steed">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_dlc05_wef_cavalry_fast_360_blood</entity>
+<key>wh_dlc05_wef_mnt_elven_steed</key>
+<variant>wh_dlc05_wef_elven_steed</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{9a9db53b-61c4-4ac7-8730-16f708eed678}" record_timestamp="1479324802979" record_key="wh_dlc05_wef_mnt_forest_dragon">
+<animation>dr1_dragon</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_main_flying_dragon_blood</entity>
+<key>wh_dlc05_wef_mnt_forest_dragon</key>
+<variant>wh_dlc05_wef_forest_dragon_saddle</variant>
+<voiceover>wh_main_vo_culture_Dragon_Small</voiceover>
+</mounts>
+<mounts record_uuid="{139ed037-0f20-40d6-ae93-1322d0098055}" record_timestamp="1479324803215" record_key="wh_dlc05_wef_mnt_great_eagle">
+<animation>bi1_eagle</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_dlc05_wef_mon_great_eagle_blood</entity>
+<key>wh_dlc05_wef_mnt_great_eagle</key>
+<variant>wh_dlc05_wef_great_eagle_character</variant>
+<voiceover>wh_main_vo_culture_Eagle</voiceover>
+</mounts>
+<mounts record_uuid="{b09dc261-aff5-4c82-b6a8-4378830d10b3}" record_timestamp="1479324804597" record_key="wh_dlc05_wef_mnt_hawk">
+<animation>bi1_hawk</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_dlc05_wef_hawk_blood</entity>
+<key>wh_dlc05_wef_mnt_hawk</key>
+<variant>wh_dlc05_wef_hawk</variant>
+<voiceover>wh_main_vo_culture_Hawk</voiceover>
+</mounts>
+<mounts record_uuid="{93979c51-5888-4342-839f-5c8743d0a524}" record_timestamp="1481890652835" record_key="wh_dlc05_wef_mnt_steed_of_isha">
+<animation>st1_stag</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_dlc05_wef_cav_stag_blood</entity>
+<key>wh_dlc05_wef_mnt_steed_of_isha</key>
+<variant>wh_dlc05_wef_steed_of_isha</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{cd93652e-f677-4c8b-91f8-eb10c15aba3e}" record_timestamp="1479325041129" record_key="wh_dlc05_wef_mnt_steed_of_kurnous">
+<animation>st1_stag</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_dlc05_wef_cav_stag_blood</entity>
+<key>wh_dlc05_wef_mnt_steed_of_kurnous</key>
+<variant>wh_dlc05_wef_steed_of_kurnous</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{0575f071-ca61-4033-8882-f7b6376d74a5}" record_timestamp="1479324805782" record_key="wh_dlc05_wef_mnt_unicorn">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_cavalry_standard_blood</entity>
+<key>wh_dlc05_wef_mnt_unicorn</key>
+<variant>wh_dlc05_wef_unicorn</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{d143811a-ede6-4518-b2cd-e231f1083e49}" record_timestamp="1479324805772" record_key="wh_dlc06_chs_mnt_warhorse_fast_horsemasters">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_dlc06_chs_cavalry_fast_horsemasters_blood</entity>
+<key>wh_dlc06_chs_mnt_warhorse_fast_horsemasters</key>
+<variant>wh_chs_warhorse</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{770b0ae9-0c6b-43d1-b29d-50606be3f9fc}" record_timestamp="1479324829023" record_key="wh_dlc06_grn_giant_wolf_chariot_teef_robbers">
+<animation>wf1_giant_wolf_draught</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_grn_wolf_mount_blood</entity>
+<key>wh_dlc06_grn_giant_wolf_chariot_teef_robbers</key>
+<variant>wh_dlc06_grn_giant_wolf_howler</variant>
+<voiceover>wh_main_vo_culture_Wolf</voiceover>
+</mounts>
+<mounts record_uuid="{37dd4500-75ae-45f3-8724-652de91c8c2f}" record_timestamp="1479324817648" record_key="wh_dlc06_grn_mnt_giant_spider_creeper">
+<animation>sp1_giant_spider</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_main_monster_spider_giant_blood</entity>
+<key>wh_dlc06_grn_mnt_giant_spider_creeper</key>
+<variant>wh_dlc06_grn_giant_spider_creepers</variant>
+<voiceover>wh_main_vo_culture_Spider_Large</voiceover>
+</mounts>
+<mounts record_uuid="{27b0fba4-6b7c-4dc8-8d5e-9b686c93585b}" record_timestamp="1479324829022" record_key="wh_dlc06_grn_mnt_giant_wolf_howlers">
+<animation>wf1_giant_wolf</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_grn_wolf_mount_blood</entity>
+<key>wh_dlc06_grn_mnt_giant_wolf_howlers</key>
+<variant>wh_dlc06_grn_giant_wolf_howler</variant>
+<voiceover>wh_main_vo_culture_Wolf</voiceover>
+</mounts>
+<mounts record_uuid="{11e1f1fb-76c1-4b6a-8013-123bc1dd3121}" record_timestamp="1479324829019" record_key="wh_dlc06_grn_mnt_giant_wolf_marauders">
+<animation>wf1_giant_wolf</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_grn_wolf_mount_blood</entity>
+<key>wh_dlc06_grn_mnt_giant_wolf_marauders</key>
+<variant>wh_dlc06_grn_giant_wolf_marauders</variant>
+<voiceover>wh_main_vo_culture_Wolf</voiceover>
+</mounts>
+<mounts record_uuid="{7be4c5eb-7049-4a85-8894-683ca3fd9fe2}" record_timestamp="1479324819945" record_key="wh_dlc06_grn_mnt_great_cave_squig">
+<animation>rp2_great_cave_squig</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_dlc06_grn_mnt_great_cave_squig</entity>
+<key>wh_dlc06_grn_mnt_great_cave_squig</key>
+<variant>wh_dlc06_grn_great_cave_squig</variant>
+<voiceover>wh_dlc06_vo_culture_Squig</voiceover>
+</mounts>
+<mounts record_uuid="{4ba4e10f-101f-423e-a573-5b745b14ce70}" record_timestamp="1479324819944" record_key="wh_dlc06_grn_mnt_squig">
+<animation>rp2_squig_hopper</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_dlc06_grn_mnt_squig</entity>
+<key>wh_dlc06_grn_mnt_squig</key>
+<variant>wh_dlc06_grn_squig_saddle</variant>
+<voiceover>wh_dlc06_vo_culture_Squig</voiceover>
+</mounts>
+<mounts record_uuid="{48add900-7fac-4a43-8555-72ce93c1433c}" record_timestamp="1479324818255" record_key="wh_dlc06_grn_mnt_venom_queen">
+<animation>sp1_arachnarok</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_main_monster_spider_arachnarok_blood</entity>
+<key>wh_dlc06_grn_mnt_venom_queen</key>
+<variant>wh_dlc06_grn_venom_queen</variant>
+<voiceover>wh_main_vo_culture_Spider_Small</voiceover>
+</mounts>
+<mounts record_uuid="{2d8bc68a-8a50-4448-81d3-7e50b8e19278}" record_timestamp="1479324802283" record_key="wh_dlc06_grn_mnt_warboar_big_uns_mob">
+<animation>bo1_warboar</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_grn_cav_boar_big_uns_blood</entity>
+<key>wh_dlc06_grn_mnt_warboar_big_uns_mob</key>
+<variant>wh_dlc06_grn_warboar_big_uns_mob</variant>
+<voiceover>wh_dlc03_vo_culture_Boar</voiceover>
+</mounts>
+<mounts record_uuid="{50df1a18-4075-4c57-b27b-37f3d93451ce}" record_timestamp="1479324802283" record_key="wh_dlc06_grn_mnt_warboar_spleenrippa">
+<animation>bo1_warboar</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_main_grn_cav_boar_hero_blood</entity>
+<key>wh_dlc06_grn_mnt_warboar_spleenrippa</key>
+<variant>wh_dlc06_grn_warboar_spleenrippa</variant>
+<voiceover>wh_dlc03_vo_culture_Boar</voiceover>
+</mounts>
+<mounts record_uuid="{998311b7-93a8-4e48-9c75-97913c1083c2}" record_timestamp="1484209072639" record_key="wh_dlc07_brt_mnt_hippogrpyh_1">
+<animation>bc2b_hippogryph</animation>
+<audio_armour_type>chainmail</audio_armour_type>
+<entity>wh_dlc07_flying_hippogryph_blood_1</entity>
+<key>wh_dlc07_brt_mnt_hippogrpyh_1</key>
+<variant>wh_brt_hippogryphs</variant>
+<voiceover>wh_main_vo_culture_Griffin_DemiGryph_Hippogryph</voiceover>
+</mounts>
+<mounts record_uuid="{e5c30e47-7bc0-436d-8250-cf8052c5dfb9}" record_timestamp="1486489156761" record_key="wh_dlc07_brt_mnt_questing_warhorse_barded">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_brt_cavalry_barded_blood</entity>
+<key>wh_dlc07_brt_mnt_questing_warhorse_barded</key>
+<variant>wh_dlc07_brt_questing_knight_warhorse</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{ff498afd-2eb7-44b1-a1ef-e83de13edba0}" record_timestamp="1484845806480" record_key="wh_dlc07_brt_mnt_shadowsteed_hero">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_dlc07_brt_cavalry_shadow_steed</entity>
+<key>wh_dlc07_brt_mnt_shadowsteed_hero</key>
+<variant>wh_dlc07_brt_shadowsteed</variant>
+<voiceover>wh_dlc03_vo_culture_Beastmen</voiceover>
+</mounts>
+<mounts record_uuid="{9da2f697-d210-42c4-8c22-f3c3576bdcca}" record_timestamp="1486658852863" record_key="wh_dlc07_brt_mnt_silvaron_hero">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_dlc07_brt_silvaron</entity>
+<key>wh_dlc07_brt_mnt_silvaron_hero</key>
+<variant>wh_dlc07_brt_silvaron</variant>
+<voiceover>wh_dlc03_vo_culture_Beastmen</voiceover>
+</mounts>
+<mounts record_uuid="{1108ad76-689b-4100-8ef6-2faf48e92b8d}" record_timestamp="1479324805774" record_key="wh_emp_warhorse_armoured_luminark">
+<animation>hr1_warhorse_draught</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_emp_luminark_draught_blood</entity>
+<key>wh_emp_warhorse_armoured_luminark</key>
+<variant>wh_emp_warhorse_luminark</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{bf338f18-c845-40bb-bdc8-c8e5b0869981}" record_timestamp="1479324804419" record_key="wh_main_brt_mnt_beaquis_the_hippogryph">
+<animation>bc2b_hippogryph</animation>
+<audio_armour_type>chainmail</audio_armour_type>
+<entity>wh_main_flying_hippogryph_blood</entity>
+<key>wh_main_brt_mnt_beaquis_the_hippogryph</key>
+<variant>wh_brt_beaquis_the_hippogryph</variant>
+<voiceover>wh_main_vo_culture_Griffin_DemiGryph_Hippogryph</voiceover>
+</mounts>
+<mounts record_uuid="{b48dd4e1-8601-4ede-b5cc-06cefc14c8b8}" record_timestamp="1479324804416" record_key="wh_main_brt_mnt_hippogryph">
+<animation>bc2b_hippogryph</animation>
+<audio_armour_type>chainmail</audio_armour_type>
+<entity>wh_main_flying_hippogryph_blood</entity>
+<key>wh_main_brt_mnt_hippogryph</key>
+<variant>wh_brt_hippogryphs</variant>
+<voiceover>wh_main_vo_culture_Griffin_DemiGryph_Hippogryph</voiceover>
+</mounts>
+<mounts record_uuid="{c1c1e08f-4262-43fe-ba4d-7610b8bc51df}" record_timestamp="1482340449809" record_key="wh_main_brt_mnt_hippogryph_lords">
+<animation>bc2b_hippogryph</animation>
+<audio_armour_type>chainmail</audio_armour_type>
+<entity>wh_main_flying_hippogryph_blood</entity>
+<key>wh_main_brt_mnt_hippogryph_lords</key>
+<variant>wh_brt_hippogryphs_lord</variant>
+<voiceover>wh_main_vo_culture_Griffin_DemiGryph_Hippogryph</voiceover>
+</mounts>
+<mounts record_uuid="{8c98de6a-1413-4129-9ea1-1bcdb3236935}" record_timestamp="1486482388839" record_key="wh_main_brt_mnt_hippogryph_lords_faction_colours">
+<animation>bc2b_hippogryph</animation>
+<audio_armour_type>chainmail</audio_armour_type>
+<entity>wh_main_flying_hippogryph_blood</entity>
+<key>wh_main_brt_mnt_hippogryph_lords_faction_colours</key>
+<variant>wh_brt_hippogryphs_lord_faction_colours</variant>
+<voiceover>wh_main_vo_culture_Griffin_DemiGryph_Hippogryph</voiceover>
+</mounts>
+<mounts record_uuid="{68efab09-c8fd-4597-9cc2-e2643ef2cf7d}" record_timestamp="1479324813141" record_key="wh_main_brt_mnt_pegasus">
+<animation>hr1_pegasus</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_flying_pegasus_blood</entity>
+<key>wh_main_brt_mnt_pegasus</key>
+<variant>wh_brt_pegasus</variant>
+<voiceover>wh_main_vo_culture_Pegasus</voiceover>
+</mounts>
+<mounts record_uuid="{ab8ff057-ec65-48b4-afe2-16573fc2e87a}" record_timestamp="1479324813205" record_key="wh_main_brt_mnt_royal_pegasus">
+<animation>hr1_pegasus</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_flying_pegasus_hero_blood</entity>
+<key>wh_main_brt_mnt_royal_pegasus</key>
+<variant>wh_brt_royal_pegasus</variant>
+<voiceover>wh_main_vo_culture_Pegasus</voiceover>
+</mounts>
+<mounts record_uuid="{9fa8f2fd-1d28-4d06-a5f9-3da31655ad92}" record_timestamp="1486482388718" record_key="wh_main_brt_mnt_royal_pegasus_faction_colours">
+<animation>hr1_pegasus</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_flying_pegasus_hero_blood</entity>
+<key>wh_main_brt_mnt_royal_pegasus_faction_colours</key>
+<variant>wh_brt_royal_pegasus_faction_colours</variant>
+<voiceover>wh_main_vo_culture_Pegasus</voiceover>
+</mounts>
+<mounts record_uuid="{c13af632-df1b-4222-9e60-96fffe6442c0}" record_timestamp="1479324805772" record_key="wh_main_brt_mnt_warhorse">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_cavalry_standard_360_blood</entity>
+<key>wh_main_brt_mnt_warhorse</key>
+<variant>wh_brt_warhorses</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{f7e0c170-80da-4174-978b-161769dc7f6a}" record_timestamp="1479324805794" record_key="wh_main_brt_mnt_warhorse_barded">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_brt_cavalry_barded_blood</entity>
+<key>wh_main_brt_mnt_warhorse_barded</key>
+<variant>wh_brt_warhorses_barded</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{1546bef3-607e-4fcf-8030-225e3d542648}" record_timestamp="1486482388751" record_key="wh_main_brt_mnt_warhorse_barded_faction_colours">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_brt_cavalry_barded_blood</entity>
+<key>wh_main_brt_mnt_warhorse_barded_faction_colours</key>
+<variant>wh_brt_warhorses_barded_faction_colours</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{bb23f046-cbc9-4ecf-8d5b-3db09cac2de7}" record_timestamp="1479324805792" record_key="wh_main_brt_mnt_warhorse_fast">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_brt_cavalry_fast_blood</entity>
+<key>wh_main_brt_mnt_warhorse_fast</key>
+<variant>wh_brt_warhorses</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{44723216-fd6b-4283-8e33-9a40a1fd034c}" record_timestamp="1479324805781" record_key="wh_main_chs_mnt_barded_chaos_steed">
+<animation>hr1_chaos_steed</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_cavalry_slow_blood</entity>
+<key>wh_main_chs_mnt_barded_chaos_steed</key>
+<variant>wh_chs_barded_chaos_steed</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{a0239c9d-d03e-4026-b455-f0d4a19f3c76}" record_timestamp="1479324805776" record_key="wh_main_chs_mnt_barded_chaos_steed_hero">
+<animation>hr1_chaos_steed</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_cavalry_slow_hero_blood</entity>
+<key>wh_main_chs_mnt_barded_chaos_steed_hero</key>
+<variant>wh_chs_barded_chaos_steed</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{431e94b4-3aec-494c-88ba-f717b73693ca}" record_timestamp="1479324805791" record_key="wh_main_chs_mnt_chaos_steed">
+<animation>hr1_chaos_steed</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_cavalry_standard_360_blood</entity>
+<key>wh_main_chs_mnt_chaos_steed</key>
+<variant>wh_chs_chaos_steed</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{06456e41-8956-45a7-b406-c65faaf19bbc}" record_timestamp="1479324805778" record_key="wh_main_chs_mnt_chaos_steed_chariot">
+<animation>hr1_chaos_steed_draught</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_cavalry_standard_360_blood</entity>
+<key>wh_main_chs_mnt_chaos_steed_chariot</key>
+<variant>wh_chs_chaos_steed</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{fdadf119-51d7-4dc0-9023-01541679b092}" record_timestamp="1479324805796" record_key="wh_main_chs_mnt_dorghar">
+<animation>hr1_chaos_steed</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_cavalry_slow_hero_blood</entity>
+<key>wh_main_chs_mnt_dorghar</key>
+<variant>wh_chs_dorghar</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{98550e0d-f758-4d65-81ae-db9524bf1297}" record_timestamp="1479324805777" record_key="wh_main_chs_mnt_warhorse">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_cavalry_standard_360_blood</entity>
+<key>wh_main_chs_mnt_warhorse</key>
+<variant>wh_chs_warhorse</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{82f75ee9-1ee2-4046-adcb-8101c261618d}" record_timestamp="1479324803067" record_key="wh_main_chs_mnt_warhorse_fast">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_chs_cavalry_fast_blood</entity>
+<key>wh_main_chs_mnt_warhorse_fast</key>
+<variant>wh_chs_warhorse</variant>
+<voiceover>wh_main_vo_culture_Dwarf</voiceover>
+</mounts>
+<mounts record_uuid="{3baab1e5-db89-4190-94c9-359fee430e3c}" record_timestamp="1479324803066" record_key="wh_main_dwf_mnt_throne_of_power_bearers">
+<animation>th1_dwarf_throneofpower</animation>
+<audio_armour_type>chainmail</audio_armour_type>
+<entity>wh_main_dwf_veh_dwarf_throne_blood</entity>
+<key>wh_main_dwf_mnt_throne_of_power_bearers</key>
+<variant>wh_dwf_throne_of_power</variant>
+<voiceover>wh_main_vo_culture_Dwarf</voiceover>
+</mounts>
+<mounts record_uuid="{f1d426cf-1c51-4719-ae73-9ffb8aa08aef}" record_timestamp="1479324804417" record_key="wh_main_emp_mnt_deathclaw">
+<animation>bc2_deathclaw</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_flying_griffon_blood</entity>
+<key>wh_main_emp_mnt_deathclaw</key>
+<variant>wh_emp_deathclaw</variant>
+<voiceover>wh_main_vo_culture_Griffin_DemiGryph_Hippogryph</voiceover>
+</mounts>
+<mounts record_uuid="{3f8e5bb7-958a-4299-8456-064db746cf01}" record_timestamp="1479324804418" record_key="wh_main_emp_mnt_demigryph">
+<animation>bc2_demigryph</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_monster_demigryph_blood</entity>
+<key>wh_main_emp_mnt_demigryph</key>
+<variant>wh_emp_demigryph</variant>
+<voiceover>wh_main_vo_culture_Griffin_DemiGryph_Hippogryph</voiceover>
+</mounts>
+<mounts record_uuid="{e20d20a0-e909-4000-9d14-aa100fc67126}" record_timestamp="1479324804420" record_key="wh_main_emp_mnt_imperial_griffon">
+<animation>bc2_griffon</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_flying_griffon_blood</entity>
+<key>wh_main_emp_mnt_imperial_griffon</key>
+<variant>wh_emp_imperial_griffon</variant>
+<voiceover>wh_main_vo_culture_Griffin_DemiGryph_Hippogryph</voiceover>
+</mounts>
+<mounts record_uuid="{1e37fa73-ecd9-4a41-a026-369c670bc1fa}" record_timestamp="1479324813187" record_key="wh_main_emp_mnt_pegasus">
+<animation>hr1_pegasus</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_flying_pegasus_hero_blood</entity>
+<key>wh_main_emp_mnt_pegasus</key>
+<variant>wh_emp_pegasus</variant>
+<voiceover>wh_main_vo_culture_Pegasus</voiceover>
+</mounts>
+<mounts record_uuid="{04ea557d-07be-4a90-8c4e-b8c7a658eb14}" record_timestamp="1479324805790" record_key="wh_main_emp_mnt_warhorse">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_cavalry_standard_blood</entity>
+<key>wh_main_emp_mnt_warhorse</key>
+<variant>wh_emp_warhorse</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{bf434857-19eb-4ed7-b3ad-cd459e92020f}" record_timestamp="1479324805785" record_key="wh_main_emp_mnt_warhorse_360">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_cavalry_standard_360_blood</entity>
+<key>wh_main_emp_mnt_warhorse_360</key>
+<variant>wh_emp_warhorse</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{db5fbf5c-f0df-4f6d-8d42-68551b87193b}" record_timestamp="1479324805773" record_key="wh_main_emp_mnt_warhorse_barded">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_cavalry_slow_blood</entity>
+<key>wh_main_emp_mnt_warhorse_barded</key>
+<variant>wh_emp_warhorse_armoured</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{4419c5a9-2ca3-4df5-b03f-5300a9411fb2}" record_timestamp="1479324805784" record_key="wh_main_emp_mnt_warhorse_barded_hero">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_cavalry_slow_hero_blood</entity>
+<key>wh_main_emp_mnt_warhorse_barded_hero</key>
+<variant>wh_emp_warhorse_armoured</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{47ade47f-7ce1-42b5-8486-a38333336fae}" record_timestamp="1479324805788" record_key="wh_main_emp_mnt_warhorse_fast">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_emp_cavalry_fast_blood</entity>
+<key>wh_main_emp_mnt_warhorse_fast</key>
+<variant>wh_emp_warhorse</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{3b7a8f52-e0f7-4af6-bc3e-ade90cc34b3b}" record_timestamp="1479324805794" record_key="wh_main_emp_mnt_warhorse_reiksguard">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_cavalry_slow_blood</entity>
+<key>wh_main_emp_mnt_warhorse_reiksguard</key>
+<variant>wh_emp_warhorse_reiksguard</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{ec996551-ea9f-45a7-bb99-5f51efae5917}" record_timestamp="1479324802285" record_key="wh_main_grn_boar_chariot">
+<animation>bo1_warboar_draught</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_main_grn_cav_boar_blood</entity>
+<key>wh_main_grn_boar_chariot</key>
+<variant>wh_grn_warboar_no_saddle</variant>
+<voiceover>wh_dlc03_vo_culture_Boar</voiceover>
+</mounts>
+<mounts record_uuid="{88c37995-fc22-4440-9144-2283de8fd3ca}" record_timestamp="1479324829021" record_key="wh_main_grn_giant_wolf_chariot">
+<animation>wf1_giant_wolf_draught</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_grn_wolf_mount_blood</entity>
+<key>wh_main_grn_giant_wolf_chariot</key>
+<variant>wh_grn_giant_wolf</variant>
+<voiceover>wh_main_vo_culture_Wolf</voiceover>
+</mounts>
+<mounts record_uuid="{9a8317db-43b9-4cb0-b4eb-622180c45f2d}" record_timestamp="1479324818216" record_key="wh_main_grn_mnt_arachnarok_spider">
+<animation>sp1_arachnarok</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_main_monster_spider_arachnarok_blood</entity>
+<key>wh_main_grn_mnt_arachnarok_spider</key>
+<variant>wh_grn_arachnarok</variant>
+<voiceover>wh_main_vo_culture_Spider_Small</voiceover>
+</mounts>
+<mounts record_uuid="{2daad11d-7f75-4b6f-a45a-ba54b1bf3e64}" record_timestamp="1479324817649" record_key="wh_main_grn_mnt_giant_spider">
+<animation>sp1_giant_spider</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_main_monster_spider_giant_blood</entity>
+<key>wh_main_grn_mnt_giant_spider</key>
+<variant>wh_grn_giant_spider</variant>
+<voiceover>wh_main_vo_culture_Spider_Large</voiceover>
+</mounts>
+<mounts record_uuid="{bc2108a7-7436-4229-b50c-ff45c409cff9}" record_timestamp="1479324817647" record_key="wh_main_grn_mnt_giant_spider_hero">
+<animation>sp1_giant_spider</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_main_monster_spider_giant_blood</entity>
+<key>wh_main_grn_mnt_giant_spider_hero</key>
+<variant>wh_grn_giant_spider</variant>
+<voiceover>wh_main_vo_culture_Spider_Large</voiceover>
+</mounts>
+<mounts record_uuid="{f45e251a-b45b-4916-8956-da911fff3061}" record_timestamp="1479324829025" record_key="wh_main_grn_mnt_giant_wolf">
+<animation>wf1_giant_wolf</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_grn_wolf_mount_blood</entity>
+<key>wh_main_grn_mnt_giant_wolf</key>
+<variant>wh_grn_giant_wolf</variant>
+<voiceover>wh_main_vo_culture_Wolf</voiceover>
+</mounts>
+<mounts record_uuid="{af1a151f-2808-4a71-8397-13e8b8b104cd}" record_timestamp="1479324829026" record_key="wh_main_grn_mnt_giant_wolf_hero">
+<animation>wf1_giant_wolf</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_grn_wolf_mount_hero_blood</entity>
+<key>wh_main_grn_mnt_giant_wolf_hero</key>
+<variant>wh_grn_giant_wolf_armoured</variant>
+<voiceover>wh_main_vo_culture_Wolf</voiceover>
+</mounts>
+<mounts record_uuid="{e0fce8fb-9ada-49a5-bdab-847c5962c327}" record_timestamp="1479324802858" record_key="wh_main_grn_mnt_skullmuncha">
+<animation>bi2_wyvern</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_flying_wyvern_blood</entity>
+<key>wh_main_grn_mnt_skullmuncha</key>
+<variant>wh_grn_skullmuncha</variant>
+<voiceover>wh_main_vo_culture_Dragon_Large</voiceover>
+</mounts>
+<mounts record_uuid="{ef468d8e-b93a-4acb-add1-761955955eac}" record_timestamp="1479324802286" record_key="wh_main_grn_mnt_warboar">
+<animation>bo1_warboar</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_grn_cav_boar_blood</entity>
+<key>wh_main_grn_mnt_warboar</key>
+<variant>wh_grn_warboar</variant>
+<voiceover>wh_dlc03_vo_culture_Boar</voiceover>
+</mounts>
+<mounts record_uuid="{28c909ea-5519-4cb0-bd74-2c34252da45a}" record_timestamp="1479324802284" record_key="wh_main_grn_mnt_warboar_big_uns">
+<animation>bo1_warboar</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_grn_cav_boar_big_uns_blood</entity>
+<key>wh_main_grn_mnt_warboar_big_uns</key>
+<variant>wh_grn_warboar_big_uns</variant>
+<voiceover>wh_dlc03_vo_culture_Boar</voiceover>
+</mounts>
+<mounts record_uuid="{0ece21e1-40da-4768-847a-1ecb317da228}" record_timestamp="1479324802285" record_key="wh_main_grn_mnt_warboar_hero">
+<animation>bo1_warboar</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_grn_cav_boar_hero_blood</entity>
+<key>wh_main_grn_mnt_warboar_hero</key>
+<variant>wh_grn_warboar_big_uns</variant>
+<voiceover>wh_dlc03_vo_culture_Boar</voiceover>
+</mounts>
+<mounts record_uuid="{53257fcc-c266-4a7f-aeff-d9a3148d6193}" record_timestamp="1479324802283" record_key="wh_main_grn_mnt_warboar_no_saddle">
+<animation>bo1_warboar</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_main_grn_cav_boar_savage_blood</entity>
+<key>wh_main_grn_mnt_warboar_no_saddle</key>
+<variant>wh_grn_warboar_no_saddle_savage</variant>
+<voiceover>wh_dlc03_vo_culture_Boar</voiceover>
+</mounts>
+<mounts record_uuid="{bbc0186d-8395-47c0-844f-51df1e7c3112}" record_timestamp="1479324802286" record_key="wh_main_grn_mnt_warboar_no_saddle_big_uns">
+<animation>bo1_warboar</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_main_grn_cav_boar_savage_big_uns_blood</entity>
+<key>wh_main_grn_mnt_warboar_no_saddle_big_uns</key>
+<variant>wh_grn_warboar_no_saddle_big_uns_savage</variant>
+<voiceover>wh_dlc03_vo_culture_Boar</voiceover>
+</mounts>
+<mounts record_uuid="{9377844b-2a63-466e-b1ad-6cd3f528b07a}" record_timestamp="1479324802285" record_key="wh_main_grn_mnt_warboar_warboss">
+<animation>bo1_warboar</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_grn_cav_boar_hero_blood</entity>
+<key>wh_main_grn_mnt_warboar_warboss</key>
+<variant>wh_grn_warboar_warboss</variant>
+<voiceover>wh_dlc03_vo_culture_Boar</voiceover>
+</mounts>
+<mounts record_uuid="{f577a3b8-3e7d-4dfc-97b0-b089e160490d}" record_timestamp="1479324802979" record_key="wh_main_grn_mnt_wyvern">
+<animation>bi2_wyvern</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_flying_wyvern_blood</entity>
+<key>wh_main_grn_mnt_wyvern</key>
+<variant>wh_grn_wyvern</variant>
+<voiceover>wh_main_vo_culture_Dragon_Small</voiceover>
+</mounts>
+<mounts record_uuid="{9c240ea8-6a2c-4372-a033-9f06e0822b1d}" record_timestamp="1479324805792" record_key="wh_main_ksl_mnt_warhorse">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_cavalry_standard_360_blood</entity>
+<key>wh_main_ksl_mnt_warhorse</key>
+<variant>wh_emp_warhorse</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{4a9782f7-1d12-486f-9440-cf6bbe7e553f}" record_timestamp="1479324805788" record_key="wh_main_ksl_mnt_warhorse_barded_hero">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_cavalry_slow_hero_blood</entity>
+<key>wh_main_ksl_mnt_warhorse_barded_hero</key>
+<variant>wh_emp_warhorse_armoured</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{c4b0293d-55f7-4c85-b459-ba2dcec50993}" record_timestamp="1479324805784" record_key="wh_main_ksl_mnt_warhorse_fast">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_emp_cavalry_fast_blood</entity>
+<key>wh_main_ksl_mnt_warhorse_fast</key>
+<variant>wh_emp_warhorse</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{e31749a8-d46a-4529-8b64-02212c89b094}" record_timestamp="1479324805781" record_key="wh_main_nor_mnt_warhorse">
+<animation>hr1_chaos_steed</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_cavalry_standard_360_blood</entity>
+<key>wh_main_nor_mnt_warhorse</key>
+<variant>wh_nor_warhorse</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{4bd1e0e3-0025-4ebf-b24e-644cc6a93f43}" record_timestamp="1479324805773" record_key="wh_main_nor_mnt_warhorse_chariot">
+<animation>hr1_warhorse_draught</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_cavalry_standard_360_blood</entity>
+<key>wh_main_nor_mnt_warhorse_chariot</key>
+<variant>wh_nor_warhorse</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{e08b4ee9-67fd-4f29-b68f-e18959388eab}" record_timestamp="1479324805779" record_key="wh_main_nor_mnt_warhorse_fast">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_chs_cavalry_fast_blood</entity>
+<key>wh_main_nor_mnt_warhorse_fast</key>
+<variant>wh_nor_warhorse</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{4f8cf2be-0603-4f26-9ac5-c29c5871368d}" record_timestamp="1479324805780" record_key="wh_main_teb_mnt_warhorse">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_cavalry_standard_360_blood</entity>
+<key>wh_main_teb_mnt_warhorse</key>
+<variant>wh_emp_warhorse</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{9ff99884-2356-4f92-b874-0a59f833cc2d}" record_timestamp="1479324805783" record_key="wh_main_teb_mnt_warhorse_barded_hero">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_cavalry_slow_hero_blood</entity>
+<key>wh_main_teb_mnt_warhorse_barded_hero</key>
+<variant>wh_emp_warhorse_armoured</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{b9863b94-7b38-4384-8185-b0316872fe01}" record_timestamp="1479324805774" record_key="wh_main_teb_mnt_warhorse_fast">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_emp_cavalry_fast_blood</entity>
+<key>wh_main_teb_mnt_warhorse_fast</key>
+<variant>wh_emp_warhorse</variant>
+<voiceover>wh_main_vo_culture_Horse</voiceover>
+</mounts>
+<mounts record_uuid="{450082cc-6fe9-439d-9390-d5e7face3d6a}" record_timestamp="1479324814574" record_key="wh_main_vmp_mnt_barded_nightmare">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_cavalry_slow_blood</entity>
+<key>wh_main_vmp_mnt_barded_nightmare</key>
+<variant>wh_vmp_barded_nightmare</variant>
+<voiceover>wh_main_vo_culture_Skeletal_horse</voiceover>
+</mounts>
+<mounts record_uuid="{f99cea4e-cadb-4ef2-b1aa-0d9b50b23ccf}" record_timestamp="1479324814599" record_key="wh_main_vmp_mnt_barded_nightmare_hero">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_cavalry_slow_hero_blood</entity>
+<key>wh_main_vmp_mnt_barded_nightmare_hero</key>
+<variant>wh_vmp_barded_nightmare</variant>
+<voiceover>wh_main_vo_culture_Skeletal_horse</voiceover>
+</mounts>
+<mounts record_uuid="{a043131f-a51f-4ee2-85d8-c60861517800}" record_timestamp="1479324814574" record_key="wh_main_vmp_mnt_barded_skeletal_steed">
+<animation>hr1_skeletal_steed</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_vmp_cav_skeletal_steed_barded</entity>
+<key>wh_main_vmp_mnt_barded_skeletal_steed</key>
+<variant>wh_vmp_barded_skeletal_steed</variant>
+<voiceover>wh_main_vo_culture_Skeletal_horse</voiceover>
+</mounts>
+<mounts record_uuid="{f3c5bd20-db7a-4f55-9e04-0e91b9a0935d}" record_timestamp="1479324814588" record_key="wh_main_vmp_mnt_barded_skeletal_steed_hero">
+<animation>hr1_skeletal_steed</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_vmp_cav_skeletal_steed_barded_hero</entity>
+<key>wh_main_vmp_mnt_barded_skeletal_steed_hero</key>
+<variant>wh_vmp_barded_skeletal_steed</variant>
+<voiceover>wh_main_vo_culture_Skeletal_horse</voiceover>
+</mounts>
+<mounts record_uuid="{61ff81f2-083d-4957-8bfd-3b5aea4adaf0}" record_timestamp="1479324814576" record_key="wh_main_vmp_mnt_barded_skeletal_steed_reavers">
+<animation>hr1_skeletal_steed</animation>
+<audio_armour_type>plate</audio_armour_type>
+<entity>wh_main_vmp_cav_skeletal_steed_barded</entity>
+<key>wh_main_vmp_mnt_barded_skeletal_steed_reavers</key>
+<variant>wh_vmp_barded_skeletal_steed_reavers</variant>
+<voiceover>wh_main_vo_culture_Skeletal_horse</voiceover>
+</mounts>
+<mounts record_uuid="{af408489-1629-4736-abc4-65ea861dbb03}" record_timestamp="1479324814589" record_key="wh_main_vmp_mnt_coach_nightmare">
+<animation>hr1_skeletal_steed_draught</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_cavalry_standard_360_blood</entity>
+<key>wh_main_vmp_mnt_coach_nightmare</key>
+<variant>wh_vmp_coach_nightmare</variant>
+<voiceover>wh_main_vo_culture_Skeletal_horse</voiceover>
+</mounts>
+<mounts record_uuid="{033b8445-3267-4ef1-99bf-0aad032cee0f}" record_timestamp="1479324802857" record_key="wh_main_vmp_mnt_dragon_zombie">
+<animation>dr1_dragon_zombie</animation>
+<audio_armour_type>body</audio_armour_type>
+<entity>wh_main_flying_dragon_blood</entity>
+<key>wh_main_vmp_mnt_dragon_zombie</key>
+<variant>wh_vmp_dragon_zombie</variant>
+<voiceover>wh_main_vo_culture_Dragon_Large</voiceover>
+</mounts>
+<mounts record_uuid="{4e2d2738-5901-45f5-9bad-c504323b5f16}" record_timestamp="1479324814577" record_key="wh_main_vmp_mnt_hellsteed">
+<animation>hr1_pegasus</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_vmp_cavalry_flying_hellsteed_blood</entity>
+<key>wh_main_vmp_mnt_hellsteed</key>
+<variant>wh_vmp_hellsteed</variant>
+<voiceover>wh_main_vo_culture_Skeletal_horse</voiceover>
+</mounts>
+<mounts record_uuid="{75a0ea7b-efb7-44bf-b57f-16321b35c519}" record_timestamp="1479324814572" record_key="wh_main_vmp_mnt_nightmare">
+<animation>hr1_warhorse</animation>
+<audio_armour_type>leather</audio_armour_type>
+<entity>wh_main_cavalry_standard_360_blood</entity>
+<key>wh_main_vmp_mnt_nightmare</key>
+<variant>wh_vmp_nightmare</variant>
+<voiceover>wh_main_vo_culture_Skeletal_horse</voiceover>
+</mounts>
+<mounts record_uuid="{63e4f57a-1a9f-4265-92e5-f8f4969a66c4}" record_timestamp="1479324814587" record_key="wh_main_vmp_mnt_skeletal_steed">
+<animation>hr1_skeletal_steed</animation>
+<audio_armour_type>bone</audio_armour_type>
+<entity>wh_main_vmp_cav_skeletal_steed</entity>
+<key>wh_main_vmp_mnt_skeletal_steed</key>
+<variant>wh_vmp_skeletal_steed_black</variant>
+<voiceover>wh_main_vo_culture_Skeletal_horse</voiceover>
+</mounts>
+<mounts record_uuid="{2a067909-46d0-47a9-84f8-4d17f4051e67}" record_timestamp="1479324814589" record_key="wh_main_vmp_mnt_skeletal_steed_hexwraiths">
+<animation>hr1_hexwraiths_skeletal_steed</animation>
+<audio_armour_type>bone</audio_armour_type>
+<entity>wh_main_vmp_cavalry_skeletal_steed_hexwraiths</entity>
+<key>wh_main_vmp_mnt_skeletal_steed_hexwraiths</key>
+<variant>wh_vmp_skeletal_steed_blue</variant>
+<voiceover>wh_main_vo_culture_Skeletal_horse</voiceover>
+</mounts>
+<mounts record_uuid="{03df5987-a429-4d65-868e-ca2892840528}" record_timestamp="1479324814578" record_key="wh_main_vmp_mnt_skeletal_steed_hexwraiths_red">
+<animation>hr1_hexwraiths_skeletal_steed</animation>
+<audio_armour_type>bone</audio_armour_type>
+<entity>wh_main_vmp_cavalry_skeletal_steed_hexwraiths</entity>
+<key>wh_main_vmp_mnt_skeletal_steed_hexwraiths_red</key>
+<variant>wh_vmp_skeletal_steed_red</variant>
+<voiceover>wh_main_vo_culture_Skeletal_horse</voiceover>
+</mounts>
+</dataroot>

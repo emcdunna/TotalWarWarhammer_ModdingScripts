@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personality_diplomatic_events.xsd" export_time="Fri Feb 26 14:41:49 2016" revision="38" export_branch="T:/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>dea0be39-5816-4633-a688-76278ef51f9c</edit_uuid>
+<cai_personality_diplomatic_events record_uuid="{4c36d4cc-0dca-4cb4-9fb7-22ee868a2277}" record_timestamp="1370854588991" record_key="ALLY_REFUSED_TO_JOIN_WAR">
+<diplomatic_factor_group_active>diplomatic_factor_broken_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>ALLY_REFUSED_TO_JOIN_WAR</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{f8f4d519-9d2a-4c15-ba0c-a70b723e31e9}" record_timestamp="1361300349048" record_key="BATTLE_ALLY_SUPPORT_REFUSED">
+<diplomatic_factor_group_active>diplomatic_factor_war_atrocities</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>BATTLE_ALLY_SUPPORT_REFUSED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{c3c42e87-b202-499c-854d-f53f12386dbd}" record_timestamp="1361300349008" record_key="BATTLE_ATTACK">
+<diplomatic_factor_group_active>diplomatic_factor_war_atrocities</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>BATTLE_ATTACK</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{ceb6c59a-d674-4e98-a508-ea943eaa097d}" record_timestamp="1361300349168" record_key="BATTLE_SUPPORT">
+<diplomatic_factor_group_active>diplomatic_factor_reinforcements</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>BATTLE_SUPPORT</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{b03caf83-2b9c-4fe6-b3eb-b0b35d8ef0b1}" record_timestamp="1370854588531" record_key="CITY_BESIEGED">
+<diplomatic_factor_group_active>diplomatic_factor_war_atrocities</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>CITY_BESIEGED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{eced01bf-a187-417d-b3c6-97929e6a459c}" record_timestamp="1370854588708" record_key="CITY_LOOTED">
+<diplomatic_factor_group_active>diplomatic_factor_war_atrocities</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>CITY_LOOTED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{412378bf-550e-4934-99cb-e7933e758963}" record_timestamp="1370854589451" record_key="CITY_OCCUPIED">
+<diplomatic_factor_group_active>diplomatic_factor_war_atrocities</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>CITY_OCCUPIED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{52e40cf4-0238-488c-8955-d6e4a9c2c728}" record_timestamp="1361985601789" record_key="CITY_RAZED">
+<diplomatic_factor_group_active>diplomatic_factor_war_atrocities</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>CITY_RAZED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{5139beb9-7eee-45f1-a011-b05f025e36ff}" record_timestamp="1370854588895" record_key="CITY_SACKED">
+<diplomatic_factor_group_active>diplomatic_factor_war_atrocities</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>CITY_SACKED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{768c6be7-cb14-4905-b22d-5d27fb7a3e88}" record_timestamp="1372951614582" record_key="CLIENT_STATE">
+<diplomatic_factor_group_active>diplomatic_factor_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive>diplomatic_factor_past_treaties</diplomatic_factor_group_inactive>
+<id>CLIENT_STATE</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{8b782a8b-8cae-4ea2-a849-bd4f0ed8aef2}" record_timestamp="1361300349358" record_key="CLIENT_STATE_BROKEN">
+<diplomatic_factor_group_active>diplomatic_factor_broken_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>CLIENT_STATE_BROKEN</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{b7d5a766-108b-4b83-82c4-fa66ce8b2513}" record_timestamp="1371804948148" record_key="CULTURAL_DIFFERENCES">
+<diplomatic_factor_group_active>diplomatic_factor_cultural_differences</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>CULTURAL_DIFFERENCES</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{e5006d7e-8c4f-4c71-86c3-85ceffc6af29}" record_timestamp="1453131804853" record_key="CULTURAL_DIFFERENCES_FACTION">
+<diplomatic_factor_group_active>diplomatic_factor_confederation_subculture_penalty</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>CULTURAL_DIFFERENCES_FACTION</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{378b2b3c-f956-4eb8-a54b-d1f4e7d8d8fe}" record_timestamp="1425903067552" record_key="CULTURAL_DIFFERENCES_LEADER">
+<diplomatic_factor_group_active></diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>CULTURAL_DIFFERENCES_LEADER</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{62a14513-39f1-4225-a012-20d5fe39cc14}" record_timestamp="1371804948193" record_key="CULTURAL_SIMILARITIES">
+<diplomatic_factor_group_active>diplomatic_factor_cultural_similarities</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>CULTURAL_SIMILARITIES</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{2a85be9a-82b3-4093-a4f4-d61718d27198}" record_timestamp="1454001208079" record_key="CULTURAL_SIMILARITIES_FACTION">
+<diplomatic_factor_group_active>diplomatic_factor_cultural_similarities_personality</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>CULTURAL_SIMILARITIES_FACTION</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{c45aab7d-1da3-4067-bbb2-a4c890ecfdf9}" record_timestamp="1425903067586" record_key="CULTURAL_SIMILARITIES_LEADER">
+<diplomatic_factor_group_active></diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>CULTURAL_SIMILARITIES_LEADER</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{37e986a2-a854-42ff-bb68-d5f7b861cd63}" record_timestamp="1372951614597" record_key="DEFENSIVE_ALLIANCE">
+<diplomatic_factor_group_active>diplomatic_factor_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive>diplomatic_factor_past_treaties</diplomatic_factor_group_inactive>
+<id>DEFENSIVE_ALLIANCE</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{a750f519-faf6-4edf-a186-b09f5781a9bb}" record_timestamp="1361300349458" record_key="DEFENSIVE_ALLIANCE_BROKEN">
+<diplomatic_factor_group_active>diplomatic_factor_broken_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>DEFENSIVE_ALLIANCE_BROKEN</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{4fd74c14-dcae-42fa-8e25-bbf7e2fbe5bc}" record_timestamp="1370854589545" record_key="DEFENSIVE_ALLIANCE_PAST">
+<diplomatic_factor_group_active>diplomatic_factor_past_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>DEFENSIVE_ALLIANCE_PAST</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{b9da516e-34e8-47d9-ba3c-d5681c9d95b4}" record_timestamp="1445269291526" record_key="DILEMMA_BONUS_LARGE">
+<diplomatic_factor_group_active>diplomatic_factor_dilemma_events</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>DILEMMA_BONUS_LARGE</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{bac7e53c-9f23-458c-a7bf-d5e9fde6c1ee}" record_timestamp="1445269291539" record_key="DILEMMA_BONUS_MEDIUM">
+<diplomatic_factor_group_active>diplomatic_factor_dilemma_events</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>DILEMMA_BONUS_MEDIUM</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{dce475f1-5bdb-47e6-a05a-db66c93a3047}" record_timestamp="1445269291551" record_key="DILEMMA_BONUS_SMALL">
+<diplomatic_factor_group_active>diplomatic_factor_dilemma_events</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>DILEMMA_BONUS_SMALL</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{363b9a74-2b78-4711-bbc7-2f208dd87f35}" record_timestamp="1445269291563" record_key="DILEMMA_PENALTY_LARGE">
+<diplomatic_factor_group_active>diplomatic_factor_dilemma_events</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>DILEMMA_PENALTY_LARGE</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{ffba4df5-f2ca-4e64-8f35-2daf30f75efd}" record_timestamp="1445269291574" record_key="DILEMMA_PENALTY_MEDIUM">
+<diplomatic_factor_group_active>diplomatic_factor_dilemma_events</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>DILEMMA_PENALTY_MEDIUM</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{7ad319b6-a658-48c7-a943-c602c8a54b2a}" record_timestamp="1445269291586" record_key="DILEMMA_PENALTY_SMALL">
+<diplomatic_factor_group_active>diplomatic_factor_dilemma_events</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>DILEMMA_PENALTY_SMALL</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{b62fec67-fcf7-480f-9d3a-eb0b6ed04437}" record_timestamp="1425903067772" record_key="DIPLOMATIC_MARRIAGE">
+<diplomatic_factor_group_active></diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>DIPLOMATIC_MARRIAGE</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{21faf790-2266-4ba8-9b7d-1446779a0f53}" record_timestamp="1425903067804" record_key="DIVORCE">
+<diplomatic_factor_group_active></diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>DIVORCE</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{f7f7acb1-b1c4-4890-b0a0-6b852865f8cf}" record_timestamp="1456497709029" record_key="EXPANSIONISM">
+<diplomatic_factor_group_active>diplomatic_factor_expansion</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>EXPANSIONISM</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{ab49187e-a33b-4d32-ac3f-9e69bfcb2245}" record_timestamp="1370854589497" record_key="FACTION_KILLED">
+<diplomatic_factor_group_active>diplomatic_factor_war_atrocities</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>FACTION_KILLED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{3453b8d1-2113-42c3-ace7-856c8a621e18}" record_timestamp="1371137086154" record_key="FACTION_LIBERATED">
+<diplomatic_factor_group_active>diplomatic_factor_liberation</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>FACTION_LIBERATED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{2c896d82-2e19-4c9c-b929-5af2a7dee41b}" record_timestamp="1361300349578" record_key="HOSTILE_AGENT_ACTION">
+<diplomatic_factor_group_active>diplomatic_factor_agent_actions</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>HOSTILE_AGENT_ACTION</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{e7de5233-25a8-4873-a96a-23e24840268b}" record_timestamp="1361300349618" record_key="HOSTILE_AGENT_ACTION_TOWARDS_ALLY">
+<diplomatic_factor_group_active>diplomatic_factor_agent_actions</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>HOSTILE_AGENT_ACTION_TOWARDS_ALLY</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{27bc23b2-6018-49ad-bf98-68bdb11a23ef}" record_timestamp="1452089965035" record_key="JOINED_CONFEDERATION">
+<diplomatic_factor_group_active>diplomatic_factor_confederation</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>JOINED_CONFEDERATION</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{71eb01ff-1c4a-424f-8440-b003102de9dd}" record_timestamp="1372951614613" record_key="MILITARY_ACCESS">
+<diplomatic_factor_group_active>diplomatic_factor_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive>diplomatic_factor_past_treaties</diplomatic_factor_group_inactive>
+<id>MILITARY_ACCESS</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{afffa816-6d41-423d-ab9b-f0338dbc4866}" record_timestamp="1361300349698" record_key="MILITARY_ACCESS_BROKEN">
+<diplomatic_factor_group_active>diplomatic_factor_broken_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>MILITARY_ACCESS_BROKEN</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{ec0a27b8-1f7e-4db7-abe1-f906db2b5a3f}" record_timestamp="1370854589654" record_key="MILITARY_ACCESS_DISSOLVED">
+<diplomatic_factor_group_active>diplomatic_factor_broken_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>MILITARY_ACCESS_DISSOLVED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{5db8a440-e053-45e4-9c9d-fc8461ae1be5}" record_timestamp="1372951614632" record_key="MILITARY_ALLIANCE">
+<diplomatic_factor_group_active>diplomatic_factor_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive>diplomatic_factor_past_treaties</diplomatic_factor_group_inactive>
+<id>MILITARY_ALLIANCE</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{56d45d62-7a93-4fce-8a43-5458b7c4c8c0}" record_timestamp="1361300349818" record_key="MILITARY_ALLIANCE_BROKEN">
+<diplomatic_factor_group_active>diplomatic_factor_broken_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>MILITARY_ALLIANCE_BROKEN</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{0281acfa-a28b-4098-bcde-4f20f3435f46}" record_timestamp="1370854589703" record_key="MILITARY_ALLIANCE_PAST">
+<diplomatic_factor_group_active>diplomatic_factor_past_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>MILITARY_ALLIANCE_PAST</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{49d88928-3273-4b97-9211-2dfcf19580cd}" record_timestamp="1372951614653" record_key="NON_AGGRESSION_PACT">
+<diplomatic_factor_group_active>diplomatic_factor_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive>diplomatic_factor_past_treaties</diplomatic_factor_group_inactive>
+<id>NON_AGGRESSION_PACT</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{ea8ddc5d-c2af-4543-971a-10ffb5ddf9bf}" record_timestamp="1361300349948" record_key="NON_AGGRESSION_PACT_BROKEN">
+<diplomatic_factor_group_active>diplomatic_factor_broken_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>NON_AGGRESSION_PACT_BROKEN</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{532a12d4-7986-4180-8d64-cc64cd7e779c}" record_timestamp="1370854589751" record_key="NON_AGGRESSION_PACT_PAST">
+<diplomatic_factor_group_active>diplomatic_factor_past_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>NON_AGGRESSION_PACT_PAST</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{5cd9c530-c5f6-4918-9005-ba01d88b8fb7}" record_timestamp="1372951614677" record_key="PEACE">
+<diplomatic_factor_group_active>diplomatic_factor_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive>diplomatic_factor_past_treaties</diplomatic_factor_group_inactive>
+<id>PEACE</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{769314f1-f073-4841-b347-c5329d67d4f0}" record_timestamp="1361300350118" record_key="RAIDING">
+<diplomatic_factor_group_active>diplomatic_factor_raiding</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>RAIDING</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{5ee6938a-152b-4116-807a-0e38e24b2236}" record_timestamp="1455647676945" record_key="REBELLED_AGAINST">
+<diplomatic_factor_group_active>diplomatic_factor_rebellion</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>REBELLED_AGAINST</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{9d6de97b-49a8-4d41-aa65-78898ed8fbcd}" record_timestamp="1425903067834" record_key="REGION_GIFT">
+<diplomatic_factor_group_active></diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>REGION_GIFT</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{9c7bd8a8-08a5-4a68-922e-e26f38842964}" record_timestamp="1425903067865" record_key="RELIGIOUS_DIFFERENCES">
+<diplomatic_factor_group_active></diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>RELIGIOUS_DIFFERENCES</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{87492fd5-aba2-44c7-8a91-cd4305a3e8a8}" record_timestamp="1452245788710" record_key="RELIGIOUS_DIFFERENCES_FACTION">
+<diplomatic_factor_group_active></diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>RELIGIOUS_DIFFERENCES_FACTION</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{e865c91a-7eac-40b8-a030-65d811dae492}" record_timestamp="1425903067893" record_key="RELIGIOUS_DIFFERENCES_LEADER">
+<diplomatic_factor_group_active></diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>RELIGIOUS_DIFFERENCES_LEADER</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{fa5220f1-55dd-458a-acd0-d8ca68c79ef7}" record_timestamp="1425903067922" record_key="RELIGIOUS_SIMILARITIES">
+<diplomatic_factor_group_active></diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>RELIGIOUS_SIMILARITIES</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{c05fcd03-69ed-4f39-a373-ae6db89a744d}" record_timestamp="1454001208110" record_key="RELIGIOUS_SIMILARITIES_FACTION">
+<diplomatic_factor_group_active>diplomatic_factor_cultural_similarities_personality</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>RELIGIOUS_SIMILARITIES_FACTION</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{f6503cee-eaed-476c-b0a3-889351d61bbd}" record_timestamp="1425903067951" record_key="RELIGIOUS_SIMILARITIES_LEADER">
+<diplomatic_factor_group_active></diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>RELIGIOUS_SIMILARITIES_LEADER</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{4546e399-1983-41b9-b169-5303b459787b}" record_timestamp="1361300350428" record_key="STATE_GIFT_ACCEPTED">
+<diplomatic_factor_group_active>diplomatic_factor_gifts</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>STATE_GIFT_ACCEPTED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{0684aab3-0fc1-43e9-b75f-df47222ba72a}" record_timestamp="1371545253105" record_key="STATE_GIFT_LARGE">
+<diplomatic_factor_group_active>diplomatic_factor_gifts</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>STATE_GIFT_LARGE</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{a3dd7b13-36bb-4772-8f61-80d583d7aa6d}" record_timestamp="1371804948105" record_key="STATE_GIFT_MEDIUM">
+<diplomatic_factor_group_active>diplomatic_factor_gifts</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>STATE_GIFT_MEDIUM</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{571b6f1f-c0a3-4969-8614-74c32a092d84}" record_timestamp="1361300350468" record_key="STATE_GIFT_REFUSED">
+<diplomatic_factor_group_active>diplomatic_factor_broken_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>STATE_GIFT_REFUSED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{48e8bfdd-94f6-41a5-85fb-fd0a3d5caa0f}" record_timestamp="1371545253093" record_key="STATE_GIFT_SMALL">
+<diplomatic_factor_group_active>diplomatic_factor_gifts</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>STATE_GIFT_SMALL</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{e82cb2bf-ba11-4d14-8d09-14c4c42d63ba}" record_timestamp="1456497709003" record_key="TECHNOLOGIES">
+<diplomatic_factor_group_active>diplomatic_factor_technology</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>TECHNOLOGIES</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{d9928f9d-a6bd-4449-892d-249c740f6cdb}" record_timestamp="1372951614703" record_key="TRADE_AGREEMENT">
+<diplomatic_factor_group_active>diplomatic_factor_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive>diplomatic_factor_past_treaties</diplomatic_factor_group_inactive>
+<id>TRADE_AGREEMENT</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{3bab5e81-191c-4c52-8b6b-60b7b2b5894d}" record_timestamp="1361300350558" record_key="TRADE_AGREEMENT_BROKEN">
+<diplomatic_factor_group_active>diplomatic_factor_broken_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>TRADE_AGREEMENT_BROKEN</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{1c88e689-a752-4546-9751-f61729c92b18}" record_timestamp="1370854589592" record_key="TRADE_AGREEMENT_DISSOLVED">
+<diplomatic_factor_group_active>diplomatic_factor_broken_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>TRADE_AGREEMENT_DISSOLVED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{0fbe66a0-c84a-4f34-8929-059129f21ff5}" record_timestamp="1370854589798" record_key="TRADE_AGREEMENT_PAST">
+<diplomatic_factor_group_active>diplomatic_factor_past_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>TRADE_AGREEMENT_PAST</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{8e632997-b882-41ee-8997-21ade5029dcb}" record_timestamp="1361300350708" record_key="TRESSPASSING">
+<diplomatic_factor_group_active>diplomatic_factor_trespassing</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>TRESSPASSING</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{6a5abc9d-d964-42f7-b9bb-f6addbe554cf}" record_timestamp="1361985601649" record_key="TROOPS_ENSLAVED">
+<diplomatic_factor_group_active>diplomatic_factor_war_atrocities</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>TROOPS_ENSLAVED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{1026723d-fc83-475c-b14b-d08639f37b2c}" record_timestamp="1361985601727" record_key="TROOPS_EXECUTED">
+<diplomatic_factor_group_active>diplomatic_factor_war_atrocities</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>TROOPS_EXECUTED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{ad4b7eb1-494f-4ae9-904a-413fdc60977e}" record_timestamp="1375260968351" record_key="TROOPS_RELEASED">
+<diplomatic_factor_group_active>diplomatic_factor_troops_released</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>TROOPS_RELEASED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{48564f41-7f67-41a9-816a-bbc65d580dab}" record_timestamp="1372951614731" record_key="VASSALAGE">
+<diplomatic_factor_group_active>diplomatic_factor_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive>diplomatic_factor_past_treaties</diplomatic_factor_group_inactive>
+<id>VASSALAGE</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{ceb1926a-276f-4220-840e-00e91c7dfed8}" record_timestamp="1361300350798" record_key="VASSALAGE_BROKEN">
+<diplomatic_factor_group_active>diplomatic_factor_broken_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>VASSALAGE_BROKEN</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{54cf2d26-2f66-4a9a-a4d7-25457dab23db}" record_timestamp="1361300350848" record_key="VASSALAGE_CANCELLED">
+<diplomatic_factor_group_active>diplomatic_factor_broken_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>VASSALAGE_CANCELLED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{73eab344-7453-4471-bed5-03a622639ed4}" record_timestamp="1372951614761" record_key="VASSALAGE_FORCED">
+<diplomatic_factor_group_active>diplomatic_factor_treaties</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive>diplomatic_factor_past_treaties</diplomatic_factor_group_inactive>
+<id>VASSALAGE_FORCED</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{722ea6b1-5512-4815-86d1-f7415fce9fda}" record_timestamp="1372951614549" record_key="WAR">
+<diplomatic_factor_group_active>diplomatic_factor_war</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive>diplomatic_factor_past_war</diplomatic_factor_group_inactive>
+<id>WAR</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{9e4f6271-79c3-4f57-8e77-45d6aa93c907}" record_timestamp="1371811061282" record_key="WAR_PAST">
+<diplomatic_factor_group_active>diplomatic_factor_past_war</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive></diplomatic_factor_group_inactive>
+<id>WAR_PAST</id>
+</cai_personality_diplomatic_events>
+<cai_personality_diplomatic_events record_uuid="{9d66425a-2055-4c4e-a98c-22f8aa6d1128}" record_timestamp="1372951614569" record_key="WAR_TARGET">
+<diplomatic_factor_group_active>diplomatic_factor_war</diplomatic_factor_group_active>
+<diplomatic_factor_group_inactive>diplomatic_factor_past_war</diplomatic_factor_group_inactive>
+<id>WAR_TARGET</id>
+</cai_personality_diplomatic_events>
+</dataroot>

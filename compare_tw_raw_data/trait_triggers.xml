@@ -1,0 +1,1264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="trait_triggers.xsd" export_time="Wed Feb 15 15:14:08 2017" revision="172" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>c69c72de-7bf7-4501-a257-31d50a8d1c2a</edit_uuid>
+<trait_triggers record_uuid="{76423d63-c388-4340-8996-7582d6b590fb}" record_timestamp="1467717570188" record_key="wh_dlc03_trig_bst_hero_character_killer">
+<conditions>(context:character():character_subtype(&quot;dlc03_bst_bray_shaman_beasts&quot;) or context:character():character_subtype(&quot;dlc03_bst_bray_shaman_death&quot;) or context:character():character_subtype(&quot;dlc03_bst_bray_shaman_wild&quot;)) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_dlc03_trig_bst_hero_character_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{04deeb7e-6e34-4190-a6e2-d8839166227c}" record_timestamp="1467717570191" record_key="wh_dlc03_trig_bst_hero_unit_killer">
+<conditions>(context:character():character_subtype(&quot;dlc03_bst_bray_shaman_beasts&quot;) or context:character():character_subtype(&quot;dlc03_bst_bray_shaman_death&quot;)) and context:character():fought_in_battle() and context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_dlc03_trig_bst_hero_unit_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{7f3af13c-92ad-465c-a4e8-2785e0500343}" record_timestamp="1467717570269" record_key="wh_dlc03_trig_bst_lord_character_serial_killer">
+<conditions>context:character():character_subtype(&quot;dlc03_bst_beastlord&quot;) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_dlc03_trig_bst_lord_character_serial_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{7f059faa-ee65-4b5e-b8e8-6bc13e01e0e2}" record_timestamp="1479325971170" record_key="wh_dlc03_trig_bst_personality_hates_ungors">
+<conditions>char_is_general(context:character()) and not context:character():won_battle() and (char_army_has_unit(context:character(),{&quot;wh_dlc03_bst_inf_ungor_herd_1&quot;,&quot;wh_dlc03_bst_inf_ungor_raiders_0&quot;,&quot;wh_dlc03_bst_inf_ungor_spearmen_0&quot;,&quot;wh_dlc03_bst_inf_ungor_spearmen_1&quot;}))</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_dlc03_trig_bst_personality_hates_ungors</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{319183f3-53f8-4fc2-a594-f77af713d15e}" record_timestamp="1467717570201" record_key="wh_dlc03_trig_bst_sorcerer_caster">
+<conditions>(context:character():character_subtype(&quot;dlc03_bst_bray_shaman_beasts&quot;) or context:character():character_subtype(&quot;dlc03_bst_bray_shaman_death&quot;) or context:character():character_subtype(&quot;dlc03_bst_bray_shaman_wild&quot;)) and char_spent_skill_point_on_buff_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_dlc03_trig_bst_sorcerer_caster</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{8e87220f-f9b5-43d0-bec6-9f6f64f2b4b3}" record_timestamp="1467717570203" record_key="wh_dlc03_trig_character_enters_garrison_high_public_order_beastmen">
+<conditions>context:character():has_region() and context:character():region():public_order() &gt; 40 and context:character():faction():culture() == &quot;wh_dlc03_bst_beastmen&quot; and context:character():action_points_remaining_percent() &gt; 5</conditions>
+<event>CharacterEntersGarrison</event>
+<trigger>wh_dlc03_trig_character_enters_garrison_high_public_order_beastmen</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{f500c612-08a7-454a-8d3e-8c3505a4da31}" record_timestamp="1467717570206" record_key="wh_dlc03_trig_character_post_battle_release_beastmen">
+<conditions>char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_dlc03_bst_beastmen&quot;</conditions>
+<event>CharacterPostBattleRelease</event>
+<trigger>wh_dlc03_trig_character_post_battle_release_beastmen</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{357f5a53-08e6-4446-bb68-46cd4f93f393}" record_timestamp="1469108181823" record_key="wh_dlc03_trig_general_10_turns_enemy_territory_beastmen">
+<conditions>context:character():faction():culture() == &quot;wh_dlc03_bst_beastmen&quot; and char_is_general(context:character()) and context:character():has_region() and context:character():turns_in_enemy_regions() &gt;= 1  and context:character():model():turn_number() &gt; 1 and context:character():model():turn_number() % 5 == 0</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_dlc03_trig_general_10_turns_enemy_territory_beastmen</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{26b51346-e297-44b4-a47c-e3d95a53aebd}" record_timestamp="1468498932224" record_key="wh_dlc03_trig_general_land_lost_battle_as_beastmen">
+<conditions>context:character():faction():culture() == &quot;wh_dlc03_bst_beastmen&quot; and char_is_general(context:character()) and not context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_dlc03_trig_general_land_lost_battle_as_beastmen</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{5cc2ba77-fd40-4499-84d7-895aebbe26e8}" record_timestamp="1467717570213" record_key="wh_dlc03_trig_general_lost_battle_as_beastmen">
+<conditions>context:character():faction():culture() == &quot;wh_dlc03_bst_beastmen&quot; and not context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_dlc03_trig_general_lost_battle_as_beastmen</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{427ef8d6-aff2-49af-a22b-1e9288e0335e}" record_timestamp="1468498932225" record_key="wh_dlc03_trig_general_won_battle_beastmen">
+<conditions>context:character():faction():culture() == &quot;wh_dlc03_bst_beastmen&quot; and char_is_general(context:character()) and context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_dlc03_trig_general_won_battle_beastmen</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{521f0e1e-5ca6-4d19-8907-26d56d1b64ca}" record_timestamp="1467717570249" record_key="wh_dlc03_trig_general_won_battle_siege_looted_settlement_beastmen">
+<conditions>context:character():faction():culture() == &quot;wh_dlc03_bst_beastmen&quot;</conditions>
+<event>CharacterLootedSettlement</event>
+<trigger>wh_dlc03_trig_general_won_battle_siege_looted_settlement_beastmen</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{427b53ab-eeef-452f-955a-2beaf9db7b8e}" record_timestamp="1468498932225" record_key="wh_dlc03_trig_general_won_battles_beastmen">
+<conditions>context:character():faction():culture() == &quot;wh_dlc03_bst_beastmen&quot; and char_is_general(context:character()) and context:character():won_battle() and context:character():battles_fought() &gt;= 5 and context:character():battles_won() &gt;= 5</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_dlc03_trig_general_won_battles_beastmen</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{c1f02a6d-910c-4737-a16b-ad237c7fcba7}" record_timestamp="1467717570260" record_key="wh_dlc03_trig_hero_land_lost_battle_as_beastmen">
+<conditions>context:character():faction():culture() == &quot;wh_dlc03_bst_beastmen&quot; and not context:character():won_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_dlc03_trig_hero_land_lost_battle_as_beastmen</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{31d9f01a-6178-4ec0-aed5-5068ba624329}" record_timestamp="1467717570264" record_key="wh_dlc03_trig_hero_lost_battle_as_beastmen">
+<conditions>context:character():faction():culture() == &quot;wh_dlc03_bst_beastmen&quot; and not context:character():won_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_dlc03_trig_hero_lost_battle_as_beastmen</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{e2eb9980-19cd-43dd-b30d-67f15214dc76}" record_timestamp="1467717570269" record_key="wh_dlc03_trig_hero_won_battle_beastmen">
+<conditions>context:character():faction():culture() == &quot;wh_dlc03_bst_beastmen&quot; and context:character():won_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_dlc03_trig_hero_won_battle_beastmen</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{beb24066-c30d-4c31-aaf7-fac236b22da7}" record_timestamp="1479325971164" record_key="wh_dlc05_trig_character_rank_up_in_worldroots_stance">
+<conditions>context:character():faction():culture() == &quot;wh_dlc05_wef_wood_elves&quot; and context:character():has_military_force() and context:character():military_force():active_stance() == &quot;MILITARY_FORCE_ACTIVE_STANCE_TYPE_TUNNELING&quot;</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_dlc05_trig_character_rank_up_in_worldroots_stance</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{61c0a215-062a-42d0-8d9b-c10dd47cac21}" record_timestamp="1479325971169" record_key="wh_dlc05_trig_character_rank_up_wood_elves_wizard">
+<conditions>context:character():faction():culture() == &quot;wh_dlc05_wef_wood_elves&quot; and context:character():character_type(&quot;wizard&quot;)</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_dlc05_trig_character_rank_up_wood_elves_wizard</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{41333103-33d9-4bfb-be5a-df01a787f5c9}" record_timestamp="1479325971169" record_key="wh_dlc05_trig_general_won_battle_ambush_attacking_wood_elves">
+<conditions>char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_dlc05_wef_wood_elves&quot; and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():ambush_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_dlc05_trig_general_won_battle_ambush_attacking_wood_elves</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{97476e97-9788-44a3-8788-e27e7dacb4ba}" record_timestamp="1479325971173" record_key="wh_dlc05_trig_general_won_battle_with_animals">
+<conditions>char_is_general(context:character()) and context:character():faction():culture() == &quot;wh_dlc05_wef_wood_elves&quot; and context:character():won_battle() and (char_army_has_unit(context:character(),{&quot;wh_dlc05_wef_cav_glade_riders_0&quot;,&quot;wh_dlc05_wef_cav_glade_riders_1&quot;,&quot;wh_dlc05_wef_cav_glade_riders_2&quot;,&quot;wh_dlc05_wef_cav_glade_riders_3&quot;,&quot;wh_dlc05_wef_cav_hawk_riders_0&quot;,&quot;wh_dlc05_wef_cav_sisters_thorn_0&quot;,&quot;wh_dlc05_wef_cav_wild_riders_0&quot;,&quot;wh_dlc05_wef_cav_wild_riders_1&quot;,&quot;wh_dlc05_wef_forest_dragon_0&quot;,&quot;wh_dlc05_wef_mon_great_eagle_0&quot;}))</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_dlc05_trig_general_won_battle_with_animals</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{bf5f6b39-75a3-4b15-a7bd-6784a32be6bf}" record_timestamp="1479325971172" record_key="wh_dlc05_trig_general_won_battle_with_trees">
+<conditions>char_is_general(context:character()) and context:character():faction():culture() == &quot;wh_dlc05_wef_wood_elves&quot; and context:character():won_battle() and (char_army_has_unit(context:character(),{&quot;wh_dlc05_wef_inf_dryads_0&quot;,&quot;wh_dlc05_wef_mon_treekin_0&quot;,&quot;wh_dlc05_wef_mon_treeman_0&quot;}))</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_dlc05_trig_general_won_battle_with_trees</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{abe150e6-0f9d-42b1-bf76-30dd6003294f}" record_timestamp="1479325971174" record_key="wh_dlc05_trig_general_won_battle_wood_elves">
+<conditions>context:character():faction():culture() == &quot;wh_dlc05_wef_wood_elves&quot; and char_is_general(context:character()) and context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_dlc05_trig_general_won_battle_wood_elves</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{d37a2beb-51c1-4886-a907-0927511dab13}" record_timestamp="1479325971173" record_key="wh_dlc05_trig_hero_won_battle_wood_elves">
+<conditions>context:character():faction():culture() == &quot;wh_dlc05_wef_wood_elves&quot; and context:character():won_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_dlc05_trig_hero_won_battle_wood_elves</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{07b304e7-758e-4e15-8fd8-51ff52eb4711}" record_timestamp="1448892610038" record_key="wh_main_trig_agent_critical_failure">
+<conditions>char_is_agent(context:character()) and context:mission_result_critial_failure()</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_agent_critical_failure</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{f15a69b4-7b78-4c2b-8506-394f969f6cde}" record_timestamp="1448892610038" record_key="wh_main_trig_agent_has_trait_mad">
+<conditions>char_is_agent(context:character()) and context:character():has_trait(&quot;wh_main_trait_agent_personality_all_mad&quot;) and context:character():model():turn_number() &gt; 4</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_agent_has_trait_mad</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{0e110f1b-15c3-45b3-bc33-bca3431dda0a}" record_timestamp="1448892610038" record_key="wh_main_trig_agent_success">
+<conditions>char_is_agent(context:character()) and context:mission_result_success()</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_agent_success</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{c72073e6-2e5e-48b0-8c98-f52503d3d0df}" record_timestamp="1454508067824" record_key="wh_main_trig_brt_damsel_caster">
+<conditions>context:character():character_subtype(&quot;brt_damsel&quot;) and char_spent_skill_point_on_buff_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_brt_damsel_caster</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{c79efed0-9fdd-4813-aadc-661026d3fbdb}" record_timestamp="1454508065814" record_key="wh_main_trig_brt_lord_character_killer">
+<conditions>context:character():character_subtype(&quot;default&quot;) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot; and char_is_general(context:character()) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_brt_lord_character_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{57293e60-e3c7-4fa3-bcd9-771644d9ca53}" record_timestamp="1454508065884" record_key="wh_main_trig_brt_paladin_unit_killer">
+<conditions>context:character():character_subtype(&quot;brt_paladin&quot;) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_brt_paladin_unit_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{97a8618d-2fda-425e-b99d-7e653dc5bcc8}" record_timestamp="1457437477543" record_key="wh_main_trig_champion_action_success_assist_army">
+<conditions>context:character():has_skill(&quot;wh_main_skill_all_champion_campaign_drill_master&quot;) and context:character():is_embedded_in_military_force()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_champion_action_success_assist_army</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{5c1be620-5d0a-45dc-871a-b18fa39dddaa}" record_timestamp="1448892610038" record_key="wh_main_trig_champion_action_success_assist_province">
+<conditions>context:character():character_type(&quot;champion&quot;) and context:character():is_deployed() and context:character():has_region() and context:character():faction():name() == context:character():region():owning_faction():name()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_champion_action_success_assist_province</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{ff5c7ae3-b2c6-4f69-a240-4e75a016d935}" record_timestamp="1448892610038" record_key="wh_main_trig_champion_action_success_hinder_army">
+<conditions>context:character():character_type(&quot;champion&quot;) and context:mission_result_success() and context:agent_action_key() == &quot;wh_main_agent_action_champion_hinder_army&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_champion_action_success_hinder_army</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{ddf867c8-251a-4567-bea6-62965f788fdb}" record_timestamp="1459940118282" record_key="wh_main_trig_champion_action_success_hinder_character">
+<conditions>context:character():character_type(&quot;champion&quot;) and (context:mission_result_success() or context:mission_result_critial_success()) and context:agent_action_key() == &quot;wh_main_agent_action_champion_hinder_character&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_champion_action_success_hinder_character</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{6a09f90f-8f09-4e33-8e48-8c465641a531}" record_timestamp="1448892610038" record_key="wh_main_trig_champion_action_success_hinder_province">
+<conditions>context:character():character_type(&quot;champion&quot;) and context:character():is_deployed() and context:character():has_region() and context:character():faction():name() ~= context:character():region():owning_faction():name()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_champion_action_success_hinder_province</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{23e49d6f-7cc6-4365-91d2-e97e7e67f4a0}" record_timestamp="1448892610038" record_key="wh_main_trig_champion_action_success_hinder_settlement">
+<conditions>context:character():character_type(&quot;champion&quot;) and context:mission_result_success()</conditions>
+<event>CharacterGarrisonTargetAction</event>
+<trigger>wh_main_trig_champion_action_success_hinder_settlement</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{27db88ab-365e-4861-adc7-99fc95ae0fbe}" record_timestamp="1486122333245" record_key="wh_main_trig_character_enters_garrison_high_buildings">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():region():num_buildings() &gt; 3 and context:character():action_points_remaining_percent() &gt; 5</conditions>
+<event>CharacterEntersGarrison</event>
+<trigger>wh_main_trig_character_enters_garrison_high_buildings</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{98aaa427-8758-4c0c-8e07-3cdac0027ff1}" record_timestamp="1486122334314" record_key="wh_main_trig_character_enters_garrison_high_public_order">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():has_region() and context:character():region():public_order() &gt; 40 and context:character():action_points_remaining_percent() &gt; 5</conditions>
+<event>CharacterEntersGarrison</event>
+<trigger>wh_main_trig_character_enters_garrison_high_public_order</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{6b303eb2-3c44-4410-b1e8-1a6a066212b3}" record_timestamp="1457697587242" record_key="wh_main_trig_character_enters_garrison_high_public_order_dwarfs">
+<conditions>context:character():has_region() and context:character():region():public_order() &gt; 40 and context:character():faction():culture() == &quot;wh_main_dwf_dwarfs&quot; and context:character():action_points_remaining_percent() &gt; 5</conditions>
+<event>CharacterEntersGarrison</event>
+<trigger>wh_main_trig_character_enters_garrison_high_public_order_dwarfs</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{50f51d1e-332b-4ab8-9334-5f3f69271da8}" record_timestamp="1486122334382" record_key="wh_main_trig_character_enters_garrison_high_public_order_empire_or_bretonnia">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():has_region() and context:character():region():public_order() &gt; 40 and (context:character():faction():culture() == &quot;wh_main_emp_empire&quot; or context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;) and context:character():action_points_remaining_percent() &gt; 5</conditions>
+<event>CharacterEntersGarrison</event>
+<trigger>wh_main_trig_character_enters_garrison_high_public_order_empire_or_bretonnia</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{afd6f0a2-ee4f-4bc5-97db-d321a9a7f371}" record_timestamp="1457697587267" record_key="wh_main_trig_character_enters_garrison_high_public_order_greenskins">
+<conditions>context:character():has_region() and context:character():region():public_order() &gt; 40 and context:character():faction():culture() == &quot;wh_main_grn_greenskins&quot; and context:character():action_points_remaining_percent() &gt; 5</conditions>
+<event>CharacterEntersGarrison</event>
+<trigger>wh_main_trig_character_enters_garrison_high_public_order_greenskins</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{842992c3-112d-444f-87a0-90c0aa5fb08e}" record_timestamp="1486122335291" record_key="wh_main_trig_character_faction_has_many_allies_not_horde">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():num_allies() &gt;= 3 and context:character():model():turn_number() &gt; 10 and not context:character():faction():is_horde()</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_faction_has_many_allies_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{2204789f-1f4f-4735-949c-fbf91a2f3216}" record_timestamp="1486122335212" record_key="wh_main_trig_character_faction_is_trade_empire">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():trade_value_percent() &gt; 25 and context:character():model():turn_number() &gt; 5</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_faction_is_trade_empire</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{de570c13-e1a2-4f83-93c2-d4f025e32e2d}" record_timestamp="1486122336434" record_key="wh_main_trig_character_long_time_in_lands_and_in_city">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character() and context:character():has_region() and context:character():turns_in_own_regions() &gt;= 10 and context:character():in_settlement() and context:character():model():turn_number() &gt; 1 and context:character():model():turn_number() % 5 == 0</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_character_long_time_in_lands_and_in_city</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{4a0fc6ab-300b-4d39-a941-3d3bdb6652fa}" record_timestamp="1457008336689" record_key="wh_main_trig_character_post_battle_release_chaos">
+<conditions>char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_chs_chaos&quot;</conditions>
+<event>CharacterPostBattleRelease</event>
+<trigger>wh_main_trig_character_post_battle_release_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{68259dc9-f542-435f-93ba-fc47b9333924}" record_timestamp="1486122333813" record_key="wh_main_trig_character_rank_up_at_peace_not_greenskins">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and not context:character():faction():at_war() and not context:character():faction():culture() == &quot;wh_main_grn_greenskins&quot; and not context:character():faction():is_horde()</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_at_peace_not_greenskins</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{066b003f-7451-45fc-aee8-c3a65c3aa299}" record_timestamp="1486122336337" record_key="wh_main_trig_character_rank_up_at_war_not_horde">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():at_war() and context:character():faction():factions_at_war_with():num_items() &gt; 2 and not context:character():faction():is_horde()</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_at_war_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{9eb1fb05-095e-4709-a19e-b5851fd4deef}" record_timestamp="1486122334228" record_key="wh_main_trig_character_rank_up_high_public_order_player_only_not_horde">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():has_region() and context:character():region():public_order() &gt;60 and context:character():faction():is_human() and not context:character():faction():is_horde()</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_high_public_order_player_only_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{e8b3ff77-3554-4e87-8098-1e971eccd3d5}" record_timestamp="1486122334450" record_key="wh_main_trig_character_rank_up_low_public_order_player_only_not_horde">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():has_region() and context:character():region():public_order() &lt;10 and context:character():faction():is_human() and not context:character():faction():is_horde()</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_low_public_order_player_only_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1d78abf9-f6e3-4b4d-a09a-377fa317f7e5}" record_timestamp="1459940118275" record_key="wh_main_trig_character_rank_up_region_high_corruption_emp">
+<conditions>context:character():has_region() and context:character():faction():subculture() == &quot;wh_main_sc_emp_empire&quot; and context:character():region():religion_proportion(&quot;wh_main_religion_untainted&quot;) &lt; 0.7</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_region_high_corruption_emp</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{8da4711f-a4ad-453d-a231-298451dbc89c}" record_timestamp="1486122334867" record_key="wh_main_trig_character_rank_up_region_high_corruption_not_vmp_chs">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():has_region() and (context:character():faction():culture() ~= &quot;wh_main_vmp_vampire_counts&quot; and context:character():faction():culture() ~= &quot;wh_main_chs_chaos&quot; and context:character():faction():culture() ~= &quot;wh_dlc03_bst_beastmen&quot;) and context:character():region():religion_proportion(&quot;wh_main_religion_untainted&quot;) &lt; 0.7</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_character_rank_up_region_high_corruption_not_vmp_chs</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{a3509035-f598-41a1-9926-d2ed0cb82117}" record_timestamp="1448892610038" record_key="wh_main_trig_character_won_battle_vampire_counts">
+<conditions>context:character():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot; and context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_character_won_battle_vampire_counts</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{bb4c94c0-5351-4def-9393-4c1b74a06991}" record_timestamp="1454508065944" record_key="wh_main_trig_chs_exalted_hero_unit_killer">
+<conditions>context:character():character_subtype(&quot;chs_exalted_hero&quot;) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_chs_exalted_hero_unit_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{7a0bcedc-aa73-456e-bcc9-9ac069e99bbe}" record_timestamp="1454508066014" record_key="wh_main_trig_chs_lord_character_killer">
+<conditions>context:character():character_subtype(&quot;chs_lord&quot;) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_chs_lord_character_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{d18ce5a2-e802-4502-ac97-81e3a31dee64}" record_timestamp="1454508067904" record_key="wh_main_trig_chs_sorcerer_caster">
+<conditions>(context:character():character_subtype(&quot;chs_sorcerer_death&quot;) or context:character():character_subtype(&quot;chs_sorcerer_metal&quot;) or context:character():character_subtype(&quot;chs_sorcerer_fire&quot;)) and char_spent_skill_point_on_buff_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_chs_sorcerer_caster</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{f8ec2fae-68f9-4ea0-8384-e3a9668e7ec4}" record_timestamp="1454508067984" record_key="wh_main_trig_chs_sorcerer_lord_caster">
+<conditions>(context:character():character_subtype(&quot;chs_sorcerer_lord_death&quot;) or context:character():character_subtype(&quot;chs_sorcerer_lord_metal&quot;) or context:character():character_subtype(&quot;chs_sorcerer_lord_fire&quot;)) and char_spent_skill_point_on_buff_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_chs_sorcerer_lord_caster</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{920b2b90-6934-4127-a21e-5719dacbeb5c}" record_timestamp="1457437477590" record_key="wh_main_trig_dignitary_action_success_assist_army">
+<conditions>context:character():has_skill(&quot;wh_main_skill_all_dignitary_campaign_provider&quot;) and context:character():is_embedded_in_military_force()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_dignitary_action_success_assist_army</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{15bae2e3-54b3-4c2e-8482-f9af051d0402}" record_timestamp="1448892610038" record_key="wh_main_trig_dignitary_action_success_assist_province">
+<conditions>context:character():character_type(&quot;dignitary&quot;) and context:character():is_deployed() and context:character():has_region() and context:character():faction():name() == context:character():region():owning_faction():name()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_dignitary_action_success_assist_province</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{47d7230d-b92e-4cb9-94cd-5833cb36f583}" record_timestamp="1448892610038" record_key="wh_main_trig_dignitary_action_success_hinder_army">
+<conditions>context:character():character_type(&quot;dignitary&quot;) and context:mission_result_success() and context:agent_action_key() == &quot;wh_main_agent_action_dignitary_hinder_army&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_dignitary_action_success_hinder_army</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{e5d2069e-da6e-43ce-b2c6-027ad1c07019}" record_timestamp="1459940118283" record_key="wh_main_trig_dignitary_action_success_hinder_character">
+<conditions>context:character():character_type(&quot;dignitary&quot;) and (context:mission_result_success() or context:mission_result_critial_success()) and context:agent_action_key() == &quot;wh_main_agent_action_dignitary_hinder_character&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_dignitary_action_success_hinder_character</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1d079631-4aac-4449-828a-d7258a47b743}" record_timestamp="1448892610038" record_key="wh_main_trig_dignitary_action_success_hinder_province">
+<conditions>context:character():character_type(&quot;dignitary&quot;) and context:character():is_deployed() and context:character():has_region() and context:character():faction():name() ~= context:character():region():owning_faction():name()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_dignitary_action_success_hinder_province</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{40dc5017-0d17-46a2-9dda-3691c9f16fd3}" record_timestamp="1448892610038" record_key="wh_main_trig_dignitary_action_success_hinder_settlement">
+<conditions>context:character():character_type(&quot;dignitary&quot;) and context:mission_result_success()</conditions>
+<event>CharacterGarrisonTargetAction</event>
+<trigger>wh_main_trig_dignitary_action_success_hinder_settlement</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{ab61d76d-ae45-48a7-b735-0e5dc32a8ebc}" record_timestamp="1454508068074" record_key="wh_main_trig_dwf_engineer_caster">
+<conditions>context:character():character_subtype(&quot;dwf_master_engineer&quot;) and char_spent_skill_point_on_buff_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_dwf_engineer_caster</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{417547d2-691b-4203-bb90-c453f71ab7ec}" record_timestamp="1454508066424" record_key="wh_main_trig_dwf_lord_tank">
+<conditions>context:character():character_subtype(&quot;default&quot;) and context:character():faction():culture() == &quot;wh_main_dwf_dwarfs&quot; and char_is_general(context:character()) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_dwf_lord_tank</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1c8fd978-ab9f-4756-9cc9-b05d1e5211b6}" record_timestamp="1454508068154" record_key="wh_main_trig_dwf_runesmith_caster">
+<conditions>context:character():character_subtype(&quot;dwf_runesmith&quot;) and char_spent_skill_point_on_buff_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_dwf_runesmith_caster</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{8fd30d38-35af-40b3-bd7e-643387507e0a}" record_timestamp="1454508066564" record_key="wh_main_trig_dwf_thane_unit_killer">
+<conditions>context:character():character_subtype(&quot;dwf_thane&quot;) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_dwf_thane_unit_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{dd50b271-b127-4b6d-a3a9-eaeacee2da97}" record_timestamp="1454508068224" record_key="wh_main_trig_emp_battle_wizard_caster">
+<conditions>(context:character():character_subtype(&quot;emp_celestial_wizard&quot;) or context:character():character_subtype(&quot;emp_bright_wizard&quot;) or context:character():character_subtype(&quot;emp_light_wizard&quot;)) and char_spent_skill_point_on_buff_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_emp_battle_wizard_caster</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1011c7fd-8f8c-49b1-8bc1-8f8acf398f78}" record_timestamp="1454508066704" record_key="wh_main_trig_emp_captain_unit_killer">
+<conditions>context:character():character_subtype(&quot;emp_captain&quot;) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_emp_captain_unit_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{a6975056-9098-4fd9-b41e-92a0e767b0a6}" record_timestamp="1454508066854" record_key="wh_main_trig_emp_general_tank">
+<conditions>context:character():character_subtype(&quot;default&quot;) and context:character():faction():culture() == &quot;wh_main_emp_empire&quot; and char_is_general(context:character()) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_emp_general_tank</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{f5e658c1-570d-4db5-b376-a84e8c9c7895}" record_timestamp="1454508068304" record_key="wh_main_trig_emp_warrior_priest_caster">
+<conditions>context:character():character_subtype(&quot;emp_warrior_priest&quot;) and char_spent_skill_point_on_buff_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_emp_warrior_priest_caster</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{ed1e66c6-78a8-409a-bf73-1a9fb7810a88}" record_timestamp="1454508066994" record_key="wh_main_trig_emp_witch_hunter_character_killer">
+<conditions>context:character():character_subtype(&quot;emp_witch_hunter&quot;) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_emp_witch_hunter_character_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{563c9bd7-8aaf-43f6-bd8c-69aad14d619e}" record_timestamp="1457437477637" record_key="wh_main_trig_engineer_action_success_assist_army">
+<conditions>context:character():has_skill(&quot;wh_main_skill_dwf_engineer_campaign_logistical_engineer&quot;) and context:character():is_embedded_in_military_force()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_engineer_action_success_assist_army</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{217add8b-4c8e-47fc-9898-3165f2363540}" record_timestamp="1448892610038" record_key="wh_main_trig_engineer_action_success_assist_province">
+<conditions>context:character():character_type(&quot;engineer&quot;) and context:character():is_deployed() and context:character():has_region() and context:character():faction():name() == context:character():region():owning_faction():name()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_engineer_action_success_assist_province</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{f8175de6-5578-48b3-aef9-9ec58b3cf63e}" record_timestamp="1448892610038" record_key="wh_main_trig_engineer_action_success_hinder_army">
+<conditions>context:character():character_type(&quot;engineer&quot;) and context:mission_result_success() and context:agent_action_key() == &quot;wh_main_agent_action_engineer_hinder_army&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_engineer_action_success_hinder_army</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{94dd076c-20a2-4863-bac1-73a9a0b2b84e}" record_timestamp="1459940118286" record_key="wh_main_trig_engineer_action_success_hinder_character">
+<conditions>context:character():character_type(&quot;engineer&quot;) and (context:mission_result_success() or context:mission_result_critial_success()) and context:agent_action_key() == &quot;wh_main_agent_action_engineer_hinder_character&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_engineer_action_success_hinder_character</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1bb878be-fa50-460d-914c-4292ce1c9ff8}" record_timestamp="1448892610039" record_key="wh_main_trig_engineer_action_success_hinder_province">
+<conditions>context:character():character_type(&quot;engineer&quot;) and context:character():is_deployed() and context:character():has_region() and context:character():faction():name() ~= context:character():region():owning_faction():name()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_engineer_action_success_hinder_province</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{b6e67b84-873f-44c1-8d90-27e04728e315}" record_timestamp="1448892610039" record_key="wh_main_trig_engineer_action_success_hinder_settlement">
+<conditions>context:character():character_type(&quot;engineer&quot;) and context:mission_result_success()</conditions>
+<event>CharacterGarrisonTargetAction</event>
+<trigger>wh_main_trig_engineer_action_success_hinder_settlement</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{c84492e3-5691-4b17-9ebc-d80c94f097af}" record_timestamp="1448892610039" record_key="wh_main_trig_general_10_turns_enemy_territory_chaos">
+<conditions>context:character():faction():culture() == &quot;wh_main_chs_chaos&quot; and context:character():has_region() and context:character():turns_in_enemy_regions() &gt;= 1  and context:character():model():turn_number() &gt; 1 and context:character():model():turn_number() % 5 == 0</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_general_10_turns_enemy_territory_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{dfa50175-d6d5-4e70-860d-1a1ba08a4ffa}" record_timestamp="1486122343734" record_key="wh_main_trig_general_10_turns_enemy_territory_not_horde">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general(context:character()) and context:character():has_region() and context:character():turns_in_enemy_regions() &gt;= 1  and context:character():model():turn_number() &gt; 1 and context:character():model():turn_number() % 5 == 0 and not context:character():faction():is_horde()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_general_10_turns_enemy_territory_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{8633de68-f98d-41bd-a5ef-64f799ec073d}" record_timestamp="1448892610039" record_key="wh_main_trig_general_10_turns_enemy_territory_vampire_counts">
+<conditions>context:character():character_subtype(&quot;vmp_necromancer&quot;) and context:character():has_region() and context:character():turns_in_enemy_regions() &gt;= 1  and context:character():model():turn_number() &gt; 1 and context:character():model():turn_number() % 5 == 0</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_general_10_turns_enemy_territory_vampire_counts</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{72dc3060-8945-4c08-99bf-1a7f1595451e}" record_timestamp="1486122334140" record_key="wh_main_trig_general_constructed_building_sch_agriculture_not_horde">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():has_region() and context:character():turns_in_own_regions() &gt; 1 and (region_has_superchain(context:character():region(), &quot;wh_main_sch_dwarf_farm&quot;) or region_has_superchain(context:character():region(), &quot;wh_main_sch_greenskin_farm&quot;) or region_has_superchain(context:character():region(), &quot;wh_main_sch_human_farm_basic&quot;)) and not context:character():faction():is_horde()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_general_constructed_building_sch_agriculture_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{6209640d-9cc7-40d4-b302-0962444523a2}" record_timestamp="1486122334051" record_key="wh_main_trig_general_constructed_building_sch_port_empire">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():has_region() and context:character():turns_in_own_regions() &gt; 1 and region_has_superchain(context:character():region(), &quot;wh_main_sch_port&quot;) and context:character():faction():subculture() == &quot;wh_main_sc_emp_empire&quot;</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_general_constructed_building_sch_port_empire</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{84790fa9-dac3-4cc0-b423-97d082e0e51b}" record_timestamp="1486122334675" record_key="wh_main_trig_general_entered_settlement_high_public_order">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():has_region() and char_is_general(context:character()) and context:character():region():public_order() &gt;= 80.0 and context:character():action_points_remaining_percent() &gt; 5</conditions>
+<event>CharacterEntersGarrison</event>
+<trigger>wh_main_trig_general_entered_settlement_high_public_order</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{e68e6699-8e31-4f3e-8c27-9950ce6d13d0}" record_timestamp="1486122334759" record_key="wh_main_trig_general_entered_settlement_low_public_order_player_only_not_horde">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():has_region() and char_is_general(context:character()) and context:character():region():public_order() &lt;= 1.0 and context:character():faction():is_human() and not context:character():faction():is_horde() and context:character():action_points_remaining_percent() &gt; 5</conditions>
+<event>CharacterEntersGarrison</event>
+<trigger>wh_main_trig_general_entered_settlement_low_public_order_player_only_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{06db1c19-bdb0-49a6-bbd8-f26536603fdb}" record_timestamp="1486122335382" record_key="wh_main_trig_general_faction_is_losing_money_player_only_not_horde_not_vmp_not_grn">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():losing_money() and context:character():faction():is_human() and context:character():model():turn_number() &gt; 5 and not context:character():faction():is_horde() and context:character():faction():culture() ~= &quot;wh_main_vmp_vampire_counts&quot; and context:character():faction():culture() ~= &quot;wh_main_grn_greenskins&quot;</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_general_faction_is_losing_money_player_only_not_horde_not_vmp_not_grn</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{13adc48e-54ec-496d-8b95-0b0d6c91c164}" record_timestamp="1486122335127" record_key="wh_main_trig_general_faction_is_rich_player_only_not_horde">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():treasury() &gt; 25000 and context:character():faction():is_human() and context:character():model():turn_number() &gt; 10 and not context:character():faction():is_horde()</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_general_faction_is_rich_player_only_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{9570af72-5fa4-4c70-90ca-2ae166d708d1}" record_timestamp="1486122336143" record_key="wh_main_trig_general_fought_battle_against_chaos_not_chaos">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():culture() ~= &quot;wh_main_chs_chaos&quot; and char_is_general(context:character()) and (context:pending_battle():attacker() == context:character() and context:pending_battle():defender():faction():culture() == &quot;wh_main_chs_chaos&quot;) or (context:pending_battle():defender() == context:character() and context:pending_battle():attacker():faction():culture() == &quot;wh_main_chs_chaos&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_fought_battle_against_chaos_not_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1c779485-4aa5-4244-8538-be84f1b15b4b}" record_timestamp="1486122335979" record_key="wh_main_trig_general_fought_battle_against_dwarfs_not_dwarfs">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():culture() ~= &quot;wh_main_dwf_dwarfs&quot; and char_is_general(context:character()) and (context:pending_battle():attacker() == context:character() and context:pending_battle():defender():faction():culture() == &quot;wh_main_dwf_dwarfs&quot;) or (context:pending_battle():defender() == context:character() and context:pending_battle():attacker():faction():culture() == &quot;wh_main_dwf_dwarfs&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_fought_battle_against_dwarfs_not_dwarfs</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{ab9d1081-f812-4482-894d-8379a34e833b}" record_timestamp="1452852875349" record_key="wh_main_trig_general_fought_battle_against_dwarfs_not_dwarfs_chaos">
+<conditions>(context:character():faction():culture() ~= &quot;wh_main_dwf_dwarfs&quot; and context:character():faction():culture() ~= &quot;wh_main_chs_chaos&quot;) and char_is_general(context:character()) and (context:pending_battle():attacker() == context:character() and context:pending_battle():defender():faction():culture() == &quot;wh_main_dwf_dwarfs&quot;) or (context:pending_battle():defender() == context:character() and context:pending_battle():attacker():faction():culture() == &quot;wh_main_dwf_dwarfs&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_fought_battle_against_dwarfs_not_dwarfs_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{816ddc21-316d-4f34-b1ef-51eec6c8a97a}" record_timestamp="1484150991504" record_key="wh_main_trig_general_fought_battle_against_greenskins_dwarfs_not_faction_leader">
+<conditions>not context:character():is_faction_leader() and context:character():faction():culture() == &quot;wh_main_dwf_dwarfs&quot; and char_is_general(context:character()) and (context:pending_battle():attacker() == context:character() and context:pending_battle():defender():faction():culture() == &quot;wh_main_grn_greenskins&quot;) or (context:pending_battle():defender() == context:character() and context:pending_battle():attacker():faction():culture() == &quot;wh_main_grn_greenskins&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_fought_battle_against_greenskins_dwarfs_not_faction_leader</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{e6a767cf-12e8-48e1-88f6-88a8dcae5f80}" record_timestamp="1486122335782" record_key="wh_main_trig_general_fought_battle_against_greenskins_not_greenskins">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():culture() ~= &quot;wh_main_grn_greenskins&quot; and char_is_general(context:character()) and (context:pending_battle():attacker() == context:character() and context:pending_battle():defender():faction():culture() == &quot;wh_main_grn_greenskins&quot;) or (context:pending_battle():defender() == context:character() and context:pending_battle():attacker():faction():culture() == &quot;wh_main_grn_greenskins&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_fought_battle_against_greenskins_not_greenskins</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{68cc5dc2-5669-4d94-8ceb-a67b796ee5c2}" record_timestamp="1463569372099" record_key="wh_main_trig_general_fought_battle_against_greenskins_not_greenskins_chaos_dwarfs">
+<conditions>(context:character():faction():culture() ~= &quot;wh_main_dwf_dwarfs&quot; and context:character():faction():culture() ~= &quot;wh_main_chs_chaos&quot; and context:character():faction():culture() ~= &quot;wh_main_grn_greenskins&quot;) and char_is_general(context:character()) and (context:pending_battle():attacker() == context:character() and context:pending_battle():defender():faction():culture() == &quot;wh_main_grn_greenskins&quot;) or (context:pending_battle():defender() == context:character() and context:pending_battle():attacker():faction():culture() == &quot;wh_main_grn_greenskins&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_fought_battle_against_greenskins_not_greenskins_chaos_dwarfs</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{cd5d6400-2ef3-4617-b9b2-01c26804c12e}" record_timestamp="1452852875369" record_key="wh_main_trig_general_fought_battle_against_men_not_men">
+<conditions>(context:character():faction():culture() ~= &quot;wh_main_emp_empire&quot; and context:character():faction():culture() ~= &quot;wh_main_brt_bretonnia&quot;) and char_is_general(context:character()) and (context:pending_battle():attacker() == context:character() and (context:pending_battle():defender():faction():culture() == &quot;wh_main_emp_empire&quot; or context:pending_battle():defender():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) or (context:pending_battle():defender() == context:character() and (context:pending_battle():attacker():faction():culture() == &quot;wh_main_emp_empire&quot; or context:pending_battle():attacker():faction():culture() == &quot;wh_main_brt_bretonnia&quot;))</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_fought_battle_against_men_not_men</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{788a25e5-96ef-4386-8015-26e3f4218652}" record_timestamp="1468495382616" record_key="wh_main_trig_general_fought_battle_against_men_not_men_chaos">
+<conditions>(context:character():faction():culture() ~= &quot;wh_main_emp_empire&quot; and context:character():faction():culture() ~= &quot;wh_main_brt_bretonnia&quot; and context:character():faction():culture() ~= &quot;wh_main_chs_chaos&quot; and context:character():faction():culture() ~= &quot;wh_dlc03_bst_beastmen&quot;) and char_is_general(context:character()) and (context:pending_battle():attacker() == context:character() and (context:pending_battle():defender():faction():culture() == &quot;wh_main_emp_empire&quot; or context:pending_battle():defender():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) or (context:pending_battle():defender() == context:character() and (context:pending_battle():attacker():faction():culture() == &quot;wh_main_emp_empire&quot; or context:pending_battle():attacker():faction():culture() == &quot;wh_main_brt_bretonnia&quot;))</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_fought_battle_against_men_not_men_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{eef4566f-86f2-4124-b55a-0f427f0e9d02}" record_timestamp="1486122335610" record_key="wh_main_trig_general_fought_battle_against_vampire_counts_not_vampire_counts">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():culture() ~= &quot;wh_main_vmp_vampire_counts&quot; and char_is_general(context:character()) and (context:pending_battle():attacker() == context:character() and context:pending_battle():defender():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;) or (context:pending_battle():defender() == context:character() and context:pending_battle():attacker():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_fought_battle_against_vampire_counts_not_vampire_counts</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1033df33-1850-4725-813e-ce782270ecef}" record_timestamp="1452852875405" record_key="wh_main_trig_general_fought_battle_against_vampire_counts_not_vampire_counts_chaos">
+<conditions>(context:character():faction():culture() ~= &quot;wh_main_vmp_vampire_counts&quot; and context:character():faction():culture() ~= &quot;wh_main_chs_chaos&quot;) and char_is_general(context:character()) and (context:pending_battle():attacker() == context:character() and context:pending_battle():defender():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;) or (context:pending_battle():defender() == context:character() and context:pending_battle():attacker():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_fought_battle_against_vampire_counts_not_vampire_counts_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{06dd3651-dd3f-4aa5-9a49-8209e2477ed8}" record_timestamp="1486122342766" record_key="wh_main_trig_general_fought_in_battle">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and ( (context:pending_battle():attacker() == context:character() and context:pending_battle():attacker_commander_fought_in_melee()) or (context:pending_battle():defender() == context:character() and context:pending_battle():defender_commander_fought_in_melee()) )</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_fought_in_battle</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{daefd51f-d4b0-4b38-bfd7-06800d6f5842}" record_timestamp="1486122342595" record_key="wh_main_trig_general_fought_in_battle_has_trait_lazy">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and ((context:pending_battle():attacker() == context:character() and context:pending_battle():attacker_commander_fought_in_melee()) or (context:pending_battle():defender() == context:character() and context:pending_battle():defender_commander_fought_in_melee())) and context:character():has_trait(&quot;wh_main_trait_all_personality_all_lazy&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_fought_in_battle_has_trait_lazy</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{e3956e01-377c-4ea0-9b12-644e14e57d13}" record_timestamp="1486122333897" record_key="wh_main_trig_general_has_trait_mad">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():has_trait(&quot;wh_main_trait_general_personality_all_mad&quot;) and context:character():model():turn_number() &gt; 10</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_general_has_trait_mad</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{b2f80339-6c05-4fc1-863a-dc55d9ea70c1}" record_timestamp="1486122338510" record_key="wh_main_trig_general_land_lost_battle">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and not context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_land_lost_battle</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{71ec96bd-df1f-4bb5-b9ee-446315603d58}" record_timestamp="1448892610040" record_key="wh_main_trig_general_land_lost_battle_as_dwarfs">
+<conditions>context:character():faction():culture() == &quot;wh_main_dwf_dwarfs&quot; and not context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_land_lost_battle_as_dwarfs</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{0af687e4-878d-4e9b-b813-1b6dc16a5c19}" record_timestamp="1448892610040" record_key="wh_main_trig_general_land_lost_battle_as_greenskins">
+<conditions>context:character():faction():culture() == &quot;wh_main_grn_greenskins&quot; and not context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_land_lost_battle_as_greenskins</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{23b561d7-895f-470d-ae0a-19910ae79d2e}" record_timestamp="1448892610040" record_key="wh_main_trig_general_land_lost_battle_as_vampire_counts">
+<conditions>context:character():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;and not context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_land_lost_battle_as_vampire_counts</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{7f67a79e-a0d2-43cb-8400-7b4589552988}" record_timestamp="1486122343493" record_key="wh_main_trig_general_long_time_in_lands_and_in_city_not_horde_not_leader">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general(context:character()) and context:character():has_region() and context:character():turns_in_own_regions() &gt;= 10 and context:character():in_settlement() and context:character():model():turn_number() &gt; 1 and context:character():model():turn_number() % 5 == 0 and not context:character():faction():is_horde() and not context:character():is_faction_leader()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_general_long_time_in_lands_and_in_city_not_horde_not_leader</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{956899d3-cbbc-40f4-bd37-a813f6cfe39c}" record_timestamp="1486122343629" record_key="wh_main_trig_general_long_time_in_lands_and_in_port_not_horde">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general(context:character()) and context:character():has_region() and context:character():turns_in_own_regions() &gt;= 10 and context:character():in_port() and context:character():model():turn_number() &gt; 1 and context:character():model():turn_number() % 5 == 0 and not context:character():faction():is_horde()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_general_long_time_in_lands_and_in_port_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{6cd73727-c667-4cc6-9ec4-3bc2f6545952}" record_timestamp="1486122343397" record_key="wh_main_trig_general_lost_battle_against_chaos_not_chaos">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general(context:character()) and not context:character():faction():culture() == &quot;wh_main_chs_chaos&quot; and not context:character():won_battle() and (context:pending_battle():attacker() == context:character() and context:pending_battle():defender():faction():culture() == &quot;wh_main_chs_chaos&quot;) or (context:pending_battle():defender() == context:character() and context:pending_battle():attacker():faction():culture() == &quot;wh_main_chs_chaos&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_against_chaos_not_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{e0edf6e8-d23a-4a8e-bcc0-5fe7f729e08f}" record_timestamp="1486122343281" record_key="wh_main_trig_general_lost_battle_against_dwarfs_not_dwarfs">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general(context:character()) and not context:character():faction():culture() == &quot;wh_main_dwf_dwarfs&quot; and not context:character():won_battle() and (context:pending_battle():attacker() == context:character() and context:pending_battle():defender():faction():culture() == &quot;wh_main_dwf_dwarfs&quot;) or (context:pending_battle():defender() == context:character() and context:pending_battle():attacker():faction():culture() == &quot;wh_main_dwf_dwarfs&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_against_dwarfs_not_dwarfs</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{a51ed5c8-0eba-4faa-ad61-b3ffb412e1d8}" record_timestamp="1486122343151" record_key="wh_main_trig_general_lost_battle_against_greenskins_not_greenskins">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general(context:character()) and not context:character():faction():culture() == &quot;wh_main_grn_greenskins&quot; and not context:character():won_battle() and (context:pending_battle():attacker() == context:character() and context:pending_battle():defender():faction():culture() == &quot;wh_main_grn_greenskins&quot;) or (context:pending_battle():defender() == context:character() and context:pending_battle():attacker():faction():culture() == &quot;wh_main_grn_greenskins&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_against_greenskins_not_greenskins</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{a48dd54c-305d-4e55-b3c0-0cd40e2605fc}" record_timestamp="1451907914214" record_key="wh_main_trig_general_lost_battle_against_men_not_men">
+<conditions>char_is_general(context:character()) and not (context:character():faction():culture() == &quot;wh_main_emp_empire&quot; or context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;) and not context:character():won_battle() and (context:pending_battle():attacker() == context:character() and (context:pending_battle():defender():faction():culture() == &quot;wh_main_emp_empire&quot; or context:pending_battle():defender():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) or (context:pending_battle():defender() == context:character() and (context:pending_battle():attacker():faction():culture() == &quot;wh_main_emp_empire&quot; or context:pending_battle():attacker():faction():culture() == &quot;wh_main_brt_bretonnia&quot;))</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_against_men_not_men</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{9d3ce003-495f-4152-9f22-38a707f0b2ee}" record_timestamp="1486122343030" record_key="wh_main_trig_general_lost_battle_against_vampire_counts_not_vampire_counts">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general(context:character()) and not context:character():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot; and not context:character():won_battle() and (context:pending_battle():attacker() == context:character() and context:pending_battle():defender():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;) or (context:pending_battle():defender() == context:character() and context:pending_battle():attacker():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_against_vampire_counts_not_vampire_counts</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1cd98e27-6456-4ebd-a173-b76aaa8033ec}" record_timestamp="1486122341762" record_key="wh_main_trig_general_lost_battle_ambush_attacking">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() == false and context:pending_battle():ambush_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_ambush_attacking</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{6006c664-f8ab-4705-9f83-38a625e61654}" record_timestamp="1486122342001" record_key="wh_main_trig_general_lost_battle_army_decimated_not_chaos">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:character():won_battle() == false and (context:pending_battle():attacker() == context:character() and context:pending_battle():percentage_of_attacker_killed() &gt;= 70) or (context:pending_battle():defender() == context:character() and context:pending_battle():percentage_of_defender_killed() &gt;= 70) and not context:character():faction():culture() == &quot;wh_main_chs_chaos&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_army_decimated_not_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{d2435d53-b63d-4ab4-87bc-05aa2e350afb}" record_timestamp="1448892610040" record_key="wh_main_trig_general_lost_battle_as_chaos">
+<conditions>context:character():faction():culture() == &quot;wh_main_chs_chaos&quot; and not context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_as_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{2633e3f1-a806-4703-8322-80b0764d87a2}" record_timestamp="1486122337716" record_key="wh_main_trig_general_lost_battle_blockade_attacking">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() == false and context:pending_battle():has_contested_garrison()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_blockade_attacking</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{ee7d6db2-dac8-45e0-8f09-0d8a467143cc}" record_timestamp="1486122336620" record_key="wh_main_trig_general_lost_battle_blockade_defending">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() == false and context:pending_battle():has_contested_garrison()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_blockade_defending</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{01b3b8e4-0045-4ff9-8018-1eec64bfa0a9}" record_timestamp="1486122341642" record_key="wh_main_trig_general_lost_battle_land_attacking_close_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() == false and context:pending_battle():attacker_battle_result() == &quot;close_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_land_attacking_close_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{4b2e9889-b462-474d-9fb5-3e4f2aeaf00a}" record_timestamp="1486122341538" record_key="wh_main_trig_general_lost_battle_land_attacking_crushing_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() == false and context:pending_battle():attacker_battle_result() == &quot;crushing_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_land_attacking_crushing_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{2d852a41-2e89-45f9-aec3-1ab951678270}" record_timestamp="1486122341417" record_key="wh_main_trig_general_lost_battle_land_attacking_crushing_defeat_player_only_not_horde">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() == false and context:pending_battle():attacker_battle_result() == &quot;crushing_defeat&quot; and context:character():faction():is_human() and not context:character():faction():is_horde()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_land_attacking_crushing_defeat_player_only_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{9664ea09-0fb2-4f34-97ab-09d169836d08}" record_timestamp="1486122341301" record_key="wh_main_trig_general_lost_battle_land_attacking_decisive_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() == false and context:pending_battle():attacker_battle_result() == &quot;decisive_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_land_attacking_decisive_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{a6cba314-014b-44ed-b43f-b53ac7a8ff49}" record_timestamp="1486122341202" record_key="wh_main_trig_general_lost_battle_land_attacking_valiant_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() == false and context:pending_battle():attacker_battle_result() == &quot;valiant_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_land_attacking_valiant_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1bd98a7e-6d97-4161-b360-d81cc4ae3975}" record_timestamp="1486122340022" record_key="wh_main_trig_general_lost_battle_land_defending_close_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() == false and context:pending_battle():defender_battle_result() == &quot;close_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_land_defending_close_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{7cfeb7fa-4ef0-4752-89d2-56a4cdd6c2a5}" record_timestamp="1486122339926" record_key="wh_main_trig_general_lost_battle_land_defending_crushing_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() == false and context:pending_battle():defender_battle_result() == &quot;crushing_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_land_defending_crushing_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{add64262-0b25-401e-a1ea-d47053075b0d}" record_timestamp="1486122339831" record_key="wh_main_trig_general_lost_battle_land_defending_crushing_defeat_player_only_not_horde">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() == false and context:pending_battle():defender_battle_result() == &quot;crushing_defeat&quot; and context:character():faction():is_human() and not context:character():faction():is_horde()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_land_defending_crushing_defeat_player_only_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{9efe4fd9-cb42-48cf-a648-8279127957ff}" record_timestamp="1486122339718" record_key="wh_main_trig_general_lost_battle_land_defending_decisive_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() == false and context:pending_battle():defender_battle_result() == &quot;decisive_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_land_defending_decisive_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{ca0a3e81-f73e-4db2-b5c2-4f2ed161753b}" record_timestamp="1486122339592" record_key="wh_main_trig_general_lost_battle_land_defending_valiant_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() == false and context:pending_battle():defender_battle_result() == &quot;valiant_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_land_defending_valiant_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{962c0b14-42a8-4657-bfe4-7680f38444dc}" record_timestamp="1486122338218" record_key="wh_main_trig_general_lost_battle_naval_attacking_close_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() == false and context:pending_battle():attacker_battle_result() == &quot;close_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_naval_attacking_close_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{aa1b1d2c-2bf6-43b3-bc48-cb9cb345aaf6}" record_timestamp="1486122338103" record_key="wh_main_trig_general_lost_battle_naval_attacking_crushing_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() == false and context:pending_battle():attacker_battle_result() == &quot;crushing_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_naval_attacking_crushing_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{f49a7f67-5609-4918-8a47-2f705d157ab5}" record_timestamp="1486122338003" record_key="wh_main_trig_general_lost_battle_naval_attacking_crushing_defeat_player_only_not_horde">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() == false and context:pending_battle():attacker_battle_result() == &quot;crushing_defeat&quot; and context:character():faction():is_human() and not context:character():faction():is_horde()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_naval_attacking_crushing_defeat_player_only_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{32938e32-3b7d-4084-9172-a5a974d615cb}" record_timestamp="1486122337912" record_key="wh_main_trig_general_lost_battle_naval_attacking_decisive_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() == false and context:pending_battle():attacker_battle_result() == &quot;decisive_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_naval_attacking_decisive_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{3eea8df2-6097-4a2f-8568-9c16959d13a3}" record_timestamp="1486122337817" record_key="wh_main_trig_general_lost_battle_naval_attacking_valiant_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() == false and context:pending_battle():attacker_battle_result() == &quot;valiant_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_naval_attacking_valiant_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{dd0fc0d6-47c6-407d-a466-758d81e1ae80}" record_timestamp="1486122337092" record_key="wh_main_trig_general_lost_battle_naval_defending_close_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() == false and context:pending_battle():defender_battle_result() == &quot;close_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_naval_defending_close_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{3ff68c2f-9265-4d59-816a-2fc79b088e99}" record_timestamp="1486122336983" record_key="wh_main_trig_general_lost_battle_naval_defending_crushing_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() == false and context:pending_battle():defender_battle_result() == &quot;crushing_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_naval_defending_crushing_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{27b60d9f-ef9a-4bd8-a852-7a55936f3d3b}" record_timestamp="1486122336903" record_key="wh_main_trig_general_lost_battle_naval_defending_crushing_defeat_player_only_not_horde">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() == false and context:pending_battle():defender_battle_result() == &quot;crushing_defeat&quot; and context:character():faction():is_human() and not context:character():faction():is_horde()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_naval_defending_crushing_defeat_player_only_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{60e24e74-47c8-42dd-9f10-a9f181e56f0c}" record_timestamp="1486122336799" record_key="wh_main_trig_general_lost_battle_naval_defending_decisive_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() == false and context:pending_battle():defender_battle_result() == &quot;decisive_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_naval_defending_decisive_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{e663c781-e2b2-42f5-9abc-bae4dec6a0bc}" record_timestamp="1486122336700" record_key="wh_main_trig_general_lost_battle_naval_defending_valiant_defeat">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() == false and context:pending_battle():defender_battle_result() == &quot;valiant_defeat&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_naval_defending_valiant_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{770c80b3-8ccc-4c66-a61d-5ae55986bf77}" record_timestamp="1486122338319" record_key="wh_main_trig_general_lost_battle_naval_transporting">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:character():is_carrying_troops() and context:character():won_battle() == false</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_naval_transporting</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{91522d83-83de-4355-8823-c3687e807c72}" record_timestamp="1486122340129" record_key="wh_main_trig_general_lost_battle_night_attacking">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and not context:character():won_battle() and context:pending_battle():night_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_night_attacking</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{5f95b58f-8cd1-4a45-8d1c-89b5253049f3}" record_timestamp="1486122338705" record_key="wh_main_trig_general_lost_battle_night_defending">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():defender() == context:character() and not context:character():won_battle() and context:pending_battle():night_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_night_defending</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{92afe759-b32d-42e4-af1e-21cbe59fe2e1}" record_timestamp="1486122341111" record_key="wh_main_trig_general_lost_battle_siege_attacking">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() == false and context:pending_battle():has_contested_garrison()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_siege_attacking</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{ca027e2a-3017-4499-b3b7-a8341b0b71e9}" record_timestamp="1486122339486" record_key="wh_main_trig_general_lost_battle_siege_defending">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() == false and context:pending_battle():has_contested_garrison()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_lost_battle_siege_defending</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{81521583-4ab1-47c9-9e76-88718416f007}" record_timestamp="1486122342891" record_key="wh_main_trig_general_many_spies_not_horde">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general(context:character()) and num_agents_in_faction(context:character():faction(), &quot;spy&quot;) &gt; 1 and not context:character():faction():is_horde() and not context:character():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_general_many_spies_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{01f93344-65b6-4060-933f-b1e2a149550f}" record_timestamp="1486122342483" record_key="wh_main_trig_general_not_fought_in_battle_player_only">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:character():faction():is_human() and ((context:pending_battle():attacker() == context:character() and not context:pending_battle():attacker_commander_fought_in_melee()) or (context:pending_battle():defender() == context:character() and not context:pending_battle():defender_commander_fought_in_melee()))</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_not_fought_in_battle_player_only</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{cf58b61c-4c05-4d50-a660-68e5e9c2e147}" record_timestamp="1486122342248" record_key="wh_main_trig_general_post_battle_enslave_player_only_not_horde">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:character():faction():is_human() and not context:character():faction():is_horde()</conditions>
+<event>CharacterPostBattleEnslave</event>
+<trigger>wh_main_trig_general_post_battle_enslave_player_only_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1b42f9fc-14d7-4035-b5a4-d8f4f6b72ff9}" record_timestamp="1486122338609" record_key="wh_main_trig_general_post_battle_release_not_horde">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and not context:character():faction():is_horde()</conditions>
+<event>CharacterPostBattleRelease</event>
+<trigger>wh_main_trig_general_post_battle_release_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{b3d7aa5e-fab5-443c-8581-eafb25fc0fc8}" record_timestamp="1486122342349" record_key="wh_main_trig_general_post_battle_slaughter_player_only_not_horde">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:character():faction():is_human() and not context:character():faction():is_horde()</conditions>
+<event>CharacterPostBattleSlaughter</event>
+<trigger>wh_main_trig_general_post_battle_slaughter_player_only_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{5452e170-1624-4904-9389-55b09f1721d7}" record_timestamp="1486122342106" record_key="wh_main_trig_general_post_battle_slaughter_player_only_not_horde_not_leader">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:character():faction():is_human() and not context:character():faction():is_horde() and not context:character():is_faction_leader()</conditions>
+<event>CharacterPostBattleSlaughter</event>
+<trigger>wh_main_trig_general_post_battle_slaughter_player_only_not_horde_not_leader</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{ef8dfb5a-e1ec-486a-997d-21f1d65c1f5a}" record_timestamp="1486122340994" record_key="wh_main_trig_general_won_battle_ambush_attacking">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():ambush_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_ambush_attacking</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{60e8134b-8872-412d-8d5d-36b11e869daf}" record_timestamp="1486122337242" record_key="wh_main_trig_general_won_battle_blockade_attacking">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():has_contested_garrison()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_blockade_attacking</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{48f1b67f-d6a2-444e-a5dd-83e89c641b2c}" record_timestamp="1486122336519" record_key="wh_main_trig_general_won_battle_blockade_defending">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() and context:pending_battle():has_contested_garrison()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_blockade_defending</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{79111617-96fa-4ac3-8fd7-18b82db062fc}" record_timestamp="1486122335533" record_key="wh_main_trig_general_won_battle_chaos">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():culture() == &quot;wh_main_chs_chaos&quot; and context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{e2d21755-7d6a-4352-892d-04775faa7e42}" record_timestamp="1487152538293" record_key="wh_main_trig_general_won_battle_enemy_decimated">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:character():won_battle() == false and ((context:pending_battle():attacker() == context:character() and context:pending_battle():percentage_of_defender_killed() &gt;= 70) or (context:pending_battle():defender() == context:character() and context:pending_battle():percentage_of_attacker_killed() &gt;= 70))</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_enemy_decimated</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{70c72689-3bc9-44e0-a82f-f0af8781afcf}" record_timestamp="1487171648214" record_key="wh_main_trig_general_won_battle_enemy_decimated_empire">
+<conditions>context:character():faction():subculture() == &quot;wh_main_sc_emp_empire&quot; and char_is_general_with_army(context:character()) and context:character():won_battle() and ((context:pending_battle():attacker() == context:character() and context:pending_battle():percentage_of_defender_killed() &gt;= 70) or (context:pending_battle():defender() == context:character() and context:pending_battle():percentage_of_attacker_killed() &gt;= 70))</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_enemy_decimated_empire</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{325d248a-3add-44bc-ba1d-b52ee2094a12}" record_timestamp="1466175097725" record_key="wh_main_trig_general_won_battle_greenskins">
+<conditions>context:character():faction():culture() == &quot;wh_main_grn_greenskins&quot; and context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_greenskins</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{08613c3e-b35c-45f9-8899-48de43f79047}" record_timestamp="1486122340879" record_key="wh_main_trig_general_won_battle_land_attacking_close_victory">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():attacker_battle_result() == &quot;close_victory&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_land_attacking_close_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{a014e191-224d-40e6-919c-225e6b5a0795}" record_timestamp="1459949677404" record_key="wh_main_trig_general_won_battle_land_attacking_close_victory_emp">
+<conditions>char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():attacker_battle_result() == &quot;close_victory&quot; and context:character():faction():culture() == &quot;wh_main_emp_empire&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_land_attacking_close_victory_emp</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{193e2f60-125a-486a-be75-ff1c82055b82}" record_timestamp="1486122340789" record_key="wh_main_trig_general_won_battle_land_attacking_close_victory_not_vmp_chs">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():attacker_battle_result() == &quot;close_victory&quot; and (context:character():faction():culture() ~= &quot;wh_main_vmp_vampire_counts&quot; and context:character():faction():culture() ~= &quot;wh_main_chs_chaos&quot; and context:character():faction():culture() ~= &quot;wh_dlc03_bst_beastmen&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_land_attacking_close_victory_not_vmp_chs</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{49ebb0b4-b923-45a6-be53-537426c20df0}" record_timestamp="1486122340673" record_key="wh_main_trig_general_won_battle_land_attacking_decisive_victory">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():attacker_battle_result() == &quot;decisive_victory&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_land_attacking_decisive_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{ea67acbc-5b78-4b09-9063-f1bbdca20813}" record_timestamp="1486122340569" record_key="wh_main_trig_general_won_battle_land_attacking_heroic_victory">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():attacker_battle_result() == &quot;heroic_victory&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_land_attacking_heroic_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{e9e55993-abe7-4ee6-bc6e-8d9bde6034b4}" record_timestamp="1486122340476" record_key="wh_main_trig_general_won_battle_land_attacking_heroic_victory_not_horde">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():attacker_battle_result() == &quot;heroic_victory&quot; and not context:character():faction():is_horde()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_land_attacking_heroic_victory_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{f83b0269-bdc5-4fde-8c50-1d2cb56a7cfb}" record_timestamp="1486122339399" record_key="wh_main_trig_general_won_battle_land_defending_close_victory">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() and context:pending_battle():defender_battle_result() == &quot;close_victory&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_land_defending_close_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{6ee02787-a3ab-40b7-8a24-2096a84d04dc}" record_timestamp="1486122339284" record_key="wh_main_trig_general_won_battle_land_defending_decisive_victory">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() and context:pending_battle():defender_battle_result() == &quot;decisive_victory&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_land_defending_decisive_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{712924b5-c980-4362-89e6-abf24748722e}" record_timestamp="1486122339189" record_key="wh_main_trig_general_won_battle_land_defending_heroic_victory">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() and context:pending_battle():defender_battle_result() == &quot;heroic_victory&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_land_defending_heroic_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{a9dc2902-a77b-4811-8e0f-09b99072f2ab}" record_timestamp="1486122339113" record_key="wh_main_trig_general_won_battle_land_defending_heroic_victory_not_horde">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() and context:pending_battle():defender_battle_result() == &quot;heroic_victory&quot; and not context:character():faction():is_horde()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_land_defending_heroic_victory_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{446f3e64-7aaf-45d3-9963-dc841f31b4c2}" record_timestamp="1486122339025" record_key="wh_main_trig_general_won_battle_land_defending_pyrrhic_victory">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() and context:pending_battle():defender_battle_result() == &quot;pyrrhic_victory&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_land_defending_pyrrhic_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{4aeb70a0-d075-493f-8752-f1b36068b6d9}" record_timestamp="1486122337637" record_key="wh_main_trig_general_won_battle_naval_attacking_close_victory">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():attacker_battle_result() == &quot;close_victory&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_naval_attacking_close_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{88588529-9777-4486-8873-69fa0d1d162f}" record_timestamp="1486122337541" record_key="wh_main_trig_general_won_battle_naval_attacking_decisive_victory">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():attacker_battle_result() == &quot;decisive_victory&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_naval_attacking_decisive_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{f36bb1fa-2c07-4bbe-868a-f9c0d2d54ee6}" record_timestamp="1486122337455" record_key="wh_main_trig_general_won_battle_naval_attacking_heroic_victory">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():attacker_battle_result() == &quot;heroic_victory&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_naval_attacking_heroic_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{b138c374-ed06-4e24-bfbd-70c0504ef92b}" record_timestamp="1486122337341" record_key="wh_main_trig_general_won_battle_naval_attacking_heroic_victory_not_horde">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():attacker_battle_result() == &quot;heroic_victory&quot; and not context:character():faction():is_horde()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_naval_attacking_heroic_victory_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{79df6926-553c-4ac2-a6ce-f0d3c59fc7e2}" record_timestamp="1486122344886" record_key="wh_main_trig_general_won_battle_naval_defending_close_victory">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and  char_is_general_with_navy(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() and context:pending_battle():defender_battle_result() == &quot;close_victory&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_naval_defending_close_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{fd1530af-e6e6-4131-a47d-adfc1b1bd67c}" record_timestamp="1486122344697" record_key="wh_main_trig_general_won_battle_naval_defending_decisive_victory">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and  char_is_general_with_navy(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() and context:pending_battle():defender_battle_result() == &quot;decisive_victory&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_naval_defending_decisive_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{54833ee8-6478-459d-9405-d297156aec25}" record_timestamp="1486122344488" record_key="wh_main_trig_general_won_battle_naval_defending_heroic_victory">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and  char_is_general_with_navy(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() and context:pending_battle():defender_battle_result() == &quot;heroic_victory&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_naval_defending_heroic_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1efa2d62-79d3-4a24-8d88-cd603eab0bf5}" record_timestamp="1486122344302" record_key="wh_main_trig_general_won_battle_naval_defending_heroic_victory_not_horde">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and  char_is_general_with_navy(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() and context:pending_battle():defender_battle_result() == &quot;heroic_victory&quot; and not context:character():faction():is_horde()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_naval_defending_heroic_victory_not_horde</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{029bb5e9-4a9b-4a08-b896-a780e5a4ecb6}" record_timestamp="1486122344118" record_key="wh_main_trig_general_won_battle_naval_defending_pyrrhic_victory">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and  char_is_general_with_navy(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() and context:pending_battle():defender_battle_result() == &quot;pyrrhic_victory&quot;</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_naval_defending_pyrrhic_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{82fcf1e8-bcd0-4bd4-8d23-6e7df212c017}" record_timestamp="1486122338408" record_key="wh_main_trig_general_won_battle_naval_transporting">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_navy(context:character()) and context:character():is_carrying_troops() and context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_naval_transporting</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{ecc8f5d8-5474-436a-b7bc-fca9d15a93e3}" record_timestamp="1486122340232" record_key="wh_main_trig_general_won_battle_night_attacking">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():night_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_night_attacking</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{8f8d786d-a669-4aea-bd7d-fd3b521b1829}" record_timestamp="1486122338809" record_key="wh_main_trig_general_won_battle_night_defending">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() and context:pending_battle():night_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_night_defending</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{cd15c201-d496-44c9-848b-ea19d74cfa91}" record_timestamp="1486122340362" record_key="wh_main_trig_general_won_battle_siege_attacking">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():attacker() == context:character() and context:character():won_battle() and context:pending_battle():has_contested_garrison()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_siege_attacking</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{de902a72-673a-4228-b239-bdbb6133ec9e}" record_timestamp="1486122338921" record_key="wh_main_trig_general_won_battle_siege_defending">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general_with_army(context:character()) and context:pending_battle():defender() == context:character() and context:character():won_battle() and context:pending_battle():has_contested_garrison()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_siege_defending</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{6ec0938e-600d-486b-b466-e9d3266b1714}" record_timestamp="1486122343922" record_key="wh_main_trig_general_won_battle_siege_looted_settlement">
+<conditions>return (not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and char_is_general(context:character()) and context:character():faction():culture() ~= &quot;wh_dlc03_bst_beastmen&quot;</conditions>
+<event>CharacterLootedSettlement</event>
+<trigger>wh_main_trig_general_won_battle_siege_looted_settlement</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{fe1c2952-b40a-4dea-83de-5d2c3c4fe19e}" record_timestamp="1448892610042" record_key="wh_main_trig_general_won_battle_siege_looted_settlement_chaos">
+<conditions>context:character():faction():culture() == &quot;wh_main_chs_chaos&quot;</conditions>
+<event>CharacterLootedSettlement</event>
+<trigger>wh_main_trig_general_won_battle_siege_looted_settlement_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{019a5a07-78d1-4aa7-9372-f6b1a2673022}" record_timestamp="1448892610042" record_key="wh_main_trig_general_won_battle_vampire_counts">
+<conditions>char_is_general(context:character()) and context:character():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot; and context:character():won_battle()</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_general_won_battle_vampire_counts</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{37bcfa04-1490-472e-bffd-8ecfc1586523}" record_timestamp="1486122334599" record_key="wh_main_trig_governor_rank_up_poor_region">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():has_region() and context:character():faction():name() == context:character():region():owning_faction():name() and context:character():region():faction_province_growth_per_turn() &lt; 20 and context:character():region():faction_province_growth() &gt; 0</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_governor_rank_up_poor_region</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{5979b339-b35f-4e33-a3b8-86113b40add4}" record_timestamp="1457520931027" record_key="wh_main_trig_governor_rank_up_poor_region_empire">
+<conditions>context:character():has_region() and context:character():faction():name() == context:character():region():owning_faction():name() and context:character():region():faction_province_growth_per_turn() &lt; 20 and context:character():region():faction_province_growth() &gt; 0 and context:character():faction():subculture() == &quot;wh_main_sc_emp_empire&quot;</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_governor_rank_up_poor_region_empire</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{971d088a-5790-4e99-aee2-3bc68a29aa71}" record_timestamp="1465974618310" record_key="wh_main_trig_governor_rank_up_rich_region_dwarfs">
+<conditions>context:character():has_region() and context:character():faction():name() == context:character():region():owning_faction():name() and context:character():region():faction_province_growth_per_turn() &gt; 100 and context:character():faction():subculture() == &quot;wh_main_sc_dwf_dwarfs&quot;</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_governor_rank_up_rich_region_dwarfs</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{e7cb49e4-9c86-42a4-884d-be702511629c}" record_timestamp="1457520931054" record_key="wh_main_trig_governor_rank_up_rich_region_empire">
+<conditions>context:character():has_region() and context:character():faction():name() == context:character():region():owning_faction():name() and context:character():region():faction_province_growth_per_turn() &gt;100 and context:character():faction():subculture() == &quot;wh_main_sc_emp_empire&quot;</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_governor_rank_up_rich_region_empire</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{5078ae1b-b5fc-45f7-940f-dddb106e3182}" record_timestamp="1486122334526" record_key="wh_main_trig_governor_rank_up_rich_region_not_greenskins">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():has_region() and context:character():faction():name() == context:character():region():owning_faction():name() and context:character():region():faction_province_growth_per_turn() &gt;100 and context:character():faction():culture() == &quot;wh_main_grn_greenskins&quot;</conditions>
+<event>CharacterRankUp</event>
+<trigger>wh_main_trig_governor_rank_up_rich_region_not_greenskins</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1eedc8f4-8c57-4c8f-90db-79722e179ca8}" record_timestamp="1448892610042" record_key="wh_main_trig_greenskin_general_lost_battle_against_goblin_great_shaman">
+<conditions>wh_main_trig_greenskin_general_lost_battle_against_goblin_great_shaman_test(context:character(), context:pending_battle())</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>wh_main_trig_greenskin_general_lost_battle_against_goblin_great_shaman</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{d40cd6f0-3554-4aac-98f4-5b70a17d1b38}" record_timestamp="1454508067074" record_key="wh_main_trig_grn_goblin_big_boss_character_killer">
+<conditions>context:character():character_subtype(&quot;grn_goblin_big_boss&quot;) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_grn_goblin_big_boss_character_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{922e5773-f1e1-4237-8106-a50896efbce3}" record_timestamp="1454508068384" record_key="wh_main_trig_grn_goblin_great_shaman_caster">
+<conditions>context:character():character_subtype(&quot;grn_goblin_great_shaman&quot;) and char_spent_skill_point_on_buff_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_grn_goblin_great_shaman_caster</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{e344039a-8fb5-41ca-86da-1b71a89991d3}" record_timestamp="1454508068464" record_key="wh_main_trig_grn_night_goblin_shaman_caster">
+<conditions>context:character():character_subtype(&quot;grn_night_goblin_shaman&quot;) and char_spent_skill_point_on_buff_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_grn_night_goblin_shaman_caster</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{a802dc71-275a-4e2a-80c3-42feeac85e52}" record_timestamp="1454508068544" record_key="wh_main_trig_grn_orc_shaman_caster">
+<conditions>context:character():character_subtype(&quot;grn_orc_shaman&quot;) and char_spent_skill_point_on_buff_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_grn_orc_shaman_caster</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{36995f13-624a-442b-89ff-f154d12abc50}" record_timestamp="1454508060499" record_key="wh_main_trig_grn_orc_warboss_character_killer">
+<conditions>context:character():character_subtype(&quot;grn_orc_warboss&quot;) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_grn_orc_warboss_character_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{49cbfa05-3926-4a9a-9f08-84f1c41b7353}" record_timestamp="1486122333981" record_key="wh_main_trig_has_trait_sober">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():has_trait(&quot;wh_main_trait_all_personality_all_sober&quot;)</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_has_trait_sober</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{cfe11236-c3c7-4ac2-8f0e-6056c50d7a0b}" record_timestamp="1448892610043" record_key="wh_main_trig_has_trait_vmp_insane">
+<conditions>context:character():has_trait(&quot;wh_main_trait_all_personality_vmp_insane&quot;) and context:character():model():turn_number() &gt; 5</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_has_trait_vmp_insane</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{850d5880-274b-4cb9-a856-0b2c75da4daf}" record_timestamp="1486122336232" record_key="wh_main_trig_hero_fought_battle_against_chaos_not_chaos">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():culture() ~= &quot;wh_main_chs_chaos&quot; and (char_is_attacker_hero(context:character()) and context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_chs_chaos&quot;) or (char_is_defender_hero(context:character()) and context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_chs_chaos&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_fought_battle_against_chaos_not_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{21811ca7-7b44-49c6-a56f-d984a90743cb}" record_timestamp="1486122345308" record_key="wh_main_trig_hero_fought_battle_against_dwarfs_not_dwarfs">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():culture() ~= &quot;wh_main_dwf_dwarfs&quot; and (char_is_attacker_hero(context:character()) and context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_dwf_dwarfs&quot;) or (char_is_defender_hero(context:character()) and context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_dwf_dwarfs&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_fought_battle_against_dwarfs_not_dwarfs</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{db840409-2c6a-4f43-9871-9c72f9cda7b0}" record_timestamp="1452852875424" record_key="wh_main_trig_hero_fought_battle_against_dwarfs_not_dwarfs_chaos">
+<conditions>(context:character():faction():culture() ~= &quot;wh_main_dwf_dwarfs&quot; and context:character():faction():culture() ~= &quot;wh_main_chs_chaos&quot;) and (char_is_attacker_hero(context:character()) and context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_dwf_dwarfs&quot;) or (char_is_defender_hero(context:character()) and context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_dwf_dwarfs&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_fought_battle_against_dwarfs_not_dwarfs_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{afb433a5-0508-4722-a0bd-b215f6c6eb80}" record_timestamp="1463569377677" record_key="wh_main_trig_hero_fought_battle_against_greenskins_dwarfs">
+<conditions>context:character():faction():culture() == &quot;wh_main_dwf_dwarfs&quot; and (char_is_attacker_hero(context:character()) and context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_grn_greenskins&quot;) or (char_is_defender_hero(context:character()) and context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_grn_greenskins&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_fought_battle_against_greenskins_dwarfs</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1d3629e1-ff51-4262-b4cf-131302ba51de}" record_timestamp="1486122335883" record_key="wh_main_trig_hero_fought_battle_against_greenskins_not_greenskins">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():culture() ~= &quot;wh_main_grn_greenskins&quot; and (char_is_attacker_hero(context:character()) and context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_grn_greenskins&quot;) or (char_is_defender_hero(context:character()) and context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_grn_greenskins&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_fought_battle_against_greenskins_not_greenskins</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{8bb2b529-cf65-4a0d-b0d7-cf26b1b70fc4}" record_timestamp="1463569372103" record_key="wh_main_trig_hero_fought_battle_against_greenskins_not_greenskins_chaos_dwarfs">
+<conditions>(context:character():faction():culture() ~= &quot;wh_main_dwf_dwarfs&quot; and context:character():faction():culture() ~= &quot;wh_main_grn_greenskins&quot; and context:character():faction():culture() ~= &quot;wh_main_chs_chaos&quot;) and (char_is_attacker_hero(context:character()) and context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_grn_greenskins&quot;) or (char_is_defender_hero(context:character()) and context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_grn_greenskins&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_fought_battle_against_greenskins_not_greenskins_chaos_dwarfs</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{a80d43a3-161f-4599-84dc-40d22738c56c}" record_timestamp="1452852875466" record_key="wh_main_trig_hero_fought_battle_against_men_not_men">
+<conditions>(context:character():faction():culture() ~= &quot;wh_main_emp_empire&quot; and context:character():faction():culture() ~= &quot;wh_main_brt_bretonnia&quot;) and (char_is_attacker_hero(context:character()) and (context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_emp_empire&quot; or context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) or (char_is_defender_hero(context:character()) and (context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_emp_empire&quot; or context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_brt_bretonnia&quot;))</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_fought_battle_against_men_not_men</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{6bc32765-3230-4cbf-bb99-6f4a339455c4}" record_timestamp="1468495382616" record_key="wh_main_trig_hero_fought_battle_against_men_not_men_chaos">
+<conditions>(context:character():faction():culture() ~= &quot;wh_main_emp_empire&quot; and context:character():faction():culture() ~= &quot;wh_main_brt_bretonnia&quot; and context:character():faction():culture() ~= &quot;wh_main_chs_chaos&quot; and context:character():faction():culture() ~= &quot;wh_dlc03_bst_beastmen&quot;) and (char_is_attacker_hero(context:character()) and (context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_emp_empire&quot; or context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) or (char_is_defender_hero(context:character()) and (context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_emp_empire&quot; or context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_brt_bretonnia&quot;))</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_fought_battle_against_men_not_men_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{24332203-e92a-441e-a734-8479ddb5ff12}" record_timestamp="1486122335684" record_key="wh_main_trig_hero_fought_battle_against_vampire_counts_not_vampire_counts">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():culture() ~= &quot;wh_main_vmp_vampire_counts&quot; and (char_is_attacker_hero(context:character()) and context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;) or (char_is_defender_hero(context:character()) and context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_fought_battle_against_vampire_counts_not_vampire_counts</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{8292c502-7d6f-4f8e-ada8-88618d3bd080}" record_timestamp="1452852875524" record_key="wh_main_trig_hero_fought_battle_against_vampire_counts_not_vampire_counts_chaos">
+<conditions>(context:character():faction():culture() ~= &quot;wh_main_vmp_vampire_counts&quot; and context:character():faction():culture() ~= &quot;wh_main_chs_chaos&quot;) and (char_is_attacker_hero(context:character()) and context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;) or (char_is_defender_hero(context:character()) and context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_fought_battle_against_vampire_counts_not_vampire_counts_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{c0b9c306-9960-4ac1-a48a-607166d923ed}" record_timestamp="1486122335049" record_key="wh_main_trig_hero_fought_in_battle">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():fought_in_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_fought_in_battle</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{02715cb1-fa05-4db5-b490-1dbc6618323d}" record_timestamp="1486122334955" record_key="wh_main_trig_hero_fought_in_battle_has_trait_lazy">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():fought_in_battle() and context:character():has_trait(&quot;wh_main_trait_all_personality_all_lazy&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_fought_in_battle_has_trait_lazy</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{de6b4efe-220c-4096-9e55-3011059df278}" record_timestamp="1486122333753" record_key="wh_main_trig_hero_land_lost_battle">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and not context:character():won_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_land_lost_battle</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{92871579-db16-4639-94a6-25652297f9d1}" record_timestamp="1448892610043" record_key="wh_main_trig_hero_land_lost_battle_as_dwarfs">
+<conditions>context:character():faction():culture() == &quot;wh_main_dwf_dwarfs&quot; and not context:character():won_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_land_lost_battle_as_dwarfs</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{6b68253e-d195-4fa8-8db9-b60b2ad1eb91}" record_timestamp="1448892610043" record_key="wh_main_trig_hero_land_lost_battle_as_greenskins">
+<conditions>context:character():faction():culture() == &quot;wh_main_grn_greenskins&quot; and not context:character():won_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_land_lost_battle_as_greenskins</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{bb6f5d1d-8ca9-43fb-8759-653e90922cc3}" record_timestamp="1448892610043" record_key="wh_main_trig_hero_land_lost_battle_as_vampire_counts">
+<conditions>context:character():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;and not context:character():won_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_land_lost_battle_as_vampire_counts</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1a00d1ea-e8a4-45af-aefa-d46f0379ed92}" record_timestamp="1451907915336" record_key="wh_main_trig_hero_lost_battle_against_chaos_not_chaos">
+<conditions>not context:character():won_battle() and not context:character():faction():culture() == &quot;wh_main_chs_chaos&quot; and (char_is_attacker_hero(context:character()) and context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_chs_chaos&quot;) or (char_is_defender_hero(context:character()) and context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_chs_chaos&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_lost_battle_against_chaos_not_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{2ba2c35f-1791-4dd2-8a46-630392ba71a4}" record_timestamp="1486122333474" record_key="wh_main_trig_hero_lost_battle_against_dwarfs_not_dwarfs">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and not context:character():won_battle() and not context:character():faction():culture() == &quot;wh_main_dwf_dwarfs&quot; and (char_is_attacker_hero(context:character()) and context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_dwf_dwarfs&quot;) or (char_is_defender_hero(context:character()) and context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_dwf_dwarfs&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_lost_battle_against_dwarfs_not_dwarfs</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{fb810b61-7621-4090-ab62-4f2137ddf6b5}" record_timestamp="1486122333382" record_key="wh_main_trig_hero_lost_battle_against_greenskins_not_greenskins">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and not context:character():won_battle() and not context:character():faction():culture() == &quot;wh_main_grn_greenskins&quot; and (char_is_attacker_hero(context:character()) and context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_grn_greenskins&quot;) or (char_is_defender_hero(context:character()) and context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_grn_greenskins&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_lost_battle_against_greenskins_not_greenskins</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{d738ab3f-f2c3-47f5-a059-d48d8d9e65a7}" record_timestamp="1451907916228" record_key="wh_main_trig_hero_lost_battle_against_men_not_men">
+<conditions>not context:character():won_battle() and not (context:character():faction():culture() == &quot;wh_main_emp_empire&quot; or context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;) and (char_is_attacker_hero(context:character()) and (context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_emp_empire&quot; or context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) or (char_is_defender_hero(context:character()) and (context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_emp_empire&quot; or context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_brt_bretonnia&quot;))</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_lost_battle_against_men_not_men</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{4443927c-388e-4080-9529-bab09a5881c2}" record_timestamp="1486122333297" record_key="wh_main_trig_hero_lost_battle_against_vampire_counts_not_vampire_counts">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and not context:character():won_battle() and not context:character():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot; and (char_is_attacker_hero(context:character()) and context:character():model():pending_battle():defender():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;) or (char_is_defender_hero(context:character()) and context:character():model():pending_battle():attacker():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_lost_battle_against_vampire_counts_not_vampire_counts</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{130a0945-02af-4c7e-98a1-c060dc29c3ce}" record_timestamp="1448892610043" record_key="wh_main_trig_hero_lost_battle_as_chaos">
+<conditions>context:character():faction():culture() == &quot;wh_main_chs_chaos&quot; and not context:character():won_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_lost_battle_as_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{8ab0244b-fd0d-42e5-8214-0f8112294142}" record_timestamp="1486122333684" record_key="wh_main_trig_hero_lost_battle_land_attacking_valiant_defeat">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and not context:character():won_battle() and char_is_attacker_hero(context:character()) and context:character():model():pending_battle():attacker_battle_result() == &quot;valiant_defeat&quot;</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_lost_battle_land_attacking_valiant_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{ee83b159-a449-487e-ba74-68ab205524c9}" record_timestamp="1486122333620" record_key="wh_main_trig_hero_lost_battle_land_defending_close_defeat">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and not context:character():won_battle() and char_is_defender_hero(context:character()) and context:character():model():pending_battle():defender_battle_result() == &quot;close_defeat&quot;</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_lost_battle_land_defending_close_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{460a2f11-95e0-42f7-9785-d116ea4f803e}" record_timestamp="1486122333542" record_key="wh_main_trig_hero_lost_battle_land_defending_valiant_defeat">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and not context:character():won_battle() and char_is_defender_hero(context:character()) and context:character():model():pending_battle():defender_battle_result() == &quot;valiant_defeat&quot;</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_lost_battle_land_defending_valiant_defeat</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{30d69f14-62b1-4f13-91ff-a3d5bed0b51b}" record_timestamp="1486122335453" record_key="wh_main_trig_hero_not_fought_in_battle_player_only">
+<conditions>(not (char_is_general_with_army(context:character()) and context:character():faction():culture() == &quot;wh_main_brt_bretonnia&quot;)) and context:character():faction():is_human() and context:character():fought_in_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_not_fought_in_battle_player_only</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{69e0448f-bf0a-4ce0-9c3c-de612b3c9a3d}" record_timestamp="1448892610043" record_key="wh_main_trig_hero_won_battle_chaos">
+<conditions>context:character():faction():culture() == &quot;wh_main_chs_chaos&quot; and context:character():won_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_won_battle_chaos</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1e1849e6-6d6c-4f8a-a07d-6eaa57c52a2f}" record_timestamp="1457520931168" record_key="wh_main_trig_hero_won_battle_enemy_decimated_empire">
+<conditions>context:character():faction():subculture() == &quot;wh_main_sc_emp_empire&quot; and context:character():won_battle() and (char_is_attacker_hero(context:character()) and context:character():model():pending_battle():percentage_of_defender_killed() &gt;= 70) or (char_is_defender_hero(context:character()) and context:character():model():pending_battle():percentage_of_attacker_killed() &gt;= 70)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_won_battle_enemy_decimated_empire</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{fea37da0-1d6b-4788-a896-5420903f79f6}" record_timestamp="1466175097478" record_key="wh_main_trig_hero_won_battle_greenskins">
+<conditions>context:character():faction():culture() == &quot;wh_main_grn_greenskins&quot; and context:character():won_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_won_battle_greenskins</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{d6816bf8-fa77-49cc-a5ac-a6e75dd1dd0e}" record_timestamp="1455552835526" record_key="wh_main_trig_hero_won_battle_land_attacking_decisive_victory">
+<conditions>char_is_attacker_hero(context:character()) and context:character():won_battle() and context:character():model():pending_battle():attacker_battle_result() == &quot;decisive_victory&quot;</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_won_battle_land_attacking_decisive_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{1f164cd8-1183-4a1a-b05c-e6a0fdf298a1}" record_timestamp="1448892610044" record_key="wh_main_trig_hero_won_battle_land_defending_pyrrhic_victory">
+<conditions>context:character():won_battle() and char_is_defender_hero(context:character()) and context:character():model():pending_battle():defender_battle_result() == &quot;pyrrhic_victory&quot;</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_won_battle_land_defending_pyrrhic_victory</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{3d388a8e-1688-4409-a474-b314cb5d29c9}" record_timestamp="1448892610044" record_key="wh_main_trig_hero_won_battle_vampire_counts">
+<conditions>context:character():faction():culture() == &quot;wh_main_vmp_vampire_counts&quot; and context:character():won_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_hero_won_battle_vampire_counts</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{ca0310fd-0154-4184-a533-e3eae551d755}" record_timestamp="1457437477684" record_key="wh_main_trig_runesmith_action_success_assist_army">
+<conditions>context:character():has_skill(&quot;wh_main_skill_dwf_runesmith_campaign_rune_of_spellbreaking&quot;) and context:character():is_embedded_in_military_force()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_runesmith_action_success_assist_army</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{93440553-01ba-43d8-8c71-ff1d73bc79ef}" record_timestamp="1448892610044" record_key="wh_main_trig_runesmith_action_success_assist_province">
+<conditions>context:character():character_type(&quot;runesmith&quot;) and context:character():is_deployed() and context:character():has_region() and context:character():faction():name() == context:character():region():owning_faction():name()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_runesmith_action_success_assist_province</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{252be2c9-3b88-4d37-a75c-7bb936099a98}" record_timestamp="1448892610044" record_key="wh_main_trig_runesmith_action_success_hinder_army">
+<conditions>context:character():character_type(&quot;runesmith&quot;) and context:mission_result_success() and context:agent_action_key() == &quot;wh_main_agent_action_runesmith_hinder_army&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_runesmith_action_success_hinder_army</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{f63beeec-94c1-488c-b33a-186e3bb5a97f}" record_timestamp="1459940118286" record_key="wh_main_trig_runesmith_action_success_hinder_character">
+<conditions>context:character():character_type(&quot;runesmith&quot;) and (context:mission_result_success() or context:mission_result_critial_success()) and context:agent_action_key() == &quot;wh_main_agent_action_runesmith_hinder_character&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_runesmith_action_success_hinder_character</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{554de528-f391-471a-8d8b-da7f57ecf5b0}" record_timestamp="1448892610044" record_key="wh_main_trig_runesmith_action_success_hinder_province">
+<conditions>context:character():character_type(&quot;runesmith&quot;) and context:character():is_deployed() and context:character():has_region() and context:character():faction():name() ~= context:character():region():owning_faction():name()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_runesmith_action_success_hinder_province</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{d4699165-9572-4f59-a6b7-7ac142cfbbe6}" record_timestamp="1448892610044" record_key="wh_main_trig_runesmith_action_success_hinder_settlement">
+<conditions>context:character():character_type(&quot;runesmith&quot;) and context:mission_result_success()</conditions>
+<event>CharacterGarrisonTargetAction</event>
+<trigger>wh_main_trig_runesmith_action_success_hinder_settlement</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{a02f9a61-6ea5-4fba-a579-317bb51a187d}" record_timestamp="1457437477730" record_key="wh_main_trig_spy_action_success_assist_army">
+<conditions>context:character():has_skill(&quot;wh_main_skill_all_spy_campaign_watcher&quot;) and context:character():is_embedded_in_military_force()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_spy_action_success_assist_army</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{dce069d3-2adb-4763-9079-983781c1514c}" record_timestamp="1448892610044" record_key="wh_main_trig_spy_action_success_assist_province">
+<conditions>context:character():character_type(&quot;spy&quot;) and context:character():is_deployed() and context:character():has_region() and context:character():faction():name() == context:character():region():owning_faction():name()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_spy_action_success_assist_province</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{a314af4c-1065-445e-a967-45c38af7e079}" record_timestamp="1448892610044" record_key="wh_main_trig_spy_action_success_hinder_army">
+<conditions>context:character():character_type(&quot;spy&quot;) and context:mission_result_success() and context:agent_action_key() == &quot;wh_main_agent_action_spy_hinder_army&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_spy_action_success_hinder_army</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{08a1d6eb-74e2-49f7-a950-bb7eff9e99ff}" record_timestamp="1459940118287" record_key="wh_main_trig_spy_action_success_hinder_character">
+<conditions>context:character():character_type(&quot;spy&quot;) and (context:mission_result_success() or context:mission_result_critial_success()) and context:agent_action_key() == &quot;wh_main_agent_action_spy_hinder_character&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_spy_action_success_hinder_character</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{f4aca971-4cf1-4674-9dee-25cb95971ef0}" record_timestamp="1448892610044" record_key="wh_main_trig_spy_action_success_hinder_province">
+<conditions>context:character():character_type(&quot;spy&quot;) and context:character():is_deployed() and context:character():has_region() and context:character():faction():name() ~= context:character():region():owning_faction():name()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_spy_action_success_hinder_province</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{f8868c60-e854-4c30-b4c3-3b489b778468}" record_timestamp="1448892610044" record_key="wh_main_trig_spy_action_success_hinder_settlement">
+<conditions>context:character():character_type(&quot;spy&quot;) and context:mission_result_success()</conditions>
+<event>CharacterGarrisonTargetAction</event>
+<trigger>wh_main_trig_spy_action_success_hinder_settlement</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{19da835b-b8ab-4c33-ad4e-781697fba420}" record_timestamp="1448892610044" record_key="wh_main_trig_unit_completed_battle_night_goblin_shaman">
+<conditions>context:character():character_subtype(&quot;grn_night_goblin_shaman&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_unit_completed_battle_night_goblin_shaman</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{e8e9cda8-d3fd-4ee3-81d4-3d1d0bf9cc1e}" record_timestamp="1448892610044" record_key="wh_main_trig_unit_completed_battle_orc_shaman">
+<conditions>context:character():character_subtype(&quot;grn_orc_shaman&quot;)</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_unit_completed_battle_orc_shaman</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{0a1567dc-b94c-439c-bc10-ac139d63d5cd}" record_timestamp="1454508067754" record_key="wh_main_trig_vmp_banshee_character_killer">
+<conditions>context:character():character_subtype(&quot;vmp_banshee&quot;) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_vmp_banshee_character_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{ecdf799c-dd54-4fd3-8048-55214bbbd3e3}" record_timestamp="1454508067674" record_key="wh_main_trig_vmp_lord_character_killer">
+<conditions>context:character():character_subtype(&quot;vmp_lord&quot;) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_vmp_lord_character_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{2dd6f5c9-6992-46bf-99be-8df83c7a0f52}" record_timestamp="1454508068624" record_key="wh_main_trig_vmp_master_necromancer_caster">
+<conditions>context:character():character_subtype(&quot;vmp_master_necromancer&quot;) and char_spent_skill_point_on_buff_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_vmp_master_necromancer_caster</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{92ffd621-baeb-4717-a356-866d56383920}" record_timestamp="1454508068704" record_key="wh_main_trig_vmp_necromancer_caster">
+<conditions>context:character():character_subtype(&quot;vmp_necromancer&quot;) and char_spent_skill_point_on_buff_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_vmp_necromancer_caster</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{9bd47186-7d37-44d6-8e00-843449dedf78}" record_timestamp="1454508067454" record_key="wh_main_trig_vmp_vampire_unit_killer">
+<conditions>context:character():character_subtype(&quot;vmp_vampire&quot;) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_vmp_vampire_unit_killer</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{0bd55ad4-4a58-4cfc-9d15-796a3e4ff112}" record_timestamp="1454508067374" record_key="wh_main_trig_vmp_wight_king_tank">
+<conditions>context:character():character_subtype(&quot;vmp_wight_king&quot;) and char_spent_skill_point_on_level2_skill(context:skill_point_spent_on())</conditions>
+<event>CharacterSkillPointAllocated</event>
+<trigger>wh_main_trig_vmp_wight_king_tank</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{09767289-bb1d-4e8a-8da6-34294c47699f}" record_timestamp="1457437477777" record_key="wh_main_trig_wizard_action_success_assist_army">
+<conditions>context:character():has_skill(&quot;wh_main_skill_all_wizard_campaign_magic_detection&quot;) and context:character():is_embedded_in_military_force()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_wizard_action_success_assist_army</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{5739d36d-0b38-4136-a9e0-fb10891b53e1}" record_timestamp="1448892610044" record_key="wh_main_trig_wizard_action_success_assist_province">
+<conditions>context:character():character_type(&quot;wizard&quot;) and context:character():is_deployed() and context:character():has_region() and context:character():faction():name() == context:character():region():owning_faction():name()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_wizard_action_success_assist_province</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{15422889-4512-479b-98ae-fae13c44b3c0}" record_timestamp="1448892610044" record_key="wh_main_trig_wizard_action_success_hinder_army">
+<conditions>context:character():character_type(&quot;wizard&quot;) and context:mission_result_success() and context:agent_action_key() == &quot;wh_main_agent_action_wizard_hinder_army&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_wizard_action_success_hinder_army</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{e3ef94e7-fb20-4636-a9c0-f0fb046da173}" record_timestamp="1459940118287" record_key="wh_main_trig_wizard_action_success_hinder_character">
+<conditions>context:character():character_type(&quot;wizard&quot;) and (context:mission_result_success() or context:mission_result_critial_success()) and context:agent_action_key() == &quot;wh_main_agent_action_wizard_hinder_character&quot;</conditions>
+<event>CharacterCharacterTargetAction</event>
+<trigger>wh_main_trig_wizard_action_success_hinder_character</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{bb727e59-cbbf-4927-aae8-ab8451858408}" record_timestamp="1448892610045" record_key="wh_main_trig_wizard_action_success_hinder_province">
+<conditions>context:character():character_type(&quot;wizard&quot;) and context:character():is_deployed() and context:character():has_region() and context:character():faction():name() ~= context:character():region():owning_faction():name()</conditions>
+<event>CharacterTurnStart</event>
+<trigger>wh_main_trig_wizard_action_success_hinder_province</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{91231fb1-c3ec-46b1-9a7c-749a41d6a784}" record_timestamp="1448892610045" record_key="wh_main_trig_wizard_action_success_hinder_settlement">
+<conditions>context:character():character_type(&quot;wizard&quot;) and context:mission_result_success()</conditions>
+<event>CharacterGarrisonTargetAction</event>
+<trigger>wh_main_trig_wizard_action_success_hinder_settlement</trigger>
+</trait_triggers>
+<trait_triggers record_uuid="{8b293b63-d505-489b-af5a-04730ea0dbc3}" record_timestamp="1448892610045" record_key="wh_main_trig_wizard_won_battle_vampire_counts">
+<conditions>context:character():character_subtype(&quot;vmp_necromancer&quot;) and context:character():won_battle()</conditions>
+<event>HeroCharacterParticipatedInBattle</event>
+<trigger>wh_main_trig_wizard_won_battle_vampire_counts</trigger>
+</trait_triggers>
+</dataroot>

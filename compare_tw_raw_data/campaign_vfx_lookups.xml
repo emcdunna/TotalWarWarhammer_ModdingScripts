@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_vfx_lookups.xsd" export_time="Fri Feb 3 08:16:46 2017" revision="46" export_branch="E:/TW/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>77b109dd-9a86-4dfc-bcc5-d91a09d8ea93</edit_uuid>
+<campaign_vfx_lookups record_uuid="{759c1d3d-d089-4aba-935f-9fd8cf014168}" record_timestamp="1366883900306" record_key="103">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>103</key>
+<vfx_description>2xtime_navy</vfx_description>
+<vfx_event>navy_double_time</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{5c70ce49-f3e8-4a08-adf9-32bdc1bae82b}" record_timestamp="1368546912733" record_key="104">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>104</key>
+<vfx_description>attrition_navy</vfx_description>
+<vfx_event>navy_generic_attrition</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{30f0b4f5-7159-4801-8768-b8d3aed1a810}" record_timestamp="1366883900325" record_key="109">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>109</key>
+<vfx_description>level_up</vfx_description>
+<vfx_event>navy_level_up</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{97bee0f0-424e-45d9-9e3c-bf88154d07ea}" record_timestamp="1367514722996" record_key="111">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>111</key>
+<vfx_description>raid_navy</vfx_description>
+<vfx_event>navy_raiding</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{0ec9be89-f532-4825-895b-a3b6d8a6c2f6}" record_timestamp="1368007971028" record_key="113">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>113</key>
+<vfx_description>select_navy</vfx_description>
+<vfx_event>navy_selection</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{46686c8c-f183-49d5-b205-e81afc9e2714}" record_timestamp="1445434723409" record_key="122">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>122</key>
+<vfx_description>navy_war_coordination_target</vfx_description>
+<vfx_event>navy_war_coordination_target</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{c66a56a0-846b-4633-9fac-10967b921716}" record_timestamp="1373379989290" record_key="126">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>126</key>
+<vfx_description>under_attack</vfx_description>
+<vfx_event>settlement_besieged</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{c085daba-b34e-4fe4-bcc8-e5058f3924cc}" record_timestamp="1373379989279" record_key="128">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>128</key>
+<vfx_description>under_attack</vfx_description>
+<vfx_event>settlement_blockaded</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{068465ea-3736-49f1-8a3d-908c84b0ecd7}" record_timestamp="1366883900133" record_key="13">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>13</key>
+<vfx_description>debuff_army</vfx_description>
+<vfx_event>agent_debuffed</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{ffc057e8-d495-4259-b842-f7b401197f96}" record_timestamp="1366883900419" record_key="155">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>155</key>
+<vfx_description>settle_devpoint</vfx_description>
+<vfx_event>settlement_development_point_available</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{fee877bb-bc26-4a8c-a6c3-c050b7149578}" record_timestamp="1366883900429" record_key="160">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>160</key>
+<vfx_description>disease</vfx_description>
+<vfx_event>settlement_disease</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{c1ef9386-3f8d-4e68-97a2-00f2f1b323f1}" record_timestamp="1366883900141" record_key="17">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>17</key>
+<vfx_description>level_up</vfx_description>
+<vfx_event>agent_level_up</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{b5152b7f-c6bc-4bd6-9a75-e65ce365af72}" record_timestamp="1368546912677" record_key="171">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>171</key>
+<vfx_description>looted</vfx_description>
+<vfx_event>settlement_looted</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{97d84521-4187-4e3f-80b8-ec4027874c64}" record_timestamp="1371570066520" record_key="173">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>173</key>
+<vfx_description>raze</vfx_description>
+<vfx_event>settlement_raze</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{199c3820-8b32-4f92-8f0a-21c8460ea239}" record_timestamp="1445434723311" record_key="183">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>183</key>
+<vfx_description>settlement_war_coordination_target</vfx_description>
+<vfx_event>settlement_war_coordination_target</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{8ca26192-8da9-4bf6-bfe7-d9d3a4ccc65c}" record_timestamp="1374679284755" record_key="196">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>196</key>
+<vfx_description>settle_select</vfx_description>
+<vfx_event>settlement_selection</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{0f8b1ad6-a38c-4203-aca2-1017e5215ad0}" record_timestamp="1486109806449" record_key="1975681762">
+<agent_filter></agent_filter>
+<culture_filter>wh_main_sc_brt_bretonnia</culture_filter>
+<faction_filter></faction_filter>
+<key>1975681762</key>
+<vfx_description>blessing_of_the_lady</vfx_description>
+<vfx_event>scripted_effect</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{ab018446-95c2-460c-9aed-94b05e080a4c}" record_timestamp="1368007971001" record_key="20">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>20</key>
+<vfx_description>select_army</vfx_description>
+<vfx_event>agent_selection</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{a7fa50d8-747b-4522-ab13-96efb57082fa}" record_timestamp="1371654887221" record_key="203">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>203</key>
+<vfx_description>edict_money</vfx_description>
+<vfx_event>settlement_province_edict_money</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{f8ed6a43-bbfe-4eff-9ed0-1a6390dd1e26}" record_timestamp="1367514722979" record_key="21">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>21</key>
+<vfx_description>ambush</vfx_description>
+<vfx_event>army_ambushing</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{38d57d4f-ce9f-47ef-98bc-9f22422628e2}" record_timestamp="1372778492169" record_key="212">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>212</key>
+<vfx_description>select_tutorial</vfx_description>
+<vfx_event>tutorial_marker</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{cfc24f92-48e8-4767-95d2-ac35b8b8c69c}" record_timestamp="1371661251813" record_key="218">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>218</key>
+<vfx_description>patrol_navy</vfx_description>
+<vfx_event>navy_patrol</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{ca13ed95-1ebb-4cd4-87cb-2b659ab2c77d}" record_timestamp="1371735878801" record_key="228">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>228</key>
+<vfx_description>edict_army</vfx_description>
+<vfx_event>settlement_province_edict_military</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{bfe3ff41-e2c8-4bd8-b0e7-0792fe01590c}" record_timestamp="1373379989335" record_key="23">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>23</key>
+<vfx_description>attacking</vfx_description>
+<vfx_event>army_besieging</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{74122a38-76eb-4a25-8898-6430ffd94088}" record_timestamp="1371735878811" record_key="231">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>231</key>
+<vfx_description>edict_population</vfx_description>
+<vfx_event>settlement_province_edict_population</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{ceb97218-621b-4473-806c-6af64cf43afb}" record_timestamp="1401466465009" record_key="246">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>246</key>
+<vfx_description>destruction_fire</vfx_description>
+<vfx_event>settlement_abandoned</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{8fc1e5a6-3904-495d-90b2-0dea6f5e5493}" record_timestamp="1401466469595" record_key="247">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>247</key>
+<vfx_description>destruction_fire_res</vfx_description>
+<vfx_event>settlement_abandoned_residual_fire</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{499b62bc-df09-4fd4-808b-aa6ce1025696}" record_timestamp="1401800121788" record_key="256">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>256</key>
+<vfx_description>destruction_smoke_res</vfx_description>
+<vfx_event>settlement_abandoned_residual_smoke</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{2618239c-a984-4ae0-8757-364cdf7558a4}" record_timestamp="1405424046602" record_key="284">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>284</key>
+<vfx_description>zone_of_control</vfx_description>
+<vfx_event>zone_of_control</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{a5611e84-fdb4-4deb-8ff1-2af8839d3d87}" record_timestamp="1405424046615" record_key="293">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>293</key>
+<vfx_description>movement_extents</vfx_description>
+<vfx_event>movement_extents</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{aeaaaa49-75fd-4a21-8599-f9fad23e9479}" record_timestamp="1448288217976" record_key="303">
+<agent_filter>wizard</agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>303</key>
+<vfx_description>agent_deployed</vfx_description>
+<vfx_event>agent_deployed</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{dd546577-b90a-4ae8-ae9f-b6cfba5c6e4e}" record_timestamp="1445434723022" record_key="321">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>321</key>
+<vfx_description>army_waaagh_army</vfx_description>
+<vfx_event>army_waaagh_army</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{d850164b-de3f-4fd7-80f7-0c511a057b57}" record_timestamp="1368007970982" record_key="33">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>33</key>
+<vfx_description>defence_army</vfx_description>
+<vfx_event>army_border_defence</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{7ba074f4-bdb8-45bb-b0cf-4dec777d0627}" record_timestamp="1447858640512" record_key="331">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>331</key>
+<vfx_description>army_low_morale</vfx_description>
+<vfx_event>army_low_morale</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{ab76920e-ab90-4494-ba0a-60ca856c3fba}" record_timestamp="1448288217986" record_key="350">
+<agent_filter>wizard</agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>350</key>
+<vfx_description>agent_deployed_foreign_region</vfx_description>
+<vfx_event>agent_deployed_foreign_region</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{8c2485a8-188f-46d9-b32d-f6f64e359eb7}" record_timestamp="1448288218049" record_key="357">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>357</key>
+<vfx_description>agent_deployed_generic</vfx_description>
+<vfx_event>agent_deployed</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{6c68caf3-7032-4eb4-ac10-d8c33b13b38b}" record_timestamp="1448288218060" record_key="365">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>365</key>
+<vfx_description>agent_deployed_foreign_region_generic</vfx_description>
+<vfx_event>agent_deployed_foreign_region</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{72f15f10-9de5-498f-af35-0376c713644b}" record_timestamp="1449755241212" record_key="371">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>371</key>
+<vfx_description>army_vampire_recruitement</vfx_description>
+<vfx_event>army_vampire_recruitement</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{7b797199-8e39-4e29-8d0d-b7e53d4d2d8f}" record_timestamp="1450817570827" record_key="375">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>375</key>
+<vfx_description>advice_character_highlight</vfx_description>
+<vfx_event>advice_character_marker</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{0f0a52dd-508f-43ac-b700-b0355b339c1c}" record_timestamp="1366883900183" record_key="38">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>38</key>
+<vfx_description>buff_army</vfx_description>
+<vfx_event>army_buffed</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{212af609-6e22-433c-a4b5-1d010115e86d}" record_timestamp="1450817570876" record_key="381">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>381</key>
+<vfx_description>advice_settlement_highlight</vfx_description>
+<vfx_event>advice_settlement_marker</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{e9a15232-ee59-4dd0-8e00-01f633afcd38}" record_timestamp="1452595131802" record_key="387">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>387</key>
+<vfx_description>army_war_coordination_target_generic</vfx_description>
+<vfx_event>army_war_coordination_target</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{5d48d639-e1a3-484c-b6f6-9ce93e21c237}" record_timestamp="1455107780622" record_key="388">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>388</key>
+<vfx_description>post_battle_winner</vfx_description>
+<vfx_event>post_battle_winner</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{f21bf4ec-f73d-40af-86ba-3ba3496bdb38}" record_timestamp="1455107780622" record_key="389">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>389</key>
+<vfx_description>post_battle_looser</vfx_description>
+<vfx_event>post_battle_loser</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{06a25ed6-7fb1-40d4-8096-0e00b6fd2ad4}" record_timestamp="1455545617809" record_key="393">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter>wh_dlc03_bst_mini_khazrak_herd_brayherd</faction_filter>
+<key>393</key>
+<vfx_description>army_war_coordination_target</vfx_description>
+<vfx_event>army_war_coordination_target</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{7d3fd01e-b111-4e11-a33d-aa58b8042a04}" record_timestamp="1464188073754" record_key="400">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter>wh_dlc03_bst_beastmen_brayherd</faction_filter>
+<key>400</key>
+<vfx_description>army_war_coordination_target</vfx_description>
+<vfx_event>army_war_coordination_target</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{f122a639-6d67-4554-80da-1e00bd3a80ba}" record_timestamp="1366883900191" record_key="44">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>44</key>
+<vfx_description>debuff_army</vfx_description>
+<vfx_event>army_debuffed</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{a34ae4e4-4ad5-4ac1-a458-d7fa745e7ad1}" record_timestamp="1447771300978" record_key="5">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>5</key>
+<vfx_description>buff_army</vfx_description>
+<vfx_event>agent_buffed</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{01e6aae0-ef5e-4673-a139-87c04f685e8b}" record_timestamp="1366883900200" record_key="50">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>50</key>
+<vfx_description>desertion</vfx_description>
+<vfx_event>army_desertion</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{ce58e38c-2c1b-410f-8787-6ce40d64e194}" record_timestamp="1366883900208" record_key="52">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>52</key>
+<vfx_description>disease</vfx_description>
+<vfx_event>army_disease</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{4fcf89f7-3ba4-49d2-a4ce-c45d1dd4fbe1}" record_timestamp="1366883900217" record_key="53">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>53</key>
+<vfx_description>2xtime_army</vfx_description>
+<vfx_event>army_forced_march</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{24b9a948-39d2-4ea5-895a-1ee97f41da83}" record_timestamp="1366883900226" record_key="58">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>58</key>
+<vfx_description>attrition_army</vfx_description>
+<vfx_event>army_generic_attrition</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{efd15443-7159-4c99-a26a-20c00fee494d}" record_timestamp="1366883900234" record_key="64">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>64</key>
+<vfx_description>level_up</vfx_description>
+<vfx_event>army_level_up</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{ceb65349-26b0-4c26-b742-6b5ebfba1375}" record_timestamp="1367514723001" record_key="66">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>66</key>
+<vfx_description>raid_army</vfx_description>
+<vfx_event>army_raiding</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{8737ff6c-46e0-4575-8a24-ecc8c86b97dd}" record_timestamp="1373379989130" record_key="67">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>67</key>
+<vfx_description>sabotage</vfx_description>
+<vfx_event>army_sabotage</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{f29dcc36-bbfb-4be7-9e6e-b45968039709}" record_timestamp="1366883900261" record_key="70">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>70</key>
+<vfx_description>select_army</vfx_description>
+<vfx_event>army_selection</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{0a296447-6a64-40e9-9660-31a0dbd192a5}" record_timestamp="1452595131808" record_key="76">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter>wh_main_grn_greenskins_waaagh</faction_filter>
+<key>76</key>
+<vfx_description>army_war_coordination_target</vfx_description>
+<vfx_event>army_war_coordination_target</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{a7acb3e5-df50-41d0-a18e-8b9e445fe42a}" record_timestamp="1373379989346" record_key="84">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>84</key>
+<vfx_description>attacking</vfx_description>
+<vfx_event>navy_blockading</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{dffda463-c6da-438d-a4c6-3fffacf7ed66}" record_timestamp="1366883900288" record_key="87">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>87</key>
+<vfx_description>buff_navy</vfx_description>
+<vfx_event>navy_buffed</vfx_event>
+</campaign_vfx_lookups>
+<campaign_vfx_lookups record_uuid="{7d192f6f-7e21-49cd-8493-2516eda7f627}" record_timestamp="1366883900297" record_key="93">
+<agent_filter></agent_filter>
+<culture_filter></culture_filter>
+<faction_filter></faction_filter>
+<key>93</key>
+<vfx_description>debuff_navy</vfx_description>
+<vfx_event>navy_debuffed</vfx_event>
+</campaign_vfx_lookups>
+</dataroot>

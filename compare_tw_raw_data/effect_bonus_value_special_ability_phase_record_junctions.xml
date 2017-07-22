@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_special_ability_phase_record_junctions.xsd" export_time="Fri Oct 21 09:49:14 2016" revision="11" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>d1c96ccc-666a-4343-a31e-1e6b9be84406</edit_uuid>
+<effect_bonus_value_special_ability_phase_record_junctions record_uuid="{9a6bff64-96e4-40fe-aa24-1276cb17173e}" record_timestamp="1474282560122" record_key="wh_dlc04_effect_character_stat_enable_helmans_blight_attacks_hiddenactivewh_dlc04_unit_contat_helmans_blight">
+<bonus_value_id>active</bonus_value_id>
+<effect>wh_dlc04_effect_character_stat_enable_helmans_blight_attacks_hidden</effect>
+<special_ability_phase>wh_dlc04_unit_contat_helmans_blight</special_ability_phase>
+</effect_bonus_value_special_ability_phase_record_junctions>
+<effect_bonus_value_special_ability_phase_record_junctions record_uuid="{3de1cb78-de2c-4fb3-a6f6-b03956c621a5}" record_timestamp="1477038872530" record_key="wh_dlc06_effect_character_stat_enable_skarsniks_brew_attacksactivewh_main_unit_contact_poison">
+<bonus_value_id>active</bonus_value_id>
+<effect>wh_dlc06_effect_character_stat_enable_skarsniks_brew_attacks</effect>
+<special_ability_phase>wh_main_unit_contact_poison</special_ability_phase>
+</effect_bonus_value_special_ability_phase_record_junctions>
+<effect_bonus_value_special_ability_phase_record_junctions record_uuid="{84294e3f-5b4e-4afa-a418-f2d6f3248c7a}" record_timestamp="1470238542639" record_key="wh_main_effect_character_stat_enable_poison_attacks_hiddenactivewh_main_unit_contact_poison">
+<bonus_value_id>active</bonus_value_id>
+<effect>wh_main_effect_character_stat_enable_poison_attacks_hidden</effect>
+<special_ability_phase>wh_main_unit_contact_poison</special_ability_phase>
+</effect_bonus_value_special_ability_phase_record_junctions>
+<effect_bonus_value_special_ability_phase_record_junctions record_uuid="{2d47e3d4-6f7b-4ad0-8742-72ee736f643a}" record_timestamp="1450192684335" record_key="wh_main_effect_character_stat_enable_poison_attacksactivewh_main_unit_contact_poison">
+<bonus_value_id>active</bonus_value_id>
+<effect>wh_main_effect_character_stat_enable_poison_attacks</effect>
+<special_ability_phase>wh_main_unit_contact_poison</special_ability_phase>
+</effect_bonus_value_special_ability_phase_record_junctions>
+</dataroot>

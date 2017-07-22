@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="agent_to_agent_attributes.xsd" export_time="Wed Apr 6 10:04:52 2016" revision="24" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e8e9e9d0-78d0-4154-ae2d-2a7303b72e9b</edit_uuid>
+<agent_to_agent_attributes record_uuid="{9e696e87-63d7-460d-b545-afecc8994722}" record_timestamp="1426003218911" record_key="authoritychampion">
+<agent>champion</agent>
+<attribute>authority</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{986216ab-33af-4ecc-bd15-ef30538c9834}" record_timestamp="1374046669916" record_key="authoritydignitary">
+<agent>dignitary</agent>
+<attribute>authority</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{08841a2d-8ebf-48d4-af93-43b130a20f08}" record_timestamp="1426867019253" record_key="authorityengineer">
+<agent>engineer</agent>
+<attribute>authority</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{b5cb2275-063a-47e3-a928-6b1bda7c4876}" record_timestamp="1374046669981" record_key="authoritygeneral">
+<agent>general</agent>
+<attribute>authority</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{50f404aa-d842-4d80-b6d3-429df1f87eb7}" record_timestamp="1426867019253" record_key="authorityrunesmith">
+<agent>runesmith</agent>
+<attribute>authority</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{182224a3-10d9-4c27-bb2f-39d0e3d72a10}" record_timestamp="1426003218911" record_key="authorityspy">
+<agent>spy</agent>
+<attribute>authority</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{cd98d231-5be6-4c87-979b-aa6f192dcf5c}" record_timestamp="1426867019253" record_key="authoritywizard">
+<agent>wizard</agent>
+<attribute>authority</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{0a824302-560c-45aa-8ebd-18c40d841a8c}" record_timestamp="1426003218911" record_key="subterfugechampion">
+<agent>champion</agent>
+<attribute>subterfuge</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{0028c9ba-d735-4891-9e3d-269109737e71}" record_timestamp="1426003218911" record_key="subterfugedignitary">
+<agent>dignitary</agent>
+<attribute>subterfuge</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{e917f8f4-45fb-426d-b0b9-8670543987f7}" record_timestamp="1426867019253" record_key="subterfugeengineer">
+<agent>engineer</agent>
+<attribute>subterfuge</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{7a278e41-5ca6-49a0-b446-30a09ebb454d}" record_timestamp="1374046670011" record_key="subterfugegeneral">
+<agent>general</agent>
+<attribute>subterfuge</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{defe8b06-a4b3-43a8-b6f5-c01daf193835}" record_timestamp="1426867019253" record_key="subterfugerunesmith">
+<agent>runesmith</agent>
+<attribute>subterfuge</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{430f35ef-a241-41fd-881c-469af1400747}" record_timestamp="1374046670076" record_key="subterfugespy">
+<agent>spy</agent>
+<attribute>subterfuge</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{e680896a-d2c7-4c1d-85ac-fb65a0333b1b}" record_timestamp="1426867019253" record_key="subterfugewizard">
+<agent>wizard</agent>
+<attribute>subterfuge</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{4514d9ca-cdae-40fc-8b1a-6ac9cb86e872}" record_timestamp="1374046669886" record_key="zealchampion">
+<agent>champion</agent>
+<attribute>zeal</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{728775df-0819-4c12-a5b3-14f3a4a5e095}" record_timestamp="1426003218911" record_key="zealdignitary">
+<agent>dignitary</agent>
+<attribute>zeal</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{eb4086f9-c30b-42d7-be96-b46fbdfbc580}" record_timestamp="1426867019253" record_key="zealengineer">
+<agent>engineer</agent>
+<attribute>zeal</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{45e17f41-2ef7-487f-ad96-ea169f3bf645}" record_timestamp="1374046670046" record_key="zealgeneral">
+<agent>general</agent>
+<attribute>zeal</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{234253d6-9d3d-4030-8824-78d1c7e89b71}" record_timestamp="1426867019253" record_key="zealrunesmith">
+<agent>runesmith</agent>
+<attribute>zeal</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{753c5421-2a43-4784-9930-d064245d11da}" record_timestamp="1426003218911" record_key="zealspy">
+<agent>spy</agent>
+<attribute>zeal</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+<agent_to_agent_attributes record_uuid="{187a2489-aec4-4980-b3b7-e5c4a10d96da}" record_timestamp="1426867019253" record_key="zealwizard">
+<agent>wizard</agent>
+<attribute>zeal</attribute>
+<default_value>3</default_value>
+</agent_to_agent_attributes>
+</dataroot>

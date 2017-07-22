@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_battle_scenes.xsd" export_time="Wed Nov 16 18:41:15 2016" revision="14" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>814e604d-59fe-46ee-ae5e-3e8cc48c2e58</edit_uuid>
+<campaign_battle_scenes record_uuid="{3611f88a-294a-48e6-81e7-c3db021cf268}" record_timestamp="1454587610610" record_key="11">
+<bmd>prefabs/campaign/chaos_battle.bmd</bmd>
+<colour>11</colour>
+<culture></culture>
+<environment>terrain/campaigns/warhammer_map_1/lighting/chaos_wastes.environment</environment>
+</campaign_battle_scenes>
+<campaign_battle_scenes record_uuid="{15edeb9a-865b-4985-b987-313679fff5fa}" record_timestamp="1454587610539" record_key="111">
+<bmd>prefabs/campaign/empire_battle.bmd</bmd>
+<colour>111</colour>
+<culture></culture>
+<environment>terrain/campaigns/warhammer_map_1/lighting/empire.environment</environment>
+</campaign_battle_scenes>
+<campaign_battle_scenes record_uuid="{6a6bcb53-e45e-4e07-b3ed-4aaa5d3d5a68}" record_timestamp="1461937947150" record_key="111wh_dlc03_bst_beastmen">
+<bmd>prefabs/campaign/beastmen_battle.bmd</bmd>
+<colour>111</colour>
+<culture>wh_dlc03_bst_beastmen</culture>
+<environment>terrain/campaigns/warhammer_map_1/lighting/chaos_wastes.environment</environment>
+</campaign_battle_scenes>
+<campaign_battle_scenes record_uuid="{4b5d948b-6021-43dd-9c0f-5a8dfdb6f109}" record_timestamp="1472714687934" record_key="111wh_dlc05_wef_wood_elves">
+<bmd>prefabs/campaign/woodelf_battle.bmd</bmd>
+<colour>111</colour>
+<culture>wh_dlc05_wef_wood_elves</culture>
+<environment>terrain/campaigns/wh_dlc05_wood_elves_map_1/lighting/woodelves.environment</environment>
+</campaign_battle_scenes>
+<campaign_battle_scenes record_uuid="{67c95ceb-be4c-4206-b9d7-e94ec6c6f3dc}" record_timestamp="1454587610588" record_key="111wh_main_brt_bretonnia">
+<bmd>prefabs/campaign/bretonnia_battle.bmd</bmd>
+<colour>111</colour>
+<culture>wh_main_brt_bretonnia</culture>
+<environment>terrain/campaigns/warhammer_map_1/lighting/bretonnia.environment</environment>
+</campaign_battle_scenes>
+<campaign_battle_scenes record_uuid="{4ce44546-cc27-4a0d-a4e2-8fa7a087e4e1}" record_timestamp="1454587610599" record_key="111wh_main_chs_chaos">
+<bmd>prefabs/campaign/chaos_battle.bmd</bmd>
+<colour>111</colour>
+<culture>wh_main_chs_chaos</culture>
+<environment>terrain/campaigns/warhammer_map_1/lighting/chaos_wastes.environment</environment>
+</campaign_battle_scenes>
+<campaign_battle_scenes record_uuid="{5c3a56ed-378e-4031-a4bf-a42f3b8acd1c}" record_timestamp="1454587610544" record_key="111wh_main_vmp_vampire_counts">
+<bmd>prefabs/campaign/vampire_battle.bmd</bmd>
+<colour>111</colour>
+<culture>wh_main_vmp_vampire_counts</culture>
+<environment>terrain/campaigns/warhammer_map_1/lighting/empire.environment</environment>
+</campaign_battle_scenes>
+<campaign_battle_scenes record_uuid="{47604ec7-0520-451c-a188-f36a53e91d6a}" record_timestamp="1454587610576" record_key="148">
+<bmd>prefabs/campaign/mountains_greenskins_battle.bmd</bmd>
+<colour>148</colour>
+<culture></culture>
+<environment>terrain/campaigns/warhammer_map_1/lighting/badland.environment</environment>
+</campaign_battle_scenes>
+<campaign_battle_scenes record_uuid="{5acf6173-3345-4992-bd1c-7a14f239bf90}" record_timestamp="1454587610568" record_key="220">
+<bmd>prefabs/campaign/mountains_dwarf_battle.bmd</bmd>
+<colour>220</colour>
+<culture></culture>
+<environment>terrain/campaigns/warhammer_map_1/lighting/empire.environment</environment>
+</campaign_battle_scenes>
+<campaign_battle_scenes record_uuid="{f503e72a-9ec4-4146-8729-42e15bd8ac96}" record_timestamp="1449683115458" record_key="255">
+<bmd>prefabs/campaign/underground_battle.bmd</bmd>
+<colour>255</colour>
+<culture></culture>
+<environment>terrain/campaigns/warhammer_map_1/lighting/prebattle_underground.environment</environment>
+</campaign_battle_scenes>
+<campaign_battle_scenes record_uuid="{f0132d63-63e1-48cf-9408-6f6b80ba4aaa}" record_timestamp="1468499453207" record_key="255wh_dlc03_bst_beastmen">
+<bmd>prefabs/campaign/beastmen_beastpath_battle.bmd</bmd>
+<colour>255</colour>
+<culture>wh_dlc03_bst_beastmen</culture>
+<environment>terrain/campaigns/wh_dlc03_beastmen_map_1/lighting/beastmen_prebattle.environment</environment>
+</campaign_battle_scenes>
+<campaign_battle_scenes record_uuid="{345fd563-9b51-4042-b115-50f0adea07c2}" record_timestamp="1479321675427" record_key="255wh_dlc05_wef_wood_elves">
+<bmd>prefabs/campaign/woodelf_worldroot_battle.bmd</bmd>
+<colour>255</colour>
+<culture>wh_dlc05_wef_wood_elves</culture>
+<environment>terrain/campaigns/wh_dlc05_wood_elves_map_1/lighting/worldroot.environment</environment>
+</campaign_battle_scenes>
+<campaign_battle_scenes record_uuid="{0bf57df9-7965-4874-b264-84e146be454a}" record_timestamp="1454587610552" record_key="40">
+<bmd>prefabs/campaign/norsca_battle.bmd</bmd>
+<colour>40</colour>
+<culture></culture>
+<environment>terrain/campaigns/warhammer_map_1/lighting/norsca.environment</environment>
+</campaign_battle_scenes>
+<campaign_battle_scenes record_uuid="{33d4edc8-f660-436f-967c-593e0100f714}" record_timestamp="1454587610560" record_key="96">
+<bmd>prefabs/campaign/badlands_battle.bmd</bmd>
+<colour>96</colour>
+<culture></culture>
+<environment>terrain/campaigns/warhammer_map_1/lighting/badland.environment</environment>
+</campaign_battle_scenes>
+</dataroot>

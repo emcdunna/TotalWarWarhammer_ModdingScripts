@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_battle_presets.xsd" export_time="Fri Oct 21 08:36:48 2016" revision="80" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e4cb8f3f-c3ae-46e6-8164-95b6c021a415</edit_uuid>
+<campaign_battle_presets record_uuid="{52101e58-47a8-4a98-81f7-b25786c63a12}" record_timestamp="1477035408551" record_key="wh_main_land_battle_brt_forest_a">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.38</coord_x>
+<coord_y>0.603</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_brt_forest_a</key>
+<onscreen_name state="APPROVED" last_approved_text="Bilbali" last_edit_user="bob">Bilbali</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/bilbali.png</screenshot_path>
+<tile_upgrade></tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{a41db304-61e1-4e91-b962-db61d19b5c43}" record_timestamp="1477035408551" record_key="wh_main_land_battle_brt_forest_d">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.425</coord_x>
+<coord_y>0.537</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_brt_forest_d</key>
+<onscreen_name state="APPROVED" last_approved_text="Castle Carcasonne" last_edit_user="bob">Castle Carcasonne</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/castle_carcassonne.png</screenshot_path>
+<tile_upgrade></tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{61d6ecbf-5fa7-44de-8436-1a67b6e62780}" record_timestamp="1477035408551" record_key="wh_main_land_battle_brt_hills_b">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.364</coord_x>
+<coord_y>0.456</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_brt_hills_b</key>
+<onscreen_name state="APPROVED" last_approved_text="Bordeleaux" last_edit_user="bob">Bordeleaux</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/bordeleaux.png</screenshot_path>
+<tile_upgrade>faction:brt</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{e341e45f-ab93-42c2-a2bd-9ff7e1cee690}" record_timestamp="1477035408552" record_key="wh_main_land_battle_brt_hills_d">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.389</coord_x>
+<coord_y>0.535</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_brt_hills_d</key>
+<onscreen_name state="APPROVED" last_approved_text="Brionne" last_edit_user="bob">Brionne</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/brionne.png</screenshot_path>
+<tile_upgrade>faction:brt</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{4595a738-5061-459c-b657-bb73630b013f}" record_timestamp="1477035408552" record_key="wh_main_land_battle_brt_plains_a">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.436</coord_x>
+<coord_y>0.507</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_brt_plains_a</key>
+<onscreen_name state="APPROVED" last_approved_text="Lyonesse" last_edit_user="bob">Lyonesse</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/lyonesse.png</screenshot_path>
+<tile_upgrade></tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{bef82d90-351b-47c9-9010-dcf186cb92ec}" record_timestamp="1477035408552" record_key="wh_main_land_battle_brt_plains_c">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.42</coord_x>
+<coord_y>0.498</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_brt_plains_c</key>
+<onscreen_name state="APPROVED" last_approved_text="Quenelles" last_edit_user="bob">Quenelles</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/quenelles.png</screenshot_path>
+<tile_upgrade></tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{1df0fcd3-8226-4361-b0f2-de2f8f7f83a8}" record_timestamp="1477035408552" record_key="wh_main_land_battle_dwf_mtn_pass_9">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.539</coord_x>
+<coord_y>0.463</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_dwf_mtn_pass_9</key>
+<onscreen_name state="APPROVED" last_approved_text="Wissenburg" last_edit_user="bob">Wissenburg</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/wissenburg.png</screenshot_path>
+<tile_upgrade></tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{8fbdc4bf-16d5-490a-8308-010b2e7b2e44}" record_timestamp="1477035408552" record_key="wh_main_land_battle_dwf_mtn_pass_outfield_city_01">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.557</coord_x>
+<coord_y>0.468</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_dwf_mtn_pass_outfield_city_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Pfeildorf" last_edit_user="bob">Pfeildorf</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/pfeildorf.png</screenshot_path>
+<tile_upgrade>faction:dwf</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{e8f0d22b-1ef5-4f33-9922-2bc4bef5b613}" record_timestamp="1477035408553" record_key="wh_main_land_battle_emp_forest_a">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.465</coord_x>
+<coord_y>0.391</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_emp_forest_a</key>
+<onscreen_name state="APPROVED" last_approved_text="Eilhart" last_edit_user="bob">Eilhart</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/eilhart.png</screenshot_path>
+<tile_upgrade></tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{9ff8bc41-5be9-4401-9f95-e189d2c753d9}" record_timestamp="1477035408553" record_key="wh_main_land_battle_emp_hills_a">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.488</coord_x>
+<coord_y>0.372</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_emp_hills_a</key>
+<onscreen_name state="APPROVED" last_approved_text="Altdorf" last_edit_user="bob">Altdorf</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/altdorf.png</screenshot_path>
+<tile_upgrade>faction:emp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{f7ce54bf-22c8-4885-9218-0808cc14e6a6}" record_timestamp="1477035408553" record_key="wh_main_land_battle_emp_hills_d">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.483</coord_x>
+<coord_y>0.296</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_emp_hills_d</key>
+<onscreen_name state="APPROVED" last_approved_text="Weismund" last_edit_user="bob">Weismund</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/weismund.png</screenshot_path>
+<tile_upgrade></tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{83854210-b91c-4a03-a707-aea71b120b58}" record_timestamp="1477035408553" record_key="wh_main_land_battle_emp_plains_a">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.617</coord_x>
+<coord_y>0.23</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_emp_plains_a</key>
+<onscreen_name state="APPROVED" last_approved_text="Castle von Rauken" last_edit_user="bob">Castle von Rauken</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/castle_von_rauken.png</screenshot_path>
+<tile_upgrade></tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{2e41b427-e1fb-4d20-b719-4de0fb42be79}" record_timestamp="1477035408554" record_key="wh_main_land_battle_emp_plains_c">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.546</coord_x>
+<coord_y>0.437</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_emp_plains_c</key>
+<onscreen_name state="APPROVED" last_approved_text="Averheim" last_edit_user="bob">Averheim</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/averheim.png</screenshot_path>
+<tile_upgrade></tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{b1bd5e8e-1d4d-4bd2-9809-c5b8452df47d}" record_timestamp="1477035408554" record_key="wh_main_land_battle_emp_wastes_a">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.561</coord_x>
+<coord_y>0.376</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_emp_wastes_a</key>
+<onscreen_name state="APPROVED" last_approved_text="Talabheim" last_edit_user="bob">Talabheim</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/talabheim.png</screenshot_path>
+<tile_upgrade></tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{236bf000-90bf-45ce-ae59-b3adeaeae23f}" record_timestamp="1477035408554" record_key="wh_main_land_battle_grn_mtn_pass_outfield_city_05">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.59</coord_x>
+<coord_y>0.647</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_grn_mtn_pass_outfield_city_05</key>
+<onscreen_name state="APPROVED" last_approved_text="Ekrund" last_edit_user="bob">Ekrund</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/ekrund.png</screenshot_path>
+<tile_upgrade>faction:grn</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{e29a12da-40c5-4fa5-b7eb-cd9ddf153f05}" record_timestamp="1477035408554" record_key="wh_main_land_battle_grn_plains_a">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.62</coord_x>
+<coord_y>0.636</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_grn_plains_a</key>
+<onscreen_name state="APPROVED" last_approved_text="Bitterstone Mine" last_edit_user="bob">Bitterstone Mine</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/bitterstone_mine.png</screenshot_path>
+<tile_upgrade>faction:grn</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{33e1a78e-ab61-4448-a698-c93d316cf962}" record_timestamp="1477035408554" record_key="wh_main_land_battle_grn_plains_c">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.595</coord_x>
+<coord_y>0.616</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_grn_plains_c</key>
+<onscreen_name state="APPROVED" last_approved_text="Stonemine Tower" last_edit_user="bob">Stonemine Tower</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/stonemine_tower.png</screenshot_path>
+<tile_upgrade></tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{3a0cc579-9c12-4368-a463-d0498ea8a046}" record_timestamp="1477035408555" record_key="wh_main_land_battle_nor_forest_c">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.511</coord_x>
+<coord_y>0.057</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_nor_forest_c</key>
+<onscreen_name state="APPROVED" last_approved_text="Varg Camp" last_edit_user="bob">Varg Camp</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/varg_camp.png</screenshot_path>
+<tile_upgrade></tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{62dda9c4-4f45-4ef3-80bc-0232b5ef9fca}" record_timestamp="1477035408555" record_key="wh_main_land_battle_nor_forest_d">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.448</coord_x>
+<coord_y>0.139</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_nor_forest_d</key>
+<onscreen_name state="APPROVED" last_approved_text="Doomkeep" last_edit_user="bob">Doomkeep</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/doom_keep.png</screenshot_path>
+<tile_upgrade></tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{d70a0d55-3a39-44c6-81f2-c7659155e42b}" record_timestamp="1477035408555" record_key="wh_main_land_battle_nor_hills_a">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.635</coord_x>
+<coord_y>0.068</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_nor_hills_a</key>
+<onscreen_name state="APPROVED" last_approved_text="Winter Pyre" last_edit_user="bob">Winter Pyre</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/winter_pyre.png</screenshot_path>
+<tile_upgrade>faction:nor</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{af5ff223-aa99-46fb-b822-ee3c6d7e0a4f}" record_timestamp="1477035408555" record_key="wh_main_land_battle_nor_plains_c">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.581</coord_x>
+<coord_y>0.083</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_nor_plains_c</key>
+<onscreen_name state="APPROVED" last_approved_text="Aesling's Conclave" last_edit_user="bob">Aesling's Conclave</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/aeslings_conclave.png</screenshot_path>
+<tile_upgrade>faction:nor</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{dea30f24-2e6e-4570-81a1-48965c24f154}" record_timestamp="1477035408555" record_key="wh_main_land_battle_vmp_marsh_c">
+<battle_type>land_normal</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.645</coord_x>
+<coord_y>0.4</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Land Battle" last_edit_user="bob">Land Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_land_battle_vmp_marsh_c</key>
+<onscreen_name state="APPROVED" last_approved_text="Bechafen" last_edit_user="bob">Bechafen</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/bechafen.png</screenshot_path>
+<tile_upgrade>faction:vmp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{afe7187d-33f4-4e0b-a70f-d7c650b0952f}" record_timestamp="1477035408556" record_key="wh_main_siege_city_a_brt_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.375</coord_x>
+<coord_y>0.376</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_a_brt_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Castle Artois - Bretonnia" last_edit_user="bob">Castle Artois - Bretonnia</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/castle_artois_siege.png</screenshot_path>
+<tile_upgrade>faction:brt</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{d1323fe8-f68c-4da4-9b24-f79c5313c3f8}" record_timestamp="1477035408556" record_key="wh_main_siege_city_a_dwf_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.499</coord_x>
+<coord_y>0.468</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_a_dwf_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Karak Norn - Dwarfs" last_edit_user="bob">Karak Norn - Dwarfs</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/karak_norn_siege.png</screenshot_path>
+<tile_upgrade>faction:dwf</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{8c7a809d-cfb0-481b-8d8e-71b162c4c374}" record_timestamp="1477035408556" record_key="wh_main_siege_city_a_emp_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.636</coord_x>
+<coord_y>0.273</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_a_emp_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Bechafen - Empire" last_edit_user="bob">Bechafen - Empire</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/bechafen_siege.png</screenshot_path>
+<tile_upgrade>faction:emp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{d875ab46-1300-45c4-aba4-998c9e7ea88c}" record_timestamp="1477035408556" record_key="wh_main_siege_city_a_grn_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.767</coord_x>
+<coord_y>0.45</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_a_grn_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Mount Gunbad - Greenskins" last_edit_user="bob">Mount Gunbad - Greenskins</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/mount_gunbad_siege.png</screenshot_path>
+<tile_upgrade>faction:grn</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{bf1c9185-24a7-40b7-809e-ebe1f59ad7c0}" record_timestamp="1477035408557" record_key="wh_main_siege_city_a_vmp_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.675</coord_x>
+<coord_y>0.414</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_a_vmp_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Castle Drakenhof - Vampire Counts" last_edit_user="bob">Castle Drakenhof - Vampire Counts</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/castle_drakenhof_siege.png</screenshot_path>
+<tile_upgrade>faction:vmp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{7c8b6032-3e2e-4368-94fd-107683f45c36}" record_timestamp="1477035408557" record_key="wh_main_siege_city_b_brt_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.374</coord_x>
+<coord_y>0.327</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_b_brt_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Couronne - Bretonnia" last_edit_user="bob">Couronne - Bretonnia</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/couronne_siege.png</screenshot_path>
+<tile_upgrade>faction:brt</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{9c737acc-099d-4f4c-b66a-2026884a8fcf}" record_timestamp="1477035408557" record_key="wh_main_siege_city_b_dwf_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.63</coord_x>
+<coord_y>0.547</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_b_dwf_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Barak Varr - Dwarfs" last_edit_user="bob">Barak Varr - Dwarfs</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/barak_varr_siege.png</screenshot_path>
+<tile_upgrade>faction:dwf</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{298fc0e1-af8e-4ecd-9b5e-aa5d3c01781b}" record_timestamp="1477035408557" record_key="wh_main_siege_city_b_emp_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.68</coord_x>
+<coord_y>0.239</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_b_emp_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Kislev - Empire" last_edit_user="bob">Kislev - Empire</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/kislev_siege.png</screenshot_path>
+<tile_upgrade>faction:emp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{eadbbf56-a6f2-4a00-943d-6bb563c777f4}" record_timestamp="1477035408557" record_key="wh_main_siege_city_b_grn_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.756</coord_x>
+<coord_y>0.635</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_b_grn_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Karak Azul - Greenskins" last_edit_user="bob">Karak Azul - Greenskins</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/karak_azul_siege.png</screenshot_path>
+<tile_upgrade>faction:grn</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{3b454187-5986-48b6-adfb-41520aa185f7}" record_timestamp="1477035408558" record_key="wh_main_siege_city_b_vmp_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.647</coord_x>
+<coord_y>0.392</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_b_vmp_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Castle Templehof - Vampire Counts" last_edit_user="bob">Castle Templehof - Vampire Counts</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/castle_templehof_siege.png</screenshot_path>
+<tile_upgrade>faction:vmp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{cf36183a-ad77-44ec-ac95-20d8d0a1853f}" record_timestamp="1477035408558" record_key="wh_main_siege_city_c_brt_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.331</coord_x>
+<coord_y>0.387</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_c_brt_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Lyonesse - Bretonnia" last_edit_user="bob">Lyonesse - Bretonnia</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/lyonesse_siege.png</screenshot_path>
+<tile_upgrade>faction:brt</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{32a78973-1197-4403-b51c-214c12f7f3b7}" record_timestamp="1477035408558" record_key="wh_main_siege_city_c_dwf_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.553</coord_x>
+<coord_y>0.518</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_c_dwf_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Karak Hirn - Dwarfs" last_edit_user="bob">Karak Hirn - Dwarfs</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/karak_hirn_siege.png</screenshot_path>
+<tile_upgrade>faction:dwf</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{73db872e-411a-43e9-b350-7fd4ddcbfca7}" record_timestamp="1477035408558" record_key="wh_main_siege_city_c_emp_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.579</coord_x>
+<coord_y>0.431</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_c_emp_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Averheim - Empire" last_edit_user="bob">Averheim - Empire</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/averheim_siege.png</screenshot_path>
+<tile_upgrade>faction:emp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{fc40968a-25a5-41d0-a90d-69956eef83ba}" record_timestamp="1477035408559" record_key="wh_main_siege_city_c_grn_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.589</coord_x>
+<coord_y>0.641</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_c_grn_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Ekrund - Greenskins" last_edit_user="bob">Ekrund - Greenskins</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/ekrund_siege.png</screenshot_path>
+<tile_upgrade>faction:grn</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{67cd067a-aefe-4a60-b6cf-4a3659f3559d}" record_timestamp="1477035408559" record_key="wh_main_siege_city_c_vmp_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.598</coord_x>
+<coord_y>0.186</coord_y>
+<creep_override>vampire</creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_c_vmp_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Erengrad - Vampire Counts" last_edit_user="bob">Erengrad - Vampire Counts</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/erengrad_siege.png</screenshot_path>
+<tile_upgrade>faction:vmp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{00080a5f-5230-492b-9633-78e3626d8cfe}" record_timestamp="1477035408559" record_key="wh_main_siege_city_d_brt_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.362</coord_x>
+<coord_y>0.453</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_d_brt_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Bordeleaux - Bretonnia" last_edit_user="bob">Bordeleaux - Bretonnia</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/bordeleaux_siege.png</screenshot_path>
+<tile_upgrade>faction:brt</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{47cd75b9-49f6-44a1-90b0-feb1ee4ffaab}" record_timestamp="1477035408559" record_key="wh_main_siege_city_d_dwf_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.708</coord_x>
+<coord_y>0.368</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_d_dwf_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Karak Kadrin - Dwarfs" last_edit_user="bob">Karak Kadrin - Dwarfs</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/karak_kadrin_siege.png</screenshot_path>
+<tile_upgrade>faction:dwf</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{8136ac48-84df-4299-92bf-858ee8a2388a}" record_timestamp="1477035408560" record_key="wh_main_siege_city_d_emp_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.64</coord_x>
+<coord_y>0.512</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_d_emp_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Akendorf - Empire" last_edit_user="bob">Akendorf - Empire</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/akendorf_siege.png</screenshot_path>
+<tile_upgrade>faction:emp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{95b6eda6-70de-4662-b2e2-db3bc1671a7b}" record_timestamp="1477035408560" record_key="wh_main_siege_city_d_grn_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.586</coord_x>
+<coord_y>0.739</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_d_grn_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Galbaraz - Greenskins" last_edit_user="bob">Galbaraz - Greenskins</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/galbaraz_siege.png</screenshot_path>
+<tile_upgrade>faction:grn</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{b8066568-fdea-4945-ab0d-122f75127126}" record_timestamp="1477035408560" record_key="wh_main_siege_city_d_vmp_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.415</coord_x>
+<coord_y>0.356</coord_y>
+<creep_override>vampire</creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_d_vmp_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Marienburg - Vampire Counts" last_edit_user="bob">Marienburg - Vampire Counts</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/marienburg_siege.png</screenshot_path>
+<tile_upgrade>faction:vmp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{24c5ef04-7094-46e7-a664-bfd3f13d1da2}" record_timestamp="1477035408560" record_key="wh_main_siege_city_e_brt_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.393</coord_x>
+<coord_y>0.428</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_e_brt_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Castle Bastonne - Bretonnia" last_edit_user="bob">Castle Bastonne - Bretonnia</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/castle_bastonne_siege.png</screenshot_path>
+<tile_upgrade>faction:brt</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{bb32a0e3-ac13-4d6d-aa80-aebc12e79977}" record_timestamp="1477035408560" record_key="wh_main_siege_city_e_dwf_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.695</coord_x>
+<coord_y>0.434</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_e_dwf_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Zhufbar - Dwarfs" last_edit_user="bob">Zhufbar - Dwarfs</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/zhufbar_siege.png</screenshot_path>
+<tile_upgrade>faction:dwf</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{85d9f35d-76a9-46c7-8aa6-012606f02b55}" record_timestamp="1477035408560" record_key="wh_main_siege_city_e_emp_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.489</coord_x>
+<coord_y>0.366</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_e_emp_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Altdorf - Empire" last_edit_user="bob">Altdorf - Empire</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/altdorf_siege.png</screenshot_path>
+<tile_upgrade>faction:emp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{f5893a78-3026-48b9-8603-23bae1817f67}" record_timestamp="1477035408560" record_key="wh_main_siege_city_e_grn_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.707</coord_x>
+<coord_y>0.707</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_e_grn_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Karak Azgal - Greenskins" last_edit_user="bob">Karak Azgal - Greenskins</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/karak_azgal_siege.png</screenshot_path>
+<tile_upgrade>faction:grn</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{8deae88d-39a5-4db1-8448-88285c824059}" record_timestamp="1477035408560" record_key="wh_main_siege_city_e_vmp_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.587</coord_x>
+<coord_y>0.253</coord_y>
+<creep_override>vampire</creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_e_vmp_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Wolfenburg - Vampire Counts" last_edit_user="bob">Wolfenburg - Vampire Counts</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/wolfenburg_siege.png</screenshot_path>
+<tile_upgrade>faction:vmp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{5624b90d-e675-4794-ae2b-566bcdcf80c2}" record_timestamp="1477035408560" record_key="wh_main_siege_city_f_brt_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.448</coord_x>
+<coord_y>0.464</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_f_brt_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Parravon - Bretonnia" last_edit_user="bob">Parravon - Bretonnia</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/parravon_siege.png</screenshot_path>
+<tile_upgrade>faction:brt</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{14fa4136-2336-40b9-9e28-00742f1dbd3b}" record_timestamp="1477035408561" record_key="wh_main_siege_city_f_dwf_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.521</coord_x>
+<coord_y>0.558</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_f_dwf_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Karak Izor - Dwarfs" last_edit_user="bob">Karak Izor - Dwarfs</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/karak_izor_siege.png</screenshot_path>
+<tile_upgrade>faction:dwf</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{db3dfae4-1a1c-497f-98fd-12c04797256a}" record_timestamp="1477035408561" record_key="wh_main_siege_city_f_emp_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.642</coord_x>
+<coord_y>0.17</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_f_emp_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Fort Ostrosk - Empire" last_edit_user="bob">Fort Ostrosk - Empire</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/fort_ostrosk_siege.png</screenshot_path>
+<tile_upgrade>faction:emp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{55c58e12-3095-45d9-a6dc-58abe1d8ccca}" record_timestamp="1477035408561" record_key="wh_main_siege_city_f_grn_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.72</coord_x>
+<coord_y>0.627</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_f_grn_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Karak Eight Peaks - Greenskins" last_edit_user="bob">Karak Eight Peaks - Greenskins</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/karak_eight_peaks_siege.png</screenshot_path>
+<tile_upgrade>faction:grn</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{9699b6b6-f530-4e54-87a3-1854bb4bb0e0}" record_timestamp="1477035408561" record_key="wh_main_siege_city_f_vmp_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.567</coord_x>
+<coord_y>0.304</coord_y>
+<creep_override>vampire</creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_f_vmp_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Talabheim - Vampire Counts" last_edit_user="bob">Talabheim - Vampire Counts</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/talabheim_siege.png</screenshot_path>
+<tile_upgrade>faction:vmp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{4cce0fce-24f4-4beb-9544-f6adde2a1bde}" record_timestamp="1477035408561" record_key="wh_main_siege_city_g_brt_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.428</coord_x>
+<coord_y>0.563</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_g_brt_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Castle Carcassonne - Bretonnia" last_edit_user="bob">Castle Carcassonne - Bretonnia</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/castle_carcassonne_siege.png</screenshot_path>
+<tile_upgrade>faction:brt</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{f302fd50-5f1b-4acc-b6f3-b353b1a93a84}" record_timestamp="1477035408561" record_key="wh_main_siege_city_g_dwf_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.437</coord_x>
+<coord_y>0.416</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_g_dwf_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Karak Ziflin - Dwarfs" last_edit_user="bob">Karak Ziflin - Dwarfs</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/karak_ziflin_siege.png</screenshot_path>
+<tile_upgrade>faction:dwf</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{f403e70d-3cfe-4f94-b616-db4d9e39d0d3}" record_timestamp="1477035408561" record_key="wh_main_siege_city_g_emp_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.562</coord_x>
+<coord_y>0.287</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_g_emp_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Hergig - Empire" last_edit_user="bob">Hergig - Empire</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/hergig_siege.png</screenshot_path>
+<tile_upgrade>faction:emp</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{df540e5f-2ca6-48ed-a4ee-0169df7cd17f}" record_timestamp="1477035408561" record_key="wh_main_siege_city_g_grn_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.734</coord_x>
+<coord_y>0.3</coord_y>
+<creep_override></creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_g_grn_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Karak Ungor - Greenskins" last_edit_user="bob">Karak Ungor - Greenskins</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/karak_ungor_siege.png</screenshot_path>
+<tile_upgrade>faction:grn</tile_upgrade>
+</campaign_battle_presets>
+<campaign_battle_presets record_uuid="{69f2b0bd-4ae9-44af-a163-72d39f4990c7}" record_timestamp="1477035408561" record_key="wh_main_siege_city_g_vmp_01">
+<battle_type>settlement_standard</battle_type>
+<campaign_map>1564135556</campaign_map>
+<coord_x>0.52</coord_x>
+<coord_y>0.212</coord_y>
+<creep_override>vampire</creep_override>
+<description state="APPROVED" last_approved_text="Siege Battle" last_edit_user="bob">Siege Battle</description>
+<is_unique_settlement>0</is_unique_settlement>
+<key>wh_main_siege_city_g_vmp_01</key>
+<onscreen_name state="APPROVED" last_approved_text="Salzenmund - Vampire Counts" last_edit_user="bob">Salzenmund - Vampire Counts</onscreen_name>
+<screenshot_path>ui/frontend ui/battle_map_images/salzenmund_siege.png</screenshot_path>
+<tile_upgrade>faction:vmp</tile_upgrade>
+</campaign_battle_presets>
+</dataroot>

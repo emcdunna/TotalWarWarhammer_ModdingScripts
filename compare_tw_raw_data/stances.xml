@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="stances.xsd" export_time="Fri Dec 9 12:14:36 2016" revision="13" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>17d047c8-0345-4882-9209-cc31f6ab7ced</edit_uuid>
+<stances record_uuid="{4d611eda-8a42-4957-a231-68a92237357f}" record_timestamp="1481285675538" record_key="client_state">
+<key>client_state</key>
+<onscreen state="APPROVED" last_approved_text="Client State" last_edit_user="bob">Client State</onscreen>
+</stances>
+<stances record_uuid="{276baa53-678d-4941-ba2c-b71cc5714c8b}" record_timestamp="1481285675569" record_key="defensive_allies">
+<key>defensive_allies</key>
+<onscreen state="APPROVED" last_approved_text="Defensive Alliance" last_edit_user="bob">Defensive Alliance</onscreen>
+</stances>
+<stances record_uuid="{50eeba7c-9a38-4072-be9e-5f458f1bf723}" record_timestamp="1481285675599" record_key="master">
+<key>master</key>
+<onscreen state="APPROVED" last_approved_text="Overlord" last_edit_user="bob">Overlord</onscreen>
+</stances>
+<stances record_uuid="{d870f2f3-39ae-4b33-9397-59d42ff1ca6b}" record_timestamp="1481285675630" record_key="military_allies">
+<key>military_allies</key>
+<onscreen state="APPROVED" last_approved_text="Allied" last_edit_user="bob">Allied</onscreen>
+</stances>
+<stances record_uuid="{fe58fe81-7f1d-4042-9585-20664a6a5aeb}" record_key="neutral">
+<key>neutral</key>
+<onscreen state="APPROVED" last_approved_text="Neutral" last_edit_user="bob">Neutral</onscreen>
+</stances>
+<stances record_uuid="{0458ed24-727a-4c54-afb4-14b9c4070811}" record_timestamp="1481285675507" record_key="protector">
+<key>protector</key>
+<onscreen state="APPROVED" last_approved_text="Protector" last_edit_user="bob">Protector</onscreen>
+</stances>
+<stances record_uuid="{ece9f445-1de6-458c-9f78-4c7581022b64}" record_timestamp="1481285675660" record_key="vassal">
+<key>vassal</key>
+<onscreen state="APPROVED" last_approved_text="Vassal" last_edit_user="bob">Vassal</onscreen>
+</stances>
+<stances record_uuid="{dd990196-324b-44cb-9fd5-7f9c0f0e4b82}" record_key="war">
+<key>war</key>
+<onscreen state="APPROVED" last_approved_text="War" last_edit_user="bob">War</onscreen>
+</stances>
+</dataroot>

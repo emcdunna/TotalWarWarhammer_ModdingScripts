@@ -1,0 +1,2632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="special_ability_phase_stat_effects.xsd" export_time="Wed Feb 15 15:14:08 2017" revision="273" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>90ae8791-a230-4736-ac1a-8b4aaa751184</edit_uuid>
+<special_ability_phase_stat_effects record_uuid="{8053f3ef-7956-478f-9228-18972e22fffc}" record_timestamp="1487171648207" record_key="wh_DELETE_THIS_AFTERWARDS_test_armourstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_DELETE_THIS_AFTERWARDS_test_armour</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{d9a6dc71-c530-434c-afc8-14b7fa70d7b0}" record_timestamp="1487171648207" record_key="wh_DELETE_THIS_AFTERWARDS_test_wardstat_melee_attack">
+<how>add</how>
+<phase>wh_DELETE_THIS_AFTERWARDS_test_ward</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{77bea251-255e-4dc3-bbc9-326a28955544}" record_timestamp="1459942268078" record_key="wh_dlc01_banner_passive_blasted_standardstat_missile_block_chance">
+<how>add</how>
+<phase>wh_dlc01_banner_passive_blasted_standard</phase>
+<stat>stat_missile_block_chance</stat>
+<value>6</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5e281bff-d572-4b63-8aff-3ca277931b9c}" record_timestamp="1486743876670" record_key="wh_dlc01_item_passive_helm_of_many_eyesstat_armour">
+<how>add</how>
+<phase>wh_dlc01_item_passive_helm_of_many_eyes</phase>
+<stat>stat_armour</stat>
+<value>6</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f3f36305-783c-4a76-9c8b-acc8a2f48b70}" record_timestamp="1459952845890" record_key="wh_dlc01_item_passive_helm_of_many_eyesstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc01_item_passive_helm_of_many_eyes</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{bf62e520-efdc-40c9-b9b0-8c125d5a62b7}" record_timestamp="1483635524956" record_key="wh_dlc01_item_passive_the_crown_of_dominationstat_morale">
+<how>add</how>
+<phase>wh_dlc01_item_passive_the_crown_of_domination</phase>
+<stat>stat_morale</stat>
+<value>4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{36fb4dd2-9945-4f18-98ea-4b4f4d72b29d}" record_timestamp="1484926552431" record_key="wh_dlc01_weapon_abilities_starcrusherstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_dlc01_weapon_abilities_starcrusher</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{11b221e9-1e4c-4afd-af5c-a592440ed943}" record_timestamp="1459939851733" record_key="wh_dlc01_weapon_abilities_the_slayer_of_kingsscalar_splash_attack_power">
+<how>mult</how>
+<phase>wh_dlc01_weapon_abilities_the_slayer_of_kings</phase>
+<stat>scalar_splash_attack_power</stat>
+<value>1.16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{1be27b2f-0fda-40c3-b8c4-f7a2e88b7e34}" record_timestamp="1483635525359" record_key="wh_dlc01_weapon_abilities_the_slayer_of_kingsstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_dlc01_weapon_abilities_the_slayer_of_kings</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ed7461b6-4ffe-459a-ae3d-812cc17bcfab}" record_timestamp="1483635525359" record_key="wh_dlc01_weapon_abilities_the_slayer_of_kingsstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_dlc01_weapon_abilities_the_slayer_of_kings</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.44</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6a98cacc-7048-400d-b81b-b0264c138b9a}" record_timestamp="1464275310893" record_key="wh_dlc02_unit_passive_the_flag_of_blood_keepstat_resistance_missile">
+<how>add</how>
+<phase>wh_dlc02_unit_passive_the_flag_of_blood_keep</phase>
+<stat>stat_resistance_missile</stat>
+<value>22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{629c0966-0a13-49d5-bf63-f15561b89bea}" record_timestamp="1459942268082" record_key="wh_dlc03_banner_passive_manbane_standardstat_morale">
+<how>add</how>
+<phase>wh_dlc03_banner_passive_manbane_standard</phase>
+<stat>stat_morale</stat>
+<value>-4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{76d88af0-ba60-4277-a3f6-26cb2014997c}" record_timestamp="1486743876734" record_key="wh_dlc03_banner_passive_totem_of_ruststat_armour">
+<how>add</how>
+<phase>wh_dlc03_banner_passive_totem_of_rust</phase>
+<stat>stat_armour</stat>
+<value>-6</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{337b2443-03ca-44f7-95ce-62b4dbba083c}" record_timestamp="1467714663966" record_key="wh_dlc03_character_abilities_apocalyptic_visionstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc03_character_abilities_apocalyptic_vision</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{1ec39351-a0c5-4d29-8342-7e6d454403a0}" record_timestamp="1460538312806" record_key="wh_dlc03_character_abilities_apocalyptic_visionstat_morale">
+<how>add</how>
+<phase>wh_dlc03_character_abilities_apocalyptic_vision</phase>
+<stat>stat_morale</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{e62a0e71-be16-461d-8bd1-f1304100dcba}" record_timestamp="1460538312845" record_key="wh_dlc03_character_abilities_call_of_violencestat_morale">
+<how>add</how>
+<phase>wh_dlc03_character_abilities_call_of_violence</phase>
+<stat>stat_morale</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{face471b-cfd0-43de-a97d-1e342e2a3846}" record_timestamp="1460538312628" record_key="wh_dlc03_hero_passive_something_wicked_this_way_comesstat_morale">
+<how>add</how>
+<phase>wh_dlc03_hero_passive_something_wicked_this_way_comes</phase>
+<stat>stat_morale</stat>
+<value>-4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{9763128b-2022-45a4-bd37-de7558dcdefb}" record_timestamp="1486743876928" record_key="wh_dlc03_hero_passive_strength_of_the_land_iiistat_armour">
+<how>add</how>
+<phase>wh_dlc03_hero_passive_strength_of_the_land_iii</phase>
+<stat>stat_armour</stat>
+<value>18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6b914ef1-ffed-4aa9-9a72-b72b16f865ab}" record_timestamp="1486743876863" record_key="wh_dlc03_hero_passive_strength_of_the_land_iistat_armour">
+<how>add</how>
+<phase>wh_dlc03_hero_passive_strength_of_the_land_ii</phase>
+<stat>stat_armour</stat>
+<value>12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{2c073cf7-c86a-4e11-bc75-be42464b3139}" record_timestamp="1486743876799" record_key="wh_dlc03_hero_passive_strength_of_the_land_istat_armour">
+<how>add</how>
+<phase>wh_dlc03_hero_passive_strength_of_the_land_i</phase>
+<stat>stat_armour</stat>
+<value>6</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{8b749dc2-d560-47f2-8a49-611cfd4eb3f0}" record_timestamp="1486743876993" record_key="wh_dlc03_hero_passive_strength_of_the_land_ivstat_armour">
+<how>add</how>
+<phase>wh_dlc03_hero_passive_strength_of_the_land_iv</phase>
+<stat>stat_armour</stat>
+<value>18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{1df1e053-f71b-44cf-94cd-92773836911b}" record_timestamp="1486743835126" record_key="wh_dlc03_hero_passive_strength_of_the_land_ivstat_resistance_missile">
+<how>add</how>
+<phase>wh_dlc03_hero_passive_strength_of_the_land_iv</phase>
+<stat>stat_resistance_missile</stat>
+<value>11</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{be9d7874-fc2b-4352-9a67-d009cf8cd5ba}" record_timestamp="1486743834815" record_key="wh_dlc03_hero_passive_the_unrelenting_warherd_iiistat_melee_attack">
+<how>add</how>
+<phase>wh_dlc03_hero_passive_the_unrelenting_warherd_iii</phase>
+<stat>stat_melee_attack</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{0ab16c0d-c78b-4de8-a151-e7f240ab20df}" record_timestamp="1486743834753" record_key="wh_dlc03_hero_passive_the_unrelenting_warherd_iistat_melee_attack">
+<how>add</how>
+<phase>wh_dlc03_hero_passive_the_unrelenting_warherd_ii</phase>
+<stat>stat_melee_attack</stat>
+<value>12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c46a0867-8ec6-4263-9421-793026be891b}" record_timestamp="1486743834691" record_key="wh_dlc03_hero_passive_the_unrelenting_warherd_istat_melee_attack">
+<how>add</how>
+<phase>wh_dlc03_hero_passive_the_unrelenting_warherd_i</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{1cdda3bf-b4df-43ab-af3e-ba083eedbffe}" record_timestamp="1486743835002" record_key="wh_dlc03_hero_passive_the_unrelenting_warherd_ivstat_charge_bonus">
+<how>mult</how>
+<phase>wh_dlc03_hero_passive_the_unrelenting_warherd_iv</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{598fd5c3-7cc6-4bf4-aed2-39aa4881bf3d}" record_timestamp="1486743834877" record_key="wh_dlc03_hero_passive_the_unrelenting_warherd_ivstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc03_hero_passive_the_unrelenting_warherd_iv</phase>
+<stat>stat_melee_attack</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{2e4c9e3b-cc1b-4108-930a-f7266bb8b92b}" record_timestamp="1471865773179" record_key="wh_dlc03_item_abilities_chalice_of_dark_rainstat_accuracy">
+<how>mult</how>
+<phase>wh_dlc03_item_abilities_chalice_of_dark_rain</phase>
+<stat>stat_accuracy</stat>
+<value>0.7</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{a82e358f-877c-4281-b1b9-0cb709fda7bf}" record_timestamp="1455123048175" record_key="wh_dlc03_item_abilities_hagtree_fetishscalar_miscast_chance">
+<how>mult</how>
+<phase>wh_dlc03_item_abilities_hagtree_fetish</phase>
+<stat>scalar_miscast_chance</stat>
+<value>0.0</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b11da414-a147-4ed7-ae9f-fbea98a2650f}" record_timestamp="1477035609524" record_key="wh_dlc03_item_abilities_horn_of_the_first_beaststat_charge_bonus">
+<how>mult</how>
+<phase>wh_dlc03_item_abilities_horn_of_the_first_beast</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{451b2e58-dba3-43d7-b626-65e8ebc1fe44}" record_timestamp="1477035609523" record_key="wh_dlc03_item_abilities_horn_of_the_first_beaststat_melee_attack">
+<how>add</how>
+<phase>wh_dlc03_item_abilities_horn_of_the_first_beast</phase>
+<stat>stat_melee_attack</stat>
+<value>12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ea17d70e-9476-40ae-af20-dca06aebc757}" record_timestamp="1477035609528" record_key="wh_dlc03_item_abilities_horn_of_the_first_beaststat_melee_damage_base">
+<how>mult</how>
+<phase>wh_dlc03_item_abilities_horn_of_the_first_beast</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{051b253c-bd83-4011-8b34-3cb6d299aaf0}" record_timestamp="1486743835502" record_key="wh_dlc03_item_passive_banner_of_the_fallen_kingstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_dlc03_item_passive_banner_of_the_fallen_king</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5b1f41c5-5cb3-42d3-bdf7-482b3618ce0b}" record_timestamp="1486743835565" record_key="wh_dlc03_item_passive_banner_of_the_fallen_kingstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_dlc03_item_passive_banner_of_the_fallen_king</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{dee3dcc0-81a4-4681-89a8-f37554e3c501}" record_timestamp="1460538313238" record_key="wh_dlc03_item_passive_blackened_platestat_resistance_flame">
+<how>add</how>
+<phase>wh_dlc03_item_passive_blackened_plate</phase>
+<stat>stat_resistance_flame</stat>
+<value>20</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{d79b6d65-b361-4224-a108-2f7bdb057d9f}" record_timestamp="1469109209078" record_key="wh_dlc03_item_passive_icon_of_vilificationstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_dlc03_item_passive_icon_of_vilification</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.08</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{81e5f13b-22f3-46b3-8c87-b67f1c4136a2}" record_timestamp="1485362759422" record_key="wh_dlc03_item_passive_icon_of_vilificationstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_dlc03_item_passive_icon_of_vilification</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{87131aac-ea39-42e3-8e74-16a02de7d550}" record_timestamp="1469110117501" record_key="wh_dlc03_item_passive_icon_of_vilificationstat_morale">
+<how>add</how>
+<phase>wh_dlc03_item_passive_icon_of_vilification</phase>
+<stat>stat_morale</stat>
+<value>4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{fcb3f667-9fdf-4ea7-8fe9-584fa7d5aea9}" record_timestamp="1486743877059" record_key="wh_dlc03_item_passive_the_dark_mailstat_armour">
+<how>add</how>
+<phase>wh_dlc03_item_passive_the_dark_mail</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c1a1ea05-19ca-4293-ae6b-807c04fc397f}" record_timestamp="1485362759619" record_key="wh_dlc03_item_passive_the_dark_mailstat_melee_defence">
+<how>add</how>
+<phase>wh_dlc03_item_passive_the_dark_mail</phase>
+<stat>stat_melee_defence</stat>
+<value>-36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{acd82333-62a1-4f65-84c5-3ff122cd3f20}" record_timestamp="1485362758884" record_key="wh_dlc03_lord_passive_crush_the_weakstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc03_lord_passive_crush_the_weak</phase>
+<stat>stat_melee_attack</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{cab74941-3eac-4b53-b94d-46a065741870}" record_timestamp="1485362758923" record_key="wh_dlc03_lord_passive_crush_the_weakstat_melee_defence">
+<how>add</how>
+<phase>wh_dlc03_lord_passive_crush_the_weak</phase>
+<stat>stat_melee_defence</stat>
+<value>-9</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{21feae8d-4bcc-4922-a4f1-6a13040f1b74}" record_timestamp="1479313209543" record_key="wh_dlc03_lord_passive_crush_the_weakstat_morale">
+<how>add</how>
+<phase>wh_dlc03_lord_passive_crush_the_weak</phase>
+<stat>stat_morale</stat>
+<value>-4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{2ce98f65-3080-4f06-8974-a900868ef4b1}" record_timestamp="1467715757245" record_key="wh_dlc03_lore_passive_bestial_surgescalar_speed">
+<how>mult</how>
+<phase>wh_dlc03_lore_passive_bestial_surge</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3ab6073e-49b0-4812-87ce-a651e9295245}" record_timestamp="1485448429576" record_key="wh_dlc03_quest_passive_poisoningscalar_speed">
+<how>mult</how>
+<phase>wh_dlc03_quest_passive_poisoning</phase>
+<stat>scalar_speed</stat>
+<value>0.52</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f6b8f8c1-ada9-4512-ad01-9b005796b593}" record_timestamp="1458812160446" record_key="wh_dlc03_spell_beasts_panns_impenetrable_pelt_upgradedscalar_speed">
+<how>mult</how>
+<phase>wh_dlc03_spell_beasts_panns_impenetrable_pelt_upgraded</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5ccd362a-ac72-4f86-b38c-a5ca7d3395ec}" record_timestamp="1485859394082" record_key="wh_dlc03_spell_beasts_panns_impenetrable_pelt_upgradedstat_resistance_physical">
+<how>add</how>
+<phase>wh_dlc03_spell_beasts_panns_impenetrable_pelt_upgraded</phase>
+<stat>stat_resistance_physical</stat>
+<value>22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f0abe420-8ed8-457e-b6be-bb292990d305}" record_timestamp="1458812160446" record_key="wh_dlc03_spell_beasts_panns_impenetrable_peltscalar_speed">
+<how>mult</how>
+<phase>wh_dlc03_spell_beasts_panns_impenetrable_pelt</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{65c991a0-a313-4210-b867-af45ab450648}" record_timestamp="1485859394069" record_key="wh_dlc03_spell_beasts_panns_impenetrable_peltstat_resistance_physical">
+<how>add</how>
+<phase>wh_dlc03_spell_beasts_panns_impenetrable_pelt</phase>
+<stat>stat_resistance_physical</stat>
+<value>22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{76e4b2c0-6bd4-4a4d-98c8-93be47b0dc05}" record_timestamp="1458812160446" record_key="wh_dlc03_spell_beasts_the_curse_of_anraheirscalar_speed">
+<how>mult</how>
+<phase>wh_dlc03_spell_beasts_the_curse_of_anraheir</phase>
+<stat>scalar_speed</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{60e92a80-7ad8-4171-ba50-a11aedf2a220}" record_timestamp="1471865773179" record_key="wh_dlc03_spell_beasts_the_curse_of_anraheirstat_accuracy">
+<how>mult</how>
+<phase>wh_dlc03_spell_beasts_the_curse_of_anraheir</phase>
+<stat>stat_accuracy</stat>
+<value>0.4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3d284d06-3487-4c76-9755-26dd2092aad4}" record_timestamp="1486743877123" record_key="wh_dlc03_spell_beasts_wyssans_wildformstat_armour">
+<how>add</how>
+<phase>wh_dlc03_spell_beasts_wyssans_wildform</phase>
+<stat>stat_armour</stat>
+<value>30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{449568af-e65f-427f-911e-e7e2cc6296db}" record_timestamp="1458812160445" record_key="wh_dlc03_spell_beasts_wyssans_wildformstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_dlc03_spell_beasts_wyssans_wildform</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c8ded7e7-338d-4f24-ac35-f8d6eb016f45}" record_timestamp="1467716990778" record_key="wh_dlc03_spell_wild_devolve_upgradedstat_morale">
+<how>add</how>
+<phase>wh_dlc03_spell_wild_devolve_upgraded</phase>
+<stat>stat_morale</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c97c087f-8ad8-46d7-ab33-1370189923e0}" record_timestamp="1459939851654" record_key="wh_dlc03_spell_wild_devolvestat_morale">
+<how>add</how>
+<phase>wh_dlc03_spell_wild_devolve</phase>
+<stat>stat_morale</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{74707c3c-99ed-4f52-bf4a-4a49bde6cff3}" record_timestamp="1487011814277" record_key="wh_dlc03_spell_wild_mantle_of_ghorokstat_armour">
+<how>add</how>
+<phase>wh_dlc03_spell_wild_mantle_of_ghorok</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ab897411-3340-45e8-a901-bee79b5bc73d}" record_timestamp="1459952845866" record_key="wh_dlc03_spell_wild_mantle_of_ghorokstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc03_spell_wild_mantle_of_ghorok</phase>
+<stat>stat_melee_attack</stat>
+<value>58</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{0e4c76ee-19fc-40a6-9089-ce472d223c43}" record_timestamp="1458812160446" record_key="wh_dlc03_spell_wild_mantle_of_ghorokstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_dlc03_spell_wild_mantle_of_ghorok</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.44</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{4e5acfbc-f1d4-4458-9c1d-4745972de971}" record_timestamp="1467716990238" record_key="wh_dlc03_spell_wild_traitor_kin_upgradedscalar_speed">
+<how>mult</how>
+<phase>wh_dlc03_spell_wild_traitor_kin_upgraded</phase>
+<stat>scalar_speed</stat>
+<value>0.52</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ad054250-a5b9-470f-8728-910035016e17}" record_timestamp="1458812160446" record_key="wh_dlc03_spell_wild_traitor_kinscalar_speed">
+<how>mult</how>
+<phase>wh_dlc03_spell_wild_traitor_kin</phase>
+<stat>scalar_speed</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{988ae702-52a1-4a3a-aa2b-6cca1aeb8a3a}" record_timestamp="1477035609522" record_key="wh_dlc03_unit_abilities_slaughterers_callstat_charge_bonus">
+<how>mult</how>
+<phase>wh_dlc03_unit_abilities_slaughterers_call</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.08</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{fc9fe70b-55b3-4c71-b958-c87777319a61}" record_timestamp="1460538314343" record_key="wh_dlc03_unit_abilities_slaughterers_callstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc03_unit_abilities_slaughterers_call</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{1b1b7b76-fdca-41b9-809e-5bac2454507a}" record_timestamp="1469457306615" record_key="wh_dlc03_unit_abilities_slaughterers_callstat_morale">
+<how>add</how>
+<phase>wh_dlc03_unit_abilities_slaughterers_call</phase>
+<stat>stat_morale</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{d64b8d7c-e5b3-47ff-88ab-cc22cf0820ea}" record_timestamp="1469108799561" record_key="wh_dlc03_unit_passive_bloodgreedscalar_speed">
+<how>mult</how>
+<phase>wh_dlc03_unit_passive_bloodgreed</phase>
+<stat>scalar_speed</stat>
+<value>1.2</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{386ae030-d6b6-48c7-b527-a46b4f4c1a0c}" record_timestamp="1469108799561" record_key="wh_dlc03_unit_passive_bloodgreedstat_morale">
+<how>add</how>
+<phase>wh_dlc03_unit_passive_bloodgreed</phase>
+<stat>stat_morale</stat>
+<value>12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3ebab5c0-de3b-4993-a9df-3b4ffd5e1f57}" record_timestamp="1459942268100" record_key="wh_dlc03_unit_passive_drunkenstat_morale">
+<how>add</how>
+<phase>wh_dlc03_unit_passive_drunken</phase>
+<stat>stat_morale</stat>
+<value>4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{7507f01f-51b1-41c6-a3b3-3698cb924054}" record_timestamp="1477035609522" record_key="wh_dlc03_unit_passive_primal_furyscalar_speed">
+<how>mult</how>
+<phase>wh_dlc03_unit_passive_primal_fury</phase>
+<stat>scalar_speed</stat>
+<value>1.12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3fc5f8d5-a35d-42ce-95d4-1a13df6a2200}" record_timestamp="1477035609520" record_key="wh_dlc03_unit_passive_primal_furystat_charge_bonus">
+<how>mult</how>
+<phase>wh_dlc03_unit_passive_primal_fury</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.08</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{355ee4d6-f1bc-4edd-b27d-dfefc9fc37e5}" record_timestamp="1460538312650" record_key="wh_dlc03_unit_passive_primal_furystat_melee_attack">
+<how>add</how>
+<phase>wh_dlc03_unit_passive_primal_fury</phase>
+<stat>stat_melee_attack</stat>
+<value>4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b72bfb4f-94ae-4379-bbc5-e27cb0d9c7fc}" record_timestamp="1486123188961" record_key="wh_dlc03_unit_passive_soul_eaterscalar_miscast_chance">
+<how>mult</how>
+<phase>wh_dlc03_unit_passive_soul_eater</phase>
+<stat>scalar_miscast_chance</stat>
+<value>1.25</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{9f5f1bf6-62dc-47dc-adf7-1040abad48de}" record_timestamp="1484827199546" record_key="wh_dlc03_weapon_abilities_scourgestat_melee_attack">
+<how>add</how>
+<phase>wh_dlc03_weapon_abilities_scourge</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{58f4072b-ff7d-48b3-a8e6-06d1604ff0f2}" record_timestamp="1484827199575" record_key="wh_dlc03_weapon_abilities_scourgestat_melee_defence">
+<how>add</how>
+<phase>wh_dlc03_weapon_abilities_scourge</phase>
+<stat>stat_melee_defence</stat>
+<value>36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ae22fe5a-16fc-42e4-9147-618ada4844b1}" record_timestamp="1459942268126" record_key="wh_dlc03_weapon_passive_mangelderstat_morale">
+<how>add</how>
+<phase>wh_dlc03_weapon_passive_mangelder</phase>
+<stat>stat_morale</stat>
+<value>-4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{e76d7648-9124-4e01-adf6-f37370f57bf4}" record_timestamp="1459952845805" record_key="wh_dlc03_weapon_passive_the_brass_cleaverstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc03_weapon_passive_the_brass_cleaver</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{13f59881-3907-4c16-afc8-2b2c174c49f2}" record_timestamp="1477035604889" record_key="wh_dlc04_hero_passive_divine_powerscalar_miscast_chance">
+<how>mult</how>
+<phase>wh_dlc04_hero_passive_divine_power</phase>
+<stat>scalar_miscast_chance</stat>
+<value>1.50</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{fc5777d2-7dd2-44be-8d7e-d27f70cb3af8}" record_timestamp="1486743834087" record_key="wh_dlc04_lord_abilities_beguilestat_melee_attack">
+<how>add</how>
+<phase>wh_dlc04_lord_abilities_beguile</phase>
+<stat>stat_melee_attack</stat>
+<value>-58</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{57d9d128-ba85-45e2-a38e-2f91b4b1c7c1}" record_timestamp="1458666859742" record_key="wh_dlc04_lord_passive_aura_of_dark_majestystat_morale">
+<how>add</how>
+<phase>wh_dlc04_lord_passive_aura_of_dark_majesty</phase>
+<stat>stat_morale</stat>
+<value>-4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{eef6931c-8fa0-4bb3-b532-41ea1b5669de}" record_timestamp="1474282560135" record_key="wh_dlc04_unit_contat_helmans_blightscalar_speed">
+<how>mult</how>
+<phase>wh_dlc04_unit_contat_helmans_blight</phase>
+<stat>scalar_speed</stat>
+<value>0.64</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{65a28268-e8a8-4114-b158-80920015e6ee}" record_timestamp="1486743834630" record_key="wh_dlc04_unit_passive_chilling_aurascalar_speed">
+<how>mult</how>
+<phase>wh_dlc04_unit_passive_chilling_aura</phase>
+<stat>scalar_speed</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{aace93e0-5ce3-4bc2-a1f5-4d4c88105b1c}" record_timestamp="1471865786299" record_key="wh_dlc04_unit_passive_strength_of_the_penitentstat_melee_defence">
+<how>add</how>
+<phase>wh_dlc04_unit_passive_strength_of_the_penitent</phase>
+<stat>stat_melee_defence</stat>
+<value>18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{86568050-793d-4ca5-a954-65a52d6baeb7}" record_timestamp="1471865786322" record_key="wh_dlc04_unit_passive_strength_of_the_penitentstat_resistance_physical">
+<how>add</how>
+<phase>wh_dlc04_unit_passive_strength_of_the_penitent</phase>
+<stat>stat_resistance_physical</stat>
+<value>12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3c0b29ae-d4dc-4cf2-aa22-7bb635696356}" record_timestamp="1471865784384" record_key="wh_dlc04_unit_passive_vigour_mortisstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc04_unit_passive_vigour_mortis</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{21a31335-1989-4c40-93fa-635a22d912f0}" record_timestamp="1474282559356" record_key="wh_dlc04_unit_passive_vigour_mortisstat_melee_defence">
+<how>add</how>
+<phase>wh_dlc04_unit_passive_vigour_mortis</phase>
+<stat>stat_melee_defence</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b4de140b-fab8-4c57-881b-6efd3fac7b85}" record_timestamp="1481894427471" record_key="wh_dlc05_banner_passive_banner_of_the_eternal_queenstat_morale">
+<how>add</how>
+<phase>wh_dlc05_banner_passive_banner_of_the_eternal_queen</phase>
+<stat>stat_morale</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{78acc117-628e-4c8d-aaa9-577ae2ad0f8e}" record_timestamp="1481894427458" record_key="wh_dlc05_banner_passive_banner_of_the_eternal_queenstat_resistance_all">
+<how>add</how>
+<phase>wh_dlc05_banner_passive_banner_of_the_eternal_queen</phase>
+<stat>stat_resistance_all</stat>
+<value>12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{0e2544b2-2c18-419f-851b-c36ed87e4189}" record_timestamp="1486743834510" record_key="wh_dlc05_banner_passive_banner_of_the_hunter_kingstat_charge_bonus">
+<how>mult</how>
+<phase>wh_dlc05_banner_passive_banner_of_the_hunter_king</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.08</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ee726a10-9388-4edc-acfc-5cdacc2640a1}" record_timestamp="1486743834389" record_key="wh_dlc05_banner_passive_banner_of_the_hunter_kingstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc05_banner_passive_banner_of_the_hunter_king</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c2ab9a09-aa5a-46de-89ab-292a8dc6d727}" record_timestamp="1477041651687" record_key="wh_dlc05_character_abilities_pray_of_anath_raemastat_resistance_missile">
+<how>add</how>
+<phase>wh_dlc05_character_abilities_pray_of_anath_raema</phase>
+<stat>stat_resistance_missile</stat>
+<value>-22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{abdca62d-4de7-465f-81c8-85cb08fbb0dc}" record_timestamp="1481035910814" record_key="wh_dlc05_hero_passive_hawkish_finessestat_reloading">
+<how>add</how>
+<phase>wh_dlc05_hero_passive_hawkish_finesse</phase>
+<stat>stat_reloading</stat>
+<value>40</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{63d7b6c4-203f-4c9a-b91a-4f84b18555c5}" record_timestamp="1481891909532" record_key="wh_dlc05_hero_passive_hawkish_precisionscalar_missile_damage_ap">
+<how>mult</how>
+<phase>wh_dlc05_hero_passive_hawkish_precision</phase>
+<stat>scalar_missile_damage_ap</stat>
+<value>1.25</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{63fb9d07-467c-4ce8-b62e-561c1cdce1d0}" record_timestamp="1481028463924" record_key="wh_dlc05_item_abilities_horn_of_the_wild_huntscalar_speed">
+<how>mult</how>
+<phase>wh_dlc05_item_abilities_horn_of_the_wild_hunt</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ce401699-94f9-4eaf-aca4-6dc2afc75d85}" record_timestamp="1481028463924" record_key="wh_dlc05_item_abilities_horn_of_the_wild_huntstat_charge_bonus">
+<how>mult</how>
+<phase>wh_dlc05_item_abilities_horn_of_the_wild_hunt</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{a0f76410-2379-4c1b-9c80-fc6b35527ef1}" record_timestamp="1481035130308" record_key="wh_dlc05_item_passive_cloak_of_ishastat_resistance_all">
+<how>add</how>
+<phase>wh_dlc05_item_passive_cloak_of_isha</phase>
+<stat>stat_resistance_all</stat>
+<value>44</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5898a685-e297-432e-b9f1-7e5328535a53}" record_timestamp="1481035194833" record_key="wh_dlc05_lord_passive_call_of_the_woodsstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc05_lord_passive_call_of_the_woods</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{107664e9-192b-4f0b-bad6-d6330872aaa0}" record_timestamp="1481035194832" record_key="wh_dlc05_lord_passive_howl_of_the_foreststat_melee_attack">
+<how>add</how>
+<phase>wh_dlc05_lord_passive_howl_of_the_forest</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b4f695bd-61b9-4627-a8d4-cc1c5def8337}" record_timestamp="1481035194928" record_key="wh_dlc05_lord_passive_sight_beyond_sightscalar_missile_damage_base">
+<how>mult</how>
+<phase>wh_dlc05_lord_passive_sight_beyond_sight</phase>
+<stat>scalar_missile_damage_base</stat>
+<value>1.12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{4a4be093-7ec7-4b4d-93a6-6652b4eb4acd}" record_timestamp="1481035194927" record_key="wh_dlc05_lord_passive_the_eye_of_kurnousscalar_missile_damage_base">
+<how>mult</how>
+<phase>wh_dlc05_lord_passive_the_eye_of_kurnous</phase>
+<stat>scalar_missile_damage_base</stat>
+<value>1.12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{27c06922-670e-4211-8b6b-945eadb7f7c1}" record_timestamp="1462265214792" record_key="wh_dlc05_lore_passive_smoke_and_mirrorsscalar_speed">
+<how>mult</how>
+<phase>wh_dlc05_lore_passive_smoke_and_mirrors</phase>
+<stat>scalar_speed</stat>
+<value>1.06</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{8fd99578-85e4-4978-9a1a-bca825be790c}" record_timestamp="1485448430452" record_key="wh_dlc05_quest_passive_aura_of_transmutationstat_resistance_all">
+<how>add</how>
+<phase>wh_dlc05_quest_passive_aura_of_transmutation</phase>
+<stat>stat_resistance_all</stat>
+<value>95</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{1d9de114-a9d4-447f-aea9-4887831a0338}" record_timestamp="1481035909561" record_key="wh_dlc05_spell_life_awakening_of_the_woodscalar_speed">
+<how>mult</how>
+<phase>wh_dlc05_spell_life_awakening_of_the_wood</phase>
+<stat>scalar_speed</stat>
+<value>0.52</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{66bc84ce-3d1d-43cd-aaa5-100cd41dc530}" record_timestamp="1486743877253" record_key="wh_dlc05_spell_life_flesh_to_stone_upgradedstat_armour">
+<how>add</how>
+<phase>wh_dlc05_spell_life_flesh_to_stone_upgraded</phase>
+<stat>stat_armour</stat>
+<value>60</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{560d8ae5-7efc-4536-9c12-acfce9bf2792}" record_timestamp="1486743877188" record_key="wh_dlc05_spell_life_flesh_to_stonestat_armour">
+<how>add</how>
+<phase>wh_dlc05_spell_life_flesh_to_stone</phase>
+<stat>stat_armour</stat>
+<value>60</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{806f52be-e971-4729-b0bf-ef99536c74ab}" record_timestamp="1481892538366" record_key="wh_dlc05_spell_life_regrowth_upgradedstat_resistance_physical">
+<how>add</how>
+<phase>wh_dlc05_spell_life_regrowth_upgraded</phase>
+<stat>stat_resistance_physical</stat>
+<value>44</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{53f0c51a-3a30-47d4-b957-d03be357f1d0}" record_timestamp="1481892538367" record_key="wh_dlc05_spell_life_regrowthstat_resistance_physical">
+<how>add</how>
+<phase>wh_dlc05_spell_life_regrowth</phase>
+<stat>stat_resistance_physical</stat>
+<value>22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{adae6565-2435-4969-bf45-207b61cd3a04}" record_timestamp="1481892538331" record_key="wh_dlc05_spell_life_shield_of_thorns_upgradedstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_dlc05_spell_life_shield_of_thorns_upgraded</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.44</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{33448193-fa44-4f4e-835b-c09ec1fbc8fb}" record_timestamp="1481892538330" record_key="wh_dlc05_spell_life_shield_of_thorns_upgradedstat_resistance_missile">
+<how>add</how>
+<phase>wh_dlc05_spell_life_shield_of_thorns_upgraded</phase>
+<stat>stat_resistance_missile</stat>
+<value>44</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{2ce39003-ddbd-4f32-a437-e14ea7c07282}" record_timestamp="1458812160446" record_key="wh_dlc05_spell_life_shield_of_thornsstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_dlc05_spell_life_shield_of_thorns</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5553a797-d28f-494a-b5ef-084aea18101d}" record_timestamp="1481892538329" record_key="wh_dlc05_spell_life_shield_of_thornsstat_resistance_missile">
+<how>add</how>
+<phase>wh_dlc05_spell_life_shield_of_thorns</phase>
+<stat>stat_resistance_missile</stat>
+<value>22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{bde83d25-0e5b-4398-bb50-89b952ca2f3b}" record_timestamp="1458812160446" record_key="wh_dlc05_spell_life_the_dwellers_below_upgradedscalar_speed">
+<how>mult</how>
+<phase>wh_dlc05_spell_life_the_dwellers_below_upgraded</phase>
+<stat>scalar_speed</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{55930340-24b2-4f5d-8365-0969f53f58a8}" record_timestamp="1458812160446" record_key="wh_dlc05_spell_life_the_dwellers_belowscalar_speed">
+<how>mult</how>
+<phase>wh_dlc05_spell_life_the_dwellers_below</phase>
+<stat>scalar_speed</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{be142905-ab2c-4f06-9015-7f422afe4146}" record_timestamp="1464691265413" record_key="wh_dlc05_spell_shadow_melkoths_mystifying_miasma_upgradedscalar_speed">
+<how>mult</how>
+<phase>wh_dlc05_spell_shadow_melkoths_mystifying_miasma_upgraded</phase>
+<stat>scalar_speed</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5d9257b6-355b-490c-8ef2-52616c7702c7}" record_timestamp="1464691265413" record_key="wh_dlc05_spell_shadow_melkoths_mystifying_miasmascalar_speed">
+<how>mult</how>
+<phase>wh_dlc05_spell_shadow_melkoths_mystifying_miasma</phase>
+<stat>scalar_speed</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{8c74002c-d310-4e1b-96e2-eaf334ad9412}" record_timestamp="1486743874390" record_key="wh_dlc05_spell_shadow_okkams_mindrazor_upgradedstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_dlc05_spell_shadow_okkams_mindrazor_upgraded</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{8e22aa9e-1ded-46a9-910b-1870a27c194a}" record_timestamp="1461765716908" record_key="wh_dlc05_spell_shadow_okkams_mindrazor_upgradedstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_dlc05_spell_shadow_okkams_mindrazor_upgraded</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.44</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{4603a70d-7bb7-43e1-8608-4f2f3fbae4c7}" record_timestamp="1486743874324" record_key="wh_dlc05_spell_shadow_okkams_mindrazorstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_dlc05_spell_shadow_okkams_mindrazor</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f8c9540b-8833-4e2f-a094-dfd5e6708ea1}" record_timestamp="1461765716908" record_key="wh_dlc05_spell_shadow_okkams_mindrazorstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_dlc05_spell_shadow_okkams_mindrazor</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.44</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{7a1e5399-592b-4b63-a574-95cff2e26db0}" record_timestamp="1479307758353" record_key="wh_dlc05_spell_shadow_the_enfeebling_foe_upgradedstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc05_spell_shadow_the_enfeebling_foe_upgraded</phase>
+<stat>stat_melee_attack</stat>
+<value>-34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{eb4821c5-7ad1-4860-95da-6cb327c3b427}" record_timestamp="1479319028240" record_key="wh_dlc05_spell_shadow_the_enfeebling_foe_upgradedstat_melee_defence">
+<how>add</how>
+<phase>wh_dlc05_spell_shadow_the_enfeebling_foe_upgraded</phase>
+<stat>stat_melee_defence</stat>
+<value>-36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{17ff5441-3d0c-4778-9b10-ca1fd7879ec8}" record_timestamp="1479307758351" record_key="wh_dlc05_spell_shadow_the_enfeebling_foestat_melee_attack">
+<how>add</how>
+<phase>wh_dlc05_spell_shadow_the_enfeebling_foe</phase>
+<stat>stat_melee_attack</stat>
+<value>-34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{754bc330-b66a-4902-81c7-a17252cf93d4}" record_timestamp="1479319028239" record_key="wh_dlc05_spell_shadow_the_enfeebling_foestat_melee_defence">
+<how>add</how>
+<phase>wh_dlc05_spell_shadow_the_enfeebling_foe</phase>
+<stat>stat_melee_defence</stat>
+<value>-36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{1864ddd5-33c2-4729-8846-4e15c6b5964b}" record_timestamp="1486743877382" record_key="wh_dlc05_spell_shadow_the_withering_upgradedstat_armour">
+<how>add</how>
+<phase>wh_dlc05_spell_shadow_the_withering_upgraded</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{e7a69fba-e016-4ea9-add7-a3a4fc5c1e1c}" record_timestamp="1461765716907" record_key="wh_dlc05_spell_shadow_the_withering_upgradedstat_morale">
+<how>add</how>
+<phase>wh_dlc05_spell_shadow_the_withering_upgraded</phase>
+<stat>stat_morale</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{4a9d8231-7529-42b1-9fd0-071d2e53097e}" record_timestamp="1486743877318" record_key="wh_dlc05_spell_shadow_the_witheringstat_armour">
+<how>add</how>
+<phase>wh_dlc05_spell_shadow_the_withering</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{071f98dd-997d-4fd0-97e2-a87c96c23b88}" record_timestamp="1461765716907" record_key="wh_dlc05_spell_shadow_the_witheringstat_morale">
+<how>add</how>
+<phase>wh_dlc05_spell_shadow_the_withering</phase>
+<stat>stat_morale</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{37d5ed4d-b926-40d5-8429-d24de751540d}" record_timestamp="1481889353214" record_key="wh_dlc05_unit_abilities_storm_of_bladesstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc05_unit_abilities_storm_of_blades</phase>
+<stat>stat_melee_attack</stat>
+<value>20</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{540b7d2b-4736-42a3-a742-fc00c3e674ca}" record_timestamp="1481889353214" record_key="wh_dlc05_unit_abilities_storm_of_bladesstat_melee_defence">
+<how>add</how>
+<phase>wh_dlc05_unit_abilities_storm_of_blades</phase>
+<stat>stat_melee_defence</stat>
+<value>-23</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b02458cd-dd3f-495b-b066-0242ec9824e7}" record_timestamp="1481889353213" record_key="wh_dlc05_unit_abilities_the_shadows_coilstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc05_unit_abilities_the_shadows_coil</phase>
+<stat>stat_melee_attack</stat>
+<value>-20</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6c3e00ef-fef5-46ac-b503-f7cc6249a9b4}" record_timestamp="1481889353278" record_key="wh_dlc05_unit_abilities_the_shadows_coilstat_melee_defence">
+<how>add</how>
+<phase>wh_dlc05_unit_abilities_the_shadows_coil</phase>
+<stat>stat_melee_defence</stat>
+<value>20</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f40a8ebf-e036-467a-a53a-f1c558871ccc}" record_timestamp="1481889353278" record_key="wh_dlc05_unit_abilities_woven_miststat_melee_defence">
+<how>add</how>
+<phase>wh_dlc05_unit_abilities_woven_mist</phase>
+<stat>stat_melee_defence</stat>
+<value>-20</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{2afa74dd-c966-452c-bb25-8f027ae236c9}" record_timestamp="1481889353233" record_key="wh_dlc05_unit_abilities_woven_miststat_resistance_missile">
+<how>add</how>
+<phase>wh_dlc05_unit_abilities_woven_mist</phase>
+<stat>stat_resistance_missile</stat>
+<value>44</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{92dce6a8-445f-4002-ab50-fc02b0c427d8}" record_timestamp="1483635524956" record_key="wh_dlc05_unit_passive_guardians_of_the_wildwoodstat_bonus_vs_large">
+<how>add</how>
+<phase>wh_dlc05_unit_passive_guardians_of_the_wildwood</phase>
+<stat>stat_bonus_vs_large</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{32de760e-32a0-4066-8980-b7b0e25b4b5d}" record_timestamp="1486743877447" record_key="wh_dlc05_weapon_abilities_daiths_swordstat_armour">
+<how>add</how>
+<phase>wh_dlc05_weapon_abilities_daiths_sword</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3e1b119e-597a-41e7-aa0d-543e2c9631b6}" record_timestamp="1481029487639" record_key="wh_dlc05_weapon_abilities_el_syfscalar_speed">
+<how>mult</how>
+<phase>wh_dlc05_weapon_abilities_el_syf</phase>
+<stat>scalar_speed</stat>
+<value>0.52</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c3abf357-7f4a-47cf-92fa-e64fbaebd4bf}" record_timestamp="1481029487636" record_key="wh_dlc05_weapon_abilities_el_syfstat_melee_defence">
+<how>add</how>
+<phase>wh_dlc05_weapon_abilities_el_syf</phase>
+<stat>stat_melee_defence</stat>
+<value>-60</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6d308a11-6066-4008-8cd7-b37f1536f627}" record_timestamp="1481029487640" record_key="wh_dlc05_weapon_abilities_el_syfstat_resistance_physical">
+<how>add</how>
+<phase>wh_dlc05_weapon_abilities_el_syf</phase>
+<stat>stat_resistance_physical</stat>
+<value>-22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{0796c395-6f06-439d-8fba-b74a4daa89b0}" record_timestamp="1474281971233" record_key="wh_dlc06_character_abilities_oath_stonestat_melee_defence">
+<how>add</how>
+<phase>wh_dlc06_character_abilities_oath_stone</phase>
+<stat>stat_melee_defence</stat>
+<value>36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{275955f5-27ae-441a-916b-6f4cdc67aa86}" record_timestamp="1474282528621" record_key="wh_dlc06_character_abilities_spite_of_da_bad_moonstat_missile_block_chance">
+<how>add</how>
+<phase>wh_dlc06_character_abilities_spite_of_da_bad_moon</phase>
+<stat>stat_missile_block_chance</stat>
+<value>48</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{7642581a-06bb-43f9-b45e-b340c17c8cc2}" record_timestamp="1468499480441" record_key="wh_dlc06_lord_abilities_revenge_incarnatestat_melee_attack">
+<how>add</how>
+<phase>wh_dlc06_lord_abilities_revenge_incarnate</phase>
+<stat>stat_melee_attack</stat>
+<value>58</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{46036158-18ea-4bca-991a-73f56ff4fa8d}" record_timestamp="1477038874533" record_key="wh_dlc06_lord_abilities_revenge_incarnatestat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_dlc06_lord_abilities_revenge_incarnate</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3bba013c-6881-47bc-8931-c25072de6221}" record_timestamp="1486743834570" record_key="wh_dlc06_lord_abilities_wurrzags_revengescalar_miscast_chance">
+<how>mult</how>
+<phase>wh_dlc06_lord_abilities_wurrzags_revenge</phase>
+<stat>scalar_miscast_chance</stat>
+<value>1.50</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{21915b1f-9ac5-420c-ade2-b5ad9e4310a4}" record_timestamp="1474281935974" record_key="wh_dlc06_lord_ablities_tricksy_trapsscalar_speed">
+<how>mult</how>
+<phase>wh_dlc06_lord_ablities_tricksy_traps</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{65ac2c04-138c-4fa1-8b6d-99cb59d9a9cb}" record_timestamp="1474281935974" record_key="wh_dlc06_lord_ablities_tricksy_trapsstat_charge_bonus">
+<how>mult</how>
+<phase>wh_dlc06_lord_ablities_tricksy_traps</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{edd6c6ef-aaf5-43e2-8504-9de742a09920}" record_timestamp="1474281935974" record_key="wh_dlc06_lord_ablities_tricksy_trapsstat_morale">
+<how>add</how>
+<phase>wh_dlc06_lord_ablities_tricksy_traps</phase>
+<stat>stat_morale</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5e6e400f-d1f3-44ee-8b08-c0936f81a4bf}" record_timestamp="1474281970609" record_key="wh_dlc06_lord_passive_locus_of_powerstat_resistance_magic">
+<how>add</how>
+<phase>wh_dlc06_lord_passive_locus_of_power</phase>
+<stat>stat_resistance_magic</stat>
+<value>15</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{7522be00-2966-44e5-84a3-cff16fad3804}" record_timestamp="1463485343158" record_key="wh_dlc06_lord_passive_warpaint_of_wurrzagstat_resistance_all">
+<how>add</how>
+<phase>wh_dlc06_lord_passive_warpaint_of_wurrzag</phase>
+<stat>stat_resistance_all</stat>
+<value>12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{fa695ed2-9f09-4071-8a20-48c127cccd34}" record_timestamp="1485448430008" record_key="wh_dlc06_quest_abilities_grand_faiths_bastionstat_resistance_all">
+<how>add</how>
+<phase>wh_dlc06_quest_abilities_grand_faiths_bastion</phase>
+<stat>stat_resistance_all</stat>
+<value>90</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{0015f5c0-e22a-4858-83e7-a4d9c1a41f1e}" record_timestamp="1485448430199" record_key="wh_dlc06_quest_passive_inquisitor_of_sigmarscalar_speed">
+<how>mult</how>
+<phase>wh_dlc06_quest_passive_inquisitor_of_sigmar</phase>
+<stat>scalar_speed</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{70dd5127-33a3-434a-86d8-bb0ef468f395}" record_timestamp="1485448430261" record_key="wh_dlc06_quest_passive_inquisitor_of_sigmarstat_reloading">
+<how>add</how>
+<phase>wh_dlc06_quest_passive_inquisitor_of_sigmar</phase>
+<stat>stat_reloading</stat>
+<value>40</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5ad211e8-8527-4e48-b153-b190441aba6b}" record_timestamp="1477038874519" record_key="wh_dlc06_rune_abilities_master_rune_of_negationstat_resistance_all">
+<how>add</how>
+<phase>wh_dlc06_rune_abilities_master_rune_of_negation</phase>
+<stat>stat_resistance_all</stat>
+<value>44</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{a7cfc728-77fe-410d-a402-199960d8b10c}" record_timestamp="1486743877512" record_key="wh_dlc06_rune_abilities_master_rune_of_oath_and_steelstat_armour">
+<how>add</how>
+<phase>wh_dlc06_rune_abilities_master_rune_of_oath_and_steel</phase>
+<stat>stat_armour</stat>
+<value>60</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{7c9f8921-2137-4c52-af30-c6acddecae1e}" record_timestamp="1477035609492" record_key="wh_dlc06_rune_passive_master_rune_of_slownessscalar_speed">
+<how>mult</how>
+<phase>wh_dlc06_rune_passive_master_rune_of_slowness</phase>
+<stat>scalar_speed</stat>
+<value>0.88</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{bf202507-cc9d-49bd-a910-83b92d89a786}" record_timestamp="1477035609490" record_key="wh_dlc06_rune_passive_master_rune_of_slownessstat_charge_bonus">
+<how>mult</how>
+<phase>wh_dlc06_rune_passive_master_rune_of_slowness</phase>
+<stat>stat_charge_bonus</stat>
+<value>0.92</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6c672de3-81b3-4c3a-ad0d-39beb1403080}" record_timestamp="1477035609491" record_key="wh_dlc06_rune_passive_master_rune_of_slownessstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc06_rune_passive_master_rune_of_slowness</phase>
+<stat>stat_melee_attack</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{35a14041-8a1a-4e45-a3d3-7f6793d84c2c}" record_timestamp="1474287826732" record_key="wh_dlc06_rune_passive_rune_of_hearth_and_homescalar_bracing">
+<how>mult</how>
+<phase>wh_dlc06_rune_passive_rune_of_hearth_and_home</phase>
+<stat>scalar_bracing</stat>
+<value>2</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{eb28dd5b-f1af-4dfe-bb08-3501062b661b}" record_timestamp="1477038877557" record_key="wh_dlc06_unit_abilities_smoke_bombscalar_charge_speed">
+<how>mult</how>
+<phase>wh_dlc06_unit_abilities_smoke_bomb</phase>
+<stat>scalar_charge_speed</stat>
+<value>0.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c6c6e2b2-71b7-4de9-93bc-9fb1a943cdee}" record_timestamp="1477038877557" record_key="wh_dlc06_unit_abilities_smoke_bombscalar_speed">
+<how>mult</how>
+<phase>wh_dlc06_unit_abilities_smoke_bomb</phase>
+<stat>scalar_speed</stat>
+<value>0.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{d59edf4a-d4b1-4145-89e8-e53af56f5092}" record_timestamp="1477035584695" record_key="wh_dlc06_unit_contact_blindedstat_accuracy">
+<how>mult</how>
+<phase>wh_dlc06_unit_contact_blinded</phase>
+<stat>stat_accuracy</stat>
+<value>0.6</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3c0ac348-566b-41e7-a09f-963266b56a5d}" record_timestamp="1477035604349" record_key="wh_dlc06_unit_contact_blindedstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc06_unit_contact_blinded</phase>
+<stat>stat_melee_attack</stat>
+<value>-36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{fe4584a5-785c-4b02-bc43-f9772c777584}" record_timestamp="1477035604348" record_key="wh_dlc06_unit_contact_blindedstat_melee_defence">
+<how>add</how>
+<phase>wh_dlc06_unit_contact_blinded</phase>
+<stat>stat_melee_defence</stat>
+<value>-34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{0982b43a-b492-4250-8a54-84e0e055bc49}" record_timestamp="1477035609353" record_key="wh_dlc06_unit_contact_discouragedstat_morale">
+<how>add</how>
+<phase>wh_dlc06_unit_contact_discouraged</phase>
+<stat>stat_morale</stat>
+<value>-16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{566030d8-ee22-4b38-aaa7-592d6931b375}" record_timestamp="1477035584705" record_key="wh_dlc06_unit_contact_flammablescalar_speed">
+<how>mult</how>
+<phase>wh_dlc06_unit_contact_flammable</phase>
+<stat>scalar_speed</stat>
+<value>0.64</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{dc1347eb-cb0f-4e8a-9911-7645c6c2d0ff}" record_timestamp="1477035584706" record_key="wh_dlc06_unit_contact_flammablestat_resistance_flame">
+<how>add</how>
+<phase>wh_dlc06_unit_contact_flammable</phase>
+<stat>stat_resistance_flame</stat>
+<value>-25</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{627f71d4-35e9-4f76-987b-ccbc008c1a82}" record_timestamp="1485777035208" record_key="wh_dlc06_unit_contact_sundered_armourstat_armour">
+<how>add</how>
+<phase>wh_dlc06_unit_contact_sundered_armour</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{56ec45f6-cd7d-4572-8f96-2e4ac802e925}" record_timestamp="1486743877576" record_key="wh_dlc06_unit_passive_marked_by_ultharstat_armour">
+<how>add</how>
+<phase>wh_dlc06_unit_passive_marked_by_ulthar</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{88ca9f31-646d-4797-9ac6-066debaa9f49}" record_timestamp="1477035606651" record_key="wh_dlc06_unit_passive_marked_by_ultharstat_missile_block_chance">
+<how>add</how>
+<phase>wh_dlc06_unit_passive_marked_by_ulthar</phase>
+<stat>stat_missile_block_chance</stat>
+<value>-24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{9883ce7f-28a8-4f85-ad75-09ae17ae342b}" record_timestamp="1477035606652" record_key="wh_dlc06_unit_passive_marked_by_ultharstat_resistance_missile">
+<how>add</how>
+<phase>wh_dlc06_unit_passive_marked_by_ulthar</phase>
+<stat>stat_resistance_missile</stat>
+<value>-22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b092b949-d03d-4794-83a2-f505ad97d84a}" record_timestamp="1474281970617" record_key="wh_dlc06_unit_passive_opportunist_murdererstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc06_unit_passive_opportunist_murderer</phase>
+<stat>stat_melee_attack</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{fe27e3a0-e36f-45b4-8223-31b01f1236f2}" record_timestamp="1477035604351" record_key="wh_dlc06_unit_passive_opportunist_murdererstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_dlc06_unit_passive_opportunist_murderer</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{86ecdf65-87a9-4162-9724-5688cf6c2890}" record_timestamp="1477035608946" record_key="wh_dlc06_unit_passive_power_of_the_dragon_backstat_resistance_flame">
+<how>add</how>
+<phase>wh_dlc06_unit_passive_power_of_the_dragon_back</phase>
+<stat>stat_resistance_flame</stat>
+<value>20</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{70e02651-4d1d-4484-8539-06d6eda89fc0}" record_timestamp="1474282528998" record_key="wh_dlc06_unit_passive_squigs_go_wildstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc06_unit_passive_squigs_go_wild</phase>
+<stat>stat_melee_attack</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b9d2dcb4-b336-4287-9b78-0af288396b13}" record_timestamp="1474282528997" record_key="wh_dlc06_unit_passive_squigs_go_wildstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_dlc06_unit_passive_squigs_go_wild</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{25c0797f-4807-4194-ad58-7ec53762695a}" record_timestamp="1479317297038" record_key="wh_dlc06_unit_passive_squigs_go_wildstat_melee_defence">
+<how>add</how>
+<phase>wh_dlc06_unit_passive_squigs_go_wild</phase>
+<stat>stat_melee_defence</stat>
+<value>-18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{e7bec52b-933f-4382-99f4-8726c17b4fbb}" record_timestamp="1479317297040" record_key="wh_dlc06_unit_passive_squigs_go_wildstat_morale">
+<how>add</how>
+<phase>wh_dlc06_unit_passive_squigs_go_wild</phase>
+<stat>stat_morale</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{2ab32341-19a2-4dd6-a7e0-0def27b5daf9}" record_timestamp="1477035615436" record_key="wh_dlc06_weapon_passive_bonewoof_staffstat_charge_bonus">
+<how>mult</how>
+<phase>wh_dlc06_weapon_passive_bonewoof_staff</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c9ab7447-a4c4-405c-94a8-54dbf2c7e515}" record_timestamp="1477035615435" record_key="wh_dlc06_weapon_passive_bonewoof_staffstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc06_weapon_passive_bonewoof_staff</phase>
+<stat>stat_melee_attack</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{d838c916-39b0-49b0-877a-49b7a0293f0b}" record_timestamp="1477038874672" record_key="wh_dlc06_weapon_passive_hammer_of_angrundstat_charge_bonus">
+<how>mult</how>
+<phase>wh_dlc06_weapon_passive_hammer_of_angrund</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b830d8e0-1956-4082-bf41-654d6e5a82a8}" record_timestamp="1477038874673" record_key="wh_dlc06_weapon_passive_hammer_of_angrundstat_melee_attack">
+<how>add</how>
+<phase>wh_dlc06_weapon_passive_hammer_of_angrund</phase>
+<stat>stat_melee_attack</stat>
+<value>12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{e78dda0f-0664-4c5f-b936-6f8cda249a9b}" record_timestamp="1477038874673" record_key="wh_dlc06_weapon_passive_hammer_of_angrundstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_dlc06_weapon_passive_hammer_of_angrund</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{641815a9-f83f-4f5e-9926-f35d915d42d5}" record_timestamp="1481733139012" record_key="wh_dlc07_hero_abilities_dolorous_bladestat_melee_attack">
+<how>add</how>
+<phase>wh_dlc07_hero_abilities_dolorous_blade</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{800b0b89-7ba3-46ac-8843-995b548046d7}" record_timestamp="1486743835689" record_key="wh_dlc07_hero_abilities_dolorous_bladestat_melee_damage_base">
+<how>mult</how>
+<phase>wh_dlc07_hero_abilities_dolorous_blade</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.44</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3adefcf5-74a2-48c4-9b0d-3f6fd98ccddb}" record_timestamp="1479323990919" record_key="wh_dlc07_hero_passive_precise_controlscalar_missile_range">
+<how>mult</how>
+<phase>wh_dlc07_hero_passive_precise_control</phase>
+<stat>scalar_missile_range</stat>
+<value>1.1</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{413abecf-178d-4bba-a402-63cc23e504f9}" record_timestamp="1486123187875" record_key="wh_dlc07_lord_abilities_favour_of_the_faystat_melee_attack">
+<how>add</how>
+<phase>wh_dlc07_lord_abilities_favour_of_the_fay</phase>
+<stat>stat_melee_attack</stat>
+<value>58</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5f835518-9d3d-4b11-9ff4-a1c1b4133edf}" record_timestamp="1486123187804" record_key="wh_dlc07_lord_abilities_lions_shieldstat_resistance_magic">
+<how>add</how>
+<phase>wh_dlc07_lord_abilities_lions_shield</phase>
+<stat>stat_resistance_magic</stat>
+<value>44</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3dbf0aa1-492d-435e-a1a5-cd2d23f5f37c}" record_timestamp="1486123187832" record_key="wh_dlc07_lord_abilities_lions_shieldstat_resistance_missile">
+<how>add</how>
+<phase>wh_dlc07_lord_abilities_lions_shield</phase>
+<stat>stat_resistance_missile</stat>
+<value>44</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5912b2a7-28c8-4fcb-b5df-bb0e42a723eb}" record_timestamp="1481733139012" record_key="wh_dlc07_lord_passive_mist_of_the_ladystat_melee_attack">
+<how>add</how>
+<phase>wh_dlc07_lord_passive_mist_of_the_lady</phase>
+<stat>stat_melee_attack</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{26a267ff-8278-4bac-99be-1047c2da6538}" record_timestamp="1481733139012" record_key="wh_dlc07_lord_passive_spirit_of_the_tempestscalar_speed">
+<how>mult</how>
+<phase>wh_dlc07_lord_passive_spirit_of_the_tempest</phase>
+<stat>scalar_speed</stat>
+<value>1.1</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{02f6dc4b-df76-4206-8413-1f81d2d1228f}" record_timestamp="1481733139012" record_key="wh_dlc07_lord_passive_spirit_of_the_tempeststat_charge_bonus">
+<how>mult</how>
+<phase>wh_dlc07_lord_passive_spirit_of_the_tempest</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.08</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6b8edcb6-2c6a-41dc-8b36-b1dfb04eae31}" record_timestamp="1477035614609" record_key="wh_dlc07_unit_formation_diamondscalar_speed">
+<how>mult</how>
+<phase>wh_dlc07_unit_formation_diamond</phase>
+<stat>scalar_speed</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{54287c00-29ca-42c2-be2f-63f661a7237c}" record_timestamp="1477035614610" record_key="wh_dlc07_unit_formation_diamondstat_bonus_vs_infantry">
+<how>add</how>
+<phase>wh_dlc07_unit_formation_diamond</phase>
+<stat>stat_bonus_vs_infantry</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{27dd4ff3-72f6-4a95-b32d-9321c234472e}" record_timestamp="1477035614605" record_key="wh_dlc07_unit_formation_diamondstat_charge_bonus">
+<how>mult</how>
+<phase>wh_dlc07_unit_formation_diamond</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.54</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{88fab06c-1ab5-4a88-8bf1-6d55d62745b7}" record_timestamp="1477035614608" record_key="wh_dlc07_unit_formation_diamondstat_missile_block_chance">
+<how>mult</how>
+<phase>wh_dlc07_unit_formation_diamond</phase>
+<stat>stat_missile_block_chance</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{da079d60-7392-4ce4-a886-30f9a71433b5}" record_timestamp="1477035614609" record_key="wh_dlc07_unit_formation_flying_wedgescalar_speed">
+<how>mult</how>
+<phase>wh_dlc07_unit_formation_flying_wedge</phase>
+<stat>scalar_speed</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{e11571ae-d673-4eb3-ae29-9a1ba994fe83}" record_timestamp="1477035614610" record_key="wh_dlc07_unit_formation_flying_wedgestat_bonus_vs_infantry">
+<how>add</how>
+<phase>wh_dlc07_unit_formation_flying_wedge</phase>
+<stat>stat_bonus_vs_infantry</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{d68cb452-4a5f-4788-acb9-15dc66eabfd8}" record_timestamp="1477035614606" record_key="wh_dlc07_unit_formation_flying_wedgestat_charge_bonus">
+<how>mult</how>
+<phase>wh_dlc07_unit_formation_flying_wedge</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{2c0febdf-ccdf-4cf9-926f-1549c132488b}" record_timestamp="1477035614607" record_key="wh_dlc07_unit_formation_flying_wedgestat_missile_block_chance">
+<how>mult</how>
+<phase>wh_dlc07_unit_formation_flying_wedge</phase>
+<stat>stat_missile_block_chance</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{1f91dcab-75d1-45a1-aa99-f888d10fed1a}" record_timestamp="1486468450204" record_key="wh_dlc07_unit_formation_lance_2scalar_charge_speed">
+<how>mult</how>
+<phase>wh_dlc07_unit_formation_lance_2</phase>
+<stat>scalar_charge_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{caca9ed5-a628-4fe5-8ba4-bbeae53a36f8}" record_timestamp="1486468450204" record_key="wh_dlc07_unit_formation_lance_2scalar_entity_acceleration_modifier">
+<how>mult</how>
+<phase>wh_dlc07_unit_formation_lance_2</phase>
+<stat>scalar_entity_acceleration_modifier</stat>
+<value>1.5</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{387d6c14-60e7-44b8-a7fb-52931e0ed63d}" record_timestamp="1486468450204" record_key="wh_dlc07_unit_formation_lance_2scalar_entity_deceleration_modifier">
+<how>mult</how>
+<phase>wh_dlc07_unit_formation_lance_2</phase>
+<stat>scalar_entity_deceleration_modifier</stat>
+<value>1.5</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{847d737c-c07a-4a2f-a89e-d3a17dbaaef9}" record_timestamp="1486468450204" record_key="wh_dlc07_unit_formation_lance_2scalar_speed">
+<how>mult</how>
+<phase>wh_dlc07_unit_formation_lance_2</phase>
+<stat>scalar_speed</stat>
+<value>0.88</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{35721aca-44b6-4015-8cff-166b11700f54}" record_timestamp="1486747363307" record_key="wh_dlc07_unit_formation_lance_2stat_charge_bonus">
+<how>mult</how>
+<phase>wh_dlc07_unit_formation_lance_2</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5d613b2d-a1c3-4fe1-9d7c-3acc2185b67a}" record_timestamp="1486747363365" record_key="wh_dlc07_unit_formation_lance_2stat_missile_block_chance">
+<how>mult</how>
+<phase>wh_dlc07_unit_formation_lance_2</phase>
+<stat>stat_missile_block_chance</stat>
+<value>0.52</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3230f31c-4790-4ffa-8378-0ab372121a6d}" record_timestamp="1481733139012" record_key="wh_dlc07_unit_passive_icon_of_devotionstat_morale">
+<how>add</how>
+<phase>wh_dlc07_unit_passive_icon_of_devotion</phase>
+<stat>stat_morale</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{8489d997-07cd-4811-b920-9e3f89f697ec}" record_timestamp="1477035609482" record_key="wh_main_banner_passive_banner_of_lost_holdsstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_banner_passive_banner_of_lost_holds</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b2ebb656-d32f-4010-a9bd-dcf6269db00b}" record_timestamp="1477035609520" record_key="wh_main_banner_passive_banner_of_ragestat_charge_bonus">
+<how>mult</how>
+<phase>wh_main_banner_passive_banner_of_rage</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.08</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{9aa8beaf-76ca-44af-8f04-0fc530d909d1}" record_timestamp="1459952845807" record_key="wh_main_banner_passive_banner_of_ragestat_melee_attack">
+<how>add</how>
+<phase>wh_main_banner_passive_banner_of_rage</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{4b616570-a861-45fc-95dc-0696bf57e170}" record_timestamp="1477035609526" record_key="wh_main_banner_passive_banner_of_ragestat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_banner_passive_banner_of_rage</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f33c4732-7269-4b5a-a711-e5a5350d6e52}" record_timestamp="1459942268144" record_key="wh_main_banner_passive_gleaming_pennantstat_morale">
+<how>add</how>
+<phase>wh_main_banner_passive_gleaming_pennant</phase>
+<stat>stat_morale</stat>
+<value>4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{106e3b73-b212-44ba-8eb9-d78edf1d436d}" record_timestamp="1459942268145" record_key="wh_main_banner_passive_griffon_bannerstat_morale">
+<how>add</how>
+<phase>wh_main_banner_passive_griffon_banner</phase>
+<stat>stat_morale</stat>
+<value>-4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{935e051d-01b1-4db0-81ad-c478ef3c7223}" record_timestamp="1459942268148" record_key="wh_main_banner_passive_scarecrow_bannerstat_morale">
+<how>add</how>
+<phase>wh_main_banner_passive_scarecrow_banner</phase>
+<stat>stat_morale</stat>
+<value>-4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{04d23fc0-cb5c-42f6-b508-fa5db6d7e81b}" record_timestamp="1459942268148" record_key="wh_main_banner_passive_the_screaming_bannerstat_morale">
+<how>add</how>
+<phase>wh_main_banner_passive_the_screaming_banner</phase>
+<stat>stat_morale</stat>
+<value>4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6d234ea2-eba9-43cd-9b27-c2e8e586a5f7}" record_timestamp="1459939851412" record_key="wh_main_character_abilities_blood_luststat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_character_abilities_blood_lust</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.20</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{4532ebe6-ec5e-414e-a21c-cee3ce5f5a27}" record_timestamp="1459939851478" record_key="wh_main_character_abilities_deadly_onslaughtstat_charge_bonus">
+<how>mult</how>
+<phase>wh_main_character_abilities_deadly_onslaught</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{687923b0-5768-4298-8105-fd76345d98bc}" record_timestamp="1459939851692" record_key="wh_main_character_abilities_deadly_onslaughtstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_character_abilities_deadly_onslaught</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{846b612b-051f-4a12-8007-67062b6967c8}" record_timestamp="1459939851630" record_key="wh_main_character_abilities_foe_seekerscalar_speed">
+<how>mult</how>
+<phase>wh_main_character_abilities_foe_seeker</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{bfff698d-a2fe-4189-9b66-f19cb43e0750}" record_timestamp="1459939851666" record_key="wh_main_character_abilities_get_back_erestat_morale">
+<how>add</how>
+<phase>wh_main_character_abilities_get_back_ere</phase>
+<stat>stat_morale</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{972d3f92-6669-441c-901b-b374f928bf25}" record_timestamp="1459939851713" record_key="wh_main_character_abilities_heroic_killing_blowstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_character_abilities_heroic_killing_blow</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{cbfd4b59-60bd-46a7-a98e-9b2ab943c257}" record_timestamp="1459939851705" record_key="wh_main_character_abilities_heroic_killing_blowstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_character_abilities_heroic_killing_blow</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{99d9df56-0de4-4787-ae6b-d9e7fb1dcdc6}" record_timestamp="1459939851666" record_key="wh_main_character_abilities_magical_animusstat_morale">
+<how>add</how>
+<phase>wh_main_character_abilities_magical_animus</phase>
+<stat>stat_morale</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{7f6d2390-6dc6-43ad-b2b7-74f19ae4a2b2}" record_timestamp="1459939851667" record_key="wh_main_character_abilities_rallystat_morale">
+<how>add</how>
+<phase>wh_main_character_abilities_rally</phase>
+<stat>stat_morale</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{98c92944-36da-4e35-8d19-304fa2ff0d7f}" record_timestamp="1459939851477" record_key="wh_main_character_abilities_red_furystat_charge_bonus">
+<how>mult</how>
+<phase>wh_main_character_abilities_red_fury</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3801ecce-6c12-4f0b-94f1-94bd7066a94f}" record_timestamp="1459939851700" record_key="wh_main_character_abilities_red_furystat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_character_abilities_red_fury</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6702914d-ca8d-4b37-942d-bab1e32d5fcc}" record_timestamp="1465233510248" record_key="wh_main_character_abilities_stand_or_diestat_melee_defence">
+<how>add</how>
+<phase>wh_main_character_abilities_stand_or_die</phase>
+<stat>stat_melee_defence</stat>
+<value>36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{a5247db7-a494-4f5a-8600-939c7ee069f9}" record_timestamp="1465233510270" record_key="wh_main_character_abilities_stand_or_diestat_morale">
+<how>add</how>
+<phase>wh_main_character_abilities_stand_or_die</phase>
+<stat>stat_morale</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{8125eec1-8aab-43e3-82f0-8a46e29fe4ab}" record_timestamp="1465233510249" record_key="wh_main_character_abilities_stand_your_groundstat_melee_defence">
+<how>add</how>
+<phase>wh_main_character_abilities_stand_your_ground</phase>
+<stat>stat_melee_defence</stat>
+<value>36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6e2d750a-51c8-4363-9411-6133c1e9d8d2}" record_timestamp="1465233510270" record_key="wh_main_character_abilities_stand_your_groundstat_morale">
+<how>add</how>
+<phase>wh_main_character_abilities_stand_your_ground</phase>
+<stat>stat_morale</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{9e9f809b-bfe6-4bd9-a7eb-2b785e9e3539}" record_timestamp="1465233510248" record_key="wh_main_character_abilities_undeath_resurgentstat_melee_defence">
+<how>add</how>
+<phase>wh_main_character_abilities_undeath_resurgent</phase>
+<stat>stat_melee_defence</stat>
+<value>36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{00b1e8d4-d492-4682-88e8-99007231ee54}" record_timestamp="1465233510269" record_key="wh_main_character_abilities_undeath_resurgentstat_morale">
+<how>add</how>
+<phase>wh_main_character_abilities_undeath_resurgent</phase>
+<stat>stat_morale</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{0af53caa-31fe-4617-b318-acf2620a3cab}" record_timestamp="1465232446498" record_key="wh_main_character_abilities_waaaghstat_melee_attack">
+<how>add</how>
+<phase>wh_main_character_abilities_waaagh</phase>
+<stat>stat_melee_attack</stat>
+<value>58</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{164487cf-b812-44f8-a699-0b0b3592733c}" record_timestamp="1474282560252" record_key="wh_main_character_passive_benedictionstat_morale">
+<how>add</how>
+<phase>wh_main_character_passive_benediction</phase>
+<stat>stat_morale</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f5739e9f-c5e7-44b3-a3e7-84b2732af91c}" record_timestamp="1474282560252" record_key="wh_main_character_passive_dark_benedictionstat_morale">
+<how>add</how>
+<phase>wh_main_character_passive_dark_benediction</phase>
+<stat>stat_morale</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{76b07a83-4cce-4c13-a225-5c52f9a30d97}" record_timestamp="1459942268150" record_key="wh_main_character_passive_evasionscalar_entity_acceleration_modifier">
+<how>mult</how>
+<phase>wh_main_character_passive_evasion</phase>
+<stat>scalar_entity_acceleration_modifier</stat>
+<value>1.04</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{17517f41-7689-4890-8be9-a0e5adb3a127}" record_timestamp="1459942268150" record_key="wh_main_character_passive_evasionscalar_speed">
+<how>mult</how>
+<phase>wh_main_character_passive_evasion</phase>
+<stat>scalar_speed</stat>
+<value>1.06</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ec014520-475a-430f-9061-fd9ccc65ea4d}" record_timestamp="1481035910817" record_key="wh_main_hero_abilities_ballistics_calibrationstat_accuracy">
+<how>mult</how>
+<phase>wh_main_hero_abilities_ballistics_calibration</phase>
+<stat>stat_accuracy</stat>
+<value>1.3</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{eefe73f0-8892-4c1a-b310-f1d9bde8fdd4}" record_timestamp="1481035910816" record_key="wh_main_hero_abilities_ballistics_calibrationstat_reloading">
+<how>add</how>
+<phase>wh_main_hero_abilities_ballistics_calibration</phase>
+<stat>stat_reloading</stat>
+<value>20</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{d52bfe86-8960-4649-a152-5e7e6872fabf}" record_timestamp="1459952846190" record_key="wh_main_hero_abilities_faiths_bastionstat_resistance_all">
+<how>add</how>
+<phase>wh_main_hero_abilities_faiths_bastion</phase>
+<stat>stat_resistance_all</stat>
+<value>22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{a47e5000-3311-464c-be56-1147d936758a}" record_timestamp="1459939851451" record_key="wh_main_hero_abilities_slipperyscalar_entity_acceleration_modifier">
+<how>mult</how>
+<phase>wh_main_hero_abilities_slippery</phase>
+<stat>scalar_entity_acceleration_modifier</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{2f4d1bc4-8a8e-4a95-96f9-75aaa3fd58ca}" record_timestamp="1459939851616" record_key="wh_main_hero_abilities_slipperyscalar_speed">
+<how>mult</how>
+<phase>wh_main_hero_abilities_slippery</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{2a50b85b-07ec-4eaa-8699-e770acd496d8}" record_timestamp="1459952846139" record_key="wh_main_hero_passive_aura_of_the_ladystat_resistance_magic">
+<how>add</how>
+<phase>wh_main_hero_passive_aura_of_the_lady</phase>
+<stat>stat_resistance_magic</stat>
+<value>12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5d722449-205b-4276-8e9d-d24101c43b9d}" record_timestamp="1459942268159" record_key="wh_main_hero_passive_extra_powderscalar_missile_explosion_damage_base">
+<how>mult</how>
+<phase>wh_main_hero_passive_extra_powder</phase>
+<stat>scalar_missile_explosion_damage_base</stat>
+<value>1.06</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f1e4901e-effd-42d1-b16a-32077bf53f7f}" record_timestamp="1477035613418" record_key="wh_main_hero_passive_forgefirestat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_hero_passive_forgefire</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.08</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6750f256-10b8-434f-b859-a53eacaa719b}" record_timestamp="1459952845784" record_key="wh_main_hero_passive_swarm_of_fliesstat_melee_attack">
+<how>add</how>
+<phase>wh_main_hero_passive_swarm_of_flies</phase>
+<stat>stat_melee_attack</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{52332911-984a-4c0e-a2e5-d16895d9eef0}" record_timestamp="1483442654629" record_key="wh_main_item_abilities_cloak_of_mists_and_shadowsstat_resistance_physical">
+<how>add</how>
+<phase>wh_main_item_abilities_cloak_of_mists_and_shadows</phase>
+<stat>stat_resistance_physical</stat>
+<value>80</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3e39d56b-f6fe-4eaf-85c7-e3a2e233cc1e}" record_timestamp="1459939851714" record_key="wh_main_item_abilities_daemonic_strengthstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_item_abilities_daemonic_strength</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{d0fb5925-e6bb-4939-a0de-cd13b289f6e9}" record_timestamp="1459939851706" record_key="wh_main_item_abilities_daemonic_strengthstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_item_abilities_daemonic_strength</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{864503d7-7e44-4acd-b861-16d318c0d52d}" record_timestamp="1459952846180" record_key="wh_main_item_abilities_dark_fortunestat_resistance_all">
+<how>add</how>
+<phase>wh_main_item_abilities_dark_fortune</phase>
+<stat>stat_resistance_all</stat>
+<value>22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{026d1028-438a-49ee-86ba-fe22dd3684ab}" record_timestamp="1438699710342" record_key="wh_main_item_abilities_earthing_rodscalar_miscast_chance">
+<how>mult</how>
+<phase>wh_main_item_abilities_earthing_rod</phase>
+<stat>scalar_miscast_chance</stat>
+<value>0.0</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{db5868b2-35cf-4fb4-8a2a-8bedf14701a4}" record_timestamp="1459952846180" record_key="wh_main_item_abilities_opal_amuletstat_resistance_all">
+<how>add</how>
+<phase>wh_main_item_abilities_opal_amulet</phase>
+<stat>stat_resistance_all</stat>
+<value>22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{7a6b36bd-c213-459c-899e-3b768545ef65}" record_timestamp="1459943636559" record_key="wh_main_item_abilities_pendant_of_slaaneshscalar_speed">
+<how>mult</how>
+<phase>wh_main_item_abilities_pendant_of_slaanesh</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{9d511702-77e1-4847-a9ee-10f74a643ae8}" record_timestamp="1459952845888" record_key="wh_main_item_abilities_pendant_of_slaaneshstat_melee_attack">
+<how>add</how>
+<phase>wh_main_item_abilities_pendant_of_slaanesh</phase>
+<stat>stat_melee_attack</stat>
+<value>58</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{418d7533-21e8-48a2-965a-e37a6316c106}" record_timestamp="1459939851477" record_key="wh_main_item_abilities_potion_of_foolhardinessstat_charge_bonus">
+<how>mult</how>
+<phase>wh_main_item_abilities_potion_of_foolhardiness</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{dea7ba73-00c3-4ab1-89f5-21b537861a62}" record_timestamp="1459939851453" record_key="wh_main_item_abilities_potion_of_speedscalar_charge_speed">
+<how>mult</how>
+<phase>wh_main_item_abilities_potion_of_speed</phase>
+<stat>scalar_charge_speed</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b8a71c3e-ee21-4806-8a4a-e0d3cd1678bb}" record_timestamp="1459939851451" record_key="wh_main_item_abilities_potion_of_speedscalar_entity_acceleration_modifier">
+<how>mult</how>
+<phase>wh_main_item_abilities_potion_of_speed</phase>
+<stat>scalar_entity_acceleration_modifier</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f0ba98ee-7350-4d12-b076-ef887fd1d847}" record_timestamp="1459939851615" record_key="wh_main_item_abilities_potion_of_speedscalar_speed">
+<how>mult</how>
+<phase>wh_main_item_abilities_potion_of_speed</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b7605f92-c52c-4015-a6e0-00558ad8b90c}" record_timestamp="1487000697789" record_key="wh_main_item_abilities_potion_of_strengthstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_item_abilities_potion_of_strength</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{740ef7e2-3ed7-43ac-bbe1-fa0e8c4ef221}" record_timestamp="1459939851706" record_key="wh_main_item_abilities_potion_of_strengthstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_item_abilities_potion_of_strength</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ac31bdbf-281f-4859-937c-1c1ea83328fe}" record_timestamp="1486743877641" record_key="wh_main_item_abilities_potion_of_toughnessstat_armour">
+<how>add</how>
+<phase>wh_main_item_abilities_potion_of_toughness</phase>
+<stat>stat_armour</stat>
+<value>30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{4f9c28c0-d66b-48ce-981a-3e2ff020e0ba}" record_timestamp="1459952845911" record_key="wh_main_item_abilities_potion_of_toughnessstat_melee_defence">
+<how>add</how>
+<phase>wh_main_item_abilities_potion_of_toughness</phase>
+<stat>stat_melee_defence</stat>
+<value>36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{41da07e4-f5c3-4613-90e1-4a5b3fb487a4}" record_timestamp="1459952846181" record_key="wh_main_item_abilities_sceptre_of_stabilitystat_resistance_magic">
+<how>add</how>
+<phase>wh_main_item_abilities_sceptre_of_stability</phase>
+<stat>stat_resistance_magic</stat>
+<value>22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{40c1e1d8-f5e3-4f89-9f82-188c773ee4ec}" record_timestamp="1459952846182" record_key="wh_main_item_abilities_scroll_of_shieldingstat_resistance_all">
+<how>add</how>
+<phase>wh_main_item_abilities_scroll_of_shielding</phase>
+<stat>stat_resistance_all</stat>
+<value>22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{9d2bd4ea-fc26-4f53-890c-15e9387ef2f0}" record_timestamp="1484926552273" record_key="wh_main_item_abilities_silver_horn_of_vengeancestat_charge_bonus">
+<how>mult</how>
+<phase>wh_main_item_abilities_silver_horn_of_vengeance</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b372b468-22f0-41f1-819e-63bb9e96099f}" record_timestamp="1484926552431" record_key="wh_main_item_abilities_skull_wand_of_kalothstat_melee_attack">
+<how>add</how>
+<phase>wh_main_item_abilities_skull_wand_of_kaloth</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{0d838c5c-ce5b-4f7b-86d2-31661a3fa3b2}" record_timestamp="1459939851707" record_key="wh_main_item_abilities_skull_wand_of_kalothstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_item_abilities_skull_wand_of_kaloth</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{20c9cb1e-0ff1-410e-a09c-1d5916e6fedd}" record_timestamp="1477035604888" record_key="wh_main_item_abilities_tricksters_shardscalar_miscast_chance">
+<how>mult</how>
+<phase>wh_main_item_abilities_tricksters_shard</phase>
+<stat>scalar_miscast_chance</stat>
+<value>2</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6013513c-e184-4e18-b465-d8020b50c675}" record_timestamp="1459952846028" record_key="wh_main_item_abilities_van_horstmanns_speculumstat_melee_attack">
+<how>add</how>
+<phase>wh_main_item_abilities_van_horstmanns_speculum</phase>
+<stat>stat_melee_attack</stat>
+<value>-34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{92a40f90-13ed-4601-af05-75d32bbc42a6}" record_timestamp="1459939851685" record_key="wh_main_item_abilities_van_horstmanns_speculumstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_item_abilities_van_horstmanns_speculum</phase>
+<stat>stat_melee_damage_base</stat>
+<value>0.78</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{eb2c058c-d773-4d8e-8977-26fe41ed6c73}" record_timestamp="1459952845891" record_key="wh_main_item_abilities_van_horstmanns_speculumstat_melee_defence">
+<how>add</how>
+<phase>wh_main_item_abilities_van_horstmanns_speculum</phase>
+<stat>stat_melee_defence</stat>
+<value>-36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{0c23dee5-8aa8-43b5-bff3-6018f866789e}" record_timestamp="1459942268160" record_key="wh_main_item_passive_featherfoe_torcstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_item_passive_featherfoe_torc</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>0.96</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{25b0b1fe-14d4-4654-a861-2402ef03a698}" record_timestamp="1459942268160" record_key="wh_main_item_passive_featherfoe_torcstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_item_passive_featherfoe_torc</phase>
+<stat>stat_melee_damage_base</stat>
+<value>0.94</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3a352484-a708-474b-b331-dc3de6d5a7d1}" record_timestamp="1459952845792" record_key="wh_main_item_passive_pidgeon_plucker_pendantstat_melee_attack">
+<how>add</how>
+<phase>wh_main_item_passive_pidgeon_plucker_pendant</phase>
+<stat>stat_melee_attack</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{39dd034d-0dd0-4552-83d3-fd5ec4461104}" record_timestamp="1485362758844" record_key="wh_main_item_passive_the_great_book_of_grudgesstat_melee_attack">
+<how>add</how>
+<phase>wh_main_item_passive_the_great_book_of_grudges</phase>
+<stat>stat_melee_attack</stat>
+<value>12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{473fbd1f-148f-45e4-ae1f-b912720fd3f1}" record_timestamp="1459952846162" record_key="wh_main_item_passive_the_other_tricksters_shardstat_resistance_all">
+<how>add</how>
+<phase>wh_main_item_passive_the_other_tricksters_shard</phase>
+<stat>stat_resistance_all</stat>
+<value>-20</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{7046344e-deb3-4e2f-a997-c24000eeace6}" record_timestamp="1459943636574" record_key="wh_main_item_passive_the_white_cloak_of_ulricscalar_speed">
+<how>mult</how>
+<phase>wh_main_item_passive_the_white_cloak_of_ulric</phase>
+<stat>scalar_speed</stat>
+<value>0.94</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{aa5f62af-fb90-4a69-aedf-f9a58e56c1a9}" record_timestamp="1459952846139" record_key="wh_main_item_passive_the_white_cloak_of_ulricstat_melee_attack">
+<how>add</how>
+<phase>wh_main_item_passive_the_white_cloak_of_ulric</phase>
+<stat>stat_melee_attack</stat>
+<value>-16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{30509d24-108f-4ebb-a7fe-34df8a3fa684}" record_timestamp="1477035609519" record_key="wh_main_lord_passive_beloved_son_of_bretonniastat_charge_bonus">
+<how>mult</how>
+<phase>wh_main_lord_passive_beloved_son_of_bretonnia</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.08</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{02793e8c-345e-4d88-b247-3e9a647585eb}" record_timestamp="1459952845809" record_key="wh_main_lord_passive_beloved_son_of_bretonniastat_melee_attack">
+<how>add</how>
+<phase>wh_main_lord_passive_beloved_son_of_bretonnia</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{babad920-3026-4555-9285-5704d6c3025c}" record_timestamp="1477035609526" record_key="wh_main_lord_passive_beloved_son_of_bretonniastat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_lord_passive_beloved_son_of_bretonnia</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{63d537d1-5bdf-49fd-8fa0-2e852cf0ad61}" record_timestamp="1484926552417" record_key="wh_main_lord_passive_deathblowstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_lord_passive_deathblow</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.08</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ddf318bb-f0d4-4720-a424-41acd0ddd36f}" record_timestamp="1484926552417" record_key="wh_main_lord_passive_deathblowstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_lord_passive_deathblow</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{790f593c-58a3-403c-833a-52b60dbf93c0}" record_timestamp="1484827200005" record_key="wh_main_lord_passive_get_on_wiv_itstat_charge_bonus">
+<how>mult</how>
+<phase>wh_main_lord_passive_get_on_wiv_it</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.08</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5fb66556-a296-4a3d-a32e-fffc3e87fec1}" record_timestamp="1477035609519" record_key="wh_main_lord_passive_high_kingstat_charge_bonus">
+<how>mult</how>
+<phase>wh_main_lord_passive_high_king</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.08</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f361f817-72e0-48f4-9302-81e3c6bba2b4}" record_timestamp="1459952845811" record_key="wh_main_lord_passive_high_kingstat_melee_attack">
+<how>add</how>
+<phase>wh_main_lord_passive_high_king</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{73135716-d3d9-4877-a44b-2e21d5fe2897}" record_timestamp="1477035609525" record_key="wh_main_lord_passive_high_kingstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_lord_passive_high_king</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f73087ee-165c-40df-a7c8-0f21b53673cd}" record_timestamp="1474282561558" record_key="wh_main_lord_passive_hold_the_linescalar_bracing">
+<how>mult</how>
+<phase>wh_main_lord_passive_hold_the_line</phase>
+<stat>scalar_bracing</stat>
+<value>2</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{227fc7f0-c9e2-47a4-8084-9b2b567e022f}" record_timestamp="1474282561572" record_key="wh_main_lord_passive_hold_the_linestat_morale">
+<how>add</how>
+<phase>wh_main_lord_passive_hold_the_line</phase>
+<stat>stat_morale</stat>
+<value>4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{cdc64053-495e-48a5-bd3c-ce10c99d151d}" record_timestamp="1482324019544" record_key="wh_main_lord_passive_the_blessing_of_the_ladystat_resistance_physical">
+<how>add</how>
+<phase>wh_main_lord_passive_the_blessing_of_the_lady</phase>
+<stat>stat_resistance_physical</stat>
+<value>20</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b8468e7f-fab3-41e0-a4d1-afee47fbae7d}" record_timestamp="1459942268166" record_key="wh_main_lore_passive_exorcismstat_morale">
+<how>add</how>
+<phase>wh_main_lore_passive_exorcism</phase>
+<stat>stat_morale</stat>
+<value>-4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{e831316d-d2bb-415c-bf43-fd9dc01a1320}" record_timestamp="1459952846222" record_key="wh_main_lore_passive_kindleflamestat_weakness_flame">
+<how>add</how>
+<phase>wh_main_lore_passive_kindleflame</phase>
+<stat>stat_weakness_flame</stat>
+<value>-12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{adff47ff-5a62-4d37-a60a-c040e2c23859}" record_timestamp="1459942268167" record_key="wh_main_lore_passive_metalshiftingstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_lore_passive_metalshifting</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.04</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3231b89b-5337-4e9c-ab97-e284a8cd1117}" record_timestamp="1459952845793" record_key="wh_main_lore_passive_roiling_skiesstat_melee_defence">
+<how>add</how>
+<phase>wh_main_lore_passive_roiling_skies</phase>
+<stat>stat_melee_defence</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c411622d-f18b-47ea-9c28-01c692cf3c1e}" record_timestamp="1462358717963" record_key="wh_main_lore_passive_roiling_skiesstat_missile_block_chance">
+<how>add</how>
+<phase>wh_main_lore_passive_roiling_skies</phase>
+<stat>stat_missile_block_chance</stat>
+<value>-6</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b94dc883-7deb-4594-9fc0-b2e08a161f20}" record_timestamp="1477035609520" record_key="wh_main_mark_passive_mark_of_khornestat_charge_bonus">
+<how>mult</how>
+<phase>wh_main_mark_passive_mark_of_khorne</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.08</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{fccd0dd7-3ba0-45de-9eef-7655a6a1a43a}" record_timestamp="1459952845820" record_key="wh_main_mark_passive_mark_of_khornestat_melee_attack">
+<how>add</how>
+<phase>wh_main_mark_passive_mark_of_khorne</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c98d7b2e-6a52-40de-a9f3-e33af7e69bdb}" record_timestamp="1477035609527" record_key="wh_main_mark_passive_mark_of_khornestat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_mark_passive_mark_of_khorne</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b83b882a-8856-4269-9275-37c3fbfac734}" record_timestamp="1471865773818" record_key="wh_main_mount_abilities_bloodroarstat_morale">
+<how>add</how>
+<phase>wh_main_mount_abilities_bloodroar</phase>
+<stat>stat_morale</stat>
+<value>-4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{9a5f456a-3e71-47ba-a28e-e36a057aede2}" record_timestamp="1469109646770" record_key="wh_main_mount_passive_aura_of_protectionstat_resistance_magic">
+<how>add</how>
+<phase>wh_main_mount_passive_aura_of_protection</phase>
+<stat>stat_resistance_magic</stat>
+<value>12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{758acef8-e984-4c39-b351-af8e377524d1}" record_timestamp="1469109646819" record_key="wh_main_mount_passive_aura_of_protectionstat_resistance_missile">
+<how>add</how>
+<phase>wh_main_mount_passive_aura_of_protection</phase>
+<stat>stat_resistance_missile</stat>
+<value>12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{97ece433-300c-45ff-aa9c-7af549bf8d21}" record_timestamp="1477038874518" record_key="wh_main_rune_abilities_rune_of_negationstat_resistance_all">
+<how>add</how>
+<phase>wh_main_rune_abilities_rune_of_negation</phase>
+<stat>stat_resistance_all</stat>
+<value>22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ba18be5c-3105-4664-a3e1-4a2803c60dce}" record_timestamp="1486743877705" record_key="wh_main_rune_abilities_rune_of_oath_and_steelstat_armour">
+<how>add</how>
+<phase>wh_main_rune_abilities_rune_of_oath_and_steel</phase>
+<stat>stat_armour</stat>
+<value>30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{9c90916a-dea1-4565-a0a6-baa71e9397f1}" record_timestamp="1459942268169" record_key="wh_main_rune_passive_master_rune_of_groth_one_eyestat_morale">
+<how>add</how>
+<phase>wh_main_rune_passive_master_rune_of_groth_one_eye</phase>
+<stat>stat_morale</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{de7f357f-20b6-4e34-bece-ebe068a48092}" record_timestamp="1459952846220" record_key="wh_main_rune_passive_master_rune_of_grungnistat_resistance_missile">
+<how>add</how>
+<phase>wh_main_rune_passive_master_rune_of_grungni</phase>
+<stat>stat_resistance_missile</stat>
+<value>20</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3f4177b8-6d86-4bda-b94a-f1819d887959}" record_timestamp="1459952845855" record_key="wh_main_rune_passive_master_rune_of_stromni_redbeardstat_melee_attack">
+<how>add</how>
+<phase>wh_main_rune_passive_master_rune_of_stromni_redbeard</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{d9676be0-ff59-4b13-bdf4-d60c4770c3b7}" record_timestamp="1459942268171" record_key="wh_main_rune_passive_master_rune_of_stromni_redbeardstat_morale">
+<how>add</how>
+<phase>wh_main_rune_passive_master_rune_of_stromni_redbeard</phase>
+<stat>stat_morale</stat>
+<value>4</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b338c4d8-dbc1-4a99-a0ec-634aa6760f4d}" record_timestamp="1459942268171" record_key="wh_main_rune_passive_rune_of_slownessstat_charge_bonus">
+<how>mult</how>
+<phase>wh_main_rune_passive_rune_of_slowness</phase>
+<stat>stat_charge_bonus</stat>
+<value>0.96</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{88fb554c-49fd-41f9-bc10-eb2bcf7920fc}" record_timestamp="1459952845795" record_key="wh_main_rune_passive_rune_of_slownessstat_melee_attack">
+<how>add</how>
+<phase>wh_main_rune_passive_rune_of_slowness</phase>
+<stat>stat_melee_attack</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{efd7ec18-81aa-43ef-9190-be8297ed30ae}" record_timestamp="1459952845889" record_key="wh_main_spell_big_waaagh_ere_we_gostat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_big_waaagh_ere_we_go</phase>
+<stat>stat_melee_attack</stat>
+<value>58</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{fa8afd1c-0791-481b-b1eb-331de462f798}" record_timestamp="1459952846110" record_key="wh_main_spell_big_waaagh_fists_of_gorkstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_big_waaagh_fists_of_gork</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{62baf33b-8499-460e-b266-601281088359}" record_timestamp="1459939851707" record_key="wh_main_spell_big_waaagh_fists_of_gorkstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_spell_big_waaagh_fists_of_gork</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5f8b9e5e-f1cb-431c-98ce-156f7eb70e43}" record_timestamp="1459952845912" record_key="wh_main_spell_big_waaagh_fists_of_gorkstat_melee_defence">
+<how>add</how>
+<phase>wh_main_spell_big_waaagh_fists_of_gork</phase>
+<stat>stat_melee_defence</stat>
+<value>36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{1aa7bbff-effa-42fa-9817-02d4659f0620}" record_timestamp="1459939851615" record_key="wh_main_spell_bound_book_of_arkhanscalar_speed">
+<how>mult</how>
+<phase>wh_main_spell_bound_book_of_arkhan</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{8a241e81-e1af-421a-925f-bd5097d9f2fd}" record_timestamp="1459952846110" record_key="wh_main_spell_bound_book_of_arkhanstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_bound_book_of_arkhan</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{7aee8fa6-adbd-4b48-b24e-24f3d681b24e}" record_timestamp="1459952846119" record_key="wh_main_spell_bound_hammer_of_sigmarstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_bound_hammer_of_sigmar</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f8f7779f-360c-4502-814d-e890e51d81ce}" record_timestamp="1459952846182" record_key="wh_main_spell_bound_shield_of_faithstat_resistance_all">
+<how>add</how>
+<phase>wh_main_spell_bound_shield_of_faith</phase>
+<stat>stat_resistance_all</stat>
+<value>22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{9370561a-eb71-4162-9b85-5cc70eab4bee}" record_timestamp="1454066977039" record_key="wh_main_spell_bound_soulfirestat_resistance_magic">
+<how>add</how>
+<phase>wh_main_spell_bound_soulfire</phase>
+<stat>stat_resistance_magic</stat>
+<value>90</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{62d1af12-d406-4931-92d3-25887ab10cb3}" record_timestamp="1459952846120" record_key="wh_main_spell_bound_staff_of_damnationstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_bound_staff_of_damnation</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{65ae8afd-853d-4233-b7ca-edea3a11e928}" record_timestamp="1459939851673" record_key="wh_main_spell_death_aspect_of_the_dreadknight_upgradedstat_morale">
+<how>add</how>
+<phase>wh_main_spell_death_aspect_of_the_dreadknight_upgraded</phase>
+<stat>stat_morale</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{9e72d383-3554-4c82-8a85-bfc2fbaa84ab}" record_timestamp="1459939851672" record_key="wh_main_spell_death_aspect_of_the_dreadknightstat_morale">
+<how>add</how>
+<phase>wh_main_spell_death_aspect_of_the_dreadknight</phase>
+<stat>stat_morale</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{dd14286e-58bf-4f25-89d1-5d014c5fed2b}" record_timestamp="1459939851674" record_key="wh_main_spell_death_doom_and_darkness_upgradedstat_morale">
+<how>add</how>
+<phase>wh_main_spell_death_doom_and_darkness_upgraded</phase>
+<stat>stat_morale</stat>
+<value>-16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f4d8e456-74d2-447d-ae96-634baa749322}" record_timestamp="1459939851673" record_key="wh_main_spell_death_doom_and_darknessstat_morale">
+<how>add</how>
+<phase>wh_main_spell_death_doom_and_darkness</phase>
+<stat>stat_morale</stat>
+<value>-16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b25c2f86-d109-4d32-b47c-9972f03c96e7}" record_timestamp="1486743877834" record_key="wh_main_spell_death_soulblight_upgradedstat_armour">
+<how>add</how>
+<phase>wh_main_spell_death_soulblight_upgraded</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{01f7508b-d18e-42e9-8289-110ba215e33f}" record_timestamp="1459939851686" record_key="wh_main_spell_death_soulblight_upgradedstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_spell_death_soulblight_upgraded</phase>
+<stat>stat_melee_damage_base</stat>
+<value>0.78</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{2847b756-d33e-4845-b808-73cce40f4ebb}" record_timestamp="1486743877770" record_key="wh_main_spell_death_soulblightstat_armour">
+<how>add</how>
+<phase>wh_main_spell_death_soulblight</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{11972da0-88fa-46df-9178-a77c676e06b5}" record_timestamp="1459939851687" record_key="wh_main_spell_death_soulblightstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_spell_death_soulblight</phase>
+<stat>stat_melee_damage_base</stat>
+<value>0.78</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{bee135cd-f994-46bd-a160-ade35bfe445a}" record_timestamp="1486743867249" record_key="wh_main_spell_fire_cascading_fire_cloakstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_spell_fire_cascading_fire_cloak</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{97fa67f5-7978-4ae6-bf65-ccb488088e52}" record_timestamp="1459952845922" record_key="wh_main_spell_fire_cascading_fire_cloakstat_melee_defence">
+<how>add</how>
+<phase>wh_main_spell_fire_cascading_fire_cloak</phase>
+<stat>stat_melee_defence</stat>
+<value>36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f7f39457-93b4-47d8-ab68-7bfa0845c685}" record_timestamp="1459939851650" record_key="wh_main_spell_fire_flaming_sword_of_rhuin_upgradedscalar_missile_damage_base">
+<how>mult</how>
+<phase>wh_main_spell_fire_flaming_sword_of_rhuin_upgraded</phase>
+<stat>scalar_missile_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5af1d075-d408-4c10-975e-8da4e4f3df72}" record_timestamp="1459939851714" record_key="wh_main_spell_fire_flaming_sword_of_rhuin_upgradedstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_spell_fire_flaming_sword_of_rhuin_upgraded</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{659a68d9-7566-4fa7-9517-de23e571bccc}" record_timestamp="1459939851649" record_key="wh_main_spell_fire_flaming_sword_of_rhuinscalar_missile_damage_base">
+<how>mult</how>
+<phase>wh_main_spell_fire_flaming_sword_of_rhuin</phase>
+<stat>scalar_missile_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b8234ba3-50d3-40c1-b17f-10882f346072}" record_timestamp="1459939851715" record_key="wh_main_spell_fire_flaming_sword_of_rhuinstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_spell_fire_flaming_sword_of_rhuin</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{84d25ec6-617b-4554-8264-b027b66c3428}" record_timestamp="1486743877964" record_key="wh_main_spell_heavens_curse_of_the_midnight_wind_upgradedstat_armour">
+<how>add</how>
+<phase>wh_main_spell_heavens_curse_of_the_midnight_wind_upgraded</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{96ea7620-4934-426b-8983-eea12d637a8d}" record_timestamp="1459952846061" record_key="wh_main_spell_heavens_curse_of_the_midnight_wind_upgradedstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_heavens_curse_of_the_midnight_wind_upgraded</phase>
+<stat>stat_melee_attack</stat>
+<value>-34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c392ad68-fb2a-47ac-afa7-71fe5bbeb091}" record_timestamp="1486743877899" record_key="wh_main_spell_heavens_curse_of_the_midnight_windstat_armour">
+<how>add</how>
+<phase>wh_main_spell_heavens_curse_of_the_midnight_wind</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{67c430e6-0765-47cd-afa7-9149bc37d68e}" record_timestamp="1459952846068" record_key="wh_main_spell_heavens_curse_of_the_midnight_windstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_heavens_curse_of_the_midnight_wind</phase>
+<stat>stat_melee_attack</stat>
+<value>-34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{18b36075-ac63-4e5f-8f42-0cbc98feee7a}" record_timestamp="1486743878028" record_key="wh_main_spell_heavens_harmonic_convergence_upgradedstat_armour">
+<how>add</how>
+<phase>wh_main_spell_heavens_harmonic_convergence_upgraded</phase>
+<stat>stat_armour</stat>
+<value>30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5dfa1f77-68d2-43fd-a685-588392313681}" record_timestamp="1459952846121" record_key="wh_main_spell_heavens_harmonic_convergence_upgradedstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_heavens_harmonic_convergence_upgraded</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{4db5e175-a6eb-4533-8c96-0e92064589e8}" record_timestamp="1459952845923" record_key="wh_main_spell_heavens_harmonic_convergence_upgradedstat_melee_defence">
+<how>add</how>
+<phase>wh_main_spell_heavens_harmonic_convergence_upgraded</phase>
+<stat>stat_melee_defence</stat>
+<value>36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{4af51cc2-5fef-4b1e-b178-4f05cd54db47}" record_timestamp="1459952846135" record_key="wh_main_spell_heavens_harmonic_convergencestat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_heavens_harmonic_convergence</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{773fa777-c031-4680-8bdd-3f70c52049a2}" record_timestamp="1459952845927" record_key="wh_main_spell_heavens_harmonic_convergencestat_melee_defence">
+<how>add</how>
+<phase>wh_main_spell_heavens_harmonic_convergence</phase>
+<stat>stat_melee_defence</stat>
+<value>36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3551f09a-42ca-442d-80f4-820e34259a2a}" record_timestamp="1459939851614" record_key="wh_main_spell_light_bironas_timewarp_upgradedscalar_speed">
+<how>mult</how>
+<phase>wh_main_spell_light_bironas_timewarp_upgraded</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{04febc07-2c78-4eb9-bcdb-80c464662550}" record_timestamp="1459952846136" record_key="wh_main_spell_light_bironas_timewarp_upgradedstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_light_bironas_timewarp_upgraded</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{de9a4b79-cc23-4b08-9df0-b619a9bd9d41}" record_timestamp="1459939851615" record_key="wh_main_spell_light_bironas_timewarpscalar_speed">
+<how>mult</how>
+<phase>wh_main_spell_light_bironas_timewarp</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{e822d839-b75b-425a-804b-87819654a8e4}" record_timestamp="1459952846136" record_key="wh_main_spell_light_bironas_timewarpstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_light_bironas_timewarp</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{38eea5c2-08dc-483e-be10-7ab3334aa957}" record_timestamp="1486743878159" record_key="wh_main_spell_light_phas_protection_upgradedstat_armour">
+<how>add</how>
+<phase>wh_main_spell_light_phas_protection_upgraded</phase>
+<stat>stat_armour</stat>
+<value>30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{dab805d4-9471-415e-9003-5bccb2674f30}" record_timestamp="1459952846013" record_key="wh_main_spell_light_phas_protection_upgradedstat_melee_defence">
+<how>add</how>
+<phase>wh_main_spell_light_phas_protection_upgraded</phase>
+<stat>stat_melee_defence</stat>
+<value>36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ba943d5a-a446-4599-b8ec-6f5ccfa3899e}" record_timestamp="1486743878093" record_key="wh_main_spell_light_phas_protectionstat_armour">
+<how>add</how>
+<phase>wh_main_spell_light_phas_protection</phase>
+<stat>stat_armour</stat>
+<value>30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c8170eff-7032-4849-871f-a02bd6c40401}" record_timestamp="1459952846025" record_key="wh_main_spell_light_phas_protectionstat_melee_defence">
+<how>add</how>
+<phase>wh_main_spell_light_phas_protection</phase>
+<stat>stat_melee_defence</stat>
+<value>36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6bfcecdd-b074-4ade-8d3a-bc1c61d0f8dd}" record_timestamp="1459939851612" record_key="wh_main_spell_lil_waaagh_curse_of_da_bad_moon_upgradedscalar_speed">
+<how>mult</how>
+<phase>wh_main_spell_lil_waaagh_curse_of_da_bad_moon_upgraded</phase>
+<stat>scalar_speed</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b5361b8b-ddb6-4e8d-bba4-8352d4b716ed}" record_timestamp="1486743878288" record_key="wh_main_spell_lil_waaagh_curse_of_da_bad_moon_upgradedstat_armour">
+<how>add</how>
+<phase>wh_main_spell_lil_waaagh_curse_of_da_bad_moon_upgraded</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{40b069f5-c570-403c-95e3-17ee97626325}" record_timestamp="1459952846072" record_key="wh_main_spell_lil_waaagh_curse_of_da_bad_moon_upgradedstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_lil_waaagh_curse_of_da_bad_moon_upgraded</phase>
+<stat>stat_melee_attack</stat>
+<value>-34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{e0302af9-d351-4111-bf4c-1d84a76e41bb}" record_timestamp="1459939851613" record_key="wh_main_spell_lil_waaagh_curse_of_da_bad_moonscalar_speed">
+<how>mult</how>
+<phase>wh_main_spell_lil_waaagh_curse_of_da_bad_moon</phase>
+<stat>scalar_speed</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{4b8b04b8-09be-48d6-8f86-d5734c8662de}" record_timestamp="1486743878223" record_key="wh_main_spell_lil_waaagh_curse_of_da_bad_moonstat_armour">
+<how>add</how>
+<phase>wh_main_spell_lil_waaagh_curse_of_da_bad_moon</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{03b4b347-fcd0-48c6-ae4e-bae1ca7fbd92}" record_timestamp="1459952846073" record_key="wh_main_spell_lil_waaagh_curse_of_da_bad_moonstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_lil_waaagh_curse_of_da_bad_moon</phase>
+<stat>stat_melee_attack</stat>
+<value>-34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6dd253ab-014c-49b7-98a9-c25106bcdeba}" record_timestamp="1459939851612" record_key="wh_main_spell_lil_waaagh_gorkll_fix_itscalar_speed">
+<how>mult</how>
+<phase>wh_main_spell_lil_waaagh_gorkll_fix_it</phase>
+<stat>scalar_speed</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{d5b1b4b7-b5b4-49a7-8796-96d446b6d4a3}" record_timestamp="1459939851772" record_key="wh_main_spell_lil_waaagh_gorkll_fix_itstat_charge_bonus">
+<how>mult</how>
+<phase>wh_main_spell_lil_waaagh_gorkll_fix_it</phase>
+<stat>stat_charge_bonus</stat>
+<value>0.82</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b5a562a7-148c-4599-ad28-9d07bbc7e227}" record_timestamp="1459952846073" record_key="wh_main_spell_lil_waaagh_itchy_nuisancestat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_lil_waaagh_itchy_nuisance</phase>
+<stat>stat_melee_attack</stat>
+<value>-34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{867767b3-bb0e-4c6d-9260-f689c8ae8209}" record_timestamp="1459939851687" record_key="wh_main_spell_lil_waaagh_itchy_nuisancestat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_spell_lil_waaagh_itchy_nuisance</phase>
+<stat>stat_melee_damage_base</stat>
+<value>0.78</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{abc09983-9d18-465d-9ad5-87b49fb259c3}" record_timestamp="1471865773180" record_key="wh_main_spell_lil_waaagh_night_shroud_upgradedstat_accuracy">
+<how>mult</how>
+<phase>wh_main_spell_lil_waaagh_night_shroud_upgraded</phase>
+<stat>stat_accuracy</stat>
+<value>0.7</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{49b671e4-0867-43aa-b629-b1ce263c69d2}" record_timestamp="1486978877108" record_key="wh_main_spell_lil_waaagh_night_shroud_upgradedstat_visibility_sight">
+<how>mult</how>
+<phase>wh_main_spell_lil_waaagh_night_shroud_upgraded</phase>
+<stat>stat_visibility_sight</stat>
+<value>0.04</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{fbc8b964-7e36-45d2-9ea4-088fb7dad40b}" record_timestamp="1471865773180" record_key="wh_main_spell_lil_waaagh_night_shroudstat_accuracy">
+<how>mult</how>
+<phase>wh_main_spell_lil_waaagh_night_shroud</phase>
+<stat>stat_accuracy</stat>
+<value>0.7</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{a7bb3fb0-1345-49d5-bd82-b5017f9b67e2}" record_timestamp="1486978877103" record_key="wh_main_spell_lil_waaagh_night_shroudstat_visibility_sight">
+<how>mult</how>
+<phase>wh_main_spell_lil_waaagh_night_shroud</phase>
+<stat>stat_visibility_sight</stat>
+<value>0.04</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{38cbe200-77eb-4f82-9da6-96061c0649fb}" record_timestamp="1459952846137" record_key="wh_main_spell_lil_waaagh_sneaky_stabbinstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_lil_waaagh_sneaky_stabbin</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{511747a8-e26e-43d2-9fe4-a5f8d074f702}" record_timestamp="1459939851702" record_key="wh_main_spell_lil_waaagh_sneaky_stabbinstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_spell_lil_waaagh_sneaky_stabbin</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{e7f1ba3a-b957-4d08-8384-24d5a93581bf}" record_timestamp="1486743878418" record_key="wh_main_spell_metal_glittering_robe_upgradedstat_armour">
+<how>add</how>
+<phase>wh_main_spell_metal_glittering_robe_upgraded</phase>
+<stat>stat_armour</stat>
+<value>30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{4ab2a0cf-a355-47d4-8915-04606607e9dc}" record_timestamp="1459939851675" record_key="wh_main_spell_metal_glittering_robe_upgradedstat_morale">
+<how>add</how>
+<phase>wh_main_spell_metal_glittering_robe_upgraded</phase>
+<stat>stat_morale</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f590fa75-5c2e-4ebc-9444-7ccbf5a3cd12}" record_timestamp="1486743878354" record_key="wh_main_spell_metal_glittering_robestat_armour">
+<how>add</how>
+<phase>wh_main_spell_metal_glittering_robe</phase>
+<stat>stat_armour</stat>
+<value>30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c10454b4-0ed5-4aff-bc38-c3f75cc2a277}" record_timestamp="1459939851675" record_key="wh_main_spell_metal_glittering_robestat_morale">
+<how>add</how>
+<phase>wh_main_spell_metal_glittering_robe</phase>
+<stat>stat_morale</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{fa1b167f-535f-4cac-9a6f-3a510d179416}" record_timestamp="1486743878549" record_key="wh_main_spell_metal_plague_of_rust_upgradedstat_armour">
+<how>add</how>
+<phase>wh_main_spell_metal_plague_of_rust_upgraded</phase>
+<stat>stat_armour</stat>
+<value>-60</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{51d8d354-f62d-4b36-be9e-f13db41b0d07}" record_timestamp="1486743878483" record_key="wh_main_spell_metal_plague_of_ruststat_armour">
+<how>add</how>
+<phase>wh_main_spell_metal_plague_of_rust</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{5c48a7ab-fcb6-441e-a95b-46ad29694f83}" record_timestamp="1468496802051" record_key="wh_main_spell_metal_transmutation_of_lead_upgradedstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_metal_transmutation_of_lead_upgraded</phase>
+<stat>stat_melee_attack</stat>
+<value>-34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{933a9b8c-6ec0-4962-a0c2-1876d790787f}" record_timestamp="1468496802051" record_key="wh_main_spell_metal_transmutation_of_lead_upgradedstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_spell_metal_transmutation_of_lead_upgraded</phase>
+<stat>stat_melee_damage_base</stat>
+<value>0.56</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3467f332-5bb2-418e-8a2d-a018c353d88e}" record_timestamp="1459952846081" record_key="wh_main_spell_metal_transmutation_of_leadstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_metal_transmutation_of_lead</phase>
+<stat>stat_melee_attack</stat>
+<value>-34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{13f4d5c1-becb-4752-8cfb-8b826419e99f}" record_timestamp="1459939851688" record_key="wh_main_spell_metal_transmutation_of_leadstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_spell_metal_transmutation_of_lead</phase>
+<stat>stat_melee_damage_base</stat>
+<value>0.78</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{194a1ef4-bc15-470d-b7b4-da62ec0f04a8}" record_timestamp="1459939851612" record_key="wh_main_spell_vampires_curse_of_yearsscalar_speed">
+<how>mult</how>
+<phase>wh_main_spell_vampires_curse_of_years</phase>
+<stat>scalar_speed</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ce28c96b-085d-4107-8067-2ef43b2c5aad}" record_timestamp="1459952846082" record_key="wh_main_spell_vampires_curse_of_yearsstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_vampires_curse_of_years</phase>
+<stat>stat_melee_attack</stat>
+<value>-34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c9f1a60f-834c-470f-8708-a3b87aa8f55e}" record_timestamp="1459939851604" record_key="wh_main_spell_vampires_vanhels_danse_macabre_upgradedscalar_speed">
+<how>mult</how>
+<phase>wh_main_spell_vampires_vanhels_danse_macabre_upgraded</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{65aaab30-c17d-47de-a97c-d48efca68507}" record_timestamp="1459952846137" record_key="wh_main_spell_vampires_vanhels_danse_macabre_upgradedstat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_vampires_vanhels_danse_macabre_upgraded</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{361304ac-c8bd-4b7a-b1cd-4d0724058eaf}" record_timestamp="1459939851605" record_key="wh_main_spell_vampires_vanhels_danse_macabrescalar_speed">
+<how>mult</how>
+<phase>wh_main_spell_vampires_vanhels_danse_macabre</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{e3f692d7-9baa-40c8-8fc5-526e04d42a0d}" record_timestamp="1459952846138" record_key="wh_main_spell_vampires_vanhels_danse_macabrestat_melee_attack">
+<how>add</how>
+<phase>wh_main_spell_vampires_vanhels_danse_macabre</phase>
+<stat>stat_melee_attack</stat>
+<value>34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{428fc0fa-fbce-4219-ad1c-4d69f5c7361d}" record_timestamp="1485442613749" record_key="wh_main_unit_abilities_black_nimbusstat_resistance_all">
+<how>add</how>
+<phase>wh_main_unit_abilities_black_nimbus</phase>
+<stat>stat_resistance_all</stat>
+<value>44</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{e38c55cc-f206-424e-afa1-f740cf363e39}" record_timestamp="1459939851454" record_key="wh_main_unit_abilities_black_scythesscalar_charge_speed">
+<how>mult</how>
+<phase>wh_main_unit_abilities_black_scythes</phase>
+<stat>scalar_charge_speed</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{26f3b54a-4b40-4c30-8103-b8f78d843fd0}" record_timestamp="1459939851463" record_key="wh_main_unit_abilities_black_scythesstat_charge_bonus">
+<how>mult</how>
+<phase>wh_main_unit_abilities_black_scythes</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{2fd54614-f274-4e40-baf5-edc062072f6a}" record_timestamp="1465231946087" record_key="wh_main_unit_abilities_bloooodscalar_entity_acceleration_modifier">
+<how>mult</how>
+<phase>wh_main_unit_abilities_blooood</phase>
+<stat>scalar_entity_acceleration_modifier</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b7c6142c-5e9f-4bf2-a47a-c8b35133248e}" record_timestamp="1459939851603" record_key="wh_main_unit_abilities_bloooodscalar_speed">
+<how>mult</how>
+<phase>wh_main_unit_abilities_blooood</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c2c8cf35-4dbd-4821-b99d-963254c6937e}" record_timestamp="1459939851774" record_key="wh_main_unit_abilities_boomscalar_missile_explosion_damage_ap">
+<how>mult</how>
+<phase>wh_main_unit_abilities_boom</phase>
+<stat>scalar_missile_explosion_damage_ap</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{9ce4f05b-fed3-4a6f-9e95-18bbddfcfbdc}" record_timestamp="1459939851775" record_key="wh_main_unit_abilities_boomscalar_missile_explosion_damage_base">
+<how>mult</how>
+<phase>wh_main_unit_abilities_boom</phase>
+<stat>scalar_missile_explosion_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f55df43c-8ab1-4cb6-b0f1-daef7331a173}" record_timestamp="1477035609493" record_key="wh_main_unit_abilities_entrenchmentscalar_missile_damage_ap">
+<how>mult</how>
+<phase>wh_main_unit_abilities_entrenchment</phase>
+<stat>scalar_missile_damage_ap</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ac32150d-28c0-4bb5-ac60-94c1d21a347d}" record_timestamp="1477035613410" record_key="wh_main_unit_abilities_entrenchmentstat_resistance_physical">
+<how>add</how>
+<phase>wh_main_unit_abilities_entrenchment</phase>
+<stat>stat_resistance_physical</stat>
+<value>22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{780fdf42-9afb-437e-ad4c-ce0c7bce33c8}" record_timestamp="1459939851701" record_key="wh_main_unit_abilities_killing_blowstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_unit_abilities_killing_blow</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{08dc32b4-ee99-4371-ac5d-6d21312f9ec8}" record_timestamp="1459939851709" record_key="wh_main_unit_abilities_killing_blowstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_unit_abilities_killing_blow</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{19001b55-1956-49c5-a7d3-b434a31b2f45}" record_timestamp="1485442613131" record_key="wh_main_unit_abilities_unholy_vigourstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_unit_abilities_unholy_vigour</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{21c937ff-1df8-4c98-af0d-c41be48d3990}" record_timestamp="1459939851683" record_key="wh_main_unit_contact_moralestat_morale">
+<how>add</how>
+<phase>wh_main_unit_contact_morale</phase>
+<stat>stat_morale</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{d06b0401-61f7-4f5b-acf5-015ff0d7ea54}" record_timestamp="1459939851683" record_key="wh_main_unit_contact_overhead_moralestat_morale">
+<how>add</how>
+<phase>wh_main_unit_contact_overhead_morale</phase>
+<stat>stat_morale</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f12a040a-e4ec-4319-b1b0-0f1345d388d4}" record_timestamp="1459939851645" record_key="wh_main_unit_contact_poisonscalar_missile_damage_ap">
+<how>mult</how>
+<phase>wh_main_unit_contact_poison</phase>
+<stat>scalar_missile_damage_ap</stat>
+<value>0.82</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f5751d5e-f281-4789-b494-d32196606939}" record_timestamp="1459939851641" record_key="wh_main_unit_contact_poisonscalar_missile_damage_base">
+<how>mult</how>
+<phase>wh_main_unit_contact_poison</phase>
+<stat>scalar_missile_damage_base</stat>
+<value>0.78</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{40f5b0e6-b26c-41a7-bbd1-74acc1342e02}" record_timestamp="1459939851603" record_key="wh_main_unit_contact_poisonscalar_speed">
+<how>mult</how>
+<phase>wh_main_unit_contact_poison</phase>
+<stat>scalar_speed</stat>
+<value>0.76</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{726acbd1-6236-4e66-8760-5370a36889a8}" record_timestamp="1459939851690" record_key="wh_main_unit_contact_poisonstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_unit_contact_poison</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>0.82</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{3c1bdf0f-c690-4d15-8d87-d4b7c215adee}" record_timestamp="1459939851689" record_key="wh_main_unit_contact_poisonstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_unit_contact_poison</phase>
+<stat>stat_melee_damage_base</stat>
+<value>0.78</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{1bdfa39c-69a9-41c5-a196-583799cc8407}" record_timestamp="1477035609518" record_key="wh_main_unit_passive_frenzystat_charge_bonus">
+<how>mult</how>
+<phase>wh_main_unit_passive_frenzy</phase>
+<stat>stat_charge_bonus</stat>
+<value>1.08</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ef4a1d9e-d60e-487c-8b04-396636da1d14}" record_timestamp="1459952845856" record_key="wh_main_unit_passive_frenzystat_melee_attack">
+<how>add</how>
+<phase>wh_main_unit_passive_frenzy</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{366a50e2-5e08-4740-9a67-ea41b32eba13}" record_timestamp="1477035609524" record_key="wh_main_unit_passive_frenzystat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_unit_passive_frenzy</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6dce9c1c-3566-4b8f-9830-f1bd6073d620}" record_timestamp="1459952846221" record_key="wh_main_unit_passive_regenerationstat_weakness_flame">
+<how>add</how>
+<phase>wh_main_unit_passive_regeneration</phase>
+<stat>stat_weakness_flame</stat>
+<value>-20</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{233d135e-56a9-43c7-a3bc-941fd42c33f6}" record_timestamp="1459952846140" record_key="wh_main_unit_passive_war_paintstat_resistance_magic">
+<how>add</how>
+<phase>wh_main_unit_passive_war_paint</phase>
+<stat>stat_resistance_magic</stat>
+<value>12</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{6d81bd4f-f223-4e5f-ac0d-41c7efffabb2}" record_timestamp="1484926552209" record_key="wh_main_weapon_abilities_axe_of_dargostat_bonus_vs_large">
+<how>add</how>
+<phase>wh_main_weapon_abilities_axe_of_dargo</phase>
+<stat>stat_bonus_vs_large</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f192b217-8139-41c6-a00d-375d8ca7b8be}" record_timestamp="1459939851715" record_key="wh_main_weapon_abilities_axe_of_dargostat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_axe_of_dargo</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{85996dbe-11d3-44b8-b0ef-601eeb5d2eaf}" record_timestamp="1459939851487" record_key="wh_main_weapon_abilities_charmed_shieldstat_missile_block_chance">
+<how>add</how>
+<phase>wh_main_weapon_abilities_charmed_shield</phase>
+<stat>stat_missile_block_chance</stat>
+<value>24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{79b6cad2-8a0d-405b-a7b9-8b0f3268e3b7}" record_timestamp="1459952846183" record_key="wh_main_weapon_abilities_charmed_shieldstat_resistance_all">
+<how>add</how>
+<phase>wh_main_weapon_abilities_charmed_shield</phase>
+<stat>stat_resistance_all</stat>
+<value>22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{e8186329-0f83-4fbe-8f47-245307bcfc55}" record_timestamp="1459939851709" record_key="wh_main_weapon_abilities_filth_macestat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_filth_mace</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{1427a9a5-e26b-4026-b042-837012f39922}" record_timestamp="1459939851716" record_key="wh_main_weapon_abilities_ghal_marazstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_ghal_maraz</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{25983629-0d39-4e77-9c0f-246ae43e7f5b}" record_timestamp="1459939851716" record_key="wh_main_weapon_abilities_gitsnikstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_gitsnik</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c90c1cb2-8b8a-4917-90db-63dfdfa56d52}" record_timestamp="1459939851702" record_key="wh_main_weapon_abilities_hellfire_swordstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_hellfire_sword</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{30b7ccdb-efb9-4ba3-9136-140a63af561a}" record_timestamp="1459939851710" record_key="wh_main_weapon_abilities_hellfire_swordstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_hellfire_sword</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{22f13131-3d47-48ea-88f7-f4d44a2ea738}" record_timestamp="1486743878613" record_key="wh_main_weapon_abilities_helm_of_discordstat_armour">
+<how>add</how>
+<phase>wh_main_weapon_abilities_helm_of_discord</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c84d9060-cf98-4625-8cf0-15da3fcd40c3}" record_timestamp="1459952846082" record_key="wh_main_weapon_abilities_helm_of_discordstat_melee_attack">
+<how>add</how>
+<phase>wh_main_weapon_abilities_helm_of_discord</phase>
+<stat>stat_melee_attack</stat>
+<value>-34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{864d826e-e887-4f5f-a030-b3a6bf7222c9}" record_timestamp="1459952845903" record_key="wh_main_weapon_abilities_helm_of_discordstat_melee_defence">
+<how>add</how>
+<phase>wh_main_weapon_abilities_helm_of_discord</phase>
+<stat>stat_melee_defence</stat>
+<value>-36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{c42250e6-0932-4d49-9625-760277bcaa94}" record_timestamp="1459939851741" record_key="wh_main_weapon_abilities_runefangscalar_splash_attack_power">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_runefang</phase>
+<stat>scalar_splash_attack_power</stat>
+<value>1.16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{24817499-92ba-4f69-9664-323b18a32fe3}" record_timestamp="1459939851703" record_key="wh_main_weapon_abilities_runefangstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_runefang</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{e032a5d5-e482-4739-9c50-88ce1afcad2d}" record_timestamp="1459939851711" record_key="wh_main_weapon_abilities_runefangstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_runefang</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{493e8df6-314a-4d37-9c80-1e950762b652}" record_timestamp="1459939851747" record_key="wh_main_weapon_abilities_sword_of_anti_heroesscalar_splash_attack_power">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_sword_of_anti_heroes</phase>
+<stat>scalar_splash_attack_power</stat>
+<value>1.16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{f4907cb4-b65d-43f6-b00e-5589a07b6e4a}" record_timestamp="1459939851703" record_key="wh_main_weapon_abilities_sword_of_anti_heroesstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_sword_of_anti_heroes</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{87e143ba-0b72-4b7b-bf23-2d442190d73e}" record_timestamp="1459939851711" record_key="wh_main_weapon_abilities_sword_of_anti_heroesstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_sword_of_anti_heroes</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{b1e3f29d-c77e-4ec6-ae5f-6a802240ceb6}" record_timestamp="1459952845877" record_key="wh_main_weapon_abilities_the_hammer_of_karak_drazhstat_melee_attack">
+<how>add</how>
+<phase>wh_main_weapon_abilities_the_hammer_of_karak_drazh</phase>
+<stat>stat_melee_attack</stat>
+<value>-58</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{637c555c-5681-4fe1-b170-19ea6b2cf1a3}" record_timestamp="1459943636575" record_key="wh_main_weapon_abilities_the_hammer_of_karak_drazhstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_the_hammer_of_karak_drazh</phase>
+<stat>stat_melee_damage_base</stat>
+<value>0.78</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{9c66deb0-3874-4ebe-af93-5b5abdf551bb}" record_timestamp="1459939851704" record_key="wh_main_weapon_abilities_the_mace_of_helsturmstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_the_mace_of_helsturm</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{cef5d021-3901-4832-aaaa-bc20fe157c9b}" record_timestamp="1459939851712" record_key="wh_main_weapon_abilities_the_mace_of_helsturmstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_the_mace_of_helsturm</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{882b7501-d56b-4d6a-93e3-c98fcb316fac}" record_timestamp="1459939851748" record_key="wh_main_weapon_abilities_the_reikland_runefangscalar_splash_attack_power">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_the_reikland_runefang</phase>
+<stat>scalar_splash_attack_power</stat>
+<value>1.16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{a6ee0f23-b5a5-4f77-8d25-47fc198692ab}" record_timestamp="1459939851704" record_key="wh_main_weapon_abilities_the_reikland_runefangstat_melee_damage_ap">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_the_reikland_runefang</phase>
+<stat>stat_melee_damage_ap</stat>
+<value>1.18</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ee1ec6a4-d9b4-4c0c-9893-46d91397560c}" record_timestamp="1459939851712" record_key="wh_main_weapon_abilities_the_reikland_runefangstat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_weapon_abilities_the_reikland_runefang</phase>
+<stat>stat_melee_damage_base</stat>
+<value>1.22</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{41a9f63d-0786-4b37-a4ac-c04cc5c48677}" record_timestamp="1486743878677" record_key="wh_main_weapon_abilities_the_sword_of_couronnestat_armour">
+<how>add</how>
+<phase>wh_main_weapon_abilities_the_sword_of_couronne</phase>
+<stat>stat_armour</stat>
+<value>-30</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{74c84a05-8c11-44d7-830c-96b4c618be6d}" record_timestamp="1459952845904" record_key="wh_main_weapon_abilities_the_sword_of_couronnestat_melee_defence">
+<how>add</how>
+<phase>wh_main_weapon_abilities_the_sword_of_couronne</phase>
+<stat>stat_melee_defence</stat>
+<value>-36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{37131f18-eb6d-4d17-9890-cc3f51bc7301}" record_timestamp="1459952846087" record_key="wh_main_weapon_abilities_tormentor_swordstat_melee_attack">
+<how>add</how>
+<phase>wh_main_weapon_abilities_tormentor_sword</phase>
+<stat>stat_melee_attack</stat>
+<value>-34</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{cab757f8-be49-427c-8af2-438572484f5a}" record_timestamp="1459952845864" record_key="wh_main_weapon_passive_chaos_tomb_bladestat_melee_attack">
+<how>add</how>
+<phase>wh_main_weapon_passive_chaos_tomb_blade</phase>
+<stat>stat_melee_attack</stat>
+<value>8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{157b1318-0105-4a3a-9d02-937f402f7e9a}" record_timestamp="1459952845797" record_key="wh_main_weapon_passive_glittering_scalesstat_melee_attack">
+<how>add</how>
+<phase>wh_main_weapon_passive_glittering_scales</phase>
+<stat>stat_melee_attack</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{ed3e1cdc-07a0-4a2e-a65f-aaa4f2e81c21}" record_timestamp="1459942268174" record_key="wh_main_weapon_passive_warrior_banestat_melee_damage_base">
+<how>mult</how>
+<phase>wh_main_weapon_passive_warrior_bane</phase>
+<stat>stat_melee_damage_base</stat>
+<value>0.94</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{08950c1a-370a-42a6-b754-b206bf944f3a}" record_timestamp="1477038874628" record_key="wh_pro01_item_passive_rune_helm_of_zhufbarstat_morale">
+<how>add</how>
+<phase>wh_pro01_item_passive_rune_helm_of_zhufbar</phase>
+<stat>stat_morale</stat>
+<value>16</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{155ea201-e2ee-4b7f-99cd-659aaa34e8eb}" record_timestamp="1477038877556" record_key="wh_pro01_lord_abilities_flash_bombscalar_speed">
+<how>mult</how>
+<phase>wh_pro01_lord_abilities_flash_bomb</phase>
+<stat>scalar_speed</stat>
+<value>0.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{4fdd1ed2-a649-4c75-802e-d5481d525448}" record_timestamp="1486743835627" record_key="wh_pro01_lord_abilities_flash_bombstat_melee_defence">
+<how>add</how>
+<phase>wh_pro01_lord_abilities_flash_bomb</phase>
+<stat>stat_melee_defence</stat>
+<value>-36</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{d8620f91-d1a2-4a93-abd3-33edd06a3882}" record_timestamp="1477035615452" record_key="wh_pro01_lord_abilities_flash_bombstat_morale">
+<how>add</how>
+<phase>wh_pro01_lord_abilities_flash_bomb</phase>
+<stat>stat_morale</stat>
+<value>-8</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{02945053-b154-4bb3-afe0-2e433e614ba4}" record_timestamp="1477035617611" record_key="wh_pro01_weapon_abilities_rune_axe_of_grombrindalscalar_speed">
+<how>mult</how>
+<phase>wh_pro01_weapon_abilities_rune_axe_of_grombrindal</phase>
+<stat>scalar_speed</stat>
+<value>1.24</value>
+</special_ability_phase_stat_effects>
+<special_ability_phase_stat_effects record_uuid="{324b9d37-3f0f-45d3-b3c5-511f6e0f3c1d}" record_timestamp="1477035617610" record_key="wh_pro01_weapon_abilities_rune_axe_of_grombrindalstat_charge_bonus">
+<how>add</how>
+<phase>wh_pro01_weapon_abilities_rune_axe_of_grombrindal</phase>
+<stat>stat_charge_bonus</stat>
+<value>18</value>
+</special_ability_phase_stat_effects>
+</dataroot>

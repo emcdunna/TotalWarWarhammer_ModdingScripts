@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_technology_category_junctions.xsd" export_time="Mon Oct 5 12:57:00 2015" revision="15" export_branch="T:/common/TWeak/Framework" export_user="bob">
+<edit_uuid>bd9df53f-b653-4ef8-83ee-5c88e59f2dc1</edit_uuid>
+<effect_bonus_value_technology_category_junctions record_uuid="{af3e9bc1-d5bc-4498-b6d4-554ec0809824}" record_timestamp="1425557600057" record_key="wh_main_effect_technology_research_cost_mod_civilresearch_cost_modrom_roman_civ_top">
+<bonus_value_id>research_cost_mod</bonus_value_id>
+<effect>wh_main_effect_technology_research_cost_mod_civil</effect>
+<technology_category>rom_roman_civ_top</technology_category>
+</effect_bonus_value_technology_category_junctions>
+<effect_bonus_value_technology_category_junctions record_uuid="{a014c7fd-0da7-4a33-9ea8-0968625273d4}" record_timestamp="1425557600213" record_key="wh_main_effect_technology_research_cost_mod_militaryresearch_cost_modrom_roman_mil_top">
+<bonus_value_id>research_cost_mod</bonus_value_id>
+<effect>wh_main_effect_technology_research_cost_mod_military</effect>
+<technology_category>rom_roman_mil_top</technology_category>
+</effect_bonus_value_technology_category_junctions>
+<effect_bonus_value_technology_category_junctions record_uuid="{e30f6fc6-9199-406d-97ea-645721b4f800}" record_timestamp="1425557602163" record_key="wh_main_effect_technology_research_points_mod_civilresearch_pointsrom_roman_civ_top">
+<bonus_value_id>research_points</bonus_value_id>
+<effect>wh_main_effect_technology_research_points_mod_civil</effect>
+<technology_category>rom_roman_civ_top</technology_category>
+</effect_bonus_value_technology_category_junctions>
+<effect_bonus_value_technology_category_junctions record_uuid="{648f924b-f171-4b76-b146-5e01427fde52}" record_timestamp="1425557602631" record_key="wh_main_effect_technology_research_points_mod_militaryresearch_pointsrom_roman_mil_top">
+<bonus_value_id>research_points</bonus_value_id>
+<effect>wh_main_effect_technology_research_points_mod_military</effect>
+<technology_category>rom_roman_mil_top</technology_category>
+</effect_bonus_value_technology_category_junctions>
+</dataroot>

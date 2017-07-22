@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_variables_overides.xsd" export_time="Thu Dec 8 14:20:08 2016" revision="16" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>060a607b-3f2c-4b05-abf4-9eeee6070cd7</edit_uuid>
+<cai_variables_overides record_uuid="{0d7bf80e-1a76-441d-919f-868eb40fbf37}" record_timestamp="1465233526500" record_key="CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_BEGIN_AND_BEFORE_MULTIPLIERmain_warhammer-1">
+<cai_variable_key>CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_BEGIN_AND_BEFORE_MULTIPLIER</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>0.75</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{1e1c4782-88fc-4de4-81e4-da8fc4a920df}" record_timestamp="1465233526499" record_key="CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_BEGIN_AND_BEFORE_MULTIPLIERmain_warhammer-2">
+<cai_variable_key>CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_BEGIN_AND_BEFORE_MULTIPLIER</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-2</optional_difficulty_level>
+<value>1</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{acf1942b-0543-4194-a140-e2cd4f980e74}" record_timestamp="1465233526498" record_key="CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_BEGIN_AND_BEFORE_MULTIPLIERmain_warhammer-3">
+<cai_variable_key>CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_BEGIN_AND_BEFORE_MULTIPLIER</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-3</optional_difficulty_level>
+<value>1.25</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{71e38cb4-effa-412d-bc0e-630010b579cc}" record_timestamp="1465233526501" record_key="CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_BEGIN_AND_BEFORE_MULTIPLIERmain_warhammer0">
+<cai_variable_key>CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_BEGIN_AND_BEFORE_MULTIPLIER</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>0</optional_difficulty_level>
+<value>0.5</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{92e5c41e-cb8e-4cc9-9008-411320f813da}" record_timestamp="1465233526495" record_key="CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_BEGIN_AND_BEFORE_MULTIPLIERmain_warhammer1">
+<cai_variable_key>CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_BEGIN_AND_BEFORE_MULTIPLIER</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>0</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{5418d412-4086-4a0d-b2bf-6459aeff27f1}" record_timestamp="1465233526504" record_key="CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_END_AND_AFTER_MULTIPLIERmain_warhammer-1">
+<cai_variable_key>CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_END_AND_AFTER_MULTIPLIER</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>1</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{8c64c8f6-4773-49c5-91d9-cb920ccf1ff8}" record_timestamp="1465233526503" record_key="CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_END_AND_AFTER_MULTIPLIERmain_warhammer-2">
+<cai_variable_key>CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_END_AND_AFTER_MULTIPLIER</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-2</optional_difficulty_level>
+<value>1.25</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{6ed478b0-9377-484d-ba98-09c41fb73213}" record_timestamp="1465233526502" record_key="CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_END_AND_AFTER_MULTIPLIERmain_warhammer-3">
+<cai_variable_key>CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_END_AND_AFTER_MULTIPLIER</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-3</optional_difficulty_level>
+<value>1.75</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{45925f22-e315-4078-812e-bae9ad609ecc}" record_timestamp="1465233526505" record_key="CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_END_AND_AFTER_MULTIPLIERmain_warhammer0">
+<cai_variable_key>CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_END_AND_AFTER_MULTIPLIER</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>0</optional_difficulty_level>
+<value>1</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{ba42e1fc-9e6b-492d-a9eb-25b0dc2e9d67}" record_timestamp="1465233526505" record_key="CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_END_AND_AFTER_MULTIPLIERmain_warhammer1">
+<cai_variable_key>CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_END_AND_AFTER_MULTIPLIER</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>0.75</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{b1d071a4-9a32-421c-9114-60762bd77904}" record_timestamp="1461152260105" record_key="CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_FURTHEST_ROUNDS_DISTANCEmain_warhammer-1">
+<cai_variable_key>CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_FURTHEST_ROUNDS_DISTANCE</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>5</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{cae325c1-be99-4ded-aade-08e4b324f3d1}" record_timestamp="1461152260106" record_key="CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_FURTHEST_ROUNDS_DISTANCEmain_warhammer-2">
+<cai_variable_key>CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_FURTHEST_ROUNDS_DISTANCE</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-2</optional_difficulty_level>
+<value>6</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{8987eaef-00db-4114-97bb-c97434bcd52c}" record_timestamp="1461152260106" record_key="CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_FURTHEST_ROUNDS_DISTANCEmain_warhammer-3">
+<cai_variable_key>CAI_VARIABLE_ATTACK_HUMAN_HORDE_CONTROL_FURTHEST_ROUNDS_DISTANCE</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-3</optional_difficulty_level>
+<value>6</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{b1812789-854d-4190-97d0-18bf66f1f577}" record_timestamp="1455626144380" record_key="CAI_VARIABLE_MAX_CONFEDERATION_STRENGTHmain_warhammer-1">
+<cai_variable_key>CAI_VARIABLE_MAX_CONFEDERATION_STRENGTH</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>1.25</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{c655ad01-e52f-4ae1-a7fc-11f92e71b9ed}" record_timestamp="1455626144449" record_key="CAI_VARIABLE_MAX_CONFEDERATION_STRENGTHmain_warhammer-2">
+<cai_variable_key>CAI_VARIABLE_MAX_CONFEDERATION_STRENGTH</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-2</optional_difficulty_level>
+<value>1.75</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{b117cb8d-180f-4112-a9da-151ad4f3333a}" record_timestamp="1455626144517" record_key="CAI_VARIABLE_MAX_CONFEDERATION_STRENGTHmain_warhammer-3">
+<cai_variable_key>CAI_VARIABLE_MAX_CONFEDERATION_STRENGTH</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-3</optional_difficulty_level>
+<value>2.5</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{456aaafd-eb53-489a-864c-7b45cf47f70a}" record_timestamp="1481206808769" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAXmain_warhammer-1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAX</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>1.05</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{bdc28250-1e4c-4100-a014-79908b412a32}" record_timestamp="1481206808856" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAXmain_warhammer0">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAX</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>0</optional_difficulty_level>
+<value>1.05</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{bc603743-18f0-4d20-bc7c-6b40e6fdfda3}" record_timestamp="1481206808826" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAXmain_warhammer1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAX</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>1.05</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{b1210629-66a5-4eb7-ad17-9d1b0ad433a5}" record_timestamp="1481206808778" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAXwh_dlc03_beastmen-1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAX</cai_variable_key>
+<campaign_key>wh_dlc03_beastmen</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>1.05</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{c2aee775-4bfe-4aab-8068-f4ea408de137}" record_timestamp="1481206808702" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAXwh_dlc03_beastmen0">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAX</cai_variable_key>
+<campaign_key>wh_dlc03_beastmen</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>0</optional_difficulty_level>
+<value>1.05</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{58902c2b-12f4-4df8-910c-552469afe58d}" record_timestamp="1481206808835" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAXwh_dlc03_beastmen1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAX</cai_variable_key>
+<campaign_key>wh_dlc03_beastmen</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>1.05</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{9369b499-9c61-4150-82f3-07b6a1b940c8}" record_timestamp="1481206808788" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAXwh_dlc05_wood_elves-1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAX</cai_variable_key>
+<campaign_key>wh_dlc05_wood_elves</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>1.05</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{db8b5923-eb57-4e47-9432-b085bc341054}" record_timestamp="1481206808759" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAXwh_dlc05_wood_elves0">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAX</cai_variable_key>
+<campaign_key>wh_dlc05_wood_elves</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>0</optional_difficulty_level>
+<value>1.05</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{ff13db07-f664-4cfc-bc02-0143c0b9079d}" record_timestamp="1481206808845" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAXwh_dlc05_wood_elves1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MAX</cai_variable_key>
+<campaign_key>wh_dlc05_wood_elves</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>1.05</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{398edd7e-1724-4aa1-bf55-15f5618cf83d}" record_timestamp="1481206808797" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MINmain_warhammer-1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MIN</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>0.95</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{ca26be78-aed2-4309-97e5-b303d0b61bf8}" record_timestamp="1481206808733" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MINmain_warhammer0">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MIN</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>0</optional_difficulty_level>
+<value>0.9</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{321ef11a-9be0-4bf3-82b4-2f391756d8fb}" record_timestamp="1481206808710" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MINmain_warhammer1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MIN</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>0.85</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{e2503875-a949-43a1-afe1-4c23ae246f0f}" record_timestamp="1481206808807" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MINwh_dlc03_beastmen-1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MIN</cai_variable_key>
+<campaign_key>wh_dlc03_beastmen</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>0.95</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{f8c17a7e-abf3-4974-8d55-c7146fdff9c0}" record_timestamp="1481206808741" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MINwh_dlc03_beastmen0">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MIN</cai_variable_key>
+<campaign_key>wh_dlc03_beastmen</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>0</optional_difficulty_level>
+<value>0.9</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{7b1d7bd3-9d77-4b03-8e7f-f7efa8d78954}" record_timestamp="1481206808718" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MINwh_dlc03_beastmen1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MIN</cai_variable_key>
+<campaign_key>wh_dlc03_beastmen</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>0.85</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{e6e1d2d3-368e-48c3-a80d-5c5257b7b2b9}" record_timestamp="1481206808816" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MINwh_dlc05_wood_elves-1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MIN</cai_variable_key>
+<campaign_key>wh_dlc05_wood_elves</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>0.95</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{69b17b58-7b79-4041-b486-9a21f53f34f3}" record_timestamp="1481206808750" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MINwh_dlc05_wood_elves0">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MIN</cai_variable_key>
+<campaign_key>wh_dlc05_wood_elves</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>0</optional_difficulty_level>
+<value>0.9</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{a541bc70-2d79-4c9b-840c-3ae166a83792}" record_timestamp="1481206808725" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MINwh_dlc05_wood_elves1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_DEADZONE_MIN</cai_variable_key>
+<campaign_key>wh_dlc05_wood_elves</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>0.85</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{599bee77-740d-404c-9e49-c8da3c309b00}" record_timestamp="1479479172547" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAXmain_warhammer-1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAX</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>1.1</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{6cef6d87-0372-46fc-9376-fb593627f804}" record_timestamp="1479479172571" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAXmain_warhammer0">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAX</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>0</optional_difficulty_level>
+<value>1.1</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{f3277294-9694-4dcc-9bb1-7ea90ae8b3fb}" record_timestamp="1479480004508" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAXmain_warhammer1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAX</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>1.1</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{95afb4e3-1173-4b4a-9e68-19304285cfce}" record_timestamp="1479479172471" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAXwh_dlc03_beastmen-1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAX</cai_variable_key>
+<campaign_key>wh_dlc03_beastmen</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>1.1</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{29e7c751-9f02-4cb0-8868-412c978428c0}" record_timestamp="1479479172492" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAXwh_dlc03_beastmen0">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAX</cai_variable_key>
+<campaign_key>wh_dlc03_beastmen</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>0</optional_difficulty_level>
+<value>1.1</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{ab1d45bf-d495-4d52-aef1-7a7b6cdf917b}" record_timestamp="1479480004520" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAXwh_dlc03_beastmen1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAX</cai_variable_key>
+<campaign_key>wh_dlc03_beastmen</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>1.1</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{d914b486-d781-4897-a06e-bda3bae6958c}" record_timestamp="1479479172460" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAXwh_dlc05_wood_elves-1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAX</cai_variable_key>
+<campaign_key>wh_dlc05_wood_elves</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>1.1</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{0190feeb-4f33-4473-b185-c282e4ed7f37}" record_timestamp="1479479172405" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAXwh_dlc05_wood_elves0">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAX</cai_variable_key>
+<campaign_key>wh_dlc05_wood_elves</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>0</optional_difficulty_level>
+<value>1.1</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{79e66e21-5a35-4726-9476-ae5b68e6206a}" record_timestamp="1479480004533" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAXwh_dlc05_wood_elves1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MAX</cai_variable_key>
+<campaign_key>wh_dlc05_wood_elves</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>1.1</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{b03bcea5-42fb-4cdd-b0c4-195317b0e52d}" record_timestamp="1481206808672" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MINmain_warhammer-1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MIN</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>0.9</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{a7deef2f-9105-4c57-8aa9-8a4f29334c1c}" record_timestamp="1479479172559" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MINmain_warhammer0">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MIN</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>0</optional_difficulty_level>
+<value>0.85</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{eb5d6f65-66ef-4dbd-8b36-a8df1846baad}" record_timestamp="1481109504893" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MINmain_warhammer1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MIN</cai_variable_key>
+<campaign_key>main_warhammer</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>0.55</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{615c7d89-4161-4cda-8f38-a00cb6859797}" record_timestamp="1481206808686" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MINwh_dlc03_beastmen-1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MIN</cai_variable_key>
+<campaign_key>wh_dlc03_beastmen</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>0.9</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{21b6c095-b4d7-436b-8188-610b369b4825}" record_timestamp="1479479172482" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MINwh_dlc03_beastmen0">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MIN</cai_variable_key>
+<campaign_key>wh_dlc03_beastmen</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>0</optional_difficulty_level>
+<value>0.85</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{cdf29c34-c302-4494-8b07-8cd8bfb95d1c}" record_timestamp="1481109504899" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MINwh_dlc03_beastmen1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MIN</cai_variable_key>
+<campaign_key>wh_dlc03_beastmen</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>0.55</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{57de1caf-b5b3-4f2b-b327-a95e36a57e76}" record_timestamp="1481206808695" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MINwh_dlc05_wood_elves-1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MIN</cai_variable_key>
+<campaign_key>wh_dlc05_wood_elves</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>0.9</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{9857085d-0097-4fb9-9cf1-cd258cb3661d}" record_timestamp="1479479172388" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MINwh_dlc05_wood_elves0">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MIN</cai_variable_key>
+<campaign_key>wh_dlc05_wood_elves</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>0</optional_difficulty_level>
+<value>0.85</value>
+</cai_variables_overides>
+<cai_variables_overides record_uuid="{929b5e74-d9e4-4975-a89a-e60ecbdcc2cc}" record_timestamp="1481109504905" record_key="CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MINwh_dlc05_wood_elves1">
+<cai_variable_key>CAI_VARIABLE_PLAYER_AP_ADJUSTMENT_MIN</cai_variable_key>
+<campaign_key>wh_dlc05_wood_elves</campaign_key>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>0.55</value>
+</cai_variables_overides>
+</dataroot>

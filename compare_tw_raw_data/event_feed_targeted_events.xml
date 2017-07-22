@@ -1,0 +1,1621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="event_feed_targeted_events.xsd" export_time="Wed Feb 15 12:20:49 2017" revision="117" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>07ae6610-4414-4e66-bc58-fe36d65caa4e</edit_uuid>
+<event_feed_targeted_events record_uuid="{70cec3e6-07ed-4631-864e-43c3e083920c}" record_timestamp="1452161813723" record_key="agent_action_vs_army_with_immortal_generalevent_feed_target_agent_faction">
+<event>agent_action_vs_army_with_immortal_general</event>
+<icon>event_agent_activity_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_agent_action_all_primary_detail</primary_detail>
+<target>event_feed_target_agent_faction</target>
+<target_criteria>event_feed_target_criteria_result_and_agent</target_criteria>
+<title state="APPROVED" last_approved_text="Hero Activity" last_edit_user="bob">Hero Activity</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{cb98b8d6-41c2-4a15-9d2f-3f6f3fd70029}" record_timestamp="1452161813723" record_key="agent_action_vs_army_with_immortal_generalevent_feed_target_target_faction">
+<event>agent_action_vs_army_with_immortal_general</event>
+<icon>event_agent_activity_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_agent_action_all_primary_detail</primary_detail>
+<target>event_feed_target_target_faction</target>
+<target_criteria>event_feed_target_criteria_result_and_agent</target_criteria>
+<title state="APPROVED" last_approved_text="Hostile Hero Activity!" last_edit_user="bob">Hostile Hero Activity!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{c151111a-c897-44cd-bd9a-21c285bd5267}" record_timestamp="1430315477079" record_key="agent_action_vs_armyevent_feed_target_agent_faction">
+<event>agent_action_vs_army</event>
+<icon>event_agent_activity_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_agent_action_all_primary_detail</primary_detail>
+<target>event_feed_target_agent_faction</target>
+<target_criteria>event_feed_target_criteria_result_and_agent</target_criteria>
+<title state="APPROVED" last_approved_text="Hero Activity" last_edit_user="bob">Hero Activity</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{3a038e77-2bb1-414c-a035-d0a094e6b08b}" record_timestamp="1430315477184" record_key="agent_action_vs_armyevent_feed_target_target_faction">
+<event>agent_action_vs_army</event>
+<icon>event_agent_activity_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_agent_action_all_primary_detail</primary_detail>
+<target>event_feed_target_target_faction</target>
+<target_criteria>event_feed_target_criteria_result_and_agent</target_criteria>
+<title state="APPROVED" last_approved_text="Hostile Hero Activity!" last_edit_user="bob">Hostile Hero Activity!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{aa0eab40-8080-41b5-af37-fe63359eed25}" record_timestamp="1430315477289" record_key="agent_action_vs_characterevent_feed_target_agent_faction">
+<event>agent_action_vs_character</event>
+<icon>event_agent_activity_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_agent_action_all_primary_detail</primary_detail>
+<target>event_feed_target_agent_faction</target>
+<target_criteria>event_feed_target_criteria_result_and_agent</target_criteria>
+<title state="APPROVED" last_approved_text="Hero Activity" last_edit_user="bob">Hero Activity</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{b23de04a-40e4-4dc0-b10e-59a1600b5031}" record_timestamp="1430315477394" record_key="agent_action_vs_characterevent_feed_target_target_faction">
+<event>agent_action_vs_character</event>
+<icon>event_agent_activity_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_agent_action_all_primary_detail</primary_detail>
+<target>event_feed_target_target_faction</target>
+<target_criteria>event_feed_target_criteria_result_and_agent</target_criteria>
+<title state="APPROVED" last_approved_text="Hostile Hero Activity!" last_edit_user="bob">Hostile Hero Activity!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{94a8c709-2bc7-4c44-9a84-7a2908b909ab}" record_timestamp="1430315477498" record_key="agent_action_vs_settlementevent_feed_target_agent_faction">
+<event>agent_action_vs_settlement</event>
+<icon>event_agent_activity_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_target</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_agent_action_all_primary_detail</primary_detail>
+<target>event_feed_target_agent_faction</target>
+<target_criteria>event_feed_target_criteria_result_and_agent</target_criteria>
+<title state="APPROVED" last_approved_text="Hero Activity" last_edit_user="bob">Hero Activity</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{b032b6a0-bcd2-4983-9873-3b0370f6ab1a}" record_timestamp="1430315477603" record_key="agent_action_vs_settlementevent_feed_target_target_faction">
+<event>agent_action_vs_settlement</event>
+<icon>event_agent_activity_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_target</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_agent_action_all_primary_detail</primary_detail>
+<target>event_feed_target_target_faction</target>
+<target_criteria>event_feed_target_criteria_result_and_agent</target_criteria>
+<title state="APPROVED" last_approved_text="Hostile Hero Activity!" last_edit_user="bob">Hostile Hero Activity!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{0f548c68-f1b2-40c5-aeaa-0525aa657e52}" record_timestamp="1446020978142" record_key="agent_recruitedevent_feed_target_agent_faction">
+<event>agent_recruited</event>
+<icon>event_agent_activity_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_context_location_agent</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_agent_recruited_primary_detail</primary_detail>
+<target>event_feed_target_agent_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Hero Recruited" last_edit_user="bob">Hero Recruited</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{0e1ace1c-a15d-44f4-a742-bc7e082a228c}" record_timestamp="1461152263766" record_key="character_ancillary_gainedevent_feed_target_character_faction">
+<event>character_ancillary_gained</event>
+<icon>event_char_activity_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_ancillary_all_primary_detail</primary_detail>
+<target>event_feed_target_character_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="#(ancillary.subcategory) Gained" last_edit_user="bob">#(ancillary.subcategory) Gained</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{b15d1038-0cbb-4e3b-b026-1eb386381272}" record_timestamp="1461152263767" record_key="character_ancillary_lost_stolenevent_feed_target_character_faction">
+<event>character_ancillary_lost_stolen</event>
+<icon>event_char_activity_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_ancillary_all_primary_detail</primary_detail>
+<target>event_feed_target_character_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Stolen by the Enemy!" last_edit_user="bob">Stolen by the Enemy!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{d148ac52-2114-4a4d-ae8d-5378264f7b20}" record_timestamp="1461152263767" record_key="character_ancillary_lostevent_feed_target_character_faction">
+<event>character_ancillary_lost</event>
+<icon>event_char_activity_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_ancillary_all_primary_detail</primary_detail>
+<target>event_feed_target_character_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="#(ancillary.subcategory) Lost" last_edit_user="bob">#(ancillary.subcategory) Lost</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{eeba7f24-5f7b-41ac-8dcb-555931088e3f}" record_timestamp="1437635843620" record_key="character_dies_battleevent_feed_target_character_faction">
+<event>character_dies_battle</event>
+<icon>event_death_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_context_location_character</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_all_primary_detail</primary_detail>
+<target>event_feed_target_character_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Killed in Battle" last_edit_user="bob">Killed in Battle</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{0b3c1764-4d62-4a13-8ee2-5002398d9f42}" record_timestamp="1469455333685" record_key="character_dies_battleevent_feed_target_opponent">
+<event>character_dies_battle</event>
+<icon>event_death_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_context_location_character</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_all_primary_detail</primary_detail>
+<target>event_feed_target_opponent</target>
+<target_criteria>event_feed_target_criteria_character_culture</target_criteria>
+<title state="APPROVED" last_approved_text="Enemy Killed In Battle" last_edit_user="bob">Enemy Killed In Battle</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{18781f45-d6c1-4b6f-85d1-bd6d47065e4d}" record_timestamp="1430315268164" record_key="character_dies_in_actionevent_feed_target_character_faction">
+<event>character_dies_in_action</event>
+<icon>event_death_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_context_location_character</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_all_primary_detail_type</primary_detail>
+<target>event_feed_target_character_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Killed in the Line of Duty" last_edit_user="bob">Killed in the Line of Duty</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{669776b4-7088-4764-a5b3-97b16a2cd5b9}" record_timestamp="1457018634319" record_key="character_dies_suspiciousevent_feed_target_character_faction">
+<event>character_dies_suspicious</event>
+<icon>event_death_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_context_location_character</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_all_primary_detail</primary_detail>
+<target>event_feed_target_character_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Assassinated!" last_edit_user="bob">Assassinated!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{b242f65e-2956-45bd-840f-cf8e74ff3200}" record_timestamp="1446451648537" record_key="character_rank_gainedevent_feed_target_character_faction">
+<event>character_rank_gained</event>
+<icon>event_char_activity_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_all_primary_detail</primary_detail>
+<target>event_feed_target_character_faction</target>
+<target_criteria>event_feed_target_criteria_character</target_criteria>
+<title state="APPROVED" last_approved_text="Rank Gained" last_edit_user="bob">Rank Gained</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{e0983361-0105-4bd5-9661-9d6945ef9349}" record_timestamp="1474282559801" record_key="character_ready_for_duty_starting_generalevent_feed_target_character_faction">
+<event>character_ready_for_duty_starting_general</event>
+<icon>event_char_activity_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_context_location_character</located>
+<persistent>0</persistent>
+<primary_detail>wh_event_feed_string_character_all_primary_detail</primary_detail>
+<target>event_feed_target_character_faction</target>
+<target_criteria>event_feed_target_criteria_character</target_criteria>
+<title state="APPROVED" last_approved_text="Legendary Lord Available" last_edit_user="bob">Legendary Lord Available</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{ab7b6ef2-a314-4dba-b326-3324327c4387}" record_timestamp="1456501098141" record_key="character_ready_for_dutyevent_feed_target_character_faction">
+<event>character_ready_for_duty</event>
+<icon>event_char_activity_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_context_location_character</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_all_primary_detail_type</primary_detail>
+<target>event_feed_target_character_faction</target>
+<target_criteria>event_feed_target_criteria_character</target_criteria>
+<title state="APPROVED" last_approved_text="Ready for Duty" last_edit_user="bob">Ready for Duty</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{b2c689b8-170a-4391-bb49-06c826debc23}" record_timestamp="1485366476609" record_key="character_trait_gainedevent_feed_target_character_faction">
+<event>character_trait_gained</event>
+<icon>event_char_activity_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_trait_all_primary_detail</primary_detail>
+<target>event_feed_target_character_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Trait Gained" last_edit_user="bob">Trait Gained</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{e12a0f25-707b-415e-aa1c-11086a916ad2}" record_timestamp="1487161200148" record_key="character_trait_lostevent_feed_target_character_faction">
+<event>character_trait_lost</event>
+<icon>event_char_activity_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_trait_all_primary_detail</primary_detail>
+<target>event_feed_target_character_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Trait Lost" last_edit_user="bob">Trait Lost</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{38bea80a-28e9-4f05-82ad-921f8723d786}" record_timestamp="1430315268262" record_key="character_woundedevent_feed_target_character_faction">
+<event>character_wounded</event>
+<icon>event_char_activity_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_context_location_character</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_all_primary_detail_type</primary_detail>
+<target>event_feed_target_character_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Wounded!" last_edit_user="bob">Wounded!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{2f8c4a26-c201-45ba-9b18-7f6d768feb8a}" record_timestamp="1430315263496" record_key="conquest_battleevent_feed_target_conquest_battle_attacker">
+<event>conquest_battle</event>
+<icon>event_military_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_character_battle_defender_primary_general</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_battle_primary_detail_attacker_result</primary_detail>
+<target>event_feed_target_conquest_battle_attacker</target>
+<target_criteria>event_feed_target_criteria_attack_outcome</target_criteria>
+<title state="APPROVED" last_approved_text="#(battle_info)" last_edit_user="bob">#(battle_info)</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{c543b918-6333-4cc4-b0f7-861db6a2af61}" record_timestamp="1468499508751" record_key="conquest_battleevent_feed_target_conquest_battle_attacker_parent_army_faction">
+<event>conquest_battle</event>
+<icon>event_military_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_character_battle_attacker_primary_general</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_battle_primary_detail_attacker_result_parent</primary_detail>
+<target>event_feed_target_conquest_battle_attacker_parent_army_faction</target>
+<target_criteria>event_feed_target_criteria_attack_outcome</target_criteria>
+<title state="APPROVED" last_approved_text="#(battle_info)" last_edit_user="bob">#(battle_info)</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{a7a40849-e874-4202-a427-eb51374b9b76}" record_timestamp="1430315269166" record_key="conquest_battleevent_feed_target_conquest_battle_defender">
+<event>conquest_battle</event>
+<icon>event_military_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_character_battle_attacker_primary_general</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_battle_primary_detail_defender_result</primary_detail>
+<target>event_feed_target_conquest_battle_defender</target>
+<target_criteria>event_feed_target_criteria_attack_outcome</target_criteria>
+<title state="APPROVED" last_approved_text="#(battle_info)" last_edit_user="bob">#(battle_info)</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{57571721-2143-4162-9f17-30ece7411ee6}" record_timestamp="1468499508752" record_key="conquest_battleevent_feed_target_conquest_battle_defender_parent_army_faction">
+<event>conquest_battle</event>
+<icon>event_military_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_character_battle_attacker_primary_general</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_battle_primary_detail_defender_result_parent</primary_detail>
+<target>event_feed_target_conquest_battle_defender_parent_army_faction</target>
+<target_criteria>event_feed_target_criteria_attack_outcome</target_criteria>
+<title state="APPROVED" last_approved_text="#(battle_info)" last_edit_user="bob">#(battle_info)</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{e4165997-8926-418d-b78e-2c1e72c92b5a}" record_timestamp="1447066002441" record_key="conquest_enemy_raid_settlementevent_feed_target_raided_faction">
+<event>conquest_enemy_raid_settlement</event>
+<icon>event_military_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_raided</located>
+<persistent>0</persistent>
+<primary_detail>wh_event_feed_string_conquest_enemy_raid_primary_detail</primary_detail>
+<target>event_feed_target_raided_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Raiding!" last_edit_user="bob">Raiding!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{4919e29e-da75-4c9f-82d7-84bec5c25bf0}" record_timestamp="1430315279851" record_key="conquest_enemy_raid_trade_routeevent_feed_target_raided">
+<event>conquest_enemy_raid_trade_route</event>
+<icon>event_military_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>0</persistent>
+<primary_detail>wh_event_feed_string_conquest_enemy_raid_primary_detail</primary_detail>
+<target>event_feed_target_raided</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Trade Route Raided!" last_edit_user="bob">Trade Route Raided!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{9dd74c02-ab5e-44f8-ac94-79ea300b6ba3}" record_timestamp="1446020978171" record_key="conquest_province_contestedevent_feed_target_owner">
+<event>conquest_province_contested</event>
+<icon>event_province_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_province_all_primary_detail</primary_detail>
+<target>event_feed_target_owner</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Province Contested" last_edit_user="bob">Province Contested</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{1da19207-09c6-41d4-8d4f-f3db421ad0ac}" record_timestamp="1450192332738" record_key="conquest_province_securedevent_feed_target_province_faction">
+<event>conquest_province_secured</event>
+<icon>event_province_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_province</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_province_all_primary_detail</primary_detail>
+<target>event_feed_target_province_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Province Secured" last_edit_user="bob">Province Secured</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{e1607c09-3a62-412c-be41-aa5602b3de4c}" record_timestamp="1430315282691" record_key="conquest_sea_region_contestedevent_feed_target_owner">
+<event>conquest_sea_region_contested</event>
+<icon>event_military_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_sea_region_all_primary_detail</primary_detail>
+<target>event_feed_target_owner</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Sea Region Contested" last_edit_user="bob">Sea Region Contested</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{0537ec91-47b1-41cf-a4a1-b5306b6cc7d3}" record_timestamp="1430315282589" record_key="conquest_sea_region_controlledevent_feed_target_owner">
+<event>conquest_sea_region_controlled</event>
+<icon>event_military_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_sea_region_all_primary_detail</primary_detail>
+<target>event_feed_target_owner</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Sea Region Secured" last_edit_user="bob">Sea Region Secured</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{1d91b8d7-8bb9-41df-b672-bda4ef089336}" record_timestamp="1459934236101" record_key="conquest_settlement_capital_capturedevent_feed_target_conquest_captured_from">
+<event>conquest_settlement_capital_captured</event>
+<icon>event_region_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_character_occupier</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_settlement_all_primary_detail</primary_detail>
+<target>event_feed_target_conquest_captured_from</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Capital Lost!" last_edit_user="bob">Capital Lost!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{f97b48e5-9cf0-422c-974f-bd2873092a0a}" record_timestamp="1430315285278" record_key="conquest_settlement_capital_capturedevent_feed_target_conquest_occupier_faction">
+<event>conquest_settlement_capital_captured</event>
+<icon>event_region_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_settlement</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_settlement_all_primary_detail</primary_detail>
+<target>event_feed_target_conquest_occupier_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Settlement Occupied" last_edit_user="bob">Settlement Occupied</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{e88d9427-bde0-4c27-ad43-ec7e22311786}" record_timestamp="1459934236102" record_key="conquest_settlement_capturedevent_feed_target_conquest_captured_from">
+<event>conquest_settlement_captured</event>
+<icon>event_region_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_character_occupier</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_settlement_all_primary_detail</primary_detail>
+<target>event_feed_target_conquest_captured_from</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Settlement Lost!" last_edit_user="bob">Settlement Lost!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{b971a84e-5659-4404-b18d-1e6bed5cee89}" record_timestamp="1430315286141" record_key="conquest_settlement_capturedevent_feed_target_conquest_occupier_faction">
+<event>conquest_settlement_captured</event>
+<icon>event_region_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_character_occupier</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_settlement_all_primary_detail</primary_detail>
+<target>event_feed_target_conquest_occupier_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Settlement Occupied" last_edit_user="bob">Settlement Occupied</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{126334f5-df13-4e8d-8870-26d7b422e748}" record_timestamp="1459934236102" record_key="conquest_settlement_surrender_warningevent_feed_target_settlement_faction">
+<event>conquest_settlement_surrender_warning</event>
+<icon>event_military_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>0</persistent>
+<primary_detail>wh_event_feed_string_conquest_settlement_all_primary_detail</primary_detail>
+<target>event_feed_target_settlement_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Surrender Imminent!" last_edit_user="bob">Surrender Imminent!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{0e2a37af-2418-4f92-a2ff-a9add0375e45}" record_timestamp="1446020978052" record_key="conquest_siege_establishedevent_feed_target_conquest_besieged_faction">
+<event>conquest_siege_established</event>
+<icon>event_city_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_settlement_all_primary_detail</primary_detail>
+<target>event_feed_target_conquest_besieged_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Settlement Besieged!" last_edit_user="bob">Settlement Besieged!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{2a996960-296b-4d2c-b21b-d3279f52b822}" record_timestamp="1446020978062" record_key="conquest_siege_establishedevent_feed_target_conquest_besieger_faction">
+<event>conquest_siege_established</event>
+<icon>event_city_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_settlement_all_primary_detail</primary_detail>
+<target>event_feed_target_conquest_besieger_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Settlement Besieged!" last_edit_user="bob">Settlement Besieged!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{78c6019f-ce1b-4ef3-a354-a682ac994b3d}" record_timestamp="1449223817997" record_key="conquest_siege_liftedevent_feed_target_conquest_besieged_faction">
+<event>conquest_siege_lifted</event>
+<icon>event_city_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_settlement_all_primary_detail</primary_detail>
+<target>event_feed_target_conquest_besieged_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Enemy Siege Lifted" last_edit_user="bob">Enemy Siege Lifted</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{3f40f606-b6ce-4b08-8500-750b5fa816bc}" record_timestamp="1449223818007" record_key="conquest_siege_liftedevent_feed_target_conquest_besieger_faction">
+<event>conquest_siege_lifted</event>
+<icon>event_city_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_settlement_all_primary_detail</primary_detail>
+<target>event_feed_target_conquest_besieger_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Siege Lifted" last_edit_user="bob">Siege Lifted</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{144b9344-0b94-4f91-a2e5-e7d1c65595e8}" record_timestamp="1430315270845" record_key="diplomacy_faction_destroyedevent_feed_target_faction_known_to">
+<event>diplomacy_faction_destroyed</event>
+<icon>event_diplomacy_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_faction</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_faction_all_primary_detail</primary_detail>
+<target>event_feed_target_faction_known_to</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Faction Destroyed" last_edit_user="bob">Faction Destroyed</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{67376bea-8bbb-47cc-b69c-a8621de1c848}" record_timestamp="1430315270650" record_key="diplomacy_faction_emergesevent_feed_target_faction_known_to">
+<event>diplomacy_faction_emerges</event>
+<icon>event_diplomacy_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_faction_all_primary_detail</primary_detail>
+<target>event_feed_target_faction_known_to</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Faction Emerges" last_edit_user="bob">Faction Emerges</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{7b05c8e5-9295-48bf-9a14-05d80dba9183}" record_timestamp="1430315271339" record_key="diplomacy_faction_encounteredevent_feed_target_diplomacy_faction_1">
+<event>diplomacy_faction_encountered</event>
+<icon>event_diplomacy_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_2</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_faction_encountered_primary_detail</primary_detail>
+<target>event_feed_target_diplomacy_faction_1</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Faction Encountered" last_edit_user="bob">Faction Encountered</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{514eaa62-1b77-463c-ac1e-5521bde7f54c}" record_timestamp="1465229854426" record_key="diplomacy_faction_joins_warevent_feed_target_diplomacy_war_faction_1_b">
+<event>diplomacy_faction_joins_war</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_faction_joining_faction</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_faction_joins_war_primary_detail_joined_against</primary_detail>
+<target>event_feed_target_diplomacy_war_faction_1_b</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="United Against Us" last_edit_user="bob">United Against Us</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{8496ed93-13c4-44ed-b012-d54e142fe31c}" record_timestamp="1430315288678" record_key="diplomacy_faction_joins_warevent_feed_target_diplomacy_war_faction_2">
+<event>diplomacy_faction_joins_war</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_war_faction_1</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_faction_joins_war_primary_detail_joined_by</primary_detail>
+<target>event_feed_target_diplomacy_war_faction_2</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="United We Stand" last_edit_user="bob">United We Stand</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{0fcd9d96-215d-437f-9daf-ae4baa56fd2e}" record_timestamp="1430315280429" record_key="diplomacy_treaty_broken_defensive_alliance_manipulatedevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_broken_defensive_alliance_manipulated</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Defensive Alliance Broken" last_edit_user="bob">Defensive Alliance Broken</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{767041b5-42eb-49d0-9480-554b0df99b4a}" record_timestamp="1430315281793" record_key="diplomacy_treaty_broken_defensive_allianceevent_feed_target_diplomacy_actor">
+<event>diplomacy_treaty_broken_defensive_alliance</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Defensive Alliance Broken" last_edit_user="bob">Defensive Alliance Broken</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{85ca9fd2-2560-499e-9cd7-c2d9d06f11e8}" record_timestamp="1430315261441" record_key="diplomacy_treaty_broken_defensive_allianceevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_broken_defensive_alliance</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_actor</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_actor</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Defensive Alliance Broken" last_edit_user="bob">Defensive Alliance Broken</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{17b6e6e0-6ffa-4fe4-bb8e-7aceb2dce07a}" record_timestamp="1430315282083" record_key="diplomacy_treaty_broken_military_alliance_manipulatedevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_broken_military_alliance_manipulated</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Military Alliance Broken" last_edit_user="bob">Military Alliance Broken</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{be035b82-2327-4609-94c2-f82278550da7}" record_timestamp="1430315281021" record_key="diplomacy_treaty_broken_military_allianceevent_feed_target_diplomacy_actor">
+<event>diplomacy_treaty_broken_military_alliance</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Military Alliance Broken" last_edit_user="bob">Military Alliance Broken</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{d59c88ac-d133-4a98-b522-42a87cc49291}" record_timestamp="1430315261538" record_key="diplomacy_treaty_broken_military_allianceevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_broken_military_alliance</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_actor</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_actor</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Military Alliance Broken" last_edit_user="bob">Military Alliance Broken</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{913f5f0f-94e4-4970-9037-4d325a441a3b}" record_timestamp="1433173142783" record_key="diplomacy_treaty_broken_non_aggression_pact_manipulatedevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_broken_non_aggression_pact_manipulated</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Non-Aggression Pact Broken" last_edit_user="bob">Non-Aggression Pact Broken</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{866dde32-d39a-45e6-be34-404ad1dd1cf4}" record_timestamp="1433173142783" record_key="diplomacy_treaty_broken_non_aggression_pactevent_feed_target_diplomacy_actor">
+<event>diplomacy_treaty_broken_non_aggression_pact</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Non-Aggression Pact Broken" last_edit_user="bob">Non-Aggression Pact Broken</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{6747e47b-3bb0-488a-96c9-4af0d37bb544}" record_timestamp="1433173142783" record_key="diplomacy_treaty_broken_non_aggression_pactevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_broken_non_aggression_pact</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_actor</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_actor</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Non-Aggression Pact Broken" last_edit_user="bob">Non-Aggression Pact Broken</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{1336efff-aef9-4bac-9516-9e74c9ef2428}" record_timestamp="1430315280332" record_key="diplomacy_treaty_broken_soft_military_access_manipulatedevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_broken_soft_military_access_manipulated</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Military Access Agreement Broken" last_edit_user="bob">Military Access Agreement Broken</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{12637f45-93f5-4dbc-a1d7-c365d0d6ddb1}" record_timestamp="1430315280918" record_key="diplomacy_treaty_broken_soft_military_accessevent_feed_target_diplomacy_actor">
+<event>diplomacy_treaty_broken_soft_military_access</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Military Access Agreement Broken" last_edit_user="bob">Military Access Agreement Broken</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{4f88d280-78e2-4aa3-962c-2a92595451e8}" record_timestamp="1430315281403" record_key="diplomacy_treaty_broken_trade_dissolvedevent_feed_target_diplomacy_actor">
+<event>diplomacy_treaty_broken_trade_dissolved</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Trade Agreement Dissolved" last_edit_user="bob">Trade Agreement Dissolved</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{9aa123de-e157-466c-9ca5-436b888d391b}" record_timestamp="1430315261249" record_key="diplomacy_treaty_broken_trade_dissolvedevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_broken_trade_dissolved</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_actor</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_actor</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Trade Agreement Dissolved" last_edit_user="bob">Trade Agreement Dissolved</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{c78ba503-a0e8-4a65-926b-17e3adc912d1}" record_timestamp="1430315281116" record_key="diplomacy_treaty_broken_trade_manipulatedevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_broken_trade_manipulated</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Trade Agreement Broken" last_edit_user="bob">Trade Agreement Broken</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{84e2ec46-e8fd-4feb-87e3-31bb54f9ca96}" record_timestamp="1430315280818" record_key="diplomacy_treaty_broken_tradeevent_feed_target_diplomacy_actor">
+<event>diplomacy_treaty_broken_trade</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Trade Agreement Broken" last_edit_user="bob">Trade Agreement Broken</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{f5793a1c-6fd8-4c79-bda7-b26130805567}" record_timestamp="1430315260664" record_key="diplomacy_treaty_broken_tradeevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_broken_trade</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_actor</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_actor</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Trade Agreement Broken" last_edit_user="bob">Trade Agreement Broken</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{a5d45d73-237c-4a46-9a59-6c959931c83b}" record_timestamp="1455896683285" record_key="diplomacy_treaty_broken_vassal_manipulatedevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_broken_vassal_manipulated</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_actor</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Vassal Manipulated" last_edit_user="bob">Vassal Manipulated</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{1a358bd6-7560-4bd3-adbc-a44f658d62f6}" record_timestamp="1455896683293" record_key="diplomacy_treaty_broken_vassalevent_feed_target_diplomacy_actor">
+<event>diplomacy_treaty_broken_vassal</event>
+<icon>event_diplomacy_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_actor</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Vassal Granted Independence" last_edit_user="bob">Vassal Granted Independence</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{37dd1ab3-0fd8-4737-8155-77fc617a3eca}" record_timestamp="1455896683289" record_key="diplomacy_treaty_broken_vassalevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_broken_vassal</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_actor</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Vassal Secedes" last_edit_user="bob">Vassal Secedes</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{d161de7d-3e1a-42d3-bc90-a18e12388d55}" record_timestamp="1430315280721" record_key="diplomacy_treaty_negotiated_defensive_allianceevent_feed_target_diplomacy_actor">
+<event>diplomacy_treaty_negotiated_defensive_alliance</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Defensive Alliance Negotiated" last_edit_user="bob">Defensive Alliance Negotiated</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{97fac34b-16ec-4d7c-8d20-9b1b1ce2f562}" record_timestamp="1430315261056" record_key="diplomacy_treaty_negotiated_defensive_allianceevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_negotiated_defensive_alliance</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_actor</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_actor</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Defensive Alliance Negotiated" last_edit_user="bob">Defensive Alliance Negotiated</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{2d81a9bf-5c42-41ad-beb3-fe0c420065d0}" record_timestamp="1430315280624" record_key="diplomacy_treaty_negotiated_military_allianceevent_feed_target_diplomacy_actor">
+<event>diplomacy_treaty_negotiated_military_alliance</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Military Alliance Negotiated" last_edit_user="bob">Military Alliance Negotiated</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{6ce4e549-bded-4851-a573-2fc09553363f}" record_timestamp="1430315261636" record_key="diplomacy_treaty_negotiated_military_allianceevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_negotiated_military_alliance</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_actor</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_actor</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Military Alliance Negotiated" last_edit_user="bob">Military Alliance Negotiated</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{63b5f79d-2bd6-45df-adc7-c5548fac88a9}" record_timestamp="1433173142784" record_key="diplomacy_treaty_negotiated_non_aggression_pactevent_feed_target_diplomacy_actor">
+<event>diplomacy_treaty_negotiated_non_aggression_pact</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Non-Aggression Pact Negotiated" last_edit_user="bob">Non-Aggression Pact Negotiated</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{f01770e9-921e-4b42-b5fd-0c0a49f16219}" record_timestamp="1433173142784" record_key="diplomacy_treaty_negotiated_non_aggression_pactevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_negotiated_non_aggression_pact</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_actor</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_actor</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Non-Aggression Pact Negotiated" last_edit_user="bob">Non-Aggression Pact Negotiated</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{32fe4d34-49c6-4d36-88d8-f12bef69d581}" record_timestamp="1430315281308" record_key="diplomacy_treaty_negotiated_peaceevent_feed_target_diplomacy_actor">
+<event>diplomacy_treaty_negotiated_peace</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Peace Negotiated" last_edit_user="bob">Peace Negotiated</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{a7bb25cd-c25f-4af8-9628-c6c4cc6e329d}" record_timestamp="1449565465913" record_key="diplomacy_treaty_negotiated_peaceevent_feed_target_diplomacy_known_to">
+<event>diplomacy_treaty_negotiated_peace</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_actor_recipient</primary_detail>
+<target>event_feed_target_diplomacy_known_to</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Peace Negotiated" last_edit_user="bob">Peace Negotiated</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{1849aec0-aea5-45bb-b5e1-39fc9c10fc24}" record_timestamp="1430315260859" record_key="diplomacy_treaty_negotiated_peaceevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_negotiated_peace</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_actor</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_actor</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Peace Negotiated" last_edit_user="bob">Peace Negotiated</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{3868a7c6-b6ee-41e1-9c57-38909bf3a203}" record_timestamp="1430315281212" record_key="diplomacy_treaty_negotiated_soft_military_accessevent_feed_target_diplomacy_actor">
+<event>diplomacy_treaty_negotiated_soft_military_access</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Military Access Agreement Negotiated" last_edit_user="bob">Military Access Agreement Negotiated</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{42e13b0f-b25d-4431-9348-a139e05c1d9d}" record_timestamp="1430315281694" record_key="diplomacy_treaty_negotiated_tradeevent_feed_target_diplomacy_actor">
+<event>diplomacy_treaty_negotiated_trade</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Trade Agreement Negotiated" last_edit_user="bob">Trade Agreement Negotiated</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{7406910c-1504-4f71-a2b8-02661cf4afe0}" record_timestamp="1430315261345" record_key="diplomacy_treaty_negotiated_tradeevent_feed_target_diplomacy_recipient">
+<event>diplomacy_treaty_negotiated_trade</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_actor</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_actor</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Trade Agreement Negotiated" last_edit_user="bob">Trade Agreement Negotiated</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{864dc9ef-083e-4675-88ef-edaebddf1881}" record_timestamp="1455896683282" record_key="diplomacy_treaty_negotiated_vassalevent_feed_target_diplomacy_actor">
+<event>diplomacy_treaty_negotiated_vassal</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Vassal Established" last_edit_user="bob">Vassal Established</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{9dececdf-45b2-4b8d-92a4-ee135fa5af51}" record_timestamp="1430315271633" record_key="diplomacy_trespassingevent_feed_target_faction">
+<event>diplomacy_trespassing</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_military_force_general</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_trespassing_primary_detail</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Foreign Trespasser" last_edit_user="bob">Foreign Trespasser</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{abf1ecba-679d-47dc-81c3-b12561ca9f32}" record_timestamp="1430315271535" record_key="diplomacy_trespassingevent_feed_target_military_force_faction">
+<event>diplomacy_trespassing</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_military_force_general</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_trespassing_primary_detail</primary_detail>
+<target>event_feed_target_military_force_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Trespassing!" last_edit_user="bob">Trespassing!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{2e6cd814-aa44-4aad-90f6-5e37de6d0320}" record_timestamp="1465304668866" record_key="diplomacy_war_coordination_ally_mobilisation_vs_forceevent_feed_target_faction">
+<event>diplomacy_war_coordination_ally_mobilisation_vs_force</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_war_coordination_ally_mobilisation_all_primary_detail</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Ally Mobilises Against Force" last_edit_user="bob">Ally Mobilises Against Force</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{bdcfe58f-8dee-4b92-b703-9317e4ae0d3a}" record_timestamp="1465304668884" record_key="diplomacy_war_coordination_ally_mobilisation_vs_regionevent_feed_target_faction">
+<event>diplomacy_war_coordination_ally_mobilisation_vs_region</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_war_coordination_ally_mobilisation_all_primary_detail</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Ally Mobilises Against Settlement" last_edit_user="bob">Ally Mobilises Against Settlement</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{d3bffe74-b4db-4285-b2da-5eecb772e19a}" record_timestamp="1433173142784" record_key="diplomacy_war_coordination_target_availableevent_feed_target_faction">
+<event>diplomacy_war_coordination_target_available</event>
+<icon>event_diplomacy_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>0</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_war_coordination_target_available_primary_details</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="War Co-Ordination" last_edit_user="bob">War Co-Ordination</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{72e614cf-54d1-40aa-b169-4826ed699ef5}" record_timestamp="1433173142784" record_key="diplomacy_war_coordination_target_not_availableevent_feed_target_faction">
+<event>diplomacy_war_coordination_target_not_available</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>0</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_war_coordination_target_unavailable_primary_details</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="War Co-Ordination" last_edit_user="bob">War Co-Ordination</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{c9b0edd2-b936-4f33-990c-4170dd844018}" record_timestamp="1430315282281" record_key="diplomacy_war_declaredevent_feed_target_diplomacy_actor">
+<event>diplomacy_war_declared</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_actor</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_recipient</primary_detail>
+<target>event_feed_target_diplomacy_actor</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="War Declared" last_edit_user="bob">War Declared</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{ece31d2a-fcae-41b3-947c-640285e2bf7c}" record_timestamp="1449565422639" record_key="diplomacy_war_declaredevent_feed_target_diplomacy_known_to">
+<event>diplomacy_war_declared</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_recipient</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_actor_recipient</primary_detail>
+<target>event_feed_target_diplomacy_known_to</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="War Declared" last_edit_user="bob">War Declared</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{619e03bf-5ad4-4318-b6ee-755ab6458405}" record_timestamp="1449565422619" record_key="diplomacy_war_declaredevent_feed_target_diplomacy_recipient">
+<event>diplomacy_war_declared</event>
+<icon>event_diplomacy_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_faction_actor</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_treaty_all_primary_detail_actor_recipient</primary_detail>
+<target>event_feed_target_diplomacy_recipient</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="War Declared" last_edit_user="bob">War Declared</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{2ace903a-7785-4ba1-b3a4-2ac70b4047df}" record_timestamp="1461152263766" record_key="faction_ancillary_gained_stolenevent_feed_target_faction">
+<event>faction_ancillary_gained_stolen</event>
+<icon>event_char_activity_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_ancillary_all_primary_detail</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Stolen from the Enemy" last_edit_user="bob">Stolen from the Enemy</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{e0b7686d-3f3a-4811-a589-988f272ffb68}" record_timestamp="1461152263765" record_key="faction_ancillary_gainedevent_feed_target_faction">
+<event>faction_ancillary_gained</event>
+<icon>event_char_activity_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_ancillary_all_primary_detail</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="#(ancillary.subcategory) Gained" last_edit_user="bob">#(ancillary.subcategory) Gained</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{07ea9715-7a5c-44d5-ab82-ba7411caea8b}" record_timestamp="1430315270456" record_key="faction_bankruptcyevent_feed_target_faction">
+<event>faction_bankruptcy</event>
+<icon>event_region_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_faction</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_diplomacy_faction_all_primary_detail</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Bankrupt!" last_edit_user="bob">Bankrupt!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{ff478d89-64d3-4480-92ad-82513218649c}" record_timestamp="1446020978261" record_key="faction_campaign_chapter_objective_completeevent_feed_target_mission_faction">
+<event>faction_campaign_chapter_objective_complete</event>
+<icon>event_mission_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_mission_faction</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_faction_campaign_chapter_objective_complete_primary_detail</primary_detail>
+<target>event_feed_target_mission_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Objective Complete" last_edit_user="bob">Objective Complete</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{5066dc6c-e894-43bf-aa21-ebad4a68418a}" record_timestamp="1443686802563" record_key="faction_campaign_lostevent_feed_target_mission_faction">
+<event>faction_campaign_lost</event>
+<icon>event_region_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_mission_faction</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_all_null</primary_detail>
+<target>event_feed_target_mission_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Defeat!" last_edit_user="bob">Defeat!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{29395332-8f98-477f-b7ce-610469da3590}" record_timestamp="1459934239935" record_key="faction_campaign_victory_objective_completeevent_feed_target_mission_faction">
+<event>faction_campaign_victory_objective_complete</event>
+<icon>event_mission_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_mission_faction</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_all_null</primary_detail>
+<target>event_feed_target_mission_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="#(mission) Complete" last_edit_user="bob">#(mission) Complete</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{1ed2cb3f-67fb-4eac-a8aa-8671be8c1031}" record_timestamp="1459934266897" record_key="faction_event_dilemmaevent_feed_target_dilemma_faction">
+<event>faction_event_dilemma</event>
+<icon>event_commander_activity_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_faction_event_dilemma_primary_detail</primary_detail>
+<target>event_feed_target_dilemma_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="#(dilemma)" last_edit_user="bob">#(dilemma)</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{b5c8b74d-795e-46f0-9cfa-243dc9023482}" record_timestamp="1459934266897" record_key="faction_event_incidentevent_feed_target_incident_faction">
+<event>faction_event_incident</event>
+<icon>event_commander_activity_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_faction_event_incident_primary_detail</primary_detail>
+<target>event_feed_target_incident_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="#(incident)" last_edit_user="bob">#(incident)</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{6391d373-bbf0-43b8-99ce-cd207875a965}" record_timestamp="1453735954172" record_key="faction_event_mission_abortedevent_feed_target_mission_faction">
+<event>faction_event_mission_aborted</event>
+<icon>event_mission_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_faction_event_mission_primary_detail</primary_detail>
+<target>event_feed_target_mission_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="#(mission.category) Aborted" last_edit_user="bob">#(mission.category) Aborted</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{67c7c375-49a7-4188-9b7d-17dc51dfdc22}" record_timestamp="1453735954163" record_key="faction_event_mission_failedevent_feed_target_mission_faction">
+<event>faction_event_mission_failed</event>
+<icon>event_mission_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_faction_event_mission_primary_detail</primary_detail>
+<target>event_feed_target_mission_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="#(mission.category) Failed" last_edit_user="bob">#(mission.category) Failed</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{5b77b337-6b1a-4ef2-bc59-32540154054f}" record_timestamp="1453735954155" record_key="faction_event_mission_issuedevent_feed_target_mission_faction">
+<event>faction_event_mission_issued</event>
+<icon>event_mission_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_faction_event_mission_primary_detail</primary_detail>
+<target>event_feed_target_mission_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="#(mission.category) Issued" last_edit_user="bob">#(mission.category) Issued</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{deef02d8-6f1a-482a-be87-d1e9422a6b78}" record_timestamp="1453735954147" record_key="faction_event_mission_successevent_feed_target_mission_faction">
+<event>faction_event_mission_success</event>
+<icon>event_mission_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_faction_event_mission_primary_detail</primary_detail>
+<target>event_feed_target_mission_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="#(mission.category) Successful" last_edit_user="bob">#(mission.category) Successful</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{97117dd9-15aa-4e8a-90be-57d0b91735aa}" record_timestamp="1443686802987" record_key="faction_horde_beginsevent_feed_target_faction">
+<event>faction_horde_begins</event>
+<icon>event_region_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_all_null</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="The Horde" last_edit_user="bob">The Horde</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{e673d793-2e32-49fe-8b88-c11f033f0895}" record_timestamp="1443686803070" record_key="faction_horde_endsevent_feed_target_capital_faction">
+<event>faction_horde_ends</event>
+<icon>event_region_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_all_null</primary_detail>
+<target>event_feed_target_capital_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="The Horde Settles" last_edit_user="bob">The Horde Settles</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{b5c843f1-ffed-4d79-89b6-73cb4cd45466}" record_timestamp="1455877315543" record_key="faction_joins_confederationevent_feed_target_confederation_known_to">
+<event>faction_joins_confederation</event>
+<icon>event_diplomacy_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_confederation_province</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_faction_joins_confederation_primary_detail</primary_detail>
+<target>event_feed_target_confederation_known_to</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Confederation" last_edit_user="bob">Confederation</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{9e0ac232-792e-44b3-a507-87c67f727e43}" record_timestamp="1430315267671" record_key="faction_political_ministerial_term_endedevent_feed_target_character_faction">
+<event>faction_political_ministerial_term_ended</event>
+<icon>event_char_activity_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_character_all_primary_detail</primary_detail>
+<target>event_feed_target_character_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Term of Office" last_edit_user="bob">Term of Office</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{80fd7df1-8f60-486c-874d-532c58360092}" record_timestamp="1455894331913" record_key="faction_resource_gainedevent_feed_target_settlement_faction">
+<event>faction_resource_gained</event>
+<icon>event_money_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_settlement</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_faction_resource_all_primary_detail</primary_detail>
+<target>event_feed_target_settlement_faction</target>
+<target_criteria>event_feed_target_criteria_resource</target_criteria>
+<title state="APPROVED" last_approved_text="Resource Gained" last_edit_user="bob">Resource Gained</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{3689102a-8f05-46e7-b7aa-466657806827}" record_timestamp="1455894332296" record_key="faction_resource_lostevent_feed_target_settlement_faction">
+<event>faction_resource_lost</event>
+<icon>event_money_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_settlement</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_faction_resource_all_primary_detail</primary_detail>
+<target>event_feed_target_settlement_faction</target>
+<target_criteria>event_feed_target_criteria_resource</target_criteria>
+<title state="APPROVED" last_approved_text="Resource Lost" last_edit_user="bob">Resource Lost</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{03a23580-d5c7-4fb1-bf66-093588782b60}" record_timestamp="1465304668896" record_key="faction_technology_researchedevent_feed_target_faction">
+<event>faction_technology_researched</event>
+<icon>event_technology_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_faction_technology_researched_primary_detail</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Technology Researched" last_edit_user="bob">Technology Researched</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{f9ea53f0-3bfe-44fa-a720-0a000ac9ca9b}" record_timestamp="1446020978181" record_key="horde_building_constructedevent_feed_target_building_faction">
+<event>horde_building_constructed</event>
+<icon>event_buildings_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_provinces_building_all_primary_detail</primary_detail>
+<target>event_feed_target_building_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Construction Complete" last_edit_user="bob">Construction Complete</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{337fb91b-284c-4b5c-b124-3bad42433fe3}" record_timestamp="1430315264293" record_key="horde_building_demolishedevent_feed_target_building_faction">
+<event>horde_building_demolished</event>
+<icon>event_buildings_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_provinces_building_all_primary_detail</primary_detail>
+<target>event_feed_target_building_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Demolition Complete" last_edit_user="bob">Demolition Complete</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{035171c8-a847-4cbd-ac5f-f520c11147f0}" record_timestamp="1430315272700" record_key="horde_food_shortage_endsevent_feed_target_military_force_faction">
+<event>horde_food_shortage_ends</event>
+<icon>event_population_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_military_all_force_primary_detail</primary_detail>
+<target>event_feed_target_military_force_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Food Shortage Resolved" last_edit_user="bob">Food Shortage Resolved</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{592934dc-83a8-462c-ab7c-cb1b403ef040}" record_timestamp="1430315272506" record_key="horde_food_shortageevent_feed_target_military_force_faction">
+<event>horde_food_shortage</event>
+<icon>event_population_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_military_all_force_primary_detail</primary_detail>
+<target>event_feed_target_military_force_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Food Shortage!" last_edit_user="bob">Food Shortage!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{09a635c8-86f2-4406-a1a3-154103f31466}" record_timestamp="1466170748269" record_key="horde_unrest_imminent_disbandevent_feed_target_force_parent_army_faction">
+<event>horde_unrest_imminent_disband</event>
+<icon>event_military_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_military_force_general</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_military_all_force_primary_detail</primary_detail>
+<target>event_feed_target_force_parent_army_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="{{tr:horde_unrest_imminent_disband}}" last_edit_user="bob">{{tr:horde_unrest_imminent_disband}}</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{861807a7-f421-4e36-bb94-175ba41c3347}" record_timestamp="1471865784475" record_key="mercenary_unit_character_level_restriction_liftedevent_feed_target_faction">
+<event>mercenary_unit_character_level_restriction_lifted</event>
+<icon>event_military_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>0</persistent>
+<primary_detail>wh_event_feed_string_all_null</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Regiment of Renown Unlocked" last_edit_user="bob">Regiment of Renown Unlocked</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{7608d713-0763-4b45-b14c-2b52522c0aef}" record_timestamp="1468505940551" record_key="military_ambusher_discovered_yoursevent_feed_target_ambusher_faction">
+<event>military_ambusher_discovered_yours</event>
+<icon>event_military_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_ambusher_general</located>
+<persistent>0</persistent>
+<primary_detail>wh_event_feed_string_military_ambusher_primary_detail</primary_detail>
+<target>event_feed_target_ambusher_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="{{tr:ambush_foiled_title}}" last_edit_user="bob">{{tr:ambush_foiled_title}}</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{90b952e3-e3a1-439f-af64-22581cd3920b}" record_timestamp="1468505940590" record_key="military_ambusher_discoveredevent_feed_target_discovered_by">
+<event>military_ambusher_discovered</event>
+<icon>event_military_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_ambusher_general</located>
+<persistent>0</persistent>
+<primary_detail>wh_event_feed_string_military_ambusher_primary_detail</primary_detail>
+<target>event_feed_target_discovered_by</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Ambusher Discovered" last_edit_user="bob">Ambusher Discovered</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{70880d6f-fe7c-467c-b275-bd170fbcc37a}" record_timestamp="1430315273084" record_key="military_army_destroyedevent_feed_target_military_force_faction">
+<event>military_army_destroyed</event>
+<icon>event_military_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_military_all_force_primary_detail</primary_detail>
+<target>event_feed_target_military_force_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Army Lost!" last_edit_user="bob">Army Lost!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{62df99c3-5a47-499e-98c6-3f0575f31343}" record_timestamp="1430315272892" record_key="military_army_disbandedevent_feed_target_military_force_faction">
+<event>military_army_disbanded</event>
+<icon>event_military_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_military_all_force_primary_detail</primary_detail>
+<target>event_feed_target_military_force_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Army Disbanded" last_edit_user="bob">Army Disbanded</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{15ded2a7-1262-4302-86dd-d7d300ec8fc1}" record_timestamp="1446020978102" record_key="military_army_foundedevent_feed_target_military_force_faction">
+<event>military_army_founded</event>
+<icon>event_military_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_military_all_force_primary_detail</primary_detail>
+<target>event_feed_target_military_force_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Army Founded" last_edit_user="bob">Army Founded</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{50b6522f-8cad-4f2c-8f8e-7d134b385f70}" record_timestamp="1446020978122" record_key="military_army_raisedevent_feed_target_military_force_faction">
+<event>military_army_raised</event>
+<icon>event_military_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_military_all_force_primary_detail</primary_detail>
+<target>event_feed_target_military_force_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Army Raised" last_edit_user="bob">Army Raised</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{971fb528-b39b-4eea-905c-90610f59b1a4}" record_timestamp="1430315271928" record_key="military_army_withdrawsevent_feed_target_military_force_faction">
+<event>military_army_withdraws</event>
+<icon>event_military_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_military_all_force_primary_detail</primary_detail>
+<target>event_feed_target_military_force_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Army Withdraws" last_edit_user="bob">Army Withdraws</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{0975854f-ba68-42b1-b00d-0a51b84ed455}" record_timestamp="1459934236101" record_key="military_attritionevent_feed_target_military_force_faction">
+<event>military_attrition</event>
+<icon>event_military_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_military_force_general</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_military_attrition_primary_detail</primary_detail>
+<target>event_feed_target_military_force_faction</target>
+<target_criteria>event_feed_target_criteria_attrition</target_criteria>
+<title state="APPROVED" last_approved_text="Attrition!" last_edit_user="bob">Attrition!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{5d1c150f-e0fd-43bb-af60-757bf7e7ca16}" record_timestamp="1468495781278" record_key="military_companion_army_destroyedevent_feed_target_parent_faction">
+<event>military_companion_army_destroyed</event>
+<icon>event_military_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_military_companion_army_primary_detail</primary_detail>
+<target>event_feed_target_parent_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="{{tr:military_companion_army_destroyed}}" last_edit_user="bob">{{tr:military_companion_army_destroyed}}</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{90b684cd-5111-49ae-81d8-239b874ee526}" record_timestamp="1466170747963" record_key="military_companion_army_dispandsevent_feed_target_parent_faction">
+<event>military_companion_army_dispands</event>
+<icon>event_military_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_parent_general</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_military_companion_army_primary_detail</primary_detail>
+<target>event_feed_target_parent_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="{{tr:military_companion_army_dispands}}" last_edit_user="bob">{{tr:military_companion_army_dispands}}</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{9750a924-8aef-4263-b01a-e3db3f062289}" record_timestamp="1465461610029" record_key="military_companion_army_oursevent_feed_target_parent_faction">
+<event>military_companion_army_ours</event>
+<icon>event_military_positive.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_companion_general</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_military_companion_army_ours_primary_detail</primary_detail>
+<target>event_feed_target_parent_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="{{tr:military_companion_army_ours}}" last_edit_user="bob">{{tr:military_companion_army_ours}}</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{5da9369a-17ef-4753-b5a1-09513dd4d377}" record_timestamp="1469454486414" record_key="military_companion_armyevent_feed_target_parent_faction_known_to">
+<event>military_companion_army</event>
+<icon>event_military_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_companion_general</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_military_companion_army_primary_detail</primary_detail>
+<target>event_feed_target_parent_faction_known_to</target>
+<target_criteria>event_feed_target_companion_culture</target_criteria>
+<title state="APPROVED" last_approved_text="#(companion.companion_army_type)" last_edit_user="bob">#(companion.companion_army_type)</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{90ab627a-2b7f-4799-90e3-13c28cb2d80c}" record_timestamp="1430315268674" record_key="military_path_blockedevent_feed_target_military_character_faction">
+<event>military_path_blocked</event>
+<icon>event_military_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>0</persistent>
+<primary_detail>wh_event_feed_string_character_all_primary_detail_type</primary_detail>
+<target>event_feed_target_military_character_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Path Blocked!" last_edit_user="bob">Path Blocked!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{248ff9fb-8a13-4824-bbd6-150604be407e}" record_timestamp="1446020977972" record_key="military_unit_recruitedevent_feed_target_military_unit_faction">
+<event>military_unit_recruited</event>
+<icon>event_military_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_military_unit_recruited_primary_detail</primary_detail>
+<target>event_feed_target_military_unit_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Unit Recruited" last_edit_user="bob">Unit Recruited</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{b7651605-7f0e-4c28-9725-0a2207a075eb}" record_timestamp="1453289377403" record_key="provinces_building_constructedevent_feed_target_building_faction">
+<event>provinces_building_constructed</event>
+<icon>event_buildings_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_building</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_provinces_building_all_primary_detail</primary_detail>
+<target>event_feed_target_building_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Construction Complete" last_edit_user="bob">Construction Complete</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{b6a58008-5b97-4064-8f1a-bce3d123c6f5}" record_timestamp="1453289376878" record_key="provinces_building_demolishedevent_feed_target_building_faction">
+<event>provinces_building_demolished</event>
+<icon>event_buildings_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_building</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_provinces_building_all_primary_detail</primary_detail>
+<target>event_feed_target_building_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Demolition Complete" last_edit_user="bob">Demolition Complete</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{d2d1ca24-b955-4e76-b67f-15a095f3e7da}" record_timestamp="1456491324635" record_key="provinces_development_points_availableevent_feed_target_province_faction">
+<event>provinces_development_points_available</event>
+<icon>event_province_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_province_capital</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_province_all_primary_detail</primary_detail>
+<target>event_feed_target_province_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Population Surplus" last_edit_user="bob">Population Surplus</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{b5a3d308-9f59-42b3-89ff-21585e8a1172}" record_timestamp="1430315279369" record_key="provinces_food_shortage_endsevent_feed_target_province_faction">
+<event>provinces_food_shortage_ends</event>
+<icon>event_province_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_province</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_province_all_primary_detail</primary_detail>
+<target>event_feed_target_province_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Food Shortage Resolved" last_edit_user="bob">Food Shortage Resolved</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{b7fdab08-2ee4-486b-941f-b2b404e4ea3a}" record_timestamp="1430315279561" record_key="provinces_food_shortageevent_feed_target_province_faction">
+<event>provinces_food_shortage</event>
+<icon>event_province_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_province</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_province_all_primary_detail</primary_detail>
+<target>event_feed_target_province_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Food Shortage!" last_edit_user="bob">Food Shortage!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{5264d2d2-8f84-420b-8d82-952349925f5c}" record_timestamp="1430315285566" record_key="provinces_settlement_abandonedevent_feed_target_settlement_faction">
+<event>provinces_settlement_abandoned</event>
+<icon>event_region_negative.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_settlement</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_settlement_all_primary_detail</primary_detail>
+<target>event_feed_target_settlement_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Settlement Abandoned!" last_edit_user="bob">Settlement Abandoned!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{67d86d01-3bfa-46bf-b55e-9025cac15c5a}" record_timestamp="1446020978311" record_key="provinces_settlement_lootedevent_feed_target_attacked_by_faction">
+<event>provinces_settlement_looted</event>
+<icon>event_city_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_settlement</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_provinces_settlement_region_and_province_primary_detail</primary_detail>
+<target>event_feed_target_attacked_by_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Enemy Settlement Looted" last_edit_user="bob">Enemy Settlement Looted</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{538a4e21-86dc-47dc-9169-fa19b691dade}" record_timestamp="1446020978331" record_key="provinces_settlement_lootedevent_feed_target_settlement_faction">
+<event>provinces_settlement_looted</event>
+<icon>event_city_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_settlement</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_provinces_settlement_region_and_province_primary_detail</primary_detail>
+<target>event_feed_target_settlement_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Settlement Looted!" last_edit_user="bob">Settlement Looted!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{6d394482-04a3-46bb-82fe-7c648019ae77}" record_timestamp="1430315286438" record_key="provinces_settlement_razedevent_feed_target_attacked_by_faction">
+<event>provinces_settlement_razed</event>
+<icon>event_city_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_settlement</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_provinces_settlement_region_and_province_primary_detail</primary_detail>
+<target>event_feed_target_attacked_by_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Enemy Settlement Razed" last_edit_user="bob">Enemy Settlement Razed</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{011c1415-082f-462a-b777-0cf8d3d11e4c}" record_timestamp="1430315286635" record_key="provinces_settlement_razedevent_feed_target_settlement_faction">
+<event>provinces_settlement_razed</event>
+<icon>event_city_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_settlement</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_provinces_settlement_region_and_province_primary_detail</primary_detail>
+<target>event_feed_target_settlement_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Settlement Razed!" last_edit_user="bob">Settlement Razed!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{f4fd1d28-e9c9-4a6a-a2e0-2181331f14b1}" record_timestamp="1446020978281" record_key="provinces_settlement_sackedevent_feed_target_attacked_by_faction">
+<event>provinces_settlement_sacked</event>
+<icon>event_city_positive.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_settlement</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_provinces_settlement_region_and_province_primary_detail</primary_detail>
+<target>event_feed_target_attacked_by_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Enemy Settlement Sacked" last_edit_user="bob">Enemy Settlement Sacked</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{7768ce20-4f55-4577-87b2-ee71eb6cfcdf}" record_timestamp="1430315286921" record_key="provinces_settlement_sackedevent_feed_target_settlement_faction">
+<event>provinces_settlement_sacked</event>
+<icon>event_city_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_settlement</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_provinces_settlement_region_and_province_primary_detail</primary_detail>
+<target>event_feed_target_settlement_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Settlement Sacked!" last_edit_user="bob">Settlement Sacked!</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{fed2acf5-82fc-43a5-a37a-467b712e94b3}" record_timestamp="1430315286045" record_key="provinces_slumsevent_feed_target_settlement_faction">
+<event>provinces_slums</event>
+<icon>event_province_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_settlement</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_settlement_all_primary_detail</primary_detail>
+<target>event_feed_target_settlement_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Slums" last_edit_user="bob">Slums</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{335a40be-f447-40b4-9b00-ac16baf8a67f}" record_timestamp="1484760868013" record_key="provinces_unrest_imminent_rebellionevent_feed_target_province_faction">
+<event>provinces_unrest_imminent_rebellion</event>
+<icon>event_population_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_province</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_province_all_primary_detail</primary_detail>
+<target>event_feed_target_province_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="{{tr:provinces_unrest_imminent_rebellion}}" last_edit_user="bob">{{tr:provinces_unrest_imminent_rebellion}}</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{fc87259d-0d78-40fc-ac71-7e0c784e2977}" record_timestamp="1484760867817" record_key="provinces_unrest_rebellionevent_feed_target_province_faction">
+<event>provinces_unrest_rebellion</event>
+<icon>event_population_negative.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_province</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_conquest_province_all_primary_detail</primary_detail>
+<target>event_feed_target_province_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="{{tr:provinces_unrest_rebellion}}" last_edit_user="bob">{{tr:provinces_unrest_rebellion}}</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{66b9448a-fe3b-48fb-94df-f71d6751b2ca}" record_timestamp="1430315279465" record_key="provinces_unseasonal_conditionsevent_feed_target_province_faction">
+<event>provinces_unseasonal_conditions</event>
+<icon>event_province_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_location_province_capital</located>
+<persistent>0</persistent>
+<primary_detail>wh_event_feed_string_conquest_province_all_primary_detail</primary_detail>
+<target>event_feed_target_province_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Unseasonal Conditions" last_edit_user="bob">Unseasonal Conditions</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{048792aa-c47c-4683-b578-94575aebbba0}" record_timestamp="1459934266897" record_key="scripted_persistent_eventevent_feed_target_faction">
+<event>scripted_persistent_event</event>
+<icon>event_commander_activity_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_scripted_event_primary_detail</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_scripted_event_target</target_criteria>
+<title state="APPROVED" last_approved_text="#(title)" last_edit_user="bob">#(title)</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{f3b101bf-1353-49d8-ab6b-be2a9d25b7a2}" record_timestamp="1459934266898" record_key="scripted_persistent_located_eventevent_feed_target_faction">
+<event>scripted_persistent_located_event</event>
+<icon>event_commander_activity_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_position</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_scripted_event_primary_detail</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_scripted_event_target</target_criteria>
+<title state="APPROVED" last_approved_text="#(title)" last_edit_user="bob">#(title)</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{30a748cc-da0a-4455-9e4d-ad8b1677170a}" record_timestamp="1459934266898" record_key="scripted_transient_eventevent_feed_target_faction">
+<event>scripted_transient_event</event>
+<icon>event_commander_activity_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_none</located>
+<persistent>0</persistent>
+<primary_detail>wh_event_feed_string_scripted_event_primary_detail</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_scripted_event_target</target_criteria>
+<title state="APPROVED" last_approved_text="#(title)" last_edit_user="bob">#(title)</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{7c12f849-52c0-472f-abea-cd34c4006ec0}" record_timestamp="1459934266899" record_key="scripted_transient_located_eventevent_feed_target_faction">
+<event>scripted_transient_located_event</event>
+<icon>event_commander_activity_neutral.png</icon>
+<instant_open>1</instant_open>
+<located>event_feed_location_position</located>
+<persistent>0</persistent>
+<primary_detail>wh_event_feed_string_scripted_event_primary_detail</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_scripted_event_target</target_criteria>
+<title state="APPROVED" last_approved_text="#(title)" last_edit_user="bob">#(title)</title>
+</event_feed_targeted_events>
+<event_feed_targeted_events record_uuid="{b5a7ba67-8457-4ff3-a0c3-68396e1c92f0}" record_timestamp="1481029120027" record_key="world_winds_of_magic_changeevent_feed_target_faction">
+<event>world_winds_of_magic_change</event>
+<icon>event_province_neutral.png</icon>
+<instant_open>0</instant_open>
+<located>event_feed_none</located>
+<persistent>1</persistent>
+<primary_detail>wh_event_feed_string_all_null</primary_detail>
+<target>event_feed_target_faction</target>
+<target_criteria>event_feed_none</target_criteria>
+<title state="APPROVED" last_approved_text="Winds of Magic Change" last_edit_user="bob">Winds of Magic Change</title>
+</event_feed_targeted_events>
+</dataroot>

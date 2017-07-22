@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_fatigue_effects.xsd" export_time="Tue Jun 21 16:20:28 2016" revision="24" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>34fb08d5-128c-4e12-94d6-ac845ff5aa17</edit_uuid>
+<unit_fatigue_effects record_uuid="{8dbaba4b-7f06-4ccb-a934-485baf2e3abf}" record_timestamp="1457360666276" record_key="threshold_activescalar_speed">
+<fatigue_level>threshold_active</fatigue_level>
+<stat>scalar_speed</stat>
+<value>1</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{c3e6ac26-e826-480b-a67f-9dae8fa8d2ac}" record_timestamp="1457360666113" record_key="threshold_activestat_melee_attack">
+<fatigue_level>threshold_active</fatigue_level>
+<stat>stat_melee_attack</stat>
+<value>1</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{2eb551d5-335e-4c1c-8315-9fed6867d3f3}" record_timestamp="1466522425991" record_key="threshold_activestat_reloading">
+<fatigue_level>threshold_active</fatigue_level>
+<stat>stat_reloading</stat>
+<value>1</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{0dd044ea-70d4-465f-8252-8f6423b9260e}" record_timestamp="1455809059705" record_key="threshold_exhaustedscalar_speed">
+<fatigue_level>threshold_exhausted</fatigue_level>
+<stat>scalar_speed</stat>
+<value>0.85</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{ebb7eef6-83e7-4cf5-9137-d119a82b4a53}" record_timestamp="1459936836228" record_key="threshold_exhaustedstat_armour">
+<fatigue_level>threshold_exhausted</fatigue_level>
+<stat>stat_armour</stat>
+<value>0.65</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{b868af52-a1d4-4193-b672-003efb29f0f8}" record_timestamp="1466522425992" record_key="threshold_exhaustedstat_charge_bonus">
+<fatigue_level>threshold_exhausted</fatigue_level>
+<stat>stat_charge_bonus</stat>
+<value>0.75</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{babd1af3-6e0e-45b4-b802-2b50c0abe7cb}" record_timestamp="1466522425990" record_key="threshold_exhaustedstat_melee_attack">
+<fatigue_level>threshold_exhausted</fatigue_level>
+<stat>stat_melee_attack</stat>
+<value>0.8</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{03ffd3e5-d992-4723-b112-d655f8b47e5c}" record_timestamp="1466522425993" record_key="threshold_exhaustedstat_melee_defence">
+<fatigue_level>threshold_exhausted</fatigue_level>
+<stat>stat_melee_defence</stat>
+<value>0.85</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{d7e24289-33cc-4971-9c54-89ed6971a7f2}" record_timestamp="1389703228892" record_key="threshold_exhaustedstat_reloading">
+<fatigue_level>threshold_exhausted</fatigue_level>
+<stat>stat_reloading</stat>
+<value>0.65</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{a622bb97-5a81-489a-9b3e-5f8eb49b1d99}" record_timestamp="1457360667218" record_key="threshold_tiredscalar_speed">
+<fatigue_level>threshold_tired</fatigue_level>
+<stat>scalar_speed</stat>
+<value>0.9</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{95d3cc3e-332b-46be-83c5-397cf56a3c97}" record_timestamp="1459947212366" record_key="threshold_tiredstat_charge_bonus">
+<fatigue_level>threshold_tired</fatigue_level>
+<stat>stat_charge_bonus</stat>
+<value>0.9</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{70e7c20a-24c8-4454-b2cc-752728939feb}" record_timestamp="1457360666164" record_key="threshold_tiredstat_melee_attack">
+<fatigue_level>threshold_tired</fatigue_level>
+<stat>stat_melee_attack</stat>
+<value>0.9</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{e08ea587-daf2-4127-b28e-3757946a7a18}" record_timestamp="1389703231494" record_key="threshold_tiredstat_reloading">
+<fatigue_level>threshold_tired</fatigue_level>
+<stat>stat_reloading</stat>
+<value>0.85</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{af44375b-1633-46ef-ba23-c0bbf3117296}" record_timestamp="1447238484890" record_key="threshold_very_tiredscalar_speed">
+<fatigue_level>threshold_very_tired</fatigue_level>
+<stat>scalar_speed</stat>
+<value>0.85</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{440c3a79-38a6-4833-b9fb-bbcaf5141272}" record_timestamp="1459936836225" record_key="threshold_very_tiredstat_armour">
+<fatigue_level>threshold_very_tired</fatigue_level>
+<stat>stat_armour</stat>
+<value>0.9</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{cf3a91e0-bd96-4873-971b-a998a6fe2b8b}" record_timestamp="1459947212367" record_key="threshold_very_tiredstat_charge_bonus">
+<fatigue_level>threshold_very_tired</fatigue_level>
+<stat>stat_charge_bonus</stat>
+<value>0.8</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{3d8b5657-7bb3-4b2f-8bfc-d393ff644ca3}" record_timestamp="1466522425989" record_key="threshold_very_tiredstat_melee_attack">
+<fatigue_level>threshold_very_tired</fatigue_level>
+<stat>stat_melee_attack</stat>
+<value>0.8</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{8d543e30-b794-49f3-8d20-5f1c2ca8b611}" record_timestamp="1389703230791" record_key="threshold_very_tiredstat_reloading">
+<fatigue_level>threshold_very_tired</fatigue_level>
+<stat>stat_reloading</stat>
+<value>0.75</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{bccdf566-98f7-4b9c-adad-ef68fc83f862}" record_timestamp="1457360667198" record_key="threshold_windedscalar_speed">
+<fatigue_level>threshold_winded</fatigue_level>
+<stat>scalar_speed</stat>
+<value>0.95</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{08c9e0bd-8efc-4d33-9af1-e08a29276265}" record_timestamp="1457360666258" record_key="threshold_windedstat_melee_attack">
+<fatigue_level>threshold_winded</fatigue_level>
+<stat>stat_melee_attack</stat>
+<value>0.95</value>
+</unit_fatigue_effects>
+<unit_fatigue_effects record_uuid="{33e9bf7b-4065-4e93-9658-423d07ba2341}" record_timestamp="1371811998457" record_key="threshold_windedstat_reloading">
+<fatigue_level>threshold_winded</fatigue_level>
+<stat>stat_reloading</stat>
+<value>0.9</value>
+</unit_fatigue_effects>
+</dataroot>

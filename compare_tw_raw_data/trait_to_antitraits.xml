@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="trait_to_antitraits.xsd" export_time="Fri Feb 3 11:45:45 2017" revision="19" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>a1b5564c-165b-4136-8325-54239c369196</edit_uuid>
+<trait_to_antitraits record_uuid="{132fa170-3826-4ba6-a765-1eaee776dc1f}" record_timestamp="1467717511307" record_key="wh_dlc03_trait_bst_personality_braggerwh_dlc03_trait_bst_personality_gloomy">
+<antitrait>wh_dlc03_trait_bst_personality_gloomy</antitrait>
+<trait>wh_dlc03_trait_bst_personality_bragger</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{86f806f0-9113-493e-9c48-93e91bf5ab3a}" record_timestamp="1467717511307" record_key="wh_dlc03_trait_bst_personality_gloomywh_dlc03_trait_bst_personality_bragger">
+<antitrait>wh_dlc03_trait_bst_personality_bragger</antitrait>
+<trait>wh_dlc03_trait_bst_personality_gloomy</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{fd6daa69-9bc5-45d0-b653-66e2cd1cdacc}" record_timestamp="1486122332325" record_key="wh_dlc07_trait_brt_lord_good_attackerwh_dlc07_trait_brt_lord_bad_attacker">
+<antitrait>wh_dlc07_trait_brt_lord_bad_attacker</antitrait>
+<trait>wh_dlc07_trait_brt_lord_good_attacker</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{3e489fe0-a896-47e2-b1dd-3b19beb5352e}" record_timestamp="1486122332368" record_key="wh_dlc07_trait_brt_lord_good_defenderwh_dlc07_trait_brt_lord_bad_defender">
+<antitrait>wh_dlc07_trait_brt_lord_bad_defender</antitrait>
+<trait>wh_dlc07_trait_brt_lord_good_defender</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{e64e31b7-de15-4dd8-9385-44ea50610d91}" record_timestamp="1433143916265" record_key="wh_main_trait_all_personality_all_drinkwh_main_trait_all_personality_all_sober">
+<antitrait>wh_main_trait_all_personality_all_sober</antitrait>
+<trait>wh_main_trait_all_personality_all_drink</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{429558de-eac9-499e-a0bc-6efe3f318788}" record_timestamp="1433143906918" record_key="wh_main_trait_all_personality_all_energeticwh_main_trait_all_personality_all_lazy">
+<antitrait>wh_main_trait_all_personality_all_lazy</antitrait>
+<trait>wh_main_trait_all_personality_all_energetic</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{7632a4a6-5d6a-4a00-bcfd-e9bd60e6d56a}" record_timestamp="1433433872527" record_key="wh_main_trait_all_personality_all_fears_chaoswh_main_trait_all_personality_all_likes_chaos">
+<antitrait>wh_main_trait_all_personality_all_likes_chaos</antitrait>
+<trait>wh_main_trait_all_personality_all_fears_chaos</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{800baa05-dc4f-456f-92dd-2701a73f3861}" record_timestamp="1433433872424" record_key="wh_main_trait_all_personality_all_fears_dwarfswh_main_trait_all_personality_all_likes_dwarfs">
+<antitrait>wh_main_trait_all_personality_all_likes_dwarfs</antitrait>
+<trait>wh_main_trait_all_personality_all_fears_dwarfs</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{58225f5b-74c5-4fa2-b9ac-945835dd2ee5}" record_timestamp="1433433872733" record_key="wh_main_trait_all_personality_all_fears_greenskinswh_main_trait_all_personality_all_likes_greenskins">
+<antitrait>wh_main_trait_all_personality_all_likes_greenskins</antitrait>
+<trait>wh_main_trait_all_personality_all_fears_greenskins</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{dc12ca68-77a8-428e-ab2b-2eb47f378209}" record_timestamp="1433433872630" record_key="wh_main_trait_all_personality_all_fears_menwh_main_trait_all_personality_all_likes_men">
+<antitrait>wh_main_trait_all_personality_all_likes_men</antitrait>
+<trait>wh_main_trait_all_personality_all_fears_men</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{dbe514d2-8740-41ec-88b2-c5c6688be3ac}" record_timestamp="1433433872939" record_key="wh_main_trait_all_personality_all_fears_vampire_countswh_main_trait_all_personality_all_likes_vampire_counts">
+<antitrait>wh_main_trait_all_personality_all_likes_vampire_counts</antitrait>
+<trait>wh_main_trait_all_personality_all_fears_vampire_counts</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{4e0c1d61-3866-4cf0-9653-1aeb8789e483}" record_timestamp="1433433871500" record_key="wh_main_trait_all_personality_all_hates_chaoswh_main_trait_all_personality_all_likes_chaos">
+<antitrait>wh_main_trait_all_personality_all_likes_chaos</antitrait>
+<trait>wh_main_trait_all_personality_all_hates_chaos</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{4de19d9e-3832-4147-9cb5-21286bca681c}" record_timestamp="1433433871397" record_key="wh_main_trait_all_personality_all_hates_dwarfswh_main_trait_all_personality_all_likes_dwarfs">
+<antitrait>wh_main_trait_all_personality_all_likes_dwarfs</antitrait>
+<trait>wh_main_trait_all_personality_all_hates_dwarfs</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{69b37cf9-1bc0-4756-a9db-38ad2a65a76b}" record_timestamp="1433433871704" record_key="wh_main_trait_all_personality_all_hates_greenskinswh_main_trait_all_personality_all_likes_greenskins">
+<antitrait>wh_main_trait_all_personality_all_likes_greenskins</antitrait>
+<trait>wh_main_trait_all_personality_all_hates_greenskins</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{c3c269e9-0de0-4090-980a-a5d881ccec81}" record_timestamp="1433433871602" record_key="wh_main_trait_all_personality_all_hates_menwh_main_trait_all_personality_all_likes_men">
+<antitrait>wh_main_trait_all_personality_all_likes_men</antitrait>
+<trait>wh_main_trait_all_personality_all_hates_men</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{8d239e5e-2b7f-4935-8672-f8aa9de17e20}" record_timestamp="1433433871909" record_key="wh_main_trait_all_personality_all_hates_vampire_countswh_main_trait_all_personality_all_likes_vampire_counts">
+<antitrait>wh_main_trait_all_personality_all_likes_vampire_counts</antitrait>
+<trait>wh_main_trait_all_personality_all_hates_vampire_counts</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{fdf9aeb3-7dfd-4bcf-b3d3-3a690bbdbd42}" record_timestamp="1433143906829" record_key="wh_main_trait_all_personality_all_lazywh_main_trait_all_personality_all_energetic">
+<antitrait>wh_main_trait_all_personality_all_energetic</antitrait>
+<trait>wh_main_trait_all_personality_all_lazy</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{c4a2047f-6689-45b7-9b8b-ab7386bca3ec}" record_timestamp="1433144028541" record_key="wh_main_trait_all_personality_all_lewdwh_main_trait_ruler_government_all_negotiator">
+<antitrait>wh_main_trait_ruler_government_all_negotiator</antitrait>
+<trait>wh_main_trait_all_personality_all_lewd</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{9ecd18d6-9173-4ce4-bb28-a7e94cdc2071}" record_timestamp="1433433872836" record_key="wh_main_trait_all_personality_all_likes_chaoswh_main_trait_all_personality_all_fears_chaos">
+<antitrait>wh_main_trait_all_personality_all_fears_chaos</antitrait>
+<trait>wh_main_trait_all_personality_all_likes_chaos</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{f8b6cbe0-8a84-4df8-9c20-942f37cca8c9}" record_timestamp="1433433871806" record_key="wh_main_trait_all_personality_all_likes_chaoswh_main_trait_all_personality_all_hates_chaos">
+<antitrait>wh_main_trait_all_personality_all_hates_chaos</antitrait>
+<trait>wh_main_trait_all_personality_all_likes_chaos</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{7906fdf2-17ff-4847-9f01-289a964ebcf2}" record_timestamp="1433433873146" record_key="wh_main_trait_all_personality_all_likes_dwarfswh_main_trait_all_personality_all_fears_dwarfs">
+<antitrait>wh_main_trait_all_personality_all_fears_dwarfs</antitrait>
+<trait>wh_main_trait_all_personality_all_likes_dwarfs</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{a65e8e79-2f02-47c9-b636-b9202af5ce13}" record_timestamp="1433433872115" record_key="wh_main_trait_all_personality_all_likes_dwarfswh_main_trait_all_personality_all_hates_dwarfs">
+<antitrait>wh_main_trait_all_personality_all_hates_dwarfs</antitrait>
+<trait>wh_main_trait_all_personality_all_likes_dwarfs</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{e10bd5a6-36ef-47a7-b6c5-e34df581c707}" record_timestamp="1433433873042" record_key="wh_main_trait_all_personality_all_likes_greenskinswh_main_trait_all_personality_all_fears_greenskins">
+<antitrait>wh_main_trait_all_personality_all_fears_greenskins</antitrait>
+<trait>wh_main_trait_all_personality_all_likes_greenskins</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{7974d4b9-a7cb-46c6-b78f-43da326625ca}" record_timestamp="1433433872013" record_key="wh_main_trait_all_personality_all_likes_greenskinswh_main_trait_all_personality_all_hates_greenskins">
+<antitrait>wh_main_trait_all_personality_all_hates_greenskins</antitrait>
+<trait>wh_main_trait_all_personality_all_likes_greenskins</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{ffc42a4b-c5c7-4303-81ed-2928a80e92ae}" record_timestamp="1433433873352" record_key="wh_main_trait_all_personality_all_likes_menwh_main_trait_all_personality_all_fears_men">
+<antitrait>wh_main_trait_all_personality_all_fears_men</antitrait>
+<trait>wh_main_trait_all_personality_all_likes_men</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{a3dd9e71-eee0-4920-89fd-ec8a03959cd0}" record_timestamp="1433433872322" record_key="wh_main_trait_all_personality_all_likes_menwh_main_trait_all_personality_all_hates_men">
+<antitrait>wh_main_trait_all_personality_all_hates_men</antitrait>
+<trait>wh_main_trait_all_personality_all_likes_men</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{c703f571-d888-40a5-b1ad-69e8b727b121}" record_timestamp="1433433873249" record_key="wh_main_trait_all_personality_all_likes_vampire_countswh_main_trait_all_personality_all_fears_vampire_counts">
+<antitrait>wh_main_trait_all_personality_all_fears_vampire_counts</antitrait>
+<trait>wh_main_trait_all_personality_all_likes_vampire_counts</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{b80b8fb8-1b08-477f-aaa8-94036dea09b9}" record_timestamp="1433433872219" record_key="wh_main_trait_all_personality_all_likes_vampire_countswh_main_trait_all_personality_all_hates_vampire_counts">
+<antitrait>wh_main_trait_all_personality_all_hates_vampire_counts</antitrait>
+<trait>wh_main_trait_all_personality_all_likes_vampire_counts</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{367ea805-d0cb-44cf-a8b6-975d9dd99542}" record_timestamp="1433143917604" record_key="wh_main_trait_all_personality_all_luckywh_main_trait_all_personality_all_unlucky">
+<antitrait>wh_main_trait_all_personality_all_unlucky</antitrait>
+<trait>wh_main_trait_all_personality_all_lucky</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{ad8cc177-25e6-4cae-8ea2-6da53c912f24}" record_timestamp="1433143916172" record_key="wh_main_trait_all_personality_all_soberwh_main_trait_all_personality_all_drink">
+<antitrait>wh_main_trait_all_personality_all_drink</antitrait>
+<trait>wh_main_trait_all_personality_all_sober</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{bbd5deeb-9859-4383-bd3b-e1e578f23a26}" record_timestamp="1433143917516" record_key="wh_main_trait_all_personality_all_unluckywh_main_trait_all_personality_all_lucky">
+<antitrait>wh_main_trait_all_personality_all_lucky</antitrait>
+<trait>wh_main_trait_all_personality_all_unlucky</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{f52dd401-e8b5-4432-81d7-6fc94d0976e7}" record_timestamp="1433143935703" record_key="wh_main_trait_general_government_all_admin_badwh_main_trait_general_government_all_admin_good">
+<antitrait>wh_main_trait_general_government_all_admin_good</antitrait>
+<trait>wh_main_trait_general_government_all_admin_bad</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{7679cfc4-9eb2-400b-918c-90e49938a970}" record_timestamp="1433143935525" record_key="wh_main_trait_general_government_all_admin_goodwh_main_trait_general_government_all_admin_bad">
+<antitrait>wh_main_trait_general_government_all_admin_bad</antitrait>
+<trait>wh_main_trait_general_government_all_admin_good</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{e82cd3a5-4877-473d-9f77-dfff3777a613}" record_timestamp="1433433885503" record_key="wh_main_trait_general_government_all_corruptwh_main_trait_general_government_all_ruler">
+<antitrait>wh_main_trait_general_government_all_ruler</antitrait>
+<trait>wh_main_trait_general_government_all_corrupt</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{adb6e815-1adc-47c1-bb11-fc2b303fd489}" record_timestamp="1433433885616" record_key="wh_main_trait_general_government_all_corruptwh_main_trait_general_government_emp_noble">
+<antitrait>wh_main_trait_general_government_emp_noble</antitrait>
+<trait>wh_main_trait_general_government_all_corrupt</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{657bc053-740a-4792-84b9-776c8b1c59ab}" record_timestamp="1433143943457" record_key="wh_main_trait_general_government_all_pacifistwh_main_trait_general_government_all_warmonger">
+<antitrait>wh_main_trait_general_government_all_warmonger</antitrait>
+<trait>wh_main_trait_general_government_all_pacifist</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{cd98c21e-2a26-42a8-913a-2c36f4e488e8}" record_timestamp="1433433885277" record_key="wh_main_trait_general_government_all_rulerwh_main_trait_general_government_all_corrupt">
+<antitrait>wh_main_trait_general_government_all_corrupt</antitrait>
+<trait>wh_main_trait_general_government_all_ruler</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{7eccea7f-474e-48f9-8d96-ad850170089f}" record_timestamp="1433143943374" record_key="wh_main_trait_general_government_all_warmongerwh_main_trait_general_government_all_pacifist">
+<antitrait>wh_main_trait_general_government_all_pacifist</antitrait>
+<trait>wh_main_trait_general_government_all_warmonger</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{41ccabaa-6660-4fa9-b452-eee6c6619f04}" record_timestamp="1433433885389" record_key="wh_main_trait_general_government_emp_noblewh_main_trait_general_government_all_corrupt">
+<antitrait>wh_main_trait_general_government_all_corrupt</antitrait>
+<trait>wh_main_trait_general_government_emp_noble</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{4281f8ac-11e0-42a5-a067-8e8b39a89c7b}" record_timestamp="1433143946029" record_key="wh_main_trait_general_military_all_disciplinarian_badwh_main_trait_general_military_all_disciplinarian_good">
+<antitrait>wh_main_trait_general_military_all_disciplinarian_good</antitrait>
+<trait>wh_main_trait_general_military_all_disciplinarian_bad</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{772cb56c-8964-4c39-86e1-953bb7822c71}" record_timestamp="1433143945947" record_key="wh_main_trait_general_military_all_disciplinarian_goodwh_main_trait_general_military_all_disciplinarian_bad">
+<antitrait>wh_main_trait_general_military_all_disciplinarian_bad</antitrait>
+<trait>wh_main_trait_general_military_all_disciplinarian_good</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{e6e34585-db7e-40f7-b02f-d4455b45acc5}" record_timestamp="1433143975180" record_key="wh_main_trait_general_military_all_fighterwh_main_trait_general_personality_all_cowardice">
+<antitrait>wh_main_trait_general_personality_all_cowardice</antitrait>
+<trait>wh_main_trait_general_military_all_fighter</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{06ff497a-ae61-4a4e-9f09-33b90a63683b}" record_timestamp="1433143975090" record_key="wh_main_trait_general_military_all_high_casualtieswh_main_trait_general_personality_all_cowardice">
+<antitrait>wh_main_trait_general_personality_all_cowardice</antitrait>
+<trait>wh_main_trait_general_military_all_high_casualties</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{1a1029a7-0874-4fe0-a5d2-ff4951e3ddc8}" record_timestamp="1433143950992" record_key="wh_main_trait_general_military_all_noctophiliawh_main_trait_general_military_all_noctophobia">
+<antitrait>wh_main_trait_general_military_all_noctophobia</antitrait>
+<trait>wh_main_trait_general_military_all_noctophilia</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{72534d9b-2c69-4056-94a8-84474112f466}" record_timestamp="1433143950908" record_key="wh_main_trait_general_military_all_noctophobiawh_main_trait_general_military_all_noctophilia">
+<antitrait>wh_main_trait_general_military_all_noctophilia</antitrait>
+<trait>wh_main_trait_general_military_all_noctophobia</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{b74ba08f-a5f7-4b8a-9ef4-00e64e5d88b1}" record_timestamp="1433143955135" record_key="wh_main_trait_general_military_army_all_ambusher_badwh_main_trait_general_military_army_all_ambusher_good">
+<antitrait>wh_main_trait_general_military_army_all_ambusher_good</antitrait>
+<trait>wh_main_trait_general_military_army_all_ambusher_bad</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{e68ed8d4-573d-4952-af49-f7b6d18c7bdb}" record_timestamp="1433143955050" record_key="wh_main_trait_general_military_army_all_ambusher_goodwh_main_trait_general_military_army_all_ambusher_bad">
+<antitrait>wh_main_trait_general_military_army_all_ambusher_bad</antitrait>
+<trait>wh_main_trait_general_military_army_all_ambusher_good</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{bb99e08d-f658-4501-95db-f136a7ca33dc}" record_timestamp="1433143956758" record_key="wh_main_trait_general_military_army_all_attacker_badwh_main_trait_general_military_army_all_attacker_good">
+<antitrait>wh_main_trait_general_military_army_all_attacker_good</antitrait>
+<trait>wh_main_trait_general_military_army_all_attacker_bad</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{32d34cdc-27bd-42d6-9eaf-42837722d1e5}" record_timestamp="1433143956673" record_key="wh_main_trait_general_military_army_all_attacker_goodwh_main_trait_general_military_army_all_attacker_bad">
+<antitrait>wh_main_trait_general_military_army_all_attacker_bad</antitrait>
+<trait>wh_main_trait_general_military_army_all_attacker_good</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{b908ad81-2255-46c8-8b6c-53df00eea89a}" record_timestamp="1433143958392" record_key="wh_main_trait_general_military_army_all_besieger_badwh_main_trait_general_military_army_all_besieger_good">
+<antitrait>wh_main_trait_general_military_army_all_besieger_good</antitrait>
+<trait>wh_main_trait_general_military_army_all_besieger_bad</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{a6f751d1-9b36-4c09-ae93-dead91d01708}" record_timestamp="1433143958306" record_key="wh_main_trait_general_military_army_all_besieger_goodwh_main_trait_general_military_army_all_besieger_bad">
+<antitrait>wh_main_trait_general_military_army_all_besieger_bad</antitrait>
+<trait>wh_main_trait_general_military_army_all_besieger_good</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{759a6186-d2b2-4641-b4b1-7f67804fb778}" record_timestamp="1433143960039" record_key="wh_main_trait_general_military_army_all_defender_badwh_main_trait_general_military_army_all_defender_good">
+<antitrait>wh_main_trait_general_military_army_all_defender_good</antitrait>
+<trait>wh_main_trait_general_military_army_all_defender_bad</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{b7c8e8a7-dbe3-47cd-b32a-a538d0349608}" record_timestamp="1433143959952" record_key="wh_main_trait_general_military_army_all_defender_goodwh_main_trait_general_military_army_all_defender_bad">
+<antitrait>wh_main_trait_general_military_army_all_defender_bad</antitrait>
+<trait>wh_main_trait_general_military_army_all_defender_good</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{0cd7954f-f1b1-4e80-9f0c-fc626ec6c3c0}" record_timestamp="1433143961698" record_key="wh_main_trait_general_military_army_all_siege_defender_badwh_main_trait_general_military_army_all_siege_defender_good">
+<antitrait>wh_main_trait_general_military_army_all_siege_defender_good</antitrait>
+<trait>wh_main_trait_general_military_army_all_siege_defender_bad</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{14b89df5-c331-4422-acda-a6038b216c0d}" record_timestamp="1433143961610" record_key="wh_main_trait_general_military_army_all_siege_defender_goodwh_main_trait_general_military_army_all_siege_defender_bad">
+<antitrait>wh_main_trait_general_military_army_all_siege_defender_bad</antitrait>
+<trait>wh_main_trait_general_military_army_all_siege_defender_good</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{52d6426c-da38-45e7-93ce-c0c8ea0fa815}" record_timestamp="1433143974908" record_key="wh_main_trait_general_military_barbarian_berserkerwh_main_trait_general_personality_all_cowardice">
+<antitrait>wh_main_trait_general_personality_all_cowardice</antitrait>
+<trait>wh_main_trait_general_military_barbarian_berserker</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{42b8a76e-14d9-4a00-a3bd-a9abef24ca7b}" record_timestamp="1433143964254" record_key="wh_main_trait_general_military_navy_all_attacker_sea_badwh_main_trait_general_military_navy_all_attacker_sea_good">
+<antitrait>wh_main_trait_general_military_navy_all_attacker_sea_good</antitrait>
+<trait>wh_main_trait_general_military_navy_all_attacker_sea_bad</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{5c3940cb-6167-43f2-b420-87ef8d4d64be}" record_timestamp="1433143964166" record_key="wh_main_trait_general_military_navy_all_attacker_sea_goodwh_main_trait_general_military_navy_all_attacker_sea_bad">
+<antitrait>wh_main_trait_general_military_navy_all_attacker_sea_bad</antitrait>
+<trait>wh_main_trait_general_military_navy_all_attacker_sea_good</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{59941bcf-4452-4a5d-8d5f-daeef18bd4d3}" record_timestamp="1433143965949" record_key="wh_main_trait_general_military_navy_all_blockade_defender_badwh_main_trait_general_military_navy_all_blockade_defender_good">
+<antitrait>wh_main_trait_general_military_navy_all_blockade_defender_good</antitrait>
+<trait>wh_main_trait_general_military_navy_all_blockade_defender_bad</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{1977f830-c6c4-4fb6-81a0-ccee3813855a}" record_timestamp="1433143965860" record_key="wh_main_trait_general_military_navy_all_blockade_defender_goodwh_main_trait_general_military_navy_all_blockade_defender_bad">
+<antitrait>wh_main_trait_general_military_navy_all_blockade_defender_bad</antitrait>
+<trait>wh_main_trait_general_military_navy_all_blockade_defender_good</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{5d17d7fb-573d-445c-b501-622e8c8b6515}" record_timestamp="1433143967571" record_key="wh_main_trait_general_military_navy_all_blockader_badwh_main_trait_general_military_navy_all_blockader_good">
+<antitrait>wh_main_trait_general_military_navy_all_blockader_good</antitrait>
+<trait>wh_main_trait_general_military_navy_all_blockader_bad</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{01fa9159-c0cc-4b27-86fa-eea1f1a7a00f}" record_timestamp="1433143967481" record_key="wh_main_trait_general_military_navy_all_blockader_goodwh_main_trait_general_military_navy_all_blockader_bad">
+<antitrait>wh_main_trait_general_military_navy_all_blockader_bad</antitrait>
+<trait>wh_main_trait_general_military_navy_all_blockader_good</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{385dbf34-6050-4d1e-8837-6817e0f317ab}" record_timestamp="1433143969291" record_key="wh_main_trait_general_military_navy_all_defender_sea_badwh_main_trait_general_military_navy_all_defender_sea_good">
+<antitrait>wh_main_trait_general_military_navy_all_defender_sea_good</antitrait>
+<trait>wh_main_trait_general_military_navy_all_defender_sea_bad</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{bc487b94-6de9-4c2b-bcd4-9c50ad4fe254}" record_timestamp="1433143969200" record_key="wh_main_trait_general_military_navy_all_defender_sea_goodwh_main_trait_general_military_navy_all_defender_sea_bad">
+<antitrait>wh_main_trait_general_military_navy_all_defender_sea_bad</antitrait>
+<trait>wh_main_trait_general_military_navy_all_defender_sea_good</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{f71ede87-9748-4e1d-93fa-d0d19a9a198b}" record_timestamp="1433143971017" record_key="wh_main_trait_general_military_navy_all_escort_badwh_main_trait_general_military_navy_all_escort_good">
+<antitrait>wh_main_trait_general_military_navy_all_escort_good</antitrait>
+<trait>wh_main_trait_general_military_navy_all_escort_bad</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{9c74f90a-07ab-47b7-bc33-9bdc1ac286a3}" record_timestamp="1433143970926" record_key="wh_main_trait_general_military_navy_all_escort_goodwh_main_trait_general_military_navy_all_escort_bad">
+<antitrait>wh_main_trait_general_military_navy_all_escort_bad</antitrait>
+<trait>wh_main_trait_general_military_navy_all_escort_good</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{00043115-9bcd-475c-8a2e-7f2db2e21bbc}" record_timestamp="1433143975274" record_key="wh_main_trait_general_personality_all_braverywh_main_trait_general_personality_all_cowardice">
+<antitrait>wh_main_trait_general_personality_all_cowardice</antitrait>
+<trait>wh_main_trait_general_personality_all_bravery</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{279f0b6f-bb72-4e2d-9456-b360173679a1}" record_timestamp="1433143974726" record_key="wh_main_trait_general_personality_all_cowardicewh_main_trait_general_military_all_fighter">
+<antitrait>wh_main_trait_general_military_all_fighter</antitrait>
+<trait>wh_main_trait_general_personality_all_cowardice</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{5848dd11-4b10-49b8-815c-eba63eb98330}" record_timestamp="1433143974545" record_key="wh_main_trait_general_personality_all_cowardicewh_main_trait_general_military_all_high_casualties">
+<antitrait>wh_main_trait_general_military_all_high_casualties</antitrait>
+<trait>wh_main_trait_general_personality_all_cowardice</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{fc52a0db-8b9e-4a09-8420-abf6ff40e25f}" record_timestamp="1433143974817" record_key="wh_main_trait_general_personality_all_cowardicewh_main_trait_general_military_barbarian_berserker">
+<antitrait>wh_main_trait_general_military_barbarian_berserker</antitrait>
+<trait>wh_main_trait_general_personality_all_cowardice</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{18787df9-2f14-4933-a489-5fd5e7c44035}" record_timestamp="1433143974455" record_key="wh_main_trait_general_personality_all_cowardicewh_main_trait_general_personality_all_bravery">
+<antitrait>wh_main_trait_general_personality_all_bravery</antitrait>
+<trait>wh_main_trait_general_personality_all_cowardice</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{133750fc-cc17-4882-b56a-9c9c14b266e7}" record_timestamp="1433143978382" record_key="wh_main_trait_general_personality_all_cowardicewh_main_trait_general_personality_all_fervour">
+<antitrait>wh_main_trait_general_personality_all_fervour</antitrait>
+<trait>wh_main_trait_general_personality_all_cowardice</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{484a1ee7-9931-4f88-b1eb-fef6e8a6074d}" record_timestamp="1433143981557" record_key="wh_main_trait_general_personality_all_dishonestwh_main_trait_general_personality_all_honest">
+<antitrait>wh_main_trait_general_personality_all_honest</antitrait>
+<trait>wh_main_trait_general_personality_all_dishonest</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{d48eb764-862b-4c68-beaf-114f4ba83575}" record_timestamp="1433144028625" record_key="wh_main_trait_general_personality_all_feckwh_main_trait_ruler_government_all_negotiator">
+<antitrait>wh_main_trait_ruler_government_all_negotiator</antitrait>
+<trait>wh_main_trait_general_personality_all_feck</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{2cf482fd-2734-416e-817c-1da74ad75092}" record_timestamp="1433143978292" record_key="wh_main_trait_general_personality_all_fervourwh_main_trait_general_personality_all_cowardice">
+<antitrait>wh_main_trait_general_personality_all_cowardice</antitrait>
+<trait>wh_main_trait_general_personality_all_fervour</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{0c41ed0d-322d-4af8-a72e-105fb0b5c3cd}" record_timestamp="1433144033250" record_key="wh_main_trait_general_personality_all_gamblingwh_main_trait_ruler_personality_all_miser">
+<antitrait>wh_main_trait_ruler_personality_all_miser</antitrait>
+<trait>wh_main_trait_general_personality_all_gambling</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{f08fe051-31db-48af-a493-f4305ad77400}" record_timestamp="1433143981376" record_key="wh_main_trait_general_personality_all_honestwh_main_trait_general_personality_all_dishonest">
+<antitrait>wh_main_trait_general_personality_all_dishonest</antitrait>
+<trait>wh_main_trait_general_personality_all_honest</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{0f58e9f5-d526-4cc8-9dab-150bd56476d0}" record_timestamp="1433144012548" record_key="wh_main_trait_general_status_all_popularwh_main_trait_general_status_all_unpopular">
+<antitrait>wh_main_trait_general_status_all_unpopular</antitrait>
+<trait>wh_main_trait_general_status_all_popular</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{598092d2-4eb1-4eca-9042-8bf9c8b83c60}" record_timestamp="1433144012457" record_key="wh_main_trait_general_status_all_unpopularwh_main_trait_general_status_all_popular">
+<antitrait>wh_main_trait_general_status_all_popular</antitrait>
+<trait>wh_main_trait_general_status_all_unpopular</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{f58325ae-25b1-404a-b842-f734cf9e69fe}" record_timestamp="1433144028288" record_key="wh_main_trait_ruler_government_all_negotiatorwh_main_trait_all_personality_all_lewd">
+<antitrait>wh_main_trait_all_personality_all_lewd</antitrait>
+<trait>wh_main_trait_ruler_government_all_negotiator</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{f16ff6f1-2b1b-4b23-9b26-6e37790c42d9}" record_timestamp="1433144028206" record_key="wh_main_trait_ruler_government_all_negotiatorwh_main_trait_general_personality_all_feck">
+<antitrait>wh_main_trait_general_personality_all_feck</antitrait>
+<trait>wh_main_trait_ruler_government_all_negotiator</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{5534a5b9-6962-45f5-84be-e29ca96682fe}" record_timestamp="1433144034152" record_key="wh_main_trait_ruler_government_all_negotiatorwh_main_trait_ruler_personality_all_paranoid">
+<antitrait>wh_main_trait_ruler_personality_all_paranoid</antitrait>
+<trait>wh_main_trait_ruler_government_all_negotiator</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{403bf9ac-e77a-454e-be97-a2c974cd5463}" record_timestamp="1433144031604" record_key="wh_main_trait_ruler_personality_all_harshwh_main_trait_ruler_personality_all_kind">
+<antitrait>wh_main_trait_ruler_personality_all_kind</antitrait>
+<trait>wh_main_trait_ruler_personality_all_harsh</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{ec3ffc73-f5a1-4e71-8d68-9474ec15a934}" record_timestamp="1433144031440" record_key="wh_main_trait_ruler_personality_all_kindwh_main_trait_ruler_personality_all_harsh">
+<antitrait>wh_main_trait_ruler_personality_all_harsh</antitrait>
+<trait>wh_main_trait_ruler_personality_all_kind</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{b9f739c2-f629-48be-af40-196ed8ca76f4}" record_timestamp="1433144035715" record_key="wh_main_trait_ruler_personality_all_kindwh_main_trait_ruler_personality_all_unjust">
+<antitrait>wh_main_trait_ruler_personality_all_unjust</antitrait>
+<trait>wh_main_trait_ruler_personality_all_kind</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{32408518-ddaf-4b24-83b9-965f3413622f}" record_timestamp="1433144033168" record_key="wh_main_trait_ruler_personality_all_miserwh_main_trait_general_personality_all_gambling">
+<antitrait>wh_main_trait_general_personality_all_gambling</antitrait>
+<trait>wh_main_trait_ruler_personality_all_miser</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{a454c9db-6cca-414c-9618-3414f25fab17}" record_timestamp="1433144034971" record_key="wh_main_trait_ruler_personality_all_miserwh_main_trait_ruler_personality_all_spender">
+<antitrait>wh_main_trait_ruler_personality_all_spender</antitrait>
+<trait>wh_main_trait_ruler_personality_all_miser</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{bdcf35e5-e09e-40b3-852d-df7445ae960f}" record_timestamp="1433144034070" record_key="wh_main_trait_ruler_personality_all_paranoidwh_main_trait_ruler_government_all_negotiator">
+<antitrait>wh_main_trait_ruler_government_all_negotiator</antitrait>
+<trait>wh_main_trait_ruler_personality_all_paranoid</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{dd6bfc95-3dc4-4207-a992-435ecc19f9c4}" record_timestamp="1433144034890" record_key="wh_main_trait_ruler_personality_all_spenderwh_main_trait_ruler_personality_all_miser">
+<antitrait>wh_main_trait_ruler_personality_all_miser</antitrait>
+<trait>wh_main_trait_ruler_personality_all_spender</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{6c80b553-0491-498c-b2c8-ae59975738f2}" record_timestamp="1433144035633" record_key="wh_main_trait_ruler_personality_all_unjustwh_main_trait_ruler_personality_all_kind">
+<antitrait>wh_main_trait_ruler_personality_all_kind</antitrait>
+<trait>wh_main_trait_ruler_personality_all_unjust</trait>
+</trait_to_antitraits>
+</dataroot>

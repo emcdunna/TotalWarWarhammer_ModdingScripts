@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="audio_battle_environment_weather_one_shot_junctions.xsd" export_time="Fri Jul 15 16:37:18 2016" revision="2" export_branch="T:/branches/warhammer/sigmar/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>91d7c037-11ce-4e32-973c-90b5b00062ef</edit_uuid>
+<audio_battle_environment_weather_one_shot_junctions record_uuid="{1a360f78-4611-48a2-afac-b1b255769316}" record_timestamp="1468597037638" record_key="rain_lightstaticweather_thunder_low">
+<one_shot>weather_thunder_low</one_shot>
+<type>static</type>
+<weather>rain_light</weather>
+</audio_battle_environment_weather_one_shot_junctions>
+<audio_battle_environment_weather_one_shot_junctions record_uuid="{6dc5477e-a2f2-44db-8991-beae21383f88}" record_timestamp="1468597037639" record_key="rain_mediumstaticweather_thunder_high">
+<one_shot>weather_thunder_high</one_shot>
+<type>static</type>
+<weather>rain_medium</weather>
+</audio_battle_environment_weather_one_shot_junctions>
+</dataroot>

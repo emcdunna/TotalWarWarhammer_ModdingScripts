@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="message_events.xsd" export_time="Wed Nov 16 21:36:11 2016" revision="58" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>9a812177-715e-429d-bebf-9edfcb2c55ff</edit_uuid>
+<message_events record_uuid="{d8815f5b-8c61-42f1-baf8-c2f6dd7dd11f}" record_timestamp="1363794027142" record_key="agent_action_dummy_event">
+<event>agent_action_dummy_event</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{d4e9dcc4-d75f-400b-b727-74042e1cbb52}" record_timestamp="1479332169614" record_key="attrition_athel_loren">
+<event>attrition_athel_loren</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{1085c159-6c3f-4a5d-b996-9c10beb1dbe2}" record_timestamp="1389703181815" record_key="attrition_besieged">
+<event>attrition_besieged</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{58943ae5-cb87-419f-b2ac-afe6a609c79c}" record_timestamp="1389703181572" record_key="attrition_besieging">
+<event>attrition_besieging</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{6aa3afee-11de-4307-b540-3323c95317c7}" record_timestamp="1389703181323" record_key="attrition_blockaded">
+<event>attrition_blockaded</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{2f77ceee-e468-4090-a9dc-38eb30194417}" record_timestamp="1389703181082" record_key="attrition_blockading">
+<event>attrition_blockading</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{470e22c5-7ec9-47bd-9698-63d0a2c5b493}" record_timestamp="1454083988577" record_key="attrition_chaos_territory">
+<event>attrition_chaos_territory</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{91ad10aa-0b97-44d9-ab6c-d941a6820f15}" record_timestamp="1445859142926" record_key="attrition_chaos_wastes">
+<event>attrition_chaos_wastes</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{b16576f8-7233-47ad-b060-f1f607c1ff70}" record_timestamp="1389703180838" record_key="attrition_desert">
+<event>attrition_desert</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{77aeba75-fb9b-4516-ac81-2e703ae39482}" record_timestamp="1389703180593" record_key="attrition_disease">
+<event>attrition_disease</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{20177764-3606-48af-b496-eea937713d84}" record_timestamp="1389703180347" record_key="attrition_high_seas">
+<event>attrition_high_seas</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{0c3509a1-0f67-4865-a0cb-55fe9efea111}" record_timestamp="1450353171515" record_key="attrition_horde_infighting">
+<event>attrition_horde_infighting</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{1ac0433f-23f2-4da4-a11f-c8b3c7871c64}" record_timestamp="1438683222843" record_key="attrition_low_morale">
+<event>attrition_low_morale</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{12c1ce7d-b61c-40b7-acbf-30b5b2c6b5b3}" record_timestamp="1389703180095" record_key="attrition_mountain">
+<event>attrition_mountain</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{56037a0c-0075-4612-ac90-d07050dfb4cb}" record_timestamp="1445860572382" record_key="attrition_non_vampire_territory">
+<event>attrition_non_vampire_territory</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{2ae85bac-8c7c-40d8-9e53-a2ea7f335c80}" record_timestamp="1389703179844" record_key="attrition_swamp">
+<event>attrition_swamp</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{188b68ce-51ae-4296-a9fd-803dcdeea48d}" record_timestamp="1445860199952" record_key="attrition_vampire_territory">
+<event>attrition_vampire_territory</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{872b529a-ec05-4487-a0a7-ae7c28799daa}" record_timestamp="1445860572413" record_key="attrition_wasteland">
+<event>attrition_wasteland</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{511f49dd-fedd-481c-93cf-85bd054ae09e}" record_timestamp="1389703179595" record_key="attrition_winter">
+<event>attrition_winter</event>
+<instant_open>0</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{bde0ed90-b3ab-4f8e-b68a-b93b9813290f}" record_key="campmap_bankrupt_desertion">
+<event>campmap_bankrupt_desertion</event>
+<instant_open>1</instant_open>
+<layout>standard</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+<message_events record_uuid="{f1b00c8c-6395-424b-bbdf-38dc8d826bc6}" record_timestamp="1366716304230" record_key="character_dies_commanding_replace">
+<event>character_dies_commanding_replace</event>
+<instant_open>1</instant_open>
+<layout>appoint_new_general</layout>
+<priority>100</priority>
+<requires_response>1</requires_response>
+</message_events>
+<message_events record_uuid="{883bae31-ed6e-450f-a843-020303f3d420}" record_timestamp="1374855476506" record_key="subject_message_subject_expires">
+<event>subject_message_subject_expires</event>
+<instant_open>1</instant_open>
+<layout>incident</layout>
+<priority>100</priority>
+<requires_response>0</requires_response>
+</message_events>
+</dataroot>

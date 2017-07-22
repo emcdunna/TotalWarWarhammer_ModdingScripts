@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_ai_manager_behaviour_junctions.xsd" export_time="Wed Nov 16 19:18:55 2016" revision="23" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>3ea08359-2e39-4ec2-9779-56270d7a20c1</edit_uuid>
+<campaign_ai_manager_behaviour_junctions record_uuid="{e9a75461-bffd-4d0f-821a-6cbdf738f0ec}" record_key="EMPTYDIPLOMACY_MANAGER">
+<behaviour>DIPLOMACY_MANAGER</behaviour>
+<manager>EMPTY</manager>
+<priority>0</priority>
+</campaign_ai_manager_behaviour_junctions>
+<campaign_ai_manager_behaviour_junctions record_uuid="{cb442b54-b9d2-4166-98eb-c24fae9456b3}" record_timestamp="1479323920192" record_key="defaultCHARACTER_POST_ASSIGNMENT_BEHAVIOUR">
+<behaviour>CHARACTER_POST_ASSIGNMENT_BEHAVIOUR</behaviour>
+<manager>default</manager>
+<priority>500</priority>
+</campaign_ai_manager_behaviour_junctions>
+<campaign_ai_manager_behaviour_junctions record_uuid="{9edaa430-6758-4c5b-8bae-e27cf89e38c0}" record_timestamp="1370421989447" record_key="defaultCHARACTER_SKILL_MANAGEMENT">
+<behaviour>CHARACTER_SKILL_MANAGEMENT</behaviour>
+<manager>default</manager>
+<priority>500</priority>
+</campaign_ai_manager_behaviour_junctions>
+<campaign_ai_manager_behaviour_junctions record_uuid="{7ae3be67-1812-4a55-9839-c9f5b1dbd993}" record_timestamp="1357654290637" record_key="defaultCONSTRUCTION_SYSTEM_BEHAVIOUR">
+<behaviour>CONSTRUCTION_SYSTEM_BEHAVIOUR</behaviour>
+<manager>default</manager>
+<priority>500</priority>
+</campaign_ai_manager_behaviour_junctions>
+<campaign_ai_manager_behaviour_junctions record_uuid="{f0181bee-74ec-4ae2-9d0d-2b6240fd1af9}" record_key="defaultDIPLOMACY_MANAGER">
+<behaviour>DIPLOMACY_MANAGER</behaviour>
+<manager>default</manager>
+<priority>0</priority>
+</campaign_ai_manager_behaviour_junctions>
+<campaign_ai_manager_behaviour_junctions record_uuid="{b136f50f-3c2f-47e7-997f-61f3acaa3f7b}" record_timestamp="1370357222204" record_key="defaultFORCE_LEGACY_SKILL_MANAGEMENT">
+<behaviour>FORCE_LEGACY_SKILL_MANAGEMENT</behaviour>
+<manager>default</manager>
+<priority>500</priority>
+</campaign_ai_manager_behaviour_junctions>
+<campaign_ai_manager_behaviour_junctions record_uuid="{24955c10-ae53-48a0-ac9b-f683707a4b2b}" record_key="defaultMINIMUM_SAVING">
+<behaviour>MINIMUM_SAVING</behaviour>
+<manager>default</manager>
+<priority>200</priority>
+</campaign_ai_manager_behaviour_junctions>
+<campaign_ai_manager_behaviour_junctions record_uuid="{85cc19dd-bff0-4345-8c2a-3e9168a9c43a}" record_timestamp="1370944537635" record_key="defaultPROVINCE_INITIATIVE_MANAGEMENT">
+<behaviour>PROVINCE_INITIATIVE_MANAGEMENT</behaviour>
+<manager>default</manager>
+<priority>500</priority>
+</campaign_ai_manager_behaviour_junctions>
+<campaign_ai_manager_behaviour_junctions record_uuid="{ae706d34-97b2-40c4-9273-0f77c1d5ca59}" record_timestamp="1445341531979" record_key="defaultREASSIGN_GENERALS_BEHAVIOUR">
+<behaviour>REASSIGN_GENERALS_BEHAVIOUR</behaviour>
+<manager>default</manager>
+<priority>250</priority>
+</campaign_ai_manager_behaviour_junctions>
+<campaign_ai_manager_behaviour_junctions record_uuid="{69938e82-8a92-4362-8675-ea414a52d689}" record_timestamp="1421942520482" record_key="defaultRELIGION_MANAGEMENT_BEHAVIOUR">
+<behaviour>RELIGION_MANAGEMENT_BEHAVIOUR</behaviour>
+<manager>default</manager>
+<priority>550</priority>
+</campaign_ai_manager_behaviour_junctions>
+<campaign_ai_manager_behaviour_junctions record_uuid="{388eb1de-078a-43b3-b847-8cc92722989a}" record_key="defaultRESEARCH_TECHNOLOGY">
+<behaviour>RESEARCH_TECHNOLOGY</behaviour>
+<manager>default</manager>
+<priority>500</priority>
+</campaign_ai_manager_behaviour_junctions>
+<campaign_ai_manager_behaviour_junctions record_uuid="{01881826-f7b2-4c11-a9eb-ba3efe259406}" record_timestamp="1363702311115" record_key="defaultTASK_MANAGEMENT_SYSTEM">
+<behaviour>TASK_MANAGEMENT_SYSTEM</behaviour>
+<manager>default</manager>
+<priority>0</priority>
+</campaign_ai_manager_behaviour_junctions>
+<campaign_ai_manager_behaviour_junctions record_uuid="{5ed5e5e4-9c20-4a77-9022-feac524a4b26}" record_key="defaultTAXATION">
+<behaviour>TAXATION</behaviour>
+<manager>default</manager>
+<priority>50</priority>
+</campaign_ai_manager_behaviour_junctions>
+</dataroot>

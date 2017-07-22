@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_religious_relations.xsd" export_time="Tue Oct 6 13:21:57 2015" revision="9" export_branch="T:/common/TWeak/Framework" export_user="bob">
+<edit_uuid>c5b1a7b0-3b50-4083-9a56-80af556bdb62</edit_uuid>
+<campaign_religious_relations record_uuid="{14a77859-5397-43f8-a70d-f9a9e20eebfa}" record_timestamp="1430931755631" record_key="wh_main_religion_chaoswh_main_religion_undeath">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_religion_chaos</source>
+<target>wh_main_religion_undeath</target>
+</campaign_religious_relations>
+<campaign_religious_relations record_uuid="{9e66e8ca-e2bb-42ef-a7ac-9a58e4572e0f}" record_timestamp="1430931755505" record_key="wh_main_religion_chaoswh_main_religion_untainted">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_religion_chaos</source>
+<target>wh_main_religion_untainted</target>
+</campaign_religious_relations>
+<campaign_religious_relations record_uuid="{869f32e3-a217-4393-92d4-7a1336b1595a}" record_timestamp="1430931755379" record_key="wh_main_religion_undeathwh_main_religion_chaos">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_religion_undeath</source>
+<target>wh_main_religion_chaos</target>
+</campaign_religious_relations>
+<campaign_religious_relations record_uuid="{510c9ebd-c762-4506-a069-8baecbc1ad1e}" record_timestamp="1430931755254" record_key="wh_main_religion_undeathwh_main_religion_untainted">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_religion_undeath</source>
+<target>wh_main_religion_untainted</target>
+</campaign_religious_relations>
+<campaign_religious_relations record_uuid="{d8854ff4-6698-47c8-a761-cbb3921bfd15}" record_timestamp="1430931755756" record_key="wh_main_religion_untaintedwh_main_religion_chaos">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_religion_untainted</source>
+<target>wh_main_religion_chaos</target>
+</campaign_religious_relations>
+<campaign_religious_relations record_uuid="{a85654af-43b6-48d8-93d1-8fd8736f92ce}" record_timestamp="1430931755883" record_key="wh_main_religion_untaintedwh_main_religion_undeath">
+<attitude_base>0</attitude_base>
+<campaign></campaign>
+<negative_attitude_multiplier>1</negative_attitude_multiplier>
+<positive_attitude_multiplier>1</positive_attitude_multiplier>
+<source>wh_main_religion_untainted</source>
+<target>wh_main_religion_undeath</target>
+</campaign_religious_relations>
+</dataroot>

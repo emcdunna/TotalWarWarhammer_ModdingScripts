@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_trait_info>
+<root>
+<edit_uuid>629fa44c-d78b-49d3-916a-962d23f8fae0</edit_uuid>
+<field>
+<field_uuid>{32fff6ec-866d-44bb-9f34-e8d3086fe726}</field_uuid>
+<primary_key>1</primary_key>
+<name>trait</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+</field>
+<field>
+<field_uuid>{9f23e4af-1ce6-4b98-8422-2def6dba639f}</field_uuid>
+<primary_key>0</primary_key>
+<name>applicable_to</name>
+<field_type>text</field_type>
+<required>1</required>
+<default_value>agent</default_value>
+<max_length>50</max_length>
+<column_source_fixed_value>region</column_source_fixed_value>
+<column_source_fixed_value>agent</column_source_fixed_value>
+<column_source_fixed_value>unit</column_source_fixed_value>
+<agf_link_to_dependency>0</agf_link_to_dependency>
+<agf_link_to_dependents>0</agf_link_to_dependents>
+</field>
+</root>

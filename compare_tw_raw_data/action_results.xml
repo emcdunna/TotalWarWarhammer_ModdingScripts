@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="action_results.xsd" export_time="Wed Apr 6 14:09:02 2016" revision="36" export_branch="T:/branches/warhammer/beastmen/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>f1979b75-f605-4355-b40b-25d3622619d5</edit_uuid>
+<action_results record_uuid="{0421859f-80d1-4c4b-8c53-ce23d15e660a}" record_timestamp="1459948142322" record_key="wh_main_agent_action_all_assist_army_default_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_dummy_character</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_all_assist_army_default_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_dummy_character</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{d56c9653-4a75-45ee-aa83-2828a12c0ff5}" record_timestamp="1426074551317" record_key="wh_main_agent_action_all_hinder_army_critical_failure">
+<actor_effect_bundle>wh_main_bundle_agent_action_all_failure_army_actor_compromised</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_all_hinder_army_critical_failure</key>
+<target_effect_bundle>wh_main_bundle_agent_action_all_failure_army_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{e52cc9da-6cdb-4544-a993-69e425ced416}" record_timestamp="1426074552543" record_key="wh_main_agent_action_all_hinder_army_failure">
+<actor_effect_bundle>wh_main_bundle_agent_action_all_failure_army_actor_compromised</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_all_hinder_army_failure</key>
+<target_effect_bundle>wh_main_bundle_agent_action_all_failure_army_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{a2be7de6-4b9b-4b26-af57-fde59e69dc84}" record_timestamp="1426074554296" record_key="wh_main_agent_action_all_hinder_army_opportune_failure">
+<actor_effect_bundle>wh_main_bundle_agent_action_all_failure_army_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_all_hinder_army_opportune_failure</key>
+<target_effect_bundle>wh_main_bundle_agent_action_all_failure_army_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{1f8ae5a6-0574-408f-ba6a-1d92e77d7c39}" record_timestamp="1426074551850" record_key="wh_main_agent_action_all_hinder_character_critical_failure">
+<actor_effect_bundle>wh_main_bundle_agent_action_all_failure_character_actor_compromised</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_all_hinder_character_critical_failure</key>
+<target_effect_bundle>wh_main_bundle_agent_action_all_failure_character_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{3f5666c0-676b-42b9-8ca6-986cfb41e55b}" record_timestamp="1452179577370" record_key="wh_main_agent_action_all_hinder_character_critical_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_champion_hinder_character_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>2</actor_effect_bundle_turns>
+<key>wh_main_agent_action_all_hinder_character_critical_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_champion_hinder_character_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{032d46a2-3d8c-4763-bd1c-a7b419c63065}" record_timestamp="1426074552864" record_key="wh_main_agent_action_all_hinder_character_failure">
+<actor_effect_bundle>wh_main_bundle_agent_action_all_failure_character_actor_compromised</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_all_hinder_character_failure</key>
+<target_effect_bundle>wh_main_bundle_agent_action_all_failure_character_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{6cd19e8e-20fe-496d-b7d6-b4b38402f2f8}" record_timestamp="1426074555028" record_key="wh_main_agent_action_all_hinder_character_opportune_failure">
+<actor_effect_bundle>wh_main_bundle_agent_action_all_failure_character_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_all_hinder_character_opportune_failure</key>
+<target_effect_bundle>wh_main_bundle_agent_action_all_failure_character_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{8ef8540d-48cc-470f-a40d-b57b7bd99844}" record_timestamp="1451918107521" record_key="wh_main_agent_action_all_hinder_character_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_champion_hinder_character_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>2</actor_effect_bundle_turns>
+<key>wh_main_agent_action_all_hinder_character_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_champion_hinder_character_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{5edbd202-eeb3-4e71-ada6-f923a42397c0}" record_timestamp="1446478728110" record_key="wh_main_agent_action_all_hinder_settlement_critical_failure">
+<actor_effect_bundle>wh_main_bundle_agent_action_all_failure_settlement_actor_compromised</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_all_hinder_settlement_critical_failure</key>
+<target_effect_bundle>wh_main_bundle_agent_action_all_failure_settlement_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{ceed52fc-b998-4a1b-8819-d6852b97c236}" record_timestamp="1446478728868" record_key="wh_main_agent_action_all_hinder_settlement_failure">
+<actor_effect_bundle>wh_main_bundle_agent_action_all_failure_settlement_actor_compromised</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_all_hinder_settlement_failure</key>
+<target_effect_bundle>wh_main_bundle_agent_action_all_failure_settlement_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{86d0ab85-f92d-4e05-a910-1b99557bed70}" record_timestamp="1446478728537" record_key="wh_main_agent_action_all_hinder_settlement_opportune_failure">
+<actor_effect_bundle>wh_main_bundle_agent_action_all_failure_settlement_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_all_hinder_settlement_opportune_failure</key>
+<target_effect_bundle>wh_main_bundle_agent_action_all_failure_settlement_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{00734ea5-cffd-4ddd-a027-28f13f3e295d}" record_timestamp="1447332386352" record_key="wh_main_agent_action_champion_assist_army_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_champion_assist_army_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_champion_assist_army_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_champion_assist_army_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{2e1457f0-04ad-46e5-9d9e-5c9a7af620b9}" record_timestamp="1447332386524" record_key="wh_main_agent_action_champion_assist_province_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_champion_assist_province_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>0</actor_effect_bundle_turns>
+<key>wh_main_agent_action_champion_assist_province_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_champion_assist_province_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{aad12b94-44b9-4088-8af5-e576137cb99b}" record_timestamp="1426074568105" record_key="wh_main_agent_action_champion_hinder_army_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_champion_hinder_army_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_champion_hinder_army_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_champion_hinder_army_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{b9fc77b2-71b1-4390-9bf8-87a6efaa2185}" record_timestamp="1447332386539" record_key="wh_main_agent_action_champion_hinder_province_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_champion_hinder_province_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>0</actor_effect_bundle_turns>
+<key>wh_main_agent_action_champion_hinder_province_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_champion_hinder_province_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{344b3ca1-3a0a-48b8-b7e9-de819f90cfec}" record_timestamp="1449840658668" record_key="wh_main_agent_action_champion_hinder_settlement_horde_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_champion_hinder_settlement_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_champion_hinder_settlement_horde_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_champion_hinder_settlement_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{3f4507d9-1cc9-4259-85ca-2b4882224427}" record_timestamp="1426074567785" record_key="wh_main_agent_action_champion_hinder_settlement_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_champion_hinder_settlement_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_champion_hinder_settlement_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_champion_hinder_settlement_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{9bb593b9-0f29-4350-bbac-60e69bab98b7}" record_timestamp="1447332386368" record_key="wh_main_agent_action_dignitary_assist_army_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_dignitary_assist_army_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_dignitary_assist_army_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_dignitary_assist_army_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{e135a38c-612f-4c29-834a-b7c5320e1844}" record_timestamp="1447332386539" record_key="wh_main_agent_action_dignitary_assist_province_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_dignitary_assist_province_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>0</actor_effect_bundle_turns>
+<key>wh_main_agent_action_dignitary_assist_province_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_dignitary_assist_province_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{ba129010-a4ce-4976-bcdd-d5289b3d7f9f}" record_timestamp="1426074569456" record_key="wh_main_agent_action_dignitary_hinder_army_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_dignitary_hinder_army_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_dignitary_hinder_army_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_dignitary_hinder_army_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{57f812db-bf19-4efa-b45b-3dd3d913410f}" record_timestamp="1447332386555" record_key="wh_main_agent_action_dignitary_hinder_province_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_dignitary_hinder_province_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>0</actor_effect_bundle_turns>
+<key>wh_main_agent_action_dignitary_hinder_province_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_dignitary_hinder_province_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{349b1384-f635-461e-bf1a-1b9fea8ecf42}" record_timestamp="1426074569856" record_key="wh_main_agent_action_dignitary_hinder_settlement_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_dignitary_hinder_settlement_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_dignitary_hinder_settlement_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_dignitary_hinder_settlement_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{d0d5c6bd-1dd3-4f9a-ad4e-5a57bd2c6c10}" record_timestamp="1459948142324" record_key="wh_main_agent_action_dummy_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_dummy_character</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_dummy_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_dummy_character</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{773816cc-808c-4ef1-a8ff-62e046fda80f}" record_timestamp="1459948142327" record_key="wh_main_agent_action_dummy_critical_failure">
+<actor_effect_bundle>wh_main_bundle_dummy_character</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_dummy_critical_failure</key>
+<target_effect_bundle>wh_main_bundle_dummy_character</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{7bdb2068-c103-43b3-93d0-b89b2210b43f}" record_timestamp="1459948142347" record_key="wh_main_agent_action_dummy_critical_success">
+<actor_effect_bundle>wh_main_bundle_dummy_character</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_dummy_critical_success</key>
+<target_effect_bundle>wh_main_bundle_dummy_character</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{ea309e94-64b2-4a20-a800-076bac4f64d4}" record_timestamp="1459948142349" record_key="wh_main_agent_action_dummy_failure">
+<actor_effect_bundle>wh_main_bundle_dummy_character</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_dummy_failure</key>
+<target_effect_bundle>wh_main_bundle_dummy_character</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{c302b557-e148-48e5-8636-b4b36ce22845}" record_timestamp="1459948142352" record_key="wh_main_agent_action_dummy_success">
+<actor_effect_bundle>wh_main_bundle_dummy_character</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_dummy_success</key>
+<target_effect_bundle>wh_main_bundle_dummy_character</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{11536568-9264-4427-96b0-ecab55972635}" record_timestamp="1447332386399" record_key="wh_main_agent_action_engineer_assist_army_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_engineer_assist_army_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_engineer_assist_army_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_engineer_assist_army_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{7dc9f57f-341f-45a9-b0b2-5d7968738959}" record_timestamp="1447332386586" record_key="wh_main_agent_action_engineer_assist_province_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_engineer_assist_province_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>0</actor_effect_bundle_turns>
+<key>wh_main_agent_action_engineer_assist_province_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_engineer_assist_province_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{63878856-0287-4676-b8b4-fc67715a0df2}" record_timestamp="1426867019815" record_key="wh_main_agent_action_engineer_hinder_army_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_engineer_hinder_army_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_engineer_hinder_army_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_engineer_hinder_army_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{e543cd5f-92fd-461f-aa29-6c3313ee605b}" record_timestamp="1447332386602" record_key="wh_main_agent_action_engineer_hinder_province_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_engineer_hinder_province_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>0</actor_effect_bundle_turns>
+<key>wh_main_agent_action_engineer_hinder_province_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_engineer_hinder_province_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{38f44994-f3ac-4e63-9c9f-66d23a92c03a}" record_timestamp="1426867019815" record_key="wh_main_agent_action_engineer_hinder_settlement_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_engineer_hinder_settlement_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_engineer_hinder_settlement_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_engineer_hinder_settlement_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{41bedd39-a5bb-4220-afc2-6cac1c17a072}" record_timestamp="1447332386430" record_key="wh_main_agent_action_runesmith_assist_army_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_runesmith_assist_army_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_runesmith_assist_army_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_runesmith_assist_army_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{463095c6-31df-4d10-b733-ce3cb13d0c06}" record_timestamp="1447332386617" record_key="wh_main_agent_action_runesmith_assist_province_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_runesmith_assist_province_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>0</actor_effect_bundle_turns>
+<key>wh_main_agent_action_runesmith_assist_province_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_runesmith_assist_province_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{d2fb7879-27f4-49df-b43d-21db114246c9}" record_timestamp="1426867019815" record_key="wh_main_agent_action_runesmith_hinder_army_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_runesmith_hinder_army_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_runesmith_hinder_army_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_runesmith_hinder_army_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{9d292530-df54-46c4-b526-680e572a0da8}" record_timestamp="1447332386633" record_key="wh_main_agent_action_runesmith_hinder_province_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_runesmith_hinder_province_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>0</actor_effect_bundle_turns>
+<key>wh_main_agent_action_runesmith_hinder_province_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_runesmith_hinder_province_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{b01ed174-f72a-4380-8c34-ed9c4b649660}" record_timestamp="1426867019815" record_key="wh_main_agent_action_runesmith_hinder_settlement_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_runesmith_hinder_settlement_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_runesmith_hinder_settlement_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_runesmith_hinder_settlement_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{12d42f0b-e46c-4aa9-89a2-86d0f9db93c6}" record_timestamp="1447332386461" record_key="wh_main_agent_action_spy_assist_army_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_spy_assist_army_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_spy_assist_army_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_spy_assist_army_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{42b5bbdc-c293-4bb9-bf7a-e07790951d6c}" record_timestamp="1447332386649" record_key="wh_main_agent_action_spy_assist_province_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_spy_assist_province_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>0</actor_effect_bundle_turns>
+<key>wh_main_agent_action_spy_assist_province_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_spy_assist_province_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{01f77b09-98e0-4c4a-842d-58fc8d809442}" record_timestamp="1426074574727" record_key="wh_main_agent_action_spy_hinder_army_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_spy_hinder_army_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_spy_hinder_army_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_spy_hinder_army_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{4bbdd241-2b88-4760-acda-facbf730d03f}" record_timestamp="1447332386649" record_key="wh_main_agent_action_spy_hinder_province_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_spy_hinder_province_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>0</actor_effect_bundle_turns>
+<key>wh_main_agent_action_spy_hinder_province_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_spy_hinder_province_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{acc55f3b-39d5-4a8f-844c-900d0cc3a752}" record_timestamp="1426074575387" record_key="wh_main_agent_action_spy_hinder_settlement_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_spy_hinder_settlement_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_spy_hinder_settlement_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_spy_hinder_settlement_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{fb5bc59a-136c-44de-95fb-966e67e1d9eb}" record_timestamp="1447332386493" record_key="wh_main_agent_action_wizard_assist_army_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_wizard_assist_army_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_wizard_assist_army_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_wizard_assist_army_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{8e863a15-cdb0-4e99-a4a2-70acb440499a}" record_timestamp="1447332386664" record_key="wh_main_agent_action_wizard_assist_province_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_wizard_assist_province_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>0</actor_effect_bundle_turns>
+<key>wh_main_agent_action_wizard_assist_province_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_wizard_assist_province_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{9393d59a-bd02-46fc-ab3a-237959ee4ce8}" record_timestamp="1426867019800" record_key="wh_main_agent_action_wizard_hinder_army_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_wizard_hinder_army_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_wizard_hinder_army_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_wizard_hinder_army_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{34e7eb94-e455-4dbd-8d12-f940b0048ca0}" record_timestamp="1447332386680" record_key="wh_main_agent_action_wizard_hinder_province_cannot_fail">
+<actor_effect_bundle>wh_main_bundle_agent_action_wizard_hinder_province_cannot_fail_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>0</actor_effect_bundle_turns>
+<key>wh_main_agent_action_wizard_hinder_province_cannot_fail</key>
+<target_effect_bundle>wh_main_bundle_agent_action_wizard_hinder_province_cannot_fail_target</target_effect_bundle>
+<target_effect_bundle_turns>0</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{570d35cb-ae76-43ae-8fd9-6d62a2b1e90c}" record_timestamp="1449840698458" record_key="wh_main_agent_action_wizard_hinder_settlement_horde_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_wizard_hinder_settlement_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_wizard_hinder_settlement_horde_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_wizard_hinder_settlement_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+<action_results record_uuid="{96542795-6a09-4ea0-8d1a-2ca16487b8d5}" record_timestamp="1426867019800" record_key="wh_main_agent_action_wizard_hinder_settlement_success">
+<actor_effect_bundle>wh_main_bundle_agent_action_wizard_hinder_settlement_success_actor</actor_effect_bundle>
+<actor_effect_bundle_turns>1</actor_effect_bundle_turns>
+<key>wh_main_agent_action_wizard_hinder_settlement_success</key>
+<target_effect_bundle>wh_main_bundle_agent_action_wizard_hinder_settlement_success_target</target_effect_bundle>
+<target_effect_bundle_turns>1</target_effect_bundle_turns>
+</action_results>
+</dataroot>
